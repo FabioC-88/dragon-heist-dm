@@ -1,0 +1,877 @@
+<!DOCTYPE html>
+<html lang="it" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="theme-color" content="#8b5cf6" />
+  <title>party — Dragon Heist Wiki</title>
+  <link rel="stylesheet" href="../style.css" />
+  <style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    :root {
+        --primary: #8b5cf6;
+        --primary-dark: #7c3aed;
+        --primary-light: #a78bfa;
+        --secondary: #06b6d4;
+        --accent: #f59e0b;
+        --dark-bg: #0f172a;
+        --light-bg: #f8fafc;
+        --card-bg: #ffffff;
+        --text-dark: #1e293b;
+        --text-light: #475569;
+        --border: #e2e8f0;
+    }
+    
+    html {
+        scroll-behavior: smooth;
+    }
+    
+    body {
+        font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Trebuchet MS', sans-serif;
+        line-height: 1.7;
+        background: linear-gradient(135deg, var(--light-bg) 0%, #f1f5f9 100%);
+        color: var(--text-dark);
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    /* Header */
+    header {
+        background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+        color: white;
+        padding: 1.5em 2em;
+        box-shadow: 0 4px 12px rgba(139, 92, 246, 0.2);
+        position: sticky;
+        top: 0;
+        z-index: 100;
+    }
+    
+    header .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    header h1 {
+        font-size: 1.5em;
+        margin: 0;
+        font-weight: 600;
+        letter-spacing: -0.5px;
+    }
+    
+    header a {
+        color: white;
+        text-decoration: none;
+        transition: opacity 0.3s;
+    }
+    
+    header a:hover {
+        opacity: 0.8;
+    }
+    
+    .breadcrumbs {
+        font-size: 0.9em;
+        opacity: 0.9;
+    }
+    
+    .breadcrumbs a {
+        color: rgba(255, 255, 255, 0.8);
+        text-decoration: none;
+    }
+    
+    .breadcrumbs a:hover {
+        color: white;
+    }
+    
+    /* Main Container */
+    .page-wrapper {
+        flex: 1;
+        display: flex;
+        max-width: 100%;
+    }
+    
+    .sidebar {
+        width: 280px;
+        background: var(--card-bg);
+        border-right: 1px solid var(--border);
+        padding: 2em 1.5em;
+        overflow-y: auto;
+        max-height: calc(100vh - 80px);
+        position: sticky;
+        top: 80px;
+    }
+    
+    .sidebar h3 {
+        font-size: 1.1em;
+        color: var(--primary-dark);
+        margin-bottom: 1em;
+        padding-bottom: 0.5em;
+        border-bottom: 2px solid var(--primary);
+    }
+    
+    .sidebar nav ul {
+        list-style: none;
+        margin: 0;
+    }
+    
+    .sidebar nav ul li {
+        margin: 0.5em 0;
+    }
+    
+    .sidebar nav a {
+        color: var(--text-light);
+        text-decoration: none;
+        display: block;
+        padding: 0.5em 0.75em;
+        border-radius: 4px;
+        transition: all 0.2s;
+        font-size: 0.95em;
+    }
+    
+    .sidebar nav a:hover {
+        background-color: rgba(139, 92, 246, 0.1);
+        color: var(--primary);
+        padding-left: 1.2em;
+    }
+    
+    /* Content */
+    main {
+        flex: 1;
+        padding: 2.5em;
+        max-width: 900px;
+    }
+    
+    article {
+        background: var(--card-bg);
+        border-radius: 12px;
+        padding: 2.5em;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+        margin-bottom: 2em;
+    }
+    
+    h1 {
+        color: var(--primary-dark);
+        font-size: 2.2em;
+        margin: 0.8em 0 0.4em;
+        font-weight: 700;
+        letter-spacing: -0.5px;
+        border-bottom: 3px solid var(--primary);
+        padding-bottom: 1em;
+    }
+    
+    h2 {
+        color: var(--primary);
+        font-size: 1.6em;
+        margin: 1.3em 0 0.5em;
+        font-weight: 600;
+        letter-spacing: -0.3px;
+    }
+    
+    h3 {
+        color: var(--primary-dark);
+        font-size: 1.2em;
+        margin: 1em 0 0.4em;
+        font-weight: 600;
+    }
+    
+    h4, h5, h6 {
+        color: var(--text-dark);
+        margin: 0.8em 0 0.3em;
+        font-weight: 600;
+    }
+    
+    p {
+        margin-bottom: 1em;
+        color: var(--text-light);
+    }
+    
+    a {
+        color: var(--primary);
+        text-decoration: none;
+        font-weight: 500;
+        transition: all 0.2s;
+    }
+    
+    a:hover {
+        color: var(--primary-dark);
+        text-decoration: underline;
+        text-decoration-thickness: 2px;
+    }
+    
+    code {
+        background-color: rgba(139, 92, 246, 0.1);
+        color: var(--primary-dark);
+        padding: 4px 8px;
+        border-radius: 4px;
+        font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+        font-size: 0.9em;
+        border: 1px solid rgba(139, 92, 246, 0.2);
+    }
+    
+    pre {
+        background-color: var(--dark-bg);
+        color: #e0e7ff;
+        padding: 1.5em;
+        border-radius: 8px;
+        overflow-x: auto;
+        line-height: 1.5;
+        margin: 1.5em 0;
+        border-left: 4px solid var(--primary);
+        box-shadow: 0 4px 12px rgba(139, 92, 246, 0.1);
+    }
+    
+    pre code {
+        background: transparent;
+        color: #e0e7ff;
+        padding: 0;
+        border: none;
+    }
+    
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 1.5em 0;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+    }
+    
+    table thead {
+        background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+    }
+    
+    table th {
+        color: white;
+        padding: 1em;
+        text-align: left;
+        font-weight: 600;
+        font-size: 0.95em;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+    }
+    
+    table td {
+        padding: 1em;
+        border-bottom: 1px solid var(--border);
+        color: var(--text-light);
+    }
+    
+    table tbody tr {
+        transition: all 0.2s;
+    }
+    
+    table tbody tr:hover {
+        background-color: rgba(139, 92, 246, 0.05);
+    }
+    
+    table tbody tr:last-child td {
+        border-bottom: none;
+    }
+    
+    ul, ol {
+        margin: 1em 0 1em 2em;
+        color: var(--text-light);
+    }
+    
+    li {
+        margin: 0.5em 0;
+    }
+    
+    blockquote {
+        border-left: 5px solid var(--primary);
+        margin: 1.5em 0;
+        padding: 1.2em 1.5em;
+        background-color: rgba(139, 92, 246, 0.05);
+        border-radius: 4px;
+        color: var(--text-light);
+        font-style: italic;
+        font-size: 1.05em;
+    }
+    
+    hr {
+        border: none;
+        height: 2px;
+        background: linear-gradient(90deg, transparent, var(--primary), transparent);
+        margin: 2.5em 0;
+    }
+    
+    /* TOC */
+    nav#TOC {
+        background: rgba(139, 92, 246, 0.05);
+        border: 1px solid var(--border);
+        border-radius: 8px;
+        padding: 1.5em;
+        margin: 2em 0;
+        border-left: 4px solid var(--primary);
+    }
+    
+    nav#TOC h2 {
+        margin-top: 0;
+        font-size: 1.2em;
+    }
+    
+    nav#TOC ul {
+        list-style: none;
+        margin: 0;
+    }
+    
+    nav#TOC li {
+        margin: 0.5em 0 0.5em 1.5em;
+        position: relative;
+    }
+    
+    nav#TOC li:before {
+        content: "▸";
+        position: absolute;
+        left: -1.2em;
+        color: var(--primary);
+        font-weight: bold;
+    }
+    
+    nav#TOC a {
+        color: var(--primary);
+    }
+    
+    nav#TOC a:hover {
+        color: var(--primary-dark);
+    }
+    
+    /* Footer */
+    footer {
+        background: var(--dark-bg);
+        color: #cbd5e1;
+        padding: 2em;
+        text-align: center;
+        font-size: 0.9em;
+        border-top: 1px solid var(--border);
+        margin-top: auto;
+    }
+    
+    footer a {
+        color: var(--primary-light);
+    }
+    
+    /* Responsive */
+    @media (max-width: 1024px) {
+        .sidebar {
+            width: 240px;
+            padding: 1.5em 1em;
+        }
+        
+        main {
+            padding: 2em;
+        }
+        
+        article {
+            padding: 2em;
+        }
+    }
+    
+    @media (max-width: 768px) {
+        .page-wrapper {
+            flex-direction: column;
+        }
+        
+        .sidebar {
+            width: 100%;
+            max-height: none;
+            position: static;
+            border-right: none;
+            border-bottom: 1px solid var(--border);
+            padding: 1.5em;
+        }
+        
+        main {
+            padding: 1.5em;
+            max-width: 100%;
+        }
+        
+        article {
+            padding: 1.5em;
+        }
+        
+        h1 {
+            font-size: 1.8em;
+        }
+        
+        h2 {
+            font-size: 1.3em;
+        }
+        
+        h3 {
+            font-size: 1.05em;
+        }
+        
+        header .container {
+            flex-direction: column;
+            gap: 0.5em;
+        }
+        
+        header h1 {
+            font-size: 1.2em;
+        }
+    }
+  </style>
+</head>
+<body>
+<header>
+  <div class="container">
+    <h1><a href="../INDEX.html" class="logo-link">🗺️ Dragon Heist Wiki</a></h1>
+    <div class="breadcrumbs">party</div>
+  </div>
+</header>
+
+<div class="page-wrapper">
+  <aside class="sidebar">
+    <a href="../INDEX.html" class="index-link" style="display: block; margin-bottom: 1.5em; padding: 0.8em 1em; background-color: var(--primary); color: white; text-decoration: none; border-radius: 6px; text-align: center; font-weight: 600; transition: all 0.2s;">📖 Torna all'Indice</a>
+    
+        <h3>📑 Indice Pagina</h3>
+    <nav>
+    <ul>
+    <li><a href="#party-waterdeep-dragon-heist"
+    id="toc-party-waterdeep-dragon-heist">Party — Waterdeep: Dragon
+    Heist</a>
+    <ul>
+    <li><a href="#stato-generale" id="toc-stato-generale">Stato
+    generale</a></li>
+    <li><a href="#personaggi" id="toc-personaggi">Personaggi</a>
+    <ul>
+    <li><a href="#thraximundar"
+    id="toc-thraximundar">Thraximundar</a></li>
+    <li><a href="#razak-kendal" id="toc-razak-kendal">Razak
+    Kendal</a></li>
+    <li><a href="#aelar-moonwhisper-aaravos-caelthir"
+    id="toc-aelar-moonwhisper-aaravos-caelthir">Aelar Moonwhisper
+    <em>(Aaravos Caelthir)</em></a></li>
+    <li><a href="#eric" id="toc-eric">Eric</a></li>
+    <li><a href="#gabri" id="toc-gabri">Gabri</a></li>
+    </ul></li>
+    <li><a href="#pg-ospite" id="toc-pg-ospite">PG Ospite</a>
+    <ul>
+    <li><a href="#barnabus-barney-reed"
+    id="toc-barnabus-barney-reed">Barnabus “Barney” Reed</a></li>
+    </ul></li>
+    </ul></li>
+    </ul>
+    </nav>
+      </aside>
+  
+  <main>
+    <article>
+      <h1 id="party-waterdeep-dragon-heist">Party — Waterdeep: Dragon
+      Heist</h1>
+      <blockquote>
+      <p>Aggiorna questo file dopo ogni sessione o quando un PG subisce
+      cambiamenti rilevanti.</p>
+      </blockquote>
+      <h2 id="stato-generale">Stato generale</h2>
+      <ul>
+      <li><strong>Livello attuale:</strong> 1</li>
+      <li><strong>XP:</strong> 50 / 300 (verso L2)</li>
+      <li><strong>Ultima sessione:</strong> Sessione 1 (Capitolo 1: Atto
+      I + II)</li>
+      <li><strong>Sede base:</strong> Temporanea — Yawning Portal
+      (ospiti di Durnan, 2 notti gratis). Trollskull Manor promesso dopo
+      rescue Floon.</li>
+      </ul>
+      <hr />
+      <h2 id="personaggi">Personaggi</h2>
+      <h3 id="thraximundar">Thraximundar</h3>
+      <p><strong>Giocatore:</strong> Seba <strong>Razza /
+      Classe:</strong> Dragonide · Warlock (Patto: Dendar la Divoratrice
+      di Incubi) <strong>Background:</strong> Magistro Investigatore —
+      Ordine Vigilante dei Magisti e Protettori
+      <strong>Fazione:</strong> Force Grey / Ordine Magisti</p>
+      <table>
+      <tbody>
+      <tr>
+      <td><strong>Livello</strong></td>
+      <td>1</td>
+      </tr>
+      <tr>
+      <td><strong>PF attuali</strong></td>
+      <td>—</td>
+      </tr>
+      <tr>
+      <td><strong>Condizioni</strong></td>
+      <td>—</td>
+      </tr>
+      </tbody>
+      </table>
+      <h4 id="gancio-personale-principale">Gancio personale
+      principale</h4>
+      <p>Il mentore <strong>Brottor Deepdelver</strong> è scomparso
+      durante un’indagine su un caso classificato. L’Ordine nega
+      l’accesso ai dettagli. Thraximundar indaga in parallelo.</p>
+      <h4 id="png-collegati">PNG collegati</h4>
+      <ul>
+      <li><strong>Brottor Deepdelver</strong> — mentore nano, scomparso
+      <em>(obiettivo personale)</em></li>
+      <li><strong>Vajra Safahr</strong> — capo supremo dell’Ordine; ti
+      convoca per rapporto (Force Grey M1 incoming)</li>
+      <li><strong>Barnibus Blastwind</strong> — collega Ordine,
+      collabora con la Guardia</li>
+      <li><strong>Saeth Cromley</strong> — Sergente della Guardia,
+      contatto professionale</li>
+      <li><strong>Durnan</strong> <em>(nuovo, S1)</em> — proprietario
+      Yawning Portal; +1 amichevolezza (post-brawl)</li>
+      <li><strong>Yagra Stonefist</strong> <em>(nuovo, S1)</em> —
+      mezza-orchessa Zhentarim; ha combattuto con te (+1)</li>
+      <li><strong>Volothamp Volo</strong> <em>(nuovo, S1)</em> —
+      quest-giver Floon, genuino (+2)</li>
+      <li><strong>Azzaxell</strong> <em>(nuovo, S1)</em> — barista
+      Skewered Dragon; diffile (-1)</li>
+      <li><strong>Old Xoblob</strong> <em>(nuovo, S1)</em> — gnomo
+      negozio, gentile, utile (+1)</li>
+      <li><strong>Renaer Neverember</strong> <em>(nuovo, S1)</em> —
+      nobile salvato, grato, alleato (+2)</li>
+      </ul>
+      <h4 id="note">Note</h4>
+      <ul>
+      <li>Warlock di Dendar: deve seminare terrore negli altri per
+      placare il patrono ed evitare gli incubi.</li>
+      <li>Membro dell’Ordine Magisti: può accedere alla Torre
+      dell’Ordine, consultare registri, ottenere componenti</li>
+      <li>[S1] Ha combattuto il troll al Portale; Vajra lo convoca per
+      rapporto (Force Grey M1)</li>
+      <li>[S1] Investigates sequestro Floon nel Dock Ward; scopre Renaer
+      come vero bersaglio e Stone of Golorr</li>
+      </ul>
+      <hr />
+      <h3 id="razak-kendal">Razak Kendal</h3>
+      <p><strong>Giocatore:</strong> Mirko <strong>Razza /
+      Classe:</strong> Umano · Monaco (Monastero della Rosa Gialla,
+      Speroni della Terra, Damara) <strong>Background:</strong>
+      Viandante / Latore di presagio <strong>Fazione:</strong> Force
+      Grey <em>(reclutato tramite il presagio di Hlam)</em></p>
+      <table>
+      <tbody>
+      <tr>
+      <td><strong>Livello</strong></td>
+      <td>1</td>
+      </tr>
+      <tr>
+      <td><strong>PF attuali</strong></td>
+      <td>—</td>
+      </tr>
+      <tr>
+      <td><strong>Condizioni</strong></td>
+      <td>—</td>
+      </tr>
+      </tbody>
+      </table>
+      <h4 id="gancio-personale-principale-1">Gancio personale
+      principale</h4>
+      <p>Ha ricevuto dal monaco <strong>Hlam</strong> sul Monte
+      Waterdeep una pergamena sigillata con il presagio: <em>“Che le
+      imprese siano buone o malvagie, sangue innocente sarà versato nel
+      Giorno dei Fondatori.”</em> Ha consegnato la pergamena a Vajra
+      Safahr che lo ha arruolato nelle Mani Grigie.</p>
+      <h4 id="png-collegati-1">PNG collegati</h4>
+      <ul>
+      <li><strong>Hlam</strong> — monaco oracolo del Monte Waterdeep; il
+      presagio è <strong>confermato REALE</strong></li>
+      <li><strong>Vajra Safahr</strong> — l’ha accolto e lo convoca per
+      rapporto (Force Grey M1)</li>
+      <li><strong>Volothamp “Volo” Geddarm</strong> — quest-giver Floon;
+      genuino (+2)</li>
+      <li><strong>Durnan</strong> <em>(nuovo, S1)</em> — proprietario
+      Yawning Portal; neutrale (+0)</li>
+      <li><strong>Yagra Stonefist</strong> <em>(nuovo, S1)</em> — ha
+      combattuto con te nel brawl (+1)</li>
+      <li><strong>Azzaxell</strong> <em>(nuovo, S1)</em> — barista
+      Skewered Dragon; ostile (-1)</li>
+      <li><strong>Old Xoblob</strong> <em>(nuovo, S1)</em> — gnomo del
+      negozio; gentile, informativo (+1)</li>
+      <li><strong>Renaer Neverember</strong> <em>(nuovo, S1)</em> —
+      nobile salvato; grato, spiega il tesoro (+2)</li>
+      </ul>
+      <h4 id="note-sessione-1">Note [Sessione 1]</h4>
+      <ul>
+      <li><strong>Il presagio è confermato REALE</strong> — Hlam
+      sussurra durante l’investigazione</li>
+      <li><strong>Sente la responsabilità personale</strong> — il sangue
+      è già versato, connesso agli eventi</li>
+      <li><strong>Vajra lo convoca per Force Grey M1</strong> —
+      debriefing caos del porto</li>
+      <li>Ha scalato il Monte Waterdeep per trovare Hlam prima ancora di
+      varcare le porte della città</li>
+      </ul>
+      <hr />
+      <h3 id="aelar-moonwhisper-aaravos-caelthir">Aelar Moonwhisper
+      <em>(Aaravos Caelthir)</em></h3>
+      <p><strong>Giocatore:</strong> Berto <strong>Razza /
+      Classe:</strong> Elfo delle stelle · Bardo (Collegio di Fochlucan)
+      <strong>Background:</strong> Viandante tra i piani / Agente
+      Arpisti <strong>Fazione:</strong> Arpisti</p>
+      <table>
+      <tbody>
+      <tr>
+      <td><strong>Livello</strong></td>
+      <td>1</td>
+      </tr>
+      <tr>
+      <td><strong>PF attuali</strong></td>
+      <td>—</td>
+      </tr>
+      <tr>
+      <td><strong>Condizioni</strong></td>
+      <td>—</td>
+      </tr>
+      </tbody>
+      </table>
+      <h4 id="gancio-personale-principale-2">Gancio personale
+      principale</h4>
+      <ul>
+      <li>Cresciuto a Sildëyuir, ha lasciato il semipiano degli elfi
+      delle stelle quando i Nilshai hanno iniziato a infiltrarsi. Sa che
+      queste creature aberranti cercano nuovi varchi nel mondo — lui
+      vuole essere lì se succede.</li>
+      <li>Il patrono arcifata <strong>Trobbio</strong> lo segue. Non ha
+      mai chiesto nulla formalmente. Questo lo preoccupa.</li>
+      </ul>
+      <h4 id="familiare">Familiare</h4>
+      <p><strong>Maestro Bec</strong> — beccaccia con papillon fucsia
+      leggermente storto. Sempre presente. Giudica tutto e tutti con un
+      “Meeep” sibillino. Appare e scompare nei momenti narrativamente
+      significativi. Le altre persone spesso non lo notano.</p>
+      <h4 id="png-collegati-2">PNG collegati</h4>
+      <ul>
+      <li><strong>Mirt il Cambiavalute</strong> — referente Arpisti; ti
+      contatta via uccellino messaggero (M1 incoming)</li>
+      <li><strong>Trobbio</strong> — arcifata patron; segue
+      silenziosamente, imprevedibile</li>
+      <li><strong>Remallia Haventree</strong> — comando Arpisti di alto
+      livello</li>
+      <li><strong>Thessara Vane</strong> — mezz’elfa sorda, mentore al
+      Collegio</li>
+      <li><strong>Durnan</strong> <em>(nuovo, S1)</em> — proprietario
+      Yawning Portal; neutrale (+0)</li>
+      <li><strong>Yagra Stonefist</strong> <em>(nuovo, S1)</em> —
+      mezza-orchessa Zhentarim; ha combattuto con te (+1)</li>
+      <li><strong>Volothamp Volo</strong> <em>(nuovo, S1)</em> —
+      quest-giver Floon; genuino (+2)</li>
+      <li><strong>Azzaxell</strong> <em>(nuovo, S1)</em> — barista
+      Skewered Dragon; ostile (-1)</li>
+      <li><strong>Old Xoblob</strong> <em>(nuovo, S1)</em> — spia
+      Xanathar; gentile; utile (+1)</li>
+      <li><strong>Renaer Neverember</strong> <em>(nuovo, S1)</em> —
+      nobile salvato; grato; info tesoro (+2)</li>
+      </ul>
+      <h4 id="note-sessione-1-1">Note [Sessione 1]</h4>
+      <ul>
+      <li><strong>Mirt manda messaggio via piccione</strong> dopo il
+      brawl al Portale (Arpisti M1 incoming)</li>
+      <li><strong>Il Maestro Bec osserva tutto</strong> — il suo
+      giudizio silenzioso durante il brawl è stato notato</li>
+      <li><strong>Trobbio assente durante S1</strong> — ma presente
+      narrativamente come patron che osserva</li>
+      </ul>
+      <hr />
+      <h3 id="eric">Eric</h3>
+      <p><strong>Giocatore:</strong> Eric <strong>Razza /
+      Classe:</strong> Gnoma · Artefice (specializzazione Armorer a L3,
+      autodidatta) <strong>Background:</strong> Inventrice nativa di
+      Waterdeep; officina in difficoltà finanziarie dopo scomparsa del
+      partner Rennis Coalsworth <strong>Fazione:</strong> Zentharim
+      (contatto primario: Davil Starsong)</p>
+      <table>
+      <tbody>
+      <tr>
+      <td><strong>Livello</strong></td>
+      <td>1</td>
+      </tr>
+      <tr>
+      <td><strong>PF attuali</strong></td>
+      <td>—</td>
+      </tr>
+      <tr>
+      <td><strong>Condizioni</strong></td>
+      <td>—</td>
+      </tr>
+      <tr>
+      <td><strong>Armorer Unlock</strong></td>
+      <td>L3</td>
+      </tr>
+      </tbody>
+      </table>
+      <h4 id="gancio-personale-principale-3">Gancio personale
+      principale</h4>
+      <p>Inventrice nativa di Waterdeep. L’officina era stabile finché
+      il mentore e partner <strong>Rennis Coalsworth</strong> è sparito
+      misteriosamente, senza spiegazioni.</p>
+      <p>Rennis l’aveva insegnato come accedere alla rete di componenti
+      rari e aveva contatti che lei non poteva raggiungere da sola. Con
+      la sua scomparsa, l’officina è entrata in crisi finanziaria.</p>
+      <p><strong>[NOTA DM — Filo Narrativo Riservato]</strong> Rennis
+      accettò una commessa segreta per Manshoon che fallì. Manshoon l’ha
+      rapito e lo tiene prigioniero alle Kolat Towers. Eric non sa nulla
+      di questo — per lei, Rennis è semplicemente… scomparso.</p>
+      <p>Volothamp “Volo” Geddarm l’ha contattata in officina e l’ha
+      invitata al Portale Spalancato. Entra così nel party.</p>
+      <h4 id="png-collegati-3">PNG collegati</h4>
+      <ul>
+      <li><strong>Manshoon</strong> — capo rete Zhentarim a Waterdeep;
+      nemico principale; rapisce Rennis</li>
+      <li><strong>Davil Starsong</strong> — patrono negli Zhentarim; ti
+      usa come operativa di fiducia</li>
+      <li><strong>Rennis Coalsworth</strong> — partner/mentore;
+      scomparso misteriosamente (filo narrativo M4)</li>
+      <li><strong>Volothamp “Volo” Geddarm</strong> <em>(nuovo, S1)</em>
+      — ti ha contattato in officina; genuino (+2)</li>
+      <li><strong>Durnan</strong> <em>(nuovo, S1)</em> — proprietario
+      Yawning Portal; neutrale (+0)</li>
+      <li><strong>Yagra Stonefist</strong> <em>(nuovo, S1)</em> — ha
+      combattuto con te nel brawl; braccio destro Davil (+1)</li>
+      <li><strong>Azzaxell</strong> <em>(nuovo, S1)</em> — barista
+      Skewered Dragon; ostile (-1)</li>
+      <li><strong>Old Xoblob</strong> <em>(nuovo, S1)</em> — spia
+      Xanathar unknown; gentile per ora (+1)</li>
+      <li><strong>Renaer Neverember</strong> <em>(nuovo, S1)</em> —
+      nobile salvato; info su Stone of Golorr (+2)</li>
+      </ul>
+      <h4 id="note-sessione-1-2">Note [Sessione 1]</h4>
+      <ul>
+      <li><strong>Davil ti contatta via Yagra</strong> dopo il brawl
+      (Zentharim M1 incoming)</li>
+      <li><strong>La questline M2-M4</strong> potrebbe rivelare info su
+      Manshoon e Kolat Towers</li>
+      <li><strong>Eric come tech specialist</strong> — Davil ti usa per
+      incarichi dove serve expertise tecnica</li>
+      </ul>
+      <hr />
+      <h3 id="gabri">Gabri</h3>
+      <p><strong>Giocatore:</strong> Gabri <strong>Razza /
+      Classe:</strong> Umano · Paladino (arco verso Oathbreaker)
+      <strong>Background:</strong> Arrivato a Waterdeep in fuga dal suo
+      passato; disillusionato sui “bene assoluto”
+      <strong>Fazione:</strong> Zentharim (contatto primario: Davil
+      Starsong; arco narrativo verso moral erosion)</p>
+      <table>
+      <tbody>
+      <tr>
+      <td><strong>Livello</strong></td>
+      <td>1</td>
+      </tr>
+      <tr>
+      <td><strong>PF attuali</strong></td>
+      <td>—</td>
+      </tr>
+      <tr>
+      <td><strong>Condizioni</strong></td>
+      <td>—</td>
+      </tr>
+      <tr>
+      <td><strong>Voto Paladino</strong></td>
+      <td>Attivo (rottezione prevista L3-L4)</td>
+      </tr>
+      </tbody>
+      </table>
+      <h4 id="gancio-personale-principale-4">Gancio personale
+      principale</h4>
+      <p>Ha incontrato <strong>Aldric</strong> al Portale Spalancato
+      poco dopo il suo arrivo. Aldric è diventato il suo punto di
+      riferimento emotivo — un ex-avventuriero che “capisce” i suoi
+      dubbi meglio di qualunque prete.</p>
+      <p><strong>[NOTA DM]</strong> Aldric <em>è Asmodeo sotto forma
+      mortale</em>. Mantiene il pretesto di mentore umano. Osserva
+      silenziosamente la rottura morale di Gabri attraverso la
+      pragmatica Zentharim, e sottilmente la incoraggia.</p>
+      <p>Centri di Zentharim M1-M3 erodono gradualmente i principi
+      assoluti di Gabri. M4 (assassinio di Skeemo Weirdbottle) è il
+      breaking point dove il voto si spezza, portandolo verso il
+      sottoclass Oathbreaker tra i L3-L4.</p>
+      <h4 id="png-collegati-4">PNG collegati</h4>
+      <ul>
+      <li><strong>Aldric</strong> — amico/mentore al Portale Spalancato;
+      <strong>segretamente Asmodeo travestito</strong></li>
+      <li><strong>Davil Starsong</strong> — contact primario Zentharim;
+      pragmatico, non apertamente crudele</li>
+      <li><strong>Eric</strong> <em>(nuovo, S1)</em> — collega nella
+      questline Zentharim; possibile spalla morale</li>
+      <li><strong>Volothamp “Volo” Geddarm</strong> <em>(nuovo, S1)</em>
+      — chi ti ha invitato al Portale; genuino (+2)</li>
+      <li><strong>Durnan</strong> <em>(nuovo, S1)</em> — proprietario
+      Yawning Portal; neutrale (+0)</li>
+      <li><strong>Yagra Stonefist</strong> <em>(nuovo, S1)</em> — ha
+      combattuto con te nel brawl; braccio Davil (+1)</li>
+      <li><strong>Azzaxell</strong> <em>(nuovo, S1)</em> — barista
+      Skewered Dragon; ostile (-1)</li>
+      <li><strong>Old Xoblob</strong> <em>(nuovo, S1)</em> — spia
+      Xanathar; gentile per ora (+1)</li>
+      <li><strong>Renaer Neverember</strong> <em>(nuovo, S1)</em> —
+      nobile salvato; grato; info tesoro (+2)</li>
+      </ul>
+      <h4 id="note-sessione-1-3">Note [Sessione 1]</h4>
+      <ul>
+      <li><strong>Aldric osserva silenziosamente</strong> il tuo
+      coinvolgimento con Zhentarim (M1-M3 erosione morale)</li>
+      <li><strong>M4 (assassinio Skeemo)</strong> sarà il breaking point
+      verso Oathbreaker L3-L4</li>
+      <li><strong>Davil ti contatta via Yagra</strong> dopo il brawl
+      (Zentharim M1 incoming)</li>
+      <li><strong>Il voto rimane solido fino al L3-L4</strong> — la
+      rottura sarà drammatica, non repentina</li>
+      </ul>
+      <h2 id="pg-ospite">PG Ospite</h2>
+      <h3 id="barnabus-barney-reed">Barnabus “Barney” Reed</h3>
+      <p><strong>Giocatore:</strong> Silvia <em>(presente
+      raramente)</em> <strong>Razza / Classe:</strong> Umano · Guerriero
+      / Sergente della Guardia Cittadina <strong>Background:</strong>
+      Figlio di un agente leggendario della Guardia; promosso per merito
+      accademico <strong>Fazione:</strong> Guardia Cittadina
+      (indipendente; operazioni in grigio non autorizzate)</p>
+      <table>
+      <tbody>
+      <tr>
+      <td><strong>Livello</strong></td>
+      <td>1</td>
+      </tr>
+      <tr>
+      <td><strong>Condizioni</strong></td>
+      <td>—</td>
+      </tr>
+      </tbody>
+      </table>
+      <h4 id="gancio-personale-principale-5">Gancio personale
+      principale</h4>
+      <p>Indaga segretamente sulle sparizioni al porto, aggirandosi il
+      Capitano <strong>Hyustus Staget</strong> che gli blocca l’indagine
+      ufficiale. Ha accettato di collaborare con Volo. Obiettivo
+      personale: incastrare <strong>Urstul Floxin</strong> (sicario
+      Zhentarim).</p>
+      <h4 id="png-collegati-5">PNG collegati</h4>
+      <ul>
+      <li><strong>Hyustus Staget</strong> — Capitano, rivale del padre
+      di Barnabus; gli assegna i turni peggiori deliberatamente</li>
+      <li><strong>Urstul Floxin</strong> — obiettivo principale; sicario
+      Zhentarim sfuggito alla localizzazione magica</li>
+      <li><strong>Saeth Cromley</strong> — collega Sergente; lavora con
+      Barnibus Blastwind dell’Ordine</li>
+      <li><strong>Volo</strong> — informatore; ha preso contatto per
+      indagare insieme sulle sparizioni</li>
+      </ul>
+      <h4 id="nota-per-il-dm">Nota per il DM</h4>
+      <p>Barnabus è Guardia Cittadina che sta <em>indagando</em> sugli
+      Zhentarim — ma il party potrebbe lavorare <em>con</em> gli
+      Zhentarim nelle missioni secondarie. Questa tensione è
+      intenzionale e va gestita quando Silvia è presente.</p>
+    </article>
+  </main>
+</div>
+
+<footer>
+  <p>🎭 <strong>Waterdeep: Dragon Heist</strong> — Wiki Campagna | Ultima modifica: <time>07/04/2026</time></p>
+  <p><a href="../INDEX.html">← Torna al Menu Principale</a></p>
+</footer>
+</body>
+</html>
+

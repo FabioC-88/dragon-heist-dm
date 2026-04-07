@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="it" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="theme-color" content="#8b5cf6" />
+  <title>$if(title)$$title$$endif$ — Dragon Heist Wiki</title>
+  <link rel="stylesheet" href="$if(css)$$css$$else$style.css$endif$" />
+  <style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    :root {
+        --primary: #8b5cf6;
+        --primary-dark: #7c3aed;
+        --primary-light: #a78bfa;
+        --secondary: #06b6d4;
+        --accent: #f59e0b;
+        --dark-bg: #0f172a;
+        --light-bg: #f8fafc;
+        --card-bg: #ffffff;
+        --text-dark: #1e293b;
+        --text-light: #475569;
+        --border: #e2e8f0;
+    }
+    
+    html {
+        scroll-behavior: smooth;
+    }
+    
+    body {
+        font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Trebuchet MS', sans-serif;
+        line-height: 1.7;
+        background: linear-gradient(135deg, var(--light-bg) 0%, #f1f5f9 100%);
+        color: var(--text-dark);
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    /* Header */
+    header {
+        background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+        color: white;
+        padding: 1.5em 2em;
+        box-shadow: 0 4px 12px rgba(139, 92, 246, 0.2);
+        position: sticky;
+        top: 0;
+        z-index: 100;
+    }
+    
+    header .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    header h1 {
+        font-size: 1.5em;
+        margin: 0;
+        font-weight: 600;
+        letter-spacing: -0.5px;
+    }
+    
+    header a {
+        color: white;
+        text-decoration: none;
+        transition: opacity 0.3s;
+    }
+    
+    header a:hover {
+        opacity: 0.8;
+    }
+    
+    .breadcrumbs {
+        font-size: 0.9em;
+        opacity: 0.9;
+    }
+    
+    .breadcrumbs a {
+        color: rgba(255, 255, 255, 0.8);
+        text-decoration: none;
+    }
+    
+    .breadcrumbs a:hover {
+        color: white;
+    }
+    
+    /* Main Container */
+    .page-wrapper {
+        flex: 1;
+        display: flex;
+        max-width: 100%;
+    }
+    
+    .sidebar {
+        width: 280px;
+        background: var(--card-bg);
+        border-right: 1px solid var(--border);
+        padding: 2em 1.5em;
+        overflow-y: auto;
+        max-height: calc(100vh - 80px);
+        position: sticky;
+        top: 80px;
+    }
+    
+    .sidebar h3 {
+        font-size: 1.1em;
+        color: var(--primary-dark);
+        margin-bottom: 1em;
+        padding-bottom: 0.5em;
+        border-bottom: 2px solid var(--primary);
+    }
+    
+    .sidebar nav ul {
+        list-style: none;
+        margin: 0;
+    }
+    
+    .sidebar nav ul li {
+        margin: 0.5em 0;
+    }
+    
+    .sidebar nav a {
+        color: var(--text-light);
+        text-decoration: none;
+        display: block;
+        padding: 0.5em 0.75em;
+        border-radius: 4px;
+        transition: all 0.2s;
+        font-size: 0.95em;
+    }
+    
+    .sidebar nav a:hover {
+        background-color: rgba(139, 92, 246, 0.1);
+        color: var(--primary);
+        padding-left: 1.2em;
+    }
+    
+    /* Content */
+    main {
+        flex: 1;
+        padding: 2.5em;
+        max-width: 900px;
+    }
+    
+    article {
+        background: var(--card-bg);
+        border-radius: 12px;
+        padding: 2.5em;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+        margin-bottom: 2em;
+    }
+    
+    h1 {
+        color: var(--primary-dark);
+        font-size: 2.2em;
+        margin: 0.8em 0 0.4em;
+        font-weight: 700;
+        letter-spacing: -0.5px;
+        border-bottom: 3px solid var(--primary);
+        padding-bottom: 1em;
+    }
+    
+    h2 {
+        color: var(--primary);
+        font-size: 1.6em;
+        margin: 1.3em 0 0.5em;
+        font-weight: 600;
+        letter-spacing: -0.3px;
+    }
+    
+    h3 {
+        color: var(--primary-dark);
+        font-size: 1.2em;
+        margin: 1em 0 0.4em;
+        font-weight: 600;
+    }
+    
+    h4, h5, h6 {
+        color: var(--text-dark);
+        margin: 0.8em 0 0.3em;
+        font-weight: 600;
+    }
+    
+    p {
+        margin-bottom: 1em;
+        color: var(--text-light);
+    }
+    
+    a {
+        color: var(--primary);
+        text-decoration: none;
+        font-weight: 500;
+        transition: all 0.2s;
+    }
+    
+    a:hover {
+        color: var(--primary-dark);
+        text-decoration: underline;
+        text-decoration-thickness: 2px;
+    }
+    
+    code {
+        background-color: rgba(139, 92, 246, 0.1);
+        color: var(--primary-dark);
+        padding: 4px 8px;
+        border-radius: 4px;
+        font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+        font-size: 0.9em;
+        border: 1px solid rgba(139, 92, 246, 0.2);
+    }
+    
+    pre {
+        background-color: var(--dark-bg);
+        color: #e0e7ff;
+        padding: 1.5em;
+        border-radius: 8px;
+        overflow-x: auto;
+        line-height: 1.5;
+        margin: 1.5em 0;
+        border-left: 4px solid var(--primary);
+        box-shadow: 0 4px 12px rgba(139, 92, 246, 0.1);
+    }
+    
+    pre code {
+        background: transparent;
+        color: #e0e7ff;
+        padding: 0;
+        border: none;
+    }
+    
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 1.5em 0;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+    }
+    
+    table thead {
+        background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+    }
+    
+    table th {
+        color: white;
+        padding: 1em;
+        text-align: left;
+        font-weight: 600;
+        font-size: 0.95em;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+    }
+    
+    table td {
+        padding: 1em;
+        border-bottom: 1px solid var(--border);
+        color: var(--text-light);
+    }
+    
+    table tbody tr {
+        transition: all 0.2s;
+    }
+    
+    table tbody tr:hover {
+        background-color: rgba(139, 92, 246, 0.05);
+    }
+    
+    table tbody tr:last-child td {
+        border-bottom: none;
+    }
+    
+    ul, ol {
+        margin: 1em 0 1em 2em;
+        color: var(--text-light);
+    }
+    
+    li {
+        margin: 0.5em 0;
+    }
+    
+    blockquote {
+        border-left: 5px solid var(--primary);
+        margin: 1.5em 0;
+        padding: 1.2em 1.5em;
+        background-color: rgba(139, 92, 246, 0.05);
+        border-radius: 4px;
+        color: var(--text-light);
+        font-style: italic;
+        font-size: 1.05em;
+    }
+    
+    hr {
+        border: none;
+        height: 2px;
+        background: linear-gradient(90deg, transparent, var(--primary), transparent);
+        margin: 2.5em 0;
+    }
+    
+    /* TOC */
+    nav#TOC {
+        background: rgba(139, 92, 246, 0.05);
+        border: 1px solid var(--border);
+        border-radius: 8px;
+        padding: 1.5em;
+        margin: 2em 0;
+        border-left: 4px solid var(--primary);
+    }
+    
+    nav#TOC h2 {
+        margin-top: 0;
+        font-size: 1.2em;
+    }
+    
+    nav#TOC ul {
+        list-style: none;
+        margin: 0;
+    }
+    
+    nav#TOC li {
+        margin: 0.5em 0 0.5em 1.5em;
+        position: relative;
+    }
+    
+    nav#TOC li:before {
+        content: "▸";
+        position: absolute;
+        left: -1.2em;
+        color: var(--primary);
+        font-weight: bold;
+    }
+    
+    nav#TOC a {
+        color: var(--primary);
+    }
+    
+    nav#TOC a:hover {
+        color: var(--primary-dark);
+    }
+    
+    /* Footer */
+    footer {
+        background: var(--dark-bg);
+        color: #cbd5e1;
+        padding: 2em;
+        text-align: center;
+        font-size: 0.9em;
+        border-top: 1px solid var(--border);
+        margin-top: auto;
+    }
+    
+    footer a {
+        color: var(--primary-light);
+    }
+    
+    /* Responsive */
+    @media (max-width: 1024px) {
+        .sidebar {
+            width: 240px;
+            padding: 1.5em 1em;
+        }
+        
+        main {
+            padding: 2em;
+        }
+        
+        article {
+            padding: 2em;
+        }
+    }
+    
+    @media (max-width: 768px) {
+        .page-wrapper {
+            flex-direction: column;
+        }
+        
+        .sidebar {
+            width: 100%;
+            max-height: none;
+            position: static;
+            border-right: none;
+            border-bottom: 1px solid var(--border);
+            padding: 1.5em;
+        }
+        
+        main {
+            padding: 1.5em;
+            max-width: 100%;
+        }
+        
+        article {
+            padding: 1.5em;
+        }
+        
+        h1 {
+            font-size: 1.8em;
+        }
+        
+        h2 {
+            font-size: 1.3em;
+        }
+        
+        h3 {
+            font-size: 1.05em;
+        }
+        
+        header .container {
+            flex-direction: column;
+            gap: 0.5em;
+        }
+        
+        header h1 {
+            font-size: 1.2em;
+        }
+    }
+  </style>
+</head>
+<body>
+<header>
+  <div class="container">
+    <h1><a href="INDEX.html" class="logo-link">🗺️ Dragon Heist Wiki</a></h1>
+    <div class="breadcrumbs">$if(title)$$title$$endif$</div>
+  </div>
+</header>
+
+<div class="page-wrapper">
+  <aside class="sidebar">
+    <a href="INDEX.html" class="index-link" style="display: block; margin-bottom: 1.5em; padding: 0.8em 1em; background-color: var(--primary); color: white; text-decoration: none; border-radius: 6px; text-align: center; font-weight: 600; transition: all 0.2s;">📖 Torna all'Indice</a>
+    
+    $if(toc)$
+    <h3>📑 Indice Pagina</h3>
+    <nav>
+    $toc$
+    </nav>
+    $endif$
+  </aside>
+  
+  <main>
+    <article>
+      $body$
+    </article>
+  </main>
+</div>
+
+<footer>
+  <p>🎭 <strong>Waterdeep: Dragon Heist</strong> — Wiki Campagna | Ultima modifica: <time>$if(date)$$date$$else$Oggi$endif$</time></p>
+  <p><a href="INDEX.html">← Torna al Menu Principale</a></p>
+</footer>
+</body>
+</html>

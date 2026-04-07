@@ -1,0 +1,762 @@
+<!DOCTYPE html>
+<html lang="it" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="theme-color" content="#8b5cf6" />
+  <title>M2-TieniIlResto — Dragon Heist Wiki</title>
+  <link rel="stylesheet" href="../style.css" />
+  <style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    :root {
+        --primary: #8b5cf6;
+        --primary-dark: #7c3aed;
+        --primary-light: #a78bfa;
+        --secondary: #06b6d4;
+        --accent: #f59e0b;
+        --dark-bg: #0f172a;
+        --light-bg: #f8fafc;
+        --card-bg: #ffffff;
+        --text-dark: #1e293b;
+        --text-light: #475569;
+        --border: #e2e8f0;
+    }
+    
+    html {
+        scroll-behavior: smooth;
+    }
+    
+    body {
+        font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Trebuchet MS', sans-serif;
+        line-height: 1.7;
+        background: linear-gradient(135deg, var(--light-bg) 0%, #f1f5f9 100%);
+        color: var(--text-dark);
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    /* Header */
+    header {
+        background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+        color: white;
+        padding: 1.5em 2em;
+        box-shadow: 0 4px 12px rgba(139, 92, 246, 0.2);
+        position: sticky;
+        top: 0;
+        z-index: 100;
+    }
+    
+    header .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    header h1 {
+        font-size: 1.5em;
+        margin: 0;
+        font-weight: 600;
+        letter-spacing: -0.5px;
+    }
+    
+    header a {
+        color: white;
+        text-decoration: none;
+        transition: opacity 0.3s;
+    }
+    
+    header a:hover {
+        opacity: 0.8;
+    }
+    
+    .breadcrumbs {
+        font-size: 0.9em;
+        opacity: 0.9;
+    }
+    
+    .breadcrumbs a {
+        color: rgba(255, 255, 255, 0.8);
+        text-decoration: none;
+    }
+    
+    .breadcrumbs a:hover {
+        color: white;
+    }
+    
+    /* Main Container */
+    .page-wrapper {
+        flex: 1;
+        display: flex;
+        max-width: 100%;
+    }
+    
+    .sidebar {
+        width: 280px;
+        background: var(--card-bg);
+        border-right: 1px solid var(--border);
+        padding: 2em 1.5em;
+        overflow-y: auto;
+        max-height: calc(100vh - 80px);
+        position: sticky;
+        top: 80px;
+    }
+    
+    .sidebar h3 {
+        font-size: 1.1em;
+        color: var(--primary-dark);
+        margin-bottom: 1em;
+        padding-bottom: 0.5em;
+        border-bottom: 2px solid var(--primary);
+    }
+    
+    .sidebar nav ul {
+        list-style: none;
+        margin: 0;
+    }
+    
+    .sidebar nav ul li {
+        margin: 0.5em 0;
+    }
+    
+    .sidebar nav a {
+        color: var(--text-light);
+        text-decoration: none;
+        display: block;
+        padding: 0.5em 0.75em;
+        border-radius: 4px;
+        transition: all 0.2s;
+        font-size: 0.95em;
+    }
+    
+    .sidebar nav a:hover {
+        background-color: rgba(139, 92, 246, 0.1);
+        color: var(--primary);
+        padding-left: 1.2em;
+    }
+    
+    /* Content */
+    main {
+        flex: 1;
+        padding: 2.5em;
+        max-width: 900px;
+    }
+    
+    article {
+        background: var(--card-bg);
+        border-radius: 12px;
+        padding: 2.5em;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+        margin-bottom: 2em;
+    }
+    
+    h1 {
+        color: var(--primary-dark);
+        font-size: 2.2em;
+        margin: 0.8em 0 0.4em;
+        font-weight: 700;
+        letter-spacing: -0.5px;
+        border-bottom: 3px solid var(--primary);
+        padding-bottom: 1em;
+    }
+    
+    h2 {
+        color: var(--primary);
+        font-size: 1.6em;
+        margin: 1.3em 0 0.5em;
+        font-weight: 600;
+        letter-spacing: -0.3px;
+    }
+    
+    h3 {
+        color: var(--primary-dark);
+        font-size: 1.2em;
+        margin: 1em 0 0.4em;
+        font-weight: 600;
+    }
+    
+    h4, h5, h6 {
+        color: var(--text-dark);
+        margin: 0.8em 0 0.3em;
+        font-weight: 600;
+    }
+    
+    p {
+        margin-bottom: 1em;
+        color: var(--text-light);
+    }
+    
+    a {
+        color: var(--primary);
+        text-decoration: none;
+        font-weight: 500;
+        transition: all 0.2s;
+    }
+    
+    a:hover {
+        color: var(--primary-dark);
+        text-decoration: underline;
+        text-decoration-thickness: 2px;
+    }
+    
+    code {
+        background-color: rgba(139, 92, 246, 0.1);
+        color: var(--primary-dark);
+        padding: 4px 8px;
+        border-radius: 4px;
+        font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+        font-size: 0.9em;
+        border: 1px solid rgba(139, 92, 246, 0.2);
+    }
+    
+    pre {
+        background-color: var(--dark-bg);
+        color: #e0e7ff;
+        padding: 1.5em;
+        border-radius: 8px;
+        overflow-x: auto;
+        line-height: 1.5;
+        margin: 1.5em 0;
+        border-left: 4px solid var(--primary);
+        box-shadow: 0 4px 12px rgba(139, 92, 246, 0.1);
+    }
+    
+    pre code {
+        background: transparent;
+        color: #e0e7ff;
+        padding: 0;
+        border: none;
+    }
+    
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 1.5em 0;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+    }
+    
+    table thead {
+        background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+    }
+    
+    table th {
+        color: white;
+        padding: 1em;
+        text-align: left;
+        font-weight: 600;
+        font-size: 0.95em;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+    }
+    
+    table td {
+        padding: 1em;
+        border-bottom: 1px solid var(--border);
+        color: var(--text-light);
+    }
+    
+    table tbody tr {
+        transition: all 0.2s;
+    }
+    
+    table tbody tr:hover {
+        background-color: rgba(139, 92, 246, 0.05);
+    }
+    
+    table tbody tr:last-child td {
+        border-bottom: none;
+    }
+    
+    ul, ol {
+        margin: 1em 0 1em 2em;
+        color: var(--text-light);
+    }
+    
+    li {
+        margin: 0.5em 0;
+    }
+    
+    blockquote {
+        border-left: 5px solid var(--primary);
+        margin: 1.5em 0;
+        padding: 1.2em 1.5em;
+        background-color: rgba(139, 92, 246, 0.05);
+        border-radius: 4px;
+        color: var(--text-light);
+        font-style: italic;
+        font-size: 1.05em;
+    }
+    
+    hr {
+        border: none;
+        height: 2px;
+        background: linear-gradient(90deg, transparent, var(--primary), transparent);
+        margin: 2.5em 0;
+    }
+    
+    /* TOC */
+    nav#TOC {
+        background: rgba(139, 92, 246, 0.05);
+        border: 1px solid var(--border);
+        border-radius: 8px;
+        padding: 1.5em;
+        margin: 2em 0;
+        border-left: 4px solid var(--primary);
+    }
+    
+    nav#TOC h2 {
+        margin-top: 0;
+        font-size: 1.2em;
+    }
+    
+    nav#TOC ul {
+        list-style: none;
+        margin: 0;
+    }
+    
+    nav#TOC li {
+        margin: 0.5em 0 0.5em 1.5em;
+        position: relative;
+    }
+    
+    nav#TOC li:before {
+        content: "▸";
+        position: absolute;
+        left: -1.2em;
+        color: var(--primary);
+        font-weight: bold;
+    }
+    
+    nav#TOC a {
+        color: var(--primary);
+    }
+    
+    nav#TOC a:hover {
+        color: var(--primary-dark);
+    }
+    
+    /* Footer */
+    footer {
+        background: var(--dark-bg);
+        color: #cbd5e1;
+        padding: 2em;
+        text-align: center;
+        font-size: 0.9em;
+        border-top: 1px solid var(--border);
+        margin-top: auto;
+    }
+    
+    footer a {
+        color: var(--primary-light);
+    }
+    
+    /* Responsive */
+    @media (max-width: 1024px) {
+        .sidebar {
+            width: 240px;
+            padding: 1.5em 1em;
+        }
+        
+        main {
+            padding: 2em;
+        }
+        
+        article {
+            padding: 2em;
+        }
+    }
+    
+    @media (max-width: 768px) {
+        .page-wrapper {
+            flex-direction: column;
+        }
+        
+        .sidebar {
+            width: 100%;
+            max-height: none;
+            position: static;
+            border-right: none;
+            border-bottom: 1px solid var(--border);
+            padding: 1.5em;
+        }
+        
+        main {
+            padding: 1.5em;
+            max-width: 100%;
+        }
+        
+        article {
+            padding: 1.5em;
+        }
+        
+        h1 {
+            font-size: 1.8em;
+        }
+        
+        h2 {
+            font-size: 1.3em;
+        }
+        
+        h3 {
+            font-size: 1.05em;
+        }
+        
+        header .container {
+            flex-direction: column;
+            gap: 0.5em;
+        }
+        
+        header h1 {
+            font-size: 1.2em;
+        }
+    }
+  </style>
+</head>
+<body>
+<header>
+  <div class="container">
+    <h1><a href="../INDEX.html" class="logo-link">🗺️ Dragon Heist Wiki</a></h1>
+    <div class="breadcrumbs">M2-TieniIlResto</div>
+  </div>
+</header>
+
+<div class="page-wrapper">
+  <aside class="sidebar">
+    <a href="../INDEX.html" class="index-link" style="display: block; margin-bottom: 1.5em; padding: 0.8em 1em; background-color: var(--primary); color: white; text-decoration: none; border-radius: 6px; text-align: center; font-weight: 600; transition: all 0.2s;">📖 Torna all'Indice</a>
+    
+        <h3>📑 Indice Pagina</h3>
+    <nav>
+    <ul>
+    <li><a href="#missione-2-tieni-il-resto"
+    id="toc-missione-2-tieni-il-resto">Missione 2 — Tieni il Resto</a>
+    <ul>
+    <li><a href="#sinossi" id="toc-sinossi">📖 Sinossi</a></li>
+    <li><a href="#obiettivi" id="toc-obiettivi">🎯 Obiettivi</a></li>
+    <li><a href="#ambientazione" id="toc-ambientazione">🗺️
+    Ambientazione</a></li>
+    <li><a href="#png-chiave" id="toc-png-chiave">👥 PNG Chiave</a></li>
+    <li><a href="#meccaniche-chiave" id="toc-meccaniche-chiave">💡
+    Meccaniche Chiave</a>
+    <ul>
+    <li><a href="#il-messaggio" id="toc-il-messaggio">Il
+    Messaggio</a></li>
+    <li><a href="#skeemo-il-traditore"
+    id="toc-skeemo-il-traditore">Skeemo — Il Traditore</a></li>
+    <li><a href="#le-pozioni-velenate" id="toc-le-pozioni-velenate">Le
+    Pozioni Velenate</a></li>
+    <li><a href="#esvele-rosznar-la-vipera-nera"
+    id="toc-esvele-rosznar-la-vipera-nera">Esvele Rosznar — “La Vipera
+    Nera”</a></li>
+    </ul></li>
+    <li><a href="#tiri-e-prove" id="toc-tiri-e-prove">⚙️ Tiri e
+    Prove</a></li>
+    <li><a href="#trama-narrativa" id="toc-trama-narrativa">🎭 Trama
+    Narrativa</a></li>
+    <li><a href="#ricompense" id="toc-ricompense">🏆 Ricompense</a></li>
+    <li><a href="#connessioni" id="toc-connessioni">🔗
+    Connessioni</a></li>
+    <li><a href="#note-per-il-dm" id="toc-note-per-il-dm">📝 Note per il
+    DM</a></li>
+    <li><a href="#varianti-e-personalizzazioni"
+    id="toc-varianti-e-personalizzazioni">📚 Varianti e
+    Personalizzazioni</a>
+    <ul>
+    <li><a
+    href="#se-il-party-consegna-le-pozioni-senza-avvertire-esvele"
+    id="toc-se-il-party-consegna-le-pozioni-senza-avvertire-esvele">Se
+    il party consegna le pozioni senza avvertire Esvele</a></li>
+    <li><a href="#se-il-party-cattura-skeemo-vivo"
+    id="toc-se-il-party-cattura-skeemo-vivo">Se il party cattura Skeemo
+    vivo</a></li>
+    <li><a
+    href="#se-il-party-vuole-avvertire-esvele-e-infiltrarsi-in-villa-cassalanter"
+    id="toc-se-il-party-vuole-avvertire-esvele-e-infiltrarsi-in-villa-cassalanter">Se
+    il party vuole avvertire Esvele E infiltrarsi in Villa
+    Cassalanter</a></li>
+    </ul></li>
+    </ul></li>
+    </ul>
+    </nav>
+      </aside>
+  
+  <main>
+    <article>
+      <h1 id="missione-2-tieni-il-resto">Missione 2 — Tieni il
+      Resto</h1>
+      <p><strong>Fazione:</strong> <a
+      href="../../Campagna/fazioni.md#zhentarim">Zhentarim</a> |
+      <strong>Livello:</strong> 3 | <strong>Durata:</strong> 2–3
+      ore<br />
+      <strong>Referente:</strong> <a
+      href="../../Campagna/png-incontrati.md#davil-starsong">Davil
+      Starsong</a><br />
+      <strong>Fonte Completa:</strong>
+      <code>Zentharim_Missione2_tieni_il_resto.txt</code></p>
+      <hr />
+      <h2 id="sinossi">📖 Sinossi</h2>
+      <p>Un <strong>serpente volante</strong> porta un messaggio
+      notturno: ritirare pozioni da un alchimista gnomo e consegnarle a
+      una donna in mantello viola. Semplice. Peccato che <strong>le
+      pozioni siano velenate</strong>, l’alchimista <strong>lavori per
+      Manshoon</strong>, e la donna sia <strong>Esvele Rosznar</strong>
+      — una leggendaria ladra-assassina che si credeva morta da un
+      secolo. Il party si trova nel mezzo di un <strong>intrigo tra
+      fazioni</strong> senza saperlo — e le scelte fatte questa notte
+      avranno <strong>conseguenze</strong>.</p>
+      <hr />
+      <h2 id="obiettivi">🎯 Obiettivi</h2>
+      <ol type="1">
+      <li><strong>Ricevere il messaggio</strong> dal serpente
+      volante</li>
+      <li><strong>Incontrare Skeemo Weirdbottle</strong> all’Alchimia
+      Weirdbottle (Trades Ward)</li>
+      <li><strong>Ritirare le pozioni</strong> senza sospetti</li>
+      <li><strong>Consegnare le pozioni</strong> alla donna in mantello
+      viola alla Statua del Cacciatore di Dei</li>
+      <li><strong>Intuire il veleno</strong> (Arcana CD 13) e decidere:
+      consegnare comunque o avvertire?</li>
+      <li><strong>Affrontare le conseguenze</strong> della scelta</li>
+      </ol>
+      <hr />
+      <h2 id="ambientazione">🗺️ Ambientazione</h2>
+      <ul>
+      <li><strong>Alchimia Weirdbottle</strong> — negozio nel Trades
+      Ward (odore di zolfo, cannella)</li>
+      <li><strong>Statua del Cacciatore di Dei</strong> — Castle Ward,
+      landmark iconico</li>
+      <li><strong>Quartiere dei Commerci</strong> — area operativa
+      dell’intrigo</li>
+      </ul>
+      <hr />
+      <h2 id="png-chiave">👥 PNG Chiave</h2>
+      <table>
+      <colgroup>
+      <col style="width: 20%" />
+      <col style="width: 28%" />
+      <col style="width: 52%" />
+      </colgroup>
+      <thead>
+      <tr>
+      <th>PNG</th>
+      <th>Ruolo</th>
+      <th>Affiliazione</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td><strong>Skeemo Weirdbottle</strong></td>
+      <td>Alchimista gnomo</td>
+      <td>Zhentarim (copertura) / <strong>Manshoon</strong> (vero
+      padrone)</td>
+      </tr>
+      <tr>
+      <td><strong>Esvele Rosznar</strong></td>
+      <td>“La Vipera Nera”</td>
+      <td>Indipendente / ladra storica</td>
+      </tr>
+      <tr>
+      <td><strong>Manshoon</strong></td>
+      <td>Wizard antagonista minore</td>
+      <td>Behind the scenes</td>
+      </tr>
+      </tbody>
+      </table>
+      <hr />
+      <h2 id="meccaniche-chiave">💡 Meccaniche Chiave</h2>
+      <h3 id="il-messaggio">Il Messaggio</h3>
+      <p>Un <strong>serpente volante</strong> (magico, non biologico)
+      deposita una pergamena: &gt; “Nel Quartiere dei Commerci c’è un
+      negozio chiamato Alchimia Weirdbottle. Lo gnomo che lo gestisce è
+      un vecchio amico di nome Skeemo, che ha preparato alcune Pozioni
+      di Lettura del Pensiero per un cliente. Ritirate le pozioni e
+      portatele al Cacciatore di Dei, sapete, la statua nel Quartiere
+      del Castello. Troverete una donna con un mantello viola un’ora
+      dopo il tramonto. Consegnatele le pozioni e tenete il pagamento
+      per voi.”</p>
+      <p><strong>Nota:</strong> Nessuna firma. Tipico Zhentarim —
+      operatività sporca.</p>
+      <h3 id="skeemo-il-traditore">Skeemo — Il Traditore</h3>
+      <ul>
+      <li><strong>Apparenza:</strong> Gnomo anziano, capelli bianchi,
+      lenti, grembiule macchiato</li>
+      <li><strong>Personalità:</strong> Cordiale, preciso, raramente
+      turbato</li>
+      <li><strong>Lealtà Pubblica:</strong> Zhentarim (“vecchio
+      amico”)</li>
+      <li><strong>Lealtà Reale:</strong> <strong>Manshoon</strong> — ha
+      avvelenato le pozioni su ordine del suo vero padrone</li>
+      <li><strong>Strategia:</strong> Se il party sospetta, tenta
+      Suggestione (CD 13 Wis Save)</li>
+      </ul>
+      <h3 id="le-pozioni-velenate">Le Pozioni Velenate</h3>
+      <ul>
+      <li><strong>Etichetta:</strong> “Pozioni di Lettura del
+      Pensiero”</li>
+      <li><strong>Realtà:</strong> Contengono un veleno raro che induce
+      morte dopo 2d4 ore</li>
+      <li><strong>Rilevazione:</strong> Arcana CD 13 per riconoscere il
+      veleno; Alchimia CD 14 per analizzare i componenti</li>
+      <li><strong>Rimedi:</strong> Contraddio Magico, Neutralizza
+      Veleno, o antidoto raro</li>
+      </ul>
+      <h3 id="esvele-rosznar-la-vipera-nera">Esvele Rosznar — “La Vipera
+      Nera”</h3>
+      <ul>
+      <li><strong>Leggenda:</strong> Ladra nostra dagli inseguimenti di
+      Waterdeep per <em>decenni</em>, creduta morta</li>
+      <li><strong>Realtà:</strong> Ancora viva, pianifica un colpo a
+      Villa Cassalanter</li>
+      <li><strong>Obiettivo:</strong> Le pozioni dovevano eliminarla su
+      ordine di Manshoon (rivale)</li>
+      <li><strong>Se Avvertita:</strong> Esvele diventa alleata del
+      party (riconoscenza di valore); nemico di Manshoon</li>
+      </ul>
+      <hr />
+      <h2 id="tiri-e-prove">⚙️ Tiri e Prove</h2>
+      <table>
+      <colgroup>
+      <col style="width: 22%" />
+      <col style="width: 14%" />
+      <col style="width: 31%" />
+      <col style="width: 31%" />
+      </colgroup>
+      <thead>
+      <tr>
+      <th>Azione</th>
+      <th>CD</th>
+      <th>Caratteristica</th>
+      <th>Risultato</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>Riconoscere il veleno</td>
+      <td>13</td>
+      <td>Arcana / Alchimia</td>
+      <td>Scopri l’inganno di Skeemo</td>
+      </tr>
+      <tr>
+      <td>Resistere a Suggestione di Skeemo</td>
+      <td>13</td>
+      <td>Salvezza Wis</td>
+      <td>Non sei controllato</td>
+      </tr>
+      <tr>
+      <td>Negoziare con Skeemo</td>
+      <td>12</td>
+      <td>Persuasione/Inganno</td>
+      <td>Informazioni aggiuntive</td>
+      </tr>
+      <tr>
+      <td>Seguire il serpente volante</td>
+      <td>12</td>
+      <td>Percezione</td>
+      <td>Scopri l’origine del messaggio</td>
+      </tr>
+      <tr>
+      <td>Valutare Esvele al Cacciatore</td>
+      <td>13</td>
+      <td>Intuizione</td>
+      <td>Capisci che NON è una minaccia</td>
+      </tr>
+      <tr>
+      <td>Consegnare le pozioni pulite</td>
+      <td>11</td>
+      <td>Inganno</td>
+      <td>Esvele pensa siano genuine</td>
+      </tr>
+      </tbody>
+      </table>
+      <hr />
+      <h2 id="trama-narrativa">🎭 Trama Narrativa</h2>
+      <p><strong>Tema:</strong> Non tutti i veleni sono di Zhentarim — e
+      non tutti i movimenti sono ciò che sembrare.</p>
+      <p><strong>Colpi di Scena:</strong> - Skeemo è il tradizione —
+      lavora secretamente per Manshoon, rivale degli Zhentarim - Esvele
+      Rosznar è <strong>leggenda viva</strong> — se avvertita, diventa
+      alleata formidabile - Consegnare le pozioni consapevolmente =
+      potenziale nemico per Vila Cassalanter (storia collaterale) - Non
+      consegnare = morte certa di Esvele, guadagno morale</p>
+      <hr />
+      <h2 id="ricompense">🏆 Ricompense</h2>
+      <ul>
+      <li><strong>Oro:</strong> 200 mo forniti come “pagamento” dalla
+      donna (se consegna completata)</li>
+      <li><strong>Fama Zhentarim:</strong> +1 (se consegna completata);
+      +3 (se tradimento di Skeemo rivelato)</li>
+      <li><strong>Alleanza Esvele:</strong> Se avvertita, diventa
+      contatto per intel su nobili/Villa Cassalanter</li>
+      <li><strong>Intel Manshoon:</strong> Se catturi Skeemo vivo,
+      scopri che Manshoon lo controlla</li>
+      </ul>
+      <hr />
+      <h2 id="connessioni">🔗 Connessioni</h2>
+      <ul>
+      <li><strong>Collegate a:</strong> <a
+      href="M1-UnBruttoMomento.html">Zentharim M1</a>, <a
+      href="M3-CorriDasher.html">M3</a>, <a
+      href="M4-SangueDeiPatto.html">M4</a></li>
+      <li><strong>Introduce:</strong> <a
+      href="../../Campagna/png-incontrati.html">Skeemo Weirdbottle</a>
+      (traditore di rilievo)</li>
+      <li><strong>Introduce:</strong> <a
+      href="../../Campagna/png-incontrati.html">Esvele Rosznar — La Vipera
+      Nera</a></li>
+      <li><strong>Rivela:</strong> Manshoon come nemico minore, intrighi
+      Zhentarim vs Manshoon</li>
+      <li><strong>Fazione:</strong> <a
+      href="../../Campagna/fazioni.md#zhentarim">Zhentarim</a></li>
+      </ul>
+      <hr />
+      <h2 id="note-per-il-dm">📝 Note per il DM</h2>
+      <ul>
+      <li><strong>Scelta morale centrale:</strong> Consegnare le pozioni
+      = morte di Esvele (potenzialmente bene per trama, male per
+      karma)</li>
+      <li><strong>Skeemo è furbo</strong> — non confesserà facilmente;
+      richiede Inganno o minacce credibili</li>
+      <li><strong>Esvele è PNG ricorrente importante</strong> — se
+      salva, può riapparire in Capitolo 5 con aiuti tattici</li>
+      <li>Se il party scopre il tradimento di Skeemo: conseguenze in M4
+      (Skeemo diventa fuggevole)</li>
+      </ul>
+      <hr />
+      <h2 id="varianti-e-personalizzazioni">📚 Varianti e
+      Personalizzazioni</h2>
+      <h3 id="se-il-party-consegna-le-pozioni-senza-avvertire-esvele">Se
+      il party consegna le pozioni senza avvertire Esvele</h3>
+      <p>Esvele muore. Conseguenza: Manshoon rimane nel background ma
+      scoraggiato. Niente alleanza futura.</p>
+      <h3 id="se-il-party-cattura-skeemo-vivo">Se il party cattura
+      Skeemo vivo</h3>
+      <p>Interrogatorio: rivela che <strong>Manshoon lo controlla
+      magicamente</strong> — connection a M4 e alle Torri di Kolat.</p>
+      <h3
+      id="se-il-party-vuole-avvertire-esvele-e-infiltrarsi-in-villa-cassalanter">Se
+      il party vuole avvertire Esvele E infiltrarsi in Villa
+      Cassalanter</h3>
+      <p>Esvele diventa partner tattico — piano di cooperazione col
+      party per il grande colpo.</p>
+      <hr />
+      <p><strong>Aggiornamento:</strong> 7 Aprile 2026 |
+      <strong>Stato:</strong> Non giocata</p>
+    </article>
+  </main>
+</div>
+
+<footer>
+  <p>🎭 <strong>Waterdeep: Dragon Heist</strong> — Wiki Campagna | Ultima modifica: <time>07/04/2026</time></p>
+  <p><a href="../INDEX.html">← Torna al Menu Principale</a></p>
+</footer>
+</body>
+</html>
+

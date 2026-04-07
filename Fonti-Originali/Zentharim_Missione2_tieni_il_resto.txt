@@ -1,0 +1,154 @@
+﻿WATERDEEP: DRAGON HEIST
+Missione degli Zhentarim — Capitolo 2
+ 
+TIENI IL RESTO
+Una consegna semplice. Un veleno nascosto. Una scelta.
+🐍  4 Personaggi • 3° Livello • Quartiere dei Commerci • Quartiere del Castello  🐍
+SINOSSI
+Un serpente volante porta un messaggio notturno: ritirare delle pozioni da un alchimista gnomo e consegnarle a una donna in mantello viola. Semplice. Peccato che le pozioni siano velenate, l'alchimista lavori per Manshoon, e la donna sia una leggendaria ladra-assassina che si credeva morta da un secolo. Il gruppo si trova nel mezzo di un intrigo tra fazioni senza saperlo — e le scelte che fa questa notte avranno conseguenze.
+	________________
+
+
+Parte I — Il Messaggio
+Il Serpente Volante
+Una notte, dopo che il gruppo ha raggiunto il 3° livello, un serpente volante emerge dall’oscurrità. Non attacca. Ha una pergamena avvolta intorno al corpo. La deposita, poi svanisce nelle ombre con la stessa discrezione con cui è arrivato.
+ 
+📜  IL MESSAGGIO
+«Nel Quartiere dei Commerci c'è un negozio chiamato Alchimia Weirdbottle. Lo gnomo che lo gestisce è un vecchio amico di nome Skeemo, che ha preparato alcune Pozioni di Lettura del Pensiero per un cliente. Ritirate le pozioni e portatele al Cacciatore di Dei, sapete, la statua nel Quartiere del Castello. Troverete una donna con un mantello viola un’ora dopo il tramonto. Consegnatele le pozioni e tenete il pagamento per voi.»
+ 
+Nessuna firma. Nessuna spiegazione. Tipico.
+	 
+Il Quadro Generale (Solo DM)
+Queste informazioni non sono disponibili al gruppo — devono scoprirle da soli, se ci riescono.
+ 
+🔒  INFORMAZIONI RISERVATE AL DM
+La donna in mantello viola: Esvele Rosznar, la Vipera Nera (Appendice B di WDH). Vuole le pozioni per un colpo a Villa Cassalanter.
+Il piano di Skeemo: Skeemo lavora segretamente per Manshoon. Ha avvelenato le pozioni per eliminare Esvele su ordine del suo padrone.
+La posta in gioco: Se il gruppo consegna le pozioni senza avvertire Esvele, lei sarà vittima del veleno e sparirà dalla circolazione per il resto dell’avventura.
+	________________
+
+
+Parte II — Alchimia Weirdbottle
+Il Negozio
+Il negozio è nel Quartiere dei Commerci, riconoscibile dall’insegna con una boccetta fumante. All’interno odora di zolfo, cannella e qualcosa di indefinibile che graffia la gola. Scaffali ordinati, etichette precise, un bancone di legno chiaro. Tutto normale, in superficie.
+ 
+SKEEMO — Alchimista Gnomo (Agente di Manshoon)
+	Aspetto
+	Gnomo anziano, capelli bianchi disordinati, lenti spesse, grembiule macchiato di potions. Sorriso paziente e occhi attenti.
+	Personalità
+	Cordiale, preciso, raramente turbato. Mente con naturalezza — è la sua abilità principale.
+	Lealtà pubblica
+	Zhentarim, vecchio amico. Collabora senza fare domande.
+	Lealtà reale
+	Manshoon. Ha avvelenato le pozioni su ordine del suo vero padrone.
+	Incantesimi chiave
+	Individuazione del Magico (usa sempre prima di fare affari), Suggestione (CD 13 Saggezza)
+	Statistiche
+	Usa le stat del Mago (MM p.346) o dell’Apprendista Mago (MM p.381)
+	 
+Accedere alle Pozioni
+Il comportamento di Skeemo cambia radicalmente a seconda di come si presenta il gruppo:
+ 
+SITUAZIONE
+	RISULTATO / PROVA
+	Entrano come clienti normali
+	Skeemo li accoglie, mostra il listino prezzi. Nessuna menzione di pozioni speciali.
+	Menzionano gli Zhentarim o 'gli affari'
+	Chiude il negozio in anticipo. Allontana altri clienti. Disponibile a trattare solo con membri della Rete Nera.
+	Altri PG non Zhentarim vogliono restare
+	Persuasione o Intimidazione CD 13. Fallimento: non fa affari con loro presenti.
+	Gruppo solo e fidato
+	Lancia Individuazione del Magico per sicurezza. Se tenta di ingannarlo: Suggestione (TS Sag CD 13 o convince ad andarsene). Poi estrae il cofanetto.
+	 
+Il Listino Prezzi (Come Clienti Normali)
+ 
+POZIONE
+	COSTO
+	Pozione di Guarigione
+	50 mo
+	Pozione di Guarigione Superiore
+	250 mo
+	Pozione di Chiaroveggenza
+	250 mo
+	Pozione di Crescita
+	125 mo
+	Pozione di Invulnerabilità
+	250 mo
+	 
+Il Cofanetto
+Quando Skeemo è soddisfatto della situazione, estrae da sotto il bancone un elegante cofanetto foderato di seta nera. Dentro, quattro fialette dal liquido bluastro. Chiude il coperchio, lo fa scorrere sul bancone verso il gruppo e congeda tutti con un sorriso paziente.
+ 
+☠  LE POZIONI SONO VELENATE
+Sono Pozioni del Veleno travestite da Pozioni di Lettura del Pensiero.
+Assaggio: Sembrano normali. Nessuna differenza percettibile.
+Identificare: Rivela la natura velenosa (consulta DMG p.188 per gli effetti). Richiede l’incantesimo, non una semplice prova.
+	________________
+
+
+Parte III — Il Cacciatore di Dei
+La Statua
+Il Cacciatore di Dei è una statua colossale vicino al Mercato, nel Quartiere del Castello — impossibile non vederla. Un'ora dopo il tramonto, quando le strade si svuotano e le torce illuminano i vicoli, una figura solitaria con un mantello viola attende ai piedi della statua.
+ 
+🎭  TESTO DI LETTURA AD ALTA VOCE
+La statua proietta un’ombra lunga nella luce del tramonto. Ai suoi piedi, una figura immobile con un mantello viola scuro aspetta. Non guarda in giro con l’ansia di chi teme di essere seguita — guarda davanti a sé con la pazienza di chi sa che arriverete.
+	 
+La Donna in Mantello Viola
+Si presenta solo come una cliente. Laconica, precisa, non offre informazioni non richieste. Se il gruppo cerca di impegnarsi in conversazione, risponde il minimo indispensabile.
+ 
+🖥  ESVELE ROSZNAR — La Vipera Nera (Identità Segreta)
+Chi è: La Vipera Nera, leggendaria ladra-assassina di nobile famiglia, si credeva morta da un secolo. Appendice B di WDH.
+Scopo: Vuole le pozioni per un colpo a Villa Cassalanter. Non lo dirà al gruppo.
+Riconoscimento: Se il mantello viene rimosso, i PG vedono il suo costume inconfondibile. Lei commenta con sicurezza: «Vedo che la mia reputazione mi precede.»
+	 
+I Momenti Chiave dello Scambio
+ 
+SITUAZIONE
+	RISULTATO / PROVA
+	Consegnano le pozioni senza fare domande
+	Esvele paga: un sacchetto con 15 Soli (monete di platino). Sparisce nelle ombre. Missione completata.
+	Avvertono Esvele del veleno
+	Apprezza il gesto, si assicura di identificarle prima di berle. Paga comunque. Entra in debito con il gruppo (vedi Conseguenze).
+	Tentano di rubarle le monete o tenderle un’imboscata
+	Combattono la Vipera Nera. Non è consigliabile.
+	Provano a scoprire la sua identità (Intuizione CD 15)
+	Percepiscono che c’è qualcosa che nasconde. Il mantello è la risposta — ma lei non lo toglierà volontariamente.
+	________________
+
+
+Parte IV — Conseguenze
+Se il gruppo ha consegnato le pozioni senza avvertire
+Esvele beve le pozioni e viene avvelenata. Diventa troppo debole per i suoi furti e si ritira a vita nobiliare. Se in futuro incontra il gruppo, li riconosce come coloro che le hanno consegnato il veleno.
+ 
+CONSEGUENZA A LUNGO TERMINE: ESVELE AVVELENATA
+Non può accusarli apertamente senza rivelare la sua identità segreta.
+Si limita a tollerarli: +5 alla CD di ogni prova di Carisma con lei.
+Eccezione: Se riescono a convincerla di essere stati all’oscuro del piano di Skeemo (Persuasione CD 16), il malus sparisce.
+	 
+Se il gruppo ha avvertito Esvele
+Esvele identifica le pozioni prima di berle, le neutralizza e inizia ad indagare sull’origine del veleno. Non riesce a risalire direttamente a Skeemo — lui darà la colpa a un apprendista immaginario. Ma è in debito con il gruppo.
+ 
+LA VIPERA NERA COME ALLEATA
+Come contattarla: Tramite i canali Zhentarim. Non risponde ai messaggi diretti.
+Cosa fa: Spionaggio, distrazioni, raccolta di informazioni. Mai combattimento diretto — lavora da sola.
+Limite: Un solo favore significativo. Dopodiché il debito è saldato.
+	 
+Ricompense
+ 
+CONDIZIONE
+	RICOMPENSA
+	Consegna completata
+	15 Soli (monete di platino) da Esvele
+	Successo riferito agli Zhentarim
+	+1 Punto Fama Zhentarim (membri fazione)
+	Punti esperienza
+	250 PE a testa
+	Esvele salvata dal veleno
+	La Vipera Nera come contatto NPC per un favore futuro
+	 
+Note per il Dungeon Master
+* Skeemo è un traditore in piena regola. Il gruppo potrebbe non scoprirlo mai — e va bene così. La verità su di lui è un seme da piantare per sessioni future, non una rivelazione obbligatoria.
+* La scelta di avvertire o non avvertire Esvele non ha una risposta 'giusta'. Avvertirla è moralmente migliore ma significa sabotare implicitamente un piano di Manshoon, con possibili ripercussioni. Non avvertirla rende il gruppo complici inconsapevoli di un tentativo di omicidio.
+* Se il gruppo usa Identificare sulle pozioni prima della consegna, si trova di fronte a una scelta deliberata — non ignoranza. Il DM dovrebbe rispettare questo: sono agenti, non eroi. Possono consegnare il veleno sapendo cosa fanno.
+* La Vipera Nera non dovrebbe mai sembrare una semplice 'ricompensa narrativa'. È una persona con i propri obiettivi. Se usata bene, può tornare in momenti inaspettati — non per salvare il gruppo, ma per i propri scopi, che magari coincidono con i loro.
+ 
+🐍  Fine della Missione  🐍

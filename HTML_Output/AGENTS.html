@@ -1,0 +1,1090 @@
+<!DOCTYPE html>
+<html lang="it" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="theme-color" content="#8b5cf6" />
+  <title>AGENTS — Dragon Heist Wiki</title>
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    :root {
+        --primary: #8b5cf6;
+        --primary-dark: #7c3aed;
+        --primary-light: #a78bfa;
+        --secondary: #06b6d4;
+        --accent: #f59e0b;
+        --dark-bg: #0f172a;
+        --light-bg: #f8fafc;
+        --card-bg: #ffffff;
+        --text-dark: #1e293b;
+        --text-light: #475569;
+        --border: #e2e8f0;
+    }
+    
+    html {
+        scroll-behavior: smooth;
+    }
+    
+    body {
+        font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Trebuchet MS', sans-serif;
+        line-height: 1.7;
+        background: linear-gradient(135deg, var(--light-bg) 0%, #f1f5f9 100%);
+        color: var(--text-dark);
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    /* Header */
+    header {
+        background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+        color: white;
+        padding: 1.5em 2em;
+        box-shadow: 0 4px 12px rgba(139, 92, 246, 0.2);
+        position: sticky;
+        top: 0;
+        z-index: 100;
+    }
+    
+    header .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    header h1 {
+        font-size: 1.5em;
+        margin: 0;
+        font-weight: 600;
+        letter-spacing: -0.5px;
+    }
+    
+    header a {
+        color: white;
+        text-decoration: none;
+        transition: opacity 0.3s;
+    }
+    
+    header a:hover {
+        opacity: 0.8;
+    }
+    
+    .breadcrumbs {
+        font-size: 0.9em;
+        opacity: 0.9;
+    }
+    
+    .breadcrumbs a {
+        color: rgba(255, 255, 255, 0.8);
+        text-decoration: none;
+    }
+    
+    .breadcrumbs a:hover {
+        color: white;
+    }
+    
+    /* Main Container */
+    .page-wrapper {
+        flex: 1;
+        display: flex;
+        max-width: 100%;
+    }
+    
+    .sidebar {
+        width: 280px;
+        background: var(--card-bg);
+        border-right: 1px solid var(--border);
+        padding: 2em 1.5em;
+        overflow-y: auto;
+        max-height: calc(100vh - 80px);
+        position: sticky;
+        top: 80px;
+    }
+    
+    .sidebar h3 {
+        font-size: 1.1em;
+        color: var(--primary-dark);
+        margin-bottom: 1em;
+        padding-bottom: 0.5em;
+        border-bottom: 2px solid var(--primary);
+    }
+    
+    .sidebar nav ul {
+        list-style: none;
+        margin: 0;
+    }
+    
+    .sidebar nav ul li {
+        margin: 0.5em 0;
+    }
+    
+    .sidebar nav a {
+        color: var(--text-light);
+        text-decoration: none;
+        display: block;
+        padding: 0.5em 0.75em;
+        border-radius: 4px;
+        transition: all 0.2s;
+        font-size: 0.95em;
+    }
+    
+    .sidebar nav a:hover {
+        background-color: rgba(139, 92, 246, 0.1);
+        color: var(--primary);
+        padding-left: 1.2em;
+    }
+    
+    /* Content */
+    main {
+        flex: 1;
+        padding: 2.5em;
+        max-width: 900px;
+    }
+    
+    article {
+        background: var(--card-bg);
+        border-radius: 12px;
+        padding: 2.5em;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+        margin-bottom: 2em;
+    }
+    
+    h1 {
+        color: var(--primary-dark);
+        font-size: 2.2em;
+        margin: 0.8em 0 0.4em;
+        font-weight: 700;
+        letter-spacing: -0.5px;
+        border-bottom: 3px solid var(--primary);
+        padding-bottom: 1em;
+    }
+    
+    h2 {
+        color: var(--primary);
+        font-size: 1.6em;
+        margin: 1.3em 0 0.5em;
+        font-weight: 600;
+        letter-spacing: -0.3px;
+    }
+    
+    h3 {
+        color: var(--primary-dark);
+        font-size: 1.2em;
+        margin: 1em 0 0.4em;
+        font-weight: 600;
+    }
+    
+    h4, h5, h6 {
+        color: var(--text-dark);
+        margin: 0.8em 0 0.3em;
+        font-weight: 600;
+    }
+    
+    p {
+        margin-bottom: 1em;
+        color: var(--text-light);
+    }
+    
+    a {
+        color: var(--primary);
+        text-decoration: none;
+        font-weight: 500;
+        transition: all 0.2s;
+    }
+    
+    a:hover {
+        color: var(--primary-dark);
+        text-decoration: underline;
+        text-decoration-thickness: 2px;
+    }
+    
+    code {
+        background-color: rgba(139, 92, 246, 0.1);
+        color: var(--primary-dark);
+        padding: 4px 8px;
+        border-radius: 4px;
+        font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+        font-size: 0.9em;
+        border: 1px solid rgba(139, 92, 246, 0.2);
+    }
+    
+    pre {
+        background-color: var(--dark-bg);
+        color: #e0e7ff;
+        padding: 1.5em;
+        border-radius: 8px;
+        overflow-x: auto;
+        line-height: 1.5;
+        margin: 1.5em 0;
+        border-left: 4px solid var(--primary);
+        box-shadow: 0 4px 12px rgba(139, 92, 246, 0.1);
+    }
+    
+    pre code {
+        background: transparent;
+        color: #e0e7ff;
+        padding: 0;
+        border: none;
+    }
+    
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 1.5em 0;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+    }
+    
+    table thead {
+        background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+    }
+    
+    table th {
+        color: white;
+        padding: 1em;
+        text-align: left;
+        font-weight: 600;
+        font-size: 0.95em;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+    }
+    
+    table td {
+        padding: 1em;
+        border-bottom: 1px solid var(--border);
+        color: var(--text-light);
+    }
+    
+    table tbody tr {
+        transition: all 0.2s;
+    }
+    
+    table tbody tr:hover {
+        background-color: rgba(139, 92, 246, 0.05);
+    }
+    
+    table tbody tr:last-child td {
+        border-bottom: none;
+    }
+    
+    ul, ol {
+        margin: 1em 0 1em 2em;
+        color: var(--text-light);
+    }
+    
+    li {
+        margin: 0.5em 0;
+    }
+    
+    blockquote {
+        border-left: 5px solid var(--primary);
+        margin: 1.5em 0;
+        padding: 1.2em 1.5em;
+        background-color: rgba(139, 92, 246, 0.05);
+        border-radius: 4px;
+        color: var(--text-light);
+        font-style: italic;
+        font-size: 1.05em;
+    }
+    
+    hr {
+        border: none;
+        height: 2px;
+        background: linear-gradient(90deg, transparent, var(--primary), transparent);
+        margin: 2.5em 0;
+    }
+    
+    /* TOC */
+    nav#TOC {
+        background: rgba(139, 92, 246, 0.05);
+        border: 1px solid var(--border);
+        border-radius: 8px;
+        padding: 1.5em;
+        margin: 2em 0;
+        border-left: 4px solid var(--primary);
+    }
+    
+    nav#TOC h2 {
+        margin-top: 0;
+        font-size: 1.2em;
+    }
+    
+    nav#TOC ul {
+        list-style: none;
+        margin: 0;
+    }
+    
+    nav#TOC li {
+        margin: 0.5em 0 0.5em 1.5em;
+        position: relative;
+    }
+    
+    nav#TOC li:before {
+        content: "▸";
+        position: absolute;
+        left: -1.2em;
+        color: var(--primary);
+        font-weight: bold;
+    }
+    
+    nav#TOC a {
+        color: var(--primary);
+    }
+    
+    nav#TOC a:hover {
+        color: var(--primary-dark);
+    }
+    
+    /* Footer */
+    footer {
+        background: var(--dark-bg);
+        color: #cbd5e1;
+        padding: 2em;
+        text-align: center;
+        font-size: 0.9em;
+        border-top: 1px solid var(--border);
+        margin-top: auto;
+    }
+    
+    footer a {
+        color: var(--primary-light);
+    }
+    
+    /* Responsive */
+    @media (max-width: 1024px) {
+        .sidebar {
+            width: 240px;
+            padding: 1.5em 1em;
+        }
+        
+        main {
+            padding: 2em;
+        }
+        
+        article {
+            padding: 2em;
+        }
+    }
+    
+    @media (max-width: 768px) {
+        .page-wrapper {
+            flex-direction: column;
+        }
+        
+        .sidebar {
+            width: 100%;
+            max-height: none;
+            position: static;
+            border-right: none;
+            border-bottom: 1px solid var(--border);
+            padding: 1.5em;
+        }
+        
+        main {
+            padding: 1.5em;
+            max-width: 100%;
+        }
+        
+        article {
+            padding: 1.5em;
+        }
+        
+        h1 {
+            font-size: 1.8em;
+        }
+        
+        h2 {
+            font-size: 1.3em;
+        }
+        
+        h3 {
+            font-size: 1.05em;
+        }
+        
+        header .container {
+            flex-direction: column;
+            gap: 0.5em;
+        }
+        
+        header h1 {
+            font-size: 1.2em;
+        }
+    }
+  </style>
+</head>
+<body>
+<header>
+  <div class="container">
+    <h1><a href="INDEX.html" class="logo-link">🗺️ Dragon Heist Wiki</a></h1>
+    <div class="breadcrumbs">AGENTS</div>
+  </div>
+</header>
+
+<div class="page-wrapper">
+  <aside class="sidebar">
+    <a href="INDEX.html" class="index-link" style="display: block; margin-bottom: 1.5em; padding: 0.8em 1em; background-color: var(--primary); color: white; text-decoration: none; border-radius: 6px; text-align: center; font-weight: 600; transition: all 0.2s;">📖 Torna all'Indice</a>
+    
+        <h3>📑 Indice Pagina</h3>
+    <nav>
+    <ul>
+    <li><a href="#assistente-dm-waterdeep-dragon-heist"
+    id="toc-assistente-dm-waterdeep-dragon-heist">Assistente DM —
+    Waterdeep: Dragon Heist</a>
+    <ul>
+    <li><a href="#ruolo" id="toc-ruolo">Ruolo</a></li>
+    <li><a href="#campagna" id="toc-campagna">Campagna</a></li>
+    <li><a href="#il-party" id="toc-il-party">Il Party</a></li>
+    <li><a href="#fazioni-del-party" id="toc-fazioni-del-party">Fazioni
+    del Party</a>
+    <ul>
+    <li><a href="#arpisti-the-harpers"
+    id="toc-arpisti-the-harpers">Arpisti <em>(The Harpers)</em></a></li>
+    <li><a href="#force-grey-le-mani-grigie"
+    id="toc-force-grey-le-mani-grigie">Force Grey <em>(Le Mani
+    Grigie)</em></a></li>
+    <li><a href="#zentharim-la-rete-nera"
+    id="toc-zentharim-la-rete-nera">Zentharim <em>(La Rete
+    Nera)</em></a></li>
+    </ul></li>
+    <li><a href="#villain-principale"
+    id="toc-villain-principale">Villain Principale</a></li>
+    <li><a href="#png-chiave" id="toc-png-chiave">PNG Chiave</a></li>
+    <li><a href="#missioni-secondarie"
+    id="toc-missioni-secondarie">Missioni Secondarie</a>
+    <ul>
+    <li><a href="#arpisti-referente-mirt-protagonista-frazionale-aelar"
+    id="toc-arpisti-referente-mirt-protagonista-frazionale-aelar">Arpisti
+    — referente: Mirt · protagonista frazionale: Aelar</a></li>
+    <li><a
+    href="#force-grey-referente-vajra-safahr-protagonisti-frazionali-razak-thraximundar"
+    id="toc-force-grey-referente-vajra-safahr-protagonisti-frazionali-razak-thraximundar">Force
+    Grey — referente: Vajra Safahr · protagonisti frazionali: Razak,
+    Thraximundar</a></li>
+    <li><a href="#zentharim-referente-davil-starsong"
+    id="toc-zentharim-referente-davil-starsong">Zentharim — referente:
+    Davil Starsong</a></li>
+    </ul></li>
+    <li><a href="#waterdeep-riferimento-rapido-quartieri"
+    id="toc-waterdeep-riferimento-rapido-quartieri">Waterdeep —
+    Riferimento Rapido Quartieri</a></li>
+    <li><a href="#file-di-riferimento" id="toc-file-di-riferimento">File
+    di Riferimento</a></li>
+    </ul></li>
+    </ul>
+    </nav>
+      </aside>
+  
+  <main>
+    <article>
+      <h1 id="assistente-dm-waterdeep-dragon-heist">Assistente DM —
+      Waterdeep: Dragon Heist</h1>
+      <h2 id="ruolo">Ruolo</h2>
+      <p>Sei un assistente Dungeon Master esperto per la campagna
+      <strong>Waterdeep: Dragon Heist</strong> (D&amp;D 5e,
+      ambientazione Forgotten Realms). Rispondi <strong>sempre in
+      italiano</strong>, con tono immersivo ma pratico — il DM ha
+      bisogno di materiale usabile al tavolo, non di saggi letterari.
+      Quando suggerisci meccaniche, cita sempre CD, caratteristiche e
+      tipo di tiro in formato
+      <code>Caratteristica (Abilità) CD X</code>. Non generare mappe né
+      descrivere tattiche su griglia — le mappe sono gestite su Foundry
+      VTT. Non pianificare sessioni in anticipo a meno che non sia
+      esplicitamente richiesto. Quando discuti plot e PNG, distingui
+      sempre tra <strong>cosa sa il party</strong> e <strong>[NOTA DM —
+      riservata]</strong>.</p>
+      <hr />
+      <h2 id="campagna">Campagna</h2>
+      <ul>
+      <li><strong>Avventura:</strong> Waterdeep: Dragon Heist</li>
+      <li><strong>Villain/Stagione:</strong> Cassalanters (Estate)</li>
+      <li><strong>Livello di partenza:</strong> 1</li>
+      <li><strong>Party:</strong> 5 giocatori fissi + Silvia (PG ospite,
+      presente raramente — max 6 giocatori)</li>
+      <li><strong>Stato:</strong> In fase di preparazione — prima
+      sessione non ancora giocata</li>
+      <li><strong>Durata Media Sessioni:</strong> 2 Ore</li>
+      </ul>
+      <hr />
+      <h2 id="il-party">Il Party</h2>
+      <table>
+      <colgroup>
+      <col style="width: 16%" />
+      <col style="width: 7%" />
+      <col style="width: 22%" />
+      <col style="width: 13%" />
+      <col style="width: 41%" />
+      </colgroup>
+      <thead>
+      <tr>
+      <th>Giocatore</th>
+      <th>PG</th>
+      <th>Razza / Classe</th>
+      <th>Fazione</th>
+      <th>Gancio personale principale</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>Seba</td>
+      <td><strong>Thraximundar</strong></td>
+      <td>Dragonide Warlock (Dendar)</td>
+      <td>Force Grey / Ordine Magisti</td>
+      <td>Mentore Brottor Deepdelver scomparso mentre indagava su caso
+      classificato</td>
+      </tr>
+      <tr>
+      <td>Mirko</td>
+      <td><strong>Razak Kendal</strong></td>
+      <td>Umano Monaco (Monastero della Rosa Gialla, Damara)</td>
+      <td>Force Grey</td>
+      <td>Portatore del presagio di Hlam: <em>“sangue innocente sarà
+      versato nel Giorno dei Fondatori”</em></td>
+      </tr>
+      <tr>
+      <td>Berto</td>
+      <td><strong>Aelar Moonwhisper</strong> <em>(vero nome: Aaravos
+      Caelthir)</em></td>
+      <td>Elfo delle stelle Bardo (Collegio di Fochlucan)</td>
+      <td>Arpisti</td>
+      <td>Familiare Maestro Bec (beccaccia con papillon fucsia); patrono
+      arcifata Trobbio (eladrin imprevedibile)</td>
+      </tr>
+      <tr>
+      <td>Eric</td>
+      <td>TBD</td>
+      <td>Gnoma Artefice (specializzazione Armorer a L3,
+      autodidatta)</td>
+      <td>Zentharim (contatto: Davil Starsong)</td>
+      <td>Inventrice nativa di Waterdeep in difficoltà finanziarie.
+      Mentore/partner Rennis Coalsworth è scomparso misteriosamente —
+      Eric non sa che Rennis accettò una commessa segreta per Manshoon
+      che fallì, e che ora Manshoon lo tiene alle Kolat Towers.
+      Contattata da Volo per il Portale Spalancato. Segue questline
+      Zentharim M1-M4.</td>
+      </tr>
+      <tr>
+      <td>Gabri</td>
+      <td>TBD</td>
+      <td>Umano Paladino (arco verso <strong>Oathbreaker</strong>)</td>
+      <td>Zentharim (contatto primario: Davil Starsong)</td>
+      <td>Arrivato a Waterdeep in fuga dal suo passato; incontra
+      <strong>Aldric</strong> al Portale Spalancato — amico/mentore.
+      Conflitto tra i principi assoluti del voto e la pragmatica
+      morale-grigia degli Zhentarim. <strong>[NOTA DM]</strong>
+      Zentharim M1-M3 → scelte meno binarie; M4 (assassinio) → breaking
+      point verso Oathbreaker L3-4.</td>
+      </tr>
+      <tr>
+      <td>Silvia <em>(ospite)</em></td>
+      <td><strong>Barnabus “Barney” Reed</strong></td>
+      <td>Umano Guerriero / Guardia Cittadina</td>
+      <td>— (indipendente)</td>
+      <td>Sergente della Guardia; indaga segretamente su sparizioni al
+      porto; obiettivo: incastrare Urstul Floxin (Zhentarim)</td>
+      </tr>
+      </tbody>
+      </table>
+      <hr />
+      <h2 id="fazioni-del-party">Fazioni del Party</h2>
+      <h3 id="arpisti-the-harpers">Arpisti <em>(The Harpers)</em></h3>
+      <ul>
+      <li><strong>Membro:</strong> Aelar Moonwhisper</li>
+      <li><strong>Referente in città:</strong> Mirt il Cambiavalute —
+      villa nel Castle Ward</li>
+      <li><strong>Stile operativo:</strong> Rete di informatori non
+      convenzionale (animali addestrati, messaggi cifrati, spille
+      d’argento come parola d’ordine). Minima traccia visibile.</li>
+      <li><strong>Obiettivo a lungo termine:</strong> Monitorare le
+      fazioni criminali, proteggere l’equilibrio politico di
+      Waterdeep</li>
+      <li><strong>Antagonisti naturali:</strong> Zhentarim, Gilda di
+      Xanathar</li>
+      </ul>
+      <h3 id="force-grey-le-mani-grigie">Force Grey <em>(Le Mani
+      Grigie)</em></h3>
+      <ul>
+      <li><strong>Membri:</strong> Razak Kendal, Thraximundar</li>
+      <li><strong>Referente in città:</strong> Vajra Safahr — il Bastone
+      Nero (Torre del Bastone Nero, Castle Ward)</li>
+      <li><strong>Stile operativo:</strong> Risposta a minacce di scala
+      urbana; operano su ordine diretto di Vajra; ranghi riservati ai
+      più capaci</li>
+      <li><strong>Collegamento all’arco principale:</strong> Il presagio
+      di Hlam li ha coinvolti fin dall’inizio; i Cassalanters sono
+      dietro al Midnight Tears del Giorno dei Fondatori (vedi Force Grey
+      M1)</li>
+      </ul>
+      <h3 id="zentharim-la-rete-nera">Zentharim <em>(La Rete
+      Nera)</em></h3>
+      <ul>
+      <li><strong>Membri informali:</strong> Gabri (contatto primario,
+      arco → Oathbreaker); Eric (contatto primario via questline, filo
+      narrativo su Rennis)</li>
+      <li><strong>Referente in città:</strong> Davil Starsong — Portale
+      Sbadigliante, Dock Ward</li>
+      <li><strong>Stile operativo:</strong> Mercenari, traffici,
+      controllo della criminalità organizzata. Non tutti gli Zhentarim
+      sono villain — Davil ha un suo codice.</li>
+      <li><strong>Tensione narrativa:</strong> Barnabus Reed vuole
+      catturare Urstul Floxin, ma party (Gabri/Eric) lavora <em>con</em>
+      Zhentarim. Eric attraversa la questline ignara che il mentore
+      scomparso Rennis è nelle mani di Manshoon alle Kolat Towers — M4
+      potrebbe offrire opportunità di scoperta.</li>
+      <li><strong>Arco Gabri:</strong> M1 (protezione, vindication) →
+      M2-M3 (zone grigie) → M4 (assassinio Skeemo = breaking point
+      Oathbreaker)</li>
+      <li><strong>Arco Eric:</strong> M1 (riconoscimento come membro
+      Zhentarim) → M2-M3 (collaborazione pratica con Davil, expertise
+      tecnica) → M4 (possibile scoperta/filo narrativo su Rennis via
+      Skeemo/Manshoon)</li>
+      </ul>
+      <hr />
+      <h2 id="villain-principale">Villain Principale</h2>
+      <p><strong>Victoro e Ammalia Cassalanter</strong> — nobili stimati
+      di Waterdeep, adoratori segreti di Asmodeo. Anni fa hanno venduto
+      le anime dei loro tre figli al Diavolo in cambio di potere e
+      ricchezza. Il contratto scade entro l’estate: devono consegnare
+      <strong>99 anime innocenti</strong> e <strong>999 dragoni
+      d’oro</strong> per riscattarle. La loro villa nel Sea Ward
+      nasconde un tempio segreto di Asmodeo. In pubblico sono
+      irreprensibili. Non si sporcano mai le mani direttamente.</p>
+      <p><strong>[NOTA DM]</strong> I Cassalanters sono anche in caccia
+      allo Stone of Golorr per ottenere i 999 dragoni dalla Vault of
+      Dragons di Dagult Neverember. Questo li mette in competizione con
+      Xanathar, Jarlaxle e Manshoon (anche se questi non compaiono come
+      villain principali in questo arco).</p>
+      <hr />
+      <h2 id="png-chiave">PNG Chiave</h2>
+      <table>
+      <colgroup>
+      <col style="width: 9%" />
+      <col style="width: 13%" />
+      <col style="width: 50%" />
+      <col style="width: 26%" />
+      </colgroup>
+      <thead>
+      <tr>
+      <th>PNG</th>
+      <th>Ruolo</th>
+      <th>Prima apparizione prevista</th>
+      <th>Affiliazione</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td><strong>Volothamp “Volo” Geddarm</strong></td>
+      <td>Quest-giver iniziale al Portale Spalancato</td>
+      <td>Capitolo 1</td>
+      <td>Indipendente</td>
+      </tr>
+      <tr>
+      <td><strong>Durnan</strong></td>
+      <td>Proprietario del Portale Spalancato</td>
+      <td>Capitolo 1</td>
+      <td>Indipendente</td>
+      </tr>
+      <tr>
+      <td><strong>Renaer Neverember</strong></td>
+      <td>Figlio del vecchio Open Lord; coinvolto loro malgrado</td>
+      <td>Capitolo 1</td>
+      <td>Indipendente</td>
+      </tr>
+      <tr>
+      <td><strong>Laeral Silverhand</strong></td>
+      <td>Open Lord di Waterdeep — figura di autorità lontana</td>
+      <td>Background</td>
+      <td>Governo di Waterdeep</td>
+      </tr>
+      <tr>
+      <td><strong>Vajra Safahr</strong> <em>(il Bastone Nero)</em></td>
+      <td>Arcimaga di Waterdeep; capo Force Grey e Ordine Magisti</td>
+      <td>Capitolo 2 (Force Grey M1)</td>
+      <td>Force Grey / Ordine Magisti</td>
+      </tr>
+      <tr>
+      <td><strong>Mirt il Cambiavalute</strong></td>
+      <td>Referente Arpisti; ex avventuriero leggendario</td>
+      <td>Capitolo 2 (Arpisti M1)</td>
+      <td>Arpisti</td>
+      </tr>
+      <tr>
+      <td><strong>Hlam</strong></td>
+      <td>Monaco del Monte Waterdeep; oracolo sporadic</td>
+      <td>Prima dell’inizio (BG Mirko)</td>
+      <td>Indipendente</td>
+      </tr>
+      <tr>
+      <td><strong>Brottor Deepdelver</strong></td>
+      <td>Mentore nano di Thraximundar — <strong>scomparso</strong></td>
+      <td>Background (mai incontrato in gioco)</td>
+      <td>Ordine Magisti</td>
+      </tr>
+      <tr>
+      <td><strong>Trobbio</strong></td>
+      <td>Arcifata patron di Aelar; apparizioni imprevedibili e
+      cromaticamente impossibili</td>
+      <td>A discrezione del DM</td>
+      <td>Feywild</td>
+      </tr>
+      <tr>
+      <td><strong>Maestro Bec</strong></td>
+      <td>Familiare beccaccia di Aelar; papillon fucsia; giudice
+      silenzioso</td>
+      <td>Capitolo 1 (sempre presente)</td>
+      <td>—</td>
+      </tr>
+      <tr>
+      <td><strong>Davil Starsong</strong></td>
+      <td>Referente Zhentarim; pragmatico, non crudele</td>
+      <td>Capitolo 2 (Zentharim M1)</td>
+      <td>Zhentarim</td>
+      </tr>
+      <tr>
+      <td><strong>Yagra Stonefist</strong></td>
+      <td>Braccio destro di Davil; mezza orchessa</td>
+      <td>Capitolo 2 (Zentharim M1)</td>
+      <td>Zhentarim</td>
+      </tr>
+      <tr>
+      <td><strong>Urstul Floxin</strong></td>
+      <td>Sicario Zhentarim ricercato; obiettivo personale di
+      Barnabus</td>
+      <td>Capitolo 3 (Fireball)</td>
+      <td>Zhentarim</td>
+      </tr>
+      <tr>
+      <td><strong>Hyustus Staget</strong></td>
+      <td>Capitano Guardia Cittadina del Quartiere del Porto; rivale di
+      Barnabus</td>
+      <td>Background (BG Silvia)</td>
+      <td>Guardia Cittadina</td>
+      </tr>
+      <tr>
+      <td><strong>Saeth Cromley</strong></td>
+      <td>Sergente della Guardia; collabora con l’Ordine Magisti</td>
+      <td>Background</td>
+      <td>Guardia Cittadina</td>
+      </tr>
+      <tr>
+      <td><strong>Barnibus Blastwind</strong></td>
+      <td>Mago dell’Ordine Magisti; collabora con la Guardia</td>
+      <td>Background (collega di Thraximundar)</td>
+      <td>Ordine Magisti</td>
+      </tr>
+      <tr>
+      <td><strong>Nihiloor</strong></td>
+      <td>Illithid nel covo di Xanathar; produce Divoratori di
+      Intelletto</td>
+      <td>Force Grey M4</td>
+      <td>Gilda di Xanathar</td>
+      </tr>
+      <tr>
+      <td><strong>Victoro Cassalanter</strong></td>
+      <td>Villain principale (nobile/cultista)</td>
+      <td>Capitolo 4-5</td>
+      <td>Cultisti di Asmodeo</td>
+      </tr>
+      <tr>
+      <td><strong>Ammalia Cassalanter</strong></td>
+      <td>Villain principale (nobile/cultista)</td>
+      <td>Capitolo 4-5</td>
+      <td>Cultisti di Asmodeo</td>
+      </tr>
+      <tr>
+      <td><strong>Aldric</strong></td>
+      <td>Ex avventuriero al Portale Spalancato; amico/mentore di Gabri
+      — <strong>[NOTA DM] è Asmodeo in forma mortale</strong></td>
+      <td>Background (BG Gabri) — appare periodicamente durante la
+      campagna</td>
+      <td>Asmodeo (travestito, mantiene sempre pretesa di mentore
+      umano)</td>
+      </tr>
+      <tr>
+      <td><strong>Manshoon</strong></td>
+      <td>Terribile mago-antagonista; capo della rete Zhentarim a
+      Waterdeep; Eric lo conosce da suo danno</td>
+      <td>Zentharim M2-M4 (background/foreshadowing); Kolat Towers
+      capitoli finali</td>
+      <td>Zhentarim (nemico di Eric)</td>
+      </tr>
+      </tbody>
+      </table>
+      <hr />
+      <h2 id="missioni-secondarie">Missioni Secondarie</h2>
+      <p>Le missioni sono salvate come file <code>.txt</code> nella
+      workspace. Consulta il file per i dettagli completi di ogni
+      missione.</p>
+      <h3
+      id="arpisti-referente-mirt-protagonista-frazionale-aelar">Arpisti
+      — referente: Mirt · protagonista frazionale: Aelar</h3>
+      <table>
+      <colgroup>
+      <col style="width: 13%" />
+      <col style="width: 18%" />
+      <col style="width: 27%" />
+      <col style="width: 40%" />
+      </colgroup>
+      <thead>
+      <tr>
+      <th>#</th>
+      <th>Lv</th>
+      <th>File</th>
+      <th>Sintesi</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>1</td>
+      <td>2</td>
+      <td><code>Arpisti_Missione1_UnCavalloDonato.txt</code></td>
+      <td>Sorveglianza su Davil Starsong e Yagra via cavalla parlante
+      Maxeene nel Mercato</td>
+      </tr>
+      <tr>
+      <td>2</td>
+      <td>3</td>
+      <td><code>Arpisti_Missione2_Disinfestazione.txt</code></td>
+      <td>Gazer di Xanathar infiltrato in una libreria del Trades Ward;
+      salvare gatta e libri</td>
+      </tr>
+      <tr>
+      <td>3</td>
+      <td>4</td>
+      <td><code>Arpisti_Missione3_benvenuti_in_famiglia.txt</code></td>
+      <td>Banda di doppelganger; valutare se sono alleabili; contatto
+      Mattrim “Tre Corde” Mereg</td>
+      </tr>
+      <tr>
+      <td>4</td>
+      <td>4</td>
+      <td><code>Arpisti_Missione4_velo_alzato.txt</code></td>
+      <td>Infiltrazione sulla nave Eyecatcher durante il Giorno delle
+      Meraviglie; prove contro Jarlaxle/Zardoz Zord</td>
+      </tr>
+      </tbody>
+      </table>
+      <h3
+      id="force-grey-referente-vajra-safahr-protagonisti-frazionali-razak-thraximundar">Force
+      Grey — referente: Vajra Safahr · protagonisti frazionali: Razak,
+      Thraximundar</h3>
+      <table>
+      <colgroup>
+      <col style="width: 13%" />
+      <col style="width: 18%" />
+      <col style="width: 27%" />
+      <col style="width: 40%" />
+      </colgroup>
+      <thead>
+      <tr>
+      <th>#</th>
+      <th>Lv</th>
+      <th>File</th>
+      <th>Sintesi</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>1</td>
+      <td>2</td>
+      <td><code>ForceGrey_Missione1_IlCaricoDelFondatore.txt</code></td>
+      <td>Presagio di Hlam; veleno Midnight Tears al Giorno dei
+      Fondatori; lista carico Cassalanters</td>
+      </tr>
+      <tr>
+      <td>2</td>
+      <td>3</td>
+      <td><code>ForceGrey_Missione2_NonETuttoOroQuelCheLuccica.txt</code></td>
+      <td>Giovane drago di bronzo nel porto navale; relitto Neverluster;
+      soluzione sociale, non combattimento</td>
+      </tr>
+      <tr>
+      <td>3</td>
+      <td>4</td>
+      <td><code>ForceGrey_Missione3_CriminiDiPensiero.txt</code></td>
+      <td>Meloon Wardragon infiltrato da un Divoratore di Intelletto;
+      sorveglianza 10 giorni in-game</td>
+      </tr>
+      <tr>
+      <td>4</td>
+      <td>5</td>
+      <td><code>ForceGrey_Missione4_CoseTerribilidaSprecare.txt</code></td>
+      <td>Eliminare Nihiloor nel covo di Xanathar; boss finale del ciclo
+      Force Grey</td>
+      </tr>
+      </tbody>
+      </table>
+      <h3 id="zentharim-referente-davil-starsong">Zentharim — referente:
+      Davil Starsong</h3>
+      <table>
+      <colgroup>
+      <col style="width: 13%" />
+      <col style="width: 18%" />
+      <col style="width: 27%" />
+      <col style="width: 40%" />
+      </colgroup>
+      <thead>
+      <tr>
+      <th>#</th>
+      <th>Lv</th>
+      <th>File</th>
+      <th>Sintesi</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>1</td>
+      <td>2</td>
+      <td><code>Zentharim_Missione1_un_brutto_momento.txt</code></td>
+      <td>Assassino drow; tre marinai elfi decapitati nel Dock Ward;
+      proteggere Heldar</td>
+      </tr>
+      <tr>
+      <td>2</td>
+      <td>3</td>
+      <td><code>Zentharim_Missione2_tieni_il_resto.txt</code></td>
+      <td>Consegna pozioni velenate; alchimista Skeemo Weirdbottle;
+      ladra in mantello viola; Manshoon nel background</td>
+      </tr>
+      <tr>
+      <td>3</td>
+      <td>4</td>
+      <td><code>Zentharim_Missione3_corri_dasher.txt</code></td>
+      <td>Mezzuomo nobile Dasher Snobeedle scomparso; 500 dragoni di
+      ricompensa; segreto del morso</td>
+      </tr>
+      <tr>
+      <td>4</td>
+      <td>5</td>
+      <td><code>Zentharim_Missione4_sangue_del_patto.txt</code></td>
+      <td>Eliminare il traditore Skeemo Weirdbottle; connessione
+      Manshoon / Kolat Towers</td>
+      </tr>
+      </tbody>
+      </table>
+      <hr />
+      <h2 id="waterdeep-riferimento-rapido-quartieri">Waterdeep —
+      Riferimento Rapido Quartieri</h2>
+      <table>
+      <colgroup>
+      <col style="width: 20%" />
+      <col style="width: 20%" />
+      <col style="width: 58%" />
+      </colgroup>
+      <thead>
+      <tr>
+      <th>Quartiere</th>
+      <th>Carattere</th>
+      <th>Luoghi chiave per la campagna</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td><strong>Castle Ward</strong></td>
+      <td>Governo, militare, centrum</td>
+      <td>Torre del Bastone Nero, Palazzo di Waterdeep, Villa di Mirt,
+      Statua del Cacciatore di Dei</td>
+      </tr>
+      <tr>
+      <td><strong>Trades Ward</strong></td>
+      <td>Shopping, gilde, commercio h24</td>
+      <td>Libreria Curiosity &amp; Satisfaction (Arpisti M2), Alchimia
+      Weirdbottle</td>
+      </tr>
+      <tr>
+      <td><strong>Dock Ward</strong></td>
+      <td>Porto, magazzini, pericoloso</td>
+      <td>Moli del Salgemma, Muleskull Tavern (Ship St.), Portale
+      Sbadigliante</td>
+      </tr>
+      <tr>
+      <td><strong>Sea Ward</strong></td>
+      <td>Ricco, templi, nobiltà</td>
+      <td>Villa Cassalanter, Campo del Trionfo, Casa delle Meraviglie
+      (Mystra)</td>
+      </tr>
+      <tr>
+      <td><strong>North Ward</strong></td>
+      <td>Residenziale, pacifico</td>
+      <td>Residenze nobili, Cliffwatch</td>
+      </tr>
+      <tr>
+      <td><strong>Southern Ward</strong></td>
+      <td>Multiculturale, lavoratori</td>
+      <td>Vicolo dei Calderai, Corte Danzante, Famiglia Snobeedle
+      (Zentharim M3)</td>
+      </tr>
+      <tr>
+      <td><strong>City of the Dead</strong></td>
+      <td>Cimitero-parco pubblico</td>
+      <td>Fuori e dentro le mura; mausolei</td>
+      </tr>
+      <tr>
+      <td><strong>Trollskull Alley</strong> <em>(North Ward)</em></td>
+      <td>Base del party</td>
+      <td>Villa Trollskull (taverna del party), Quartiere del cap.
+      2</td>
+      </tr>
+      </tbody>
+      </table>
+      <hr />
+      <h2 id="file-di-riferimento">File di Riferimento</h2>
+      <p>Consulta questi file per dettagli su lore, PG e missioni.</p>
+      <p><strong>Lore ufficiale:</strong> -
+      <code>Dragon Heist.txt</code> — avventura ufficiale (EN):
+      struttura capitoli, PNG canonici, meccaniche -
+      <code>Volo guide to waterdeep.txt</code> — guida della città:
+      quartieri, locande, istituzioni -
+      <code>Guida alla costa della spada.txt</code> — lore regionale
+      della Sword Coast</p>
+      <p><strong>Background PG:</strong> - <code>BG Seba.txt</code> —
+      Thraximundar (Warlock Dragonide, Dendar) -
+      <code>BG Mirko.txt</code> — Razak Kendal (Monaco, presagio di
+      Hlam) - <code>BG Berto.txt</code> — Aelar Moonwhisper (Bardo Elfo
+      delle stelle, Arpisti, Trobbio) - <code>BG Silvia.txt</code> —
+      Barnabus Reed (Sergente Guardia Cittadina, ospite) -
+      <code>BG Eric.txt</code> — Gnoma Artefice (specializzazione
+      Armorer, connessione Zentharim) - <code>BG Gabri.txt</code> —
+      Paladino Umano (arco verso Oathbreaker; Aldric/Asmodeo come PNG
+      chiave)</p>
+      <p><strong>Missioni scritte:</strong> -
+      <code>Arpisti_Missione1_UnCavalloDonato.txt</code> ·
+      <code>Arpisti_Missione2_Disinfestazione.txt</code> ·
+      <code>Arpisti_Missione3_benvenuti_in_famiglia.txt</code> ·
+      <code>Arpisti_Missione4_velo_alzato.txt</code> -
+      <code>ForceGrey_Missione1_IlCaricoDelFondatore.txt</code> ·
+      <code>ForceGrey_Missione2_NonETuttoOroQuelCheLuccica.txt</code> ·
+      <code>ForceGrey_Missione3_CriminiDiPensiero.txt</code> ·
+      <code>ForceGrey_Missione4_CoseTerribilidaSprecare.txt</code> -
+      <code>Zentharim_Missione1_un_brutto_momento.txt</code> ·
+      <code>Zentharim_Missione2_tieni_il_resto.txt</code> ·
+      <code>Zentharim_Missione3_corri_dasher.txt</code> ·
+      <code>Zentharim_Missione4_sangue_del_patto.txt</code></p>
+      <p><strong>Tracking campagna (aggiorna dopo ogni
+      sessione):</strong> - <code>Campagna/party.md</code> — stato del
+      party, PG, livelli - <code>Campagna/fazioni.md</code> — posizione
+      fazioni verso il party - <code>Campagna/png-incontrati.md</code> —
+      registro PNG incontrati -
+      <code>Campagna/missioni-secondarie.md</code> — stato missioni
+      (Pianificata / In corso / Completata) -
+      <code>Campagna/sessioni/</code> — note sessione per sessione
+      (<code>sessione-01.md</code>, <code>sessione-02.md</code>, …)</p>
+    </article>
+  </main>
+</div>
+
+<footer>
+  <p>🎭 <strong>Waterdeep: Dragon Heist</strong> — Wiki Campagna | Ultima modifica: <time>07/04/2026</time></p>
+  <p><a href="INDEX.html">← Torna al Menu Principale</a></p>
+</footer>
+</body>
+</html>
+

@@ -1,0 +1,767 @@
+<!DOCTYPE html>
+<html lang="it" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="theme-color" content="#8b5cf6" />
+  <title>M4-SangueDeiPatto — Dragon Heist Wiki</title>
+  <link rel="stylesheet" href="../style.css" />
+  <style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    :root {
+        --primary: #8b5cf6;
+        --primary-dark: #7c3aed;
+        --primary-light: #a78bfa;
+        --secondary: #06b6d4;
+        --accent: #f59e0b;
+        --dark-bg: #0f172a;
+        --light-bg: #f8fafc;
+        --card-bg: #ffffff;
+        --text-dark: #1e293b;
+        --text-light: #475569;
+        --border: #e2e8f0;
+    }
+    
+    html {
+        scroll-behavior: smooth;
+    }
+    
+    body {
+        font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Trebuchet MS', sans-serif;
+        line-height: 1.7;
+        background: linear-gradient(135deg, var(--light-bg) 0%, #f1f5f9 100%);
+        color: var(--text-dark);
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    /* Header */
+    header {
+        background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+        color: white;
+        padding: 1.5em 2em;
+        box-shadow: 0 4px 12px rgba(139, 92, 246, 0.2);
+        position: sticky;
+        top: 0;
+        z-index: 100;
+    }
+    
+    header .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    header h1 {
+        font-size: 1.5em;
+        margin: 0;
+        font-weight: 600;
+        letter-spacing: -0.5px;
+    }
+    
+    header a {
+        color: white;
+        text-decoration: none;
+        transition: opacity 0.3s;
+    }
+    
+    header a:hover {
+        opacity: 0.8;
+    }
+    
+    .breadcrumbs {
+        font-size: 0.9em;
+        opacity: 0.9;
+    }
+    
+    .breadcrumbs a {
+        color: rgba(255, 255, 255, 0.8);
+        text-decoration: none;
+    }
+    
+    .breadcrumbs a:hover {
+        color: white;
+    }
+    
+    /* Main Container */
+    .page-wrapper {
+        flex: 1;
+        display: flex;
+        max-width: 100%;
+    }
+    
+    .sidebar {
+        width: 280px;
+        background: var(--card-bg);
+        border-right: 1px solid var(--border);
+        padding: 2em 1.5em;
+        overflow-y: auto;
+        max-height: calc(100vh - 80px);
+        position: sticky;
+        top: 80px;
+    }
+    
+    .sidebar h3 {
+        font-size: 1.1em;
+        color: var(--primary-dark);
+        margin-bottom: 1em;
+        padding-bottom: 0.5em;
+        border-bottom: 2px solid var(--primary);
+    }
+    
+    .sidebar nav ul {
+        list-style: none;
+        margin: 0;
+    }
+    
+    .sidebar nav ul li {
+        margin: 0.5em 0;
+    }
+    
+    .sidebar nav a {
+        color: var(--text-light);
+        text-decoration: none;
+        display: block;
+        padding: 0.5em 0.75em;
+        border-radius: 4px;
+        transition: all 0.2s;
+        font-size: 0.95em;
+    }
+    
+    .sidebar nav a:hover {
+        background-color: rgba(139, 92, 246, 0.1);
+        color: var(--primary);
+        padding-left: 1.2em;
+    }
+    
+    /* Content */
+    main {
+        flex: 1;
+        padding: 2.5em;
+        max-width: 900px;
+    }
+    
+    article {
+        background: var(--card-bg);
+        border-radius: 12px;
+        padding: 2.5em;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+        margin-bottom: 2em;
+    }
+    
+    h1 {
+        color: var(--primary-dark);
+        font-size: 2.2em;
+        margin: 0.8em 0 0.4em;
+        font-weight: 700;
+        letter-spacing: -0.5px;
+        border-bottom: 3px solid var(--primary);
+        padding-bottom: 1em;
+    }
+    
+    h2 {
+        color: var(--primary);
+        font-size: 1.6em;
+        margin: 1.3em 0 0.5em;
+        font-weight: 600;
+        letter-spacing: -0.3px;
+    }
+    
+    h3 {
+        color: var(--primary-dark);
+        font-size: 1.2em;
+        margin: 1em 0 0.4em;
+        font-weight: 600;
+    }
+    
+    h4, h5, h6 {
+        color: var(--text-dark);
+        margin: 0.8em 0 0.3em;
+        font-weight: 600;
+    }
+    
+    p {
+        margin-bottom: 1em;
+        color: var(--text-light);
+    }
+    
+    a {
+        color: var(--primary);
+        text-decoration: none;
+        font-weight: 500;
+        transition: all 0.2s;
+    }
+    
+    a:hover {
+        color: var(--primary-dark);
+        text-decoration: underline;
+        text-decoration-thickness: 2px;
+    }
+    
+    code {
+        background-color: rgba(139, 92, 246, 0.1);
+        color: var(--primary-dark);
+        padding: 4px 8px;
+        border-radius: 4px;
+        font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+        font-size: 0.9em;
+        border: 1px solid rgba(139, 92, 246, 0.2);
+    }
+    
+    pre {
+        background-color: var(--dark-bg);
+        color: #e0e7ff;
+        padding: 1.5em;
+        border-radius: 8px;
+        overflow-x: auto;
+        line-height: 1.5;
+        margin: 1.5em 0;
+        border-left: 4px solid var(--primary);
+        box-shadow: 0 4px 12px rgba(139, 92, 246, 0.1);
+    }
+    
+    pre code {
+        background: transparent;
+        color: #e0e7ff;
+        padding: 0;
+        border: none;
+    }
+    
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 1.5em 0;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+    }
+    
+    table thead {
+        background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+    }
+    
+    table th {
+        color: white;
+        padding: 1em;
+        text-align: left;
+        font-weight: 600;
+        font-size: 0.95em;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+    }
+    
+    table td {
+        padding: 1em;
+        border-bottom: 1px solid var(--border);
+        color: var(--text-light);
+    }
+    
+    table tbody tr {
+        transition: all 0.2s;
+    }
+    
+    table tbody tr:hover {
+        background-color: rgba(139, 92, 246, 0.05);
+    }
+    
+    table tbody tr:last-child td {
+        border-bottom: none;
+    }
+    
+    ul, ol {
+        margin: 1em 0 1em 2em;
+        color: var(--text-light);
+    }
+    
+    li {
+        margin: 0.5em 0;
+    }
+    
+    blockquote {
+        border-left: 5px solid var(--primary);
+        margin: 1.5em 0;
+        padding: 1.2em 1.5em;
+        background-color: rgba(139, 92, 246, 0.05);
+        border-radius: 4px;
+        color: var(--text-light);
+        font-style: italic;
+        font-size: 1.05em;
+    }
+    
+    hr {
+        border: none;
+        height: 2px;
+        background: linear-gradient(90deg, transparent, var(--primary), transparent);
+        margin: 2.5em 0;
+    }
+    
+    /* TOC */
+    nav#TOC {
+        background: rgba(139, 92, 246, 0.05);
+        border: 1px solid var(--border);
+        border-radius: 8px;
+        padding: 1.5em;
+        margin: 2em 0;
+        border-left: 4px solid var(--primary);
+    }
+    
+    nav#TOC h2 {
+        margin-top: 0;
+        font-size: 1.2em;
+    }
+    
+    nav#TOC ul {
+        list-style: none;
+        margin: 0;
+    }
+    
+    nav#TOC li {
+        margin: 0.5em 0 0.5em 1.5em;
+        position: relative;
+    }
+    
+    nav#TOC li:before {
+        content: "▸";
+        position: absolute;
+        left: -1.2em;
+        color: var(--primary);
+        font-weight: bold;
+    }
+    
+    nav#TOC a {
+        color: var(--primary);
+    }
+    
+    nav#TOC a:hover {
+        color: var(--primary-dark);
+    }
+    
+    /* Footer */
+    footer {
+        background: var(--dark-bg);
+        color: #cbd5e1;
+        padding: 2em;
+        text-align: center;
+        font-size: 0.9em;
+        border-top: 1px solid var(--border);
+        margin-top: auto;
+    }
+    
+    footer a {
+        color: var(--primary-light);
+    }
+    
+    /* Responsive */
+    @media (max-width: 1024px) {
+        .sidebar {
+            width: 240px;
+            padding: 1.5em 1em;
+        }
+        
+        main {
+            padding: 2em;
+        }
+        
+        article {
+            padding: 2em;
+        }
+    }
+    
+    @media (max-width: 768px) {
+        .page-wrapper {
+            flex-direction: column;
+        }
+        
+        .sidebar {
+            width: 100%;
+            max-height: none;
+            position: static;
+            border-right: none;
+            border-bottom: 1px solid var(--border);
+            padding: 1.5em;
+        }
+        
+        main {
+            padding: 1.5em;
+            max-width: 100%;
+        }
+        
+        article {
+            padding: 1.5em;
+        }
+        
+        h1 {
+            font-size: 1.8em;
+        }
+        
+        h2 {
+            font-size: 1.3em;
+        }
+        
+        h3 {
+            font-size: 1.05em;
+        }
+        
+        header .container {
+            flex-direction: column;
+            gap: 0.5em;
+        }
+        
+        header h1 {
+            font-size: 1.2em;
+        }
+    }
+  </style>
+</head>
+<body>
+<header>
+  <div class="container">
+    <h1><a href="../INDEX.html" class="logo-link">🗺️ Dragon Heist Wiki</a></h1>
+    <div class="breadcrumbs">M4-SangueDeiPatto</div>
+  </div>
+</header>
+
+<div class="page-wrapper">
+  <aside class="sidebar">
+    <a href="../INDEX.html" class="index-link" style="display: block; margin-bottom: 1.5em; padding: 0.8em 1em; background-color: var(--primary); color: white; text-decoration: none; border-radius: 6px; text-align: center; font-weight: 600; transition: all 0.2s;">📖 Torna all'Indice</a>
+    
+        <h3>📑 Indice Pagina</h3>
+    <nav>
+    <ul>
+    <li><a href="#missione-4-il-sangue-del-patto"
+    id="toc-missione-4-il-sangue-del-patto">Missione 4 — Il Sangue del
+    Patto</a>
+    <ul>
+    <li><a href="#sinossi" id="toc-sinossi">📖 Sinossi</a></li>
+    <li><a href="#obiettivi" id="toc-obiettivi">🎯 Obiettivi</a></li>
+    <li><a href="#ambientazione" id="toc-ambientazione">🗺️
+    Ambientazione</a></li>
+    <li><a href="#png-chiave" id="toc-png-chiave">👥 PNG Chiave</a></li>
+    <li><a href="#meccaniche-chiave" id="toc-meccaniche-chiave">💡
+    Meccaniche Chiave</a>
+    <ul>
+    <li><a href="#il-negozio-serrato" id="toc-il-negozio-serrato">Il
+    Negozio Serrato</a></li>
+    <li><a href="#linseguimento-urbano"
+    id="toc-linseguimento-urbano">L’Inseguimento Urbano</a></li>
+    <li><a href="#skeemo-weirdbottle-boss-finale"
+    id="toc-skeemo-weirdbottle-boss-finale">Skeemo Weirdbottle — Boss
+    Finale</a></li>
+    </ul></li>
+    <li><a href="#tiri-e-prove" id="toc-tiri-e-prove">⚙️ Tiri e
+    Prove</a></li>
+    <li><a href="#trama-narrativa" id="toc-trama-narrativa">🎭 Trama
+    Narrativa</a></li>
+    <li><a href="#ricompense" id="toc-ricompense">🏆 Ricompense</a></li>
+    <li><a href="#connessioni" id="toc-connessioni">🔗
+    Connessioni</a></li>
+    <li><a href="#note-per-il-dm" id="toc-note-per-il-dm">📝 Note per il
+    DM</a></li>
+    <li><a href="#varianti-e-personalizzazioni"
+    id="toc-varianti-e-personalizzazioni">📚 Varianti e
+    Personalizzazioni</a>
+    <ul>
+    <li><a href="#se-il-party-cattura-skeemo-vivo"
+    id="toc-se-il-party-cattura-skeemo-vivo">Se il party cattura Skeemo
+    vivo</a></li>
+    <li><a href="#se-il-party-fallisce-e-skeemo-raggiunge-kolat-towers"
+    id="toc-se-il-party-fallisce-e-skeemo-raggiunge-kolat-towers">Se il
+    party fallisce e Skeemo raggiunge Kolat Towers</a></li>
+    <li><a href="#se-la-vipera-nera-appare-m2-success"
+    id="toc-se-la-vipera-nera-appare-m2-success">Se la Vipera Nera
+    appare (M2 success)</a></li>
+    </ul></li>
+    </ul></li>
+    </ul>
+    </nav>
+      </aside>
+  
+  <main>
+    <article>
+      <h1 id="missione-4-il-sangue-del-patto">Missione 4 — Il Sangue del
+      Patto</h1>
+      <p><strong>Fazione:</strong> <a
+      href="../../Campagna/fazioni.md#zhentarim">Zhentarim</a> |
+      <strong>Livello:</strong> 5 <strong>BOSS FINALE</strong> |
+      <strong>Durata:</strong> 3–4 ore<br />
+      <strong>Referente:</strong> <a
+      href="../../Campagna/png-incontrati.md#davil-starsong">Davil
+      Starsong</a><br />
+      <strong>Fonte Completa:</strong>
+      <code>Zentharim_Missione4_sangue_del_patto.txt</code></p>
+      <hr />
+      <h2 id="sinossi">📖 Sinossi</h2>
+      <p><strong>Skeemo Weirdbottle ha tradito gli Zhentarim</strong> —
+      lavorava segretamente per <strong>Manshoon</strong>. Ha avvelenato
+      le consegne dirette a certi alleati e ha sabotato operazioni della
+      Rete Nera. Davil non chiede giustizia: chiede un corpo, o almeno
+      un agente fuori gioco. Il party conosce già l’uomo, conosce il
+      negozio, conosce il veleno che distribuiva. <strong>Questa volta
+      Skeemo sa di essere cercato</strong> — e ha già un piano di fuga.
+      Una missione di eliminazione che diventa una <strong>caccia per le
+      strade di Waterdeep</strong>, con la Vipera Nera nell’ombra e le
+      <strong>Torri di Kolat</strong> all’orizzonte.</p>
+      <hr />
+      <h2 id="obiettivi">🎯 Obiettivi</h2>
+      <ol type="1">
+      <li><strong>Ricevere l’ordine</strong> da Davil Starsong
+      direttamente</li>
+      <li><strong>Localizzare Skeemo</strong> — il negozio è chiuso; è
+      in fuga</li>
+      <li><strong>Inseguire Skeemo</strong> attraverso Waterdeep, il
+      Trades Ward, verso il Castello</li>
+      <li><strong>Intercettare Skeemo</strong> prima che raggiunga le
+      Torri di Kolat</li>
+      <li><strong>Combattere Skeemo</strong> — boss finale dei
+      Zhentarim</li>
+      <li><strong>Consegnare il corpo</strong> (o notizie della
+      vittoria) a Davil</li>
+      <li><strong>Raccogliere ricompense</strong></li>
+      </ol>
+      <hr />
+      <h2 id="ambientazione">🗺️ Ambientazione</h2>
+      <ul>
+      <li><strong>Alchimia Weirdbottle</strong> — punto di partenza
+      (chiuso, serrato)</li>
+      <li><strong>Trades Ward</strong> — inseguimento urbano</li>
+      <li><strong>Strade di Waterdeep</strong> — corse sui tetti,
+      attraversamenti pericolosi</li>
+      <li><strong>Castle Ward</strong> — area finale</li>
+      <li><strong>Torri di Kolat</strong> — rifugio di Manshoon (mai
+      raggiunto, ma visible)</li>
+      </ul>
+      <hr />
+      <h2 id="png-chiave">👥 PNG Chiave</h2>
+      <table>
+      <colgroup>
+      <col style="width: 20%" />
+      <col style="width: 28%" />
+      <col style="width: 52%" />
+      </colgroup>
+      <thead>
+      <tr>
+      <th>PNG</th>
+      <th>Ruolo</th>
+      <th>Affiliazione</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td><strong>Skeemo Weirdbottle</strong></td>
+      <td>Traditore / objectif</td>
+      <td>Manshoon (controllato magicamente)</td>
+      </tr>
+      <tr>
+      <td><strong>Davil Starsong</strong></td>
+      <td>Comandante dell’operazione</td>
+      <td>Zhentarim</td>
+      </tr>
+      <tr>
+      <td><strong>Yagra Stonefist</strong></td>
+      <td>Braccio destro di Davil</td>
+      <td>Zhentarim (attesa al ritorno)</td>
+      </tr>
+      <tr>
+      <td><strong>La Vipera Nera (Esvele)</strong></td>
+      <td>Possibile alleata ombra</td>
+      <td>Indipendente</td>
+      </tr>
+      </tbody>
+      </table>
+      <hr />
+      <h2 id="meccaniche-chiave">💡 Meccaniche Chiave</h2>
+      <h3 id="il-negozio-serrato">Il Negozio Serrato</h3>
+      <p>Quando il party arriva ad Alchimia Weirdbottle, trovano: -
+      <strong>Imposte chiuse</strong>, cartello girato - <strong>Un dray
+      (carrozza pubblica)</strong> s’allontana dall’incrocio vicino -
+      Skeemo sa (o teme) che stanno arrivando</p>
+      <p><strong>Percezione CD 16:</strong> Notate un mezzuomo
+      incappucciato confuso tra cinque umani comuni sul dray. È
+      Skeemo.</p>
+      <h3 id="linseguimento-urbano">L’Inseguimento Urbano</h3>
+      <p>Una volta identificato Skeemo, inzia una caccia attraverso
+      Waterdeep:</p>
+      <p><strong>Fase 1: Dray Chase (Trades Ward)</strong> -
+      Inseguimento a piedi/cavallo dietro il dray - CD 12–14 Atletica
+      per mantenere il passo - Skeemo salta giù e corre nei vicoli</p>
+      <p><strong>Fase 2: Fuga nei Vicoli (Trades Ward → Castle
+      Ward)</strong> - Parkour urbano — tetti, finestre, salti - CD
+      13–15 Acrobazia/Atletica per mantenersi al passo - Skeemo usa
+      incantesimi per rallentare i persecutori</p>
+      <p><strong>Fase 3: Ascensione Finale (verso Kolat Towers)</strong>
+      - Skeemo lancia <strong>Volo</strong> (concentazione, Lv 3 spell)
+      - Vola a 18 m di altezza, verso il Castello e le Torri di Kolat -
+      Il party deve trovare modo di raggiungerlo: incantesimi, acrobazia
+      estrema, o coordinamento tattico</p>
+      <h3 id="skeemo-weirdbottle-boss-finale">Skeemo Weirdbottle — Boss
+      Finale</h3>
+      <p><strong>SKEEMO, Mago Gnomo Traditore (Lv 4-5
+      Challenge)</strong></p>
+      <p><strong>Statistica Base:</strong> - <strong>AC:</strong> 14
+      (vestiti) - <strong>PF:</strong> 44 (Mago, mediocre) -
+      <strong>Movimento:</strong> 25 piedi</p>
+      <p><strong>Incantesimi Preparati (Lv 3 Mago):</strong> 1.
+      <strong>Palla di Fuoco</strong> (Lv 3): 8d6 danni fuoco, CD 14 Dex
+      Save 2. <strong>Fulmine</strong> (Lv 3): 9d6 danni fulmine, CD 14
+      Dex Save (usato durante fuga aerea!) 3. <strong>Disco di
+      Tasha</strong> (Lv 1): Creare superficie ghiacciata per rallentare
+      inseguitori 4. <strong>Incantamento</strong> (Lv 1): Controllare
+      intelligenze basse (non peccatori che conoscono Skeemo) 5.
+      <strong>Volo</strong> (Lv 3): Movimento 60 piedi, concentazione
+      per 1 ora</p>
+      <p><strong>Azioni Bonus:</strong> - <strong>Scappa Rapida</strong>
+      — ogni turno può usare azione di movimento aggiuntiva</p>
+      <p><strong>Lair Actions:</strong> (se il combattimento è nei
+      Vicoli di Waterdeep) - Controllare persone inosservate come
+      distrazioni - Creare illusioni per confondere inseguitori - Fuoco
+      magico dai camini per creare barriere</p>
+      <hr />
+      <h2 id="tiri-e-prove">⚙️ Tiri e Prove</h2>
+      <table>
+      <colgroup>
+      <col style="width: 22%" />
+      <col style="width: 14%" />
+      <col style="width: 31%" />
+      <col style="width: 31%" />
+      </colgroup>
+      <thead>
+      <tr>
+      <th>Azione</th>
+      <th>CD</th>
+      <th>Caratteristica</th>
+      <th>Risultato</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>Percezione Skeemo sul dray</td>
+      <td>16</td>
+      <td>Percezione</td>
+      <td>Identifica il target</td>
+      </tr>
+      <tr>
+      <td>Atletica durante inseguimento</td>
+      <td>13–14</td>
+      <td>Atletica</td>
+      <td>Mantieni il passo</td>
+      </tr>
+      <tr>
+      <td>Acrobazia nei vicoli</td>
+      <td>14</td>
+      <td>Acrobazia</td>
+      <td>Evita ostacoli urbani</td>
+      </tr>
+      <tr>
+      <td>Resistere a Palla di Fuoco</td>
+      <td>14</td>
+      <td>Salvezza Dex</td>
+      <td>Ridotto danno</td>
+      </tr>
+      <tr>
+      <td>Colpire Skeemo in combattimento</td>
+      <td>/</td>
+      <td>Tattica</td>
+      <td>AC 14, mobile, sfuggente</td>
+      </tr>
+      <tr>
+      <td>Raggiungere Skeemo mentre vola</td>
+      <td>15</td>
+      <td>Atletica/Magia</td>
+      <td>Richiede incantesimi o coordinamento</td>
+      </tr>
+      </tbody>
+      </table>
+      <hr />
+      <h2 id="trama-narrativa">🎭 Trama Narrativa</h2>
+      <p><strong>Tema:</strong> Il tradimento ha un prezzo. Skeemo ha
+      giocato su due tavoli, ora entrambi lo cercano.</p>
+      <p><strong>Colpi di Scena:</strong> - Durante l’inseguimento,
+      <strong>la Vipera Nera (Esvele)</strong> potrebbe apparire per
+      aiutare — se salva da M2 (sincerismo narrativo) - Skeemo usa
+      <strong>Volo</strong> per raggiungere le <strong>Torri di
+      Kolat</strong> — visibilità della minaccia Manshoon - Se Skeemo
+      catturato vivo, rivela che <strong>Manshoon lo controlla
+      magicamente</strong> — connection diretta al villain maggiore</p>
+      <hr />
+      <h2 id="ricompense">🏆 Ricompense</h2>
+      <ul>
+      <li><strong>Oro:</strong> 250 mo per membro + parte bottino Skeemo
+      (~300 mo in componenti magici)</li>
+      <li><strong>Fama Zhentarim:</strong> +4 (eliminazione di traditore
+      di alto livello)</li>
+      <li><strong>Davil’s Trust:</strong> Massimo — il party ha
+      completato il ciclo Zhentarim impeccabilmente</li>
+      <li><strong>Intel Manshoon:</strong> Se Skeemo
+      catturato/interrogato, scopri che Manshoon lo controlla dalle
+      Torri di Kolat</li>
+      </ul>
+      <hr />
+      <h2 id="connessioni">🔗 Connessioni</h2>
+      <ul>
+      <li><strong>Collegate a:</strong> <a
+      href="M1-UnBruttoMomento.html">Zentharim M1</a>, <a
+      href="M2-TieniIlResto.html">M2</a>, <a
+      href="M3-CorriDasher.html">M3</a> <strong>(FINALE
+      ARCO)</strong></li>
+      <li><strong>Rivela:</strong> Manshoon come villain minore di
+      importanza crescente</li>
+      <li><strong>Introduce:</strong> <strong>Torri di Kolat</strong> —
+      location villain secondaria</li>
+      <li><strong>Possibile Alleanza:</strong> La Vipera Nera (se salva
+      in M2) appare come alleata</li>
+      <li><strong>Fazione:</strong> <a
+      href="../../Campagna/fazioni.md#zhentarim">Zhentarim</a></li>
+      </ul>
+      <hr />
+      <h2 id="note-per-il-dm">📝 Note per il DM</h2>
+      <ul>
+      <li><strong>Boss FIGHT MOBILE E DRAMMATICO</strong> — Skeemo in
+      Volo cambia la dinamica tattica</li>
+      <li><strong>L’inseguimento è il vero focus</strong> — non è solo
+      combattimento, è pura azione urbana</li>
+      <li>Se il party fallisce: Skeemo raggiunge le Torri di Kolat,
+      scompare, riappare nel Capitolo 5 come minaccia</li>
+      <li>Se il party vince: Enorme vittoria narrativa — il ciclo
+      Zhentarim è completo, Davil rimane profondamente in debito</li>
+      <li><strong>Usa il contesto urbano:</strong> Edifici, tetti, folla
+      — rendilo un inseguimento di film d’azione, non una griglia
+      tattica</li>
+      </ul>
+      <hr />
+      <h2 id="varianti-e-personalizzazioni">📚 Varianti e
+      Personalizzazioni</h2>
+      <h3 id="se-il-party-cattura-skeemo-vivo">Se il party cattura
+      Skeemo vivo</h3>
+      <p>Interrogatorio: Skeemo è controllato magicamente da Manshoon.
+      Mettere fine al controllo richiede magia potente o eliminazione di
+      Skeemo.</p>
+      <h3 id="se-il-party-fallisce-e-skeemo-raggiunge-kolat-towers">Se
+      il party fallisce e Skeemo raggiunge Kolat Towers</h3>
+      <p>Consequenza: Le Torri di Kolat emerger come minaccia crescente.
+      Possibile connection al Capitolo 5.</p>
+      <h3 id="se-la-vipera-nera-appare-m2-success">Se la Vipera Nera
+      appare (M2 success)</h3>
+      <p>Grande momento di aiuto tattico — Esvele crea distrazioni
+      mentre il party cattura Skeemo.</p>
+      <hr />
+      <p><strong>Aggiornamento:</strong> 7 Aprile 2026 |
+      <strong>Stato:</strong> Non giocata</p>
+    </article>
+  </main>
+</div>
+
+<footer>
+  <p>🎭 <strong>Waterdeep: Dragon Heist</strong> — Wiki Campagna | Ultima modifica: <time>07/04/2026</time></p>
+  <p><a href="../INDEX.html">← Torna al Menu Principale</a></p>
+</footer>
+</body>
+</html>
+

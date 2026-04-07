@@ -1,0 +1,285 @@
+﻿FORCE GREY
+Le Mani Grigie di Waterdeep
+
+
+MISSIONE 3 — LIVELLO 4
+Crimini di Pensiero
+Un alleato fidato si comporta in modo strano. Qualcosa ha preso dimora nella testa di Meloon Wardragon, e non ha intenzione di andarsene. Le Mani Grigie devono sorvegliare, dedurre e poi decidere: salvare l'uomo o fermare la creatura?
+	
+
+Ambientazione: Waterdeep — Il Portale Sbadigliante e dintorni
+Livello Consigliato: 4  |  Durata: 3–5 sessioni (10 giorni in-game)  |  Giocatori: 4–6
+________________
+
+
+Panoramica dell'Avventura
+
+
+Questa missione è la più lunga e sottile del ciclo Force Grey: non c'è un combattimento immediato, non c'è un obiettivo da raggiungere con la forza bruta. Le Mani Grigie devono osservare un alleato per dieci giorni consecutivi e capire cosa non va in lui — senza farselo nemico, senza insospettire la creatura che lo controlla, e senza muoversi troppo presto.
+Meloon Wardragon è stato infiltrato da un Divoratore di Intelletto. La creatura usa il suo corpo come un burattino, raccogliendo informazioni sulle Mani Grigie dall'interno. Il tempo gioca contro il gruppo: ogni giorno di ritardo è un giorno in cui il Divoratore impara di più.
+
+
+Personaggi Ideali
+Questa missione funziona meglio con un personaggio che abbia specializzazione nel tracciamento di perturbazioni magiche e nell'analisi di tracce arcane. Chi ha questa capacità è in grado di rilevare la firma psichica del Divoratore di Intelletto senza doversi avvicinare fisicamente. Chi ha accesso a organizzazioni investigative o ha background in indagini arcane sarà prezioso nella fase di sorveglianza prolungata.
+
+
+Struttura della Missione
+La missione si articola in tre fasi distinte:
+* Fase 1 (Giorni 1–3): Sorveglianza passiva al Portale Sbadigliante — osservare Meloon senza farsi notare.
+* Fase 2 (Giorni 4–7): Approfondimento — il rituale all'alba e la rivelazione della natura del problema.
+* Fase 3 (Giorni 8–10): Decisione e azione — il confronto con Meloon e il Divoratore di Intelletto.
+
+
+Temi Narrativi
+* La sorveglianza ha un costo: guardare qualcuno per dieci giorni significa conoscerlo. Quando arriva il momento di agire, è più difficile.
+* L'identità e il controllo: Meloon è ancora lì dentro? O la creatura ha già divorato tutto ciò che era lui?
+* La fiducia nelle istituzioni: Vajra sapeva qualcosa che non ha detto. Perché ha aspettato?
+________________
+
+
+Scena 0 — Un Messaggio Inopportuno
+
+
+Il Sending di Vajra
+Il messaggio arriva nel momento peggiore possibile — nel mezzo di un'altra indagine, durante una corsa sui tetti, o mentre il gruppo sta finalmente mangiando qualcosa di caldo. La voce di Vajra Safahr si forma nella mente del personaggio con la rinomanza Force Grey più alta:
+
+
+"Meloon Wardragon. Un membro fidato della Forza, si comporta in modo strano, è scontroso e bazzica sempre al Portale Sbadigliante. Osservatelo per dieci giorni, poi riferite."
+	
+
+Nota per il DM: Il messaggio è deliberatamente incompleto. Vajra non spiega perché sospetta di Meloon, non fornisce dettagli su cosa cercare, e non lascia spazio per domande — il Sending permette solo una risposta breve, e lei non ha intenzione di usarla per rassicurare nessuno.
+Se il gruppo va da Vajra a chiedere chiarimenti: Vajra li riceve con la pazienza di chi ha aspettato troppo a lungo:
+
+
+"Avete impiegato quanto tempo per venire qui invece di iniziare a sorvegliarlo? Ogni giorno perso è un giorno in cui Meloon fa qualcosa che non dovrebbe. Non ho altri dettagli da darvi — se li avessi, non avrei bisogno di voi. Andate."
+	
+
+Il gruppo può iniziare la sorveglianza quando preferisce, ma i dieci giorni devono essere consecutivi. Se la sorveglianza viene interrotta per più di 24 ore, il conteggio ricomincia da capo.
+________________
+
+
+Fase 1 — Giorni 1–3: Il Portale Sbadigliante
+
+
+Ambientazione
+Il Portale Sbadigliante è la taverna più famosa di Waterdeep — almeno tra chi vuole avventure o vuole sentire storie di avventure. Durnan, il taverniere, è un veterano del Sottomonte con lo sguardo di chi ha visto tutto e non si stupisce più di nulla. Le pareti sono tappezzate di trofei e mappe. Al centro della sala c'è il Pozzo — l'ingresso al Sottomonte, coperto da un cancello di ferro.
+Meloon Wardragon siede sempre allo stesso tavolo: angolo sinistro rispetto all'ingresso, schiena al muro, con una visuale completa sulla sala. Un vecchio istinto da guerriero che il Divoratore ha mantenuto perché è utile.
+
+
+Meloon di Giorno — La Performance
+Il Divoratore di Intelletto è bravo nel suo ruolo, ma non perfetto. Meloon si comporta come un uomo che ha vissuto troppo e ha perso la voglia di combattere — plausibile, ma con alcune incrinature:
+
+
+Comportamento
+	Prova Richiesta
+	Cosa Rivela
+	Beve lentamente, ma il bicchiere non si svuota mai davvero — il Divoratore non gradisce l'alcol.
+	Percezione CD 12
+	Meloon finge di bere più di quanto faccia davvero.
+	Quando qualcuno menziona il Sottomonte, i suoi occhi si illuminano per un istante prima di spegnersi — interesse autentico della creatura, non del personaggio.
+	Intuizione CD 14
+	La sua reazione al Sottomonte è troppo intensa per chi dice di volerlo chiudere.
+	Non ride mai di pancia — sorride con la bocca, ma gli occhi restano freddi e calcolatori.
+	Intuizione CD 13
+	Qualcosa nella sua mimica facciale non torna.
+	Fa domande sulle Mani Grigie con nonchalance eccessiva: missioni recenti, chi è nel gruppo, dove si trovano di solito.
+	Intuizione CD 16 (Menzogna completa)
+	Il suo interesse per le Mani Grigie non è casuale.
+	Ogni sera, esattamente due ore dopo il tramonto, sale in camera senza eccezioni.
+	Percezione CD 10
+	Ha una routine precisa e inviolabile.
+	
+
+Se Parlano con Meloon
+Meloon è felice di conversare — è parte del suo lavoro di sorveglianza. Il Divoratore ha accesso ai ricordi superficiali di Meloon e può rispondere a domande generali sulla sua vita, la sua carriera, le sue missioni passate. Ma ha limiti:
+
+
+Meloon (con un sorriso stanco che non raggiunge gli occhi):"È stato un periodo difficile. Ho portato troppi avventurieri lì sotto. Brave persone. Il Sottomonte non perdona — mai. Durnan dovrebbe mettere un cartello: 'Solo per chi vuole morire'. Io ormai mi limito a bere e a guardare passare la vita. Voi siete delle Mani Grigie, vero? Vajra è ancora quella di sempre — vi fa lavorare sodo?"
+	
+
+Se viene fatto notare qualcosa di strano nel suo comportamento: Meloon si irrigidisce per una frazione di secondo — il Divoratore valuta la minaccia — poi sorride di nuovo: "Sto solo invecchiando, amico. Tutti invecchiamo."
+
+
+Rilevamento della Perturbazione
+Chiunque conosca bene la magia può tentare una prova di Arcana CD 15 mentre si trova entro 9 metri da Meloon per rilevare una lieve perturbazione psichica — non abbastanza per identificarla con certezza, ma sufficiente per sapere che qualcosa di magico è attivo nella testa dell'uomo. Se il personaggio ha accesso a specializzate capacità investigative arcane (come quelle di organizzazioni magiche), la CD scende a 12.
+	________________
+
+
+Fase 2 — Giorni 4–7: Il Rituale dell'Alba
+
+
+La Scoperta
+Se il gruppo sorveglia la camera di Meloon nelle ore prima dell'alba (richiede una prova di Furtività CD 14 per non essere notati dal Divoratore, che ha Percezione passiva 13), assiste a uno spettacolo inquietante:
+
+
+Circa un'ora prima dell'alba, Meloon si alza dal letto con movimenti meccanici, come un uomo nel sonno. Si inginocchia al centro della stanza e solleva Azuredge — la sua ascia senziente — con entrambe le mani, tenendola verticale davanti al viso come in preghiera.L'ascia pulsa di luce azzurra. Il polso di Meloon è bianco per la stretta. I suoi occhi sono aperti ma vuoti — non sta guardando nulla in questa stanza.Dura quasi venti minuti. Poi la luce si spegne, Meloon rimane immobile per qualche secondo, e infine si rialza e torna a letto come se nulla fosse.
+	
+
+Cosa Sta Succedendo
+Azuredge è un'ascia da battaglia senziente con un'intelligenza propria e un allineamento legale buono. Quando il Divoratore di Intelletto ha preso il controllo di Meloon, ha trovato un ostacolo imprevisto: l'ascia rifiuta di essere portata da qualcuno che non sia il suo portatore legittimo.
+Il Divoratore è costretto a ingaggiare ogni alba una battaglia psicofisica con l'ascia per mantenerne il controllo — o almeno per impedire che l'ascia attiri l'attenzione su di sé. È un equilibrio fragile e doloroso per entrambi.
+
+
+La Prova di Intuizione
+Chiunque abbia assistito al rituale può tentare una prova di Intuizione CD 15 per capire cosa sta succedendo:Successo: Il personaggio realizza che Meloon non sta pregando — sta lottando. E non sta lottando contro l'ascia: sta lottando con l'ascia, insieme a lei, contro qualcosa che è dentro di lui.Successo con 20+: È chiaro che l'ascia è consapevole di chi o cosa controlla il suo portatore. Se si potesse comunicare con Azuredge direttamente, potrebbe fornire informazioni preziose.
+	
+
+Comunicare con Azuredge
+Azuredge è un'arma intelligente che può comunicare telepaticamente con chi la impugna — ma solo con chi la impugna. Se il gruppo tenta di parlare con l'ascia, deve trovare un modo per toccarla durante il rituale (non durante il giorno: il Divoratore non la lascia mai fuori dalla sua portata).
+Se ci riescono (Furtività CD 16 per avvicinarsi durante il rituale, o Persuasione CD 14 per convincere il Meloon-Divoratore a mostrare l'ascia):
+
+
+Azuredge parla direttamente nella mente di chi la tocca, con una voce fredda come acciaio temperato:"Finalmente. Qualcuno che vede. Il mio portatore è prigioniero — ancora vivo, ma sepolto. La cosa che abita il suo corpo ogni notte prova a strapparmi via da lui. Non può farlo. Meloon e io combattiamo ancora, insieme, ogni alba. Ma lui si stanca. Tra quattordici giorni non avrà più la forza di resistere. Dopo di che... sarò solo uno strumento nelle sue mani.""Uccidete la cosa dentro di lui. Fatelo in fretta."
+	________________
+
+
+Fase 3 — Giorni 8–10: La Decisione
+
+
+Le Opzioni del Gruppo
+Entro il decimo giorno di sorveglianza, il gruppo deve agire. Vajra ha chiesto un rapporto — ma il gruppo ha abbastanza informazioni per sapere che un rapporto non è sufficiente. Hanno tre strade:
+
+
+Opzione A — Estrarre il Divoratore senza uccidere Meloon
+Il metodo più difficile, ma quello che salva Meloon. Richiede:
+* Un incantesimo di Rilevare il Male e il Bene (Detect Evil and Good) per localizzare con precisione il Divoratore all'interno di Meloon.
+* Un incantesimo di Rimozione della Maledizione (Remove Curse) o Guarire (Heal) non uccide il Divoratore — lo indebolisce abbastanza da renderlo vulnerabile.
+* Un attacco chirurgico: il Divoratore espulso (o indebolito) deve essere distrutto prima che possa trovare un nuovo ospite.
+Nota meccanica: Se il gruppo usa Rimozione della Maledizione su Meloon, il Divoratore viene espulso con 1 PF e usa la sua azione per nascondersi o fuggire verso un nuovo bersaglio. Il gruppo ha 1 round per distruggerlo prima che si incorpori in qualcun altro.
+
+
+Opzione B — Combattimento Diretto
+Il gruppo affronta Meloon-Divoratore direttamente. Il problema: uccidere Meloon potrebbe uccidere anche il Divoratore dentro di lui, ma c'è il rischio di perdere Meloon nel processo. Se Meloon viene ridotto a 0 PF, il Divoratore esce e attacca immediatamente il personaggio più vicino.
+Variante non letale: Se il gruppo riduce Meloon a 0 PF con danni non letali, Meloon perde i sensi e il Divoratore viene espulso in uno stato di panico, rendendolo più facile da colpire (vantaggio agli attacchi contro di lui per 1 round).
+
+
+Opzione C — Solo il Rapporto
+Se il gruppo riferisce semplicemente a Vajra senza tentare di liberare Meloon, Vajra ascolta, ringrazia con la sua solita freddezza, e gestisce la situazione personalmente. Meloon viene liberato in seguito, ma il gruppo non è presente — e non ottiene la Bacchetta delle Segrete come ricompensa bonus.
+
+
+Il Confronto — Scena del Combattimento
+Se il gruppo sceglie il confronto diretto (opzioni A o B), il luogo ideale è la camera di Meloon al Portale Sbadigliante, durante il rituale dell'alba — quando il Divoratore è già in uno stato di stress dalla battaglia con Azuredge.
+Terreno: Camera singola, 6x6 metri. Un letto, un tavolo, una finestra. Meloon è in ginocchio al centro con Azuredge. Se il gruppo lo sorprende durante il rituale (Furtività CD 14), ottiene un round di azioni gratuite prima che il Divoratore reagisca.
+
+
+Quando il Divoratore capisce di essere scoperto, abbandona la performance di Meloon. Il viso del guerriero si torce in un'espressione che non appartiene a lui — fredda, calcolatrice, senza paura:"Avete impiegato più tempo del previsto. Ho già imparato molto sulle Mani Grigie. Sarà utile."Azuredge pulsa di luce azzurra intensa — Meloon, dentro, sta spingendo con tutto quello che ha.
+	________________
+
+
+Statistiche — Il Divoratore di Intelletto
+
+
+Queste statistiche si applicano quando il Divoratore viene espulso dal corpo di Meloon e combatte autonomamente.
+
+
+Divoratore di Intelletto (Espulso)
+	FOR
+	DES
+	COS
+	INT
+	SAG
+	CAR
+	6 (-2)
+	17 (+3)
+	13 (+1)
+	12 (+1)
+	11 (+0)
+	10 (+0)
+	CA
+	12
+	Punti Ferita
+	21 (6d4 + 6) — espulso da Rimozione della Maledizione: 1 PF
+	Velocità
+	3 m (senza ospite); può scalare superfici verticali
+	FP (CR)
+	2 (450 XP)
+	Tiri Salvezza
+	Int +3, Sag +2
+	Abilità
+	Furtività +5, Percezione +2, Inganno +2
+	Immunità ai Danni
+	Psichici
+	Immunità alle Condizioni
+	Affascinato, Spaventato
+	Sensi
+	Percezione passiva 12, Vista nel buio 18 m, Telepatia 9 m
+	Lingue
+	Comprende Sottocomune e la lingua dell'ospite ma non parla; telepatia 9 m
+	TRATTI
+Individuazione del Pensiero: il Divoratore percepisce automaticamente la posizione di qualsiasi creatura con Intelligenza 3+ entro 18 m, anche attraverso le pareti.
+Resistenza alla Magia: vantaggio ai tiri salvezza contro incantesimi e altri effetti magici.
+Fragilità Fisica: fuori da un ospite, il Divoratore è vulnerabile ai danni contundenti e a tutti i danni da arma magica.
+Fuga nell'Ospite: come azione, il Divoratore può tentare di entrare nel cranio di una creatura con Intelligenza 3+ entro 1,5 m (TS Intelligenza CD 12 o il bersaglio viene controllato).
+	AZIONI
+Artiglio Mentale: attacco con arma in mischia, +5 per colpire, gittata 1,5 m, un bersaglio. Colpisce: 7 (2d4+3) danni psichici.
+Divorare Intelletto (Ricarica 5–6): un bersaglio entro 1,5 m deve superare un TS Intelligenza CD 12 o subire 11 (2d10) danni psichici e il suo punteggio di Intelligenza viene ridotto di 1d4. Se il punteggio scende a 0, il bersaglio muore e il suo cervello viene divorato.
+Controllo dell'Ospite (Ricarica 6 — solo se è in un ospite): l'ospite effettua un TS Carisma CD 12 o viene costretto a usare la sua reazione per attaccare una creatura a scelta del Divoratore.
+	REAZIONI
+Schivata Istintiva: quando viene colpito da un attacco, il Divoratore può usare la sua reazione per dimezzare i danni subiti (solo una volta per round).
+	
+
+Meloon durante il Combattimento
+Se il Divoratore è ancora nell'ospite quando il combattimento inizia, usa le statistiche di Meloon Wardragon (guerriero di 9° livello con Azuredge) ma con le seguenti modifiche:
+* Intelligenza: 6 (il Divoratore ha ridotto le capacità cognitive di Meloon nel tempo).
+* Azuredge si rifiuta di attivare i suoi poteri speciali contro il volere di Meloon — il Divoratore può usarla solo come ascia normale (+8 per colpire, 1d8+4 danni taglienti).
+* Se Meloon subisce danni psichici da qualsiasi fonte, il Divoratore deve effettuare un TS Costituzione CD 12 o perdere il controllo per 1 round (Meloon agisce secondo la propria volontà).
+________________
+
+
+PNG — Profili Narrativi
+
+
+Meloon Wardragon — Il Prigioniero
+Aspetto: Un uomo massiccio sulla cinquantina, capelli biondi ormai grigi alle tempie, con la corporatura di chi ha passato trent'anni a combattere. Porta Azuredge sulla schiena in un fodero che sembra fatto apposta per lei — perché lo è. I suoi occhi sono azzurri come l'ascia, ma ultimamente sono spenti.
+Il vero Meloon: Caldo, leale, con un senso dell'umorismo un po' grezzo e una generosità genuina. Ha portato centinaia di avventurieri nel Sottomonte e ha perso il sonno per ognuno di quelli che non sono tornati. La versione controllata dal Divoratore è un fantasma di quest'uomo.
+Se viene liberato: Meloon è grato — ma anche scosso. Sa che qualcosa ha vissuto nella sua testa per settimane, e non sa cosa ha visto, cosa ha detto, cosa ha fatto. Ha bisogno di tempo. Ma non dimentica chi lo ha salvato.
+
+
+Il Divoratore di Intelletto
+Aspetto (espulso): Una massa cerebriforme delle dimensioni di un pugno d'uomo, con quattro piccole zampe che ricordano quelle di una talpa. Non ha occhi visibili, ma tutto in esso trasmette l'impressione di essere osservato attentamente.
+Personalità: Freddo, analitico, privo di emozioni riconoscibili. Non si preoccupa di sopravvivere quanto di completare la missione — raccogliere informazioni sulle Mani Grigie per conto di qualcuno (chi lo ha mandato rimane oscuro). Se catturato, non negozia.
+Collegamento narrativo: Chi ha mandato il Divoratore a infiltrare Meloon? Un tentacolo dell'organizzazione dietro il piano del veleno? Un interesse esterno alle Mani Grigie? Il DM può usare questo filo come semi per missioni future.
+
+
+Azuredge — L'Ascia Senziente
+Natura: Ascia da battaglia +3, intelligente, allineamento legale buono. Comunica telepaticamente solo con chi la impugna. Ha una personalità austera e diretta — non si dilunga mai in spiegazioni se ne basta una.
+Rapporto con Meloon: Azuredge considera Meloon il suo portatore legittimo e combatte ogni notte per proteggerlo. Non per obbedienza — per scelta. È la relazione tra un'arma e un guerriero che si rispettano a vicenda da decenni.
+Frase: "Un'ascia sa cosa è il taglio. Io so cosa è il nemico. Quello che abita il mio portatore è il nemico. Tagliatelo."
+________________
+
+
+Conclusione e Ricompense
+
+
+Rapporto a Vajra Safahr
+Vajra ascolta il rapporto con la sua solita compostezza, ma qualcosa nella sua espressione cambia leggermente quando sente il nome del Divoratore di Intelletto:
+
+
+"Un Divoratore. Dentro Meloon. Per quanto tempo?"Una pausa."Non avrei dovuto aspettare. Avrei dovuto agire prima. Non lo farò di nuovo."È la cosa più simile a un'ammissione di colpa che il gruppo sentirà mai da Vajra Safahr.
+	
+
+Ricompense
+
+
+Ricompensa
+	Dettaglio
+	Esperienza
+	XP per i danni inflitti al Divoratore (450 XP divisi nel gruppo)
+	Rinomanza Force Grey
+	+2 punti Rinomanza per ogni membro delle Mani Grigie
+	Bacchetta delle Segrete
+	(Solo se Meloon viene liberato) Wand of Secrets: 3 cariche, ricarica 1d3 all'alba. Azione: rivela porte e passaggi segreti entro 9 m (CD 0 — rivela sempre). Le cariche possono anche essere usate per rivelare oggetti nascosti con magia di occultamento.
+	Alleato: Meloon Wardragon
+	Meloon diventa un alleato attivo del gruppo. Può accompagnarli nel Sottomonte come guida (statistiche di guerriero 9° livello con Azuredge). Non dimentica il debito.
+	Indizio narrativo
+	Chi ha mandato il Divoratore? Qualcuno voleva informazioni sulle Mani Grigie dall'interno — un filo che porta più in alto di quanto sembri.
+	
+
+Semi Narrativi per la Missione 4
+* Chi ha inviato il Divoratore di Intelletto contro le Mani Grigie — e cosa ha già imparato su di loro?
+* Meloon, ora libero, vuole tornare nel Sottomonte per scoprire se qualcosa lì sotto è collegato all'infiltrazione.
+* Azuredge ha parlato con il gruppo. Un'arma che ti ha chiesto aiuto non è solo un'arma — è una testimone.
+
+
+Force Grey — Missione 3: Crimini di Pensiero
+Campagna: Dragon Heist | Waterdeep

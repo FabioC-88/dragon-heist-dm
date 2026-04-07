@@ -1,0 +1,277 @@
+﻿GLI ARPISTI
+Agenti di Mirt il Mercante — Waterdeep
+
+
+MISSIONE 2 — LIVELLO 3
+Disinfestazione
+Una libreria. Una gatta. Un Gazer inviato da Xanathar. E un'anziana libraista che piange ubriaca a una taverna con una bottiglia di Nettare di Neverwinter. Gli Arpisti chiamano questo tipo di situazione 'lavoro ordinario'.
+	
+
+Ambientazione: Quartiere dei Commerci — Felzoun's Folly — Libreria Curiosity & Satisfaction
+Livello Consigliato: 3  |  Durata Stimata: 2–3 ore  |  Giocatori: 4–6
+________________
+
+
+Panoramica dell'Avventura
+
+
+Un Gazer — occhio miniaturizzato al servizio di Xanathar — ha seguito una gatta innocente all'interno di una libreria del Quartiere dei Commerci, convinto per errore che l'animale sia una spia Zhentarim. Il gruppo deve entrare nella libreria, capire la situazione, e risolvere il problema nel modo meno distruttivo possibile — idealmente salvando sia i libri che la gatta.
+La missione è breve ma densa di dettagli atmosferici: una taverna caotica e affollata, una libreria a torre piena di volumi preziosi, un combattimento tridimensionale con un'entità volante in uno spazio ristretto. Il tono è più leggero delle missioni precedenti — Uza è comica nella sua ubriachezza angosciata, il Gazer è pericoloso ma anche ridicolo nella sua paranoia — ma le conseguenze sono reali.
+
+
+Competenze Richieste
+Il combattimento tridimensionale nella libreria a torre premia chi sa muoversi in verticale, chi ha incantesimi di controllo dell'area, e chi sa proteggere un bersaglio mobile (Fillipa). Chi ha capacità investigative è utile per ricostruire la storia del Gazer. L'esperienza in combattimento urbano si adatta bene alla gestione di uno spazio ristretto con un nemico volante.
+
+
+Obiettivi Principali
+* Trovare Uza a Felzoun's Folly e raccogliere le informazioni sulla situazione.
+* Entrare nella libreria Curiosity & Satisfaction e valutare la situazione senza essere visti per primi.
+* Neutralizzare il Gazer — distruggendolo o rinchiudendolo — senza causare danni eccessivi alla libreria.
+* Salvare Fillipa, la gatta di Uza.
+* Riferire l'esito a Uza e raccogliere le ricompense.
+
+
+Temi Narrativi
+* La paranoia di Xanathar: il Gazer ha agito su un errore di interpretazione. Anche le spie hanno punti ciechi.
+* Il valore di ciò che sembra insignificante: una gatta, una libreria, un'anziana ubriaca. Gli Arpisti proteggono anche questo.
+* Ambiente come ostacolo: la libreria a torre non è un dungeon — è un luogo civile con vincoli specifici (i libri non devono bruciare, le finestre non devono rompersi, Uza non deve perdere il suo negozio).
+________________
+
+
+Scena 0 — L'Uccellino di Carta
+
+
+Il Messaggio
+Questa volta il messaggio non arriva su un fringuello vivo ma su un uccellino di carta origami — bianco, piegato con cura, che vola in modo leggermente impossibile per carta semplice. Si posa sulla spalla di un personaggio, si apre da solo, e rivela il testo scritto in una grafia piccola e precisa.
+
+
+"Uza Solizeph è un'anziana donna che vende libri in uno stretto edificio di tre piani su Sorn Street, nel Quartiere dei Commerci. Sostiene di aver intrappolato un mostro nel suo negozio e teme per l'incolumità dei suoi libri e del suo gatto. È improbabile che la Guardia cittadina intervenga, dato che Uza ha la pessima abitudine di esagerare... ma gli Arpisti le sono debitori. Sta piangendo da Felzoun's Folly, una taverna tra Sorn e Salabar. Per favore, occupatevi di lei."— M.
+	
+
+Nota per il DM: L'uccellino di carta si ripiega e rimane fermo dopo la lettura — non torna a Mirt. Se qualcuno lo esamina (Arcana CD 10), scopre che è animato da un semplice trucchetto di Prestidigitazione che si è già esaurito. Aelar riconosce la tecnica: è un metodo Arpista per messaggi urgenti che non richiedono risposta.
+________________
+
+
+Scena 1 — Felzoun's Folly
+
+
+La Taverna
+Felzoun's Folly è difficile da ignorare: le sue elaborate vetrate colorate proiettano chiazze di luce rossa, blu e verde sul marciapiede anche nelle ore diurne. L'interno è caotico nel senso più festoso del termine — tavoli troppo vicini, conversazioni sovrapposte, il profumo di birra speziata e qualcosa di fritto. Felzoun Thar, detto Darkiron, gestisce tutto da solo: un uomo sulla cinquantina con le braccia di chi ha sollevato botti per decenni e gli occhi di chi tiene traccia di ogni ordine senza scrivere nulla.
+Felzoun non è un chiacchierone, ma non è scortese. Se il gruppo chiede di Uza, indica un angolo con un cenno del capo senza rallentare il passo.
+
+
+Uza Solizeph
+Uza Solizeph è seduta nell'angolo più lontano dall'ingresso con una bottiglia di Nettare di Neverwinter già per metà vuota e un bicchiere che riempie con la frequenza e la precisione meccanica di chi lo fa per abitudine di paura, non di piacere. È una donna sulla settantina, capelli bianchi raccolti in una crocchia disordinata, occhi lucidi per le lacrime e per l'alcol in proporzioni difficili da distinguere.
+
+
+Uza, quando il gruppo si avvicina, li guarda con l'espressione di chi ha smesso di sperare e poi improvvisamente ci riprova:"Oh! Oh, grazie agli dei. Siete degli Arpisti? Mirt ha detto che avrebbe mandato qualcuno, ma non mi aspettavo... sì, sì, sedetevi, vi prego."Si schiarisce la voce, tira su con il naso, e racconta:"Un mostruoso globo con molti occhi ha inseguito la mia gattina, Fillipa, fin dentro il negozio! Io... io li ho chiusi dentro entrambi e sono scappata, ma non potrei sopportare il senso di colpa se le succedesse qualcosa. I libri poi... ci sono edizioni del Secondo Periodo della Fondazione che non si trovano da nessuna parte. Se quel mostro le bruciasse con quegli occhi orribili..."La voce le si spezza."Salverete la mia micina, per favore?"
+	
+
+Informazioni da Uza
+Con domande mirate, Uza fornisce dettagli utili:
+* "Com'è fatto il mostro?" — "Un globo, delle dimensioni di... di un melone, forse? Con un occhio grande al centro e tanti altri più piccoli su degli steli. Fluttuava. Quando ha visto Fillipa, ha... quasi vibrato. Come se si eccitasse. Era terrificante."
+* "Quando è successo?" — "Stamattina, poco dopo l'apertura. Fillipa era sul bancone come al solito, poi quel cosa è entrato — non so da dove — e l'ha inseguita su per le scale. Ho preso le chiavi e sono corsa via. Non sono una donna coraggiosa, lo ammetto."
+* "I libri al piano superiore?" — "Il secondo e il terzo piano. Collezioni di botanica magica, grimori storici del Periodo della Fondazione, una serie completa di Elminster's Annotated Encyclopedia... se bruciassero morirei di crepacuore. Letteralmente."
+* "Perché non ha chiamato la Guardia?" — Uza abbassa lo sguardo. "L'ultima volta che ho chiamato la Guardia per qualcosa di insolito hanno mandato tre guardie che non credevano a nulla di ciò che dicevo, hanno rotto un vaso di terracotta del Secondo Periodo e se ne sono andati ridendo. Non ci ricasco."
+
+
+Prima di lasciarli andare, Uza consegna due chiavi:
+Una chiave di ferro scuro (porta anteriore su Sorn Street) e una di ottone più piccola (porta posteriore sul vicolo). Poi afferra il braccio del personaggio più vicino con una forza sorprendente per una donna così anziana:"Fillipa è grigia con una macchia bianca sull'orecchio sinistro. Probabilmente si è nascosta tra i libri del secondo piano — adora i ripiani alti. Non lasciatela lì, vi prego."
+	________________
+
+
+Scena 2 — La Libreria Curiosity & Satisfaction
+
+
+Struttura dell'Edificio
+Curiosity & Satisfaction è un edificio stretto e alto che dalla strada sembra una normale casa a tre piani. Ma quando il gruppo apre la porta anteriore, capisce subito che non è normale.
+L'interno è una singola stanza verticale, alta come tre piani sovrapposti senza solai intermedi — una torre di libri. Scaffali di legno scuro corrono lungo tutte le pareti dal pavimento al soffitto, collegati da scale a pioli mobili su rotaie orizzontali. Al centro, una scala a spirale in ferro battuto sale verso il secondo e il terzo livello di scaffalature. La luce filtra da un lucernario sommitale e da piccole finestre laterali che si aprono a ogni altezza.
+Una piccola scrivania di ingresso, un registro aperto, una sedia con un cuscino consumato. Tutto fermo, tutto in ordine — tranne il silenzio, che non è il silenzio delle librerie ma quello di qualcosa che trattiene il respiro.
+
+
+La Prova di Percezione all'Ingresso
+Quando il gruppo entra, chiedi una prova di Saggezza (Percezione) a ogni personaggio:
+
+
+Risultato
+	Cosa Nota il Personaggio
+	Sotto 14
+	Nulla di insolito all'ingresso. Il Gazer nota il gruppo per primo — vantaggio alla sua iniziativa nel combattimento.
+	14–17
+	Il Gazer: una forma sferica scura che fluttua tra il secondo e il terzo livello di scaffali, gli occhi-steli puntati verso il basso. Il gruppo agisce per primo alla sorpresa.
+	18+
+	Il Gazer E Fillipa: oltre al Gazer, si intravede una piccola forma grigia nascosta dietro alcuni volumi al secondo livello, a circa 6 metri d'altezza. La gatta è viva e nascosta bene — ma non si muoverà da sola.
+	
+
+Vincoli Ambientali — I Libri
+Uza tiene alla sua libreria quanto alla gatta. Se il gruppo causa danni significativi alla struttura o all'inventario, Uza non rimborsa la perdita — ma soprattutto, si vede sulle sue espressioni per il resto della campagna. Il DM può tenere traccia dei danni con questa scala:0–3 libri/scaffali danneggiati: Uza è dispiaciuta ma comprensiva.4–6 libri/scaffali danneggiati: Uza è visibilmente turbata; lo sconto alla Gilda degli Speziali arriva con un'aggiunta: "Anche se avrei preferito che i miei Trattati di Botanica del Terzo Periodo fossero ancora interi."7+ libri/scaffali danneggiati: Uza piange di nuovo — questa volta non per la paura, ma per il dolore. Nessuna ricompensa aggiuntiva.
+	________________
+
+
+Scena 3 — Il Gazer
+
+
+Comportamento del Gazer
+Il Gazer ha ricevuto ordini precisi da Xanathar: uccidere la spia Zhentarim (che crede sia Fillipa). Finché il gruppo lo affronta, combatte contro di loro con piena determinazione — ma se Fillipa esce allo scoperto o viene vista, il Gazer abbandona qualsiasi altro bersaglio e si concentra esclusivamente su di lei.
+Il Gazer non è intelligente nel senso tattico del termine, ma opera con la determinazione meccanica di una creatura che esegue un ordine. Non fugge. Non negozia. Non si stanca. Ha un solo obiettivo, e gli occhi-steli per portarlo a termine.
+
+
+Tattiche di Combattimento
+* Usa la verticalità: fluttua tra il secondo e il terzo livello, fuori dalla portata naturale del gruppo al piano terra. Per raggiungerlo in mischia è necessario salire le scale a pioli o la scala a spirale.
+* Concentra i raggi su bersagli isolati: preferisce chi si è separato dal gruppo scalando le scale a pioli — è più vulnerabile e lontano dal supporto.
+* Priorità assoluta a Fillipa: se la gatta diventa visibile (per qualsiasi ragione), il Gazer ignora tutto il resto per un round completo e usa tutte le sue azioni per colpirla.
+* Non insegue fuori dalla libreria: il suo ordine è eliminare la "spia" nel negozio. Se il gruppo esce con Fillipa e chiude la porta, il Gazer rimane dentro — missione incompleta ma gruppo al sicuro.
+
+
+Regola Speciale: Le Scale a Pioli
+Un personaggio che si trova su una scala a pioli mobile ha svantaggio ai tiri salvezza su Destrezza a causa dell'instabilità del supporto. Può spostarsi di 3 metri per azione (invece della velocità normale). Può ancora attaccare, ma usa entrambe le mani sulla scala — gli attacchi a due mani non sono possibili senza un tiro di Atletica CD 11 prima di attaccare.
+	
+
+Strategie per il Gruppo
+Il gruppo può affrontare il Gazer in diversi modi:
+
+
+A) Salire e Combattere
+Il metodo diretto. Chi sale la scala a spirale raggiunge il secondo livello a 9 metri d'altezza e può attaccare il Gazer in mischia se questo si avvicina. Chi usa le scale a pioli è più esposto. Svantaggio ai TS Destrezza sulle scale, ma visione completa su tutta la libreria dall'alto.
+
+
+B) Attirarlo verso il Basso
+Con una prova di Carisma (Inganno o Persuasione) CD 12 — o facendo rumore deliberato al piano terra — il gruppo può convincere il Gazer che ci sia qualcosa di più interessante in basso. Una volta a portata di tiro o di mischia dal pavimento, l'equilibrio del combattimento cambia radicalmente a favore del gruppo.
+
+
+C) Salvare Fillipa e Uscire
+Il gruppo localizza Fillipa (secondo livello, dietro i Trattati di Botanica — riconoscibili dal colore verde scuro delle copertine) e la recupera. Chi porta Fillipa in braccio subisce i danni diretti a lei se il Gazer le spara — ma questo protegge la gatta e permette la fuga.
+Per uscire con Fillipa senza distruggere il Gazer: la porta anteriore o posteriore deve essere aperta e chiusa di nuovo entro 2 round dall'uscita. Se il Gazer è bloccato dentro, la missione è completata.
+
+
+D) La Trappola di Scaffali (Opzione Creativa — Aelar o Eric)
+Con un'azione e una prova di Atletica CD 13 (o Arcana CD 12 per chi usa magia), un personaggio può far cadere una sezione di scaffali sul Gazer, intrappolandolo temporaneamente sotto i volumi caduti. Il Gazer è intrappolato per 1d4 round (TS Forza CD 12 per liberarsi prima). Danno collaterale: 1d6 libri distrutti per ogni sezione di scaffali abbattuta.
+________________
+
+
+Statistiche — Il Gazer
+
+
+Gazer
+	FOR
+	DES
+	COS
+	INT
+	SAG
+	CAR
+	3 (-4)
+	17 (+3)
+	14 (+2)
+	3 (-4)
+	10 (+0)
+	7 (-2)
+	CA
+	13 (armatura naturale)
+	Punti Ferita
+	13 (3d4 + 6)
+	Velocità
+	0 m, volo 9 m (a mezz'aria)
+	FP (CR)
+	1/2 (100 XP)
+	Abilità
+	Percezione +4, Furtività +5
+	Immunità Condizioni
+	Prono
+	Sensi
+	Vista nel buio 18 m, Percezione passiva 14
+	Lingue
+	Comprende il Sottocomune ma non parla
+	TRATTI
+Occhio Vigile: il Gazer non può essere sorpreso mentre è vigile. Non può chiudere il suo occhio centrale.
+Piccola Aberrazione: il Gazer è di taglia Minuscola e può muoversi attraverso spazi larghi almeno 15 cm senza difficoltà.
+Fissazione sull'Obiettivo (Speciale): se il Gazer vede Fillipa, deve usare tutte le sue azioni quel round per attaccarla o avvicinarsi a lei. Non può effettuare azioni bonus o reazioni quel round.
+	AZIONI
+Morso: attacco con arma in mischia, +5 per colpire, gittata 1,5 m, un bersaglio. Colpisce: 1 (1d4-1) danni perforanti.
+Sguardo dei Raggi Oculari (Ricarica 5–6): il Gazer spara due raggi oculari scelti casualmente (tira 1d4 per ciascuno). Ogni raggio ha gittata 18 m e bersaglia una creatura visibile.
+	REAZIONI
+Rotazione Difensiva: quando il Gazer viene colpito da un attacco in mischia, può usare la sua reazione per spostarsi di 3 m senza provocare attacchi di opportunità.
+	
+
+Raggi Oculari — Tabella 1d4
+
+
+d4
+	Raggio
+	Effetto
+	1
+	Raggio Paralizzante
+	TS Costituzione CD 12 o il bersaglio è incapacitato fino alla fine del suo prossimo turno.
+	2
+	Raggio Bruciante
+	+5 per colpire; 2d6 danni da fuoco. Attenzione: può incendiare i libri circostanti (CD 10 Percezione per notarlo).
+	3
+	Raggio del Sonno
+	TS Saggezza CD 12 o il bersaglio cade addormentato fino alla fine del suo prossimo turno (5 PF o meno: addormentamento immediato senza TS).
+	4
+	Raggio Teletrasportante
+	TS Carisma CD 12 o il bersaglio viene spostato di 3 m in una direzione casuale (tira 1d8 per la direzione).
+	________________
+
+
+PNG — Profili Narrativi
+
+
+Uza Solizeph — La Libraista
+Aspetto: Una donna sulla settantina, bassa e tonda, con i capelli bianchi sempre in una crocchia che sta per cedere. Porta sempre un grembiule con le tasche piene di segnapagine, matite spuntate e liste di libri cercati. I suoi occhi, quando non piange, sono acuti e valutano i volumi con la precisione di un esperto orafo.
+Personalità: Calorosa, appassionata, con la tendenza a menzionare le edizioni rare nei momenti meno appropriati. Non è stupida — la sua reputazione di "esageratrice" con la Guardia è in parte colpa sua e in parte ingiusta. Quando il Gazer dice che ha visto un mostro, aveva ragione.
+Il suo debito con gli Arpisti: Uza ha ospitato agenti Arpisti tra i suoi scaffali durante la Crisi delle Ombre, anni fa. Mirt le deve un favore antico e lei lo sa — e lo usa con parsimonia, ma quando serve, lo usa.
+Potenziale futuro: Uza conosce ogni libraio, archivista e copista di Waterdeep. Come contatto per ricerche bibliografiche o per localizzare testi rari, è senza pari. E il libro degli incantesimi che regala al gruppo era già stato "dimenticato" da un cliente un secolo fa — non ha detto tutto quello che sa su di esso.
+
+
+Felzoun Thar — Il Taverniere
+Aspetto: Un nano sulla cinquantina con le braccia di chi ha sollevato botti per decenni e i capelli raccolti in due trecce pragmatiche. Non ha il tempo per i capelli sciolti, e nemmeno per le conversazioni inutili.
+Personalità: Efficiente, onesto, fondamentalmente benevolo. Felzoun's Folly non è una taverna di lusso, ma è pulita, il cibo è buono, e Felzoun non lascia mai un bicchiere vuoto senza intenzione. Ha lasciato Uza seduta nell'angolo per ore perché capisce che alcune persone hanno bisogno di piangere in pace — e ha continuato a portarle cibo senza che lei glielo chiedesse.
+
+
+Fillipa — La Gatta
+Aspetto: Una gatta grigia di media taglia con una macchia bianca sull'orecchio sinistro. È una gatta normale in tutto e per tutto — era solo temporaneamente sotto l'effetto di Messaggero Animale.
+Comportamento in combattimento: Se il gruppo la trova, Fillipa è spaventata ma non selvaggia. Un personaggio che si avvicina con calma e supera una prova di Saggezza (Addestrare Animali) CD 10 — o che semplicemente le offre cibo — può prenderla in braccio senza problemi. Se viene presa in braccio, si rannicchia e non si muove.
+Nota narrativa: Se Aelar usa il Maestro Bec per comunicare con Fillipa (tramite Parla con gli Animali o equivalente), la gatta può descrivere il Gazer con accuratezza sorprendente: "Grande occhio. Molti occhi piccoli. Puzza di profondo. Ha paura di me perché mi ha sentita parlare quella mattina." Era il messaggio degli Arpisti che stava consegnando — Fillipa non capisce di essere stata uno strumento.
+________________
+
+
+Conclusione e Ricompense
+
+
+Il Ritorno da Uza
+Quando il gruppo torna a Felzoun's Folly — con o senza Fillipa — Uza li guarda dalla sua sedia d'angolo con un'espressione che dipende dall'esito:
+
+
+Se Fillipa è con loro:Uza si alza così in fretta che rovescia il bicchiere, corre verso la gatta e la stringe al petto con la forza di chi non si aspettava di rivederla. Non dice nulla per quasi trenta secondi. Poi:"Grazie. Grazie, grazie, grazie. Siete persone meravigliose. Anche voi, quello con la faccia da dragonide. Soprattutto voi."Se Fillipa non è con loro (solo il Gazer è stato neutralizzato):"È... è al sicuro? Devo tornare a cercarla? No, certo, siete già andati. Probabilmente è nascosta da qualche parte ancora. La trova sempre lei, alla fine. Grazie comunque. Avete fatto quello che potevate."
+	
+
+Ricompense
+
+
+Ricompensa
+	Dettaglio
+	Esperienza Base
+	300 XP per ogni membro del gruppo
+	Esperienza Combattimento
+	XP per il Gazer se sconfitto (100 XP divisi nel gruppo)
+	Rinomanza Arpisti
+	+1 punto Rinomanza per ogni membro degli Arpisti
+	Silver Rewards — Gilda Speziali
+	Mirt invia un uccellino di carta: sconto del 20% su tutte le pozioni comuni e non comuni presso qualsiasi alchimista aderente alla Gilda degli Speziali e dei Medici di Waterdeep. Basta menzionarlo.
+	Libro degli Incantesimi (solo se Gazer distrutto)
+	Uza regala un libro degli incantesimi dimenticato da un cliente: Allarme, Comprendere Linguaggi, Camuffare Se Stesso, Scrittura Illusoria, Serratura Arcana, Passo Velato, Localizza Oggetto.
+	
+
+Il Libro degli Incantesimi — Nota Narrativa
+Il libro ha una copertina in pelle nera con un sigillo non identificato sul frontespizio — non è il sigillo di nessuna scuola di magia conosciuta, né di nessuna gilda arcana attiva. Uza dice solo che era "di un cliente di molti anni fa" e che "non tornò mai a riprenderlo". Una prova di Arcana CD 15 o Storia CD 13 permette di riconoscere il sigillo come appartenente a una piccola compagnia di avventurieri del secondo secolo del Periodo della Fondazione, da tempo dissolta. Come sia finito qui è un mistero aperto.
+	
+
+Semi Narrativi per le Missioni Successive
+* Il Gazer seguiva gli ordini di Xanathar — e Xanathar credeva che Fillipa fosse una spia Zhentarim. Qualcuno ha dato informazioni false a Xanathar? O Xanathar sta diventando paranoico?
+* Fillipa era sotto l'effetto di Messaggero Animale. Chi le aveva inviato il messaggio? E cosa conteneva?
+* Il libro degli incantesimi ha una storia oscura. Il sigillo della compagnia dissoluta potrebbe tornare in qualche modo rilevante.
+* Uza conosce ogni archivista di Waterdeep — e sa dove si trovano certi testi che non dovrebbero circolare.
+
+
+Gli Arpisti — Missione 2: Disinfestazione
+Campagna: Dragon Heist | Waterdeep

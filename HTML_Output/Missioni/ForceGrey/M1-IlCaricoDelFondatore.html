@@ -1,0 +1,720 @@
+<!DOCTYPE html>
+<html lang="it" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="theme-color" content="#8b5cf6" />
+  <title>M1-IlCaricoDelFondatore — Dragon Heist Wiki</title>
+  <link rel="stylesheet" href="../style.css" />
+  <style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    :root {
+        --primary: #8b5cf6;
+        --primary-dark: #7c3aed;
+        --primary-light: #a78bfa;
+        --secondary: #06b6d4;
+        --accent: #f59e0b;
+        --dark-bg: #0f172a;
+        --light-bg: #f8fafc;
+        --card-bg: #ffffff;
+        --text-dark: #1e293b;
+        --text-light: #475569;
+        --border: #e2e8f0;
+    }
+    
+    html {
+        scroll-behavior: smooth;
+    }
+    
+    body {
+        font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Trebuchet MS', sans-serif;
+        line-height: 1.7;
+        background: linear-gradient(135deg, var(--light-bg) 0%, #f1f5f9 100%);
+        color: var(--text-dark);
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    /* Header */
+    header {
+        background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+        color: white;
+        padding: 1.5em 2em;
+        box-shadow: 0 4px 12px rgba(139, 92, 246, 0.2);
+        position: sticky;
+        top: 0;
+        z-index: 100;
+    }
+    
+    header .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    header h1 {
+        font-size: 1.5em;
+        margin: 0;
+        font-weight: 600;
+        letter-spacing: -0.5px;
+    }
+    
+    header a {
+        color: white;
+        text-decoration: none;
+        transition: opacity 0.3s;
+    }
+    
+    header a:hover {
+        opacity: 0.8;
+    }
+    
+    .breadcrumbs {
+        font-size: 0.9em;
+        opacity: 0.9;
+    }
+    
+    .breadcrumbs a {
+        color: rgba(255, 255, 255, 0.8);
+        text-decoration: none;
+    }
+    
+    .breadcrumbs a:hover {
+        color: white;
+    }
+    
+    /* Main Container */
+    .page-wrapper {
+        flex: 1;
+        display: flex;
+        max-width: 100%;
+    }
+    
+    .sidebar {
+        width: 280px;
+        background: var(--card-bg);
+        border-right: 1px solid var(--border);
+        padding: 2em 1.5em;
+        overflow-y: auto;
+        max-height: calc(100vh - 80px);
+        position: sticky;
+        top: 80px;
+    }
+    
+    .sidebar h3 {
+        font-size: 1.1em;
+        color: var(--primary-dark);
+        margin-bottom: 1em;
+        padding-bottom: 0.5em;
+        border-bottom: 2px solid var(--primary);
+    }
+    
+    .sidebar nav ul {
+        list-style: none;
+        margin: 0;
+    }
+    
+    .sidebar nav ul li {
+        margin: 0.5em 0;
+    }
+    
+    .sidebar nav a {
+        color: var(--text-light);
+        text-decoration: none;
+        display: block;
+        padding: 0.5em 0.75em;
+        border-radius: 4px;
+        transition: all 0.2s;
+        font-size: 0.95em;
+    }
+    
+    .sidebar nav a:hover {
+        background-color: rgba(139, 92, 246, 0.1);
+        color: var(--primary);
+        padding-left: 1.2em;
+    }
+    
+    /* Content */
+    main {
+        flex: 1;
+        padding: 2.5em;
+        max-width: 900px;
+    }
+    
+    article {
+        background: var(--card-bg);
+        border-radius: 12px;
+        padding: 2.5em;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+        margin-bottom: 2em;
+    }
+    
+    h1 {
+        color: var(--primary-dark);
+        font-size: 2.2em;
+        margin: 0.8em 0 0.4em;
+        font-weight: 700;
+        letter-spacing: -0.5px;
+        border-bottom: 3px solid var(--primary);
+        padding-bottom: 1em;
+    }
+    
+    h2 {
+        color: var(--primary);
+        font-size: 1.6em;
+        margin: 1.3em 0 0.5em;
+        font-weight: 600;
+        letter-spacing: -0.3px;
+    }
+    
+    h3 {
+        color: var(--primary-dark);
+        font-size: 1.2em;
+        margin: 1em 0 0.4em;
+        font-weight: 600;
+    }
+    
+    h4, h5, h6 {
+        color: var(--text-dark);
+        margin: 0.8em 0 0.3em;
+        font-weight: 600;
+    }
+    
+    p {
+        margin-bottom: 1em;
+        color: var(--text-light);
+    }
+    
+    a {
+        color: var(--primary);
+        text-decoration: none;
+        font-weight: 500;
+        transition: all 0.2s;
+    }
+    
+    a:hover {
+        color: var(--primary-dark);
+        text-decoration: underline;
+        text-decoration-thickness: 2px;
+    }
+    
+    code {
+        background-color: rgba(139, 92, 246, 0.1);
+        color: var(--primary-dark);
+        padding: 4px 8px;
+        border-radius: 4px;
+        font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+        font-size: 0.9em;
+        border: 1px solid rgba(139, 92, 246, 0.2);
+    }
+    
+    pre {
+        background-color: var(--dark-bg);
+        color: #e0e7ff;
+        padding: 1.5em;
+        border-radius: 8px;
+        overflow-x: auto;
+        line-height: 1.5;
+        margin: 1.5em 0;
+        border-left: 4px solid var(--primary);
+        box-shadow: 0 4px 12px rgba(139, 92, 246, 0.1);
+    }
+    
+    pre code {
+        background: transparent;
+        color: #e0e7ff;
+        padding: 0;
+        border: none;
+    }
+    
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 1.5em 0;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+    }
+    
+    table thead {
+        background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+    }
+    
+    table th {
+        color: white;
+        padding: 1em;
+        text-align: left;
+        font-weight: 600;
+        font-size: 0.95em;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+    }
+    
+    table td {
+        padding: 1em;
+        border-bottom: 1px solid var(--border);
+        color: var(--text-light);
+    }
+    
+    table tbody tr {
+        transition: all 0.2s;
+    }
+    
+    table tbody tr:hover {
+        background-color: rgba(139, 92, 246, 0.05);
+    }
+    
+    table tbody tr:last-child td {
+        border-bottom: none;
+    }
+    
+    ul, ol {
+        margin: 1em 0 1em 2em;
+        color: var(--text-light);
+    }
+    
+    li {
+        margin: 0.5em 0;
+    }
+    
+    blockquote {
+        border-left: 5px solid var(--primary);
+        margin: 1.5em 0;
+        padding: 1.2em 1.5em;
+        background-color: rgba(139, 92, 246, 0.05);
+        border-radius: 4px;
+        color: var(--text-light);
+        font-style: italic;
+        font-size: 1.05em;
+    }
+    
+    hr {
+        border: none;
+        height: 2px;
+        background: linear-gradient(90deg, transparent, var(--primary), transparent);
+        margin: 2.5em 0;
+    }
+    
+    /* TOC */
+    nav#TOC {
+        background: rgba(139, 92, 246, 0.05);
+        border: 1px solid var(--border);
+        border-radius: 8px;
+        padding: 1.5em;
+        margin: 2em 0;
+        border-left: 4px solid var(--primary);
+    }
+    
+    nav#TOC h2 {
+        margin-top: 0;
+        font-size: 1.2em;
+    }
+    
+    nav#TOC ul {
+        list-style: none;
+        margin: 0;
+    }
+    
+    nav#TOC li {
+        margin: 0.5em 0 0.5em 1.5em;
+        position: relative;
+    }
+    
+    nav#TOC li:before {
+        content: "▸";
+        position: absolute;
+        left: -1.2em;
+        color: var(--primary);
+        font-weight: bold;
+    }
+    
+    nav#TOC a {
+        color: var(--primary);
+    }
+    
+    nav#TOC a:hover {
+        color: var(--primary-dark);
+    }
+    
+    /* Footer */
+    footer {
+        background: var(--dark-bg);
+        color: #cbd5e1;
+        padding: 2em;
+        text-align: center;
+        font-size: 0.9em;
+        border-top: 1px solid var(--border);
+        margin-top: auto;
+    }
+    
+    footer a {
+        color: var(--primary-light);
+    }
+    
+    /* Responsive */
+    @media (max-width: 1024px) {
+        .sidebar {
+            width: 240px;
+            padding: 1.5em 1em;
+        }
+        
+        main {
+            padding: 2em;
+        }
+        
+        article {
+            padding: 2em;
+        }
+    }
+    
+    @media (max-width: 768px) {
+        .page-wrapper {
+            flex-direction: column;
+        }
+        
+        .sidebar {
+            width: 100%;
+            max-height: none;
+            position: static;
+            border-right: none;
+            border-bottom: 1px solid var(--border);
+            padding: 1.5em;
+        }
+        
+        main {
+            padding: 1.5em;
+            max-width: 100%;
+        }
+        
+        article {
+            padding: 1.5em;
+        }
+        
+        h1 {
+            font-size: 1.8em;
+        }
+        
+        h2 {
+            font-size: 1.3em;
+        }
+        
+        h3 {
+            font-size: 1.05em;
+        }
+        
+        header .container {
+            flex-direction: column;
+            gap: 0.5em;
+        }
+        
+        header h1 {
+            font-size: 1.2em;
+        }
+    }
+  </style>
+</head>
+<body>
+<header>
+  <div class="container">
+    <h1><a href="../INDEX.html" class="logo-link">🗺️ Dragon Heist Wiki</a></h1>
+    <div class="breadcrumbs">M1-IlCaricoDelFondatore</div>
+  </div>
+</header>
+
+<div class="page-wrapper">
+  <aside class="sidebar">
+    <a href="../INDEX.html" class="index-link" style="display: block; margin-bottom: 1.5em; padding: 0.8em 1em; background-color: var(--primary); color: white; text-decoration: none; border-radius: 6px; text-align: center; font-weight: 600; transition: all 0.2s;">📖 Torna all'Indice</a>
+    
+        <h3>📑 Indice Pagina</h3>
+    <nav>
+    <ul>
+    <li><a href="#missione-1-il-carico-del-fondatore"
+    id="toc-missione-1-il-carico-del-fondatore">Missione 1 — Il Carico
+    del Fondatore</a>
+    <ul>
+    <li><a href="#sinossi" id="toc-sinossi">📖 Sinossi</a></li>
+    <li><a href="#obiettivi" id="toc-obiettivi">🎯 Obiettivi</a></li>
+    <li><a href="#ambientazione" id="toc-ambientazione">🗺️
+    Ambientazione</a></li>
+    <li><a href="#png-chiave" id="toc-png-chiave">👥 PNG Chiave</a></li>
+    <li><a href="#meccaniche-chiave" id="toc-meccaniche-chiave">💡
+    Meccaniche Chiave</a>
+    <ul>
+    <li><a href="#il-presagio-di-hlam" id="toc-il-presagio-di-hlam">Il
+    Presagio di Hlam</a></li>
+    <li><a href="#midnight-tears-il-veleno"
+    id="toc-midnight-tears-il-veleno">Midnight Tears — Il
+    Veleno</a></li>
+    <li><a href="#lambuscata-dei-cultisti"
+    id="toc-lambuscata-dei-cultisti">L’Ambuscata dei Cultisti</a></li>
+    </ul></li>
+    <li><a href="#tiri-e-prove" id="toc-tiri-e-prove">⚙️ Tiri e
+    Prove</a></li>
+    <li><a href="#trama-narrativa" id="toc-trama-narrativa">🎭 Trama
+    Narrativa</a></li>
+    <li><a href="#ricompense" id="toc-ricompense">🏆 Ricompense</a></li>
+    <li><a href="#connessioni" id="toc-connessioni">🔗
+    Connessioni</a></li>
+    <li><a href="#note-per-il-dm" id="toc-note-per-il-dm">📝 Note per il
+    DM</a></li>
+    <li><a href="#varianti-e-personalizzazioni"
+    id="toc-varianti-e-personalizzazioni">📚 Varianti e
+    Personalizzazioni</a>
+    <ul>
+    <li><a href="#se-il-party-fallisce-a-proteggere-orvyn"
+    id="toc-se-il-party-fallisce-a-proteggere-orvyn">Se il party
+    fallisce a proteggere Orvyn</a></li>
+    <li><a href="#se-il-party-cattura-cultisti-vivi"
+    id="toc-se-il-party-cattura-cultisti-vivi">Se il party cattura
+    cultisti vivi</a></li>
+    <li><a href="#se-il-party-vuole-infiltrarsi-nei-culti-asmodeo"
+    id="toc-se-il-party-vuole-infiltrarsi-nei-culti-asmodeo">Se il party
+    vuole infiltrarsi nei culti Asmodeo</a></li>
+    </ul></li>
+    </ul></li>
+    </ul>
+    </nav>
+      </aside>
+  
+  <main>
+    <article>
+      <h1 id="missione-1-il-carico-del-fondatore">Missione 1 — Il Carico
+      del Fondatore</h1>
+      <p><strong>Fazione:</strong> <a
+      href="../../Campagna/fazioni.md#force-grey">Force Grey</a> |
+      <strong>Livello:</strong> 2 | <strong>Durata:</strong> 3–4
+      ore<br />
+      <strong>Referente:</strong> <a
+      href="../../Campagna/png-incontrati.md#vajra-safahr-il-bastone-nero">Vajra
+      Safahr</a> (il Bastone Nero)<br />
+      <strong>Fonte Completa:</strong>
+      <code>ForceGrey_Missione1_IlCaricoDelFondatore.txt</code></p>
+      <hr />
+      <h2 id="sinossi">📖 Sinossi</h2>
+      <p>Il <strong>presagio di Hlam</strong> ha allertato Vajra Safahr:
+      <em>“sangue innocente sarà versato nel Giorno dei Fondatori”</em>.
+      Non una metafora — una scadenza precisa. Le indagini rivelano che
+      reagenti alchemici rari sono stati importati al porto in quantità
+      anomale — ingredienti per il <strong>veleno Midnight
+      Tears</strong> (inodore, insapore, mortale in 12 ore). Le Mani
+      Grigie devono agire prima che sia troppo tardi. Missione iniziale
+      con combattimento e investigation, ma senza risposte facili.</p>
+      <hr />
+      <h2 id="obiettivi">🎯 Obiettivi</h2>
+      <ol type="1">
+      <li><strong>Ricevere il briefing</strong> da Vajra Safahr in Torre
+      del Bastone Nero</li>
+      <li><strong>Localizzare informatore Orvyn</strong> ai Moli del
+      Salgemma (Dock Ward)</li>
+      <li><strong>Sopravvivere all’imboscata</strong> dei cultisti
+      Asmodeo</li>
+      <li><strong>Proteggere o vendicare Orvyn</strong> — conseguenze
+      morali</li>
+      <li><strong>Recuperare la lista di carico</strong> con i nomi dei
+      destinatari</li>
+      <li><strong>Consegnare la lista a Vajra</strong> per azione
+      immediata</li>
+      </ol>
+      <hr />
+      <h2 id="ambientazione">🗺️ Ambientazione</h2>
+      <ul>
+      <li><strong>Torre del Bastone Nero</strong> — headquarters Force
+      Grey/Ordine Magisti (Castle Ward)</li>
+      <li><strong>Moli del Salgemma</strong> — terzo magazzino a
+      sinistra del pontile (Dock Ward)</li>
+      <li><strong>Porto Navale di Waterdeep</strong> — traffico, caos,
+      magazzini</li>
+      </ul>
+      <hr />
+      <h2 id="png-chiave">👥 PNG Chiave</h2>
+      <table>
+      <colgroup>
+      <col style="width: 20%" />
+      <col style="width: 28%" />
+      <col style="width: 52%" />
+      </colgroup>
+      <thead>
+      <tr>
+      <th>PNG</th>
+      <th>Ruolo</th>
+      <th>Affiliazione</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td><strong>Vajra Safahr</strong></td>
+      <td>Arcimaga; capo Force Grey</td>
+      <td>Force Grey / Ordine Magisti</td>
+      </tr>
+      <tr>
+      <td><strong>Orvyn</strong></td>
+      <td>Informatore; ex contrabbandiere</td>
+      <td>Force Grey</td>
+      </tr>
+      <tr>
+      <td><strong>Midnight Tears Cultisti</strong></td>
+      <td>Adoratori Asmodeo, assassini</td>
+      <td>Cultisti / Cassalanters minion</td>
+      </tr>
+      </tbody>
+      </table>
+      <hr />
+      <h2 id="meccaniche-chiave">💡 Meccaniche Chiave</h2>
+      <h3 id="il-presagio-di-hlam">Il Presagio di Hlam</h3>
+      <p>Questo è il gancio narrativo diretto per i personaggi con
+      legami a Razak o al Monte Waterdeep: &gt; “Sangue innocente sarà
+      versato nel Giorno dei Fondatori”</p>
+      <p>Se il party ha un personaggio con questo legame, la missione
+      diventa <strong>personale</strong>, non solo tattica.</p>
+      <h3 id="midnight-tears-il-veleno">Midnight Tears — Il Veleno</h3>
+      <ul>
+      <li><strong>Caratteristiche:</strong> Inodore, insapore,
+      completamente impercettibile</li>
+      <li><strong>Effetto:</strong> 12 ore dopo l’ingestione, morte
+      instantanea</li>
+      <li><strong>Applicazione:</strong> Perfetto per avvelenare un
+      banchetto pubblico durante le celebrazioni dei Fondatori</li>
+      </ul>
+      <h3 id="lambuscata-dei-cultisti">L’Ambuscata dei Cultisti</h3>
+      <p>I cultisti Asmodeo non sono mostri — sono <strong>persone
+      comuni</strong> con una fede aberrante. La scoperta che eseguono
+      ordini da nobili di alto rango (indizio: nomi sulla lista) è
+      rivelazione importante.</p>
+      <hr />
+      <h2 id="tiri-e-prove">⚙️ Tiri e Prove</h2>
+      <table>
+      <colgroup>
+      <col style="width: 22%" />
+      <col style="width: 14%" />
+      <col style="width: 31%" />
+      <col style="width: 31%" />
+      </colgroup>
+      <thead>
+      <tr>
+      <th>Azione</th>
+      <th>CD</th>
+      <th>Caratteristica</th>
+      <th>Risultato</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>Localizzare Orvyn ai Moli</td>
+      <td>12</td>
+      <td>Investigazione</td>
+      <td>Trovi l’informatore prima dell’imboscata</td>
+      </tr>
+      <tr>
+      <td>Riconoscere l’imboscata in tempo</td>
+      <td>13</td>
+      <td>Percezione</td>
+      <td>Vantaggi tattico nel combattimento</td>
+      </tr>
+      <tr>
+      <td>Sopravvivere al combattimento</td>
+      <td>/</td>
+      <td>Tattica</td>
+      <td>Dipende dal party composition</td>
+      </tr>
+      <tr>
+      <td>Recuperare lista senza danneggiarla</td>
+      <td>11</td>
+      <td>Acrobazia/Atletica</td>
+      <td>Lista rimane leggibile</td>
+      </tr>
+      <tr>
+      <td>Decifra i nomi sulla lista</td>
+      <td>12</td>
+      <td>Arcana/Investigazione</td>
+      <td>Riconosci i nomi Cassalanter e altri</td>
+      </tr>
+      </tbody>
+      </table>
+      <hr />
+      <h2 id="trama-narrativa">🎭 Trama Narrativa</h2>
+      <p><strong>Tema:</strong> La legge non basta — la burocrazia di
+      Waterdeep è troppo lenta.</p>
+      <p><strong>Colpi di Scena:</strong> - Una dei cultisti è qualcuno
+      che il party riconosce (PG trama parallela?) - La lista contiene
+      il nome <strong>Victoro o Ammalia Cassalanter</strong> — primo
+      indizio del main villain - Orvyn muore eroicamente proteggendo la
+      lista (o il party lo salva in extremis)</p>
+      <hr />
+      <h2 id="ricompense">🏆 Ricompense</h2>
+      <ul>
+      <li><strong>Oro:</strong> 75 mo per membro</li>
+      <li><strong>Fama Force Grey:</strong> +2</li>
+      <li><strong>Intel:</strong> Nome Cassalanters identificato come
+      minaccia</li>
+      <li><strong>Conseguenze Narrative:</strong> Sprint verso il Giorno
+      dei Fondatori — il clock inizia a ticchettare</li>
+      </ul>
+      <hr />
+      <h2 id="connessioni">🔗 Connessioni</h2>
+      <ul>
+      <li><strong>Collegate a:</strong> <a
+      href="M2-NonETuttoOro.html">Force Grey M2</a>, <a
+      href="M3-CriminiDiPensiero.html">M3</a>, <a
+      href="M4-CoseTerribili.html">M4</a> (arco unificato)</li>
+      <li><strong>Introduce:</strong> <a
+      href="../../Campagna/png-incontrati.md#victoro-e-ammalia-cassalanter">Cassalanters</a>
+      come main villain</li>
+      <li><strong>Rivela:</strong> Midnight Tears, minaccia al Giorno
+      dei Fondatori, Asmodeo cult activity</li>
+      <li><strong>Fazione:</strong> <a
+      href="../../Campagna/fazioni.md#force-grey">Force Grey</a></li>
+      </ul>
+      <hr />
+      <h2 id="note-per-il-dm">📝 Note per il DM</h2>
+      <ul>
+      <li><strong>Prima missione Force Grey</strong> — stabilisce il
+      tono di urgenza e pericolo reale</li>
+      <li>L’informatore Orvyn crea <strong>hook emotivo</strong> se
+      muore tragicamente</li>
+      <li>Se il party ha <a
+      href="../../Campagna/party.md#razak-kendal">Razak Kendal</a>,
+      enfatizza il suo ruolo nel presagio</li>
+      <li><strong>Consequenzsa della lista:</strong> I nomi sulla lista
+      diventano TARGET di future investigazioni</li>
+      <li>Timeline: Il Giorno dei Fondatori è circa 1 settimana in-game
+      — pressure montante</li>
+      </ul>
+      <hr />
+      <h2 id="varianti-e-personalizzazioni">📚 Varianti e
+      Personalizzazioni</h2>
+      <h3 id="se-il-party-fallisce-a-proteggere-orvyn">Se il party
+      fallisce a proteggere Orvyn</h3>
+      <p>Orvyn muore — conseguenza emotiva. Ma la lista viene comunque
+      recuperata (cade da un cadavere). Fama Force Grey lievemente
+      ridotta, ma la missione continua.</p>
+      <h3 id="se-il-party-cattura-cultisti-vivi">Se il party cattura
+      cultisti vivi</h3>
+      <p>Possibilità di interrogatorio — svelano che riportano a nobili
+      (Cassalanters). Escalazione narrativa.</p>
+      <h3 id="se-il-party-vuole-infiltrarsi-nei-culti-asmodeo">Se il
+      party vuole infiltrarsi nei culti Asmodeo</h3>
+      <p>Interessante variante che collega direttamente al cap. 5
+      finale. Vajra approva ma mette in guardia: “Non perdete la vostra
+      umanità.”</p>
+      <hr />
+      <p><strong>Aggiornamento:</strong> 7 Aprile 2026 |
+      <strong>Stato:</strong> Non giocata</p>
+    </article>
+  </main>
+</div>
+
+<footer>
+  <p>🎭 <strong>Waterdeep: Dragon Heist</strong> — Wiki Campagna | Ultima modifica: <time>07/04/2026</time></p>
+  <p><a href="../INDEX.html">← Torna al Menu Principale</a></p>
+</footer>
+</body>
+</html>
+

@@ -1,0 +1,876 @@
+<!DOCTYPE html>
+<html lang="it" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="theme-color" content="#8b5cf6" />
+  <title>fazioni — Dragon Heist Wiki</title>
+  <link rel="stylesheet" href="../style.css" />
+  <style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    :root {
+        --primary: #8b5cf6;
+        --primary-dark: #7c3aed;
+        --primary-light: #a78bfa;
+        --secondary: #06b6d4;
+        --accent: #f59e0b;
+        --dark-bg: #0f172a;
+        --light-bg: #f8fafc;
+        --card-bg: #ffffff;
+        --text-dark: #1e293b;
+        --text-light: #475569;
+        --border: #e2e8f0;
+    }
+    
+    html {
+        scroll-behavior: smooth;
+    }
+    
+    body {
+        font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Trebuchet MS', sans-serif;
+        line-height: 1.7;
+        background: linear-gradient(135deg, var(--light-bg) 0%, #f1f5f9 100%);
+        color: var(--text-dark);
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    /* Header */
+    header {
+        background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+        color: white;
+        padding: 1.5em 2em;
+        box-shadow: 0 4px 12px rgba(139, 92, 246, 0.2);
+        position: sticky;
+        top: 0;
+        z-index: 100;
+    }
+    
+    header .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    header h1 {
+        font-size: 1.5em;
+        margin: 0;
+        font-weight: 600;
+        letter-spacing: -0.5px;
+    }
+    
+    header a {
+        color: white;
+        text-decoration: none;
+        transition: opacity 0.3s;
+    }
+    
+    header a:hover {
+        opacity: 0.8;
+    }
+    
+    .breadcrumbs {
+        font-size: 0.9em;
+        opacity: 0.9;
+    }
+    
+    .breadcrumbs a {
+        color: rgba(255, 255, 255, 0.8);
+        text-decoration: none;
+    }
+    
+    .breadcrumbs a:hover {
+        color: white;
+    }
+    
+    /* Main Container */
+    .page-wrapper {
+        flex: 1;
+        display: flex;
+        max-width: 100%;
+    }
+    
+    .sidebar {
+        width: 280px;
+        background: var(--card-bg);
+        border-right: 1px solid var(--border);
+        padding: 2em 1.5em;
+        overflow-y: auto;
+        max-height: calc(100vh - 80px);
+        position: sticky;
+        top: 80px;
+    }
+    
+    .sidebar h3 {
+        font-size: 1.1em;
+        color: var(--primary-dark);
+        margin-bottom: 1em;
+        padding-bottom: 0.5em;
+        border-bottom: 2px solid var(--primary);
+    }
+    
+    .sidebar nav ul {
+        list-style: none;
+        margin: 0;
+    }
+    
+    .sidebar nav ul li {
+        margin: 0.5em 0;
+    }
+    
+    .sidebar nav a {
+        color: var(--text-light);
+        text-decoration: none;
+        display: block;
+        padding: 0.5em 0.75em;
+        border-radius: 4px;
+        transition: all 0.2s;
+        font-size: 0.95em;
+    }
+    
+    .sidebar nav a:hover {
+        background-color: rgba(139, 92, 246, 0.1);
+        color: var(--primary);
+        padding-left: 1.2em;
+    }
+    
+    /* Content */
+    main {
+        flex: 1;
+        padding: 2.5em;
+        max-width: 900px;
+    }
+    
+    article {
+        background: var(--card-bg);
+        border-radius: 12px;
+        padding: 2.5em;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+        margin-bottom: 2em;
+    }
+    
+    h1 {
+        color: var(--primary-dark);
+        font-size: 2.2em;
+        margin: 0.8em 0 0.4em;
+        font-weight: 700;
+        letter-spacing: -0.5px;
+        border-bottom: 3px solid var(--primary);
+        padding-bottom: 1em;
+    }
+    
+    h2 {
+        color: var(--primary);
+        font-size: 1.6em;
+        margin: 1.3em 0 0.5em;
+        font-weight: 600;
+        letter-spacing: -0.3px;
+    }
+    
+    h3 {
+        color: var(--primary-dark);
+        font-size: 1.2em;
+        margin: 1em 0 0.4em;
+        font-weight: 600;
+    }
+    
+    h4, h5, h6 {
+        color: var(--text-dark);
+        margin: 0.8em 0 0.3em;
+        font-weight: 600;
+    }
+    
+    p {
+        margin-bottom: 1em;
+        color: var(--text-light);
+    }
+    
+    a {
+        color: var(--primary);
+        text-decoration: none;
+        font-weight: 500;
+        transition: all 0.2s;
+    }
+    
+    a:hover {
+        color: var(--primary-dark);
+        text-decoration: underline;
+        text-decoration-thickness: 2px;
+    }
+    
+    code {
+        background-color: rgba(139, 92, 246, 0.1);
+        color: var(--primary-dark);
+        padding: 4px 8px;
+        border-radius: 4px;
+        font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+        font-size: 0.9em;
+        border: 1px solid rgba(139, 92, 246, 0.2);
+    }
+    
+    pre {
+        background-color: var(--dark-bg);
+        color: #e0e7ff;
+        padding: 1.5em;
+        border-radius: 8px;
+        overflow-x: auto;
+        line-height: 1.5;
+        margin: 1.5em 0;
+        border-left: 4px solid var(--primary);
+        box-shadow: 0 4px 12px rgba(139, 92, 246, 0.1);
+    }
+    
+    pre code {
+        background: transparent;
+        color: #e0e7ff;
+        padding: 0;
+        border: none;
+    }
+    
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 1.5em 0;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+    }
+    
+    table thead {
+        background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+    }
+    
+    table th {
+        color: white;
+        padding: 1em;
+        text-align: left;
+        font-weight: 600;
+        font-size: 0.95em;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+    }
+    
+    table td {
+        padding: 1em;
+        border-bottom: 1px solid var(--border);
+        color: var(--text-light);
+    }
+    
+    table tbody tr {
+        transition: all 0.2s;
+    }
+    
+    table tbody tr:hover {
+        background-color: rgba(139, 92, 246, 0.05);
+    }
+    
+    table tbody tr:last-child td {
+        border-bottom: none;
+    }
+    
+    ul, ol {
+        margin: 1em 0 1em 2em;
+        color: var(--text-light);
+    }
+    
+    li {
+        margin: 0.5em 0;
+    }
+    
+    blockquote {
+        border-left: 5px solid var(--primary);
+        margin: 1.5em 0;
+        padding: 1.2em 1.5em;
+        background-color: rgba(139, 92, 246, 0.05);
+        border-radius: 4px;
+        color: var(--text-light);
+        font-style: italic;
+        font-size: 1.05em;
+    }
+    
+    hr {
+        border: none;
+        height: 2px;
+        background: linear-gradient(90deg, transparent, var(--primary), transparent);
+        margin: 2.5em 0;
+    }
+    
+    /* TOC */
+    nav#TOC {
+        background: rgba(139, 92, 246, 0.05);
+        border: 1px solid var(--border);
+        border-radius: 8px;
+        padding: 1.5em;
+        margin: 2em 0;
+        border-left: 4px solid var(--primary);
+    }
+    
+    nav#TOC h2 {
+        margin-top: 0;
+        font-size: 1.2em;
+    }
+    
+    nav#TOC ul {
+        list-style: none;
+        margin: 0;
+    }
+    
+    nav#TOC li {
+        margin: 0.5em 0 0.5em 1.5em;
+        position: relative;
+    }
+    
+    nav#TOC li:before {
+        content: "▸";
+        position: absolute;
+        left: -1.2em;
+        color: var(--primary);
+        font-weight: bold;
+    }
+    
+    nav#TOC a {
+        color: var(--primary);
+    }
+    
+    nav#TOC a:hover {
+        color: var(--primary-dark);
+    }
+    
+    /* Footer */
+    footer {
+        background: var(--dark-bg);
+        color: #cbd5e1;
+        padding: 2em;
+        text-align: center;
+        font-size: 0.9em;
+        border-top: 1px solid var(--border);
+        margin-top: auto;
+    }
+    
+    footer a {
+        color: var(--primary-light);
+    }
+    
+    /* Responsive */
+    @media (max-width: 1024px) {
+        .sidebar {
+            width: 240px;
+            padding: 1.5em 1em;
+        }
+        
+        main {
+            padding: 2em;
+        }
+        
+        article {
+            padding: 2em;
+        }
+    }
+    
+    @media (max-width: 768px) {
+        .page-wrapper {
+            flex-direction: column;
+        }
+        
+        .sidebar {
+            width: 100%;
+            max-height: none;
+            position: static;
+            border-right: none;
+            border-bottom: 1px solid var(--border);
+            padding: 1.5em;
+        }
+        
+        main {
+            padding: 1.5em;
+            max-width: 100%;
+        }
+        
+        article {
+            padding: 1.5em;
+        }
+        
+        h1 {
+            font-size: 1.8em;
+        }
+        
+        h2 {
+            font-size: 1.3em;
+        }
+        
+        h3 {
+            font-size: 1.05em;
+        }
+        
+        header .container {
+            flex-direction: column;
+            gap: 0.5em;
+        }
+        
+        header h1 {
+            font-size: 1.2em;
+        }
+    }
+  </style>
+</head>
+<body>
+<header>
+  <div class="container">
+    <h1><a href="../INDEX.html" class="logo-link">🗺️ Dragon Heist Wiki</a></h1>
+    <div class="breadcrumbs">fazioni</div>
+  </div>
+</header>
+
+<div class="page-wrapper">
+  <aside class="sidebar">
+    <a href="../INDEX.html" class="index-link" style="display: block; margin-bottom: 1.5em; padding: 0.8em 1em; background-color: var(--primary); color: white; text-decoration: none; border-radius: 6px; text-align: center; font-weight: 600; transition: all 0.2s;">📖 Torna all'Indice</a>
+    
+        <h3>📑 Indice Pagina</h3>
+    <nav>
+    <ul>
+    <li><a href="#fazioni-waterdeep-dragon-heist"
+    id="toc-fazioni-waterdeep-dragon-heist">Fazioni — Waterdeep: Dragon
+    Heist</a>
+    <ul>
+    <li><a href="#fazioni-del-party" id="toc-fazioni-del-party">Fazioni
+    del Party</a>
+    <ul>
+    <li><a href="#arpisti-the-harpers"
+    id="toc-arpisti-the-harpers">Arpisti <em>(The Harpers)</em></a></li>
+    <li><a href="#force-grey-le-mani-grigie"
+    id="toc-force-grey-le-mani-grigie">Force Grey <em>(Le Mani
+    Grigie)</em></a></li>
+    <li><a href="#zentharim-la-rete-nera"
+    id="toc-zentharim-la-rete-nera">Zentharim <em>(La Rete
+    Nera)</em></a></li>
+    </ul></li>
+    <li><a href="#fazioni-della-città-npc-nessun-membro-nel-party"
+    id="toc-fazioni-della-città-npc-nessun-membro-nel-party">Fazioni
+    della Città <em>(NPC, nessun membro nel party)</em></a>
+    <ul>
+    <li><a href="#gilda-di-xanathar" id="toc-gilda-di-xanathar">Gilda di
+    Xanathar</a></li>
+    <li><a href="#bregan-daerthe" id="toc-bregan-daerthe">Bregan
+    D’aerthe</a></li>
+    <li><a
+    href="#harpers-ordine-del-guanto-lega-dei-lord-enclave-smeraldo"
+    id="toc-harpers-ordine-del-guanto-lega-dei-lord-enclave-smeraldo">Harpers
+    / Ordine del Guanto / Lega dei Lord / Enclave Smeraldo</a></li>
+    <li><a href="#cassalanters-villain-principali"
+    id="toc-cassalanters-villain-principali">Cassalanters <em>(Villain
+    principali)</em></a></li>
+    <li><a href="#guardia-cittadina-istituzione"
+    id="toc-guardia-cittadina-istituzione">Guardia Cittadina
+    <em>(istituzione)</em></a></li>
+    </ul></li>
+    </ul></li>
+    </ul>
+    </nav>
+      </aside>
+  
+  <main>
+    <article>
+      <h1 id="fazioni-waterdeep-dragon-heist">Fazioni — Waterdeep:
+      Dragon Heist</h1>
+      <blockquote>
+      <p>Aggiorna dopo ogni sessione rilevante. La posizione indica
+      l’atteggiamento generale della fazione verso il party (non verso
+      Waterdeep in generale).</p>
+      <p><strong>Posizioni:</strong> Ostile · Diffidente · Neutrale ·
+      Amichevole · Alleata</p>
+      </blockquote>
+      <hr />
+      <h2 id="fazioni-del-party">Fazioni del Party</h2>
+      <h3 id="arpisti-the-harpers">Arpisti <em>(The Harpers)</em></h3>
+      <table>
+      <colgroup>
+      <col style="width: 46%" />
+      <col style="width: 53%" />
+      </colgroup>
+      <thead>
+      <tr>
+      <th>Campo</th>
+      <th>Valore</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td><strong>Posizione verso il party</strong></td>
+      <td>Alleata</td>
+      </tr>
+      <tr>
+      <td><strong>PNG di contatto</strong></td>
+      <td><strong>Mirt il Cambiavalute</strong> (referente principale) ·
+      Remallia Haventree (secondario)</td>
+      </tr>
+      <tr>
+      <td><strong>Membro nel party</strong></td>
+      <td>Aelar Moonwhisper (Berto)</td>
+      </tr>
+      <tr>
+      <td><strong>Sede operativa</strong></td>
+      <td>Villa di Mirt, Castle Ward</td>
+      </tr>
+      <tr>
+      <td><strong>Ultimo evento</strong></td>
+      <td>— <em>(campagna non iniziata)</em></td>
+      </tr>
+      </tbody>
+      </table>
+      <p><strong>Stile operativo:</strong> Rete di informatori
+      nell’ombra. Comunicazione via animali addestrati e messaggi
+      cifrati. Spille d’argento come parola d’ordine. Minima traccia
+      visibile. Obiettivo: proteggere l’equilibrio politico e impedire
+      che le tirannie si consolidino.</p>
+      <p><strong>Missioni disponibili:</strong> - M1 (Lv 2): Un Cavallo
+      Donato — sorveglianza su Davil Starsong e Yagra - M2 (Lv 3):
+      Disinfestazione — Gazer di Xanathar in una libreria - M3 (Lv 4):
+      Benvenuti in Famiglia — doppelganger alleabili? - M4 (Lv 4): Velo
+      Alzato — infiltrazione su Eyecatcher, prove contro Jarlaxle</p>
+      <p><strong>Tensioni interne:</strong> Nessuna al momento. Aelar è
+      un agente fidato.</p>
+      <p><strong>Note DM:</strong> Mirt è consapevole che Jarlaxle (come
+      Zardoz Zord) sta operando a Waterdeep. La M4 è il momento in cui
+      gli Arpisti si espongono di più.</p>
+      <hr />
+      <h3 id="force-grey-le-mani-grigie">Force Grey <em>(Le Mani
+      Grigie)</em></h3>
+      <table>
+      <colgroup>
+      <col style="width: 46%" />
+      <col style="width: 53%" />
+      </colgroup>
+      <thead>
+      <tr>
+      <th>Campo</th>
+      <th>Valore</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td><strong>Posizione verso il party</strong></td>
+      <td>Alleata</td>
+      </tr>
+      <tr>
+      <td><strong>PNG di contatto</strong></td>
+      <td><strong>Vajra Safahr</strong> — il Bastone Nero (referente
+      diretto)</td>
+      </tr>
+      <tr>
+      <td><strong>Membri nel party</strong></td>
+      <td>Razak Kendal (Mirko), Thraximundar (Seba)</td>
+      </tr>
+      <tr>
+      <td><strong>Sede operativa</strong></td>
+      <td>Torre del Bastone Nero, Castle Ward</td>
+      </tr>
+      <tr>
+      <td><strong>Ultimo evento</strong></td>
+      <td>— <em>(campagna non iniziata)</em></td>
+      </tr>
+      </tbody>
+      </table>
+      <p><strong>Stile operativo:</strong> Risposta a minacce di scala
+      urbana. Operano su ordine diretto di Vajra. I ranghi più alti
+      (Force Grey) sono riservati ai più capaci; i ranghi base (Mani
+      Grigie) sono accessibili prima. Nessun compromesso sulla sicurezza
+      di Waterdeep.</p>
+      <p><strong>Missioni disponibili:</strong> - M1 (Lv 2): Il Carico
+      del Fondatore — presagio di Hlam, veleno Midnight Tears, lista
+      Cassalanters - M2 (Lv 3): Non è Tutto Oro… — giovane drago di
+      bronzo nel porto navale - M3 (Lv 4): Crimini di Pensiero — Meloon
+      Wardragon e il Divoratore di Intelletto - M4 (Lv 5): Cose
+      Terribili da Sprecare — eliminare Nihiloor nel covo di
+      Xanathar</p>
+      <p><strong>Collegamento all’arco principale:</strong> La M1 mette
+      il party su una pista dei Cassalanters fin dall’inizio (lista
+      carico / veleno). Questo anticipa il capitolo 5/6.</p>
+      <p><strong>Note DM:</strong> Vajra non rivela tutto quello che sa.
+      È il Bastone Nero: accede a tutta la magia arcana difensiva di
+      Waterdeep. Se il party si comporta bene, può essere una risorsa
+      enorme nei capitoli finali.</p>
+      <hr />
+      <h3 id="zentharim-la-rete-nera">Zentharim <em>(La Rete
+      Nera)</em></h3>
+      <table>
+      <colgroup>
+      <col style="width: 46%" />
+      <col style="width: 53%" />
+      </colgroup>
+      <thead>
+      <tr>
+      <th>Campo</th>
+      <th>Valore</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td><strong>Posizione verso il party</strong></td>
+      <td>Neutrale / Amichevole <em>(dipende dalle azioni)</em></td>
+      </tr>
+      <tr>
+      <td><strong>PNG di contatto</strong></td>
+      <td><strong>Davil Starsong</strong> (Portale Sbadigliante, Dock
+      Ward) · Yagra Stonefist (braccio armato)</td>
+      </tr>
+      <tr>
+      <td><strong>Membri nel party</strong></td>
+      <td>Gabri (Gabri) — contatto primario; Eric (Eric) — fuggitiva da
+      Manshoon</td>
+      </tr>
+      <tr>
+      <td><strong>Sede operativa</strong></td>
+      <td>Portale Sbadigliante <em>(taverna nel Dock Ward)</em></td>
+      </tr>
+      <tr>
+      <td><strong>Ultimo evento</strong></td>
+      <td>— <em>(campagna non iniziata)</em></td>
+      </tr>
+      </tbody>
+      </table>
+      <p><strong>Stile operativo:</strong> Mercenari, traffici,
+      controllo della criminalità organizzata. Davil Starsong ha un
+      codice personale — non è un villain, è un pragmatico. Non tutti
+      gli Zhentarim sono uguali. La fazione è divisa tra chi segue
+      Manshoon e chi lavora in modo indipendente a Waterdeep.</p>
+      <p><strong>Archi di Gabri e Eric:</strong> Entrambi seguono la
+      questline M1-M4 ma con motivazioni diverse. Gabri: rottura morale
+      verso Oathbreaker; Eric: riconoscimento come membro pragmatico
+      della fazione + possibilità di scoprire informazioni su Rennis
+      scomparso. M4 (assassinio Skeemo / connessione Manshoon) potrebbe
+      offrire il filo narrativo su Rennis.</p>
+      <p><strong>Missioni disponibili:</strong> - M1 (Lv 2): Un Brutto
+      Momento — assassino drow, marinai elfi, proteggere Heldar - M2 (Lv
+      3): Tieni il Resto — consegna pozioni, Skeemo, ladra in mantello
+      viola, ombra di Manshoon - M3 (Lv 4): Corri, Dasher! — mezzuomo
+      nobile scomparso, famiglia Snobeedle - M4 (Lv 5): Sangue del Patto
+      — eliminare il traditore Skeemo Weirdbottle (Gabri breaking point;
+      Eric opportunità scoperta su Rennis tramite Skeemo/Manshoon)</p>
+      <p><strong>Tensione narrativa:</strong> - Barnabus Reed (Silvia)
+      vuole catturare Urstul Floxin (Zhentarim). Il party potrebbe
+      trovarsi a lavorare <em>per</em> gli Zhentarim mentre Barnabus li
+      indaga. - Eric entra ignara del collegamento Rennis-Manshoon-Kolat
+      Towers. La questline le offre opportunità di scoperta se segue i
+      fili narrativi.</p>
+      <p><strong>Note DM:</strong> Skeemo Weirdbottle appare nella M2
+      come PNG minore e nella M4 come obiettivo. È una possibile
+      connessione a Manshoon / Kolat Towers (filo narrativo per Eric).
+      Le M2-M4 sfiorano il retroscena di Manshoon; Eric potrebbe
+      scoprire informazioni su Rennis durante questi incarichi se indaga
+      con cura.</p>
+      <hr />
+      <h2 id="fazioni-della-città-npc-nessun-membro-nel-party">Fazioni
+      della Città <em>(NPC, nessun membro nel party)</em></h2>
+      <h3 id="gilda-di-xanathar">Gilda di Xanathar</h3>
+      <table>
+      <colgroup>
+      <col style="width: 46%" />
+      <col style="width: 53%" />
+      </colgroup>
+      <thead>
+      <tr>
+      <th>Campo</th>
+      <th>Valore</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td><strong>Posizione verso il party</strong></td>
+      <td>Neutrale → potenzialmente Ostile</td>
+      </tr>
+      <tr>
+      <td><strong>PNG chiave</strong></td>
+      <td><strong>Xanathar</strong> (beholder paranoico) · Nihiloor
+      (illithid, Force Grey M4)</td>
+      </tr>
+      <tr>
+      <td><strong>Sede</strong></td>
+      <td>Covo sotterraneo sotto Waterdeep (Capitolo 5 WDH)</td>
+      </tr>
+      <tr>
+      <td><strong>Ultimo evento</strong></td>
+      <td>—</td>
+      </tr>
+      </tbody>
+      </table>
+      <p>La Gilda di Xanathar è la più grande organizzazione criminale
+      di Waterdeep. Xanathar è paranoico e letale. Nihiloor è il suo
+      interrogatore psichico. Il party si incrocerà con questa fazione
+      già nelle prime sessioni (Arpisti M2 — il Gazer è loro).</p>
+      <hr />
+      <h3 id="bregan-daerthe">Bregan D’aerthe</h3>
+      <table>
+      <colgroup>
+      <col style="width: 46%" />
+      <col style="width: 53%" />
+      </colgroup>
+      <thead>
+      <tr>
+      <th>Campo</th>
+      <th>Valore</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td><strong>Posizione verso il party</strong></td>
+      <td>Neutrale — ignota al party</td>
+      </tr>
+      <tr>
+      <td><strong>PNG chiave</strong></td>
+      <td><strong>Jarlaxle Baenre</strong> (alias Zardoz Zord) ·
+      Fel’rekt Lafeen · Soluun Xibrindas</td>
+      </tr>
+      <tr>
+      <td><strong>Sede</strong></td>
+      <td>Nave Eyecatcher nel porto; Sea Maidens Faire</td>
+      </tr>
+      <tr>
+      <td><strong>Ultimo evento</strong></td>
+      <td>—</td>
+      </tr>
+      </tbody>
+      </table>
+      <p>Mercenari drow di Jarlaxle. Operano sotto copertura come troupe
+      circense (<em>Sea Maidens Faire</em>). Il party verrà a sapere di
+      loro gradualmente. La M4 degli Arpisti porta direttamente
+      all’Eyecatcher.</p>
+      <hr />
+      <h3
+      id="harpers-ordine-del-guanto-lega-dei-lord-enclave-smeraldo">Harpers
+      / Ordine del Guanto / Lega dei Lord / Enclave Smeraldo</h3>
+      <table>
+      <colgroup>
+      <col style="width: 21%" />
+      <col style="width: 26%" />
+      <col style="width: 38%" />
+      <col style="width: 14%" />
+      </colgroup>
+      <thead>
+      <tr>
+      <th>Fazione</th>
+      <th>Posizione</th>
+      <th>PNG di rilievo</th>
+      <th>Note</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td><strong>Ordine del Guanto</strong></td>
+      <td>Neutrale</td>
+      <td>Savra Belabranta</td>
+      <td>Paladini e guerrieri; rispettano la Force Grey</td>
+      </tr>
+      <tr>
+      <td><strong>Lega dei Lord</strong></td>
+      <td>Neutrale</td>
+      <td>Jalester Silvermane</td>
+      <td>Federazione di città; interessi politici; poco visibile</td>
+      </tr>
+      <tr>
+      <td><strong>Enclave Smeraldo</strong></td>
+      <td>Neutrale</td>
+      <td>Jeryth Phaulkon</td>
+      <td>Natura e equilibrio; periferica alla trama urbana</td>
+      </tr>
+      </tbody>
+      </table>
+      <p>Queste fazioni esistono a Waterdeep e possono essere usate come
+      contatti occasionali, ma non hanno un ruolo primario nell’arco
+      Cassalanters.</p>
+      <hr />
+      <h3 id="cassalanters-villain-principali">Cassalanters <em>(Villain
+      principali)</em></h3>
+      <table>
+      <colgroup>
+      <col style="width: 46%" />
+      <col style="width: 53%" />
+      </colgroup>
+      <thead>
+      <tr>
+      <th>Campo</th>
+      <th>Valore</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td><strong>Posizione verso il party</strong></td>
+      <td>Ostile <em>(ignota al party)</em></td>
+      </tr>
+      <tr>
+      <td><strong>PNG chiave</strong></td>
+      <td>Victoro Cassalanter · Ammalia Cassalanter · Hrabbaz (guardia
+      del corpo)</td>
+      </tr>
+      <tr>
+      <td><strong>Sede</strong></td>
+      <td>Villa Cassalanter, Sea Ward + tempio segreto di Asmodeo</td>
+      </tr>
+      <tr>
+      <td><strong>Stato del piano</strong></td>
+      <td>Cercano 99 anime innocenti + 999 dragoni d’oro entro
+      l’estate</td>
+      </tr>
+      <tr>
+      <td><strong>Ultimo evento</strong></td>
+      <td>—</td>
+      </tr>
+      </tbody>
+      </table>
+      <p><strong>[NOTA DM — riservata]</strong> I Cassalanters sono
+      dietro al veleno Midnight Tears del Giorno dei Fondatori (Force
+      Grey M1). Cercano lo Stone of Golorr per ottenere i 999 dragoni.
+      Sono mondani, cortesi e pericolosissimi. Non si rivelano mai
+      direttamente nelle prime sessioni.</p>
+      <hr />
+      <h3 id="guardia-cittadina-istituzione">Guardia Cittadina
+      <em>(istituzione)</em></h3>
+      <table>
+      <colgroup>
+      <col style="width: 46%" />
+      <col style="width: 53%" />
+      </colgroup>
+      <thead>
+      <tr>
+      <th>Campo</th>
+      <th>Valore</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td><strong>Posizione verso il party</strong></td>
+      <td>Neutrale → Amichevole <em>(dipende dal
+      comportamento)</em></td>
+      </tr>
+      <tr>
+      <td><strong>PNG chiave</strong></td>
+      <td>Laeral Silverhand (Open Lord) · Hyustus Staget (Capitano
+      Porto, antagonista di Barnabus) · Saeth Cromley (Sergente
+      collaborativo)</td>
+      </tr>
+      <tr>
+      <td><strong>Note</strong></td>
+      <td>Il party è a Waterdeep legalmente. Rispettare il Codice Legale
+      è importante. I magistri (toghe nere) emettono sentenze senza
+      processo.</td>
+      </tr>
+      </tbody>
+      </table>
+    </article>
+  </main>
+</div>
+
+<footer>
+  <p>🎭 <strong>Waterdeep: Dragon Heist</strong> — Wiki Campagna | Ultima modifica: <time>07/04/2026</time></p>
+  <p><a href="../INDEX.html">← Torna al Menu Principale</a></p>
+</footer>
+</body>
+</html>
+

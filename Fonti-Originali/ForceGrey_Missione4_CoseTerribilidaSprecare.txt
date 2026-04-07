@@ -1,0 +1,354 @@
+﻿FORCE GREY
+Le Mani Grigie di Waterdeep
+
+
+MISSIONE 4 — LIVELLO 5
+Cose Terribili da Sprecare
+I Divoratori di Intelletto si moltiplicano. Qualcuno li produce, li addestra, li manda. Quel qualcuno è Nihiloor — il Flayer della mente nel covo di Xanathar. Le Mani Grigie non devono catturarlo. Non devono interrogarlo. Devono ucciderlo.
+	
+
+Ambientazione: Waterdeep — Le strade + il Covo di Xanathar (WDH Cap. 5)
+Livello Consigliato: 5  |  Durata Stimata: 4–6 ore  |  Giocatori: 4–6
+________________
+
+
+Nota al Dungeon Master
+
+
+Questa missione è il capitolo finale del ciclo Force Grey e presuppone che il covo di Xanathar sia già stato introdotto nella campagna (WDH, Capitolo 6). La mappa, le stanze e i PNG del covo non vengono ridescriitti qui — il DM dovrà avere il Capitolo 6 di WDH a portata di mano durante questa sessione.Ciò che questo modulo fornisce: l'agguato di apertura, i tre percorsi per trovare il covo, le istruzioni per l'infiltrazione, il profilo di Nihiloor come boss finale con statistiche e tattiche personalizzate per questo incontro, e la chiusura narrativa dell'intera storyline Force Grey.
+	________________
+
+
+Panoramica dell'Avventura
+
+
+Tre missioni per costruire le fondamenta. Una per abbattere tutto. Dall'avvelenamento al porto al drago nel porto, dal guerriero infestato a questo momento — tutte le fila convergono su un'unica creatura: Nihiloor, il Mind Flayer che opera nel covo di Xanathar e che ha orchestrato l'infiltrazione dei Divoratori di Intelletto nelle Mani Grigie.
+La missione inizia con un agguato — un ultimo Divoratore, mandato a fermare il gruppo prima che arrivi troppo vicino alla verità. Sopravvivono, ricevono l'ordine di Vajra, e poi devono fare la cosa più difficile che le Mani Grigie facciano mai: entrare nel territorio nemico senza autorizzazione, senza rinforzi, e uccidere qualcosa di molto più antico e intelligente di loro.
+
+
+Arco Narrativo di Chiusura
+Questa missione chiude tre fili narrativi aperti nelle missioni precedenti:
+* Il veleno Midnight Tears e i nomi Cassalanter/Gralhund (Missione 1) — Nihiloor era il tramite tra chi ha ordinato il veleno e chi lo produceva.
+* Il teschio d'oro che ha risvegliato Obliteros (Missione 2) — si trovava nel covo di Xanathar prima di finire in fondo al porto.
+* Il Divoratore di Intelletto in Meloon (Missione 3) — prodotto e addestrato da Nihiloor nel covo.
+
+
+Obiettivi Principali
+* Sopravvivere all'agguato del Divoratore di Intelletto.
+* Trovare l'ingresso al covo di Xanathar.
+* Infiltrarsi nel covo e raggiungere Nihiloor.
+* Assassinare Nihiloor.
+________________
+
+
+Scena 1 — L'Agguato
+
+
+Quando Avviene
+Il gruppo si sta preparando a entrare nel caveau — nel momento peggiore possibile. L'agguato è progettato per sembrare casuale, ma non lo è: Nihiloor sa che le Mani Grigie si stanno avvicinando, e ha mandato un ultimo Divoratore per fermarli o almeno per raccogliere informazioni prima di morire.
+Il Divoratore è già in un ospite — un passante qualunque, un lavoratore di bassa estrazione, qualcuno che il gruppo non riconoscerebbe mai come minaccia finché non è troppo tardi. L'attacco arriva da vicino, improvviso, senza preavviso.
+
+
+L'Ospite: Chi è
+Tira 1d4 o scegli tra le seguenti opzioni per decidere chi ospita il Divoratore:
+
+
+d4
+	Ospite
+	Dettaglio Narrativo
+	1
+	Un fattorino di panetteria
+	Si avvicina al gruppo con un sorriso e una cesta di pane. Attacca quando è a 1,5 m. Se liberato, non ricorda nulla degli ultimi tre giorni.
+	2
+	Un bambino di strada
+	Il momento più difficile moralmente. Il Divoratore sa che il gruppo esiterà. Se il gruppo non riesce ad agire, il Divoratore ha un round extra prima di essere colpito.
+	3
+	Una guardia cittadina
+	Porta un'uniforme autentica. Attaccare una guardia in uniforme richiede un TS Carisma CD 12 o il personaggio esita (perde la sua azione bonus quel round).
+	4
+	Un mendicante cieco
+	La cecità è autentica — il Divoratore naviga usando il senso della mente. Quando viene espulso, l'ex ospite grida di terrore senza capire cosa sia successo.
+	
+
+Il Messaggio Lasciato
+Un'ora dopo l'agguato, arriva il Sending di Vajra. Questa volta non c'è ambiguità, non c'è margine di interpretazione:
+
+
+"Divoratori di intelletto. Troppi, troppo spesso. Infiltratevi nel covo di Xanathar ed eliminatene la fonte."
+	
+
+Il gruppo non ha bisogno di altro. Sa già dove deve andare — o deve scoprirlo.
+________________
+
+
+Scena 2 — Trovare l'Ingresso
+
+
+Se il covo di Xanathar è già noto al gruppo dalla campagna principale, questa scena è breve: si dirigono verso l'ingresso noto e si preparano. Se invece devono trovarlo, hanno tre strade.
+
+
+Percorso A — Gli Agenti di Xanathar
+Xanathar mantiene una rete di agenti in tutta la città — contrabbandieri, guardie corrotte, informatori nei mercati. Catturarne uno e interrogarlo è il metodo più diretto ma anche il più rumoroso.
+Come trovare un agente: Una prova di Intelligenza (Indagare) CD 14 o Carisma (Persuasione) CD 12 con un contatto al porto o nel Quartiere dell'Acqua permette di identificare un agente di basso livello entro 1d4 ore.
+L'interrogatorio: Carisma (Intimidazione) CD 15 o Carisma (Persuasione) CD 18. L'agente conosce un punto di contatto — un ingresso secondario usato per i rifornimenti — ma non la struttura interna del covo. Conosce la parola d'ordine del giorno con un tiro di Fortuna (il DM decide se l'agente la sa).
+
+
+Nota per il DM: Se Seba è nel gruppo, le sue capacità investigative rendono l'identificazione dell'agente automatica (nessuna prova richiesta) — sa già chi cercare grazie alle informazioni dell'Ordine Vigilante accumulate nelle missioni precedenti.
+	
+
+Percorso B — Il Mind Flayer del Capitolo 1
+Se il gruppo ha già incontrato un Mind Flayer (o un suo agente) nel corso del Capitolo 1 della campagna, può tornare in quel nascondiglio e tendergli un'imboscata. Il Mind Flayer conosce l'ingresso principale del covo e — se ridotto a meno della metà dei PF — può essere convinto a parlare con una prova di Carisma (Intimidazione) CD 16.
+Informazioni ottenibili:
+* L'ingresso principale al covo e come evitare la prima guardia.
+* La posizione approssimativa di Nihiloor all'interno del covo ("nelle profondità, vicino alla vasca dell'Anziano").
+* Il fatto che Nihiloor sa già che qualcuno sta venendo — i Divoratori sono i suoi occhi e orecchie in città.
+
+
+Percorso C — Renaer Neverember
+Se il gruppo è bloccato, Renaer Neverember — figlio del Signore Aperto esiliato, ansioso di riscattare il nome di famiglia — ricorda un dettaglio che ha sentito al Portale Sbadigliante mesi fa: un contrabbandiere ubriaco parlava di un ingresso al Profondo attraverso una vecchia cantina nei pressi del Vicolo dei Conciatori.
+
+
+Renaer (con l'entusiasmo un po' imbarazzante di chi vuole aiutare ma sa di essere fuori dal suo elemento):"So che sembra vago. E lo è. Ma quel tizio era abbastanza sobrio da descrivere una porta di ferro con un occhio inciso sopra — non esattamente discreta come immagine. Se vi serve qualcuno che conosce il Quartiere dell'Acqua meglio di chiunque altro, conosco due persone. Una è una ladra che mi deve un favore. L'altra sono io — e non sono bravo quanto lei, ma faccio del mio meglio."
+	________________
+
+
+Scena 3 — Infiltrazione nel Covo
+
+
+Il covo di Xanathar è descritto integralmente nel Capitolo 5 di WDH, inclusi mappa, stanze, trappole e PNG. Questa sezione fornisce solo le istruzioni specifiche per questa missione — come gestire l'ingresso, quali elementi evidenziare, e come Nihiloor reagisce all'avanzata del gruppo.
+	
+
+Ruolo Tecnico nell'Infiltrazione
+Un personaggio con competenze tecniche (come un Artefice, un Ladro esperto di trappole, o simile specializzazione) è il punto di riferimento durante l'infiltrazione. Le sue capacità hanno applicazioni pratiche in ogni fase dell'avanzata:
+
+
+Ostacolo
+	Contributo Tecnico
+Trappole meccaniche
+	Un personaggio con attrezzi da ladro o simile specializzazione può disattivare trappole con vantaggio. Se usa un'azione, può anche identificare trappole magiche entro 9 m (Arcana CD 13).
+Interferenza psichica di Nihiloor
+	I congegni magici nel covo vengono disturbati dall'emanazione psichica del Mind Flayer. Chi ha capacità di ricalibrare oggetti magici è l'unico che può farlo — richiede 1 minuto di lavoro per ogni oggetto.
+Porte rinforzate
+	Con gli attrezzi appropriati e 10 minuti di lavoro, qualcuno esperto può aprire qualsiasi porta rinforzata non magicamente bloccata senza fare rumore.
+Guardie ferite/KO
+	Chiunque abbia competenze mediche o di guarigione può stabilizzare gli alleati con 1 azione, senza usare Dadi Vita.
+
+Nihiloor Sa che Stanno Arrivando
+Nihiloor ha sentito la morte del suo ultimo Divoratore. Sa che il gruppo è in movimento. Usa questo tempo per preparare il terreno:
+* Attiva i Divoratori residenti nel covo, posizionandoli come sentinelle nelle stanze adiacenti alla sua posizione.
+* Ordina alle guardie di Xanathar più vicine di creare una barriera — non per fermare il gruppo, ma per rallentarlo abbastanza da far sì che lui completi un rituale di protezione.
+* Invia un messaggio telepatico al gruppo se si avvicinano entro 18 metri dalla sua posizione: una sensazione di freddo nella mente, seguita da una voce che non appartiene a nessuno presente: "So cosa siete. So cosa volete. Venite, dunque. Vi stavo aspettando."
+________________
+
+
+Scena 4 — Nihiloor, la Fonte
+
+
+Ambientazione dello Scontro
+Lo scontro con Nihiloor avviene nella sua camera personale all'interno del covo — una stanza circolare con pareti di pietra umida, illuminata da sfere di luce psichica viola che fluttuano vicino al soffitto. Al centro della stanza c'è una vasca di liquido scuro da cui emergono, a intervalli irregolari, i gurgle di qualcosa che cresce.
+La vasca di crescita: è qui che Nihiloor produce i Divoratori di Intelletto — usando cervelli di prigionieri come substrato. Se viene distrutta (PF 20, CA 10, immune ai danni psichici), qualsiasi Divoratore entro 18 metri perde la capacità di controllare il proprio ospite per 1 minuto (i controllati ottengono un TS Intelligenza CD 10 per liberarsi).
+
+
+Apertura dello Scontro
+Nihiloor non si nasconde. È seduto — se 'seduto' è la parola giusta per una creatura che sembra galleggiare leggermente sopra la sedia — al centro della stanza, i tentacoli che incorniciano il viso completamente immobili. Solo i suoi occhi bianchi si muovono, seguendo il gruppo con la calma di chi ha già calcolato ogni variabile."Le Mani Grigie. Quattro missioni. Tre mesi. Avete fatto progressi notevoli per creature così... transitorie."Alza una mano — gesto stranamente umano."Siete venuti per uccidermi. Non vi fermerò dal provarci. Ma prima che iniziamo — voglio che sappiate che ho imparato ogni cosa su di voi. I vostri nomi. Le vostre paure. I vostri segreti. Tutto ciò che i miei Divoratori hanno raccolto."Sorride. Non è un sorriso che appartiene alla sua anatomia, ma lo fa comunque."Sarà uno spreco magnifico."
+	
+
+Tattiche di Nihiloor
+Nihiloor combatte in tre fasi distinte, usando la sua intelligenza superiore per adattarsi al gruppo:
+
+
+Fase 1 — Controllo dell'Ambiente (PF pieno → 75 PF)
+* Nihiloor non si muove dalla sua posizione centrale per i primi due round — vuole che il gruppo venga da lui.
+* Usa Vorago della Mente su chi sembra più fragile mentalmente (basso punteggio di Saggezza o Intelligenza).
+* Attiva 1d3 Divoratori di Intelletto nascosti nelle pareti come azione bonus nel primo round.
+* Parla durante il combattimento — rivela un segreto del personaggio protagonista (Eric, o chi il DM sceglie) per destabilizzarlo psicologicamente. Non è un attacco meccanico, ma un attacco narrativo.
+
+
+Fase 2 — Pressione Psichica (74 PF → 40 PF)
+* Inizia a muoversi, usando Levitazione per spostarsi sopra la testa del gruppo e rendere gli attacchi in mischia più difficili.
+* Usa Esplosione Psichica non appena è disponibile — preferibilmente quando tre o più personaggi sono raggruppati.
+* Se la vasca di crescita viene attaccata, smette di parlare e usa ogni azione disponibile per proteggerla. Questa è la sua vera priorità.
+
+
+Fase 3 — Disperazione Lucida (39 PF → 0 PF)
+* Nihiloor sa che sta perdendo. Non fugge — non ha dove andare, e farlo significherebbe ammettere la sconfitta a Xanathar.
+* Usa Estrazione del Cervello su chiunque sia a portata, senza risparmio.
+* Ultima parola (se viene ridotto a 0 PF): "Xanathar... saprà..." e poi il silenzio. Non è una minaccia — è un promemoria.
+________________
+
+
+Statistiche — Nihiloor
+
+
+Nihiloor — Mind Flayer Arcanista
+	FOR
+	DES
+	COS
+	INT
+	SAG
+	CAR
+	11 (+0)
+	12 (+1)
+	12 (+1)
+	21 (+5)
+	17 (+3)
+	17 (+3)
+	CA
+	15 (veste con protezione arcana)
+	Punti Ferita
+	127 (17d8 + 51)
+	Velocità
+	9 m, levitazione 9 m (a volontà)
+	FP (CR)
+	9 (5.000 XP) — boss modificato per livello 5
+	Tiri Salvezza
+	Int +9, Sag +7, Car +7
+	Abilità
+	Arcana +9, Inganno +7, Intuizione +7, Percezione +7, Furtività +5, Persuasione +7
+	Immunità alle Condizioni
+	Affascinato, Spaventato
+	Resistenze
+	Danni psichici
+	Sensi
+	Percezione passiva 17, Vista nel buio 36 m, Telepatia 36 m
+	Lingue
+	Sottocomune, Profondo, Comune; telepatia 36 m
+	TRATTI
+Resistenza alla Magia: Nihiloor ha vantaggio ai tiri salvezza contro incantesimi e altri effetti magici.
+Emanazione Psichica: ogni creatura che inizia il proprio turno entro 9 m da Nihiloor deve superare un TS Intelligenza CD 15 o subire 4 (1d8) danni psichici.
+Padrone dei Divoratori: i Divoratori di Intelletto entro 18 m da Nihiloor non devono effettuare TS per mantenere il controllo dell'ospite.
+Interferenza Arcana (Speciale per Eric): congegni magici e armature runiche entro 9 m da Nihiloor funzionano al 50% della loro efficienza finché Nihiloor è in vita. Eric può compensare usando la sua azione bonus per ricalibrare un oggetto a turno.
+	AZIONI
+Attacco Multiplo: Nihiloor effettua due attacchi con i Tentacoli.
+Tentacolo: attacco con arma in mischia, +7 per colpire, gittata 1,5 m, un bersaglio. Colpisce: 15 (2d10+4) danni psichici. Se il bersaglio è di taglia Media o inferiore, viene afferrato (CD fuga 15) e Nihiloor può tentare Estrazione del Cervello il turno successivo.
+Estrazione del Cervello (solo su bersaglio afferrato): TS Intelligenza CD 15 o il bersaglio subisce 55 (10d10) danni psichici. Se ridotto a 0 PF, il cervello viene estratto e il bersaglio muore. In caso contrario, il bersaglio è stordito fino alla fine del suo prossimo turno.
+Vorago della Mente (Ricarica 5–6): un bersaglio entro 18 m deve superare un TS Saggezza CD 15 o essere incapacitato (stordito e incapace di agire) per 1 minuto. Il bersaglio può ripetere il TS alla fine di ogni suo turno.
+Esplosione Psichica (Ricarica 5–6): tutti i bersagli in un raggio di 9 m devono superare un TS Intelligenza CD 15 o subire 28 (8d6) danni psichici ed essere spinti indietro di 3 m. Con un successo, i danni sono dimezzati e non vengono spinti.
+	AZIONI LEGGENDARIE
+Nihiloor ha 3 azioni leggendarie, utilizzabili alla fine del turno di un'altra creatura. Le recupera all'inizio del suo turno.
+Balzo Telepatico (1 azione): Nihiloor si sposta fino a 6 m senza provocare attacchi di opportunità.
+Sussurro Oscuro (1 azione): un bersaglio entro 18 m deve superare un TS Saggezza CD 15 o essere spaventato da Nihiloor fino alla fine del suo prossimo turno.
+Espulsione Mentale (2 azioni): un Divoratore di Intelletto entro 9 m che controlla un ospite viene immediatamente espulso senza TS — Nihiloor preferisce perdere l'ospite piuttosto che rischiare che il Divoratore venga catturato con informazioni sensibili.
+	REAZIONI
+Reazione Psichica: quando subisce danni da un incantesimo, Nihiloor può usare la sua reazione per riflettere 1d6 danni psichici al lanciatore (nessun tiro salvezza).
+	INCANTESIMI
+Livello di incantatore: 10° (slot: 4/3/3/3/2). Modificatore di incantesimo: +9, CD 17.
+Trucchetti (a volontà): Raggio di Gelo, Mano del Mago, Illusione Minore.
+1° (4 slot): Dardo Incantato, Scudo, Brivido.
+2° (3 slot): Invisibilità, Suggestione.
+3° (3 slot): Contrincantesimo, Volare, Palla di Fulmine.
+4° (3 slot): Confusione, Porta Dimensionale.
+5° (2 slot): Dominare Persona, Modificare Memoria.
+	________________
+
+
+Statistiche — Divoratore di Intelletto (Agguato)
+
+
+Questa versione è quella usata nell'agguato di apertura — nell'ospite. Le statistiche variano in base all'ospite scelto, ma l'influenza del Divoratore è uniforme.
+
+
+Divoratore di Intelletto (in Ospite Comune)
+	FOR
+	DES
+	COS
+	INT
+	SAG
+	CAR
+	10 (+0)
+	13 (+1)
+	11 (+0)
+	12 (+1)
+	11 (+0)
+	10 (+0)
+	CA
+	12 (dell'ospite)
+	Punti Ferita
+	15 (dell'ospite, usa le statistiche dell'ospite)
+	Velocità
+	9 m (dell'ospite)
+	FP (CR)
+	2 (450 XP)
+	Abilità
+	Furtività +5, Inganno +4, Percezione +2
+	Immunità ai Danni
+	Psichici
+	Immunità alle Condizioni
+	Affascinato, Spaventato
+	Sensi
+	Telepatia 9 m, Vista nel buio 18 m (condivisa con l'ospite), Percezione passiva 12
+	Lingue
+	Sottocomune (telepatia); comprende la lingua dell'ospite
+	TRATTI
+Maschera Perfetta: finché è nell'ospite, una prova di Intuizione CD 16 è necessaria per rilevare che qualcosa non va. Seba può tentare Arcana CD 12 per rilevare la perturbazione psichica.
+Individuazione del Pensiero: percepisce automaticamente la posizione di qualsiasi creatura con Intelligenza 3+ entro 18 m.
+Connessione a Nihiloor: se il Divoratore muore o viene espulso, Nihiloor riceve immediatamente l'impressione mentale delle ultime cose viste dall'ospite.
+	AZIONI
+Artiglio dell'Ospite: utilizza l'attacco base dell'ospite (+3 per colpire, 1d6 danni da taglio o contundente).
+Artiglio Mentale (espulso): +5 per colpire, gittata 1,5 m, 7 (2d4+3) danni psichici.
+Divorare Intelletto (Ricarica 5–6): TS Intelligenza CD 12 o subire 11 (2d10) danni psichici e riduzione di 1d4 al punteggio di Intelligenza.
+	________________
+
+
+PNG — Profili Narrativi
+
+
+Nihiloor — La Fonte
+Aspetto: Un Mind Flayer dalla carnagione più pallida del solito — quasi traslucida. I tentacoli che incorniciano la bocca sono più lunghi della media e si muovono con una grazia che ricorda quella dei polipi. Porta vesti di seta nera che sembrano assorbire la luce.
+Personalità: Nihiloor è analitico oltre ogni misura umana — non perché sia freddo, ma perché trova genuinamente affascinante tutto ciò che osserva. Ha trascorso mesi a raccogliere informazioni sulle Mani Grigie non per odio, ma per curiosità intellettuale. Questo lo rende più inquietante dei nemici che combattono per rabbia o ideologia.
+Rapporto con Xanathar: Nihiloor serve Xanathar con la lealtà di chi ha trovato in un padrone abbastanza potere da lasciarlo operare liberamente. Non ama Xanathar — la nozione di amore è irrilevante per lui — ma rispetta la loro reciproca utilità.
+Ultima parola: Se viene sconfitto e ha ancora la parola: "Ho imparato molto da voi. È un peccato che nessuno possa usare queste informazioni adesso. Tranne Xanathar, naturalmente. Lui... sa già tutto."
+
+
+Renaer Neverember — Il Volontario
+Aspetto: Un giovane sulla trentina con il viso pulito di chi non ha ancora vissuto abbastanza per avere cicatrici. Veste bene ma non ostentosamente — vuole sembrare affidabile, non ricco.
+Personalità: Genuinamente motivato a riscattare il nome di famiglia. Non è un eroe — è un uomo che ha deciso di provare a esserlo e non è ancora sicuro se ci riesca. La sua utilità in questa missione è reale: conosce Waterdeep come le sue tasche e ha contatti in ogni quartiere.
+Dopo la missione: Se il gruppo lo ha coinvolto nel Percorso C, Renaer chiede di essere informato sulla morte di Nihiloor. La sua reazione — un lungo silenzio e poi un "Bene" detto sottovoce — dice più di mille parole.
+________________
+
+
+Conclusione — La Fine del Ciclo
+
+
+Il Rapporto a Vajra Safahr
+Quando il gruppo torna da Vajra con la notizia della morte di Nihiloor, la Bastone Nero li riceve con qualcosa che non hanno mai visto prima sul suo viso: sollievo. Non lo esprime con parole — lo esprime con un respiro che dura un secondo più del normale.
+
+
+"Nihiloor è morto. La vasca di crescita?"Se rispondo di sì: "Bene. Ci vorrà del tempo prima che qualcuno possa rimpiazzare quello che ha costruito. Del tempo che useremo."Una pausa più lunga del solito."Avete iniziato questa cosa al porto con una lista di carico. Avete trovato un drago, un guerriero infestato, un Mind Flayer. Non era quello che vi avevo promesso quando vi ho assoldati."Alza lo sguardo dal tavolo."Ma è quello che vi ho dato. Waterdeep è salva — per ora — anche grazie a voi. Non lo dimenticherò."È tutto. Per Vajra Safahr, è moltissimo.
+	
+
+Ricompense
+
+
+Ricompensa
+	Dettaglio
+	Esperienza
+	800 XP per ogni membro del gruppo + XP per i danni inflitti a Nihiloor (5.000 XP divisi nel gruppo)
+	Rinomanza Force Grey
+	+2 punti Rinomanza per ogni membro delle Mani Grigie
+	Pozione di Resistenza
+	Una per ogni personaggio che ha assistito alla morte di Nihiloor (scelta dell'elemento: fuoco, freddo, fulmine, acido, tuono, forza, psichico)
+	Raise Dead
+	Qualsiasi membro del gruppo morto durante la missione viene rianimato da Vajra a costo zero — senza condizioni, senza debiti.
+	Ricordi di Nihiloor
+	Se la vasca di crescita è stata preservata (non distrutta), i ricordi residui di Nihiloor nei fluidi della vasca possono essere estratti con Arcana CD 18 o da Seba con CD 14 — rivelano dettagli sull'organizzazione di Xanathar utili per la campagna principale.
+	
+
+Chiusura del Ciclo Force Grey — Riepilogo Narrativo
+In quattro missioni, le Mani Grigie hanno:
+* Smascherato un piano di avvelenamento di massa legato alle casate nobiliari di Waterdeep (Missione 1).
+* Stabilito un contatto diplomatico con un giovane drago di bronzo e neutralizzato uno squalo risvegliato (Missione 2).
+* Liberato un alleato chiave dall'infestazione psichica e scoperto che le Mani Grigie erano già state infiltrate (Missione 3).
+* Eliminato il Mind Flayer responsabile dell'intera rete di Divoratori e smantellato la sua vasca di crescita (Missione 4).
+
+
+Quello che rimane aperto:
+* Xanathar sa ancora tutto — Nihiloor ha trasmesso le sue ultime impressioni. La Gilda degli Occhi conosce il gruppo per nome e per faccia.
+* I nomi Cassalanter e Gralhund sono ancora sulla lista. Il piano del veleno non è stato smantellato — solo rallentato.
+* Zelifarn e Obliteros sono ancora nel porto. Meloon è libero. Azuredge ha parlato con il gruppo. Questi fili non finiscono qui.
+
+
+
+
+Force Grey — Missione 4: Cose Terribili da Sprecare
+Fine del Ciclo Force Grey — Campagna: Dragon Heist | Waterdeep

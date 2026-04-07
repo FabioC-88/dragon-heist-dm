@@ -1,0 +1,867 @@
+<!DOCTYPE html>
+<html lang="it" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="theme-color" content="#8b5cf6" />
+  <title>missioni-secondarie — Dragon Heist Wiki</title>
+  <link rel="stylesheet" href="../style.css" />
+  <style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    :root {
+        --primary: #8b5cf6;
+        --primary-dark: #7c3aed;
+        --primary-light: #a78bfa;
+        --secondary: #06b6d4;
+        --accent: #f59e0b;
+        --dark-bg: #0f172a;
+        --light-bg: #f8fafc;
+        --card-bg: #ffffff;
+        --text-dark: #1e293b;
+        --text-light: #475569;
+        --border: #e2e8f0;
+    }
+    
+    html {
+        scroll-behavior: smooth;
+    }
+    
+    body {
+        font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Trebuchet MS', sans-serif;
+        line-height: 1.7;
+        background: linear-gradient(135deg, var(--light-bg) 0%, #f1f5f9 100%);
+        color: var(--text-dark);
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    /* Header */
+    header {
+        background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+        color: white;
+        padding: 1.5em 2em;
+        box-shadow: 0 4px 12px rgba(139, 92, 246, 0.2);
+        position: sticky;
+        top: 0;
+        z-index: 100;
+    }
+    
+    header .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    header h1 {
+        font-size: 1.5em;
+        margin: 0;
+        font-weight: 600;
+        letter-spacing: -0.5px;
+    }
+    
+    header a {
+        color: white;
+        text-decoration: none;
+        transition: opacity 0.3s;
+    }
+    
+    header a:hover {
+        opacity: 0.8;
+    }
+    
+    .breadcrumbs {
+        font-size: 0.9em;
+        opacity: 0.9;
+    }
+    
+    .breadcrumbs a {
+        color: rgba(255, 255, 255, 0.8);
+        text-decoration: none;
+    }
+    
+    .breadcrumbs a:hover {
+        color: white;
+    }
+    
+    /* Main Container */
+    .page-wrapper {
+        flex: 1;
+        display: flex;
+        max-width: 100%;
+    }
+    
+    .sidebar {
+        width: 280px;
+        background: var(--card-bg);
+        border-right: 1px solid var(--border);
+        padding: 2em 1.5em;
+        overflow-y: auto;
+        max-height: calc(100vh - 80px);
+        position: sticky;
+        top: 80px;
+    }
+    
+    .sidebar h3 {
+        font-size: 1.1em;
+        color: var(--primary-dark);
+        margin-bottom: 1em;
+        padding-bottom: 0.5em;
+        border-bottom: 2px solid var(--primary);
+    }
+    
+    .sidebar nav ul {
+        list-style: none;
+        margin: 0;
+    }
+    
+    .sidebar nav ul li {
+        margin: 0.5em 0;
+    }
+    
+    .sidebar nav a {
+        color: var(--text-light);
+        text-decoration: none;
+        display: block;
+        padding: 0.5em 0.75em;
+        border-radius: 4px;
+        transition: all 0.2s;
+        font-size: 0.95em;
+    }
+    
+    .sidebar nav a:hover {
+        background-color: rgba(139, 92, 246, 0.1);
+        color: var(--primary);
+        padding-left: 1.2em;
+    }
+    
+    /* Content */
+    main {
+        flex: 1;
+        padding: 2.5em;
+        max-width: 900px;
+    }
+    
+    article {
+        background: var(--card-bg);
+        border-radius: 12px;
+        padding: 2.5em;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+        margin-bottom: 2em;
+    }
+    
+    h1 {
+        color: var(--primary-dark);
+        font-size: 2.2em;
+        margin: 0.8em 0 0.4em;
+        font-weight: 700;
+        letter-spacing: -0.5px;
+        border-bottom: 3px solid var(--primary);
+        padding-bottom: 1em;
+    }
+    
+    h2 {
+        color: var(--primary);
+        font-size: 1.6em;
+        margin: 1.3em 0 0.5em;
+        font-weight: 600;
+        letter-spacing: -0.3px;
+    }
+    
+    h3 {
+        color: var(--primary-dark);
+        font-size: 1.2em;
+        margin: 1em 0 0.4em;
+        font-weight: 600;
+    }
+    
+    h4, h5, h6 {
+        color: var(--text-dark);
+        margin: 0.8em 0 0.3em;
+        font-weight: 600;
+    }
+    
+    p {
+        margin-bottom: 1em;
+        color: var(--text-light);
+    }
+    
+    a {
+        color: var(--primary);
+        text-decoration: none;
+        font-weight: 500;
+        transition: all 0.2s;
+    }
+    
+    a:hover {
+        color: var(--primary-dark);
+        text-decoration: underline;
+        text-decoration-thickness: 2px;
+    }
+    
+    code {
+        background-color: rgba(139, 92, 246, 0.1);
+        color: var(--primary-dark);
+        padding: 4px 8px;
+        border-radius: 4px;
+        font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+        font-size: 0.9em;
+        border: 1px solid rgba(139, 92, 246, 0.2);
+    }
+    
+    pre {
+        background-color: var(--dark-bg);
+        color: #e0e7ff;
+        padding: 1.5em;
+        border-radius: 8px;
+        overflow-x: auto;
+        line-height: 1.5;
+        margin: 1.5em 0;
+        border-left: 4px solid var(--primary);
+        box-shadow: 0 4px 12px rgba(139, 92, 246, 0.1);
+    }
+    
+    pre code {
+        background: transparent;
+        color: #e0e7ff;
+        padding: 0;
+        border: none;
+    }
+    
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 1.5em 0;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+    }
+    
+    table thead {
+        background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+    }
+    
+    table th {
+        color: white;
+        padding: 1em;
+        text-align: left;
+        font-weight: 600;
+        font-size: 0.95em;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+    }
+    
+    table td {
+        padding: 1em;
+        border-bottom: 1px solid var(--border);
+        color: var(--text-light);
+    }
+    
+    table tbody tr {
+        transition: all 0.2s;
+    }
+    
+    table tbody tr:hover {
+        background-color: rgba(139, 92, 246, 0.05);
+    }
+    
+    table tbody tr:last-child td {
+        border-bottom: none;
+    }
+    
+    ul, ol {
+        margin: 1em 0 1em 2em;
+        color: var(--text-light);
+    }
+    
+    li {
+        margin: 0.5em 0;
+    }
+    
+    blockquote {
+        border-left: 5px solid var(--primary);
+        margin: 1.5em 0;
+        padding: 1.2em 1.5em;
+        background-color: rgba(139, 92, 246, 0.05);
+        border-radius: 4px;
+        color: var(--text-light);
+        font-style: italic;
+        font-size: 1.05em;
+    }
+    
+    hr {
+        border: none;
+        height: 2px;
+        background: linear-gradient(90deg, transparent, var(--primary), transparent);
+        margin: 2.5em 0;
+    }
+    
+    /* TOC */
+    nav#TOC {
+        background: rgba(139, 92, 246, 0.05);
+        border: 1px solid var(--border);
+        border-radius: 8px;
+        padding: 1.5em;
+        margin: 2em 0;
+        border-left: 4px solid var(--primary);
+    }
+    
+    nav#TOC h2 {
+        margin-top: 0;
+        font-size: 1.2em;
+    }
+    
+    nav#TOC ul {
+        list-style: none;
+        margin: 0;
+    }
+    
+    nav#TOC li {
+        margin: 0.5em 0 0.5em 1.5em;
+        position: relative;
+    }
+    
+    nav#TOC li:before {
+        content: "▸";
+        position: absolute;
+        left: -1.2em;
+        color: var(--primary);
+        font-weight: bold;
+    }
+    
+    nav#TOC a {
+        color: var(--primary);
+    }
+    
+    nav#TOC a:hover {
+        color: var(--primary-dark);
+    }
+    
+    /* Footer */
+    footer {
+        background: var(--dark-bg);
+        color: #cbd5e1;
+        padding: 2em;
+        text-align: center;
+        font-size: 0.9em;
+        border-top: 1px solid var(--border);
+        margin-top: auto;
+    }
+    
+    footer a {
+        color: var(--primary-light);
+    }
+    
+    /* Responsive */
+    @media (max-width: 1024px) {
+        .sidebar {
+            width: 240px;
+            padding: 1.5em 1em;
+        }
+        
+        main {
+            padding: 2em;
+        }
+        
+        article {
+            padding: 2em;
+        }
+    }
+    
+    @media (max-width: 768px) {
+        .page-wrapper {
+            flex-direction: column;
+        }
+        
+        .sidebar {
+            width: 100%;
+            max-height: none;
+            position: static;
+            border-right: none;
+            border-bottom: 1px solid var(--border);
+            padding: 1.5em;
+        }
+        
+        main {
+            padding: 1.5em;
+            max-width: 100%;
+        }
+        
+        article {
+            padding: 1.5em;
+        }
+        
+        h1 {
+            font-size: 1.8em;
+        }
+        
+        h2 {
+            font-size: 1.3em;
+        }
+        
+        h3 {
+            font-size: 1.05em;
+        }
+        
+        header .container {
+            flex-direction: column;
+            gap: 0.5em;
+        }
+        
+        header h1 {
+            font-size: 1.2em;
+        }
+    }
+  </style>
+</head>
+<body>
+<header>
+  <div class="container">
+    <h1><a href="../INDEX.html" class="logo-link">🗺️ Dragon Heist Wiki</a></h1>
+    <div class="breadcrumbs">missioni-secondarie</div>
+  </div>
+</header>
+
+<div class="page-wrapper">
+  <aside class="sidebar">
+    <a href="../INDEX.html" class="index-link" style="display: block; margin-bottom: 1.5em; padding: 0.8em 1em; background-color: var(--primary); color: white; text-decoration: none; border-radius: 6px; text-align: center; font-weight: 600; transition: all 0.2s;">📖 Torna all'Indice</a>
+    
+        <h3>📑 Indice Pagina</h3>
+    <nav>
+    <ul>
+    <li><a href="#missioni-secondarie-waterdeep-dragon-heist"
+    id="toc-missioni-secondarie-waterdeep-dragon-heist">Missioni
+    Secondarie — Waterdeep: Dragon Heist</a>
+    <ul>
+    <li><a href="#legenda-livelli-capitoli"
+    id="toc-legenda-livelli-capitoli">Legenda livelli /
+    capitoli</a></li>
+    <li><a href="#arpisti" id="toc-arpisti">Arpisti</a>
+    <ul>
+    <li><a href="#note-per-il-dm-arpisti"
+    id="toc-note-per-il-dm-arpisti">Note per il DM — Arpisti</a></li>
+    </ul></li>
+    <li><a href="#force-grey" id="toc-force-grey">Force Grey</a>
+    <ul>
+    <li><a href="#note-per-il-dm-force-grey"
+    id="toc-note-per-il-dm-force-grey">Note per il DM — Force
+    Grey</a></li>
+    </ul></li>
+    <li><a href="#zentharim" id="toc-zentharim">Zentharim</a>
+    <ul>
+    <li><a href="#note-per-il-dm-zentharim"
+    id="toc-note-per-il-dm-zentharim">Note per il DM —
+    Zentharim</a></li>
+    </ul></li>
+    <li><a href="#cronologia-consigliata"
+    id="toc-cronologia-consigliata">Cronologia consigliata</a></li>
+    </ul></li>
+    </ul>
+    </nav>
+      </aside>
+  
+  <main>
+    <article>
+      <h1 id="missioni-secondarie-waterdeep-dragon-heist">Missioni
+      Secondarie — Waterdeep: Dragon Heist</h1>
+      <blockquote>
+      <p>Traccia lo stato delle 12 missioni scritte. Aggiorna dopo ogni
+      sessione.</p>
+      <p><strong>Stato:</strong> <code>Pianificata</code> ·
+      <code>In corso</code> · <code>Completata</code> ·
+      <code>Saltata</code></p>
+      <p>Per i dettagli completi di ogni missione, apri il file
+      <code>.txt</code> corrispondente nella workspace. Per espandere
+      una missione con materiale aggiuntivo, usa
+      <code>/espandi-missione</code> in chat.</p>
+      </blockquote>
+      <hr />
+      <h2 id="legenda-livelli-capitoli">Legenda livelli / capitoli</h2>
+      <table>
+      <colgroup>
+      <col style="width: 25%" />
+      <col style="width: 22%" />
+      <col style="width: 52%" />
+      </colgroup>
+      <thead>
+      <tr>
+      <th>Lv party</th>
+      <th>Cap. WDH</th>
+      <th>Evento principale</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>1</td>
+      <td>Cap. 1</td>
+      <td>Portale Spalancato — salvare Floon</td>
+      </tr>
+      <tr>
+      <td>1-2</td>
+      <td>Cap. 2</td>
+      <td>Trollskull Alley — taverna, vicinato, reclutamento
+      fazioni</td>
+      </tr>
+      <tr>
+      <td>2-3</td>
+      <td>Cap. 3</td>
+      <td>Fireball — indagine sull’esplosione</td>
+      </tr>
+      <tr>
+      <td>3-4</td>
+      <td>Cap. 4</td>
+      <td>Dragon Season — caccia allo Stone of Golorr</td>
+      </tr>
+      <tr>
+      <td>5</td>
+      <td>Cap. 5/6</td>
+      <td>Villa Cassalanter — resa dei conti</td>
+      </tr>
+      </tbody>
+      </table>
+      <hr />
+      <h2 id="arpisti">Arpisti</h2>
+      <p>Referente: <strong>Mirt il Cambiavalute</strong> · Protagonista
+      frazionale: <strong>Aelar Moonwhisper</strong></p>
+      <table>
+      <colgroup>
+      <col style="width: 6%" />
+      <col style="width: 17%" />
+      <col style="width: 20%" />
+      <col style="width: 13%" />
+      <col style="width: 26%" />
+      <col style="width: 15%" />
+      </colgroup>
+      <thead>
+      <tr>
+      <th>#</th>
+      <th>Titolo</th>
+      <th>Livello</th>
+      <th>File Sorgente</th>
+      <th>File Wiki</th>
+      <th>Stato</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>1</td>
+      <td>Un Cavallo Donato</td>
+      <td>2</td>
+      <td><code>Arpisti_Missione1_UnCavalloDonato.txt</code></td>
+      <td><a href="../Missioni/Arpisti/M1-UnCavalloDonato.html">📖
+      Leggi</a></td>
+      <td><code>Pianificata</code></td>
+      </tr>
+      <tr>
+      <td>2</td>
+      <td>Disinfestazione</td>
+      <td>3</td>
+      <td><code>Arpisti_Missione2_Disinfestazione.txt</code></td>
+      <td><a href="../Missioni/Arpisti/M2-Disinfestazione.html">📖
+      Leggi</a></td>
+      <td><code>Pianificata</code></td>
+      </tr>
+      <tr>
+      <td>3</td>
+      <td>Benvenuti in Famiglia</td>
+      <td>4</td>
+      <td><code>Arpisti_Missione3_benvenuti_in_famiglia.txt</code></td>
+      <td><a href="../Missioni/Arpisti/M3-BeneventutiInFamiglia.html">📖
+      Leggi</a></td>
+      <td><code>Pianificata</code></td>
+      </tr>
+      <tr>
+      <td>4</td>
+      <td>Velo Alzato</td>
+      <td>4</td>
+      <td><code>Arpisti_Missione4_velo_alzato.txt</code></td>
+      <td><a href="../Missioni/Arpisti/M4-VeloAlzato.html">📖
+      Leggi</a></td>
+      <td><code>Pianificata</code></td>
+      </tr>
+      </tbody>
+      </table>
+      <h3 id="note-per-il-dm-arpisti">Note per il DM — Arpisti</h3>
+      <ul>
+      <li><strong>M1</strong> introduce Davil Starsong e Yagra come PNG
+      rilevanti <em>anche</em> per le missioni Zhentarim — giocala prima
+      della Zhentarim M1 se possibile</li>
+      <li><strong>M2</strong> richiede la libreria <em>Curiosity &amp;
+      Satisfaction</em> nel Trades Ward e la taverna <em>Felzoun’s
+      Folly</em> come location chiave</li>
+      <li><strong>M3</strong> usa un uccellino di carta magico come
+      messaggero — momento narrativo che può introdurre un PNG
+      doppelganger di colore</li>
+      <li><strong>M4</strong> dipende dall’arco di Jarlaxle/Eyecatcher;
+      giocarla quando il party ha già sentito parlare di Zardoz
+      Zord</li>
+      </ul>
+      <hr />
+      <h2 id="force-grey">Force Grey</h2>
+      <p>Referente: <strong>Vajra Safahr</strong> · Protagonisti
+      frazionali: <strong>Razak Kendal</strong>,
+      <strong>Thraximundar</strong></p>
+      <table>
+      <colgroup>
+      <col style="width: 6%" />
+      <col style="width: 17%" />
+      <col style="width: 20%" />
+      <col style="width: 13%" />
+      <col style="width: 26%" />
+      <col style="width: 15%" />
+      </colgroup>
+      <thead>
+      <tr>
+      <th>#</th>
+      <th>Titolo</th>
+      <th>Livello</th>
+      <th>File Sorgente</th>
+      <th>File Wiki</th>
+      <th>Stato</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>1</td>
+      <td>Il Carico del Fondatore</td>
+      <td>2</td>
+      <td><code>ForceGrey_Missione1_IlCaricoDelFondatore.txt</code></td>
+      <td><a href="../Missioni/ForceGrey/M1-IlCaricoDelFondatore.html">📖
+      Leggi</a></td>
+      <td><code>Pianificata</code></td>
+      </tr>
+      <tr>
+      <td>2</td>
+      <td>Non è Tutto Oro Quel che Luccica</td>
+      <td>3</td>
+      <td><code>ForceGrey_Missione2_NonETuttoOroQuelCheLuccica.txt</code></td>
+      <td><a href="../Missioni/ForceGrey/M2-NonETuttoOro.html">📖
+      Leggi</a></td>
+      <td><code>Pianificata</code></td>
+      </tr>
+      <tr>
+      <td>3</td>
+      <td>Crimini di Pensiero</td>
+      <td>4</td>
+      <td><code>ForceGrey_Missione3_CriminiDiPensiero.txt</code></td>
+      <td><a href="../Missioni/ForceGrey/M3-CriminiDiPensiero.html">📖
+      Leggi</a></td>
+      <td><code>Pianificata</code></td>
+      </tr>
+      <tr>
+      <td>4</td>
+      <td>Cose Terribili da Sprecare</td>
+      <td>5</td>
+      <td><code>ForceGrey_Missione4_CoseTerribilidaSprecare.txt</code></td>
+      <td><a href="../Missioni/ForceGrey/M4-CoseTerribili.html">📖
+      Leggi</a></td>
+      <td><code>Pianificata</code></td>
+      </tr>
+      </tbody>
+      </table>
+      <h3 id="note-per-il-dm-force-grey">Note per il DM — Force
+      Grey</h3>
+      <ul>
+      <li><strong>M1</strong> è la prima missione operativa di Razak e
+      collega direttamente il suo presagio di Hlam ai Cassalanters
+      (lista carico + Midnight Tears) — giocarla presto, è il primo filo
+      verso il villain principale</li>
+      <li><strong>M2</strong> è la missione “sociale” del ciclo — niente
+      combattimento ottimale, il drago di bronzo non è un nemico</li>
+      <li><strong>M3</strong> dura più sessioni (10 giorni in-game di
+      sorveglianza su Meloon) — pianifica 3-5 sessioni se la giochi
+      estesa</li>
+      <li><strong>M4</strong> usa la mappa del covo di Xanathar dal
+      Capitolo 5 WDH — tieni <code>Dragon Heist.txt</code> a portata di
+      mano</li>
+      </ul>
+      <hr />
+      <h2 id="zentharim">Zentharim</h2>
+      <p>Referente: <strong>Davil Starsong</strong></p>
+      <table>
+      <colgroup>
+      <col style="width: 6%" />
+      <col style="width: 17%" />
+      <col style="width: 20%" />
+      <col style="width: 13%" />
+      <col style="width: 26%" />
+      <col style="width: 15%" />
+      </colgroup>
+      <thead>
+      <tr>
+      <th>#</th>
+      <th>Titolo</th>
+      <th>Livello</th>
+      <th>File Sorgente</th>
+      <th>File Wiki</th>
+      <th>Stato</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>1</td>
+      <td>Un Brutto Momento</td>
+      <td>2</td>
+      <td><code>Zentharim_Missione1_un_brutto_momento.txt</code></td>
+      <td><a href="../Missioni/Zentharim/M1-UnBruttoMomento.html">📖
+      Leggi</a></td>
+      <td><code>Pianificata</code></td>
+      </tr>
+      <tr>
+      <td>2</td>
+      <td>Tieni il Resto</td>
+      <td>3</td>
+      <td><code>Zentharim_Missione2_tieni_il_resto.txt</code></td>
+      <td><a href="../Missioni/Zentharim/M2-TieniIlResto.html">📖
+      Leggi</a></td>
+      <td><code>Pianificata</code></td>
+      </tr>
+      <tr>
+      <td>3</td>
+      <td>Corri, Dasher!</td>
+      <td>4</td>
+      <td><code>Zentharim_Missione3_corri_dasher.txt</code></td>
+      <td><a href="../Missioni/Zentharim/M3-CorriDasher.html">📖
+      Leggi</a></td>
+      <td><code>Pianificata</code></td>
+      </tr>
+      <tr>
+      <td>4</td>
+      <td>Sangue del Patto</td>
+      <td>5</td>
+      <td><code>Zentharim_Missione4_sangue_del_patto.txt</code></td>
+      <td><a href="../Missioni/Zentharim/M4-SangueDeiPatto.html">📖
+      Leggi</a></td>
+      <td><code>Pianificata</code></td>
+      </tr>
+      </tbody>
+      </table>
+      <h3 id="note-per-il-dm-zentharim">Note per il DM — Zentharim</h3>
+      <ul>
+      <li><strong>M1</strong> si svolge nel Dock Ward (Ship Street,
+      Muleskull Tavern) — atmosfera notturna, porto, freddo; ideale per
+      il BG di Barnabus Reed quando Silvia è presente</li>
+      <li><strong>M2</strong> introduce <strong>Skeemo
+      Weirdbottle</strong> che torna come obiettivo nella M4 —
+      assicurati che il party lo ricordi</li>
+      <li><strong>M3</strong> coinvolge la famiglia
+      <strong>Snobeedle</strong> (Southern Ward) e il loro “segreto del
+      morso” — tono più investigativo e umano</li>
+      <li><strong>M4</strong> è la missione più violenta e definitiva
+      del ciclo; collegamento con <strong>Kolat Towers</strong> e
+      Manshoon (importante se stai pianificando filo secondario
+      invernale)</li>
+      <li><strong>ATTENZIONE:</strong> Se Barnabus (Silvia) è presente
+      alle missioni Zhentarim, è narrativamente in conflitto — gestire
+      la tensione in modo intenzionale</li>
+      </ul>
+      <hr />
+      <h2 id="cronologia-consigliata">Cronologia consigliata</h2>
+      <blockquote>
+      <p>Ordine suggerito per alternare le missioni in modo equilibrato
+      tra le fazioni:</p>
+      </blockquote>
+      <table>
+      <thead>
+      <tr>
+      <th>Sessione approx.</th>
+      <th>Missione</th>
+      <th>Fazione</th>
+      <th>Lv</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>Sessione 3-4</td>
+      <td>Un Cavallo Donato</td>
+      <td>Arpisti</td>
+      <td>2</td>
+      </tr>
+      <tr>
+      <td>Sessione 3-4</td>
+      <td>Il Carico del Fondatore</td>
+      <td>Force Grey</td>
+      <td>2</td>
+      </tr>
+      <tr>
+      <td>Sessione 3-4</td>
+      <td>Un Brutto Momento</td>
+      <td>Zentharim</td>
+      <td>2</td>
+      </tr>
+      <tr>
+      <td>Sessione 6-7</td>
+      <td>Disinfestazione</td>
+      <td>Arpisti</td>
+      <td>3</td>
+      </tr>
+      <tr>
+      <td>Sessione 6-7</td>
+      <td>Non è Tutto Oro…</td>
+      <td>Force Grey</td>
+      <td>3</td>
+      </tr>
+      <tr>
+      <td>Sessione 6-7</td>
+      <td>Tieni il Resto</td>
+      <td>Zentharim</td>
+      <td>3</td>
+      </tr>
+      <tr>
+      <td>Sessione 9-10</td>
+      <td>Benvenuti in Famiglia</td>
+      <td>Arpisti</td>
+      <td>4</td>
+      </tr>
+      <tr>
+      <td>Sessione 9-10</td>
+      <td>Crimini di Pensiero</td>
+      <td>Force Grey</td>
+      <td>4</td>
+      </tr>
+      <tr>
+      <td>Sessione 9-10</td>
+      <td>Corri, Dasher!</td>
+      <td>Zentharim</td>
+      <td>4</td>
+      </tr>
+      <tr>
+      <td>Sessione 12+</td>
+      <td>Velo Alzato</td>
+      <td>Arpisti</td>
+      <td>4</td>
+      </tr>
+      <tr>
+      <td>Sessione 12+</td>
+      <td>Cose Terribili da Sprecare</td>
+      <td>Force Grey</td>
+      <td>5</td>
+      </tr>
+      <tr>
+      <td>Sessione 12+</td>
+      <td>Sangue del Patto</td>
+      <td>Zentharim</td>
+      <td>5</td>
+      </tr>
+      </tbody>
+      </table>
+      <p><em>Questo ordine è indicativo. Adatta all’effettivo livello
+      del party e alle sessioni giocate.</em></p>
+    </article>
+  </main>
+</div>
+
+<footer>
+  <p>🎭 <strong>Waterdeep: Dragon Heist</strong> — Wiki Campagna | Ultima modifica: <time>07/04/2026</time></p>
+  <p><a href="../INDEX.html">← Torna al Menu Principale</a></p>
+</footer>
+</body>
+</html>
+

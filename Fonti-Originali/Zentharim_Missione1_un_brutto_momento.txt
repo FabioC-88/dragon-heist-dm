@@ -1,0 +1,186 @@
+﻿WATERDEEP: DRAGON HEIST
+Missione degli Zhentarim — Capitolo 2
+ 
+UN BRUTTO MOMENTO
+per essere un Elfo
+Caccia all'assassino nel Quartiere del Porto
+☠  4 Personaggi • 2°–3° Livello • Quartiere del Porto  ☠
+SINOSSI
+Tre marinai elfi e mezzelfi sono stati decapitati nel Quartiere del Porto. La Guardia Cittadina brancola nel buio. Davil Starsong affida al gruppo un incarico semplice nelle parole, complicato nei fatti: fate finire gli omicidi. Un assassino drow si nasconde tra le ombre della banchina, e la prossima vittima sta già barcollando verso il proprio destino dentro una taverna troppo pulita per essere onesta.
+	________________
+
+
+Parte I — L'Incarico
+Il Contatto: Davil Starsong
+Davil Starsong, il rappresentante degli Zhentarim al Portale Sbadigliante, convoca il gruppo (o li raggiunge tramite un messaggero) con urgenza trattenuta. Non è il tipo che spreca parole.
+ 
+🎭  PAROLE DI DAVIL STARSONG
+«I marinai elfi e mezzelfi nel Quartiere del Porto continuano a trovarsi dalla parte sbagliata di una lama. Finora ci sono stati tre morti, ognuno decapitato nel cuore della notte. La Guardia Cittadina non ha indizi, come al solito. Sorvegliate la zona e vedete se riuscite a porre fine a tutto questo.»
+ 
+Tono: Diretto, nessuna promessa sentimentale. Il pagamento parla da sé.
+	 
+Perché gli Zhentarim?
+Davil non lo dice esplicitamente, ma i motivi sono pratici: l'instabilità nel porto nuoce ai traffici. Elfi decapitati attraggono attenzione, attenzione porta guardie, guardie disturbano il commercio. Il gruppo non ha bisogno di saperlo per agire.
+________________
+
+
+Parte II — Le Indagini
+Il Quartiere del Porto
+Il Quartiere del Porto è rumoroso, salino, con l'odore di pesce marcio e catrame. I locali parlano poco agli estranei, ma parlano di più a chi offre una moneta o una birra.
+ 
+INDAGARE NEL QUARTIERE — CD 12
+Vantaggio: Se parlano con la Guardia Cittadina (le morti sono di dominio pubblico e le guardie vogliono aiuto).
+Svantaggio: Se menzionano gli Zhentarim. Qui la gente sa a chi non nominare.
+Successo: Tutti gli omicidi sono avvenuti vicino alla Taverna Muleskull su Ship Street.
+Fallimento: Nessun indizio concreto — si passa direttamente alla sezione Appostamento.
+	 
+La Taverna Muleskull
+Ship Street, a due isolati dal molo principale. La taverna è grande, con un bancone di quercia consumato e pavimenti che potrebbero mangiare off. Troppo pulita per essere onesta: è la sede della Gilda degli Spazzini (Dungsweepers' Guild), cosa che tiene lontana molta clientela.
+ 
+RICHARD CHARLESTON — Gestore della Muleskull
+	Tipo
+	Umano comune, si crede nobile (non lo è)
+	Aspetto
+	Giacca stirata, baffi curati, sguardo ansioso. Pulisce il bancone anche quando è già pulito.
+	Informazioni
+	Preoccupato, ma non ha piste. Sa che tre marinai elfi sono stati trovati morti nelle vicinanze.
+	Comportamento
+	Cooperativo con chiunque abbia un aspetto rispettabile. Teme che la violenza faccia chiudere la locanda.
+	Prova
+	Nessuna necessaria — parla volentieri se trattato con cortesia.
+	 
+Heldar, il Marinaio Mezzelfo
+Al bancone, un mezzelfo sulla cinquantina con la scimitarra al fianco sorseggia birra con l'aria di chi non ha niente da perdere. Si chiama Heldar — e è la prossima vittima designata dell'assassino, anche se lui non lo sa (e probabilmente non gli importerebbe).
+ 
+HELDAR — Marinaio Mezzelfo
+	Aspetto
+	Capelli grigi raccolti, cicatrici sulle mani, occhi chiari e un po' annebbiati dalla birra.
+	Personalità
+	Caldo, un po' brillo, coraggioso fino alla temerarietà. Non prende sul serio le minacce.
+	Reazione agli avvertimenti
+	Sorride e dà un colpetto al fodero della scimitarra. «Quella è tutto l'aiuto di cui ho motivo.»
+	Statistiche
+	Usa le statistiche del Bandito (MM p.343) se entra in conflitto col gruppo.
+	Nota DM
+	Heldar non è stupido — è stanco. Un gruppo capace di trattarlo da pari a pari può guadagnare la sua fiducia.
+	 
+Opzioni con Heldar:
+* Sorvegliare la taverna → Passare ad Appostamento
+* Scortarlo: Persuasione CD 12 (con Vantaggio se prima si chiacchiera con lui per qualche minuto) → Se accetta, passa a Imboscata
+* Insistere dopo un fallimento: Heldar diventa ostile (usa stat Bandito), ma ricordare che il gruppo è lì per proteggerlo, non per combatterlo
+________________
+
+
+Parte III — L'Attesa
+Appostamento
+Se il gruppo non riesce a convincere Heldar e decide di sorvegliere la zona, l'attesa può essere lunga. La notte nel porto è fredda, umida e piena di rumori fuorvianti.
+ 
+TIRO SALVEZZA SU COSTITUZIONE CD 12
+Si applica solo se l'appostamento avviene altrove (non alla Muleskull).
+Fallimento: Il personaggio subisce 1 livello di Indebolimento (Exhaustion) prima che avvenga l'imboscata.
+Appostamento alla Muleskull: Nessun TS — l'azione avviene troppo in fretta.
+	 
+Tempistica dell'Appostamento
+DOVE
+	QUANDO AVVIENE L'IMBOSCATA
+	Alla Taverna Muleskull
+	Lo stesso giorno. Nessun TS su Costituzione.
+	Altrove nel quartiere
+	Terzo giorno di appostamento. TS su Costituzione ogni sera.
+	 
+La Prova di Percezione
+In entrambe le situazioni (taverna o appostamento), al momento critico:
+ 
+SITUAZIONE
+	PROVA / RISULTATO
+	Percezione CD 18 — Successo
+	Avvistano Heldar barcollante che entra in un vicolo buio, seguito da un drow che striscia nell’ombra con una spada corta in pugno.
+	Percezione CD 18 — Fallimento
+	Si accorgono dell’agguato solo sentendo le grida di Heldar colpito dalla lama (1d6+4 danni perforanti). Il combattimento inizia con Heldar già ferito.
+	________________
+
+
+Parte IV — L'Imboscata
+Posizionamento
+Il pistolero drow emerge dalle ombre con l'intenzione di uccidere Heldar. La scena si svolge in modo diverso a seconda di come il gruppo è arrivato a questo punto:
+ 
+SITUAZIONE
+	PROVA / RISULTATO
+	Scortano Heldar
+	Avvistano il drow in avvicinamento. Si tira l’iniziativa. Il combattimento inizia quando il drow è a 12 m (40 piedi) dietro di loro.
+	Seguono Heldar da lontano — CD 12 Succ.
+	Vedono il drow a 12 m di distanza prima che attacchi. Possono intervenire prima del primo colpo.
+	Seguono Heldar da lontano — CD 12 Fall.
+	Il drow emerge a soli 3 m da Heldar. La sorpresa è dalla sua parte e Heldar potrebbe ricevere il primo attacco.
+	In appostamento (dalla prova di Percezione)
+	Il posizionamento dipende dall’esito della prova di Percezione: vantaggio per il gruppo se ha avuto successo, svantaggio se ha fallito.
+	 
+L'Assassino: Soluun Xibrindas
+Non è un soldato: è un fanatico. Soluun odia elfi e mezzelfi con un rancore viscerale che va oltre qualsiasi ordine ricevuto. Si muove come un'ombra e combatte come qualcuno che non ha paura di morire, ma ha abbastanza istinto di sopravvivenza da fuggire quando le cose si mettono male.
+ 
+SOLUUN XIBRINDAS — Pistolero Drow
+	Statistiche
+	Pistolero Drow (Appendice B di WDH) — CA 14, PF 36, Vel. 9 m
+	Priorità in combattimento
+	Attacca preferenzialmente elfi e mezzelfi. Ignora altri nemici se può colpire un elfo.
+	Bregan D’Aerthe
+	Nega qualsiasi legame. Questa è una bugia smascherabile con Intuizione CD 8, ma lui non cambia comportamento nemmeno se scoperto.
+	Soglia di fuga
+	Quando scende sotto metà PF (18 o meno), tenta di fuggire nelle ombre usando Disengage.
+	Se catturato
+	Non parla spontaneamente. Interrogazione con Intimidire CD 14 — ammette di agire per rancore personale più che per ordini diretti.
+	Se ucciso
+	Addosso ha una lettera cifrata con un simbolo di Bregan D’Aerthe (Arcana o Storia CD 12 per identificarlo).
+	 
+Note per il Combattimento
+* Soluun usa il terreno: vicoli stretti, casse, ombre. Applica copertura (mezza o tre quarti) quando possibile.
+* Se Heldar non è ancora fuori combattimento, cerca di scudarsi dalla sua risposta — la scimitarra di Heldar fa paura anche ubriaco.
+* Il gruppo è lì per proteggere Heldar, non per uccidere Soluun. La fuga dell'assassino è un esito valido e narrativamente interessante.
+ 
+⚠  ATTENZIONE: HELDAR PUÒ MORIRE
+Se la prova di Percezione è fallita e Heldar ha già subito 1d6+4 danni, potrebbe essere in cattive condizioni. Il DM può decidere che Soluun si concentra su di lui finché il gruppo non interviene. La morte di Heldar è un esito possibile — non bloccarlo artificialmente, ma non lasciarla avvenire per una sola distrazione dei giocatori.
+	________________
+
+
+Parte V — Conclusione
+Se Heldar Sopravvive
+Heldar guarda il gruppo con occhi meno annebbiati del solito. Forse la birra gli ha fatto bene, o forse no. Comunque, riconosce di dover qualcosa.
+ 
+🎭  PAROLE DI HELDAR (dopo il combattimento)
+«Beh.» — Pausa. — «Forse avevo torto sulla scimitarra.» Tira fuori una borsa di monete e la fa scivolare sul tavolo. «Prendete questo. E bevete qualcosa — ve lo siete guadagnato.»
+	 
+Ricompense
+CONDIZIONE
+	RICOMPENSA
+	Heldar salvato
+	50 mo a testa + pacca sulla spalla da Heldar
+	Successo riferito a Davil
+	+1 Punto Fama Zhentarim (solo membri della fazione)
+	Presentazione di Istrid Horn
+	Accesso a prestito di 2.500 mo al 10% — da rimborsare entro 3 mesi (totale: 2.750 mo)
+	Punti Esperienza
+	500 PE a testa — tutti i PG dovrebbero ora passare al 3° livello (o milestone a discrezione del DM)
+	 
+Istrid Horn
+Davil presenta il gruppo a Istrid Horn, la Maestra del Commercio e delle Monete degli Zhentarim. È una donna pragmatica con occhi che valutano tutto in termini di costo e beneficio. Il prestito non è un regalo: è un investimento in persone che sembrano capaci.
+ 
+ISTRID HORN — Maestra del Commercio Zhentarim
+	Ruolo
+	Finanziatrice degli Zhentarim a Waterdeep. Controlla buona parte del flusso di denaro della fazione.
+	Aspetto
+	Nana, capelli bianchi raccolti, abiti costosi ma sobri. Due anelli d’oro per mano.
+	Personalità
+	Fredda, precisa, raramente sorpresa. Rispetta chi rispetta i contratti.
+	Il Prestito
+	2.500 mo al 10% fisso, da rimborsare entro tre mesi (totale: 2.750 mo). Nessuna trattativa sul tasso.
+	Conseguenze del mancato pagamento
+	Non lo dice esplicitamente. Il sorriso che fa quando firma dice abbastanza.
+	 
+Note per il Dungeon Master
+Questa missione è volutamente semplice nella struttura, ma ricca di sfumature. Qualche spunto:
+* Soluun è un personaggio già presente nel manuale di WDH: la sua cattura o fuga può avere conseguenze nelle sessioni successive, specialmente se il gruppo interagisce con Bregan D’Aerthe.
+* Heldar può diventare un contatto ricorrente: un vecchio marinaio mezzelfo che conosce il porto come le sue tasche può essere utile in molte occasioni future.
+* Il prestito di Istrid è una bomba a orologeria narrativa: 2.750 mo entro tre mesi è una pressione costante che può motivare molte decisioni del gruppo.
+* Se Heldar muore: Davil è deluso ma non punità. Nessun pagamento da Heldar, nessuna presentazione a Istrid. La fama si guadagna proteggendo, non vendicando.
+ 
+☠  Fine della Missione  ☠

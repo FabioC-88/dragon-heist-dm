@@ -1,0 +1,175 @@
+﻿WATERDEEP: DRAGON HEIST
+Avventura della Rete degli Arpisti
+ 
+BENVENUTI IN FAMIGLIA
+Una one-shot per 4 personaggi di 4° livello
+✦  Waterdeep, Anno del Corvo Dorato  ✦
+SINOSSI
+Gli Arpisti hanno individuato una banda di doppelganger operante nelle ombre di Waterdeep. Mattrim Mereg, noto come 'Tre Corde', crede che alcuni di loro possano diventare preziosi alleati. Il gruppo viene incaricato di incontrarli, valutarli e riferire i risultati. Non tutto quel che luccica è oro — e non tutto ciò che mente è nemico.
+	________________
+
+
+Panoramica dell'Avventura
+Questa missione viene consegnata al gruppo tramite un uccellino di carta magico che vola verso di loro durante il Capitolo 2 di Waterdeep: Dragon Heist, idealmente mentre si trovano nel Vicolo dei Calderai o in un incontro simile. Il messaggio si spiega e rivela le istruzioni degli Arpisti.
+
+
+📜  MESSAGGIO DEGLI ARPISTI
+"Mattrim Mereg, forse lo conoscete come 'Tre Corde', si è alleato con una banda di doppelganger e crede che potrebbero unirsi a noi. Parlate con loro, cercate di inquadrarli e capite se ci si può fidare. Riferite le vostre scoperte a Mattrim."
+	
+
+Obiettivi della Missione
+* Incontrare Mattrim Mereg 'Tre Corde' al Portale Sbadigliante
+* Farsi presentare la banda di doppelganger tramite Mattrim
+* Valutare l'affidabilità dei doppelganger, in particolare Bonnie
+* Riferire le scoperte a Mattrim (o a un contatto Arpista)
+
+
+Ricompense
+Al completamento della missione, ogni membro del gruppo riceve:
+* +2 Punti Fama Arpisti (solo per i membri della fazione)
+* 50 mo a testa
+* L'amicizia di Bonnie (se reclutata con successo) — un'alleata di valore incalcolabile
+________________
+
+
+Parte I: Il Trovatore Sorridente
+Il Portale Sbadigliante
+Mattrim Mereg si trova alla sua solita postazione al Portale Sbadigliante, la locanda più vivace del Dock Ward. Suona il liuto in un angolo, sempre circondato da un piccolo gruppo di ammiratori. Il gruppo probabilmente lo ha già incontrato durante gli eventi del Capitolo 1.
+
+
+Note sulla Struttura
+Sebbene sia strutturata come ideale per Arpisti, questa missione può essere adattata per altri gruppi (vedi sezione Personalizzazione Rapida).
+
+🎭  TESTO DI LETTURA AD ALTA VOCE
+La locanda è piena di voci e fumo di pipa. In un angolo, seduto su uno sgabello consumato, un uomo dai capelli scuri pizzica le corde di un liuto con la destrezza di chi ha suonato tutta la vita. Ha tre corde in più del normale, e le sue dita volano su di esse come se avesse fatto un patto con la melodia stessa. Quando vi vede, un sorriso gli illumina il volto e vi fa cenno di avvicinarvi.
+Mattrim è caloroso, diretto e leggermente sbruffone. Adora la compagnia e non perde mai l'occasione per una battuta. Tuttavia, quando si tratta di affari degli Arpisti, diventa più sobrio e parla sottovoce.
+Punti di conversazione chiave
+* Riconosce i personaggi Arpisti e scambia frasi in codice se necessario
+* Spiega che la banda di doppelganger si fa chiamare 'I Mutaforma' e opera nel Trades Ward
+* Confida che Bonnie è la leader e la più ragionevole del gruppo
+* Avverte che gli altri potrebbero essere più diffidenti e instabili
+* Offre di fare da tramite per il primo incontro, inviando una nota a Bonnie
+Prove di Abilità
+Persuasione CD 12: Mattrim rivela che uno dei doppelganger, Slane, ha precedenti violenti e non si fida di nessuno.
+Intuizione CD 14: Il gruppo percepisce che Mattrim nutre una simpatia personale per Bonnie, oltre all'interesse operativo degli Arpisti.
+________________
+
+
+Parte II: Facce Senza Nome
+Il Luogo dell'Incontro
+Bonnie fissa l'incontro in un magazzino semi-abbandonato nel Trades Ward, usato come copertura da un fabbricante di candele. L'interno odora di cera d'api e polvere. Tre doppelganger attendono il gruppo: Bonnie, Slane e Voss.
+
+
+🎭  TESTO DI LETTURA AD ALTA VOCE
+Il magazzino è scarsamente illuminato da lanterne a olio. Tre figure vi attendono: una donna dai capelli corti che sembra esattamente come ve l'avete immaginata, un uomo dall'espressione dura che vi esamina come se stesse valutando quanto valete, e un terzo che continua a spostarsi nervosamente da un piede all'altro. La donna parla per prima. 'Tre Corde vi ha mandati. Bene. Parliamo.'
+	I Doppelganger
+
+
+BONNIE (Doppelganger)
+	Aspetto attuale
+	Donna umana, 30 anni, capelli castani corti, occhi verdi
+	Personalità
+	Pragmatica, calma, leggermente cinica ma onesta con chi guadagna la sua fiducia
+	Motivazione
+	Vuole sicurezza per sé e i suoi compagni; stanca di vivere nell'ombra
+	Segreto
+	Ha salvato la vita a Mattrim mesi fa — è questo il vero motivo della sua fiducia
+	Statistiche
+	Come doppelganger (MM p.82), CA 13, PF 52, Vel. 9 m
+	Lingue
+	Comune, Sottocomune, e qualunque lingua delle forme assunte
+	Affinità
+	Apprezza la direttezza. Risponde bene all'Intuizione o Persuasione se si è onesti
+	
+
+SLANE (Doppelganger)
+	Aspetto attuale
+	Uomo umano, 40 anni, corporatura robusta, cicatrice sul mento
+	Personalità
+	Diffidente, ostile verso gli estranei, protettivo verso Bonnie e Voss
+	Motivazione
+	Sopravvivenza ad ogni costo; non si fida delle fazioni organizzate
+	Segreto
+	Ha ucciso un funzionario della Guardia Grigia sei mesi fa; vive nel terrore di essere scoperto
+	Statistiche
+	Come doppelganger (MM p.82), CA 13, PF 52, Vel. 9 m
+	Comportamento
+	Cerca di spiazzare i PG assumendo le loro forme per brevi istanti
+	Note DM
+	NON affidabile. Se reclutato, sarà un problema in futuro. Bonnie ne è consapevole.
+	
+
+VOSS (Doppelganger)
+	Aspetto attuale
+	Non ne ha uno fisso; cambia forma ogni pochi minuti nervosamente
+	Personalità
+	Ansioso, instabile, facilmente influenzabile da Bonnie o da Slane
+	Motivazione
+	Vuole solo stare con la sua 'famiglia'; profonda paura dell'abbandono
+	Statistiche
+	Come doppelganger (MM p.82), CA 13, PF 52, Vel. 9 m
+	Note DM
+	Ambiguo. Potrebbe diventare affidabile con la giusta guida, oppure seguire Slane.
+	________________
+
+
+Dinamiche dell'Incontro
+L'incontro con i doppelganger si divide in tre fasi naturali:
+Fase 1 — La Diffidenza
+Slane prende subito un atteggiamento ostile. Potrebbe assumere brevemente la forma di uno dei PG per intimidirli o spiazzarli. Bonnie lo richiama all'ordine.
+Prova: Intuizione CD 13 per capire che Slane è spaventato, non semplicemente aggressivo.
+Fase 2 — La Negoziazione
+Bonnie espone le condizioni: i doppelganger non vogliono essere 'usati'. Vogliono protezione, identità stabili e garanzie che gli Arpisti non li consegneranno alle autorità se le cose si mettono male.
+Prova: Persuasione CD 14 per convincerla che gli Arpisti agiscono in buona fede. Un PG Arpista ha vantaggio.
+Prova: Inganno CD 16 se si tenta di promettere qualcosa che gli Arpisti non possono garantire — Bonnie lo percepisce immediatamente.
+Fase 3 — La Rivelazione
+Se il gruppo guadagna la fiducia di Bonnie (Intuizione CD 15 o buona interpretazione), lei li prende da parte e rivela che Slane è un rischio. Chiede al gruppo di non insistere per includerlo.
+Se il gruppo forza la mano su Slane, si arriva allo scontro (vedi Complicazioni).
+Complicazioni Opzionali
+Complicazione A: Lo Sbirro Curioso
+Durante l'incontro, un Guardia della Città passa vicino al magazzino. Slane vuole eliminarlo. Bonnie si oppone. Il gruppo deve gestire la situazione senza provocare un incidente.
+Complicazione B: Il Terzo Incomodo
+Un quarto doppelganger, non menzionato da Mattrim, appare durante l'incontro. Sembra spiare anche il gruppo e scompare prima che possano parlargli. È una spia di una fazione rivale? Un ex-membro del gruppo di Bonnie? Il DM può sviluppare questo elemento in futuro.
+Complicazione C: La Forma Rubata
+Voss ha assunto la forma di qualcuno di importante per il gruppo — un NPC incontrato in precedenza, o persino la forma di un familiare di un personaggio. Non lo fa con cattiveria; semplicemente quella forma lo 'confortava'. Può essere un momento di tensione o di patetismo commovente, a seconda del tono della campagna.
+________________
+
+
+Parte III: Riferire agli Arpisti
+Il Rapporto
+Il gruppo torna da Mattrim (o invia un rapporto tramite uccellino di carta) con le proprie conclusioni. Mattrim ascolta tutto con attenzione e poi sorride amaramente.
+
+
+🎭  PAROLE DI MATTRIM
+"Sapevo che Slane sarebbe stato un problema. Bonnie lo sa anche lei, in fondo. Il punto non è avere agenti perfetti — è avere agenti onesti. E Bonnie è onesta, a modo suo. Avete fatto un buon lavoro."
+	Esiti Possibili
+Esito Ottimale: Bonnie come Alleata
+Bonnie viene reclutata come informatore e collaboratrice degli Arpisti. Può apparire nelle sessioni future come contatto, fornitrice di informazioni, o in momenti in cui i PG hanno bisogno di qualcuno che 'diventi' qualcun altro. Voss potrebbe seguirla.
+Esito Neutro: Solo Informazioni
+Il gruppo riferisce che nessuno dei doppelganger è adatto all'alleanza. Mattrim li ringrazia per l'onestà e li incarica di tenere d'occhio la banda nel caso cambino idea.
+Esito Negativo: Lo Scontro
+Se Slane attacca o la situazione degenera, i doppelganger potrebbero fuggire o combattere. Bonnie non combatterà a meno che non venga direttamente minacciata — e non perdonerà facilmente chi mette in pericolo i suoi compagni, anche quelli difficili come Slane.
+Ricompense Finali
+* Ogni membro Arpista del gruppo: +2 Punti Fama nella fazione
+* Ogni membro del gruppo: 50 mo
+* Esito ottimale (Bonnie reclutata): ogni PG riceve anche 1 Punto Ispirazione e un contatto NPC permanente
+________________
+
+
+Note per il Dungeon Master
+Tono e Atmosfera
+Questa avventura è più un intreccio sociale che un dungeon crawl. Il combattimento è possibile ma non è l'obiettivo. Il DM dovrebbe enfatizzare:
+* L'umanità dei doppelganger, nonostante la loro natura
+* Le zone grigie morali: chi è veramente degno di fiducia?
+* Il rapporto tra Bonnie e i suoi compagni come nucleo emotivo della scena
+Collegamento con la Campagna
+Questa missione si inserisce naturalmente nel Capitolo 2 di Dragon Heist. Se il gruppo è già nella fase delle missioni fazione, può avvenire prima o dopo 'Non Tollerare i Bugiardi' dell'Enclave di Smeraldo (che presenta gli stessi doppelganger da una prospettiva diversa e potenzialmente ostile).
+Il DM potrebbe usare questa one-shot per creare una interessante tensione: gli Arpisti vogliono reclutare Bonnie, l'Enclave di Smeraldo vuole eliminarla. Il gruppo potrebbe trovarsi nel mezzo.
+Personalizzazione Rapida
+Se il gruppo non è composto da Arpisti, la missione può essere adattata:
+* Un mercante vuole sapere se i doppelganger sono una minaccia per i suoi affari
+* Un nobile ha scoperto che uno dei suoi servitori potrebbe essere un doppelganger e vuole indagare
+* Il gruppo indaga per conto proprio dopo aver ricevuto informazioni da una fonte anonima
+
+
+✦  Fine dell'Avventura  ✦

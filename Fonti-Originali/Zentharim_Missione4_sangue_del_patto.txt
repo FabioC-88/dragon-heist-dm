@@ -1,0 +1,179 @@
+﻿WATERDEEP: DRAGON HEIST
+Missione degli Zhentarim — Capitolo 2
+ 
+IL SANGUE
+DEL PATTO
+Un traditore da eliminare. Una fuga da fermare. Un finale senza testimoni.
+🔪  4 Personaggi • 5° Livello • Quartiere dei Commerci  🔪
+SINOSSI
+Skeemo Weirdbottle ha tradito gli Zhentarim lavorando per Manshoon. Davil non chiede giustizia: chiede un corpo, o almeno un agente fuori gioco. Il gruppo conosce già l’uomo, conosce il negozio, conosce il veleno che distribuiva. Questa volta Skeemo sa di essere cercato — e ha già un piano di fuga. Una missione di eliminazione che può diventare una caccia per le strade di Waterdeep, con la Vipera Nera nell’ombra e le Torri di Kolat all’orizzonte.
+	________________
+
+
+Parte I — L’Ordine
+Davil a Villa Trollskull
+Davil Starsong non manda un serpente questa volta. Viene di persona, portandosi Yagra. Si siede come se fosse a casa sua, ordina da bere senza chiedere permesso, e aspetta che il gruppo si accomodi.
+ 
+🎭  PAROLE DI DAVIL STARSONG
+«Skeemo Weirdbottle ha cospirato contro di noi. Ha avvelenato le nostre consegne dirette a certi alleati e agenti. Ho bisogno che lo eliminiate. Fate in modo che sembri un incidente, se potete.»
+ 
+Pausa. Un sorso dalla coppa.
+ 
+«So che lo conoscete già. Questo semplifica le cose. Yagra e io vi aspettiamo qui. Buone notizie, mi raccomando.»
+	 
+Lo Stato della Fiducia
+Davil si fida del gruppo più di quanto si fidasse di Skeemo. Non lo dice esplicitamente, ma è implicito nel fatto che sia venuto di persona e che aspetti il loro ritorno. Non manda Yagra con loro: sa che non ne hanno bisogno.
+ 
+COSA SA IL GRUPPO (Continuity)
+* Il negozio Alchimia Weirdbottle si trova nel Quartiere dei Commerci.
+* Skeemo lancia Individuazione del Magico di routine e usa Suggestione (CD 13 Sag) per liberarsi di chi lo disturba.
+* Nella missione «Tieni il Resto», il gruppo ha già interagito con lui — Skeemo potrebbe riconoscerli.
+* Se la Vipera Nera fu avvertita del veleno, è in debito con il gruppo e ha le sue ragioni personali per vedere Skeemo morto.
+	________________
+
+
+Parte II — La Fuga
+Il Negozio Serrato
+Quando il gruppo arriva ad Alchimia Weirdbottle, trovano le imposte chiuse e il cartello girato. Un dray (carrozza pubblica) si sta allontanando dall’incrocio più vicino. Skeemo sa già che stanno arrivando — o lo teme abbastanza da non rischiare.
+ 
+🎭  TESTO DI LETTURA AD ALTA VOCE
+Il negozio è chiuso. Le imposte di legno sono tirate, il cartello girato. Dall’angolo della strada, il cigolio di ruote su ciottoli: un dray si allontana nel traffico del mattino, confondendosi con le decine di carrozze che affollano il Quartiere dei Commerci.
+	 
+Individuare Skeemo
+Skeemo si è mescolato ai passeggeri del dray travestito con un cappuccio. Non è difficile da individuare per chi sa cosa cercare — un mezzuomo tra umani comuni non passa del tutto inosservato.
+ 
+SITUAZIONE
+	RISULTATO / PROVA
+	Percezione CD 16
+	Notano un mezzuomo incappucciato confuso tra cinque umani comuni sul dray in allontanamento. È Skeemo.
+	Fallimento Percezione
+	Il dray sparisce nel traffico. Devono entrare nel negozio e trovare gli indizi nel taccuino (vedi Parte IV).
+	Successo + inseguimento immediato
+	Il gruppo può intercettare il dray o seguirlo a piedi (Atletica CD 14 o Furtività CD 12 per avvicinarsi senza allarmare).
+	Skeemo si accorge di essere seguito
+	Lancia Volo (concentrazione) e tenta di fuggire in quota. Inizia la fase aerea della caccia.
+	 
+La Caccia
+Una volta che Skeemo usa Volo, la situazione si complica. Vola a 18 m di altezza, cercando di allontanarsi verso il Quartiere del Castello e poi verso le Torri di Kolat.
+ 
+SKEEMO WEIRDBOTTLE — Mago Gnomo Traditore
+	Statistiche base
+	Come Mago (MM p.346): CA 12, PF 40, Concentrazione richiesta per Volo
+	Incantesimi preparati
+	Individuazione del Magico, Suggestione (CD 13), Volo, Invisibilità Superiore, Globo di Invulnerabilità
+	Priorità in fuga
+	1) Volo, 2) Invisibilità Superiore se cattura concentrazione, 3) Suggestione per creare aperture
+	Comportamento
+	Non combatte se può evitarlo. Ogni attimo guadagnato è una vittoria. Punta sempre alle Torri di Kolat.
+	Oggetti addosso
+	Libro degli incantesimi, Pozione di Lettura del Pensiero (vera), 150 mo in borsa di seta
+	Debolezza
+	La concentrazione. Qualsiasi danno lo costringe a un TS su Costituzione CD 10+ (metà del danno subito) o perde Volo.
+	________________
+
+
+Parte III — La Vipera Nell’Ombra
+Quando la Vipera È Presente
+Se nella missione «Tieni il Resto» il gruppo ha avvertito Esvele Rosznar del veleno, la Vipera Nera è in debito con loro. Ha aspettato questo momento.
+ 
+LA VIPERA NERA IN AZIONE — Solo se è ancora ‘in gioco’
+Segue il gruppo nell’ombra senza farsi notare. Non si rivela a meno che non sia necessario.
+Se Skeemo usa Volo: Si è già posizionata su un tetto vicino. Colpisce con la balestra a mano (attacco a distanza, bonus +6, 1d6+4 danni perforanti). Il danno lo forza al TS su Concentrazione.
+Se Skeemo perde Volo: Lui lancia Invisibilità Superiore su se stesso e si disperde tra le strade affollate. Il gruppo deve trovarlo con Percezione CD 20, Intuizione CD 16 (comportamento folla), o aspettare che faccia una mossa.
+Nel negozio: Se il gruppo entra nel negozio invece di inseguire, la troveranno già dentro, con il taccuino in mano, pronta a consegnarglielo senza spiegazioni.
+	 
+Quando la Vipera È Assente
+Se Esvele fu avvelenata nella missione «Tieni il Resto», è ritirata a vita nobiliare e non interviene. Il gruppo affronta la situazione da soli.
+In questo caso, Skeemo che usa Volo è un problema significativo. Il gruppo ha bisogno di magie a distanza, oggetti o creatività per interrompere la sua concentrazione prima che raggiunga quota di sicurezza.
+________________
+
+
+Parte IV — Il Negozio
+Dentro Alchimia Weirdbottle
+Se il gruppo entra nel negozio invece di inseguire, o dopo aver perso le tracce di Skeemo, trovano l’interno esattamente come lo ricordano — con una differenza: è stato svuotato in fretta.
+ 
+🎭  TESTO DI LETTURA AD ALTA VOCE
+Il laboratorio di Skeemo è stato lasciato in fretta: un cassetto aperto, un'ampolla rovesciata, la sedia spostata. Sugli scaffali, file ordinate di boccette colorate. Tante. Quasi troppe, per un negozio che si credeva chiuso.
+	 
+L’Avvertimento sulle Pozioni
+ 
+☠  TUTTE LE POZIONI SONO VELENO
+Le pozioni rimaste negli scaffali sono tutte Pozioni del Veleno camuffate da pozioni comuni.
+Identificare rivela la natura di ciascuna.
+Nota DM: Il gruppo potrebbe voler sequestrare o distruggere le pozioni. Se le lasciano, qualcun altro le troverà. Le conseguenze dipendono da quanto si sentono responsabili.
+	 
+Il Taccuino — L’Indizio Chiave
+Nascosto sotto il bancone (Indagare CD 13 per trovarlo, oppure la Vipera Nera lo ha già in mano): un vecchio taccuino con la copertina di cuoio logora.
+ 
+📋  CONTENUTO DEL TACCUINO (estratti)
+«Se le cose si mettono male, le Torri di Kolat. Kolat era un pazzo, ma la sua paranoia gli ha costruito un rifugio decente. Manshoon lo sa. Io lo so. Pochi altri.»
+ 
+«Non tornare al negozio. Non contattare nessuno per tre giorni. Le torri sono sicure.»
+ 
+Arcana o Storia CD 12: Le Torri di Kolat sono una struttura magica nel Quartiere del Castello, nota per essere difficile da raggiungere e ancora più difficile da lasciare. Descritte nel Capitolo 8 di WDH.
+	________________
+
+
+Parte V — L’Eliminazione
+Se Skeemo Viene Catturato e Ucciso
+L’ordine di Davil è chiaro: farlo sembrare un incidente, se possibile. Come il gruppo esegue dipende da loro, dalle loro capacità e dalla loro moralità.
+ 
+SITUAZIONE
+	RISULTATO / PROVA
+	Ucciso in strada senza testimoni
+	Obiettivo completato. Nessuna complicazione immediata.
+	Ucciso con testimoni
+	La Guardia Cittadina apre un’indagine. Il gruppo deve sparire rapidamente e non farsi collegare all’accaduto (Inganno CD 15 o Furtività CD 14).
+	Ucciso con magie vistose
+	Difficile far sembrare un incidente. Davil è scontento ma accetta il risultato. Nessun bonus di punti fama.
+	Avvelenato con le sue stesse pozioni
+	Poetico. Davil apprezza. +1 Punto Fama aggiuntivo a discrezione del DM.
+	Catturato vivo e consegnato a Davil
+	Non era l’ordine, ma Davil gestisce il resto. Il gruppo non sa cosa succede dopo.
+	 
+Se Skeemo Fugge alle Torri di Kolat
+Se il gruppo non riesce a fermarlo, Skeemo raggiunge le Torri. Non è un fallimento totale: il taccuino fornisce gli indizi necessari per seguirlo.
+ 
+CONSEGUENZE DELLA FUGA
+Nessun punto fama immediato — Davil è deluso ma non punità il gruppo.
+Nuova pista: Le Torri di Kolat diventano l’obiettivo successivo (Capitolo 8 di WDH).
+Supporto: I Doom Raiders accetteranno di aiutare il gruppo nell’indagine. La Vipera Nera (se presente) potrebbe offrire informazioni sull’architettura delle torri.
+	________________
+
+
+Parte VI — Conclusione
+Il Bottino di Skeemo
+Se catturato o ucciso, Skeemo ha addosso:
+ 
+OGGETTO
+	DETTAGLI
+	Libro degli incantesimi
+	Contiene tutti gli incantesimi attualmente preparati + note su esperimenti di Manshoon
+	Pozione di Lettura del Pensiero
+	Una sola, autentica (non avvelenata). Tenuta per uso personale.
+	Borsa di seta
+	150 mo in monete miste. Probabilmente compensi di Manshoon.
+	 
+Ricompense Totali
+ 
+CONDIZIONE
+	RICOMPENSA
+	Skeemo eliminato (Rete Nera non implicata)
+	+2 Punti Fama Zhentarim a testa
+	Eliminato facendo sembrare un incidente
+	+2 Punti Fama + apprezzamento esplicito di Davil
+	Eliminato con le sue stesse pozioni
+	+2 Punti Fama + possibile +1 bonus a discrezione DM
+	Skeemo fuggito alle Torri
+	Nessun punto fama. Pista per Capitolo 8. Supporto Doom Raiders.
+	Bottino da Skeemo
+	150 mo + libro incantesimi + pozione lettura del pensiero (se recuperati)
+	 
+Note per il Dungeon Master
+* Questa missione è il climax dell’arco Skeemo, iniziato in «Tieni il Resto». Il DM dovrebbe usare la continuity: se il gruppo ha avvertito Esvele, la Vipera Nera è un alleato silenzioso. Se non l’ha fatto, sono soli. Le scelte precedenti hanno conseguenze reali.
+* La caccia per le strade di Waterdeep è un’opportunità rara: un inseguimento urbano ad alto livello, con un mago che vola sopra i tetti. Usate i descrittori ambientali — mercati, vicoli, carriaggi, corde del bucato. Waterdeep è viva.
+* Skeemo non è un combattente. Ogni secondo che sopravvive è perché il gruppo lo ha lasciato andare, non perché sia più forte di loro. Tenetelo disperato, non potente.
+* Il libro degli incantesimi di Skeemo contiene probabilmente note su Manshoon che il gruppo non si aspetta. Il DM può usarlo come gancio per il Capitolo 8 — anche se Skeemo è morto, le sue informazioni sopravvivono.
+* Se la Vipera Nera consegna il taccuino senza spiegazioni e poi sparisce, quel momento può essere più potente di qualsiasi dialogo. Un debito saldato in silenzio vale più di mille parole.
+ 
+🔪  Fine della Missione — Fine dell’Arco Zhentarim  🔪

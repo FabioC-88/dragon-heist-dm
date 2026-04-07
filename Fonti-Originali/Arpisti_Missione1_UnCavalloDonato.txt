@@ -1,0 +1,267 @@
+﻿GLI ARPISTI
+Agenti di Mirt il Mercante — Waterdeep
+
+
+MISSIONE 1 — LIVELLO 2
+Un Cavallo Donato
+Un uccellino con un messaggio. Una cavalla che parla. Due agenti Zhentarim nel Portale Sbadigliante. Gli Arpisti non fanno mai le cose in modo diretto — ma funzionano.
+	
+
+Ambientazione: Waterdeep — Il Mercato, le strade del Porto, il Portale Sbadigliante
+Livello Consigliato: 2  |  Durata Stimata: 2–3 ore  |  Giocatori: 4–6
+________________
+
+
+Panoramica dell'Avventura
+
+
+La prima missione degli Arpisti è di sorveglianza e intelligenza — niente combattimenti, niente dungeon, niente mostri. È un'indagine nelle strade di Waterdeep a partire da un indizio insolito: una cavalla parlante che conosce i movimenti degli agenti Zhentarim.
+Questa missione introduce lo stile operativo degli Arpisti: rete di informatori non convenzionale, comunicazione tramite animali addestrati, minima traccia visibile. Per chi viene dalla Guardia Cittadina o dall'Ordine dei Magistri è disorientante. Per chi ha vissuto ai margini della società, è semplicemente buon senso.
+
+
+Competenze Richieste
+Questa missione si presta a personaggi con abilità sociali e frode. Chi ha talento per la performance, la dissimulazione, e la manipolazione sociale sarà proprio a casa — trovare Maxeene senza insospettire nessuno, distrarre Morgan col giusto tocco di carisma, e — la parte più delicata — riferire a Mirt in modo che il resoconto su Davil Starsong venga letto con la sfumatura giusta. Chiunque riferisca dovrà decidere se presentare Davil come minaccia o come risorsa potenziale. È una decisione politica, non tattica.
+
+
+Obiettivi Principali
+* Ricevere e decifrare il messaggio di Mirt tramite l'uccellino messaggero.
+* Localizzare Maxeene nel Mercato e creare l'occasione per parlarle in privato.
+* Ottenere le informazioni sugli agenti Zhentarim e identificarli come Davil Starsong e Yagra Stonefist.
+* Confrontarsi con Davil (opzionale ma consigliato) e valutare le sue reali intenzioni.
+* Riferire i risultati a Mirt con un resoconto completo, scegliendo come inquadrare Davil.
+
+
+Temi Narrativi
+* La rete degli Arpisti funziona nell'ombra: cavalle parlanti, uccellini messaggeri, spille d'argento come parole d'ordine. C'è qualcosa di poetico — e di deliberatamente eccentrico — in tutto questo.
+* Non tutti i nemici sono nemici: Davil è uno Zhentarim, ma non tutti gli Zhentarim vogliono la stessa cosa. La missione si chiude con una decisione morale, non con un combattimento.
+* Il resoconto conta quanto l'indagine: quello che il gruppo scrive a Mirt determina il futuro di Davil e Yagra a Waterdeep. Le parole hanno conseguenze.
+________________
+
+
+Scena 0 — L'Uccellino di Mirt
+
+
+Il Messaggio
+Il messaggio arriva sotto forma di un fringuello dalle piume grigio-verde — abbastanza anonimo da non attirare l'attenzione, ma con uno sguardo leggermente troppo attento per un uccello normale. Ha un foglietto arrotolato alla zampa destra, su carta leggera come la seta.
+Il lato scritto recita:
+
+
+"Una delle carrozze (dray) che lavorano in città è trainata da una cavalla parlante di nome Maxeene. Porta un fiore viola dietro l'orecchio sinistro. Localizzatela, scoprite se sa di agenti Zhentarim che si nascondono e scrivete ogni dettaglio sul lato bianco di questo uccellino. Liberatelo per rimandarmelo, grazie."— M.
+	
+
+Il lato bianco del foglietto è liscio e sembra aspettare. L'uccellino fissa il gruppo con l'aria paziente di chi ha fatto questo viaggio molte volte e preferirebbe tornare a casa presto.
+
+
+Nota per il DM
+Se Aelar è nel gruppo, riconosce immediatamente il metodo — la comunicazione tramite animali addestrati è tipica degli Arpisti. Con una prova di Arcana CD 10 (automatica per Aelar), si capisce che il fringuello è sotto effetto di Messaggero Animale e tornerà da Mirt entro 24 ore dal rilascio, indipendentemente dalla distanza. Il Maestro Bec, la beccaccia con il papillon fucsia di Aelar, guarda l'uccellino con l'aria professionale di un collega che valuta il lavoro altrui.
+	________________
+
+
+Scena 1 — Localizzare Maxeene
+
+
+Il Mercato
+Il Mercato di Waterdeep è un labirinto di bancarelle, carretti, animali da soma e persone che cercano di andare da qualche parte senza fermarsi. I dray circolano lungo i bordi del mercato come pesci grandi in un ruscello affollato — impossibili da ignorare, ma difficili da seguire.
+
+
+Metodo A — Conoscenza della Città o Background Monello di Strada
+Saggezza (Sopravvivenza) CD 12: chi conosce Waterdeep sa dove i dray si concentrano nelle ore di punta e quali percorsi seguono. Con un successo, Maxeene viene localizzata entro 1d4 ore.
+
+
+Metodo B — Sorveglianza Paziente
+Saggezza (Percezione) CD 10 alla fine di ogni ora di ricerca. Con un successo, il fiore viola viene notato. Senza prove, la trovano comunque dopo una giornata intera — ma perdono tempo prezioso.
+
+
+Metodo C — La Rete di Aelar
+Carisma (Persuasione) CD 10: Aelar usa la sua rete di conoscenti tra musicisti di strada e venditori ambulanti. Un venditore di mele conosce Maxeene di nome — "la cavalla col fiore viola, passa di qui ogni mattina verso l'ora terza" — e indica il percorso abituale del dray. Il Maestro Bec aiuta inaspettatamente: il suo papillon fucsia attira l'attenzione del venditore abbastanza da renderlo collaborativo.
+
+
+Il Dray di Morgan Wolfwood
+Il dray è inconfondibile: una carrozza lunga con pareti di vetro che permettono ai passeggeri di vedere fuori e alla gente fuori di vedere dentro. Sul tetto ci sono sedili a panca per chi preferisce viaggiare all'aria aperta — e pagare meno. Morgan Wolfwood, il cocchiere, è un ragazzo sulla ventina con una giacca troppo grande e la tendenza a fischiettare fuori tempo.
+Sul retro del veicolo, aggrappato al predellino con la rassegnazione di chi fa quel mestiere da anni, c'è Marcus Wolfwood — fratello maggiore, controllore, e persona fondamentalmente più ragionevole di Morgan in ogni situazione misurabile.
+________________
+
+
+Scena 2 — Distrarre Morgan
+
+
+Maxeene non parlerà finché Morgan la sta guardando. Il gruppo deve trovare un modo per toglierlo dalla scena — o per catturare tutta la sua attenzione — mentre qualcuno si avvicina alla cavalla sul lato sinistro del dray.
+
+
+Opzione A — Comprare una Corsa
+Il metodo più elegante. Morgan reindirizza i passeggeri a Marcus, che chiede 4 monete di rame a persona. Una volta a bordo, avviare conversazione con Morgan è semplicissimo — lui è un chiacchierone nato e qualsiasi argomento va bene.
+
+
+Morgan Wolfwood, con l'entusiasmo di un cane a cui è stato lanciato un bastone:"Ah, avete scelto il momento giusto! Stiamo per passare dal Quartiere del Castello — la vista da lassù è spettacolare. Sapete quanti anni ha questo dray? Tredici! Mio padre l'ha costruito con le sue mani. Beh, con le sue mani e con quelle di cinque carpentieri, ma il progetto era suo. Maxeene era un regalo di un cliente — non ci ha mai detto molto di lei, ma è la migliore cavalla da tiro che abbia mai visto..."
+	
+
+Mentre Morgan parla (e parla), gli altri personaggi hanno tutto il tempo per avvicinarsi a Maxeene.
+
+
+Opzione B — Il Diversivo del Cavallo
+Spaventare un cavallo nelle vicinanze per creare abbastanza caos da far scendere Morgan. Richiede Destrezza (Rapidità di Mano) CD 13 per farlo senza farsi vedere.
+* Successo: Morgan salta giù e corre verso il caos. Il gruppo ha 3–4 minuti per parlare con Maxeene.
+* Fallimento: Morgan vede chi ha combinato il diversivo e lo indica. Non chiama la Guardia — non vale le scartoffie — ma Marcus si avvicina con l'aria di chi ne ha viste troppe.
+
+
+Marcus Wolfwood (con la stanchezza bonaria di chi gestisce da anni le conseguenze dell'entusiasmo altrui):"Allora. Cosa avete fatto esattamente e perché? Prendete tempo — ho tutto il turno davanti a me."
+	
+
+Opzione C — La Performance di Aelar
+Una performance di strada improvvisata (Carisma — Performance CD 11) attira una piccola folla intorno al dray. Morgan si sporge dal tetto per guardare, il gruppo ha tutto il tempo necessario. Il Maestro Bec, con il suo papillon fucsia, ottiene inevitabilmente più attenzione di Aelar — cosa che la beccaccia accetta con la dignità di chi è abituato all'adorazione.
+________________
+
+
+Scena 3 — La Conversazione con Maxeene
+
+
+La Prima Impressione
+Maxeene è una cavalla baia con una stella bianca sulla fronte e il caratteristico anemone viola — fresco, cambiato ogni mattina — dietro l'orecchio sinistro. Quando il gruppo si avvicina, non dà nessun segno di intelligenza: mastica, guarda avanti, agita la coda.Fino a quando non capisce che stanno cercando di parlarle. Allora si volta lentamente e li guarda con un'espressione che, su una cavalla, è difficile da interpretare — ma su Maxeene sembra dire chiaramente: "Avanti, provateci."
+
+
+Convincerla a Parlare
+* Mostrare la spilla d'argento ricevuta da Mirt — il simbolo dell'arpa stilizzata è sufficiente. Maxeene la riconosce immediatamente.
+* In mancanza della spilla: Carisma (Persuasione) CD 13. Maxeene è scaltra e non si fida facilmente.
+
+
+Maxeene, abbassando la testa e guardando a sinistra e a destra con la perizia di chi ha fatto questo molte volte:"Bene. Finalmente. Mirt mi aveva detto di aspettare qualcuno con quella spilla. Avete del tempo? Breve — Morgan tornerà tra poco."
+	
+
+Il Racconto di Maxeene
+"Li ho caricati all'angolo tra Net Street e Dock Street — zona del Porto. Un elfo del sole, elegante, con quella voce morbida che hanno certi tipi quando vogliono sembrare ragionevoli. E una mezzorca enorme, con le spalle che occupavano metà del sedile. Li ho lasciati al Portale Sbadigliante. Scendendo, l'elfo ha detto: 'Dobbiamo piazzare qualcuno nella Gilda prima che Manshoon si accorga di cosa stiamo facendo.' L'altra ha annuito. 'La Gilda non la prenderà bene.' E lui: 'Non è la Gilda che mi preoccupa — è Manshoon.'""Ora, io non sono una specialista di politica degli Zhentarim, ma quando sento il nome Manshoon e la parola 'Gilda' nello stesso respiro, mi viene da pensare che non stiano parlando della Gilda dei Sarti."
+	
+
+Domande Aggiuntive
+* "Li hai visti altre volte?" — "L'elfo una volta, due settimane fa. La mezzorca no — prima volta."
+* "Li riconosceresti?" — "L'elfo aveva capelli color grano e un anello con gemma blu al mignolo sinistro. La mezzorca aveva una cicatrice a forma di freccia sulla guancia destra."
+* "Perché fai questo per gli Arpisti?" — "Perché mi hanno trattato come una persona. Non come un animale da soma. C'è gente che non riesce a capire la differenza."
+________________
+
+
+Scena 4 — Davil Starsong e Yagra Stonefist
+
+
+Identificazione
+La descrizione di Maxeene corrisponde quasi certamente a Davil Starsong (l'elfo del sole con l'anello blu) e Yagra Stonefist (la mezzorca con la cicatrice). Se il gruppo ha già frequentato il Portale Sbadigliante, probabilmente li ha già visti.
+
+
+Il Confronto con Davil
+Davil Starsong non si sorprende di vederli — o fa finta di non sorprendersi, ed è difficile capire quale delle due sia vera."Ah. Quindi Mirt vi ha mandati. Avrei scommesso che avrebbe aspettato almeno una settimana."Sorseggia il vino."Sedete, se volete. Non ho nulla da nascondere — almeno, niente che non vogliate già sapere. Sono degli Zhentarim, sì. Ma se pensate che tutti gli Zhentarim vogliano la stessa cosa, avete una visione molto ottimistica della coerenza umana.""Manshoon vuole Waterdeep come base operativa. Io voglio che Waterdeep rimanga com'è — perché è qui che vivo, qui che faccio affari, e qui che voglio continuare a farlo tra vent'anni. Un conflitto aperto con Xanathar, con gli Arpisti, con la Guardia non fa bene a nessuno. Non fa bene a noi.""Quindi, cosa riferite a Mirt?"
+	
+
+La Scelta Chiave
+Una prova di Saggezza (Intuizione) CD 13 rivela che Davil sembra sincero riguardo alla sua avversione per Manshoon e per il conflitto aperto. Non significa che sia completamente onesto su tutto, ma i suoi interessi sembrano genuinamente allineati con la stabilità della città.
+
+
+La decisione più importante della missione avviene qui:Se il gruppo presenta Davil come minaccia: gli Arpisti tratteranno lui, Yagra e chi si associa con loro come potenziali nemici della pace di Waterdeep.Se includono i dettagli sulla sua opposizione a Manshoon: Mirt si interessa a Davil e potrebbe considerarlo un asset inatteso — uno Zhentarim che non vuole la guerra è più utile di uno neutralizzato.Nessuna delle due scelte è sbagliata. Entrambe hanno conseguenze.
+	________________
+
+
+PNG — Profili Narrativi
+
+
+Maxeene — La Cavalla Informatore
+Aspetto: Cavalla baia con stella bianca sulla fronte. Perfettamente ordinaria in tutto, tranne per l'anemone viola sempre fresco e per quello sguardo che non appartiene agli animali.
+Personalità: Pratica, diretta, con un senso dell'umorismo asciutto. Memoria eccezionale per volti e conversazioni. Tende a giudicare le persone rapidamente — e quasi sempre correttamente.
+Motivazione: Collabora con gli Arpisti per gratitudine genuina. L'organizzazione la tratta come un membro a pieno titolo, non come uno strumento. Ha rifiutato offerte migliori per principio.
+Potenziale futuro: Come contatto ricorrente, Maxeene vale dieci spie. Il dray percorre tutta la città ogni giorno — sente molto e ricorda tutto.
+
+
+Morgan Wolfwood — Il Cocchiere Entusiasta
+Aspetto: Ventun anni, capelli castani ribelli, giacca da cocchiere ereditata dal padre. L'energia di chi non ha ancora imparato a stancarsi di nulla.
+Su Maxeene: Sa che c'è qualcosa di speciale in lei — non sa cosa, ma la tratta con rispetto istintivo. Se scoprisse che parla, probabilmente lo prenderebbe come conferma di ciò che ha sempre sospettato.
+
+
+Marcus Wolfwood — Il Controllore
+Aspetto: Ventotto anni, più alto di Morgan, con l'espressione permanente di chi si aspetta che qualcosa vada storto e raramente si sbaglia.
+Personalità: Razionale, paziente, con una tolleranza sorprendentemente alta per le stranezze — necessaria, lavorando con Morgan. La sua fiducia va guadagnata.
+
+
+Davil Starsong — L'Elfo della Rete Nera
+Aspetto: Elfo del sole con capelli color grano e anello a gemma blu al mignolo sinistro. Veste bene ma non ostentosamente — vuole sembrare affidabile, non ricco.
+Motivazione: Vuole stabilità, non potere. Ha visto abbastanza guerre tra organizzazioni criminali da sapere che nessuno vince davvero — e che Waterdeep è troppo preziosa per essere distrutta in una lotta tra Manshoon e Xanathar.
+
+
+Yagra Stonefist — La Guardia del Corpo
+Aspetto: Mezzorca massiccia con cicatrice a forma di freccia sulla guancia destra. Sguardo che misura le minacce automaticamente, come un riflesso.
+Personalità: Poche parole, molta presenza. È leale a Davil non per contratto ma per scelta — ha visto abbastanza tradimenti per riconoscere chi non lo fa.
+________________
+
+
+Statistiche — Maxeene
+
+
+Maxeene non è progettata per il combattimento. In caso di necessità usa le statistiche di un cavallo da tiro con le seguenti modifiche.
+
+
+Maxeene — Cavalla Parlante
+	FOR
+	DES
+	COS
+	INT
+	SAG
+	CAR
+	18 (+4)
+	12 (+1)
+	13 (+1)
+	10 (+0)
+	13 (+1)
+	11 (+0)
+	CA
+	11
+	Punti Ferita
+	19 (3d10 + 3)
+	Velocità
+	18 m
+	FP (CR)
+	1/2 (100 XP) — non combatte per scelta
+	Abilità
+	Percezione +5, Intuizione +3
+	Sensi
+	Percezione passiva 15
+	Lingue
+	Comune (comprende e parla; nasconde questa capacità agli sconosciuti)
+	TRATTI
+Memoria Fotografica: Maxeene ricorda ogni conversazione sentita durante i suoi tragitti con precisione eccezionale.
+Senso del Pericolo: Maxeene non può essere sorpresa mentre è sveglia.
+Riservatezza: non rivela la sua intelligenza a chi non conosce. Recita perfettamente il ruolo del cavallo normale.
+	AZIONI
+Calcio: attacco in mischia, +6 per colpire, gittata 1,5 m. Colpisce: 11 (2d6+4) danni contundenti. Usato solo in autodifesa.
+	________________
+
+
+Conclusione e Ricompense
+
+
+Il Resoconto a Mirt
+Il gruppo completa il foglietto e libera il fringuello. Mirt riceve il messaggio entro 24 ore. La risposta arriva il giorno successivo — non tramite uccellino, ma tramite Remallia Haventree in persona.
+
+
+Remallia Haventree è una nobildonna elfa con la grazia di chi sa perfettamente quanto spazio occupa in una stanza."Mirt ha letto il vostro resoconto. Ha detto che siete stati precisi e — sua parola — 'insolitamente sensati per essere nuove reclute'. È un complimento, a modo suo.""In ogni caso: se aveste bisogno di un posto dove stare, le porte della mia villa sono aperte. Non è un'offerta simbolica — è pratica. A Waterdeep è utile avere un rifugio che nessuno si aspetta."
+	
+
+Ricompense
+
+
+Ricompensa
+	Dettaglio
+	Esperienza
+	700 XP per ogni membro del gruppo (avanzamento al 3° livello con milestone)
+	Rinomanza Arpisti
+	+1 punto Rinomanza per ogni membro degli Arpisti
+	Villa di Remallia Haventree
+	Rifugio disponibile in qualsiasi momento — letti, pasti, discrezione garantita. Nessuna domanda fatta.
+	Contatto: Maxeene
+	Informatore del porto e delle strade. Una volta a sessione può riferire movimenti osservati nei suoi tragitti.
+	Semi narrativi
+	Se Davil è stato presentato positivamente, Mirt lo tiene d'occhio come possibile asset contro Manshoon.
+	
+
+Semi Narrativi per le Missioni Successive
+* Davil Starsong e Yagra Stonefist rimangono nel panorama cittadino — alleati o nemici a seconda del resoconto.
+* Remallia Haventree non è solo una nobildonna — è una degli Arpisti più influenti di Waterdeep. La sua porta aperta è un primo passo verso un rapporto più profondo.
+* Maxeene ha sentito molte altre cose nei suoi tragitti. Non tutto quello che sa è stato chiesto.
+
+
+Gli Arpisti — Missione 1: Un Cavallo Donato
+Campagna: Dragon Heist | Waterdeep

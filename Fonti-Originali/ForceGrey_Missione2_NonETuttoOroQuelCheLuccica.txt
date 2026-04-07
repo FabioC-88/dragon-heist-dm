@@ -1,0 +1,336 @@
+﻿FORCE GREY
+Le Mani Grigie di Waterdeep
+
+
+MISSIONE 2 — LIVELLO 3
+Non è Tutto Oro Quel che Luccica
+Un drago nel porto. Uno squalo che parla. Un relitto sul fondo del mare. Le Mani Grigie devono immergersi — in tutti i sensi — per capire se la nuova minaccia di Waterdeep vuole il sangue o soltanto la compagnia.
+	
+
+Ambientazione: Porto Navale di Waterdeep — Mistshore — Relitto della Neverluster
+Livello Consigliato: 3  |  Durata Stimata: 3–4 ore  |  Giocatori: 4–6
+________________
+
+
+Panoramica dell'Avventura
+
+
+Mentre le Mani Grigie si riprendono dagli eventi della missione precedente, Vajra Safahr li contatta direttamente con un incantesimo di Messaggio. Il Porto Navale di Waterdeep ha un ospite inatteso: un giovane drago di bronzo che ha spaventato i marinai senza ferire nessuno. Vajra vuole risposte, non panico. Il gruppo deve immergersi — letteralmente — e capire cosa vuole la creatura.
+Questa missione è volutamente diversa dalla prima: il combattimento non è la soluzione ottimale, e il vero pericolo arriva da dove meno ci si aspetta — non dal drago, ma da ciò che vive nelle acque buie intorno al relitto.
+
+
+Personaggi Ideali
+Questa missione funziona meglio con almeno un personaggio che abbia esperienza militare, amministrativa, o nella Guardia Cittadina. Chi ha questo background è il punto di riferimento naturale quando la situazione è ambigua: non si tratta di arrestare qualcuno, ma di valutare una minaccia. Chi conosce il porto e sa come parlare con i lavoratori portuali avrà vantaggi nell'indagine.
+
+
+Obiettivi Principali
+* Raccogliere informazioni su Zelifarn a Mistshore prima di immergersi.
+* Sopravvivere a Obliteros, lo squalo gigante risvegliato, e neutralizzarlo senza ucciderlo se possibile.
+* Raggiungere il relitto della Neverluster e incontrare Zelifarn.
+* Determinare le intenzioni del drago e inviare un rapporto accurato a Vajra Safahr.
+
+
+Temi Narrativi
+* Le apparenze ingannano: il drago sembra una minaccia, lo squalo sembra un mostro — ma chi è davvero pericoloso?
+* Diplomazia sott'acqua: questa missione premia chi parla più di chi combatte.
+* La città dal basso: il porto visto dalla prospettiva dei marinai, dei contrabbandieri e delle creature che vivono nelle sue acque.
+________________
+
+
+Scena 0 — Il Messaggio del Bastone Nero
+
+
+Il Sending di Vajra
+È appena passato mezzogiorno quando uno dei personaggi — preferibilmente Barney, o chi ha più rinomanza con le Mani Grigie — avverte la pressione familiare di un incantesimo di Messaggio che si forma nella mente. La voce di Vajra Safahr è precisa, senza fiato sprecato:
+
+
+"Un giovane drago di bronzo si è stabilito nel Porto Navale. Di recente ha spaventato alcuni marinai ma non ha ferito nessuno. Ho fatto consegnare alcune pozioni di respirare sott'acqua presso la vostra sede. Usatele per affrontare il drago e scoprire le sue intenzioni."
+	
+
+Nota per il DM: Il messaggio è volutamente scarno. Vajra non si spiega — si fida che le Mani Grigie sappiano fare il loro lavoro. Se un personaggio risponde (il Sending permette una risposta breve), Vajra aggiunge solo: "Fate presto. I marinai del porto stanno già parlando troppo."
+
+
+Le Pozioni — Villa Trollskull
+Le pozioni si trovano in due posizioni possibili, a seconda dello stato attuale della Villa Trollskull:
+* Se la Villa è aperta come taverna: un membro dello staff (o lo spirito di Lif in persona, se si è manifestato come presenza benevola) sorveglia una piccola scatola di legno dietro il bancone. Dentro ci sono tante pozioni quanti sono i membri del gruppo.
+* Se la Villa non è ancora operativa: la scatola è posata sul gradino d'ingresso, sigillata con ceralacca blu recante il sigillo del Bastone Nero.
+
+
+Ogni Pozione di Respirare Sott'Acqua (Water Breathing) dura 24 ore e permette al bevitore di respirare normalmente anche sott'acqua. Non conferisce velocità di nuoto né altri benefici al movimento subacqueo.
+	________________
+
+
+Scena 1 — Mistshore, le Orecchie del Porto
+
+
+Ambientazione
+Mistshore è il ventre molle del Quartiere del Porto: case su palafitte che si arrampicano sulle banchine marce, reti da pesca appese come decorazioni dimenticata, taverne galleggianti che vendono birra di mare annacquata. L'aria sa di alghe, fumo e qualcosa di indefinibilmente umido. È il tipo di posto dove nessuno fa domande — il che significa che chiunque sa tutto di tutti.
+Questo è il territorio di Barney. Le guardie qui lo conoscono di nome, e i banditi lo conoscono di faccia. Entrambi preferirebbero non averci a che fare.
+
+
+Modalità di Indagine
+Il gruppo può raccogliere informazioni in tre modi principali:
+
+
+A) Chiedere in Giro — Lashurien Malfuria
+Con una prova di Carisma (Persuasione o Intimidazione) CD 12, o semplicemente pagando da bere (costo: 5 mr), il gruppo riesce a localizzare Lashurien Malfuria: un elfo sulla sessantina con il naso rosso di chi beve da vent'anni e gli occhi ancora abbastanza lucidi da ricordare i dettagli importanti.
+
+
+Lashurien, quando riesce a smettere di tremare abbastanza da formare frasi di senso compiuto:"Era grande come una barca, amico. Bronzo — tutto bronzo, con quelle ali che battevano sull'acqua. Mi è piombato davanti dal nulla e ha iniziato a... parlare. Chiedeva della Fiera della Fanciulla del Mare! Come se fossi un maledetto programma di feste! Io ero così... okay, ammetto che avevo bevuto, e mi sono... caduto. Dal pontile. Ma il drago mi ha guardato — giuro che ha sorriso — e se n'è andato. Non mi ha nemmeno morso. Che delusione, in un certo senso."
+	
+
+Informazioni ottenibili con domande mirate (CD 10 Intuizione per capire se sta mentendo — non sta mentendo, è solo confuso):
+* "Era aggressivo?" — "No, no. Sembrava... curioso? Come un cucciolo di cane grande quanto una capanna."
+* "Da dove veniva?" — "Dal porto. Giù, verso il fondo. C'è quel relitto laggiù — la Neverluster. Ci andava tutte le notti, dicono quelli del turno di notte."
+* "C'era qualcos'altro sott'acqua?" — Lashurien abbassa la voce: "Obliteros. Non andate sott'acqua, amici. Quello squalo ha mangiato tre marinai il mese scorso. Ma nessuno ufficialmente lo sa, capite?"
+
+
+B) Grinda e il suo Apparato
+Grinda è una gnoma bizzosa che gestisce un Apparato di Kwalish — un veicolo subacqueo a forma di granchio meccanico — e lo affitta per un prezzo esorbitante (50 mo a persona, trattabili con CD 16 Persuasione fino a 30 mo a persona). L'Apparato può ospitare fino a 4 persone.
+Vantaggio dell'Apparato: Il gruppo riduce le possibilità di incontrare Obliteros: lo squalo attacca solo con un risultato pari su 1d4 invece che con un 4 su 1d4 a nuoto.
+Svantaggio dell'Apparato: Zelifarn può vedere il veicolo da lontano e lo identifica come potenziale minaccia — il primo approccio con lui è in svantaggio (Persuasione/Carisma) a meno che il gruppo non esca dal veicolo.
+
+
+C) Immergersi Direttamente
+Un approccio valido, soprattutto per chi vuole saltare le formalità. Barney probabilmente troverebbe questo approccio diretto molto sensato. Il rischio è che senza informazioni preliminari, il gruppo non sa di Obliteros — la sorpresa dell'incontro con lo squalo risvegliato è più drammatica.
+________________
+
+
+Scena 2 — Obliteros, la Carne Fresca
+
+
+L'Incontro
+Una volta sott'acqua, determina l'incontro con Obliteros:
+
+
+Metodo di Immersione
+	Condizione per l'Incontro con Obliteros
+	Apparato di Kwalish
+	Tira 1d4: attacca solo con risultato pari (2 o 4).
+	A nuoto
+	Tira 1d4: attacca solo con risultato di 4.
+	
+
+Comportamento di Obliteros
+Obliteros emerge dal buio con una grida in Aquan: "CARNE FRESCA!!" — un suono gutturale e soddisfatto che non assomiglia a nulla di quello che uno squalo normale dovrebbe produrre. Chi supera una prova di Natura CD 10 riconosce subito che si tratta di linguaggio articolato.
+
+
+Se il gruppo tenta di parlarle (qualcuno conosce l'Aquan, o viene usato Comprendi le Lingue / Tongues):"Ah, parlate? Bene, bene. Mi piace quando il cibo conversa un po' prima. Sono stata risvegliata da un pirata con un teschio d'oro — non ricordo il nome, era saporito. Ho mangiato molti marinai. Ho mangiato anche lui. È caduto in acqua ed era lì, bello e rosso, e io l'ho mangiato. Proprio come mangerò voi. State fermi — vi mangio più in fretta se state fermi."Detto questo, attacca.
+	
+
+Tattiche di Combattimento
+* Obliteros attacca sempre il personaggio che sembra più esposto (meno CA, o separato dal gruppo).
+* Se qualcuno la ferisce gravemente (sotto metà PF), usa la sua intelligenza: smette di attaccare, nuota indietro di 12 metri e li fissa con un occhio giallo e calcolatore.
+* A quel punto, può essere convinta a ritirarsi con Persuasione CD 14 o Intimidazione CD 16 (in Aquan o tramite magia). In caso di successo dichiara solennemente: "Bene. Siete abbastanza coriacei da non valere lo sforzo. Per ora."
+* Se viene ridotta a 0 PF, non muore — si ritira nelle profondità. È uno squalo risvegliato: sa quando ha perso.
+
+
+Obliteros — Squalo Gigante Risvegliato
+	FOR
+	DES
+	COS
+	INT
+	SAG
+	CAR
+	23 (+6)
+	11 (+0)
+	21 (+5)
+	10 (+0)
+	10 (+0)
+	8 (-1)
+	CA
+	13 (armatura naturale)
+	Punti Ferita
+	126 (11d12 + 55) — fugge sotto i 63 PF
+	Velocità
+	0 m, nuoto 15 m
+	FP (CR)
+	5 (1.800 XP)
+	Abilità
+	Percezione +3
+	Sensi
+	Senso cieco 9 m, Percezione passiva 13
+	Lingue
+	Aquan (parla e comprende)
+	TRATTI
+Trattenere il Respiro: Obliteros può trattenere il respiro per 1 ora fuori dall'acqua.
+Senso della Corrente Idrica: Obliteros può percepire automaticamente qualsiasi creatura entro 9 m che sia a contatto con la stessa acqua.
+Risvegliata: Obliteros ha Intelligenza 10 e può parlare Aquan. Sa valutare il rischio e si ritira se ridotta sotto la metà dei PF.
+	AZIONI
+Morso: attacco con arma in mischia, +9 per colpire, gittata 1,5 m, un bersaglio. Colpisce: 22 (3d10+6) danni perforanti.
+Colpo di Coda (Ricarica 5–6): tutte le creature entro 3 m devono superare un TS Forza CD 16 o essere spinte indietro di 4,5 m e cadere prone (sott'acqua: vengono disoriented — velocità di nuoto dimezzata fino alla fine del loro prossimo turno).
+	________________
+
+
+Scena 3 — Il Relitto della Neverluster
+
+
+Ambientazione
+La Neverluster giace a 36 metri di profondità, un galeone mastodontico ricoperto di cirripedi bianchi come ossa. Le assi del fasciame sono ancora intatte dopo decenni sul fondo, ma la grande vela di prua è diventata un telo di alghe. Dentro il relitto, tra le stive aperte al mare, luccica qualcosa di bronzeo.
+A 24 metri di distanza dal relitto, una scia metallica schizza fuori dall'oscurità verso il gruppo: è Zelifarn, e si muove come un fulmine sott'acqua. Tira l'iniziativa.
+
+
+Primo Approccio: Il Fraintendimento
+Nel suo primo turno, Zelifarn effettua solo l'azione di Schivata e grida (le parole arrivano attutite ma comprensibili sotto l'acqua) in Draconico e poi in Comune:
+
+
+"QUESTO È MIO! IL RELITTO È MIO, I GRANCHI SONO MIEI, LA RUGGINE È MIA! ANDATE VIA, BIPEDI MOLLI!"Se si avvicina a distanza di mischia, non attacca — si limita a dispiegare le ali (che sott'acqua creano una corrente fortissima: CD 12 Forza o si viene spinti indietro di 3 m), spalanca le fauci e mostra file di denti grandi come pugnali.
+	
+
+De-escalation: Come Fermare lo Scontro
+Zelifarn non vuole combattere — vuole che il gruppo se ne vada. Il gruppo può fermare il confronto in questi modi:
+* Dichiarare pace a parole ("Non siamo qui per il tesoro!") — Zelifarn si ferma e aspetta con sospetto. Riesce una prova di Carisma CD 10.
+* Mostrare rispetto draconico — chiunque si inchini, abbassi la testa o mostri i palmi (gesto di resa) ottiene vantaggio al prossimo tiro di Carisma.
+* Menzionare Vajra Safahr o le Mani Grigie — Zelifarn conosce il nome del Bastone Nero. Rimane diffidente ma abbassa la guardia.
+* Barney, da buon sergente, potrebbe semplicemente alzare le mani e dirgli con tono piatto: "Siamo funzionari della città. Qui per parlare, non per combattere." Il tono di chi è abituato a imbarcazioni più grosse di lui funziona — CD 8 Persuasione.
+
+
+Zelifarn — La Conversazione
+Una volta convinto a parlare, Zelifarn diventa un interlocutore completamente diverso: ciarliero, curioso, entusiasta. Nuota in cerchio intorno al gruppo mentre chiacchiera, il che è vagamente destabilizzante.
+
+
+"Oh! Oh, siete qui per parlare! Meraviglioso! Non molti vogliono parlare con me — i marinai di sopra urlano sempre e cadono in acqua. Ho provato ad avvicinarmi per fare amicizia ma scappano. I loro festival sembrano così divertenti! La Fiera della Fanciulla del Mare — ci sono le barche addobbate, vero? E le lanterne? Vorrei tanto vedere le lanterne dall'alto. Ma i marinai non me lo fanno fare."[Se gli chiedono perché è lì]"Il Porto di Waterdeep è pieno di cose interessanti! Chiocciole di ferro, ancora di bronzo arrugginito, casse di monete che si aprono quando le premi nel punto giusto... Sto costruendo la mia collezione. I draghi collezionano cose — lo sapete, vero? È praticamente obbligatorio per noi."
+	
+
+Domande e Risposte con Zelifarn
+Il gruppo può porre domande. Con una prova di Intuizione CD 13 si capisce che Zelifarn è genuinamente sincero — non maschera intenzioni ostili.
+* "Hai ferito qualcuno?" — "No! Assolutamente no. Ho solo... mostrato i denti a qualcuno che cercava di prendere la mia ancora preferita. È una questione di principio."
+* "Hai intenzione di attaccare la città?" — Zelifarn sembra offeso: "Ma certo che no! Waterdeep è splendida. Ho intenzione di viverci ancora cent'anni almeno."
+* "C'è qualcuno che ti ha mandato qui?" — "No. Ho scelto io. Le acque del porto sono calde e ricche. E il relitto aveva già tanta roba interessante quando sono arrivato."
+* "Ti piacerebbe partecipare alla Fiera?" — Zelifarn si ferma di botto nella sua nuotata circolare. Fissa il personaggio. "State... state scherzando? Potrei farlo? Come? Potrei venire? Mi impegno a non mangiare nessuno — è una promessa."
+
+
+Il Forziere di Zelifarn (Variante Jarlaxle)
+Se nella campagna Jarlaxle è il antagonista principale, Zelifarn propone al gruppo un accordo: un forziere coperto di cirripedi — contenente 200 mo e un oggetto minore — in cambio di informazioni sul vascello subacqueo sotto l'Eyecatcher.
+"C'è una nave sotto quella barca di lusso — una nave che si muove sott'acqua come un pesce. Ho visto uomini uscirne di notte. Mi puzza di segreto, e io odio i segreti nel mio porto. Se mi dite cos'è, vi do la mia cassa numero sette — quella con le monete straniere."
+	________________
+
+
+Statistiche — Zelifarn
+
+
+Zelifarn — Giovane Drago di Bronzo
+	FOR
+	DES
+	COS
+	INT
+	SAG
+	CAR
+	21 (+5)
+	10 (+0)
+	19 (+4)
+	14 (+2)
+	13 (+1)
+	17 (+3)
+	CA
+	17 (armatura naturale)
+	Punti Ferita
+	142 (15d10 + 60)
+	Velocità
+	12 m, nuoto 18 m, volo 24 m
+	FP (CR)
+	8 (3.900 XP) — NON è progettato come scontro
+	Tiri Salvezza
+	Des +3, Cos +7, Sag +4, Car +6
+	Abilità
+	Furtività +3, Intuizione +4, Percezione +7, Persuasione +6
+	Immunità ai Danni
+	Fulmine, Acido
+	Sensi
+	Visione cieca 9 m, Visione nel buio 36 m, Percezione passiva 17
+	Lingue
+	Comune, Draconico
+	TRATTI
+Anfibia: Zelifarn può respirare sia aria che acqua.
+Senso del Tesoro: Zelifarn sa istintivamente dove si trovano oggetti di valore entro 18 m sott'acqua.
+Difesa del Territorio: finché è entro 9 m dal relitto della Neverluster, ottiene vantaggio a tutti i TS.
+Nota: Zelifarn è progettato per intimidire, non per combattere. Se il gruppo lo costringe a combattere, usate le statistiche complete del Giovane Drago di Bronzo dal Monster Manual — ma questo rappresenta un fallimento narrativo della missione.
+	AZIONI
+Morso: +8 per colpire, gittata 1,5 m. Colpisce: 16 (2d10+5) danni perforanti.
+Artiglio: +8 per colpire, gittata 1,5 m. Colpisce: 12 (2d6+5) danni taglienti.
+Soffio di Fulmine (Ricarica 5–6): 18 m linea, larghezza 1,5 m. TS Destrezza CD 15; 55 (10d10) danni da fulmine (metà se superato). Sott'acqua, colpisce automaticamente tutte le creature nella linea.
+Soffio di Gas Indebolente (Ricarica dopo riposo lungo): 9 m cono. TS Costituzione CD 15 o essere incapacitati per 1 minuto (TS di fine turno CD 15 per terminare l'effetto). Zelifarn lo usa solo come ultima risorsa difensiva.
+	REAZIONI
+Schivata Legendaria (1/giorno): quando subisce un attacco, Zelifarn può dimezzare i danni come reazione.
+	________________
+
+
+Scena 4 — Il Rapporto al Bastone Nero
+
+
+Modalità di Consegna
+Il gruppo può riferire a Vajra in vari modi:
+* Lasciare una lettera alla Torre del Bastone Nero (il più semplice — c'è sempre una guardia di turno).
+* Usare il cristallo di comunicazione fornito da Vajra (se presente nelle risorse del gruppo).
+* Presentarsi di persona alla Torre (richiede un appuntamento, ma viene concesso data la natura urgente della missione).
+
+
+Il Rapporto Accurato
+Se il gruppo riferisce correttamente di Zelifarn (anche solo per iscritto), la missione è considerata compiuta. Vajra risponde:
+
+
+"Un drago di bronzo. Non è una minaccia immediata — la loro natura li porta verso la protezione dei mortali, non il loro danno. Ma va monitorato. Avete fatto bene a parlare invece di combattere."Una pausa."Ho letto anche della cosa con lo squalo. Non chiederò come siete sopravvissuti. Non voglio sapere."
+	
+
+Il Rapporto Falsificato
+Se il gruppo non ha incontrato Zelifarn e prova a falsificare la lettera, richiedi una prova di Inganno CD 20.
+Se falliscono (o se il DM decide di non svelare subito il risultato): Vajra appare di persona a Villa Trollskull il giorno successivo. È furiosa con la calma glaciale di chi raramente si abbassa ad urlare:
+
+
+Vajra entra, posa la lettera sul tavolo con la stessa delicatezza con cui si posa una spada sguainata, e vi guarda uno per uno."Questa lettera è un'opera di finzione. Non so se ammirare la vostra audacia o preoccuparmi per la vostra intelligenza. Avete tempo fino all'alba per portarmi un rapporto vero. Se non lo fate, non avrete più bisogno di preoccuparvi della vostra appartenenza alle Mani Grigie — perché non ne farete più parte."Esce senza aspettare risposta.
+	________________
+
+
+PNG — Profili Narrativi
+
+
+Zelifarn — Il Giovane Drago di Bronzo
+Aspetto: Le sue squame sono del colore del bronzo nuovo, quasi dorato sotto la luce — ma sott'acqua riflettono il verde-blu del porto. È grande quanto una barca a vela di medie dimensioni. I suoi occhi sono verdi e curiosi, non feroci.
+Personalità: Entusiasta, curioso, leggermente vanitoso riguardo alla sua collezione. Ha la tendenza dei draghi giovani a ignorare il disagio altrui non perché sia crudele, ma perché non ha ancora imparato che le creature più piccole possono provare terrore semplicemente guardandolo. Si offende facilmente se il suo tesoro viene disprezzato.
+Motivazione: Vuole stare a Waterdeep, partecipare ai suoi festival (anche solo da lontano) e continuare a collezionare oggetti interessanti. Non è una minaccia — è un vicino di quartiere molto, molto grande.
+Frase Caratteristica: "È una questione di principio. I principi sono importanti. I draghi hanno sempre avuto principi. Almeno i draghi di bronzo — gli altri sono piuttosto terribili sotto questo punto di vista."
+
+
+Obliteros — Lo Squalo Risvegliato
+Aspetto: Sette metri di squalo bianco con le cicatrici di decenni di risse subacquee. Il suo occhio sinistro è bianco — cieco — ma quello destro è giallo e intelligente in modo sgradevole.
+Personalità: Pragmatica e brutale, ma non stupida. È stata risvegliata con la Coscienza da qualcuno che ora è morto (lei lo ha mangiato), e da allora vive seguendo un'unica priorità: mangiare. Non odia il gruppo — semplicemente è convinta che mangiarli sia l'opzione più ragionevole.
+Se viene sconfitta e riesce a fuggire: Potrebbe diventare un PNG ricorrente nel porto — diffidente, ma rispettosa di chi l'ha battuta in combattimento. Con il tempo e il giusto approccio (portandole cibo), potrebbe persino diventare una fonte di informazioni sulle acque del porto.
+
+
+Lashurien Malfuria — L'Elfo Indiscreto
+Aspetto: Elfo sulla sessantina con capelli argento intrecciati in modo trascurato, un cappotto da marinaio troppo grande e un bicchiere che non è mai vuoto abbastanza a lungo.
+Personalità: Chiacchierone, tendente all'esagerazione, ma fondamentalmente onesto. Ha passato trent'anni sui moli di Waterdeep e conosce ogni traffico, ogni volto, ogni storia. Il problema è che le racconta tutte contemporaneamente e non sempre nell'ordine corretto.
+Potenziale uso futuro: Lashurien può diventare un informatore del porto per il gruppo — non affidabile come Orvyn per le informazioni precise, ma utile per il gossip e i movimenti al Quartiere del Porto.
+________________
+
+
+Conclusione e Ricompense
+
+
+Ricompense
+
+
+Ricompensa
+	Dettaglio
+	Esperienza Base
+	300 XP per ogni membro del gruppo
+	Esperienza Combattimento
+	+XP per i danni inflitti a Obliteros (se sconfitto: 1.800 XP divisi nel gruppo)
+	Rinomanza Force Grey
+	+1 punto Rinomanza per ogni membro delle Mani Grigie
+	Polvere dell'Asciugatura
+	Un sacchetto di Dust of Dryness (oggetto magico raro, assorbe fino a 15 litri d'acqua per ogni granello; il sacchetto contiene 1d6+4 granelli)
+	Contatto: Zelifarn (se diplomatico)
+	Zelifarn può essere consultato per informazioni sulle acque del porto. Risponde positivamente a chi gli ha parlato con rispetto.
+	Contatto: Obliteros (se risparmiata)
+	Con il tempo e del cibo, lo squalo può diventare un'informatore delle profondità del porto.
+	
+
+Semi Narrativi per le Missioni Successive
+* Zelifarn menziona il vascello subacqueo sotto l'Eyecatcher — una pista per un'indagine futura legata a Jarlaxle.
+* Obliteros è stata risvegliata da un pirata con un teschio d'oro magico — chi era? Il teschio è ancora sul fondo del porto?
+* Lashurien ha menzionato che i marinai del turno di notte vedono spesso Zelifarn al relitto — qualcuno sta tenendo d'occhio anche il drago?
+
+
+Force Grey — Missione 2: Non è Tutto Oro Quel che Luccica
+Campagna: Dragon Heist | Waterdeep

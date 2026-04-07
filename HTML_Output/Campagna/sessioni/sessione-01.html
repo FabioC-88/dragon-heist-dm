@@ -1,0 +1,996 @@
+<!DOCTYPE html>
+<html lang="it" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="theme-color" content="#8b5cf6" />
+  <title>sessione-01 — Dragon Heist Wiki</title>
+  <link rel="stylesheet" href="../style.css" />
+  <style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    :root {
+        --primary: #8b5cf6;
+        --primary-dark: #7c3aed;
+        --primary-light: #a78bfa;
+        --secondary: #06b6d4;
+        --accent: #f59e0b;
+        --dark-bg: #0f172a;
+        --light-bg: #f8fafc;
+        --card-bg: #ffffff;
+        --text-dark: #1e293b;
+        --text-light: #475569;
+        --border: #e2e8f0;
+    }
+    
+    html {
+        scroll-behavior: smooth;
+    }
+    
+    body {
+        font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Trebuchet MS', sans-serif;
+        line-height: 1.7;
+        background: linear-gradient(135deg, var(--light-bg) 0%, #f1f5f9 100%);
+        color: var(--text-dark);
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    /* Header */
+    header {
+        background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+        color: white;
+        padding: 1.5em 2em;
+        box-shadow: 0 4px 12px rgba(139, 92, 246, 0.2);
+        position: sticky;
+        top: 0;
+        z-index: 100;
+    }
+    
+    header .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    header h1 {
+        font-size: 1.5em;
+        margin: 0;
+        font-weight: 600;
+        letter-spacing: -0.5px;
+    }
+    
+    header a {
+        color: white;
+        text-decoration: none;
+        transition: opacity 0.3s;
+    }
+    
+    header a:hover {
+        opacity: 0.8;
+    }
+    
+    .breadcrumbs {
+        font-size: 0.9em;
+        opacity: 0.9;
+    }
+    
+    .breadcrumbs a {
+        color: rgba(255, 255, 255, 0.8);
+        text-decoration: none;
+    }
+    
+    .breadcrumbs a:hover {
+        color: white;
+    }
+    
+    /* Main Container */
+    .page-wrapper {
+        flex: 1;
+        display: flex;
+        max-width: 100%;
+    }
+    
+    .sidebar {
+        width: 280px;
+        background: var(--card-bg);
+        border-right: 1px solid var(--border);
+        padding: 2em 1.5em;
+        overflow-y: auto;
+        max-height: calc(100vh - 80px);
+        position: sticky;
+        top: 80px;
+    }
+    
+    .sidebar h3 {
+        font-size: 1.1em;
+        color: var(--primary-dark);
+        margin-bottom: 1em;
+        padding-bottom: 0.5em;
+        border-bottom: 2px solid var(--primary);
+    }
+    
+    .sidebar nav ul {
+        list-style: none;
+        margin: 0;
+    }
+    
+    .sidebar nav ul li {
+        margin: 0.5em 0;
+    }
+    
+    .sidebar nav a {
+        color: var(--text-light);
+        text-decoration: none;
+        display: block;
+        padding: 0.5em 0.75em;
+        border-radius: 4px;
+        transition: all 0.2s;
+        font-size: 0.95em;
+    }
+    
+    .sidebar nav a:hover {
+        background-color: rgba(139, 92, 246, 0.1);
+        color: var(--primary);
+        padding-left: 1.2em;
+    }
+    
+    /* Content */
+    main {
+        flex: 1;
+        padding: 2.5em;
+        max-width: 900px;
+    }
+    
+    article {
+        background: var(--card-bg);
+        border-radius: 12px;
+        padding: 2.5em;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+        margin-bottom: 2em;
+    }
+    
+    h1 {
+        color: var(--primary-dark);
+        font-size: 2.2em;
+        margin: 0.8em 0 0.4em;
+        font-weight: 700;
+        letter-spacing: -0.5px;
+        border-bottom: 3px solid var(--primary);
+        padding-bottom: 1em;
+    }
+    
+    h2 {
+        color: var(--primary);
+        font-size: 1.6em;
+        margin: 1.3em 0 0.5em;
+        font-weight: 600;
+        letter-spacing: -0.3px;
+    }
+    
+    h3 {
+        color: var(--primary-dark);
+        font-size: 1.2em;
+        margin: 1em 0 0.4em;
+        font-weight: 600;
+    }
+    
+    h4, h5, h6 {
+        color: var(--text-dark);
+        margin: 0.8em 0 0.3em;
+        font-weight: 600;
+    }
+    
+    p {
+        margin-bottom: 1em;
+        color: var(--text-light);
+    }
+    
+    a {
+        color: var(--primary);
+        text-decoration: none;
+        font-weight: 500;
+        transition: all 0.2s;
+    }
+    
+    a:hover {
+        color: var(--primary-dark);
+        text-decoration: underline;
+        text-decoration-thickness: 2px;
+    }
+    
+    code {
+        background-color: rgba(139, 92, 246, 0.1);
+        color: var(--primary-dark);
+        padding: 4px 8px;
+        border-radius: 4px;
+        font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+        font-size: 0.9em;
+        border: 1px solid rgba(139, 92, 246, 0.2);
+    }
+    
+    pre {
+        background-color: var(--dark-bg);
+        color: #e0e7ff;
+        padding: 1.5em;
+        border-radius: 8px;
+        overflow-x: auto;
+        line-height: 1.5;
+        margin: 1.5em 0;
+        border-left: 4px solid var(--primary);
+        box-shadow: 0 4px 12px rgba(139, 92, 246, 0.1);
+    }
+    
+    pre code {
+        background: transparent;
+        color: #e0e7ff;
+        padding: 0;
+        border: none;
+    }
+    
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 1.5em 0;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+    }
+    
+    table thead {
+        background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+    }
+    
+    table th {
+        color: white;
+        padding: 1em;
+        text-align: left;
+        font-weight: 600;
+        font-size: 0.95em;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+    }
+    
+    table td {
+        padding: 1em;
+        border-bottom: 1px solid var(--border);
+        color: var(--text-light);
+    }
+    
+    table tbody tr {
+        transition: all 0.2s;
+    }
+    
+    table tbody tr:hover {
+        background-color: rgba(139, 92, 246, 0.05);
+    }
+    
+    table tbody tr:last-child td {
+        border-bottom: none;
+    }
+    
+    ul, ol {
+        margin: 1em 0 1em 2em;
+        color: var(--text-light);
+    }
+    
+    li {
+        margin: 0.5em 0;
+    }
+    
+    blockquote {
+        border-left: 5px solid var(--primary);
+        margin: 1.5em 0;
+        padding: 1.2em 1.5em;
+        background-color: rgba(139, 92, 246, 0.05);
+        border-radius: 4px;
+        color: var(--text-light);
+        font-style: italic;
+        font-size: 1.05em;
+    }
+    
+    hr {
+        border: none;
+        height: 2px;
+        background: linear-gradient(90deg, transparent, var(--primary), transparent);
+        margin: 2.5em 0;
+    }
+    
+    /* TOC */
+    nav#TOC {
+        background: rgba(139, 92, 246, 0.05);
+        border: 1px solid var(--border);
+        border-radius: 8px;
+        padding: 1.5em;
+        margin: 2em 0;
+        border-left: 4px solid var(--primary);
+    }
+    
+    nav#TOC h2 {
+        margin-top: 0;
+        font-size: 1.2em;
+    }
+    
+    nav#TOC ul {
+        list-style: none;
+        margin: 0;
+    }
+    
+    nav#TOC li {
+        margin: 0.5em 0 0.5em 1.5em;
+        position: relative;
+    }
+    
+    nav#TOC li:before {
+        content: "▸";
+        position: absolute;
+        left: -1.2em;
+        color: var(--primary);
+        font-weight: bold;
+    }
+    
+    nav#TOC a {
+        color: var(--primary);
+    }
+    
+    nav#TOC a:hover {
+        color: var(--primary-dark);
+    }
+    
+    /* Footer */
+    footer {
+        background: var(--dark-bg);
+        color: #cbd5e1;
+        padding: 2em;
+        text-align: center;
+        font-size: 0.9em;
+        border-top: 1px solid var(--border);
+        margin-top: auto;
+    }
+    
+    footer a {
+        color: var(--primary-light);
+    }
+    
+    /* Responsive */
+    @media (max-width: 1024px) {
+        .sidebar {
+            width: 240px;
+            padding: 1.5em 1em;
+        }
+        
+        main {
+            padding: 2em;
+        }
+        
+        article {
+            padding: 2em;
+        }
+    }
+    
+    @media (max-width: 768px) {
+        .page-wrapper {
+            flex-direction: column;
+        }
+        
+        .sidebar {
+            width: 100%;
+            max-height: none;
+            position: static;
+            border-right: none;
+            border-bottom: 1px solid var(--border);
+            padding: 1.5em;
+        }
+        
+        main {
+            padding: 1.5em;
+            max-width: 100%;
+        }
+        
+        article {
+            padding: 1.5em;
+        }
+        
+        h1 {
+            font-size: 1.8em;
+        }
+        
+        h2 {
+            font-size: 1.3em;
+        }
+        
+        h3 {
+            font-size: 1.05em;
+        }
+        
+        header .container {
+            flex-direction: column;
+            gap: 0.5em;
+        }
+        
+        header h1 {
+            font-size: 1.2em;
+        }
+    }
+  </style>
+</head>
+<body>
+<header>
+  <div class="container">
+    <h1><a href="../INDEX.html" class="logo-link">🗺️ Dragon Heist Wiki</a></h1>
+    <div class="breadcrumbs">sessione-01</div>
+  </div>
+</header>
+
+<div class="page-wrapper">
+  <aside class="sidebar">
+    <a href="../INDEX.html" class="index-link" style="display: block; margin-bottom: 1.5em; padding: 0.8em 1em; background-color: var(--primary); color: white; text-decoration: none; border-radius: 6px; text-align: center; font-weight: 600; transition: all 0.2s;">📖 Torna all'Indice</a>
+    
+        <h3>📑 Indice Pagina</h3>
+    <nav>
+    <ul>
+    <li><a href="#sessione-1-waterdeep-dragon-heist"
+    id="toc-sessione-1-waterdeep-dragon-heist">Sessione 1 — Waterdeep:
+    Dragon Heist</a>
+    <ul>
+    <li><a href="#resoconto-sessione" id="toc-resoconto-sessione">📋
+    RESOCONTO SESSIONE</a>
+    <ul>
+    <li><a href="#fase-1-setup-arrivo-portale-5-10-min-gioco"
+    id="toc-fase-1-setup-arrivo-portale-5-10-min-gioco">FASE 1: Setup
+    &amp; Arrivo Portale (5-10 min gioco)</a></li>
+    <li><a href="#fase-2-combattimento-brawl-al-portale-30-40-min"
+    id="toc-fase-2-combattimento-brawl-al-portale-30-40-min">FASE 2:
+    Combattimento — Brawl al Portale (30-40 min)</a></li>
+    <li><a href="#fase-3-volo-quest-hook-10-15-min-social"
+    id="toc-fase-3-volo-quest-hook-10-15-min-social">FASE 3: Volo Quest
+    Hook (10-15 min, social)</a></li>
+    <li><a
+    href="#fase-4-dock-ward-investigation-45-60-min-investigation-social"
+    id="toc-fase-4-dock-ward-investigation-45-60-min-investigation-social">FASE
+    4: Dock Ward Investigation (45-60 min, Investigation +
+    Social)</a></li>
+    <li><a href="#fase-5-chiusura-setup-sessione-2-10-15-min"
+    id="toc-fase-5-chiusura-setup-sessione-2-10-15-min">FASE 5: Chiusura
+    &amp; Setup Sessione 2 (10-15 min)</a></li>
+    </ul></li>
+    <li><a href="#tracking-post-sessione"
+    id="toc-tracking-post-sessione">📊 TRACKING POST-SESSIONE</a>
+    <ul>
+    <li><a href="#xp-livelli" id="toc-xp-livelli">XP &amp;
+    Livelli</a></li>
+    <li><a href="#treasure-rewards" id="toc-treasure-rewards">Treasure
+    &amp; Rewards</a></li>
+    <li><a href="#png-incontrati" id="toc-png-incontrati">PNG
+    Incontrati</a></li>
+    <li><a href="#fazioni-status-post-sessione"
+    id="toc-fazioni-status-post-sessione">Fazioni — Status
+    Post-Sessione</a></li>
+    <li><a href="#connessioni-narrative-aperte"
+    id="toc-connessioni-narrative-aperte">Connessioni Narrative
+    Aperte</a></li>
+    </ul></li>
+    <li><a href="#notes-dm-during-session"
+    id="toc-notes-dm-during-session">📝 NOTES DM DURING SESSION</a></li>
+    <li><a href="#post-session-checklist"
+    id="toc-post-session-checklist">✅ POST-SESSION CHECKLIST</a></li>
+    <li><a href="#quick-dm-reference-session-1"
+    id="toc-quick-dm-reference-session-1">📌 Quick DM Reference —
+    Session 1</a></li>
+    </ul></li>
+    </ul>
+    </nav>
+      </aside>
+  
+  <main>
+    <article>
+      <h1 id="sessione-1-waterdeep-dragon-heist">Sessione 1 — Waterdeep:
+      Dragon Heist</h1>
+      <p><strong>Data Gioco:</strong> [Inizio Estate 1494 DR]<br />
+      <strong>Data Reale:</strong> [TBD]<br />
+      <strong>Durata:</strong> ~120 minuti (2 ore)<br />
+      <strong>Livello Party:</strong> 1 (inizio); 1 (fine) — XP: 0 → 50
+      (verso L2: 300 totali)</p>
+      <hr />
+      <h2 id="resoconto-sessione">📋 RESOCONTO SESSIONE</h2>
+      <h3 id="fase-1-setup-arrivo-portale-5-10-min-gioco">FASE 1: Setup
+      &amp; Arrivo Portale (5-10 min gioco)</h3>
+      <p><strong>Azione:</strong> - [ ] Tutti i PG sono stati invitati
+      da Volo nel BG. OGGI è il giorno dell’appuntamento al Portale. - [
+      ] Ogni giocatore introduce brevemente il proprio PG e come l’ha
+      contattato Volo (non motivi differenti) - [ ] Il party si ritrova
+      per la PRIMA VOLTA in persona (non si conosce ancora) - [ ]
+      Descrizione Yawning Portal — atmosfera leggendaria, storica, umida
+      - [ ] Durnan al bancone dice: <em>“Volo arriva tra poco.”</em></p>
+      <p><strong>Note DM:</strong> - Emphasize che è il primo incontro
+      del party - Lasciate che si presentino brevemente</p>
+      <p><strong>Outcome:</strong> Tutti al tavolo insieme. Nessuno si
+      conosce ancora. Durnan neutrale. Expectation: “Volo è in
+      arrivo.”</p>
+      <hr />
+      <h3 id="fase-2-combattimento-brawl-al-portale-30-40-min">FASE 2:
+      Combattimento — Brawl al Portale (30-40 min)</h3>
+      <p><strong>Trigger:</strong> Yagra Stonefist entra dalla porta
+      principale. Banditi Xanathar attaccano briga con lei (faida
+      interna per il controllo del porto). Al Round 3 arriva il Troll da
+      Undermountain.</p>
+      <p><strong>Round 1-2: Faida Zhentarim vs Xanathar</strong></p>
+      <p>Nemici (Round 1-2): - 1x Yagra Stonefist —
+      <strong>SEMI-ALLEATA</strong> (difende sé stessa, non chiede
+      aiuto) - 5x Xanathar Bandit (HP 5 ciascuno, leader
+      <strong>Krentz</strong> umano con spada)</p>
+      <p>Nemici (Round 3+): - 1x Troll (HP 44, rigenera 10 HP/turno
+      senza fuoco) — <strong>emerge dalla botola retro, AC 15</strong>
+      <em>(già drenato dagli stirges in Undermountain)</em> - 3x
+      <strong>Stirge</strong> (HP 2, AC 14, volo) — <strong>arrivano con
+      il troll; le altre 6 gonfie restano attaccate al troll</strong> -
+      Xanathar Banditi continuano combattimento (o fuggono se Krentz
+      spaventa)</p>
+      <p><strong>Setup battaglia:</strong> Taverna chiusa — tavoli,
+      colonne, bancone, botole. <strong>Difficoltà:</strong> Medio
+      (faida 1v5, poi aggravato da Troll).</p>
+      <p><strong>Azioni Party (Round 1-2):</strong> - [ ] Decidono di
+      aiutare Yagra subito? Oppure aspettano? - [ ] Se Round 1-2:
+      Combattono solo contro i 5 banditi Xanathar - [ ] Round 1: - [ ]
+      Round 2:</p>
+      <p><strong>Tattiche Nemici (Round 1-2 — Faida):</strong> - Krentz
+      grida: <em>“I Zhentarim pagheranno dazio Xanathar, o diventano
+      schiavi!”</em> - Colpa di Banditi: attaccano Yagra, ignorando il
+      party (inizialmente) - <strong>Se il party interviene: i banditi
+      li attaccano (nemici multipli)</strong> - Yagra HP 20 — può durare
+      2 round sola, poi arriva a ~5-10 HP = urgenza</p>
+      <p><strong>Azioni Party (Round 3+):</strong> - [ ] Round 3: - [ ]
+      Il Troll emerge (vedi trigger sotto) - [ ] Round 4+:</p>
+      <p><strong>Trigger Round 3: Troll Emerge</strong></p>
+      <blockquote>
+      <p><strong>[A metà del Round 3, OPPURE quando la taverna è nel
+      caos massimo]</strong></p>
+      <p>Una botola esplosiva al retro della taverna si spalanca
+      violentemente. Dal buio di Undermountain emerge UNA COSA — grigia,
+      oleosa, massiccia.</p>
+      <p><strong>UN TROLL.</strong></p>
+      <p>Alto quasi 3 metri, tre braccia (una ha artigli enormi), una
+      gamba atrofizzata che trascina. Occhi rossi affamati. Ruggisce — i
+      boccali tintinnano, i clienti rimasti urlano e corrono.</p>
+      <p><em>“MANGIARE!”</em> grida il troll, caoticamente. Attacca il
+      <strong>primo nemico che vede</strong> — probabilmente Krentz (più
+      rumoroso) o il party se siete stati aggressivi.</p>
+      </blockquote>
+      <p><strong>Tattiche Nemici (Round 3+ — Troll):</strong> - Troll è
+      caotico, non strategico - attacca la cosa più rumorosa/minacciosa
+      - Se bruciato (fuoco): scappa verso Undermountain o muore se
+      consumato - <strong>Regeneration:</strong> 10 HP/turno se non ha
+      fuoco (CRITICO) - Krentz cerca di scappare dalla taverna se Troll
+      lo minaccia</p>
+      <p><strong>Risultato Combattimento:</strong> - [ ] Vittoria Party
+      (probabile) - [ ] Yagra sopravvive (ferita, HP ~10-15 rimasti) - [
+      ] Krentz: [ ] Muore / [ ] Fugge dalla taverna - [ ] Xanathar
+      Banditi: [ ] Morti / [ ] Fuggono con Krentz - [ ] Troll: [ ]
+      Bruciato/ucciso / [ ] Scappa verso Undermountain</p>
+      <p><strong>Bottino Combattimento:</strong> - 50 XP per PC (Party
+      ora: 50/300 verso L2) - ~10 gp dalle tasche banditi -
+      Armi/armature semplici (niente di particolare)</p>
+      <p><strong>Notes DM:</strong> - Party decision point Round 1-2
+      conta! Se aiutano subito Yagra: buon punto narrativo. Se
+      aspettano: Yagra quasi muore prima del Troll. - <strong>Durnan
+      combatte attivamente:</strong> salta il bancone con lo spadone,
+      attacca il troll. Urla al party: <em>“Pensate agli stirges! E
+      bruciate quello!”</em></p>
+      <p><strong>Outcome:</strong> Party vittorioso. Yagra è
+      (semi-)alleata per futuri incontri. Durnan impressionato (+1
+      amichevolezza). Taverna devastata ma Durnan la pulisce.</p>
+      <hr />
+      <h3 id="fase-3-volo-quest-hook-10-15-min-social">FASE 3: Volo
+      Quest Hook (10-15 min, social)</h3>
+      <p><strong>PNG:</strong> Volothamp “Volo” Geddarm (braggart,
+      sincero, genuinamente preoccupato)</p>
+      <p><strong>Azione:</strong> - [ ] Volo entra drammaticamente dopo
+      il brawl - [ ] Spiega: Floon Blagmaar scomparso 2 giorni fa,
+      sequestro probabile - [ ] Offre ricompensa: 10 gp subito (Volo
+      paga) + 100 gp quando Floon è al sicuro</p>
+      <p><strong>Info utili da Volo:</strong> - Floon visto ultima volta
+      al Dock Ward, bevendo vino fuori da taverna - Nuomi di contatti
+      per investigazione: <strong>Skewered Dragon</strong> (taverna
+      Zhentarim) e <strong>Old Xoblob</strong> (negozio gnomo) - “Stai
+      attento là — è territorio Zhentarim e Xanathar. Brutti.”</p>
+      <p><strong>Party Decision:</strong> - [ ] Accetta missione
+      (probabile) - [ ] Rifiuta (unlikely, ma possibile)</p>
+      <p><strong>Reward Immediate:</strong> - [x] <strong>10 gp
+      ciascuno</strong> (anticipo di Volo — 60 gp in totale per 6 PG) -
+      Promessa: <strong>100 gp ciascuno</strong> quando Floon torna sano
+      e salvo</p>
+      <p><strong>Notes DM:</strong></p>
+      <p><strong>Outcome:</strong> Party ha missione chiara. Volo
+      diventa PNG alleato. Durnan offre riposo gratis al Portale (1
+      notte).</p>
+      <hr />
+      <h3
+      id="fase-4-dock-ward-investigation-45-60-min-investigation-social">FASE
+      4: Dock Ward Investigation (45-60 min, Investigation +
+      Social)</h3>
+      <p><strong>[Opzionale — En Route: Sangue nelle
+      Strade]</strong></p>
+      <p>Mentre il party si dirige al Dock Ward, incontra una strada
+      sbarrata dalla Guardia Cittadina: - 6 cadaveri sul selciato
+      (scontro Xanathar vs Zhentarim) - 3 banditi superstiti arrestati —
+      <strong>agenti di Urstul Floxin</strong> (noto a Barnabus!) -
+      Guardia: <em>“Circolare. Non c’è niente da vedere.”</em></p>
+      <p><strong>Barnabus:</strong> può riconoscere i tatuaggi Zhentarim
+      degli arrestati e collegarli a Floxin.</p>
+      <hr />
+      <h4
+      id="tappa-1-old-xoblob-shop-skewered-dragon-zona-fillet-lane"><strong>Tappa
+      1: Old Xoblob Shop + Skewered Dragon (zona Fillet
+      Lane)</strong></h4>
+      <p><em>I due luoghi si trovano sullo stesso vicolo (Fillet Lane).
+      Il party può visitarli in qualsiasi ordine.</em></p>
+      <p><strong>A) OLD XOBLOB SHOP — angolo Zastrow St / Fillet
+      Lane</strong></p>
+      <p><strong>PNG:</strong> Xoblob (deep gnome — testa calva, 9 occhi
+      dipinti sulle guance, fuma pipa con fumo lavanda, siede a gambe
+      incrociate sul bancone)</p>
+      <p><strong>Ambiente:</strong> Facciata viola scuro. Beholder
+      imbalsamato in vetrina (tassidermia — solo un trofeo eccentrico,
+      nessun potere magico).</p>
+      <p><strong>Info:</strong> Xoblob non conosce il nome di Floon ma
+      riconosce la descrizione. Vide due persone dall’aspetto simile
+      aggredite fuori dal negozio da 5 uomini in armature di cuoio nero.
+      Uno aveva un <strong>tatuaggio di serpente alato sul
+      collo</strong> (simbolo Zhentarim).</p>
+      <p><strong>Check:</strong> CD 13 Carisma (Persuasione o
+      Intimidazione) <strong>oppure</strong> offrire un oggetto viola in
+      dono.</p>
+      <p><strong>Azioni:</strong> - [ ] Info ottenute su Xoblob: SÌ / NO
+      - [ ] Oggetto viola offerto?: SÌ / NO</p>
+      <hr />
+      <p><strong>B) SKEWERED DRAGON — vicolo tra Net St e Fillet
+      Lane</strong></p>
+      <p><strong>PNG:</strong> Avventori portuali (sospettosi degli
+      estranei)</p>
+      <p><strong>Ambiente:</strong> Taverna scalcinata, finestroni
+      rotti, ancora di nave nel tetto.</p>
+      <p><strong>Check:</strong> CD 13 Carisma (Persuasione o
+      Intimidazione) oppure corruzione (5 gp) per far parlare gli
+      avventori.</p>
+      <p><strong>Info:</strong> Volo e Floon erano qui due sere fa. Dopo
+      che Volo andò via, Floon incontrò <strong>Renaer
+      Neverember</strong> (nobile, capelli biondi, aspetto simile a
+      Floon). Giocarono a Three-Dragon Ante, uscirono a mezzanotte. 5
+      uomini li seguirono. Quegli stessi uomini frequentano un magazzino
+      in <strong>Candle Lane</strong> — <em>“Cerca il simbolo del
+      serpente sulla porta.”</em></p>
+      <p><strong>Azioni:</strong> - [ ] Info ottenute su Skewered
+      Dragon: SÌ / NO</p>
+      <hr />
+      <h4 id="tappa-2-candle-lane-magazzino-zhentarim"><strong>Tappa 2:
+      Candle Lane — Magazzino Zhentarim</strong></h4>
+      <p><strong>Ambiente:</strong> Vicolo stretto buio come un pozzo
+      (luce solo all’ora di mezzodì). Una sola lanterna accesa (fiamma
+      continua). Magazzino a due piani, porta con simbolo serpe alata
+      nera.</p>
+      <p><strong>Punto di entrata:</strong> - Bussare: nessuna risposta
+      — rumori di scurrying udibili con Percezione passiva 16+ -
+      Serratura: CD 12 Attrezzi scassinatore oppure CD 10 Forza
+      (Atletica) per sfondare - Furtivi: colgono i kenku di sorpresa se
+      non si annunciano</p>
+      <p><strong>Dentro il Magazzino (stanza principale):</strong> - 4x
+      <strong>Kenku</strong> (armati di spada corta, mantello con
+      cappuccio) — fuggono se 2 cadono - 12 cadaveri: 5 Zhentarim
+      sellswords (tatuaggio serpente sul collo/avambraccio) + 7 sicari
+      Xanathar (tatuaggio cerchio con dieci raggi sulla mano) - Casse
+      con attrezzatura Zhentarim (uniformi nere, razioni, stivali)</p>
+      <p><strong>Interrogare kenku (CD 10 Intimidazione):</strong> -
+      <em>“I saluti di Xanathar.”</em> (voce orchesca profonda) -
+      <em>“Legate il bel ragazzo nel retro!”</em> / <em>“Seguite i segni
+      gialli nelle fogne.”</em> (voce nasale sottile) - <em>“Niente
+      tempo per saccheggiare. Al boss.”</em> (voce rauca)</p>
+      <p><strong>Stanza sul retro (Z2):</strong> porta sgangherata,
+      odore forte di aceto e aringa. - <strong>Renaer
+      Neverember</strong> si nasconde sotto un telone nell’angolo nord
+      (respiro affannoso udibile) - Si è liberato dalle corde da solo;
+      coperto di sporcizia, disarmato ma vivo</p>
+      <p><strong>Stanza segreta (Z3 — CD 15 Percezione):</strong> - 4
+      dipinti (Luskan/Neverwinter/Silverymoon/Baldur’s Gate, 75 gp
+      ciascuno) - 15 barre argento 10 lb (50 gp ciascuna, annerite
+      dall’ossidazione) - 1 <strong>uccello di carta</strong> (oggetto
+      magico — appendice A)</p>
+      <p><strong>Renaer — Cosa sa:</strong> - Non sa dov’è la Stone of
+      Golorr: <em>“Gli Zhentarim credono che mio padre abbia sottratto
+      dell’oro e l’abbia nascosto in città. Pensano che la Stone of
+      Golorr possa indicare il nascondiglio — era con la Gilda di
+      Xanathar, ma qualcuno l’ha rubato. Pensavano che io sapessi
+      qualcosa. Non so nulla. Mio padre e io non ci parliamo da
+      anni.”</em> - Se menzionano Floon: <em>“…Credo lo abbiano preso al
+      mio posto. Per errore. Me ne sento responsabile.”</em> - Se il
+      party lo invita alla ricerca: accetta, si arma con pugnale e spada
+      rapiera dei Zhent morti</p>
+      <p><strong>[NOTA DM — riservata]</strong> Renaer non è a
+      conoscenza della Vault of Dragons né dove si trovi la Stone. Testo
+      ufficiale: <em>“Renaer is ignorant of the cache and its
+      whereabouts.”</em></p>
+      <p><strong>Arrivo City Watch — Capitano Hyustus Staget:</strong>
+      Poco dopo che il party trova Renaer, <strong>Staget</strong> (LG
+      umano, veterano) arriva con 12 guardie. - I kenku superstiti
+      vengono arrestati - Staget riconosce Renaer → si comporta
+      cortesemente col party per sua presenza - Dà al party una copia
+      del Codice Legale - NON manderà guardie nelle fogne per Floon -
+      <strong>Barnabus:</strong> Staget menziona di cercare Urstul
+      Floxin — il suo “pesce grosso”</p>
+      <p><strong>Azioni Party:</strong> - [ ] Tattica di entrata:
+      [Descrivi] - [ ] Kenku combattuti / fuggiti? - [ ] Kenku
+      interrogati?: SÌ / NO - [ ] Renaer liberato?: SÌ - [ ] Z3
+      trovata?: SÌ / NO - [ ] Interazione con Staget?: SÌ / NO</p>
+      <p><strong>Notes DM:</strong></p>
+      <p><strong>Outcome:</strong> Party libera Renaer. I kenku
+      rivelano: Floon è nelle fogne Xanathar (segui i segni gialli).
+      Renaer si unisce alla ricerca. Staget nota il party.</p>
+      <hr />
+      <h3 id="fase-5-chiusura-setup-sessione-2-10-15-min">FASE 5:
+      Chiusura &amp; Setup Sessione 2 (10-15 min)</h3>
+      <p><strong>Info-Dump Narrativo:</strong> - [ ] Party capisce:
+      Floon è con Xanathar in Sewer Hideout sotto Dock Ward - [ ] Vera
+      vittima: Renaer Neverember (scambio identità) - [ ] Guerra fra
+      fazioni: Zhentarim vs Xanathar (e altre forze) - [ ] Oggetto
+      ricercato: Stone of Golorr (teaser capitolo 2)</p>
+      <p><strong>Presagio di Razak — Evento Narrativo:</strong> - [ ]
+      Razak sente brivido. Voce di Hlam sussurra: &gt; <em>“Sangue
+      versato nel porto. Non è il primo. Non sarà l’ultimo. L’ombra
+      cresce, è già qui.”</em> - [ ] <strong>Razak (e party) sa che il
+      presagio è reale e connesso all’investigazione.</strong> Non è
+      follia.</p>
+      <p><strong>Messaggi Fazioni — PNG contatta ogni PG:</strong> - [ ]
+      <strong>Aelar</strong> (Arpisti): Mirt manda piccione con
+      messaggio — <em>“Ho sentito del vostro lavoro. Bene. Voglio
+      parlarvi domani.”</em> - [ ] <strong>Razak + Thraximundar</strong>
+      (Force Grey): Vajra Safahr li convoca — <em>“Fate rapporto. Questo
+      conflitto è più profondo.”</em> - [ ] <strong>Eric +
+      Gabri</strong> (Zentharim): Davil Starsong (via Yagra) contatta —
+      <em>“Interessati a lavoro? Venite alla Gaping Maw,
+      beviamo.”</em></p>
+      <p><strong>Riposo Party:</strong> - [ ] Durnan offre 2 notti
+      gratis al Portale (per aver battuto il troll) - [ ] Alternativa:
+      Party cerca locanda Dock Ward (Muleskull Tavern) o North Ward (5
+      gp/notte)</p>
+      <p><strong>Deed a Trollskull Alley:</strong> - [ ]
+      <strong>Rinviato a dopo il rescue di Floon</strong> — Volo
+      promette: <em>“Dopo che salvate Floon, la taverna è
+      vostra.”</em></p>
+      <p><strong>Teaser Sessione 2:</strong> - [ ] Party decide: rescue
+      Floon dal covo Xanathar (combattimento grande)
+      <strong>oppure</strong> investigation con fazioni prima (narrative
+      option) - [ ] Raccomandazione: lascia che party scelga. Se
+      scelgono investigation, introduce M1 fazioni.</p>
+      <p><strong>Notes DM:</strong></p>
+      <hr />
+      <h2 id="tracking-post-sessione">📊 TRACKING POST-SESSIONE</h2>
+      <h3 id="xp-livelli">XP &amp; Livelli</h3>
+      <ul>
+      <li><strong>Party XP Initial:</strong> 0</li>
+      <li><strong>XP Guadagnati:</strong> 50 (combattimento +
+      exploration)</li>
+      <li><strong>XP Party Fine Sessione:</strong> 50 / 300 (verso L2:
+      250 rimasti)</li>
+      <li><strong>Livello Fine Sessione:</strong> 1 (non ancora livello
+      up)</li>
+      </ul>
+      <h3 id="treasure-rewards">Treasure &amp; Rewards</h3>
+      <ul>
+      <li><strong>Denaro ricevuto:</strong> 10 gp (Volo pagamento
+      immediato) + 10 gp (bottino combattimento) = <strong>20 gp
+      totali</strong></li>
+      <li><strong>Oggetti ottenuti:</strong> Nessuno di valore (semplici
+      armi/armature banditi)</li>
+      <li><strong>Promesse future:</strong> 100 gp ricompensa (quando
+      Floon salvato); Deed a Trollskull Alley (dopo rescue)</li>
+      </ul>
+      <h3 id="png-incontrati">PNG Incontrati</h3>
+      <table>
+      <colgroup>
+      <col style="width: 13%" />
+      <col style="width: 44%" />
+      <col style="width: 26%" />
+      <col style="width: 15%" />
+      </colgroup>
+      <thead>
+      <tr>
+      <th>PNG</th>
+      <th>Primo Incontro</th>
+      <th>Attitude</th>
+      <th>Note</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td><strong>Durnan</strong></td>
+      <td>Yawning Portal</td>
+      <td>Amichevole (+1)</td>
+      <td>Ex avventuriero, neutrale, ha aiutato nel brawl
+      (opzionale)</td>
+      </tr>
+      <tr>
+      <td><strong>Yagra Stonefist</strong></td>
+      <td>Brawl</td>
+      <td>Amichevole (+1)</td>
+      <td>Mezza-orchessa Zhentarim, alleata durante brawl, ferita</td>
+      </tr>
+      <tr>
+      <td><strong>Volothamp “Volo” Geddarm</strong></td>
+      <td>Post-brawl</td>
+      <td>Amichevole (+2)</td>
+      <td>Braggart sincero, quest-giver Floon, contatti Dock Ward</td>
+      </tr>
+      <tr>
+      <td><strong>Azzaxell</strong></td>
+      <td>Skewered Dragon</td>
+      <td>Ostile (-1)</td>
+      <td>Barista Zhentarim, mentisce su Floon, freddo</td>
+      </tr>
+      <tr>
+      <td><strong>Shard</strong> (Kenku)</td>
+      <td>Skewered Dragon (opzionale confronto)</td>
+      <td>Neutrale / Ostile (-1 se combattimento)</td>
+      <td>Capo kenku, può negoziare per info (5 gp) oppure
+      combattere</td>
+      </tr>
+      <tr>
+      <td><strong>Old Xoblob</strong></td>
+      <td>Old Xoblob Shop</td>
+      <td>Amichevole (+1)</td>
+      <td>Gnomo anziano, sincero, ha sensore magico (beholder) in
+      negozio</td>
+      </tr>
+      <tr>
+      <td><strong>Renaer Neverember</strong></td>
+      <td>Warehouse Canale</td>
+      <td>Grato (+2)</td>
+      <td>Figlio Neverember, vero bersaglio, diventa alleato</td>
+      </tr>
+      <tr>
+      <td><strong>Krentz</strong></td>
+      <td>Brawl</td>
+      <td>Nemico (-2)</td>
+      <td>Leader Xanathar banditi, muore o fugge</td>
+      </tr>
+      <tr>
+      <td><strong>Stirges</strong> (3)</td>
+      <td>Brawl</td>
+      <td>Nemico (-3)</td>
+      <td>Creature Undermountain, tutte morte</td>
+      </tr>
+      <tr>
+      <td><strong>Troll</strong></td>
+      <td>Brawl</td>
+      <td>Nemico (-3)</td>
+      <td>Boss brawl, bruciato morto</td>
+      </tr>
+      </tbody>
+      </table>
+      <h3 id="fazioni-status-post-sessione">Fazioni — Status
+      Post-Sessione</h3>
+      <table>
+      <colgroup>
+      <col style="width: 39%" />
+      <col style="width: 34%" />
+      <col style="width: 26%" />
+      </colgroup>
+      <thead>
+      <tr>
+      <th>Fazione</th>
+      <th>Status</th>
+      <th>Note</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td><strong>Force Grey</strong></td>
+      <td>Alert (+1 engagement)</td>
+      <td>Razak/Thraximundar contattati da Vajra; presagio confermato
+      reale</td>
+      </tr>
+      <tr>
+      <td><strong>Arpisti</strong></td>
+      <td>Engaged (+1 engagement)</td>
+      <td>Aelar contattato da Mirt; M1 setup imminente</td>
+      </tr>
+      <tr>
+      <td><strong>Zentharim</strong></td>
+      <td>Engaged (+1 engagement)</td>
+      <td>Eric/Gabri contattati da Davil; M1 setup imminente</td>
+      </tr>
+      <tr>
+      <td><strong>Xanathar Guild</strong></td>
+      <td>Aware (interesse, -1 amichevolezza)</td>
+      <td>Brawl al Portale noto. Se beholder distrutto: sa che party
+      indaga.</td>
+      </tr>
+      <tr>
+      <td><strong>Governo Waterdeep</strong></td>
+      <td>Unaware</td>
+      <td>Nessun contatto ufficiale ancora. Guardia Cittadina (Barnabus
+      se presente) indaga separatamente.</td>
+      </tr>
+      </tbody>
+      </table>
+      <h3 id="connessioni-narrative-aperte">Connessioni Narrative
+      Aperte</h3>
+      <ul class="task-list">
+      <li><label><input type="checkbox" /><strong>Floon
+      Sequestrato:</strong> Xanathar Sewer Hideout — rescue planning per
+      sessione 2</label></li>
+      <li><label><input type="checkbox" /><strong>Stone of
+      Golorr:</strong> Renaer sa che è ricercato; teaser per Capitolo
+      2</label></li>
+      <li><label><input type="checkbox" /><strong>Renaer’s Father
+      (Neverember):</strong> Background, non encore
+      incontrato</label></li>
+      <li><label><input type="checkbox" /><strong>War Zhentarim vs
+      Xanathar:</strong> Setup per future missioni
+      secondarie</label></li>
+      <li><label><input type="checkbox" /><strong>Presagio di
+      Razak:</strong> Confermato reale; “l’ombra cresce, è già qui” —
+      foreshadowing Cassalanters</label></li>
+      <li><label><input type="checkbox" /><strong>Messaggi
+      Fazioni:</strong> Mirt/Vajra/Davil contacteranno nei prossimi
+      giorni in-game → M1 lanciate sessione 2-3</label></li>
+      </ul>
+      <hr />
+      <h2 id="notes-dm-during-session">📝 NOTES DM DURING SESSION</h2>
+      <p><em>[Spazio per note libere durante la sessione — tattica
+      party, barzellette, momenti di gioco inaspettati]</em></p>
+      <hr />
+      <h2 id="post-session-checklist">✅ POST-SESSION CHECKLIST</h2>
+      <ul class="task-list">
+      <li><label><input type="checkbox" />Aggiorna <a
+      href="../party.html">Campagna/party.md</a> — XP aggiornato (50/300),
+      nessun cambio livello</label></li>
+      <li><label><input type="checkbox" />Aggiorna <a
+      href="../png-incontrati.html">Campagna/png-incontrati.md</a> —
+      aggiungi tutti i PNG della sessione + attitude</label></li>
+      <li><label><input type="checkbox" />Aggiorna <a
+      href="../fazioni.html">Campagna/fazioni.md</a> — status fazioni
+      post-sessione</label></li>
+      <li><label><input type="checkbox" />Aggiorna <a
+      href="../missioni-secondarie.html">Campagna/missioni-secondarie.md</a>
+      — M1 ancora non lanciate, ma setup avanzato</label></li>
+      <li><label><input type="checkbox" />Prepara note per
+      <strong>Sessione 2:</strong> rescue Floon oppure investigation con
+      fazioni (a scelta party)</label></li>
+      <li><label><input type="checkbox" />Leggi Dragon Heist
+      <strong>Capitolo 2</strong> (Stone of Golorr, Jarlaxle, altre
+      fazioni competitor) — background per sessione 2-3</label></li>
+      </ul>
+      <hr />
+      <h2 id="quick-dm-reference-session-1">📌 Quick DM Reference —
+      Session 1</h2>
+      <p><strong>Nemici:</strong> - Troll: AC 15, HP 84, Multiattack
+      (bite + claw x2), rigenera 10 HP/turn (no fuoco) - Stirge (3): AC
+      14, HP 2, +4 bite - Xanathar Bandit (5): AC 13, HP 5, +2 melee
+      attack - Kenku (1-2): AC 13, HP 7, +2 pugnale/arco - Zhentarim
+      Bandit (1-2): AC 13, HP 5, +2 attack</p>
+      <p><strong>CD Rilevanti:</strong> - Insight CD 12: capire che
+      Azzaxell mente - Persuasion CD 11: negoziare con Shard senza
+      pagare - Intimidation CD 13: spaventare Azzaxell - Sleight of Hand
+      CD 12: scassa porta warehouse - Arcana CD 13: riconoscere beholder
+      moderno (se distrutto)</p>
+      <p><strong>Key Points:</strong> - Presagio di Razak è reale —
+      confermalo durante la sessione - Party non arriva al rescue finale
+      (sessione 2) - Deed a Trollskull rinviato post-rescue - M1 fazioni
+      saranno lanciate sessione 2-3 naturalmente (via PNG)</p>
+    </article>
+  </main>
+</div>
+
+<footer>
+  <p>🎭 <strong>Waterdeep: Dragon Heist</strong> — Wiki Campagna | Ultima modifica: <time>07/04/2026</time></p>
+  <p><a href="../INDEX.html">← Torna al Menu Principale</a></p>
+</footer>
+</body>
+</html>
+

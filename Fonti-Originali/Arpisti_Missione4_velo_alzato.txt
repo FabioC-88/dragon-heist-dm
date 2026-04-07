@@ -1,0 +1,211 @@
+﻿WATERDEEP: DRAGON HEIST
+Missione degli Arpisti — Capitolo 4
+ 
+OPERAZIONE
+« VELO ALZATO »
+Un'infiltrazione notturna sull'Eyecatcher
+⚓  4 Personaggi • 4° Livello • Waterdeep, Porto  ⚓
+SINOSSI
+Gli Arpisti hanno due sospetti urgenti riguardo alla nave Eyecatcher e al suo misterioso capitano 'Zardoz Zord'. Il Giorno delle Meraviglie offre una finestra di opportunità irripetibile: mentre Zord guida la parata, il gruppo deve infiltrarsi nella nave, raccogliere prove del coinvolgimento drow, e scoprire la natura dell'oggetto nascosto sotto la chiglia prima che sia troppo tardi.
+	________________
+
+
+Parte I — Il Briefing
+Il Contatto
+Mirt il Cambiavalute (o Remallia Haventree, a discrezione del DM) contatta il gruppo in via riservata, preferibilmente attraverso Aelar come membro Arpista. L'incontro avviene nel retrobottega di un cambiavalute o in un appartamento sicuro nel Sea Ward.
+ 
+🎭  TESTO DI LETTURA AD ALTA VOCE
+Una mappa di Waterdeep è distesa sul tavolo, con la zona del porto circondata da annotazioni in inchiostro rosso. L'anziano dall'aria stanca vi fissa uno a uno. «Abbiamo poco tempo e meno margine di errore. La Eyecatcher è nel porto da troppo. Zord sorride a tutti e non risponde alle domande che contano. Domani è il Giorno delle Meraviglie. Zord guiderà la sua parata. La nave sarà quasi vuota. Avete bisogno che vi dica io il resto?»
+	 
+I Due Obiettivi
+Gli Arpisti hanno due sospetti distinti che richiedono prove fisiche:
+ 
+①  I MARINAI SONO DROW
+L'equipaggio della Fiera della Fanciulla del Mare viaggia sempre sotto illusione. Gli Arpisti sospettano che siano elfi scuri sotto mentite spoglie, legati a Luskan e alle reti di contrabbando drow.
+Prova: il libro degli incantesimi del Capitano (Cabina J10).
+	②  LA NAVE SOMMERSA
+Il drago di bronzo Zelifarn ha riferito la presenza di una strana nave fissata sotto la chiglia dell'Eyecatcher. Gli Arpisti temono sia un'arma lantaniana o un sommergibile militare pronto a colpire la flotta di Waterdeep.
+Prova: documenti nel baule di Jarlaxle (Scarlet Marpenoth, U4).
+	 
+Ruoli Potenziali nel Gruppo
+Mirt conosce il gruppo e incoraggia i contributi appropriati.
+* Un personaggio con accesso a Camuffare Se Stesso o simili incantesimi può infiltrarsi come marinaio della flotta.
+* Un personaggio con capacità investigative arcane può analizzare l'aura magica della polena e riconoscere che alimenta un'illusione di massa.
+* Un personaggio con conoscenza della città e esperienza militare/civica può individuare i percorsi più sicuri e i ritmi delle pattuglie.
+	________________
+
+
+Parte II — Il Giorno delle Meraviglie
+La Finestra Temporale
+La missione va eseguita durante la Parata del Giorno delle Meraviglie. Jarlaxle (nei panni di Zardoz Zord) sarà fisicamente assente dalla nave per 4–6 ore. Questo è il momento.
+ 
+⏱  CRONOLOGIA DELLA MISSIONE
+Sera precedente:  Barney riconosce le pattuglie del porto (Furtività o Percezione CD 12).
+Alba — Inizio parata:  Jarlaxle lascia la nave. Rimangono a bordo 6 marinai drow, 2 luogotenenti.
+Mattina:  Il gruppo si avvicina. Approccio subacqueo consigliato.
+Fine parata:  Jarlaxle torna. Chiunque sia ancora a bordo deve essere uscito o nascosto.
+	 
+Approcci Possibili
+Approccio Subacqueo (Consigliato)
+Usare le Pozioni di Respirare Sott'Acqua fornite dagli Arpisti (3 disponibili) o l'Apparato di Kwalish di Grinda. Zelifarn può indicare dove si trova la botola segreta sotto la chiglia dell'Eyecatcher che conduce direttamente allo Scarlet Marpenoth.
+* Prova: Atletica CD 12 per nuotare contro la corrente del porto
+* Prova: Percezione CD 13 per individuare la botola subacquea
+* Vantaggio: Si evita completamente la guardia sul ponte principale
+Approccio dal Molo (Rischioso)
+Avvicinarsi dalla banchina travestiti o con copertura notturna. Barney conosce il cambio delle guardie.
+* Prova: Inganno CD 14 se si usa un travestimento (Aelar ha vantaggio con Camuffare Se Stesso)
+* Prova: Furtività CD 13 per evitare le sentinelle sul ponte
+* Rischio: Uno dei marinai potrebbe riconoscere una faccia nota
+Approccio Diplomatico (Audace)
+Presentarsi come acquirenti interessati a noleggiare la nave o a incontrare il capitano. Funziona per far salire il gruppo a bordo, ma la copertura è fragile.
+* Prova: Persuasione CD 15 con una storia plausibile
+* Prova: Intuizione CD 12 per capire quanto i luogotenenti siano sospettosi
+________________
+
+
+Parte III — A Bordo dell'Eyecatcher
+La Polena e il Segreto dell'Illusione
+Già avvicinandosi alla nave, chi ha senso magico può percepire qualcosa di strano. La polena — una donna con ali di rondine — emette una debole aura di trasmutazione.
+ 
+🎭  TESTO DI LETTURA AD ALTA VOCE — La Polena
+La nave è splendida anche nella penombra mattutina. I marinai si muovono sul ponte con eficienza silenziosa: uomini di mezza età, capelli scuri, orecchie coperte da berretti di lana. La polena vi fissa con occhi d'ambra che sembrano quasi vivi.
+	 
+Prove per smascherare l'illusione:
+* Seba — Arcana CD 12: Percepisce l'aura di trasmutazione sulla polena. Un esame prolungato (azione) rivela che proietta un'illusione di massa su tutto l'equipaggio.
+* Chiunque — Percezione CD 15: Notare che i marinai indossano tutti cappelli o sciarpe che coprono le orecchie, anche al caldo.
+* Contatto fisico con un marinaio: Automatico. Le orecchie sono appuntite sotto il berretto.
+ 
+Punti Chiave della Nave
+ 
+J10 — CABINA DEL CAPITANO (Eyecatcher)
+	Accesso
+	Ponte principale — porta chiusa a chiave (Attrezzi da ladro CD 14 o Forza CD 16)
+	Guardie
+	Nessuna guardia fissa, ma un luogotenente passa ogni 20 minuti
+	L'Obiettivo
+	Libro degli incantesimi nascosto sotto l'ultimo scaffale della libreria (Percezione CD 14)
+	Contenuto
+	Incantesimi scritti in drow. Prove che il capitano è un mago elfo scuro. Note cifrate su contatti a Luskan.
+	Trappola
+	Il libro è legato con un sigillo di allarme (CD 15 Percezione arcana, disattivazione CD 13)
+	Bonus
+	Mappa della rotta commerciale Luskan–Waterdeep nascosta nel doppio fondo della scrivania (Indagare CD 16)
+	 
+U4 — CABINA DI JARLAXLE (Scarlet Marpenoth)
+	Accesso
+	Botola subacquea → corridoio sommerso → scala interna. Nessuna guardia nel sottomarino durante la parata.
+	L'Obiettivo
+	Baule di mogano con serratura ornata (Attrezzi da ladro CD 16)
+	Il Pericolo
+	Se aperto da chiunque non sia Jarlaxle: rilascia uno sciame di ragni meccanici (usa le stat dello sciame di ragni, MM p.338, ma con immunitaà al veleno e resistenza ai danni contundenti)
+	Disattivazione
+	Indagare CD 14 per trovare il meccanismo segreto — una losanga di metallo sotto il manico che, premuta, disattiva la trappola per 1 minuto
+	Contenuto
+	Documenti della Sottomarino Oscura (firma di un ammiraglio di Luskan), schizzi tecnici della nave sommersa, corrispondenza cifrata con un agente di Xanathar
+	Bonus
+	Un sacchetto con 3 gemme da 100 mo ciascuna — il gruppo può prenderne una senza che Jarlaxle lo noti facilmente
+	 
+LA NAVE SOMMERSA (sotto la chiglia)
+	Descrizione
+	Un sommergibile a forma di squalo, lungo 18 metri, costruito con legno trattato magicamente e rinforzato con piastre di acciaio lantaniano
+	Accesso
+	Botola subacquea sotto l'Eyecatcher. Richiede Respirare Sott'Acqua o Apparato di Kwalish.
+	Personale
+	Vuoto durante la parata (equipaggio di 4 marinai è a bordo dell'Eyecatcher)
+	Prove
+	Arcana CD 13: I cristalli di energia nel motore corrispondono alla tecnologia lantaniana. Non è un'arma — è un sommergibile da esplorazione/contrabbando.
+	Rivelazione
+	Il sommergibile non è un'arma militare come temuto, ma uno strumento per i traffici di Jarlaxle. Questa sfumatura può complicare le decisioni degli Arpisti.
+	________________
+
+
+Parte IV — Complicazioni
+Gli Ostacoli a Bordo
+I Luogotenenti di Jarlaxle
+Due drow sotto illusione umana gestiscono la nave durante l'assenza di Jarlaxle. Sono professionali, sospettosi, e fedeli al capitano.
+ 
+LIEUTENANT VRAKNA (drow, guerriero 5)
+	Ruolo
+	Comandante in seconda, pattugliona il ponte ogni 20 min.
+	Stat
+	CA 15 (cotta di maglia), PF 45, Att: +5 (spada lunga 1d8+3)
+	Comportamento
+	Diffidente verso gli estranei. Non attacca senza motivo, ma interroga chiunque non riconosca.
+	Debolezza
+	Persuasione CD 16 con storia plausibile. Inganno CD 18 se già sospettoso.
+	Se cattura i PG
+	Non li uccide — aspetta il ritorno di Jarlaxle per decidere.
+	 
+LIEUTENANT SYLARA (drow, maga 4)
+	Ruolo
+	Responsabile della magia di bordo, gestisce il funzionamento della polena.
+	Stat
+	CA 12, PF 26, Incantesimi: Freccia Magica, Ragnatela, Sonno, Invisibilità
+	Comportamento
+	Sta nella cabina magica vicino alla polena. Esce solo se sente l'allarme.
+	Debolezza
+	Se i PG dimostrano conoscenza della magia drow (Arcana CD 14), può aprirsi a una conversazione.
+	Segreto
+	Non vuole essere a Waterdeep. Vorrebbe liberarsi dall'obbedienza a Jarlaxle.
+	 
+Complicazione: La Vigilanza Cittadina
+Durante la parata, pattuglie ridotte sorvegliano il porto. Barney conosce i percorsi, ma:
+* Tiro Furtività CD 12 (vantaggio con l'aiuto di Barney) per il gruppo intero che si avvicina al molo
+* Se scoperti sul molo senza motivo, la guardia chiede spiegazioni (Inganno o Persuasione CD 13)
+* Se si usa l'approccio subacqueo, questo problema viene aggirato completamente
+Complicazione: Il Tempo che Scorre
+Usate un contatore di tensione: ogni fallimento critico o azione rumorosa consuma 30 minuti. Se il conto supera 3 ore, Jarlaxle torna dalla parata prima del previsto.
+Questo non deve essere comunicato ai giocatori in modo esplicito — il DM può dare segnali ambientali (il suono della parata che si avvicina, un marinaio che commenta che 'il capitano dovrebbe tornare presto').
+________________
+
+
+Parte V — Valvola di Sicurezza
+Se il Gruppo Viene Catturato
+Invece di un Game Over, la cattura apre possibilità narrative interessanti. L'equipaggio ha ordini chiari: niente morti inutili.
+ 
+🎭  TESTO DI LETTURA AD ALTA VOCE — La Cattura
+Vi svegliate legati in una cabina che odora di rum e incenso speziato. Una voce con un accento che non riuscite a collocare proviene dall'ombra: «Impressione número uno: siete vivi. Impressione número due: avete rubato i miei documenti più interessanti. Impressione número tre: questo mi dice che avete buon gusto ma che non vaete giudizio. Parliamo.»
+	 
+Le Tre Opzioni di Jarlaxle
+ 
+OPZIONE
+	COSA SUCCEDE
+	PROVA
+	La Cena
+	Jarlaxle, incuriosito, invita il gruppo a cena. Vuole capire se può usarli contro Xanathar o per trovare la Pietra di Golorr. Li lascia andare con le prove — tenendo per sé un segreto come contropartita.
+	Intuizione CD 15 per capire che Jarlaxle è sincero nelle sue intenzioni, non mente.
+	Il Rifiuto
+	Se non collaborano, Jarlaxle li fa spogliare di tutti gli oggetti magici (conservati nel Marpenoth) e li abbandona in un fosso nel Quartiere del Porto all'alba.
+	Persuasione CD 18 per recuperare almeno un oggetto personale. Fallimento: persi tutti.
+	L'Alleanza
+	Se il gruppo rivela di essere Arpisti e che l'obiettivo comune è Xanathar, Jarlaxle considera una cooperazione limitata. Li lascia andare con parte delle prove.
+	Persuasione CD 16 + devono rivelare la loro affiliazione Arpista.
+	________________
+
+
+Parte VI — Esiti e Ricompense
+Riferire agli Arpisti
+Mirt o Remallia esaminano le prove con attenzione. Le loro reazioni variano a seconda di cosa il gruppo ha recuperato:
+ 
+🎭  PAROLE DI MIRT (esito ottimale)
+«Qui c'è abbastanza per far sudare qualche ammiraglio. E la notizia che non è un'arma ma un sommergibile da contrabbando... questo cambia le cose. Forse Jarlaxle non è il nostro problema più urgente. Forse è una risorsa.» — Pausa. — «Non l'ho detto io.»
+	 
+Tabella degli Esiti
+ 
+RISULTATO
+	RICOMPENSA E IMPATTO
+	Entrambe le prove recuperate
+	+3 Punti Fama Arpisti • 200 mo a testa • Gli Arpisti svelano l'identità drow di Jarlaxle ai Lords di Waterdeep
+	Solo libro incantesimi
+	+2 Punti Fama Arpisti • 100 mo a testa • Confermata natura drow equipaggio, sommergibile ancora un mistero
+	Solo documenti Marpenoth
+	+2 Punti Fama Arpisti • 100 mo a testa • Il sommergibile è confermato non militare; identità equipaggio ancora incerta
+	Catturati / Nessuna prova
+	Nessuna ricompensa monetaria • Mirt deluso ma non punità • Possibile contatto futuro con Jarlaxle come complicazione narrativa
+	 
+Note per il Dungeon Master
+Jarlaxle non è il nemico di questa avventura. È uno strumento narrativo. Il DM dovrebbe resistere alla tentazione di renderlo uno scontro finale: la sua minaccia è molto più efficace se rimane una presenza sfuggente e carismatica.
+La scoperta che il sommergibile non è un'arma militare è un'opportunità per sfumare la moralità degli Arpisti: a volte l'intelligence porta a risposte più complicate delle domande.
+Sylara, il luogotenente maga, può diventare un contatto futuro se il gruppo la tratta con rispetto. Vuole fuggire dall'influenza di Jarlaxle — gli Arpisti potrebbero aiutarla.
+ 
+⚓  Fine dell'Operazione Velo Alzato  ⚓

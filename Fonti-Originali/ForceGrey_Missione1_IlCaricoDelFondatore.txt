@@ -1,0 +1,216 @@
+﻿FORCE GREY
+Le Mani Grigie di Waterdeep
+
+
+MISSIONE 1 — LIVELLO 2
+Il Carico del Fondatore
+Un presagio di sangue. Un veleno nell'ombra. Il Giorno dei Fondatori si avvicina e qualcuno vuole trasformarlo in una strage.
+	
+
+Ambientazione: Waterdeep — Quartiere del Porto
+Livello Consigliato: 2  |  Durata Stimata: 3–4 ore  |  Giocatori: 4–6
+________________
+
+
+Panoramica dell'Avventura
+
+
+Il presagio consegnato da Razak Kendal — il giovane monaco della Rosa Gialla, latore del messaggio del Santo Hlam — ha allertato Vajra Safahr: 'sangue innocente sarà versato nel Giorno dei Fondatori'. Non una metafora, ma una scadenza precisa. Le Mani Grigie devono agire prima che sia troppo tardi.
+
+
+Investimento Narrativo
+Questa missione guadagna peso se il gruppo ha uno o più personaggi con legami emotivi al presagio iniziale — monaci di Monte Waterdeep, seguaci di Hlam, o chi ha ricevuto il messaggio profetico. Il legame con il monte e con la profezia rende questa missione personale, non solo tattica. Se nessuno ha questo legame, Vajra fornisce la motivazione necessaria.
+
+
+Obiettivi Principali
+* Localizzare l'informatore di Vajra Safahr tra i magazzini del porto.
+* Sopravvivere all'imboscata dei cultisti di Asmodeus e proteggere (o vendicare) l'informatore.
+* Recuperare la lista di carico contenente i nomi dei destinatari dei reagenti alchemici.
+* Consegnare la lista a Vajra Safahr alla Torre del Bastone Nero.
+
+
+Temi Narrativi
+* La legge non basta: la burocrazia di Waterdeep è troppo lenta di fronte a una minaccia imminente.
+* Fiducia e sacrificio: l'informatore ha rischiato la vita. Il gruppo arriva troppo tardi per salvarlo?
+* Il volto del male: i cultisti non sono mostri — sono persone comuni con una fede aberrante.
+________________
+
+
+Scena 1 — La Torre del Bastone Nero
+
+
+Ambientazione
+La Torre del Bastone Nero si erge nel Quartiere del Castello come un dito accusatorio piantato nel cuore della città. L'interno è austero: scaffali carichi di tomi, cristalli di comunicazione che pulsano luce blu, e l'odore di incenso secco. Vajra Safahr riceve il gruppo in piedi, senza invitarli a sedersi. Non è scortesia — è urgenza.
+
+
+Dialogo di Apertura — Vajra Safahr
+"Avete fatto bene a venire subito. Il presagio di Hlam è cristallino: 'sangue innocente sarà versato nel Giorno dei Fondatori'. Questa non è una minaccia generica — è una scadenza. I miei informatori segnalano l'arrivo al porto di quantità anomale di reagenti alchemici rari, soggetti a controllo rigoroso. Solo le famiglie più abbienti possono importarli con tale discrezione. La coincidenza temporale con la festa imminente non mi piace.""Un mio contatto ha sottratto una lista di carico che identifica i destinatari di queste sostanze. Incontratelo ai Moli del Salgemma, terzo magazzino a sinistra del pontile delle maree. Portatemi quel documento. Ho bisogno di nomi certi per poter colpire prima che sia troppo tardi.""E siate discreti. Se chi ha ordinato questo carico capisce che siamo sulle sue tracce, l'informatore è già un cadavere — e la lista scompare con lui."
+	
+
+Informazioni Disponibili
+Se il gruppo fa domande, Vajra risponde con parsimonia:
+* "Chi è l'informatore?" — "Si chiama Orvyn. Ex contrabbandiere, ora collabora con noi. Sa come muoversi tra i magazzini senza farsi notare."
+* "Che tipo di veleno?" — "Se i reagenti sono quelli che temo, si tratta di Midnight Tears. Inodore, insapore, letale dodici ore dopo l'ingestione. Perfetto per avvelenare un banchetto."
+* "Chi c'è dietro?" — "Non lo so ancora. Per questo ho bisogno della lista."
+* "Avremo rinforzi?" — Vajra li guarda in silenzio per un momento. "Siete voi i rinforzi."
+
+
+Nota per il DM
+Se un giocatore ha un personaggio con connessione al presagio, considera di offrirgli un momento privato con Vajra in cui lei riconosce il suo ruolo: "Il monaco sul monte ha scelto bene colui che ha portato la pergamena. Non tutti l'avrebbero fatto invece di ignorarla." Questo rafforza il suo senso di responsabilità nella missione.
+	________________
+
+
+Scena 2 — Indagini al Porto
+
+
+Ambientazione
+I Moli del Salgemma puzzano di pesce marcio e catrame. È tarda sera: le torce a gas illuminano a chiazze i pavimenti bagnati, e gli scaricatori dell'ultimo turno si affrettano verso le taverne. Il terzo magazzino a sinistra del pontile è buio — le finestre sono coperte di tela incerata.
+
+
+La Prova di Ricognizione
+Prima di entrare, il gruppo può tentare di valutare la situazione:
+
+
+Prova di Intelligenza (Indagare) CD 13
+Successo: Il gruppo nota dettagli anomali — impronte fresche nel fango che portano al magazzino, la tela incerata mossa di fresco, una torcia spenta che bruciava fino a poco fa. Si capisce che qualcosa è già successo. Il gruppo si avvicina con vantaggio alla sorpresa.
+Fallimento: Il gruppo entra senza precauzioni, perdendo qualche minuto cruciale tra i vicoli sbagliati. I cultisti hanno più tempo per prepararsi e ottengono vantaggio al tiro iniziativa nel combattimento seguente.
+
+
+Alternative (qualsiasi prova CD 11 successo)
+* Saggezza (Percezione): odore di sangue fresco nell'aria.
+* Destrezza (Furtività): avvicinarsi senza essere sentiti — udire voci concitate all'interno.
+* Carisma (Persuasione/Intimidazione): un carrettiere vicino ammette di aver visto quattro uomini entrare nel magazzino dieci minuti fa, «avevano l'aria di essere lì per spaccare qualcosa».
+
+
+Cosa Trovano
+Entrando nel magazzino, il gruppo vede Orvyn — un uomo sulla cinquantina, corporatura robusta, sopravvissuto a mille portuali — messo con le spalle contro le casse da quattro figure in abiti da scaricatore. Uno di loro tiene una lama alla gola dell'informatore. La lista di carico è a terra tra i piedi di Orvyn, strappata per metà nel tentativo di distruggerla.
+
+
+Uno dei cultisti gira la testa verso il gruppo, calmo come chi conosce già il finale della storia:"Che sfortuna, amici. Siete arrivati giusto in tempo per condividere il destino di questo vecchio indiscreto. Il Signore delle Bugie vi accoglierà con misericordia."
+	________________
+
+
+Scena 3 — L'Imboscata dei Cultisti
+
+
+Configurazione del Combattimento
+Il magazzino è buio: visibilità ridotta a 9 metri senza fonti di luce. Ci sono casse e botti impilate che creano copertura (mezza copertura: +2 CA e TS Destrezza). Il pavimento è scivoloso vicino all'entrata (terreno difficile, quadrante di 3x3 metri).
+
+
+Obiettivi Tattici
+* I cultisti cercano prima di tutto di recuperare/distruggere la lista di carico.
+* Il cultista con il coltello alla gola di Orvyn usa l'informatore come scudo umano (vedi regola sotto).
+* Se due cultisti vengono uccisi, gli altri due tentano di fuggire verso un'uscita secondaria sul retro.
+
+
+Regola Speciale: Ostaggio
+Il cultista che tiene Orvyn può, come azione bonus, infliggere 4 (1d6+1) danni perforanti all'ostaggio. Se Orvyn raggiunge 0 PF, viene stabilizzato automaticamente alla fine del round (non muore subito — ma il gruppo deve curarLo entro 3 round o muore per perdita di sangue). La lista di carico viene strappata definitivamente se un cultista usa un'azione intera su di essa; il gruppo ha 1 round per impedirlo dopo che il cultista inizia.
+	
+
+Statistiche: Cultista di Asmodeus
+
+
+Cultista di Asmodeus
+	FOR
+	DES
+	COS
+	INT
+	SAG
+	CAR
+	11 (+0)
+	12 (+1)
+	10 (+0)
+	10 (+0)
+	11 (+0)
+	10 (+0)
+	CA
+	12 (armatura di cuoio)
+	Punti Ferita
+	9 (2d8)
+	Velocità
+	9 m
+	FP (CR)
+	1/8 (25 XP ciascuno)
+	Abilità
+	Furtività +3, Inganno +2
+	Sensi
+	Percezione passiva 10
+	Lingue
+	Comune
+	TRATTI
+Devoto Oscuro: vantaggio ai tiri salvezza contro charme e paura.
+Fiamma di Asmodeus (ricarica 5–6): come azione bonus, le mani del cultista si accendono di fiamma infernale fino alla fine del turno. Il prossimo attacco con arma infligge +3 (1d6) danni da fuoco aggiuntivi.
+	AZIONI
+Attacco Multiplo: il cultista effettua due attacchi con il coltello (solo se non tiene un ostaggio).
+Coltello: attacco con arma in mischia, +3 per colpire, gittata 1,5 m / 6 m, un bersaglio. Colpisce: 3 (1d4+1) danni perforanti.
+Ordine Infernale (1/giorno): un altro cultista entro 9 m può usare la sua reazione per spostarsi fino alla metà della sua velocità e attaccare.
+	
+
+Variante: Orvyn Sopravvive
+Se Orvyn viene salvato con almeno 1 PF rimasto, è grato e fornisce informazioni aggiuntive di sua spontanea volontà: "Quella lista è solo metà del quadro. Ho sentito i nomi Cassalanter e Gralhund — nobili, tutti e due. Ma c'era anche qualcosa di strano: uno di quei tizi sul molo parlava di un 'rituale di purificazione' prima della festa. Non era solo veleno. C'era qualcosa di più grande."
+
+
+Variante: Orvyn è già Morto
+Se il gruppo arriva tardi (fallimento alla prova di Indagare + tiro iniziativa sfortunato), Orvyn giace già morto. I cultisti stanno distruggendo la lista. Il gruppo ha 2 round per interrompere la distruzione e recuperare almeno il frammento leggibile. Se recuperano solo metà lista, Vajra può ancora trarre informazioni parziali: due nomi su cinque sono leggibili.
+________________
+
+
+PNG — Profili Narrativi
+
+
+Vajra Safahr — Il Bastone Nero
+Aspetto: Donna sui quarant'anni, capelli neri raccolti, abiti scuri funzionali. Porta il Bastone Nero — artefatto della sua carica — come se fosse un prolungamento del suo corpo.
+Personalità: Diretta, esigente, raramente elogia. Non è crudele — è semplicemente consapevole che ogni secondo perso ha un costo in vite umane. Si fida delle Mani Grigie perché le ha scelte lei stessa.
+Motivazione: Proteggere Waterdeep a qualunque costo, anche a quello personale. Non teme di sporcarsi le mani se necessario.
+Frase ricorrente: "Non ho bisogno della vostra ammirazione. Ho bisogno dei risultati."
+
+
+Orvyn Taldas — L'Informatore
+Aspetto: Ex contrabbandiere sulla cinquantina, viso scavato, mani grandi come pale da minatore. Indossa sempre un berretto di lana anche d'estate — nasconde una cicatrice.
+Personalità: Pragmatico, leale a chi lo paga bene e lo tratta con rispetto. Non è un eroe — collabora con Vajra perché il porto che ama sta marcendo.
+Se sopravvive: Diventa un contatto ricorrente del gruppo al porto. Conosce tutti i traffici illegali che attraversano i Moli del Salgemma.
+
+
+Il Cultista Parlante — Varen
+Aspetto: Trent'anni, capelli castani, sguardo tranquillo che non corrisponde alla violenza delle sue azioni. Potrebbe essere un macellaio o un chierico di Lathander — non ha l'aspetto di un fanatico.
+Personalità: Calmo, quasi filosofico. Crede sinceramente che la morte degli innocenti alla festa sia necessaria per "purificare" Waterdeep dai deboli.
+Se catturato: Non cede subito alle intimidazioni — ha fede. Ma se qualcuno gli promette di capire la sua visione, può rivelare che il piano è più grande di un semplice avvelenamento: "Il Signore delle Bugie non vuole solo morti. Vuole convertiti."
+________________
+
+
+Conclusione e Ricompense
+
+
+Ritorno da Vajra Safahr
+Quando il gruppo consegna la lista (intera o parziale), Vajra la studia in silenzio per quasi un minuto. Poi:
+"Cassalanter. Gralhund. Stavo già tenendo d'occhio entrambe le famiglie, ma non mi aspettavo che agissero così in anticipo sulla festa."Una pausa."Avete fatto il vostro lavoro. Ora io farò il mio. Ma non è finita qui — chi ha ordinato questi reagenti non rinuncerà al piano solo perché abbiamo la lista. Ritornerete quando avrò bisogno di voi. E avrò bisogno di voi."
+	
+
+Ricompense
+
+
+Ricompensa
+	Dettaglio
+	Esperienza
+	700 XP per ogni membro del gruppo
+	Rinomanza Force Grey
+	+1 punto Rinomanza per ogni membro delle Mani Grigie
+	Patrocinio del Bastone Nero
+	Vajra si impegna a fornire supporto legale o il prestito di oggetti magici per le missioni future
+	Contatto: Orvyn Taldas (se vivo)
+	Accesso privilegiato alle informazioni sui traffici al porto; può essere consultato come contatto una volta per sessione
+	Indizio narrativo
+	I nomi Cassalanter e Gralhund compaiono nella lista — semi per missioni future
+	
+
+Filo Narrativo per le Missioni Successive
+Questa missione pianta tre semi narrativi destinati a germogliare nelle missioni 2–4:
+* I nomi Cassalanter e Gralhund come possibili mandanti del veleno.
+* La menzione di un "rituale di purificazione" da parte di Varen — non è solo un piano di avvelenamento.
+* La presenza di cultisti di Asmodeus tra i lavoratori del porto — l'infiltrazione è già in atto.
+
+
+
+
+Force Grey — Missione 1: Il Carico del Fondatore
+Campagna: Dragon Heist | Waterdeep

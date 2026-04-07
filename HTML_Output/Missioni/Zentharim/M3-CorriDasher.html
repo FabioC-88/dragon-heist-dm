@@ -1,0 +1,768 @@
+<!DOCTYPE html>
+<html lang="it" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="theme-color" content="#8b5cf6" />
+  <title>M3-CorriDasher — Dragon Heist Wiki</title>
+  <link rel="stylesheet" href="../style.css" />
+  <style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    :root {
+        --primary: #8b5cf6;
+        --primary-dark: #7c3aed;
+        --primary-light: #a78bfa;
+        --secondary: #06b6d4;
+        --accent: #f59e0b;
+        --dark-bg: #0f172a;
+        --light-bg: #f8fafc;
+        --card-bg: #ffffff;
+        --text-dark: #1e293b;
+        --text-light: #475569;
+        --border: #e2e8f0;
+    }
+    
+    html {
+        scroll-behavior: smooth;
+    }
+    
+    body {
+        font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Trebuchet MS', sans-serif;
+        line-height: 1.7;
+        background: linear-gradient(135deg, var(--light-bg) 0%, #f1f5f9 100%);
+        color: var(--text-dark);
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    /* Header */
+    header {
+        background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+        color: white;
+        padding: 1.5em 2em;
+        box-shadow: 0 4px 12px rgba(139, 92, 246, 0.2);
+        position: sticky;
+        top: 0;
+        z-index: 100;
+    }
+    
+    header .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    header h1 {
+        font-size: 1.5em;
+        margin: 0;
+        font-weight: 600;
+        letter-spacing: -0.5px;
+    }
+    
+    header a {
+        color: white;
+        text-decoration: none;
+        transition: opacity 0.3s;
+    }
+    
+    header a:hover {
+        opacity: 0.8;
+    }
+    
+    .breadcrumbs {
+        font-size: 0.9em;
+        opacity: 0.9;
+    }
+    
+    .breadcrumbs a {
+        color: rgba(255, 255, 255, 0.8);
+        text-decoration: none;
+    }
+    
+    .breadcrumbs a:hover {
+        color: white;
+    }
+    
+    /* Main Container */
+    .page-wrapper {
+        flex: 1;
+        display: flex;
+        max-width: 100%;
+    }
+    
+    .sidebar {
+        width: 280px;
+        background: var(--card-bg);
+        border-right: 1px solid var(--border);
+        padding: 2em 1.5em;
+        overflow-y: auto;
+        max-height: calc(100vh - 80px);
+        position: sticky;
+        top: 80px;
+    }
+    
+    .sidebar h3 {
+        font-size: 1.1em;
+        color: var(--primary-dark);
+        margin-bottom: 1em;
+        padding-bottom: 0.5em;
+        border-bottom: 2px solid var(--primary);
+    }
+    
+    .sidebar nav ul {
+        list-style: none;
+        margin: 0;
+    }
+    
+    .sidebar nav ul li {
+        margin: 0.5em 0;
+    }
+    
+    .sidebar nav a {
+        color: var(--text-light);
+        text-decoration: none;
+        display: block;
+        padding: 0.5em 0.75em;
+        border-radius: 4px;
+        transition: all 0.2s;
+        font-size: 0.95em;
+    }
+    
+    .sidebar nav a:hover {
+        background-color: rgba(139, 92, 246, 0.1);
+        color: var(--primary);
+        padding-left: 1.2em;
+    }
+    
+    /* Content */
+    main {
+        flex: 1;
+        padding: 2.5em;
+        max-width: 900px;
+    }
+    
+    article {
+        background: var(--card-bg);
+        border-radius: 12px;
+        padding: 2.5em;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+        margin-bottom: 2em;
+    }
+    
+    h1 {
+        color: var(--primary-dark);
+        font-size: 2.2em;
+        margin: 0.8em 0 0.4em;
+        font-weight: 700;
+        letter-spacing: -0.5px;
+        border-bottom: 3px solid var(--primary);
+        padding-bottom: 1em;
+    }
+    
+    h2 {
+        color: var(--primary);
+        font-size: 1.6em;
+        margin: 1.3em 0 0.5em;
+        font-weight: 600;
+        letter-spacing: -0.3px;
+    }
+    
+    h3 {
+        color: var(--primary-dark);
+        font-size: 1.2em;
+        margin: 1em 0 0.4em;
+        font-weight: 600;
+    }
+    
+    h4, h5, h6 {
+        color: var(--text-dark);
+        margin: 0.8em 0 0.3em;
+        font-weight: 600;
+    }
+    
+    p {
+        margin-bottom: 1em;
+        color: var(--text-light);
+    }
+    
+    a {
+        color: var(--primary);
+        text-decoration: none;
+        font-weight: 500;
+        transition: all 0.2s;
+    }
+    
+    a:hover {
+        color: var(--primary-dark);
+        text-decoration: underline;
+        text-decoration-thickness: 2px;
+    }
+    
+    code {
+        background-color: rgba(139, 92, 246, 0.1);
+        color: var(--primary-dark);
+        padding: 4px 8px;
+        border-radius: 4px;
+        font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+        font-size: 0.9em;
+        border: 1px solid rgba(139, 92, 246, 0.2);
+    }
+    
+    pre {
+        background-color: var(--dark-bg);
+        color: #e0e7ff;
+        padding: 1.5em;
+        border-radius: 8px;
+        overflow-x: auto;
+        line-height: 1.5;
+        margin: 1.5em 0;
+        border-left: 4px solid var(--primary);
+        box-shadow: 0 4px 12px rgba(139, 92, 246, 0.1);
+    }
+    
+    pre code {
+        background: transparent;
+        color: #e0e7ff;
+        padding: 0;
+        border: none;
+    }
+    
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 1.5em 0;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+    }
+    
+    table thead {
+        background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+    }
+    
+    table th {
+        color: white;
+        padding: 1em;
+        text-align: left;
+        font-weight: 600;
+        font-size: 0.95em;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+    }
+    
+    table td {
+        padding: 1em;
+        border-bottom: 1px solid var(--border);
+        color: var(--text-light);
+    }
+    
+    table tbody tr {
+        transition: all 0.2s;
+    }
+    
+    table tbody tr:hover {
+        background-color: rgba(139, 92, 246, 0.05);
+    }
+    
+    table tbody tr:last-child td {
+        border-bottom: none;
+    }
+    
+    ul, ol {
+        margin: 1em 0 1em 2em;
+        color: var(--text-light);
+    }
+    
+    li {
+        margin: 0.5em 0;
+    }
+    
+    blockquote {
+        border-left: 5px solid var(--primary);
+        margin: 1.5em 0;
+        padding: 1.2em 1.5em;
+        background-color: rgba(139, 92, 246, 0.05);
+        border-radius: 4px;
+        color: var(--text-light);
+        font-style: italic;
+        font-size: 1.05em;
+    }
+    
+    hr {
+        border: none;
+        height: 2px;
+        background: linear-gradient(90deg, transparent, var(--primary), transparent);
+        margin: 2.5em 0;
+    }
+    
+    /* TOC */
+    nav#TOC {
+        background: rgba(139, 92, 246, 0.05);
+        border: 1px solid var(--border);
+        border-radius: 8px;
+        padding: 1.5em;
+        margin: 2em 0;
+        border-left: 4px solid var(--primary);
+    }
+    
+    nav#TOC h2 {
+        margin-top: 0;
+        font-size: 1.2em;
+    }
+    
+    nav#TOC ul {
+        list-style: none;
+        margin: 0;
+    }
+    
+    nav#TOC li {
+        margin: 0.5em 0 0.5em 1.5em;
+        position: relative;
+    }
+    
+    nav#TOC li:before {
+        content: "▸";
+        position: absolute;
+        left: -1.2em;
+        color: var(--primary);
+        font-weight: bold;
+    }
+    
+    nav#TOC a {
+        color: var(--primary);
+    }
+    
+    nav#TOC a:hover {
+        color: var(--primary-dark);
+    }
+    
+    /* Footer */
+    footer {
+        background: var(--dark-bg);
+        color: #cbd5e1;
+        padding: 2em;
+        text-align: center;
+        font-size: 0.9em;
+        border-top: 1px solid var(--border);
+        margin-top: auto;
+    }
+    
+    footer a {
+        color: var(--primary-light);
+    }
+    
+    /* Responsive */
+    @media (max-width: 1024px) {
+        .sidebar {
+            width: 240px;
+            padding: 1.5em 1em;
+        }
+        
+        main {
+            padding: 2em;
+        }
+        
+        article {
+            padding: 2em;
+        }
+    }
+    
+    @media (max-width: 768px) {
+        .page-wrapper {
+            flex-direction: column;
+        }
+        
+        .sidebar {
+            width: 100%;
+            max-height: none;
+            position: static;
+            border-right: none;
+            border-bottom: 1px solid var(--border);
+            padding: 1.5em;
+        }
+        
+        main {
+            padding: 1.5em;
+            max-width: 100%;
+        }
+        
+        article {
+            padding: 1.5em;
+        }
+        
+        h1 {
+            font-size: 1.8em;
+        }
+        
+        h2 {
+            font-size: 1.3em;
+        }
+        
+        h3 {
+            font-size: 1.05em;
+        }
+        
+        header .container {
+            flex-direction: column;
+            gap: 0.5em;
+        }
+        
+        header h1 {
+            font-size: 1.2em;
+        }
+    }
+  </style>
+</head>
+<body>
+<header>
+  <div class="container">
+    <h1><a href="../INDEX.html" class="logo-link">🗺️ Dragon Heist Wiki</a></h1>
+    <div class="breadcrumbs">M3-CorriDasher</div>
+  </div>
+</header>
+
+<div class="page-wrapper">
+  <aside class="sidebar">
+    <a href="../INDEX.html" class="index-link" style="display: block; margin-bottom: 1.5em; padding: 0.8em 1em; background-color: var(--primary); color: white; text-decoration: none; border-radius: 6px; text-align: center; font-weight: 600; transition: all 0.2s;">📖 Torna all'Indice</a>
+    
+        <h3>📑 Indice Pagina</h3>
+    <nav>
+    <ul>
+    <li><a href="#missione-3-corri-dasher"
+    id="toc-missione-3-corri-dasher">Missione 3 — Corri, Dasher!</a>
+    <ul>
+    <li><a href="#sinossi" id="toc-sinossi">📖 Sinossi</a></li>
+    <li><a href="#obiettivi" id="toc-obiettivi">🎯 Obiettivi</a></li>
+    <li><a href="#ambientazione" id="toc-ambientazione">🗺️
+    Ambientazione</a></li>
+    <li><a href="#png-chiave" id="toc-png-chiave">👥 PNG Chiave</a></li>
+    <li><a href="#meccaniche-chiave" id="toc-meccaniche-chiave">💡
+    Meccaniche Chiave</a>
+    <ul>
+    <li><a href="#blossom-snobeedle-il-primo-contatto"
+    id="toc-blossom-snobeedle-il-primo-contatto">Blossom Snobeedle — Il
+    Primo Contatto</a></li>
+    <li><a href="#il-buco-nel-muro" id="toc-il-buco-nel-muro">Il Buco
+    nel Muro</a></li>
+    <li><a href="#dasher-il-colpo-di-scena"
+    id="toc-dasher-il-colpo-di-scena">Dasher — Il Colpo di
+    Scena</a></li>
+    <li><a href="#il-dilemma-morale" id="toc-il-dilemma-morale">Il
+    Dilemma Morale</a></li>
+    </ul></li>
+    <li><a href="#tiri-e-prove" id="toc-tiri-e-prove">⚙️ Tiri e
+    Prove</a></li>
+    <li><a href="#trama-narrativa" id="toc-trama-narrativa">🎭 Trama
+    Narrativa</a></li>
+    <li><a href="#ricompense" id="toc-ricompense">🏆 Ricompense</a></li>
+    <li><a href="#connessioni" id="toc-connessioni">🔗
+    Connessioni</a></li>
+    <li><a href="#note-per-il-dm" id="toc-note-per-il-dm">📝 Note per il
+    DM</a></li>
+    <li><a href="#varianti-e-personalizzazioni"
+    id="toc-varianti-e-personalizzazioni">📚 Varianti e
+    Personalizzazioni</a>
+    <ul>
+    <li><a href="#se-il-party-cattura-dasher-per-forza"
+    id="toc-se-il-party-cattura-dasher-per-forza">Se il party cattura
+    Dasher per forza</a></li>
+    <li><a href="#se-il-party-scopre-il-morso-è-di-un-pc-precedente"
+    id="toc-se-il-party-scopre-il-morso-è-di-un-pc-precedente">Se il
+    party scopre il “morso” è di un PC precedente</a></li>
+    <li><a
+    href="#se-il-party-vuole-protegger-dasher-e-investigare-il-morso"
+    id="toc-se-il-party-vuole-protegger-dasher-e-investigare-il-morso">Se
+    il party vuole protegger Dasher e investigare il “morso”</a></li>
+    </ul></li>
+    </ul></li>
+    </ul>
+    </nav>
+      </aside>
+  
+  <main>
+    <article>
+      <h1 id="missione-3-corri-dasher">Missione 3 — Corri, Dasher!</h1>
+      <p><strong>Fazione:</strong> <a
+      href="../../Campagna/fazioni.md#zhentarim">Zhentarim</a> |
+      <strong>Livello:</strong> 4 | <strong>Durata:</strong> 2–3
+      ore<br />
+      <strong>Referente:</strong> <a
+      href="../../Campagna/png-incontrati.md#davil-starsong">Davil
+      Starsong</a><br />
+      <strong>Fonte Completa:</strong>
+      <code>Zentharim_Missione3_corri_dasher.txt</code></p>
+      <hr />
+      <h2 id="sinossi">📖 Sinossi</h2>
+      <p><strong>Dasher Snobeedle</strong>, un mezzuomo nobile della
+      famiglia più ricca di Waterdeep, è scomparso. Sua madre offre
+      <strong>500 dragoni</strong> per informazioni che portino al suo
+      ritorno. Gli Zhentarim vogliono la loro parte. Tutto abbastanza
+      semplice, finché il party non scopre che <strong>Dasher NON vuole
+      essere trovato</strong> — ha una nuova famiglia, un amante, e un
+      <strong>morso che lo ha cambiato per sempre</strong>. La vera
+      domanda non è “dove si trova” — è “cosa farne?”</p>
+      <hr />
+      <h2 id="obiettivi">🎯 Obiettivi</h2>
+      <ol type="1">
+      <li><strong>Ricevere l’incarico</strong> da Davil o messaggero
+      Zhentarim</li>
+      <li><strong>Contattare la famiglia Snobeedle</strong> — Blossom
+      (madre)</li>
+      <li><strong>Raccogliere indizi</strong> sulla scomparsa di
+      Dasher</li>
+      <li><strong>Localizzare Dasher</strong> al “Buco nel Muro”
+      (ostello mezzuomini)</li>
+      <li><strong>Incontrare Dasher</strong> e ascoltare la sua
+      storia</li>
+      <li><strong>Decidere:</strong> Portarlo a casa? Proteggerlo?
+      Informare la madre?</li>
+      <li><strong>Riferire a Davil</strong> con (o senza) Dasher</li>
+      </ol>
+      <hr />
+      <h2 id="ambientazione">🗺️ Ambientazione</h2>
+      <ul>
+      <li><strong>Villa Snobeedle</strong> — frutteto fuori città, sede
+      della famiglia nobile</li>
+      <li><strong>Quartiere Sud (Southern Ward)</strong> — area urbana,
+      territorio di Dasher</li>
+      <li><strong>Buco nel Muro</strong> — ostello esclusivo per
+      mezzuomini, Quartiere Sud</li>
+      <li><strong>Porti e Strade</strong> — ricerca e inseguimento</li>
+      </ul>
+      <hr />
+      <h2 id="png-chiave">👥 PNG Chiave</h2>
+      <table>
+      <colgroup>
+      <col style="width: 27%" />
+      <col style="width: 38%" />
+      <col style="width: 33%" />
+      </colgroup>
+      <thead>
+      <tr>
+      <th>PNG</th>
+      <th>Ruolo</th>
+      <th>Note</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td><strong>Blossom Snobeedle</strong></td>
+      <td>Madre di Dasher</td>
+      <td>Sessantina, dignità, ricca, piange</td>
+      </tr>
+      <tr>
+      <td><strong>Dasher Snobeedle</strong></td>
+      <td>Mezzuomo nobile scomparso</td>
+      <td>20ish, ribelle, trasformato</td>
+      </tr>
+      <tr>
+      <td><strong>Amore di Dasher</strong></td>
+      <td>Compagno/a segreto</td>
+      <td>Mezzuomo/a di ceto basso</td>
+      </tr>
+      <tr>
+      <td><strong>Vaniel Shortwick</strong></td>
+      <td>Gestore Buco nel Muro</td>
+      <td>Discreto, protettivo</td>
+      </tr>
+      </tbody>
+      </table>
+      <hr />
+      <h2 id="meccaniche-chiave">💡 Meccaniche Chiave</h2>
+      <h3 id="blossom-snobeedle-il-primo-contatto">Blossom Snobeedle —
+      Il Primo Contatto</h3>
+      <ul>
+      <li><strong>Descrizione:</strong> Sessantina, capelli bianchi
+      ordinati, occhi gonfi dal pianto</li>
+      <li><strong>Tono:</strong> Preoccupata ma dignitosa. Non chiede
+      pietà — paga.</li>
+      <li><strong>Informazioni:</strong> Sa che Dasher ama “mischiarsi
+      con la gente comune”</li>
+      <li><strong>Indizio Chiave:</strong> “Buco nel Muro” — ostello
+      mezzuomini dove Dasher passa tempo</li>
+      <li><strong>Ricompensa Offerta:</strong> 500 mo pagamento
+      immediato al ritorno di Dasher</li>
+      </ul>
+      <h3 id="il-buco-nel-muro">Il Buco nel Muro</h3>
+      <ul>
+      <li><strong>Ambientazione:</strong> Ostello esclusivo per soli
+      mezzuomini, Quartiere Sud</li>
+      <li><strong>Vibe:</strong> Luogo dove i mezzuomini si sentono al
+      sicuro perché gli umani non ci entrano</li>
+      <li><strong>Gatekeeper:</strong> Quattro mezzuomini all’ingresso,
+      sospettosi di intrusi</li>
+      <li><strong>Permesso di Entrata:</strong>
+      <ul>
+      <li>Non-mezzuomini devono convincere (Persuasione CD 14, Inganno
+      CD 15) oppure conoscere Dasher di fama</li>
+      <li>Mezzuomini entrano automaticamente</li>
+      </ul></li>
+      </ul>
+      <h3 id="dasher-il-colpo-di-scena">Dasher — Il Colpo di Scena</h3>
+      <ul>
+      <li><strong>Descrizione:</strong> Venti anni, capelli scuri,
+      vestiario da artigiano (non da nobile)</li>
+      <li><strong>Situazione:</strong> Ha una relazione con un mezzuomo
+      di basso ceto; si sente “finalmente a casa”</li>
+      <li><strong>Il Morso:</strong> Ha un <strong>segno di morso su un
+      lato del collo</strong> — hint di transformazione vampirica o
+      licantropia</li>
+      <li><strong>Reazione agli intrusi:</strong> “Dite a mia madre che
+      sto bene. Dite a chiunque che sono morto. Ma NON venite a cercarmi
+      di nuovo.”</li>
+      <li><strong>Secret:</strong> Trasformazione in corso (possibile
+      vampiro giovane, lycanthrope, o altro)</li>
+      </ul>
+      <h3 id="il-dilemma-morale">Il Dilemma Morale</h3>
+      <p>Se il party porta Dasher a casa: - <strong>Conseguenza
+      Immediata:</strong> Reintegrazione forzata; Dasher soffrirà -
+      <strong>Conseguenza Lunga:</strong> Il “morso” potrebbe
+      manifestarsi in pubblico — scandalo nobiliare</p>
+      <p>Se il party lo lascia: - <strong>Conseguenza:</strong> Blossom
+      rimane disperata; ricompensa mai ricevuta -
+      <strong>Conseguenza:</strong> Il trasformazione di Dasher
+      progredisce senza controllo</p>
+      <p>Se il party lo protegge e indaga sul “morso”: -
+      <strong>Conseguenza:</strong> Possibile alleato supernatural;
+      nuovo libro narrativo</p>
+      <hr />
+      <h2 id="tiri-e-prove">⚙️ Tiri e Prove</h2>
+      <table>
+      <colgroup>
+      <col style="width: 22%" />
+      <col style="width: 14%" />
+      <col style="width: 31%" />
+      <col style="width: 31%" />
+      </colgroup>
+      <thead>
+      <tr>
+      <th>Azione</th>
+      <th>CD</th>
+      <th>Caratteristica</th>
+      <th>Risultato</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>Raccogliere info da Blossom</td>
+      <td>11</td>
+      <td>Persuasione</td>
+      <td>Accesso a indizi completi</td>
+      </tr>
+      <tr>
+      <td>Entrare al Buco nel Muro</td>
+      <td>14</td>
+      <td>Persuasione/Inganno</td>
+      <td>Accesso all’ostello</td>
+      </tr>
+      <tr>
+      <td>Localizzare Dasher</td>
+      <td>12</td>
+      <td>Investigazione</td>
+      <td>Trovilo nella stanza</td>
+      </tr>
+      <tr>
+      <td>Convincere Dasher a parlare</td>
+      <td>13</td>
+      <td>Persuasione</td>
+      <td>Ascolta la storia</td>
+      </tr>
+      <tr>
+      <td>Identificare il “morso”</td>
+      <td>13</td>
+      <td>Arcana/Medicina</td>
+      <td>Riconosci il tipo di trasformazione</td>
+      </tr>
+      <tr>
+      <td>Negotiare il trasporto</td>
+      <td>15</td>
+      <td>Persuasione/Inganno</td>
+      <td>Dasher acconsente di tornare (reluctantly)</td>
+      </tr>
+      </tbody>
+      </table>
+      <hr />
+      <h2 id="trama-narrativa">🎭 Trama Narrativa</h2>
+      <p><strong>Tema:</strong> Chi decide cosa è “giusto” per una
+      persona — la famiglia o la scelta personale?</p>
+      <p><strong>Colpi di Scena:</strong> - Dasher ha un “segno” —
+      possibile vampirismo, licantropia, o possessione - Blossom non sa
+      della trasformazione (plot thread per futuro) - Se il “morso” è di
+      origine soprannaturale, collega a minacce più grandi</p>
+      <hr />
+      <h2 id="ricompense">🏆 Ricompense</h2>
+      <ul>
+      <li><strong>Oro:</strong> 500 mo se Dasher consegnato a Blossom; 0
+      mo se lasciato; 250 mo se “scomparso definitivamente”</li>
+      <li><strong>Fama Zhentarim:</strong> +1 (se completato); +2 (se
+      gestito diplomaticamente)</li>
+      <li><strong>Dasher Ally:</strong> Se protetto e compreso, diventa
+      contatto nel Southern Ward</li>
+      <li><strong>Intel:</strong> Scoperta del “morso” — nuova minaccia
+      soprannaturale in Waterdeep</li>
+      </ul>
+      <hr />
+      <h2 id="connessioni">🔗 Connessioni</h2>
+      <ul>
+      <li><strong>Collegate a:</strong> <a
+      href="M1-UnBruttoMomento.html">Zentharim M1</a>, <a
+      href="M2-TieniIlResto.html">M2</a>, <a
+      href="M4-SangueDeiPatto.html">M4</a></li>
+      <li><strong>Introduce:</strong> Minaccia soprannaturale
+      (vampiro/lycanthrope) nel Southern Ward</li>
+      <li><strong>Rivela:</strong> Complessità morale delle decisioni
+      forzate</li>
+      <li><strong>Fazione:</strong> <a
+      href="../../Campagna/fazioni.md#zhentarim">Zhentarim</a></li>
+      </ul>
+      <hr />
+      <h2 id="note-per-il-dm">📝 Note per il DM</h2>
+      <ul>
+      <li><strong>Questa missione è narrativa, non tattica</strong> — il
+      party deve investigare, negoziare, capire</li>
+      <li><strong>Il “morso” è un elemento di mistero</strong> — non
+      spiegarlo subito; lascia domande aperte</li>
+      <li><strong>Dasher è sympatheticamente ritratto</strong> — il
+      party probabilmente lo simpatizzerà anche se non è “moralmente
+      retto”</li>
+      <li>Se il party fallisce a localizzare Dasher: Consequenza:
+      Mission fallisce, Blossom rimane in dolore</li>
+      </ul>
+      <hr />
+      <h2 id="varianti-e-personalizzazioni">📚 Varianti e
+      Personalizzazioni</h2>
+      <h3 id="se-il-party-cattura-dasher-per-forza">Se il party cattura
+      Dasher per forza</h3>
+      <p>Combattimento possibile — Dasher ha alleati nel Southern Ward;
+      scena memorabile ma tragica.</p>
+      <h3 id="se-il-party-scopre-il-morso-è-di-un-pc-precedente">Se il
+      party scopre il “morso” è di un PC precedente</h3>
+      <p>Colpo di scena massimo — Dasher è collegato a un nemico o
+      alleato del party!</p>
+      <h3
+      id="se-il-party-vuole-protegger-dasher-e-investigare-il-morso">Se
+      il party vuole protegger Dasher e investigare il “morso”</h3>
+      <p>Interessante ramo narrativo — possibile nuovo sidequestline nel
+      Southern Ward.</p>
+      <hr />
+      <p><strong>Aggiornamento:</strong> 7 Aprile 2026 |
+      <strong>Stato:</strong> Non giocata</p>
+    </article>
+  </main>
+</div>
+
+<footer>
+  <p>🎭 <strong>Waterdeep: Dragon Heist</strong> — Wiki Campagna | Ultima modifica: <time>07/04/2026</time></p>
+  <p><a href="../INDEX.html">← Torna al Menu Principale</a></p>
+</footer>
+</body>
+</html>
+

@@ -1,0 +1,200 @@
+﻿WATERDEEP: DRAGON HEIST
+Missione degli Zhentarim — Capitolo 2
+ 
+CORRI,
+DASHER!
+Un mezzuomo scomparso, una famiglia preoccupata, e un segreto che morde.
+🐀  4 Personaggi • 4° Livello • Waterdeep, Quartiere Sud  🐀
+SINOSSI
+Un mezzuomo nobile è scomparso. Sua madre offre 500 Dragoni per ritrovarlo. Gli Zhentarim vogliono la loro parte. Tutto abbastanza semplice, finché il gruppo non scopre che Dasher Snobeedle non vuole essere trovato: ha una nuova famiglia, un amante, e un morso che lo ha cambiato per sempre. La vera domanda non è dove si trova — è cosa farne.
+	________________
+
+
+Parte I — L’Incarico
+Il Messaggio
+Il serpente alato degli Zhentarim raggiunge il gruppo mentre sono impegnati nella catena di incontri — probabilmente durante l’ispezione al Mulino a Vento. La pergamena è asciutta, come sempre.
+ 
+📜  IL MESSAGGIO DEGLI ZHENTARIM
+«La famiglia di mezzuomini più ricca di Waterdeep, gli Snobeedle, offre 500 Dragoni per informazioni che portino al ritorno sicuro di un membro della famiglia scomparso di nome Dasher Snobeedle. Questo aiuterebbe ovviamente i nostri sforzi. Indagate.»
+ 
+Nota: i «Dragoni» in questo contesto sono Monete d’Oro standard.
+	 
+Cosa Sanno gli Zhentarim
+Poco. Sanno che la ricompensa è reale e che vogliono una percentuale. Non sanno dove sia Dasher, perché sia sparito, né cosa stia succedendo nel Quartiere Sud. Per una volta, il gruppo sa quanto loro.
+________________
+
+
+Parte II — Gli Snobeedle
+La Famiglia
+Gli Snobeedle sono la famiglia di mezzuomini più benestante di Waterdeep. Gestiscono un frutteto fuori dalla città e sono noti per la loro rispettabilità — e per il fatto che i loro soldi parlano più forte di qualsiasi titolo nobiliare.
+(Nota DM: la famiglia e il frutteto sono descritti più in dettaglio nella missione «Raccolto Oscuro» dell’Enclave di Smeraldo.)
+ 
+BLOSSOM SNOBEEDLE — Madre di Dasher
+	Aspetto
+	Mezzuomo sulla sessantina, capelli bianchi sempre ordinati, occhi gonfi dal pianto ma voce ferma.
+	Tono
+	Preoccupata ma dignitosa. Non chiede pietà — paga.
+	Informazioni che fornisce
+	Tutto quello che sa. Parla volentieri con chiunque sembri voler aiutare.
+	Su Dasher
+	Ama mischiarsi con la gente comune, finge di essere «uno del popolo». Un’ossessione, dice lei con tono stanco.
+	Indizio chiave
+	Nelle sue scappatelle, Dasher beve spesso al «Buco nel Muro», un ostello per soli mezzuomini.
+	La ricompensa
+	500 mo. Pagamento immediato al ritorno di Dasher, in contanti.
+	 
+🎭  PAROLE DI BLOSSOM
+«Mio figlio ha sempre voluto essere qualcuno che non era. Si vestiva da artigiano, frequentava taverne di bassa lega, parlava con l’accento sbagliato. Ci ho riso sopra per anni. Ora non è più divertente.»
+ 
+«So che va spesso al Buco nel Muro, giù nel Quartiere Sud. Non so perché. Non mi ha mai detto perché.»
+	________________
+
+
+Parte III — Il Buco nel Muro
+L’Ostello
+Il Buco nel Muro è un ostello per soli mezzuomini nel Quartiere Sud, vicino all’ex-covo di Xanathar del Capitolo 1. La porta è bassa, l’interno è caldo e puzza di birra di mela. È un posto dove i mezzuomini si sentono al sicuro perché gli altri non ci entrano.
+(Nota DM: l’ostello è descritto nella missione «Non Tollerare i Bugiardi», voce Vaniel Shortwick. È lo stesso edificio che ospita il nascondiglio di Xanathar descritto nel Capitolo 1 di WDH.)
+ 
+🎭  TESTO DI LETTURA AD ALTA VOCE
+La porta è alta quanto le vostre ginocchia, se siete umani. Un cartello di legno intagliato recita: «Solo Piedi Piccoli». All’interno, quattro mezzuomini alzano la testa verso di voi con la tipica espressione di chi ha già capito che non siete dei loro — o che, anche se lo foste, avete l’aria sbagliata.
+	 
+Vaniel Shortwick e i Residenti
+Vaniel gestisce l’ostello ed è la persona più informata sulla situazione di Dasher. Gli altri mezzuomini presenti sono Ratti di Fogna (Shard Shunners) — ma nessuno lo ammetterebbe mai davanti a degli estranei.
+ 
+VANIEL SHORTWICK — Gestore del Buco nel Muro
+	Aspetto
+	Mezzuomo sulla quarantina, capelli rossi, sorriso amichevole che non raggiunge mai gli occhi.
+	Natura segreta
+	Doppelganger. Finge di essere un topo mannaro mezzuomo per essere accettato dal gruppo.
+	Relazione con Dasher
+	Il suo amante. Lo protegge con la stessa determinazione con cui nasconde la propria natura.
+	Statistiche
+	Doppelganger (MM p.82), CA 13, PF 52
+	Comportamento
+	Nega di conoscere Dasher. Cambia versione se pressato, ma non cede facilmente.
+	In combattimento
+	Combatte solo se il gruppo tenta di portare via Dasher con la forza.
+	 
+Le Prove per Scoprire la Verità
+ 
+SITUAZIONE
+	RISULTATO / PROVA
+	Chiedono di Dasher genericamente
+	I mezzuomini scrollano le spalle. Dasher? Non lo conoscono.
+	Intuizione CD 18 (osservando i residenti)
+	Il gruppo capisce che sanno esattamente cosa sia successo a Dasher, ma lo nascondono deliberatamente.
+	Menzionano Dasher + Persuasione CD 18
+	Uno dei residenti cede, o Vaniel ammette che Dasher è «loro ospite», ma non di più senza garanzie.
+	Minacciano o usano la forza
+	Il locale si svuota in trenta secondi. Dasher non lo trovano così.
+	Un PG mezzuomo parla da pari a pari
+	Vantaggio alla prova di Persuasione. La solidarietà conta.
+	________________
+
+
+Parte IV — Dasher
+La Stanza Segreta
+Dasher è nascosto — in modo abbastanza letterale — in un buco nel muro: una stanza ricavata nel sottotetto, accessibile da un pannello scorrevole dietro l’orologio a pendolo in fondo al corridoio. È lì che i Ratti di Fogna pianificano le loro operazioni.
+ 
+🎭  TESTO DI LETTURA AD ALTA VOCE — La Stanza Segreta
+La stanza è piccola, con il soffitto inclinato e le travi a vista. C’è un tavolo, delle carte, alcune candele. Un mezzuomo giòvane con i capelli arruffati e gli stivali da strada si alza di scatto quando vi vede. Sembra colpevole, poi sollevato, poi di nuovo colpevole. «Non mi avete trovato», dice. Non è una domanda.
+	 
+DASHER SNOBEEDLE — Il Fuggitivo
+	Aspetto
+	Mezzuomo sui venticinque anni, capelli castani disordinati, abiti da artigiano consumati. Troppo pulito per essere davvero povero.
+	Personalità
+	Caloroso, diretto, romantico nell’anima. Ha trovato quello che cercava e non ha intenzione di tornare.
+	Natura segreta
+	Topo mannaro. È stato morso mesi fa e ha scelto di abbracciare la sua nuova condizione invece di cercare una cura.
+	Statistiche
+	Come topo mannaro mezzuomo (WDH p.30). CA 11 (13 in forma ibrida), PF 33
+	Motivazione
+	Vuole vivere la vita che ha scelto — non quella che la famiglia ha scelto per lui.
+	Relazione con Vaniel
+	Il suo amante. La ragione principale per cui non è tornato.
+	Attitudine al gruppo
+	Non ostile. Disposto a trattare se trattato con rispetto.
+	 
+La Composizione del Gruppo al Sottotetto
+Oltre a Dasher, nella stanza o nelle immediate vicinanze ci sono:
+* Dasher Snobeedle — topo mannaro mezzuomo
+* Un secondo topo mannaro mezzuomo (anonimo, fedele alla banda)
+* Vaniel Shortwick — doppelganger che finge di essere un topo mannaro
+Tutti i presenti eccetto Vaniel sono topi mannari. Vaniel finge di esserlo per essere accettato dal gruppo. È l’unico a sapere cosa sia davvero.
+________________
+
+
+Parte V — La Trattativa
+L’Offerta di Dasher
+Dasher non attacca. Tratta. Sa che il gruppo è lì per la ricompensa e si presenta come qualcuno disposto a fare affari.
+ 
+🎭  PAROLE DI DASHER
+«So perché siete qui. E so quanto offre mia madre. Ascoltatemi un momento prima di decidere.»
+ 
+«Vi do 200 mo. In cambio, dimenticate di avermi trovato. Riferite a chiunque vi abbia mandato che non avete trovato nulla. Questa è la mia vita, non la loro.»
+ 
+Se menzionano la ricompensa di 500 mo: «Trecento è il massimo che posso fare. È difficile fare soldi in strada, credetemi.»
+	 
+Tabella Decisionale
+ 
+SITUAZIONE
+	RISULTATO / PROVA
+	Accettano 200 mo e tacciono
+	Dasher paga, ringrazia, sparisce. Nessuna ricompensa da Blossom. Nessun punto fama da Davil.
+	Negoziano fino a 300 mo
+	Dasher accetta, ma ci mette qualche giorno a raccogliere i soldi. Stessa conclusione della riga sopra.
+	Rifiutano e lo riportano a casa
+	500 mo da Blossom. 2 punti fama Zhentarim. Ma Davil prende 350 mo — al gruppo restano 150 mo.
+	Cercano di portarlo via con la forza
+	Combattimento contro Dasher, un topo mannaro e Vaniel (doppelganger). Nessuna negoziazione possibile dopo.
+	Rivelano a Dasher il piano di Davil (taglio sulla ricompensa)
+	Persuasione CD 14: Dasher capisce la situazione e potrebbe aumentare la sua offerta o trovare un’alternativa creativa.
+	 
+Il Combattimento (Se Necessario)
+Se il gruppo forza la mano, Dasher e il secondo topo mannaro combattono per proteggere la loro famiglia. Vaniel si unisce a loro, usando le sue capacità di doppelganger ma fingendo di essere un topo mannaro.
+ 
+⚠  ATTENZIONE: LICANTROPIA
+I topi mannari mordono. Un personaggio morso deve superare un TS su Costituzione CD 11 o contrarre la licantropia della rattatura.
+Statistiche topi mannari mezzuomini: WDH p.30.
+	________________
+
+
+Parte VI — Conclusione
+Se Dasher Viene Riportato a Casa
+Blossom ringrazia il gruppo tra le lacrime e consegna immediatamente le 500 mo promesse. Non chiede dettagli su dove fosse o con chi. Poi mette il figlio sotto chiave.
+ 
+🔍  NOTA DM: COSA SUCCEDE A DASHER
+Blossom usa probabilmente un leggero veleno per tenere il figlio troppo debole per scappare di nuovo. Non lo dice esplicitamente. Se i giocatori fanno domande, risponde con un sorriso che non ammette repliche: «Mio figlio è al sicuro. È tutto ciò che conta.»
+Il DM può usare questa situazione come complicazione futura: Dasher riesce a scappare di nuovo? Manda un messaggio al gruppo chiedendo aiuto? O scompare definitivamente?
+	 
+La Parte di Davil
+Pochi giorni dopo il successo, Davil Starsong si fa trovare dal gruppo — non aspetta di essere cercato. È educato ma non lascia spazio a discussioni.
+ 
+🎭  PAROLE DI DAVIL
+«Bel lavoro. La famiglia è soddisfatta, il nostro nome circola nei posti giusti.» Una pausa. «Trecento cinquanta vanno alla Rete. Vi lascio centocinquanta. È una cifra equa, dati i rischi che vi abbiamo evitato.»
+ 
+Non c’è margine di trattativa, a meno che qualcuno non tenti una Persuasione CD 18 o un’Intimidazione CD 20. Anche in caso di successo, al massimo recuperano altre 50 mo.
+	 
+Tabella Ricompense
+ 
+ESITO
+	RICOMPENSA
+	Dasher riportato a casa
+	150 mo a testa (Davil si prende 350 mo) + 2 Punti Fama Zhentarim
+	Accordo con Dasher (200 mo)
+	200 mo divise tra il gruppo. Nessun punto fama. Nessun problema con Davil.
+	Accordo con Dasher (300 mo)
+	300 mo divise tra il gruppo. Nessun punto fama. Davil è scontento ma non agisce.
+	Combattimento vittorioso
+	Come «Dasher riportato a casa», più il possibile rischio di licantropia.
+	Combattimento perso
+	Il gruppo viene cacciato. Nessuna ricompensa. Davil è deluso.
+	 
+Note per il Dungeon Master
+* Questa missione funziona meglio se il gruppo ha già un rapporto con Davil Starsong. Il taglio sulla ricompensa è un momento rivelatore: gli Zhentarim si prendono la parte del leone anche quando il gruppo fa tutto il lavoro.
+* Vaniel è un doppelganger — se il gruppo ha già incontrato i doppelganger nella missione «Benvenuti in Famiglia» degli Arpisti, c’è un’opportunità interessante: potrebbe essere uno dei doppelganger già incontrati, o un legame con quella rete.
+* Dasher non è un villain. È qualcuno che ha trovato una famiglia dove non se l’aspettava. Il DM dovrebbe resistere alla tentazione di renderlo una vittima passiva o un pericolo attivo: è una persona con una scelta difficile davanti.
+* L’accordo da 200/300 mo è narrativamente più interessante del semplice ritorno a casa. Il gruppo prende meno soldi ma evita di spezzare qualcosa — e Davil non lo sa mai.
+* Blossom che avvelena il figlio per tenerlo a casa è un dettaglio che il gruppo potrebbe scoprire in una sessione futura. Un’altra famiglia con i soldi e le chiavi al posto dell’amore.
+ 
+🐀  Fine della Missione  🐀
