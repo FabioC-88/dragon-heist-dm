@@ -93,7 +93,7 @@ function buildJournalEntry(filePath) {
         sort:   100000,
         ownership: { default: -1 },
         flags: {},
-        _key: `!journal.${journalId}.[pages]!${pageId}`
+        _key: `!journal.pages!${journalId}.${pageId}`
       }
     ],
     folder:    null,
@@ -108,7 +108,7 @@ function buildJournalEntry(filePath) {
       modifiedTime:   now,
       lastModifiedBy: 'dragon-heist-dm'
     },
-    _key: `!journals!${journalId}`
+    _key: `!journal!${journalId}`
   };
 }
 
