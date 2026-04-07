@@ -57,8 +57,5 @@
       ]
     }
   ],
-  "flags": {
-    "canUpload": true
-  },
-  "action": "manageModule"
+  "url": "https://github.com/MrTotano/dragon-heist-dm"
 }
