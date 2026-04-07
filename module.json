@@ -1,11 +1,11 @@
 {
   "id": "dragon-heist-dm",
-  "title": "dragon-heist-dm",
+  "title": "Waterdeep: Dragon Heist — DM Notes",
+  "description": "Note DM, missioni e background personaggi per la campagna Waterdeep: Dragon Heist.",
   "version": "1.0.0",
   "compatibility": {
-    "minimum": "14",
-    "verified": "14",
-    "maximum": "14"
+    "minimum": "12",
+    "verified": "14"
   },
   "authors": [
     {
@@ -13,9 +13,52 @@
       "flags": {}
     }
   ],
+  "packs": [
+    {
+      "name": "missioni-arpisti",
+      "label": "Missioni — Arpisti",
+      "path": "./packs/missioni-arpisti",
+      "type": "JournalEntry",
+      "ownership": { "PLAYER": "NONE", "ASSISTANT": "OWNER" }
+    },
+    {
+      "name": "missioni-forcegrey",
+      "label": "Missioni — Force Grey",
+      "path": "./packs/missioni-forcegrey",
+      "type": "JournalEntry",
+      "ownership": { "PLAYER": "NONE", "ASSISTANT": "OWNER" }
+    },
+    {
+      "name": "missioni-zentharim",
+      "label": "Missioni — Zentharim",
+      "path": "./packs/missioni-zentharim",
+      "type": "JournalEntry",
+      "ownership": { "PLAYER": "NONE", "ASSISTANT": "OWNER" }
+    },
+    {
+      "name": "campagna",
+      "label": "Note Campagna",
+      "path": "./packs/campagna",
+      "type": "JournalEntry",
+      "ownership": { "PLAYER": "NONE", "ASSISTANT": "OWNER" }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Dragon Heist DM",
+      "sorting": "m",
+      "packs": ["campagna"],
+      "folders": [
+        {
+          "name": "Missioni",
+          "sorting": "m",
+          "packs": ["missioni-arpisti", "missioni-forcegrey", "missioni-zentharim"]
+        }
+      ]
+    }
+  ],
   "flags": {
     "canUpload": true
   },
-  "action": "manageModule",
-  "description": ""
+  "action": "manageModule"
 }
