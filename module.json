@@ -1,0 +1,21 @@
+{
+  "id": "dragon-heist-dm",
+  "title": "dragon-heist-dm",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14",
+    "maximum": "14"
+  },
+  "authors": [
+    {
+      "name": "MrTotano",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "action": "manageModule",
+  "description": ""
+}
