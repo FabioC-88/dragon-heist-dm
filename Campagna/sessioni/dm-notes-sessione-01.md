@@ -43,28 +43,6 @@
 >
 > **FAIDA INTERNA.** Xanathar Guild contro Zhentarim per il controllo del porto. Yagra non chiede aiuto — sta cercando di sopravvivere.
 
-### Combat Setup — Posizionamento Mappa
-
-**Mappa Taverna (30x40 piedi):**
-
-```
-NORD
-┌─────────────────────────────────────┐
-│ (Finestre) PORTA PRINCIPALE         │
-│        [YAGRA + Banditi Xanathar]  │
-│ [Tavoli sparsi]  [Colonna]         │
-│    PARTY         [Colonna]          │ OVEST
-│  [Tavolo]                           │
-│ [BANCONE] [Durnan]   [Colonna]      │
-│                                     │ EST
-│   [Tavoli clienti]                  │
-│                                     │
-│ (RETRO: BOTOLA → UNDERMOUNTAIN)     │
-│                (ROUND 3: TROLL)     │
-└─────────────────────────────────────┘
-SUD
-```
-
 **Posizioni Iniziali (Round 1):**
 
 | Nemico | Posizione | Note |
