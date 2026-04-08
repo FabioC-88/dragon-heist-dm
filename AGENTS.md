@@ -167,3 +167,27 @@ Consulta questi file per dettagli su lore, PG e missioni.
 - `Campagna/png-incontrati.md` — registro PNG incontrati
 - `Campagna/missioni-secondarie.md` — stato missioni (Pianificata / In corso / Completata)
 - `Campagna/sessioni/` — note sessione per sessione (`sessione-01.md`, `sessione-02.md`, …)
+
+---
+
+## Workflow Foundry VTT — Regole operative
+
+### Dopo ogni modifica ai file della campagna
+
+Al termine di ogni modifica a file `.md` nella workspace (missioni, note campagna, background PG, lore, schema rapporti, ecc.), **chiedi sempre al DM**:
+
+> *"Vuoi fare subito la release su Foundry, o accumulo altre modifiche prima?"*
+
+Non avviare mai il processo di build/release in autonomia senza questa conferma.
+
+### Quando il DM conferma la release — esegui in ordine
+
+1. **Build** — `npm run build` (bumpa automaticamente `module.json` version)
+2. **Aggiorna `download` URL** in `module.json` con la nuova versione (es. `v1.0.5` → `v1.0.6`)
+3. **Commit** — includi `module.json`, `packs/`, e tutti i file `.md` modificati
+4. **Retag** — sposta il tag sulla versione corrente al commit aggiornato (vedi §9 di `Master-Prompt-DM.md`)
+5. **Zip** — `module.json` + `packs/` → `dragon-heist-dm.zip`
+6. **GitHub Release** — `gh release create vX.Y.Z dragon-heist-dm.zip module.json`
+7. **Pulizia** — rimuovi lo zip locale
+
+Per i dettagli completi dei comandi: consulta `Master-Prompt-DM.md` §9.
