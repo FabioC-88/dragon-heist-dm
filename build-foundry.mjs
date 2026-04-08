@@ -66,7 +66,7 @@ function parseFrontmatter(mdContent) {
 }
 
 /** Ordine fisso per i file del pack Campagna. */
-const CAMPAGNA_ORDER = ['party', 'fazioni', 'png-incontrati', 'missioni-secondarie'];
+const CAMPAGNA_ORDER = ['party', 'fazioni', 'rapporti', 'png-incontrati', 'missioni-secondarie'];
 function campagnaSortKey(filePath) {
   const name = basename(filePath, extname(filePath)).toLowerCase();
   const idx = CAMPAGNA_ORDER.indexOf(name);
