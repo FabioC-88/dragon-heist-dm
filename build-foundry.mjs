@@ -42,7 +42,35 @@ function fileToTitle(filePath) {
     .replace(/([A-Z])/g, ' $1')   // CamelCase → spazi
     .replace(/[-_]/g, ' ')         // kebab/snake → spazi
     .replace(/\s+/g, ' ')
-    .trim();
+    .trim()
+    .replace(/\b\w/g, c => c.toUpperCase()); // Title Case
+}
+
+/** Estrae il numero della missione (M1, M2…) dal nome file; 0 se assente. */
+function missionSortKey(filePath) {
+  const name = basename(filePath, extname(filePath));
+  const match = name.match(/^M(\d+)/i);
+  return match ? parseInt(match[1], 10) : 0;
+}
+
+/** Estrae YAML frontmatter (---\nkey: value\n---) dal contenuto markdown. */
+function parseFrontmatter(mdContent) {
+  const match = mdContent.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n/);
+  if (!match) return { content: mdContent, data: {} };
+  const data = {};
+  for (const line of match[1].split('\n')) {
+    const m = line.match(/^(\w+):\s*(.+)$/);
+    if (m) data[m[1].trim()] = m[2].trim();
+  }
+  return { content: mdContent.slice(match[0].length), data };
+}
+
+/** Ordine fisso per i file del pack Campagna. */
+const CAMPAGNA_ORDER = ['party', 'fazioni', 'png-incontrati', 'missioni-secondarie'];
+function campagnaSortKey(filePath) {
+  const name = basename(filePath, extname(filePath)).toLowerCase();
+  const idx = CAMPAGNA_ORDER.indexOf(name);
+  return idx >= 0 ? idx : 99;
 }
 
 /** Raccoglie tutti i file .md in modo ricorsivo. */
@@ -68,13 +96,17 @@ function collectMdFiles(dir) {
  * stabilità tra build successive senza ricreate i compendi.
  */
 function buildJournalEntry(filePath) {
-  const relPath    = relative(ROOT, filePath).replace(/\\/g, '/');
-  const journalId  = makeId(relPath);
-  const pageId     = makeId(relPath + ':page0');
-  const title      = fileToTitle(filePath);
-  const mdContent  = readFileSync(filePath, 'utf-8');
-  const htmlContent = marked.parse(mdContent);
-  const now        = Date.now();
+  const relPath     = relative(ROOT, filePath).replace(/\\/g, '/');
+  const journalId   = makeId(relPath);
+  const pageId      = makeId(relPath + ':page0');
+  const mdContent   = readFileSync(filePath, 'utf-8');
+  const { content, data } = parseFrontmatter(mdContent);
+  const htmlContent = marked.parse(content);
+  const now         = Date.now();
+  const mNum        = missionSortKey(filePath);
+  const sort        = mNum > 0 ? mNum * 100000 : 0;
+  let title         = fileToTitle(filePath);
+  if (data.status) title = `${title} [${data.status}]`;
 
   return {
     _id:   journalId,
@@ -97,7 +129,7 @@ function buildJournalEntry(filePath) {
       }
     ],
     folder:    null,
-    sort:      0,
+    sort,
     ownership: { default: 0 },
     flags:     {},
     _stats: {
@@ -110,6 +142,66 @@ function buildJournalEntry(filePath) {
     },
     _key: `!journal!${journalId}`
   };
+}
+
+/** Raggruppa più file markdown in un unico JournalEntry multi-pagina. */
+function buildMultiPageJournalEntry(journalTitle, seedId, files) {
+  const journalId = makeId(seedId);
+  const now = Date.now();
+  const pages = files.map((filePath, i) => {
+    const relPath = relative(ROOT, filePath).replace(/\\/g, '/');
+    const pageId = makeId(relPath + ':page0');
+    const mdContent = readFileSync(filePath, 'utf-8');
+    const { content } = parseFrontmatter(mdContent);
+    const pageTitle = fileToTitle(filePath);
+    return {
+      _id:   pageId,
+      name:  pageTitle,
+      type:  'text',
+      title: { show: true, level: 1 },
+      text:  { format: 1, content: marked.parse(content) },
+      image: {},
+      video: { controls: true, volume: 0.5 },
+      src:    null,
+      system: {},
+      sort:   (i + 1) * 100000,
+      ownership: { default: -1 },
+      flags: {},
+      _key: `!journal.pages!${journalId}.${pageId}`
+    };
+  });
+  return {
+    _id:   journalId,
+    name:  journalTitle,
+    pages,
+    folder:    null,
+    sort:      999 * 100000,
+    ownership: { default: 0 },
+    flags:     {},
+    _stats: {
+      systemId:       null,
+      systemVersion:  null,
+      coreVersion:    '14.0.0',
+      createdTime:    now,
+      modifiedTime:   now,
+      lastModifiedBy: 'dragon-heist-dm'
+    },
+    _key: `!journal!${journalId}`
+  };
+}
+
+/** Legge module.json, incrementa la patch version (3 cifre) e riscrive solo quella riga. */
+function bumpVersion() {
+  const moduleJsonPath = join(ROOT, 'module.json');
+  let raw = readFileSync(moduleJsonPath, 'utf-8');
+  const match = raw.match(/"version":\s*"([\d.]+)"/);
+  if (!match) throw new Error('Versione non trovata in module.json');
+  const parts = match[1].split('.').slice(0, 3).map(Number);
+  parts[2] = (parts[2] || 0) + 1;
+  const newVersion = parts.join('.');
+  raw = raw.replace(/"version":\s*"[\d.]+"/, `"version": "${newVersion}"`);
+  writeFileSync(moduleJsonPath, raw, 'utf-8');
+  return newVersion;
 }
 
 // ── Definizione Pack ───────────────────────────────────────────────────────
@@ -138,7 +230,8 @@ const PACKS = [
   {
     name: 'campagna',
     label: 'Note Campagna',
-    dirs: ['Campagna']
+    dirs: ['Campagna'],
+    sessionDir: 'Campagna/sessioni'
   }
 ];
 
@@ -146,12 +239,15 @@ const PACKS = [
 
 console.log('\n🎲 Dragon Heist DM — Build Foundry Packs\n');
 
+const newVersion = bumpVersion();
+console.log(`📌 Versione: ${newVersion}\n`);
+
 let totalEntries = 0;
 const builtPacks = [];
 
 for (const pack of PACKS) {
   // Raccoglie tutti i file .md per questo pack
-  const mdFiles = pack.dirs.flatMap(d => collectMdFiles(join(ROOT, d)));
+  let mdFiles = pack.dirs.flatMap(d => collectMdFiles(join(ROOT, d)));
 
   if (mdFiles.length === 0) {
     console.log(`⏭  ${pack.name} — nessun file .md, skip\n`);
@@ -169,12 +265,37 @@ for (const pack of PACKS) {
     rmSync(join(srcDir, f));
   }
 
+  // Separa i file di sessione dal resto (verranno uniti in un journal multi-pagina)
+  let sessionFiles = [];
+  if (pack.sessionDir) {
+    const sessionDirAbs = join(ROOT, pack.sessionDir);
+    sessionFiles = mdFiles.filter(f => f.startsWith(sessionDirAbs));
+    mdFiles = mdFiles.filter(f => !f.startsWith(sessionDirAbs));
+  }
+
+  // Ordina: ordine fisso per Campagna, ordine numerico M1/M2/… per le missioni
+  if (pack.name === 'campagna') {
+    mdFiles.sort((a, b) => campagnaSortKey(a) - campagnaSortKey(b));
+  } else {
+    mdFiles.sort((a, b) => missionSortKey(a) - missionSortKey(b));
+  }
+
   for (const filePath of mdFiles) {
     const journal  = buildJournalEntry(filePath);
     const outPath  = join(srcDir, `${journal._id}.json`);
     writeFileSync(outPath, JSON.stringify(journal, null, 2), 'utf-8');
     const relFile  = relative(ROOT, filePath).replace(/\\/g, '/');
     console.log(`   ✓ ${journal._id}  "${journal.name}"  (${relFile})`);
+    totalEntries++;
+  }
+
+  // Journal multi-pagina per le note di sessione
+  if (sessionFiles.length > 0) {
+    sessionFiles.sort();
+    const sessioni = buildMultiPageJournalEntry('Sessioni', 'campagna:sessioni', sessionFiles);
+    const outPath  = join(srcDir, `${sessioni._id}.json`);
+    writeFileSync(outPath, JSON.stringify(sessioni, null, 2), 'utf-8');
+    console.log(`   ✓ ${sessioni._id}  "${sessioni.name}"  (${sessionFiles.length} pagine)`);
     totalEntries++;
   }
 
@@ -203,7 +324,7 @@ for (const pack of PACKS) {
 // ── Riepilogo ──────────────────────────────────────────────────────────────
 
 console.log('─'.repeat(60));
-console.log(`✅ Build completata`);
+console.log(`✅ Build completata  (v${newVersion})`);
 console.log(`   Journal Entry generate : ${totalEntries}`);
 console.log(`   Pack compilati         : ${builtPacks.length} (${builtPacks.join(', ')})`);
 console.log('');
