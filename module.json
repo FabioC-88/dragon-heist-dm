@@ -2,7 +2,7 @@
   "id": "dragon-heist-dm",
   "title": "Waterdeep: Dragon Heist — DM Notes",
   "description": "Note DM, missioni e background personaggi per la campagna Waterdeep: Dragon Heist.",
-  "version": "1.0.2.1",
+  "version": "1.0.3",
   "compatibility": {
     "minimum": "12",
     "verified": "14"
@@ -36,6 +36,13 @@
       "ownership": { "PLAYER": "NONE", "ASSISTANT": "OWNER" }
     },
     {
+      "name": "pg-backgrounds",
+      "label": "Background PG",
+      "path": "./packs/pg-backgrounds",
+      "type": "JournalEntry",
+      "ownership": { "PLAYER": "NONE", "ASSISTANT": "OWNER" }
+    },
+    {
       "name": "campagna",
       "label": "Note Campagna",
       "path": "./packs/campagna",
@@ -47,7 +54,7 @@
     {
       "name": "Dragon Heist DM",
       "sorting": "m",
-      "packs": ["campagna"],
+      "packs": ["campagna", "pg-backgrounds"],
       "folders": [
         {
           "name": "Missioni",
