@@ -62,25 +62,25 @@
 |-------|--------|
 | **Posizione verso il party** | Neutrale / Amichevole *(dipende dalle azioni)* |
 | **PNG di contatto** | **Davil Starsong** (Portale Sbadigliante, Dock Ward) · Yagra Stonefist (braccio armato) |
-| **Membri nel party** | Gabri (Gabri) — contatto primario; Eric (Eric) — fuggitiva da Manshoon |
+| **Membri nel party** | Friedrich Krauser (Gabri) — contatto primario; Fizzra "Scintilla" (Eric) — fuggitiva da Manshoon |
 | **Sede operativa** | Portale Sbadigliante *(taverna nel Dock Ward)* |
 | **Ultimo evento** | — *(campagna non iniziata)* |
 
 **Stile operativo:** Mercenari, traffici, controllo della criminalità organizzata. Davil Starsong ha un codice personale — non è un villain, è un pragmatico. Non tutti gli Zhentarim sono uguali. La fazione è divisa tra chi segue Manshoon e chi lavora in modo indipendente a Waterdeep.
 
-**Archi di Gabri e Eric:** Entrambi seguono la questline M1-M4 ma con motivazioni diverse. Gabri: rottura morale verso Oathbreaker; Eric: riconoscimento come membro pragmatico della fazione + possibilità di scoprire informazioni su Rennis scomparso. M4 (assassinio Skeemo / connessione Manshoon) potrebbe offrire il filo narrativo su Rennis.
+**Archi di Friedrich (Gabri) e Fizzra (Scintilla):** Entrambi seguono la questline M1-M4 ma con motivazioni diverse. Friedrich: rottura morale verso Oathbreaker; Fizzra: riconoscimento come membro pragmatico della fazione + possibilità di scoprire informazioni su Rennis scomparso. M4 (assassinio Skeemo / connessione Manshoon) potrebbe offrire il filo narrativo su Rennis.
 
 **Missioni disponibili:**
 - M1 (Lv 2): Un Brutto Momento — assassino drow, marinai elfi, proteggere Heldar
 - M2 (Lv 3): Tieni il Resto — consegna pozioni, Skeemo, ladra in mantello viola, ombra di Manshoon
 - M3 (Lv 4): Corri, Dasher! — mezzuomo nobile scomparso, famiglia Snobeedle
-- M4 (Lv 5): Sangue del Patto — eliminare il traditore Skeemo Weirdbottle (Gabri breaking point; Eric opportunità scoperta su Rennis tramite Skeemo/Manshoon)
+- M4 (Lv 5): Sangue del Patto — eliminare il traditore Skeemo Weirdbottle (Friedrich breaking point verso Oathbreaker; Fizzra opportunità scoperta su Rennis tramite Skeemo/Manshoon)
 
 **Tensione narrativa:** 
 - Barnabus Reed (Silvia) vuole catturare Urstul Floxin (Zhentarim). Il party potrebbe trovarsi a lavorare *per* gli Zhentarim mentre Barnabus li indaga.
-- Eric entra ignara del collegamento Rennis-Manshoon-Kolat Towers. La questline le offre opportunità di scoperta se segue i fili narrativi.
+- Fizzra entra ignara del collegamento Rennis-Manshoon-Kolat Towers. La questline le offre opportunità di scoperta se segue i fili narrativi.
 
-**Note DM:** Skeemo Weirdbottle appare nella M2 come PNG minore e nella M4 come obiettivo. È una possibile connessione a Manshoon / Kolat Towers (filo narrativo per Eric). Le M2-M4 sfiorano il retroscena di Manshoon; Eric potrebbe scoprire informazioni su Rennis durante questi incarichi se indaga con cura.
+**Note DM:** Skeemo Weirdbottle appare nella M2 come PNG minore e nella M4 come obiettivo. È una possibile connessione a Manshoon / Kolat Towers (filo narrativo per Fizzra). Le M2-M4 sfiorano il retroscena di Manshoon; Fizzra potrebbe scoprire informazioni su Rennis durante questi incarichi se indaga con cura.
 
 ---
 

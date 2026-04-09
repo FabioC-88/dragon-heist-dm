@@ -1,9 +1,53 @@
-# Eric — Gnoma Artefice
+# Fizzra Ingranaggia "Scintilla" — Gnoma Artefice
 
 **Razza/Classe:** Gnoma Artefice (specializzazione Armorer a Lv 3, autodidatta)
 **Fazione:** Zentharim (contatto: Davil Starsong)
 **Giocatore:** Eric
-**Nome completo PG:** da definire con Eric
+**Nome completo PG:** Fizzra Ingranaggia
+**Soprannome:** Scintilla
+
+---
+
+## Armatura — "Errore 404: Funzione Sicurezza Non Trovata"
+
+> *La tua armatura non è solo protezione. È un sistema instabile, in continua evoluzione.*
+>
+> *Le parli. E a volte sembra rispondere.*
+
+Un progetto incompleto — ma già vivo. Porta già il suo nome: **"Errore 404: Funzione Sicurezza Non Trovata"**, detto semplicemente **Errore 404**. Un sistema imperfetto, instabile, capace di sorprendere anche lei. Diventerà quello che deve essere quando la maestria dell'Armorer sarà pienamente sviluppata — per ora è un'intenzione in acciaio graffiato.
+
+---
+
+## Tratti del Personaggio
+
+### Difetti
+- Non riesce a smettere di sperimentare, anche in situazioni pericolose
+- Ha difficoltà a fidarsi completamente degli altri
+- Tende a sottovalutare i rischi delle sue invenzioni
+- Ha debiti con persone poco raccomandabili
+
+### Ideali
+- La conoscenza deve essere usata, non solo studiata
+- Ogni problema ha una soluzione (possibilmente esplosiva)
+- La libertà vale più delle regole
+- Le seconde possibilità esistono (anche per lei)
+
+### Legami
+- Vuole scoprire cosa è successo a Rennis
+- La sua officina è la sua vita
+- È legata (anche controvoglia) ai contatti del Dock Ward
+- Errore 404 è più di un'armatura
+
+---
+
+## Frasi Iconiche
+
+- *"Colpiscimi pure. Ho appena migliorato il sistema di assorbimento… credo."*
+- *"Se non esplode, non è ancora finito."*
+- *"Dammi cinque minuti… o scappa."*
+- *"Errore 404, modalità sopravvivenza. Più o meno."*
+- *"Non è rubare se lo uso meglio io."*
+- *"Oh. Questo non doveva succedere. Aspetta… oppure sì."*
 
 ---
 

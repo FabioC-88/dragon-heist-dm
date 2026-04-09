@@ -24,8 +24,8 @@ Sei un assistente Dungeon Master esperto per la campagna **Waterdeep: Dragon Hei
 | Seba | **Thraximundar** | Dragonide Warlock (Dendar) | Force Grey / Ordine Magisti | Mentore Brottor Deepdelver scomparso mentre indagava su caso classificato |
 | Mirko | **Razak Kendal** | Umano Monaco (Monastero della Rosa Gialla, Damara) | Force Grey | Portatore del presagio di Hlam: *"sangue innocente sarà versato nel Giorno dei Fondatori"* |
 | Berto | **Aelar Moonwhisper** *(vero nome: Aaravos Caelthir)* | Elfo delle stelle Bardo (Collegio di Fochlucan) | Arpisti | Familiare Maestro Bec (beccaccia con papillon fucsia); patrono arcifata Trobbio (eladrin imprevedibile) |
-| Eric | TBD | Gnoma Artefice (specializzazione Armorer a L3, autodidatta) | Zentharim (contatto: Davil Starsong) | Inventrice nativa di Waterdeep in difficoltà finanziarie. Mentore/partner Rennis Coalsworth è scomparso misteriosamente — Eric non sa che Rennis accettò una commessa segreta per Manshoon che fallì, e che ora Manshoon lo tiene alle Kolat Towers. Contattata da Volo per il Portale Spalancato. Segue questline Zentharim M1-M4. |
-| Gabri | TBD | Umano Paladino (arco verso **Oathbreaker**) | Zentharim (contatto primario: Davil Starsong) | Arrivato a Waterdeep in fuga dal suo passato; incontra **Aldric** al Portale Spalancato — amico/mentore. Conflitto tra i principi assoluti del voto e la pragmatica morale-grigia degli Zhentarim. **[NOTA DM]** Zentharim M1-M3 → scelte meno binarie; M4 (assassinio) → breaking point verso Oathbreaker L3-4. |
+| Eric | **Fizzra Ingranaggia** "Scintilla" | Gnoma Artefice (specializzazione Armorer a L3, autodidatta) | Zentharim (contatto: Davil Starsong) | Inventrice nativa di Waterdeep in difficoltà finanziarie. Mentore/partner Rennis Coalsworth è scomparso misteriosamente — Eric non sa che Rennis accettò una commessa segreta per Manshoon che fallì, e che ora Manshoon lo tiene alle Kolat Towers. Contattata da Volo per il Portale Spalancato. Segue questline Zentharim M1-M4. |
+| Gabri | **Friedrich Krauser** | Umano Paladino (arco verso **Oathbreaker**) | Zentharim (contatto primario: Davil Starsong) | Arrivato a Waterdeep in fuga dal suo passato; incontra **Aldric** al Portale Spalancato — amico/mentore. Conflitto tra i principi assoluti del voto e la pragmatica morale-grigia degli Zhentarim. **[NOTA DM]** Zentharim M1-M3 → scelte meno binarie; M4 (assassinio) → breaking point verso Oathbreaker L3-4. |
 | Silvia *(ospite)* | **Barnabus "Barney" Reed** | Umano Guerriero / Guardia Cittadina | — (indipendente) | Sergente della Guardia; indaga segretamente su sparizioni al porto; obiettivo: incastrare Urstul Floxin (Zhentarim) |
 
 ---
@@ -46,11 +46,11 @@ Sei un assistente Dungeon Master esperto per la campagna **Waterdeep: Dragon Hei
 - **Collegamento all'arco principale:** Il presagio di Hlam li ha coinvolti fin dall'inizio; i Cassalanters sono dietro al Midnight Tears del Giorno dei Fondatori (vedi Force Grey M1)
 
 ### Zentharim *(La Rete Nera)*
-- **Membri informali:** Gabri (contatto primario, arco → Oathbreaker); Eric (contatto primario via questline, filo narrativo su Rennis)
+- **Membri informali:** Friedrich Krauser / Gabri (contatto primario, arco → Oathbreaker); Fizzra "Scintilla" / Eric (contatto primario via questline, filo narrativo su Rennis)
 - **Referente in città:** Davil Starsong — Portale Sbadigliante, Dock Ward
 - **Stile operativo:** Mercenari, traffici, controllo della criminalità organizzata. Non tutti gli Zhentarim sono villain — Davil ha un suo codice.
-- **Tensione narrativa:** Barnabus Reed vuole catturare Urstul Floxin, ma party (Gabri/Eric) lavora *con* Zhentarim. Eric attraversa la questline ignara che il mentore scomparso Rennis è nelle mani di Manshoon alle Kolat Towers — M4 potrebbe offrire opportunità di scoperta.
-- **Arco Gabri:** M1 (protezione, vindication) → M2-M3 (zone grigie) → M4 (assassinio Skeemo = breaking point Oathbreaker)
+- **Tensione narrativa:** Barnabus Reed vuole catturare Urstul Floxin, ma party (Friedrich/Fizzra) lavora *con* Zhentarim. Eric attraversa la questline ignara che il mentore scomparso Rennis è nelle mani di Manshoon alle Kolat Towers — M4 potrebbe offrire opportunità di scoperta.
+- **Arco Friedrich (Gabri):** M1 (protezione, vindication) → M2-M3 (zone grigie) → M4 (assassinio Skeemo = breaking point Oathbreaker)
 - **Arco Eric:** M1 (riconoscimento come membro Zhentarim) → M2-M3 (collaborazione pratica con Davil, expertise tecnica) → M4 (possibile scoperta/filo narrativo su Rennis via Skeemo/Manshoon)
 
 ---
@@ -86,7 +86,7 @@ Sei un assistente Dungeon Master esperto per la campagna **Waterdeep: Dragon Hei
 | **Nihiloor** | Illithid nel covo di Xanathar; produce Divoratori di Intelletto | Force Grey M4 | Gilda di Xanathar |
 | **Victoro Cassalanter** | Villain principale (nobile/cultista) | Capitolo 4-5 | Cultisti di Asmodeo |
 | **Ammalia Cassalanter** | Villain principale (nobile/cultista) | Capitolo 4-5 | Cultisti di Asmodeo |
-| **Aldric** | Ex avventuriero al Portale Spalancato; amico/mentore di Gabri — **[NOTA DM] è Asmodeo in forma mortale** | Background (BG Gabri) — appare periodicamente durante la campagna | Asmodeo (travestito, mantiene sempre pretesa di mentore umano) |
+| **Aldric** | Ex avventuriero al Portale Spalancato; amico/mentore di Friedrich Krauser — **[NOTA DM] è Asmodeo in forma mortale** | Background (BG Gabri) — appare periodicamente durante la campagna | Asmodeo (travestito, mantiene sempre pretesa di mentore umano) |
 | **Manshoon** | Terribile mago-antagonista; capo della rete Zhentarim a Waterdeep; Eric lo conosce da suo danno | Zentharim M2-M4 (background/foreshadowing); Kolat Towers capitoli finali | Zhentarim (nemico di Eric) |
 
 ---

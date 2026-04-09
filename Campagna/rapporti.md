@@ -13,8 +13,8 @@ aggiornato: Sessione 1
 
 Righe = PNG. Colonne = PG. Stato al momento dell'incontro più recente.
 
-| PNG | Thrax | Razak | Aelar | Eric | Gabri | Barney |
-|-----|:-----:|:-----:|:-----:|:----:|:-----:|:------:|
+| PNG | Thrax | Razak | Aelar | Scintilla | Friedrich | Barney |
+|-----|:-----:|:-----:|:-----:|:---------:|:---------:|:------:|
 | **Volo Geddarm** | 🤝 Committente | 🤝 Committente | 🤝 Committente | 🤝 Committente | 🤝 Committente | 🤝 Committente |
 | **Durnan** | 🤝 Oste | 🤝 Oste | 🤝 Oste | 🤝 Oste | 🤝 Oste | 🤝 Collega |
 | **Renaer Neverember** | 🤝 Rescissato insieme | 🤝 Rescissato insieme | 🤝 Rescissato insieme | 🤝 Rescissato insieme | 🤝 Rescissato insieme | — |
@@ -49,11 +49,11 @@ Righe = PNG. Colonne = PG. Stato al momento dell'incontro più recente.
 | Vajra Safahr | Force Grey / Ordine Magisti | Arcimaga di Waterdeep, capo Force Grey | ✅ Referente diretto Thrax & Razak |
 | Mirt il Cambiavalute | Arpisti | Referente cittadino; ex avventuriero | ✅ Referente diretto Aelar |
 | Hlam | Indipendente | Monaco oracolo | 🤝 Profetico, distante |
-| Davil Starsong | Zhentarim | Referente Zhentarim; pragmatico | 🤝 In avvicinamento con Eric & Gabri |
+| Davil Starsong | Zhentarim | Referente Zhentarim; pragmatico | 🤝 In avvicinamento con Fizzra (Scintilla) & Gabri |
 | Yagra Stonefist | Zhentarim | Braccio destro di Davil | 🤝 Intermediaria |
-| Aldric | 🔒 Asmodeo travestito | "Ex avventuriero" al Portale Spalancato | 🔒 Mentore di Gabri; in realtà agente di Asmodeo |
+| Aldric | 🔒 Asmodeo travestito | "Ex avventuriero" al Portale Spalancato | 🔒 Mentore di Friedrich Krauser; in realtà agente di Asmodeo |
 | Brottor Deepdelver | Ordine Magisti | Mentore — scomparso | 🔒 Rapito/scomparso; filo narrativo Thrax |
-| Rennis Coalsworth | Indipendente → Manshoon | Partner di Eric — scomparso | 🔒 Prigioniero alle Kolat Towers |
+| Rennis Coalsworth | Indipendente → Manshoon | Partner di Fizzra — scomparso | 🔒 Prigioniero alle Kolat Towers |
 | Urstul Floxin | Zhentarim | Sicario; operativo sporco | ❌ Obiettivo di Barnabus |
 | Hyustus Staget | Guardia Cittadina | Capitano; superiore di Barnabus | ⚠️ Rivale istituzionale di Barnabus |
 | Saeth Cromley | Guardia Cittadina / Ordine Magisti | Sergente; collega | 🤝 Alleato occasionale |
@@ -84,10 +84,10 @@ Righe = PNG. Colonne = PG. Stato al momento dell'incontro più recente.
 |-------|-------|------|------|
 | Davil Starsong | Manshoon | Subordinato / teso | Davil opera sotto l'ombrello Zhentarim; Manshoon è il potere nell'ombra |
 | Manshoon | Skeemo Weirdbottle | Capo / traditore | Skeemo ha tradito Manshoon; obiettivo di Zentharim M4 |
-| Manshoon | Rennis Coalsworth | Carceriere / prigioniero | Rennis è alle Kolat Towers; Eric non lo sa ancora |
+| Manshoon | Rennis Coalsworth | Carceriere / prigioniero | Rennis è alle Kolat Towers; Fizzra non lo sa ancora |
 | Victoro Cassalanter | Ammalia Cassalanter | Co-villain / coniugi | Operano in perfetta sinergia; mai sporcano le mani direttamente |
 | Aldric | Asmodeo | 🔒 Identità segreta | Aldric È Asmodeo in forma mortale |
-| Aldric | Gabri | Mentore / discepolo | Aldric guida Gabri verso il breaking point (Oathbreaker) |
+| Aldric | Friedrich Krauser | Mentore / discepolo | Aldric guida Friedrich verso il breaking point (Oathbreaker) |
 | Victoro Cassalanter | Asmodeo (indiretto) | Devoto / padrone | I Cassalanters hanno venduto le anime dei figli; il contratto scade questa estate |
 | Vajra Safahr | Nihiloor | Bersaglio / antagonista | Vajra incarica Force Grey di eliminare Nihiloor (M4) |
 | Hlam | Razak Kendal | Oracolo / portatore | Hlam ha trasmesso il presagio; il suo ruolo narrativo è concluso per ora |
@@ -103,11 +103,11 @@ Righe = PNG. Colonne = PG. Stato al momento dell'incontro più recente.
 
 > Questi fatti non sono noti al party. Aggiorna questa lista man mano che i PG scoprano la verità.
 
-- **Aldric = Asmodeo** — Gabri non sa che il suo mentore è il principe delle tenebre in forma mortale. Arc verso Oathbreaker.
-- **Rennis Coalsworth prigioniero** — Eric cerca il suo partner scomparso; Rennis è alle Kolat Towers nelle mani di Manshoon, che lo tiene come leva dopo il fallimento di una commessa segreta.
+- **Aldric = Asmodeo** — Friedrich Krauser non sa che il suo mentore è il principe delle tenebre in forma mortale. Arc verso Oathbreaker.
+- **Rennis Coalsworth prigioniero** — Fizzra (Scintilla) cerca il suo partner scomparso; Rennis è alle Kolat Towers nelle mani di Manshoon, che lo tiene come leva dopo il fallimento di una commessa segreta.
 - **Cassalanters = cultisti di Asmodeo** — In pubblico sono i nobili più stimati di Waterdeep. In privato operano per consegnare 99 anime innocenti + 999 dragoni d'oro per riscattare l'anima dei tre figli.
 - **Contratto con Asmodeo** — Scade entro la fine dell'estate. I Cassalanters puntano allo Stone of Golorr per ottenere i 999 dragoni dalla Vault di Neverember.
 - **Brottor Deepdelver scomparso** — Il mentore di Thrax è scomparso mentre indagava su un caso classificato dell'Ordine Magisti. Il filo narrativo è aperto.
-- **Skeemo Weirdbottle = traditore** — Alchimista che appare in Zentharim M2; ha tradito Manshoon. Bersaglio di M4 (breaking point per Gabri verso Oathbreaker).
-- **Manshoon / Kolat Towers** — Manshoon controlla una rete parallela all'interno degli Zhentarim. Eric attraversa la sua questline ignara di essere su un percorso di collisione con lui.
+- **Skeemo Weirdbottle = traditore** — Alchimista che appare in Zentharim M2; ha tradito Manshoon. Bersaglio di M4 (breaking point per Friedrich verso Oathbreaker).
+- **Manshoon / Kolat Towers** — Manshoon controlla una rete parallela all'interno degli Zhentarim. Fizzra (Scintilla) attraversa la sua questline ignara di essere su un percorso di collisione con lui.
 - **Stone of Golorr** — MacGuffin principale. I Cassalanters lo cercano in competizione con Xanathar, Jarlaxle e Manshoon.

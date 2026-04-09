@@ -210,7 +210,8 @@
 
 ---
 
-## GABRI (Umano Paladino — Zentharim / Asmodeo)
+## FRIEDRICH KRAUSER (Umano Paladino — Zentharim / Asmodeo)
+> Giocatore: Gabri
 
 **Status sociale**: Arrivato in fuga; disillusionato; membro informale Zentharim; mentore segreto (Aldric = Asmodeo).
 

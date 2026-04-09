@@ -119,11 +119,12 @@ Ha ricevuto dal monaco **Hlam** sul Monte Waterdeep una pergamena sigillata con 
 
 ---
 
-### Eric
+### Fizzra Ingranaggia "Scintilla"
 **Giocatore:** Eric
 **Razza / Classe:** Gnoma · Artefice (specializzazione Armorer a L3, autodidatta)
 **Background:** Inventrice nativa di Waterdeep; officina in difficoltà finanziarie dopo scomparsa del partner Rennis Coalsworth
 **Fazione:** Zentharim (contatto primario: Davil Starsong)
+**Armatura:** Errore 404 ("Errore 404: Funzione Sicurezza Non Trovata") — progetto personale in corso
 
 | | |
 |--|--|
@@ -159,7 +160,7 @@ Volothamp "Volo" Geddarm l'ha contattata in officina e l'ha invitata al Portale 
 
 ---
 
-### Gabri
+### Friedrich Krauser
 **Giocatore:** Gabri
 **Razza / Classe:** Umano · Paladino (arco verso Oathbreaker)
 **Background:** Arrivato a Waterdeep in fuga dal suo passato; disillusionato sui "bene assoluto"
@@ -175,14 +176,14 @@ Volothamp "Volo" Geddarm l'ha contattata in officina e l'ha invitata al Portale 
 #### Gancio personale principale
 Ha incontrato **Aldric** al Portale Spalancato poco dopo il suo arrivo. Aldric è diventato il suo punto di riferimento emotivo — un ex-avventuriero che "capisce" i suoi dubbi meglio di qualunque prete.
 
-**[NOTA DM]** Aldric *è Asmodeo sotto forma mortale*. Mantiene il pretesto di mentore umano. Osserva silenziosamente la rottura morale di Gabri attraverso la pragmatica Zentharim, e sottilmente la incoraggia.
+**[NOTA DM]** Aldric *è Asmodeo sotto forma mortale*. Mantiene il pretesto di mentore umano. Osserva silenziosamente la rottura morale di Friedrich attraverso la pragmatica Zentharim, e sottilmente la incoraggia.
 
-Centri di Zentharim M1-M3 erodono gradualmente i principi assoluti di Gabri. M4 (assassinio di Skeemo Weirdbottle) è il breaking point dove il voto si spezza, portandolo verso il sottoclass Oathbreaker tra i L3-L4.
+Le missioni Zentharim M1-M3 erodono gradualmente i principi assoluti di Friedrich. M4 (assassinio di Skeemo Weirdbottle) è il breaking point dove il voto si spezza, portandolo verso il sottoclass Oathbreaker tra i L3-L4.
 
 #### PNG collegati
 - **Aldric** — amico/mentore al Portale Spalancato; **segretamente Asmodeo travestito**
 - **Davil Starsong** — contact primario Zentharim; pragmatico, non apertamente crudele
-- **Eric** *(nuovo, S1)* — collega nella questline Zentharim; possibile spalla morale
+- **Fizzra "Scintilla"** *(nuovo, S1)* — collega nella questline Zentharim; possibile spalla morale
 - **Volothamp "Volo" Geddarm** *(nuovo, S1)* — chi ti ha invitato al Portale; genuino (+2)
 - **Durnan** *(nuovo, S1)* — proprietario Yawning Portal; neutrale (+0)
 - **Yagra Stonefist** *(nuovo, S1)* — ha combattuto con te nel brawl; braccio Davil (+1)
