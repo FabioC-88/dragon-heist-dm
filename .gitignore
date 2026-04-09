@@ -9,3 +9,5 @@ src/
 
 # Pack LevelDB compilati — questi vanno committati per funzionare in Foundry
 # (non ignorare packs/)
+
+dragon-heist-novel/
