@@ -69,6 +69,14 @@ Ma non può venirlo a sapere. Non ancora.
 
 ---
 
+## Connessioni Pre-Campagna
+
+**Thraximundar (Seba)** — Barnabus conosce il nome dall'Ordine Vigilante dei Magistri Protettori tramite i rapporti incrociati che Saeth Cromley gli passa quando i casi si sovrappongono. Non lo ha mai incontrato di persona, ma sa che esiste: un dragonide nero nell'Ordine è difficile da dimenticare. Quando lo vede al Portale Spalancato, fa due più due.
+
+**Eric (officina)** — Conosce l'officina della gnoma nel Trades Ward. Festo le ha fatto riparare il meccanismo dell'alabarda durante una ronda estesa fuori distretto. Non sa il nome della titolare, ma sa il mestiere e la posizione del negozio.
+
+---
+
 ## Tensione Narrativa con il Party
 
 Barnabus non sa che **Gabri ed Eric lavorano con gli Zentharim** (Davil Starsong). La scoperta di questa connessione — se e quando arriva — può generare una scena potenzialmente esplosiva, specialmente se Silvia è presente durante una missione Zentharim.

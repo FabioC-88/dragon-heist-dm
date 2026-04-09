@@ -66,6 +66,14 @@ Non hai abbastanza orguoglio, debiti e curiosità per dire di no. Se Volo ha rag
 
 ---
 
+## Connessioni Pre-Campagna
+
+**Thraximundar (Seba)** — L'Ordine Vigilante dei Magistri Protettori ha mandato personale all'officina un paio di volte, per perizie su artefatti sequestrati. Non Thraximundar in persona, ma il tipo di accesso è riconoscibile. Quando lo vede al Portale, Eric nota le scaglie nere e la postura da indagatore — e connette il tipo all'Ordine.
+
+**Nota** — La posizione esatta dell'officina (via nel Trades Ward, come finanziata inizialmente) è da definire con il giocatore.
+
+---
+
 ## Gancio Personale
 
 **Rennis scomparso, officina in difficoltà finanziarie.** Eric non sa ancora nulla della commessa di Manshoon. La questline Zentharim (M1→M4) è il percorso che la porterà progressivamente vicino alla verità — se saprà raccogliere i segnali.

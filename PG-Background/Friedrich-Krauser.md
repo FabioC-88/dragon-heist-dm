@@ -74,6 +74,14 @@ All'inizio non eri d'accordo. Poi ci hai ripensato. Alla fine, hai smesso di ess
 
 ---
 
+## Connessioni Pre-Campagna
+
+**Thraximundar (Seba)** — L'inquilino del piano di sopra al Portale Spalancato. Si sono visti sulle scale, al bancone — mai parlati davvero. Friedrich sa che è un dragonide dall'aria investigativa; dai movimenti e dalla postura ha capito che fa questo per mestiere. Non sa ancora di quale ordine faccia parte.
+
+**Aelar Moonwhisper (Berto)** — Un altro volto familiare del Portale. Il musicante con la beccaccia che suona nelle sere più tranquille. Friedrich lo ha ascoltato senza mai avvicinarsi — il tipo di presenza che fa sentire meno soli senza richiedere niente.
+
+---
+
 ## Gancio Personale
 
 **Fuga da un passato che torna** — l'imboscata nella Shadowfell non è mai stata spiegata. Qualcuno nella Chiesa di Tyr sapeva. Qualcuno ha firmato quell'ordine di missione.

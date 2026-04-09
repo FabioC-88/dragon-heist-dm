@@ -45,6 +45,18 @@ Hai servito nell'Ordine Vigilante dei Magisti e Protettori. I tuoi compiti inclu
 
 ---
 
+## Connessioni Pre-Campagna
+
+**Alloggio al Portale Spalancato** — Thraximundar non ha una casa propria a Waterdeep. Occupa una stanza in affitto permanente al Portale Spalancato. Scende ogni sera nella sala comune, ordina vino rosso che non finisce quasi mai, e siede in angolo. Gli abituali si sono fatti l'abitudine.
+
+**Aelar Moonwhisper (Berto)** — Lo conosce di vista come il musicante con la beccaccia che suona certe sere. Ha notato che i suoi occhi non sono quelli di un semplice elfo della luna — dettaglio archiviato, non ancora indagato.
+
+**Friedrich/Gabri** — Un altro ospite del Portale. Si sono scambiati cenni sulle scale, niente di più. Thraximundar sa che frequenta il bancone con un vecchio dai capelli grigi.
+
+**Eric (officina)** — L'Ordine Vigilante ha mandato personale all'officina della gnoma nel Trades Ward per perizie su artefatti sequestrati. Thraximundar non ci è mai andato di persona, ma conosce il nome del negozio dai registri dell'Ordine.
+
+---
+
 ## Gancio Personale
 
 **Brottor Deepdelver è scomparso** mentre indagava su un caso classificato dell'Ordine. L'Ordine ha negato a Thraximundar l'accesso all'indagine. Il filo narrativo si intreccia con le missioni Force Grey e con le minacce extraplanari che Brottor stava studiando.
