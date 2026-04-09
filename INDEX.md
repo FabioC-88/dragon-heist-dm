@@ -163,11 +163,7 @@
 │   ├── Barnabus-Reed.md
 │   └── README.md (indice)
 │
-├── 📁 HTML_Output/
-│   ├── *.html (wiki convertita in HTML)
-│   ├── style.css (tema elegante)
-│   ├── 404.html (pagina errore)
-│   └── Campagna/, Missioni/, Lore/, PG-Background/ (stessa struttura)
+├── 📁 packs/ (Foundry VTT LevelDB compilati — generati da npm run build)
 │
 └── 📂 Fonti-Originali/ (file di riferimento originali)
     ├── Dragon Heist.txt (fonte ufficiale campagna)
