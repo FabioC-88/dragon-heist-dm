@@ -38,7 +38,7 @@
 |-------|--------|
 | **Posizione verso il party** | Alleata |
 | **PNG di contatto** | **Vajra Safahr** — il Bastone Nero (referente diretto) |
-| **Membri nel party** | Razak Kendal (Mirko), Thraximundar (Seba) |
+| **Membri nel party** | Razak Kendal (Mirko), Vorador Thraxas (Seba) |
 | **Sede operativa** | Torre del Bastone Nero, Castle Ward |
 | **Ultimo evento** | — *(campagna non iniziata)* |
 

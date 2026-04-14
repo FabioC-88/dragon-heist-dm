@@ -64,7 +64,7 @@
 
 | Giocatore | PG | Classe | Fazione | Gancio Personale |
 |-----------|-----|--------|---------|-----------------|
-| Seba | **Thraximundar** | Dragonide Warlock (Dendar) | Force Grey / Ordine Magisti | Mentore Brottor Deepdelver scomparso |
+| Seba | **Vorador Thraxas** | Dragonide Warlock (Dendar) | Force Grey / Ordine Magisti | Mentore Brottor Deepdelver scomparso |
 | Mirko | **Razak Kendal** | Umano Monaco (Monastero Rosa Gialla) | Force Grey | Latore del presagio di Hlam |
 | Berto | **Aelar Moonwhisper** | Elfo stelle Bardo | Arpisti | Familiare Maestro Bec; Patrono Trobbio |
 | Eric | TBD | — | — | Da definire |
@@ -157,7 +157,7 @@
 │   └── Forgotten-Realms-Sword-Coast.md (coming soon)
 │
 ├── 📁 PG-Background/
-│   ├── Thraximundar.md
+│   ├── Vorador-Thraxas.md
 │   ├── Razak-Kendal.md
 │   ├── Aelar-Moonwhisper.md
 │   ├── Barnabus-Reed.md

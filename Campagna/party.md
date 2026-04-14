@@ -13,7 +13,7 @@
 
 ## Personaggi
 
-### Thraximundar
+### Vorador Thraxas
 **Giocatore:** Seba
 **Razza / Classe:** Dragonide · Warlock (Patto: Dendar la Divoratrice di Incubi)
 **Background:** Magistro Investigatore — Ordine Vigilante dei Magisti e Protettori
@@ -26,10 +26,10 @@
 | **Condizioni** | — |
 
 #### Gancio personale principale
-Il mentore **Brottor Deepdelver** è scomparso durante un'indagine su un caso classificato. L'Ordine nega l'accesso ai dettagli. Thraximundar indaga in parallelo.
+Il mentore **Brottor Deepdelver** è scomparso durante un'indagine su un caso classificato. L'Ordine nega l'accesso ai dettagli. Vorador Thraxas indaga in parallelo.
 
 #### PNG collegati
-- **Brottor Deepdelver** — mentore nano, scomparso *(obiettivo personale)*
+-- **Brottor Deepdelver** — mentore nano, scomparso *(obiettivo personale)*
 - **Vajra Safahr** — capo supremo dell'Ordine; ti convoca per rapporto (Force Grey M1 incoming)
 - **Barnibus Blastwind** — collega Ordine, collabora con la Guardia
 - **Saeth Cromley** — Sergente della Guardia, contatto professionale

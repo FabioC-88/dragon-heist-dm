@@ -43,7 +43,7 @@ Referente: **Mirt il Cambiavalute** · Protagonista frazionale: **Aelar Moonwhis
 
 ## Force Grey
 
-Referente: **Vajra Safahr** · Protagonisti frazionali: **Razak Kendal**, **Thraximundar**
+Referente: **Vajra Safahr** · Protagonisti frazionali: **Razak Kendal**, **Vorador Thraxas**
 
 | # | Titolo | Livello | File Sorgente | File Wiki | Stato |
 |---|--------|---------|------|------------|-------|

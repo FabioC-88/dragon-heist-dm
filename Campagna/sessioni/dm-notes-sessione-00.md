@@ -56,7 +56,7 @@
 
 ---
 
-### THRAXIMUNDAR — Seba
+### VORADOR THRAXAS — Seba
 
 **I. Il messaggio**
 

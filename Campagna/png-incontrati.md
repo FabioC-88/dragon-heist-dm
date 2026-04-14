@@ -10,7 +10,7 @@
 
 # SEZIONE A: PNG CONOSCIUTI PERSONALMENTE
 
-## THRAXIMUNDAR (Warlock, Ordine Magisti — Investigatore di crimini arcani)
+## VORADOR THRAXAS (Warlock, Ordine Magisti — Investigatore di crimini arcani)
 
 **Status sociale**: Ufficiale pubblico dell'Ordine Magisti; outsider (dragonide); investigatore specializzato in crimini magici e minacce planari.
 
@@ -18,7 +18,7 @@
 
 | PNG | Affiliazione | Relazione | Atteggiamento | Contesto | Note |
 |-----|-------------|-----------|---------------|---------|------|
-| **Brottor Deepdelver** | Ordine Magisti | **Mentore-scomparso** | Alleato *(storico)* | Maestro e guida; scomparso su caso classificato | Nano esperto di culti e rituali; ricerca urgente. Obiettivo personale di Thraximundar |
+| **Brottor Deepdelver** | Ordine Magisti | **Mentore-scomparso** | Alleato *(storico)* | Maestro e guida; scomparso su caso classificato | Nano esperto di culti e rituali; ricerca urgente. Obiettivo personale di Vorador Thraxas |
 | **Barnibus Blastwind** | Ordine Magisti | **Collega investigatore** | Amichevole-professionale | Collaborano su crimini magici; hanno scambiato pareri tecnici | Mago dell'Ordine; brusco ma affidabile; collabora spesso con la Guardia |
 | **Saeth Cromley** | Guardia Cittadina | **Contatto forze dell'ordine** | Amichevole | Sergente della Guardia; spesso in coppia con Blastwind su indagini | Veterano, pragmatico; ti rispetta per efficienza anche se il tuo aspetto da dragonide può incutere timore |
 | **Volothamp "Volo" Geddarm** | Indipendente | **Quest-giver/informatore** | Amichevole | Già contattato nel BG; ha proposto un'incarico intrigante | Scrittore eccentrico; cercatore di storie degne di cronaca |
@@ -122,7 +122,7 @@
 |-----|-------------|---------------------|-------------------------|---------------|------|
 | **Laeral Silverhand** | Governo di Waterdeep | Tutti (pubblica) | Open Lord della città; figura distante, immensamente potente | Amichevole *(lontana)* | One of the Seven Sisters; decreti sulla magia noti a pubblici ufficiali |
 | **Vajra Safahr** *(il Bastone Nero)* | Ordine Magisti / Force Grey | Razak (citato da Hlam come "Bastone Nero") | Arcimaga di Waterdeep; Razak ne conosce il titolo ma non l'identità personale | Amichevole *(da incontrare)* | Razak arriverà da lei Cap. 2 (Force Grey M1) |
-| **Umbero Zastro** | Magistri (Toga Nera) | Thraximundar (rapporti procedurali) | Magistro di spicco; processi magici pubblici | Neutrale-formale | Sconosciuto di persona; noto di fama professionale |
+| **Umbero Zastro** | Magistri (Toga Nera) | Vorador Thraxas (rapporti procedurali) | Magistro di spicco; processi magici pubblici | Neutrale-formale | Sconosciuto di persona; noto di fama professionale |
 | **Dagult Neverember** | Ex-governo (ex Open Lord) | Tutti *(voci celebrità)* | Ex Open Lord destituto; ritenuto corrotto; suo figlio è Renaer; suo covo di draghi è la base della ricerca attuale | Ostile *(assente)* | Background di tutta la ricerca del tesoro; personaggio assente ma influente |
 | **Renaer Neverember** | Indipendente | Tutti *(voci cittadino)* | Figlio di Dagult Neverember (ex Open Lord); dicono sia onesto, a differenza del padre | Amichevole *(da incontrare)* | Sarà salvato da Volo in Cap. 1 |
 | **Floon Blagmaar** | Indipendente | Dei circoli porto e taverne | Compagno di Renaer; descritto come "gentile ma ingenuo" | Amichevole *(da incontrare)* | Sarà salvato dalla quest iniziale di Volo |
@@ -146,8 +146,8 @@
 | PNG | Affiliazione | Chi ne sente parlare | Contesto | Atteggiamento | Note |
 |-----|-------------|---------------------|---------|---------------|------|
 | **Davil Starsong** | Zhentarim | Barnabus (rapporti porto), Aelar (rete informatori) | Referente Zhentarim in città; pragmatico, non crudele; ha un codice proprio | Neutrale | Sarà incontrato formalmente Cap. 2 (Zentharim M1) |
-| **Manshoon** | Zhentarim (clone-ala Manshoon) | Thraximundar, Aelar (circoli magici sofistici) | Clone malevolo del mago; opera da Kolat Towers; connesso a esperimenti arcani | Ostile *(ignoto)* | Minaccia di fondo; non ancora visibile |
-| **Skeemo Weirdbottle** | Zhentarim / Manshoon | Barnabus (rapporti porto), Thraximundar (circoli arcani) | Gnomo alchimista; negozio Alchimia Weirdbottle, Trades Ward; sospettato di traffici illeciti | Neutrale → Ostile | Zentharim M2: fornitore di pozioni; M4: traditore da eliminare |
+| **Manshoon** | Zhentarim (clone-ala Manshoon) | Vorador Thraxas, Aelar (circoli magici sofistici) | Clone malevolo del mago; opera da Kolat Towers; connesso a esperimenti arcani | Ostile *(ignoto)* | Minaccia di fondo; non ancora visibile |
+| **Skeemo Weirdbottle** | Zhentarim / Manshoon | Barnabus (rapporti porto), Vorador Thraxas (circoli arcani) | Gnomo alchimista; negozio Alchimia Weirdbottle, Trades Ward; sospettato di traffici illeciti | Neutrale → Ostile | Zentharim M2: fornitore di pozioni; M4: traditore da eliminare |
 
 ### GILDA DI XANATHAR (Criminalità d'ombra)
 
@@ -159,7 +159,7 @@
 
 | PNG | Affiliazione | Chi ne sente parlare | Contesto | Atteggiamento | Note |
 |-----|-------------|---------------------|---------|---------------|------|
-| **Jarlaxle Baenre** *(alias Zardoz Zord)* | Bregan D'aerthe | Aelar (circoli artistici/mercantili), Thraximundar (voci arcane) | Swashbuckler drow; capitano della Sea Maidens Faire; rivalità nota con Xanathar | Neutrale-ostile | Arpisti M4: oggetto dell'indagine |
+| **Jarlaxle Baenre** *(alias Zardoz Zord)* | Bregan D'aerthe | Aelar (circoli artistici/mercantili), Vorador Thraxas (voci arcane) | Swashbuckler drow; capitano della Sea Maidens Faire; rivalità nota con Xanathar | Neutrale-ostile | Arpisti M4: oggetto dell'indagine |
 
 ---
 
@@ -181,7 +181,7 @@
 
 ---
 
-## Ordine Magisti Minori — PNG secondari (Thraximundar li riconosce)
+## Ordine Magisti Minori — PNG secondari (Vorador Thraxas li riconosce)
 
 | PNG | Affiliazione | Contesto | Atteggiamento | Note |
 |-----|-------------|---------|---------------|------|
@@ -240,7 +240,7 @@
 
 | PNG | Affiliazione | Chi ne sente parlare | Contesto | Atteggiamento | Note |
 |-----|-------------|---------------------|---------|---------------|------|
-| **Manshoon** *(Clone Manshoon)* | Zhentarim (ramo ostile) | Eric (odio personale), Thraximundar (circoli magici), Davil (tensione interna Zhentarim) | Mago terribile; opera dalle Kolat Towers; ha rapito Eric per una commessa fallita; nemico di Davil (Zhentarim pragmatico) | Ostile *(Eric)* / Diffidente *(Davil)* | Eric lo conosce da suo danno personale; M4 questione Zentharim potrebbe coinvolgerlo; arco finale campagna |
+| **Manshoon** *(Clone Manshoon)* | Zhentarim (ramo ostile) | Eric (odio personale), Vorador Thraxas (circoli magici), Davil (tensione interna Zhentarim) | Mago terribile; opera dalle Kolat Towers; ha rapito Eric per una commessa fallita; nemico di Davil (Zhentarim pragmatico) | Ostile *(Eric)* / Diffidente *(Davil)* | Eric lo conosce da suo danno personale; M4 questione Zentharim potrebbe coinvolgerlo; arco finale campagna |
 
 ---
 

@@ -11,3 +11,4 @@ src/
 # (non ignorare packs/)
 
 dragon-heist-novel/
+.venv*/

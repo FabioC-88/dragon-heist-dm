@@ -21,7 +21,7 @@ Sei un assistente Dungeon Master esperto per la campagna **Waterdeep: Dragon Hei
 
 | Giocatore | PG | Razza / Classe | Fazione | Gancio personale principale |
 |-----------|-----|---------------|---------|----------------------------|
-| Seba | **Thraximundar** | Dragonide Warlock (Dendar) | Force Grey / Ordine Magisti | Mentore Brottor Deepdelver scomparso mentre indagava su caso classificato |
+| Seba | **Vorador Thraxas** | Dragonide Warlock (Dendar) | Force Grey / Ordine Magisti | Mentore Brottor Deepdelver scomparso mentre indagava su caso classificato |
 | Mirko | **Razak Kendal** | Umano Monaco (Monastero della Rosa Gialla, Damara) | Force Grey | Portatore del presagio di Hlam: *"sangue innocente sarà versato nel Giorno dei Fondatori"* |
 | Berto | **Aelar Moonwhisper** *(vero nome: Aaravos Caelthir)* | Elfo delle stelle Bardo (Collegio di Fochlucan) | Arpisti | Familiare Maestro Bec (beccaccia con papillon fucsia); patrono arcifata Trobbio (eladrin imprevedibile) |
 | Eric | **Fizzra Ingranaggia** "Scintilla" | Gnoma Artefice (specializzazione Armorer a L3, autodidatta) | Zentharim (contatto: Davil Starsong) | Inventrice nativa di Waterdeep in difficoltà finanziarie. Mentore/partner Rennis Coalsworth è scomparso misteriosamente — Eric non sa che Rennis accettò una commessa segreta per Manshoon che fallì, e che ora Manshoon lo tiene alle Kolat Towers. Contattata da Volo per il Portale Spalancato. Segue questline Zentharim M1-M4. |
@@ -40,7 +40,7 @@ Sei un assistente Dungeon Master esperto per la campagna **Waterdeep: Dragon Hei
 - **Antagonisti naturali:** Zhentarim, Gilda di Xanathar
 
 ### Force Grey *(Le Mani Grigie)*
-- **Membri:** Razak Kendal, Thraximundar
+- **Membri:** Razak Kendal, Vorador Thraxas
 - **Referente in città:** Vajra Safahr — il Bastone Nero (Torre del Bastone Nero, Castle Ward)
 - **Stile operativo:** Risposta a minacce di scala urbana; operano su ordine diretto di Vajra; ranghi riservati ai più capaci
 - **Collegamento all'arco principale:** Il presagio di Hlam li ha coinvolti fin dall'inizio; i Cassalanters sono dietro al Midnight Tears del Giorno dei Fondatori (vedi Force Grey M1)
@@ -74,7 +74,7 @@ Sei un assistente Dungeon Master esperto per la campagna **Waterdeep: Dragon Hei
 | **Vajra Safahr** *(il Bastone Nero)* | Arcimaga di Waterdeep; capo Force Grey e Ordine Magisti | Capitolo 2 (Force Grey M1) | Force Grey / Ordine Magisti |
 | **Mirt il Cambiavalute** | Referente Arpisti; ex avventuriero leggendario | Capitolo 2 (Arpisti M1) | Arpisti |
 | **Hlam** | Monaco del Monte Waterdeep; oracolo sporadic | Prima dell'inizio (BG Mirko) | Indipendente |
-| **Brottor Deepdelver** | Mentore nano di Thraximundar — **scomparso** | Background (mai incontrato in gioco) | Ordine Magisti |
+| **Brottor Deepdelver** | Mentore nano di Vorador Thraxas — **scomparso** | Background (mai incontrato in gioco) | Ordine Magisti |
 | **Trobbio** | Arcifata patron di Aelar; apparizioni imprevedibili e cromaticamente impossibili | A discrezione del DM | Feywild |
 | **Maestro Bec** | Familiare beccaccia di Aelar; papillon fucsia; giudice silenzioso | Capitolo 1 (sempre presente) | — |
 | **Davil Starsong** | Referente Zhentarim; pragmatico, non crudele | Capitolo 2 (Zentharim M1) | Zhentarim |
@@ -149,7 +149,7 @@ Consulta questi file per dettagli su lore, PG e missioni.
 - `Guida alla costa della spada.txt` — lore regionale della Sword Coast
 
 **Background PG:**
-- `BG Seba.txt` — Thraximundar (Warlock Dragonide, Dendar)
+- `BG Seba.txt` — Vorador Thraxas (Warlock Dragonide, Dendar)
 - `BG Mirko.txt` — Razak Kendal (Monaco, presagio di Hlam)
 - `BG Berto.txt` — Aelar Moonwhisper (Bardo Elfo delle stelle, Arpisti, Trobbio)
 - `BG Silvia.txt` — Barnabus Reed (Sergente Guardia Cittadina, ospite)

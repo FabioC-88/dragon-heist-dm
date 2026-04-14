@@ -370,11 +370,11 @@ Se il party lo invita alla ricerca di Floon: Accetta. Si arma con pugnale e spad
 
 #### Messaggio Force Grey (Vajra Safahr)
 
-> **[Se Razak e/o Thraximundar si svegliano la mattina dopo:]**
+> **[Se Razak e/o Vorador Thraxas si svegliano la mattina dopo:]**
 >
 > Un messaggero della Guardia Cittadina batte alla porta (qualunque rifugio temporaneo).
 >
-> *"Razak Kendal? Thraximundar? Il Bastone Nero — Vajra Safahr — desideri farvi rapporto. Presentatevi alla Torre del Bastone Nero oggi pomeriggio. Non è una richiesta."*
+> *"Razak Kendal? Vorador Thraxas? Il Bastone Nero — Vajra Safahr — desideri farvi rapporto. Presentatevi alla Torre del Bastone Nero oggi pomeriggio. Non è una richiesta."*
 >
 > (Tono formale, quasi minaccioso. Vajra è impaziente.)
 
@@ -432,7 +432,7 @@ Se il party lo invita alla ricerca di Floon: Accetta. Si arma con pugnale e spad
 
 | Fazione | Status | Note |
 |---------|--------|------|
-| **Force Grey** | Engaged | Vajra convoca Razak/Thraximundar; presagio confermato reale |
+| **Force Grey** | Engaged | Vajra convoca Razak/Vorador Thraxas; presagio confermato reale |
 | **Arpisti** | Engaged | Mirt contatta Aelar; M1 setup imminente |
 | **Zentharim** | Engaged | Davil contatta Eric/Gabri via Yagra; M1 setup imminente |
 | **Xanathar Guild** | Consapevole (ostile) | Brawl al Portale noto in città |
