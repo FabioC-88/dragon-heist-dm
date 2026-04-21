@@ -3,45 +3,38 @@
 ## 🎬 SETUP INIZIALE — Atmosfera & Descrizioni In-Character
 
 ### Apertura Sessione
-> Waterdeep, Estate 1494 DR. I venti costieri portano odore di sale e pesce dai moli del Dock Ward. La città è vivace, traffico mercantile florido, ma sotto la superficie c'è un'atmosfera di tensione — le voci sussurrano di conflitti crescenti tra le bande criminali.
+> Waterdeep, estate del 1494 CV. I venti che spirano dal mare portano con sé l’odore acre del sale e quello selvatico del pesce appena sbarcato ai moli del Quartiere del Porto. La Città degli Splendori pulsa di vita e i commerci fioriscono, eppure, sotto la superficie dorata, si avverte una tensione palpabile: i vicoli sussurrano di scontri sempre più violenti tra le bande criminali che si contendono l'ombra.
 
 ---
 
-## FASE 1: YAWNING PORTAL — Setup & Arrivo
+## FASE 1: PORTALE SPALANCATO — Arrivo e ambientazione
 
 ### Descrizione Ambiente (leggere ai giocatori)
 
-> **Siete tutti al Portale Spalancato. TUTTI voi siete stati invitati qui da Volothamp "Volo" Geddarm. Oggi è il giorno dell'appuntamento.**
+> **Siete riuniti al Portale Spalancato. Volothamp "Volo" Geddarm vi ha convocati qui con un messaggio urgente: oggi è il giorno dell'incontro.**
 >
-> La taverna è leggendaria, storica. Quando entrate: la luce scivola diagonale attraverso finestre polverose affacciate su Undermountain Square. Il soffitto è alto, travi di legno scuro, bandiere appese (simboli di gilde, avventurieri famosi, bottini leggendari). 
+> La fama di questa taverna sconfina nel mito. Mentre varcate la soglia, la luce pomeridiana filtra obliqua dalle finestre incrostate di polvere che si affacciano su Piazza Sottomonte, proiettando lunghe ombre sotto l'alto soffitto sorretto da travi annerite dal tempo. Le pareti sono un compendio di gloria e morte: stendardi sbiaditi, insegne di gilde dimenticate e trofei strappati alle profondità del mondo.
 >
-> Il bancone è di quercia pesante, marchiato da cicatrici di avventure — tagli di spada, bruciature di magia, segni di artigli. Botti di birra scura sono impilati dietro la barra. Odore di birra acida, fumo di taverna, pelle consumata.
+> Il bancone, un massiccio altare di quercia, reca incise le cicatrici di innumerevoli risse: solchi di lame, bruciature di dardi incantati e graffi di artigli. Alle spalle del bancone, pile di botti di birra scura attendono di essere spinate. L'aria è densa, un amalgama di luppolo, tabacco e cuoio logoro.
 >
-> Un umano cicatrizzato — **Durnan**, il proprietario — sta pulendo un boccale di ceramica con uno straccio. Non alza lo sguardo, ma sa che siete lì. Agli occhi ha il fuoco di chi ha visto tutto e non è sorpreso da nulla.
+> Durnan, il proprietario — un uomo il cui volto è una mappa di fatiche e battaglie — è intento a lucidare un boccale con metodica flemma. Non solleva lo sguardo, ma la sua attenzione è vigile: ha gli occhi di chi ha scrutato l'abisso e non concede più spazio allo stupore.
 >
-> Attorno, tavoli di legno grezzo sono occupati da figure eterogenee: mercanti, guerrieri con armature sporche di viaggio, maghi con mantelli ricamati, persino un paio di creature non-umane sedute negli angoli. Conversazioni basse, vino versato, carta da gioco.
->
-> **Il party si ritrova — finalmente si vede in persona dopo messaggi/convocazioni separate. Durnan nota — potrebbe dire: "Volo sta arrivando. Tenetevi pronti."**
-
+> Attorno a voi, il brusio è un coro discordante di mercanti, soldati dalle armature ammaccate e maghi avvolti in mantelli istoriati. **Durnan vi accenna con un cenno del capo: "Volo sta arrivando. Cercate di non farvi trovare impreparati."**
 ---
 
 ## FASE 2: IL BRAWL — Combattimento al Portale
 
-### Trigger Narrativo
+### Innesco narrativo
 
 **[Dopo l'ambientazione iniziale e il party si siede insieme al tavolo, ~3-5 minuti di gioco]**
 
-> Mentre aspettate Volo, il rumore della taverna viene spezzato da un grido:
+> Mentre indugiate nell'attesa, il mormorio della locanda viene squarciato da un grido roco:
 >
-> *"Maiale! Ti piace ammazzare i miei compagni, eh?"*
+> *"Maledetta bastarda! Ti diverte massacrare i miei compagni, eh?"*
 >
-> Un colpo violento. Una sedia che cade. Poi vedete: un uomo con la **testa rasata coperta di tatuaggi a forma di occhio** ha appena colpito con un pugno selvaggio una mezza-orchessa di quasi due metri — è **YAGRA STONEFIST**, serpe alata delle Zhentarim tatuata sul braccio sinistro. Lei incassa il colpo, indietreggia di un passo.
+> Udite il secco schianto di una sedia che si frantuma. Un uomo dalla testa rasata, interamente istoriato da tatuaggi a forma di occhio, scaglia un pugno brutale contro una mezza-orchessa alta quasi due metri: alcuni di voi la riconoscono come **YAGRA STONEFIST**. Sul suo braccio sinistro spicca la serpe alata degli Zhentarim. Lei incassa l'urto, indietreggiando appena, mentre il suo sguardo si accende di una furia fredda.
 >
-> Quattro altri uomini si alzano dai tavoli circostanti, i coltelli già in mano, i movimenti coordinati. Circondano Yagra.
->
-> **[Leader = KRENTZ, umano pelato con tatuaggi occhio. A quest'ora ha già 3 HP: Yagra l'aveva già pestato prima che la scena diventasse visibile al party.]**
->
-> **FAIDA INTERNA.** Xanathar Guild contro Zhentarim per il controllo del porto. Yagra non chiede aiuto — sta cercando di sopravvivere.
+> Quattro figuri si alzano dai tavoli vicini con movimenti fin troppo coordinati. Circondano Yagra come lupi. È l'ennesimo atto della faida che insanguina la città: la Gilda di Xanathar contro gli Zhentarim.
 
 **Posizioni Iniziali (Round 1):**
 
@@ -53,55 +46,51 @@
 
 **Party:** Tavolo centrale, osserva inizialmente. Scegliere il round in cui (o se) intervengono.
 
-### Combat Round-by-Round
+### Svolgimento del combattimento (per round)
 
-**Round 1-2: Faida Zhentarim vs Xanathar (Yagra sola)**
+**Turni 1-2: Faida Zhentarim vs Xanathar (Yagra sola)**
 - Krentz e 4 banditi attaccano Yagra
 - Yagra si difende (potente, ma 1 vs 5 non è male)
 - **Krentz ha già SOLO 3 HP** quando il party decide di intervenire (Yagra l'aveva ridotto prima) — è già in fuga sotto Yagra
 - **4 altri banditi Xanathar** sono pronti ad accumulare Yagra non appena il party si fa vedere
 - Il brawl è rumoroso, disordinato, i clienti fuggono dai tavoli
 
-**Party decision point:** Volete aiutare Yagra? (Non la conoscete, ma il combattimento è in corso.)
-- Se YES: Vi unite nel combattimento immediato
+**Punto di scelta del party:** Volete aiutare Yagra? (Non la conoscete, ma il combattimento è in corso.)
+- Se Sì: Vi unite nel combattimento immediato
 - Se aspettate: Vedete Yagra gravemente ferita (~5 HP rimasti) quando arriva il Troll
 
-**Round 3: IL TROLL EMERGE (+ 3 Stirges)**
+**Round 3: IL TROLL EMERGE (+ 3 stirgi)**
 
-> Una botola esplosiva al retro si spalanca. Dal buio di Undermountain emerge una creatura massiccia — grigia, oleosa, mostruosa.
+> Dalle tenebre insondabili del pozzo di Sottomonte emerge una sagoma titanica: una creatura dalla pelle grigia, oleosa e ripugnante.
 >
-> **UN TROLL. HP attuale: 44** (già drenato dagli stirges in Undermountain).
+> **UN TROLL!**
 >
-> Con lui arrivano **9 stirges** — pipistrelli magici succhiasangue grandi come piccioni: 6 sono gonfi e appiccicati al corpo del troll, barcollanti. **3 volano libere** e puntano verso le prede più vicine.
+> Ad accompagnarlo, nove stirgi — parassiti alati simili a pipistrelli mostruosi — ronzano fameliche. Sei di esse sono già gonfie di sangue, aggrappate al corpo del mostro; le altre tre si staccano in volo, puntando dritte verso di voi.
 >
-> Alto quasi 3 metri, tre braccia, una gamba atrofizzata che trascina. Occhi rossi affamati. *Ruggisce* — i boccali tintinnano, i clienti urlano in fuga.
+> Il troll ruggisce, un suono che fa vibrare i boccali e gela il sangue. **"CARNE!"** tuona la bestia.
 >
-> **"MANGIARE!"**
+> Durnan non esita. Con un movimento fluido afferra lo **spadone** appeso sotto il bancone, scavalca il legno con agilità insospettabile e si scaglia contro l'orrore.
+>
+> *(Gridando verso di voi:)* **"Pensate a quei maledetti succhiasangue! Al troll bado io!"**
 
-**Durnan — COMBATTE ATTIVAMENTE:**
 
-> Durnan afferra lo **spadone** appeso dietro il bancone, **salta il bancone** e si pianta sul pavimento della taverna. Ingaggia il troll in mischia.
->
-> *(Al party:)* **"Occupatevi delle stirges! Qualcuno appiccate fuoco a quella bestia!"**
 
-Durnan combatte il troll per tutta la durata del brawl.
-
-**Troll Tactics:**
+**Tattiche del Troll:**
 - Priorità: bersagli in prima linea (maggior danno)
-- Se bruciato (fuoco applicato): scappa verso Undermountain o muore se bruciato completamente
+- Se bruciato (fuoco applicato): scappa verso Sottomonte o muore se bruciato completamente
 - **Regeneration:** 10 HP/turno se non bruciato
 - **IMPORTANTE:** Il troll non è strategico — attacca la cosa più rumorosa/vicina
 
-**Stirge Tactics (3 libere):**
+**Tattiche delle stirgi (3 libere):**
 - Cercano di attaccarsi a bersagli che non portano armatura pesante
 - Succhiano sangue: 1d4+3 danni per turno finché attaccate (Forza CD 13 per staccarle)
-- Le 6 sul troll sono inoffensive — si staccano e tornano in Undermountain quando il troll muore
+- Le 6 sul troll sono inoffensive — si staccano e tornano in Sottomonte quando il troll muore
 
-**Xanathar Banditi Tactics (Round 3+):**
+**Tattiche dei banditi di Xanathar (Turni 3+):**
 - Krentz cerca di fuggire dalla taverna (vigliaccheria)
 - Lacchè o si uniscono al troll (chiunque vinca), o scappano con Krentz
 
-**Yagra Stonefist Tactics (Round 3+):**
+**Tattiche di Yagra Stonefist (Turni 3+):**
 - Se ancora combatte: se il troll attacca il party, Yagra potrebbe aiutare (tactical)
 - Se il troll attacca i banditi Xanathar: guarda a distanza
 - **Yagra sopravvive sempre** (serve per Zentharim M1)
@@ -117,17 +106,15 @@ Durnan combatte il troll per tutta la durata del brawl.
 - **50 XP per PG** (combattimento + exploration)
 - Party passa da 0 → 50/300 verso L2
 
-### Durnan's Reaction (post-combattimento)
+### Reazione di Durnan (post-combattimento)
 
-Se il party vince (probabile):
+Post combattimento:
 
-> **Durnan ha combattuto il troll fino all'ultimo.** Con il mostro abbattuto, si raddrizza, sposta lo spadone da una spalla all'altra. Guarda i danni. Guarda voi.
+> **Durnan ha sferzato colpi contro il troll fino all'ultimo istante.** Una volta abbattuto il mostro, l'uomo si raddrizza con calma serafica, spostando lo spadone lordo di linfa scura da una spalla all'altra. Ispeziona i danni alla sala con un sospiro rassegnato, poi ferma lo sguardo su di voi.
 >
-> *"Bene combattuto."* (Non è un elogio, è una constatazione.) *"Nel mio posto, non si rompe il mobilio e la si fa franca. Pulite qui."* (Guarda Yagra.) *"Tu — di fuori."*
+> *"Avete combattuto con onore, aspettatemi qui che fado a prendere dellólio per dar fuoco a questa bestia"* sentenzia. Poi, voltandosi verso la mezza-orchessa con un tono che non ammette repliche: *"Tu — fuori di qui. Ora."*
 >
-> (A voi:) *"Voi, però... siete nuovi qui. State attenti per un po'."*
->
-> Durnan sparisce dietro il bancone, raccoglie un secchio. La taverna torna lentamente a una calma tesa.
+> Senza attendere risposta, Durnan sparisce dietro il bancone per recuperare l; olio e un secchio d'acqua. Lentamente, la taverna scivola di nuovo in una calma tesa e carica di sussurri.
 
 ### Atmospheric Notes During Combat
 
@@ -142,19 +129,17 @@ Se il party vince (probabile):
 
 ### Ingresso Drammatico (post-brawl, 2-3 minuti dopo)
 
-> Terminato il caos, la taverna è relativamente calma. Durnan sta nascondendo il troll morto in una stanza (Undermountain si prende le sue carcasse). Yagra è seduta a un tavolo, si fascia il braccio.
+> Quando il fragore della battaglia si spegne e Durnan scaglia gli ultimi resti informi del troll nel pozzo come fossero scarti di macelleria, la porta principale si spalanca con un vigore teatrale.
 >
-> **La porta principale si apre.**
+> Fa il suo ingresso un uomo di mezza età dal portamento eccentrico, coronato da un ampio cappello floscio e avvolto in una sciarpa di seta annodata con cura eccessiva. Borse, taccuini e calamai pendono dalla sua cintura come munizioni erudite. Ha il volto arrossato, ma i suoi occhi brillano di un entusiasmo quasi febbrile mentre fissa il pozzo gorgogliante.
 >
-> Entra un uomo di mezza età con un largo cappello floscio, baffi ben curati e una sciarpa annodata al collo. Borse e taccuini ovunque. Ha il viso rosso e sudato. Una mano gesticola nell'aria, l'altra regge un taccuino pieno di note svolazzanti.
+> *"Durnan! Ma quello era un esemplare di Troll delle Caverne in pieno centro cittadino? Magnifico, assolutamente prodigioso!"* esclama, agitando un taccuino verso il proprietario ancora sporco di sangue. *"La vitalità di questo locale non smette mai di stupirmi... l'incidente finirà dritto in un capitolo sui pericoli della fauna urbana!"*
 >
-> Si sistema il cappello, accarezza i baffi, tira la sciarpa. *"Siete voi! LO SAPEVO!"* grida agli altri. Non è un guerriero, ma quella voce porta lontano. *"Durnan, ho VISTO un troll! Un TROLL! Fantastico, assolutamente fantastico..."*
+> Poi, il suo sguardo si sposta dal pozzo e si posa su di voi; il tono si fa improvvisamente grave, quasi cospiratorio.
 >
-> (Abbassa lo sguardo e vi riconosce tutti.)
->
-> *"Ah, perfetto. Voi. Io sono Volothamp Geddarm — Volo, se siete informali. E ho un PROBLEMA."*
+> *"Ah, eccovi. Siete puntuali. Se non ricordaste il mio nome io sono Volothamp Geddarm — Volo, per gli amici. E devo confessarvi che, nonostante lo spettacolo a cui ho appena assistito, mi trovo in un terribile, intricatissimo GUAIO."*
 
-### Volo's Personality In-Character
+### Personalità di Volo (in-carattere)
 
 **Volo è:**
 - Loquace, entusiasta, drammatico
@@ -163,29 +148,35 @@ Se il party vince (probabile):
 - Conosce gente, ha contatti, ma non è un combattente
 - Usa le mani per parlare, cambia espressione costantemente
 
-### The Floon Situation (Info Dump — Non obbligatorio tutto insieme, lascia che il party faccia domande)
+### La situazione di Floon (Info dump — dosare le informazioni)
 
 **Volo racconta:**
 
-> *"Mio amico Floon Blagmaar — bravo ragazzo, un po' ingenuo, preferibilmente artista ma non ha talento — è SCOMPARSO. Due giorni fa, giù nel Dock Ward. Stava bevendo vino con compagnia strana, e poi... puff. Sparito."*
+> *"Amici miei, vi ringrazio per essere venuti. Il mio caro amico Floon Blagmaar — un giovane d'oro, vedete, un po' ingenuo e con ambizioni artistiche inversamente proporzionali al suo talento — è svanito nel nulla. > Volo vi accoglie con un sorriso che non riesce a nascondere un profondo disagio. Si tormenta i polsini della camicia istoriata, evitando per un istante il vostro sguardo."*
 >
-> *(Pausa drammatica.)*
+> *" Devo ammettere... con non poco imbarazzo... che la mia proverbiale sagacia mi ha abbandonato proprio quando il caro Floon ne aveva più bisogno. Vedete, la musa della scrittura mi ha voltato le spalle ultimamente. Blocco dello scrittore, una piaga terribile! Per scacciare la malinconia, due sere fa ho invitato Floon Blagmaar per qualche giro di bevute e un po' di azzardo al 'Drago Infilzato'."*
 >
-> *"Sospetto sequestro da parte di criminali. Il Dock Ward è pericoloso — Zhentarim, Xanathar, tutti questi nomi brutti. Floon non è violento, non deve denaro a nessuno (che io sappia), quindi perché sequestro?"*
+> *(Si schiarisce la voce, giocherellando con il bordo del suo cappello)*
 >
-> *(Guarda voi come se siate il suo unico salvatore.)*
+> *"Abbiamo bevuto, abbiamo giocato... ma a una certa ora la stanchezza ha avuto la meglio su di me e mi sono congedato, lasciandolo lì. È stata l'ultima volta che l'ho visto. Solo l'indomani, non vedendolo rincasare, ho iniziato a temere il peggio. Ho provato a indagare, ma nel Quartiere del Porto la gente chiude le porte quando vede un uomo della mia levatura fare domande scomode. Mi sento... responsabile. Se solo fossi rimasto un'ora in più!"*
 
-**Info che Volo può rivelare se chiesto:**
+### Dialogo e indagine (reticenza di Volo)
 
-| Domanda | Risposta |
+| Quesito | Risposta di Volo (Stile Reticente/Emotivo) |
 |---------|----------|
-| *"Chi è Floon?"* | Amico, giovane umano, belli capelli, artista fallito, gentile, un po' ingenuo. L'ho incontrato in una taverna tre settimane fa. |
-| *"Dove esattamente era?"* | Dock Ward, fuori da una taverna — non ricordo il nome esatto. Vicino al porto. Sembrava tranquillo, beveva vino, poi la band lo ha circondato. |
-| *"Una banda? Descrivi quel che ricordi."* | Vestiti rari, organizzati, non da ladri di strada. Professionali. Forse una gilda. Floon sembrava sorpreso ma non violenti loro verso di lui — lo hanno preso, basta. |
-| *"Conosci il loro numero, armi, facce?"* | No. Non ho visto bene — mi è stato raccontato. Ho contatti nel Dock Ward però. Conosco una taverna, Skewered Dragon, dove han visto Floon per l'ultima volta. E c'è un negozio, Old Xoblob, il gnomo proprie casa è stato lì. Forse sanno più di me. |
-| *"Quanto offri per Floon vivo?"* | (Estrae malamente una borsa di cuoio.) Subito: **10 dragoni d'oro.** Se lo ritorni vivo e al sicuro: **100 dragoni d'oro.** Ho anche il Deed a Trollskull Alley — la migliore taverna della città, vi sarà vostra dopo. |
+| *"Chi è Floon?"* | "Un giovane di bell'aspetto, sapete? Capelli curati, un po' ingenuo, forse troppo incline a farsi offrire da bere. Un artista nell'anima, anche se non ha ancora prodotto un'opera degna di nota. Un'anima buona, ecco tutto." |
+| *"Cosa è successo dopo che te ne sei andato?"* | "Ah, se solo lo sapessi! Ho sentito dire che è stato visto con un altro conoscente dopo la mia partenza... ma sono solo voci. Il Porto inghiotte i segreti come il mare inghiotte i relitti." |
+| *"Hai indizi su dove cercarlo?"* | "Sono tornato al 'Drago Infilzato', ma il locandiere è un tipo poco raccomandabile. Tuttavia, ho notato dei movimenti sospetti vicino a un negozio chiamato 'Vecchio Xoblob'. Lo gnomo che lo gestisce ha occhi ovunque, anche se spesso vede cose che non esistono." |
+| *"Qual è la ricompensa?"* | "Ecco, prendete questi: **10 dragoni d'oro** per le spese immediate. Se mi riporterete Floon sano e salvo, vi darò altri **100 dragoni**." |
 
-### Volo's Reliability
+---
+
+### [NOTA PER IL DM — Coerenza Narrativa]
+* **Cosa Volo NON sa:** Non sa che Floon ha incontrato Renaer. Non sa che gli Zhentarim li hanno rapiti scambiando Floon per il figlio dell'ex Open Lord. Non sa dello scontro tra Zhentarim e Gilda di Xanathar nel magazzino.
+* **Investigazione:** I giocatori dovranno scoprire questi dettagli parlando con lo gnomo Xoblob (che ha visto il rapimento) o interrogando gli avventori del *Drago Infilzato*.
+* **Motivazione:** Volo è sinceramente preoccupato e si sente in colpa, il che spiega perché offra una ricompensa così alta non ostante non abbai ancora raccimolato tale somma.
+
+### Affidabilità di Volo
 
 **Il party potrebbe domandarsi:** Si può fidarsi di Volo?
 
@@ -193,68 +184,63 @@ Se il party vince (probabile):
 
 - Ha realmente perso l'amico
 - Davvero non sa molto di più
-- Davvero pagherà (è ricco — scrittore/intellettuale benzopinto)
-- Il Deed a Trollskull è legittimo (è effettivamente in suo possesso per diritti ereditari)
+- Davvero pagherà anche se magari non subitò, sta ancora aspettando di raccimolare le entrarte del suno nuovo romanzo
 
 ---
 
-## FASE 4: DOCK WARD INVESTIGATION
+## FASE 4: INDAGINE NEL QUARTIERE DEL PORTO (Dock Ward)
 
 ### Ambiente Generale Dock Ward
 
-> Il Dock Ward è disordinato, umido, pericoloso. Arenarie di legno marcio, pozzanghere d'acqua stagnante, odore di pesce e alghe. Le navi cigolano ai moli. Lavoratori portuali — umani, nani, mezzi-orchi — muovono carichi.
->
-> **Non è una zona di guerra, ma la tensione è palpabile.** Polizia cittadina di rado interviene qui.
->
-> Quando arrivate, il sole sta tramontando. Nebbia sale dal canale, le ombre si allungano.
+> Il Quartiere del Porto è un labirinto di legno marcescente e nebbia salmastra. L'odore delle alghe in decomposizione si mescola a quello del pesce stantio, mentre il gemito delle navi ancorate ai moli funge da costante e inquietante colonna sonora. Nonostante non sia ufficialmente una zona di guerra, la tensione grava sulle spalle dei passanti come un mantello bagnato.
 
 ---
 
 ### [OPZIONALE] SANGUE NELLE STRADE
 
-*Questo encounter avviene en route verso la Skewered Dragon — il party lo incontra mentre attraversa il Dock Ward.*
-
-> Svoltate un angolo e vi trovate davanti a una strada sbarrata. Sul selciato ci sono **sei cadaveri**, apparentemente vittime di uno scontro brutale. Ufficiali della Guardia Cittadina hanno disarmato e arrestato **tre uomini intrisi di sangue** e stanno interrogando i testimoni.
+*Questo incontro avviene mentre vi muovete verso il Drago Infilzato (Skewered Dragon) — il party lo incontra mentre attraversa il Dock Ward.*
+ 
+> Svoltate l'angolo e la realtà del Porto vi colpisce con la forza di un maglio. La strada è sbarrata. Sul selciato giacciono **sei cadaveri**, le vesti imbevute di sangue, testimoni muti di una ferocia inaudita. Gli ufficiali della Guardia Cittadina hanno già disarmato e stretto in ceppi **tre uomini laceri e sporchi di sangue**, mentre torchiano i testimoni oculari.
 >
-> Una delle guardie vi vede. *"Circolare. Non c'è niente da vedere."*
 
-**[NOTA DM — riservata]** I 3 arrestati sono **agenti Zhentarim di Urstul Floxin** (i tatuaggi li tradiscono). Lo scontro è una escalation della guerra tra Xanathar e Zhentarim. **Barnabus conosce Floxin** — può riconoscere la connessione dai tatuaggi (CD 12 Intelligenza / Investigazione, o automaticamente se si avvicina abbastanza; ma la Watch lo blocca). La Watch non lascerà avvicinare il party ai prigionieri.
+> Una guardia vi intercetta con lo sguardo, la mano sull'elsa. *"Circolare, cittadini. Non c'è nulla da vedere qui che non sia già stato deciso dalla legge."*
+
+**Se Barnabus Reed è presente:** la guardia abbassa la mano dall'elsa, fa un leggero cenno di rispetto e si rivolge a lui con tono misurato: *"Sergente Reed — abbiamo fermato questi qui. Se desidera identificarli o interrogarli brevemente, possiamo concederle l'accesso; altrimenti li portiamo in questura secondo protocollo."* (le guardie restano comunque legate alle procedure ufficiali, ma riconoscono la sua autorità locale)
+
+**[NOTA DM — riservata]** I 3 arrestati sono **agenti Zhentarim di Urstul Floxin** (i tatuaggi li tradiscono). Lo scontro è una escalation della guerra tra Xanathar e Zhentarim.
+
+**Allineamento col background di Barnabus:** Barnabus Reed è un Sergente della Guardia Cittadina e il Dock Ward è la sua zona di competenza. È quindi plausibile che le tre guardie che hanno effettuato gli arresti siano membri della sua "Squadra Disgrazia" (Grob, Festo, Vina) o che comunque lo riconoscano e gli concedano rispetto anche se è fuori servizio. Se Barnabus è presente e si qualifica come Sergente, le guardie potrebbero lasciargli un margine di intervento o consultarlo; se invece il party si presenta come estranei, la Guardia potrebbe inizialmente ostacolare l'avvicinamento.
+
 
 ---
 
-### Tappa 1: OLD XOBLOB SHOP
+### Tappa 1: IL NEGOZIO DEL VECCHIO XOBLOB
 
 *Il negozio si trova all'angolo di Zastrow Street e Fillet Lane — sulla stessa strada della Skewered Dragon.*
 
 **Ambiente in-character:**
 
-> L'edificio si distingue da lontano: **facciata viola scuro**, quasi viola-notte. In vetrina pende un **beholder imbalsamato** — occhi di vetro che sembrano seguirvi. All'interno si intuisce caotico disordine: oggetti bizzarri, bestie tassidermizzate, mappe geografiche appese storte.
+> L'edificio emerge dalla nebbia con una facciata di un viola cupo e innaturale. In vetrina, un **beholder imbalsamato** sembra scrutare i passanti con i suoi bulbi oculari di vetro, pronti a carpire segreti. All'interno, l'aria è satura di un fumo color lavanda che confonde i sensi.
 >
-> Dall'interno filtra fumo color lavanda.
-
-**Xoblob in-character:**
-
-> Quando entrate, un **deep gnome** — testa completamente calva, **nove occhi dipinti ad inchiostro sulle guance** — è seduto con le gambe incrociate direttamente **sul bancone**, fumando una pipa dalla cui bocca esce fumo color lavanda. Vi vede con espressione beatamente distaccata.
->
-> *"Benvenuti e salve!"* (Una sua personale traslazione di "Hail and well met!")
+> Un nano delle profondità, con la testa calva decorata da occhi dipinti, vi osserva con un distacco onirico dalla sua posizione sopra il bancone. *"Salute e ben incontrati!"* esclama, mentre una voluta di fumo violaceo si sprigiona dalla sua pipa.
 
 **Xoblob non conosce il nome di Floon.** Riconosce la descrizione:
 
 Se il party ottiene info (CD 13 Carisma — Persuasione o Intimidazione — oppure offre un oggetto viola in dono):
 
-> *"Sì, l'uomo dalla capigliatura che descrivi! Due giorni fa — qui fuori, a Fillet Lane. Lui e un altro, dall'aspetto simile, un nobile dall'aria distinta. Li hanno circondati cinque uomini in armature di cuoio nero. Quello più vicino a me aveva un tatuaggio di serpente alato sul collo."*
+> *"Sì, il giovane dalla chioma fluente! Due giorni or sono, proprio qui davanti, su Fillet Lane. Non era solo: lo accompagnava un uomo dall'aria aristocratica, un nobile distinto. Sono stati circondati da cinque figuri in cuoio nero. Ricordo nitidamente il più vicino a me: portava il marchio di un serpente alato impresso sulla pelle del collo."*
 
-**[NOTA DM — riservata]** Il beholder imbalsamato in vetrina è solo un trofeo eccentrico — nessun potere magico, nessuna connessione a Xanathar. Xoblob è un deep gnome che ha ereditato "ricordi di beholder" da una monospora in Undermountain, e per questo si sente un po' beholder lui stesso. Nient'altro.
+**[NOTA DM — riservata]** Il beholder imbalsamato in vetrina è solo un trofeo eccentrico — nessun potere magico, nessuna connessione a Xanathar. Xoblob è un deep gnome che ha ereditato "ricordi di beholder" da una monospora in Sottomonte, e per questo si sente un po' beholder lui stesso. Nient'altro.
 
 ---
 
-### Tappa 2: SKEWERED DRAGON
+### Tappa 2: IL DRAGO INFILZATO (Skewered Dragon)
 
-*Affacciato su un vicolo tra Net Street e Fillet Lane — non lontano da Old Xoblob Shop.*
+*Affacciato su un vicolo tra Net Street e Fillet Lane — non lontano dal negozio del Vecchio Xoblob.*
 
 **Ambiente in-character:**
 
-> Il Drago Infilzato sembra una rovina. **Due finestre frontali sfondate**, un'ancora di nave conficcata nel tetto. Dentro, un gruppo di avventori dall'aria stanca beve da boccali enormi. Non sembrano contenti di vedere estranei.
+> Il 'Drago Infilzato' sembra una carcassa abbandonata ai flutti. Le finestre sono orbite frantumate e un'ancora di nave è conficcata nel tetto come un dardo nel petto di un leviatano. All'interno, avventori dai volti scavati dalla fatica sorseggiano birra da boccali smisurati, accogliendo il vostro ingresso con un silenzio ostile.
 
 **Gli avventori sono diffidenti ma si possono far parlare:**
 
@@ -262,47 +248,48 @@ Per ottenere info: **CD 13 Carisma (Intimidazione o Persuasione)** oppure **5 gp
 
 Se parlano:
 
-> *"Il tipo che descrivi? Sì, era qui due sere fa — con quello Volo che scrive i libri. Dopo che Volo se n'è andato, al tavolo è arrivato un altro tipo — nobile, capelli biondi, bell'aria. Hanno giocato a Three-Dragon Ante per un po', poi sono andati via a mezzanotte."*
+> *"Il tipo che cercate? Era qui due notti fa, insieme a quel Volo che si diletta con i libri. Dopo che lo scrittore se n'è andato, si è unito a lui un nobile dai capelli dorati. Hanno sfidato la sorte a Three-Dragon Ante per un po', poi sono svaniti nella mezzanotte."*
 >
-> *"Cinque uomini li hanno seguiti fuori. Non li abbiamo più visti. Ma quei cinque frequentano un magazzino su Candle Lane. Cerca il simbolo del serpente sulla porta."*
+> *"Cinque uomini si sono messi sulle loro tracce appena fuori dalla porta. Non li abbiamo più visti. Ma quei cinque sono facce note in un magazzino su Candle Lane. Cercate il serpente sulla porta, se ne avete il fegato."*
 
 ---
 
-### Tappa 3: CANDLE LANE — MAGAZZINO ZHENTARIM
+### Tappa 3: CANDLE LANE — MAGAZZINO DEGLI ZHENTARIM
 
 **Ambiente in-character:**
 
-> Gli edifici su entrambi i lati di Candle Lane sono così alti e ravvicinati che la luce tocca la strada solo a mezzogiorno. Scende la notte: buio totale, quasi nessuna lanterna — quasi tutte le lampade stradali sono state distrutte. Solo **una lanterna** è ancora accesa al fondo del vicolo (continual flame perpetua), e la sua luce vacillante illumina un edificio basso dall'altra parte.
+> Su Candle Lane, gli edifici incombono sulla strada come giganti pronti a schiacciarvi; la luce del sole è un ricordo sbiadito persino a mezzogiorno. Al calare della notte, il vicolo sprofonda in un'oscurità assoluta, interrotta solo dal tremolio di un'unica lanterna magica in fondo alla via.
 >
-> Sopra la maniglia della porta principale è dipinta una **serpe alata nera** — simbolo degli Zhentarim.
+> Sopra la maniglia della porta di un magazzino dall'aria dimessa, una **serpe alata nera** — il marchio degli Zhentarim — sembra attendere in silenzio chiunque sia così folle da bussare.
 
-**Punti di entrata:**
-- Bussare: nessuna risposta — ma chi ha Percezione passiva 16+ sente scurrying
-- Porta/finestra: CD 12 Attrezzi scassinatore (o CD 10 Forza Atletica per sfondare)
+**Punti di ingresso:**
+- Bussare: nessuna risposta — ma chi ha Percezione passiva 16+ sente rumori sospetti
+- Porta/finestra: CD 12 Attrezzi Scassinatore (o CD 10 Forza Atletica per sfondare)
 - Entrata silenziosa: se non fanno rumore, i kenku vengono colti di sorpresa
 
 **Interno (Z1 — Stanza principale):**
 
-> Tavoli e sedie rovesciati a casaccio. **Lungo le pareti, i corpi di una dozzina di uomini** — pugnali e spade rapiere ancora vicini alle mani. Sugli scaffali, casse.
+> Tavoli e sedie sono stati rovesciati in un parossismo di violenza. **Lungo le pareti, i corpi di una dozzina di uomini** giacciono in pose grottesche, le dita ancora contratte vicino alle impugnature di spade e pugnali.
 >
-> (Se i kenku non sono nascosti:)
-> Quattro creature basse con lunghi becchi e piume nere alzano la testa sorprese. Ognuna indossa un mantello con cappuccio e porta una spada corta.
+> Quattro creature di piccola statura, dai becchi affilati e piume nere come la pece, sollevano la testa con uno scatto sorpreso. Indossano mantelli logori e stringono lame corte. Sono i Kenku, pronti a difendere il loro macabro bottino.
 
 **I 4 kenku combattono finché 2 cadono o vengono incapacitati, poi fuggono.**
 
 Sui cadaveri: 5 Zhentarim (tatuaggio serpente) + 7 sicari Xanathar (tatuaggio cerchio Xanathar sulla mano). La strage è avvenuta prima dell'arrivo del party.
 
 **Interrogazione kenku (CD 10 Intimidazione):**
-I kenku parlano mimando voci sentite in passato:
-- *"I saluti di Xanathar."* (voce profonda orchesca)
-- *"Legate il bel ragazzo nel retro!"* / *"Seguite i segni gialli nelle fogne."* (voce nasale sottile)
-- *"Non c'è tempo per saccheggiare. Portatelo al boss."* (voce rauca)
+I Kenku rispondono mimando voci del passato, creando un effetto disturbante:
+- *"I saluti di Xanathar."* (Una voce orchesca profonda e vibrante)
+- *"Legate il bellimbusto nel retro!"* / *"Seguite le tracce gialle nelle fogne."* (Una voce nasale e stridula)
+- *"Niente saccheggio, muoversi! Portatelo dal Capo."* (Una voce rauca, consumata dal fumo)
 
 **Stanza sul retro (Z2):**
 
-> La porta cigola su cardini spezzati. Odore acuto di aceto e aringa in salamoia. La stanza è buia, piena di corde, teli di canapa e legno da imbarallaggio.
+> La porta ruota su cardini divelti, esalando un odore pungente di aceto e salamoia. La stanza è un antro di ombre, ammassi di corde e casse da imballaggio. Poi, dal silenzio, emerge un suono: un respiro affannoso e ritmico proveniente dall'angolo più buio.
 >
-> Poi sentite: un respiro affannoso, ritmico. Viene dall'angolo nord.
+> **Renaer Neverember** emerge dal suo nascondiglio, scuotendosi di dosso la polvere e il puzzo di pesce. È un giovane dai lineamenti nobili, sporco ma non spezzato, con occhi che sprizzano un'intelligenza vigile.
+>
+> *"Vi ringrazio. Per un istante ho temuto che l'oscurità mi avrebbe reclamato,"* dice, recuperando una dignità quasi regale. *"Il mio nome è Renaer Neverember."*
 
 **Renaer Neverember** si nasconde sotto un telone. Si è liberato dalle corde da solo. È sporco di polvere e ha ancora addosso l'odore forte di aringa in salamoia.
 
@@ -326,7 +313,7 @@ Se il party lo invita alla ricerca di Floon: Accetta. Si arma con pugnale e spad
 
 ---
 
-### Arrivo city Watch — Capitano Hyustus Staget
+### Arrivo della Guardia Cittadina — Capitano Hyustus Staget
 
 *Poco dopo che il party trova Renaer, Staget arriva.*
 
@@ -352,11 +339,11 @@ Se il party lo invita alla ricerca di Floon: Accetta. Si arma con pugnale e spad
 
 **[Indirizzato a Mirko/Razak]**
 
-> Mentre investigate e ritornate dalla Warehouse, Razak sente qualcosa. Un brivido. La voce di **Hlam**, il monaco oracolo, sussurra nei tuoi pensieri come se fosse seduto al tuo orecchio:
+> Mentre abbandonate il magazzino per tornare nelle strade, un brivido improvviso risale la schiena di Razak. La voce di **Hlam**, il monaco oracolo, riverbera nei suoi pensieri con una chiarezza spaventosa, come se il vecchio fosse lì, a sussurrargli all'orecchio:
 >
-> *"Sangue versato nel porto. Non è il primo. Non sarà l'ultimo. L'ombra cresce, è già qui. La via del male è marcata."*
+> *"Sangue è stato versato nel porto. Non è il primo tributo, né sarà l'ultimo. L'ombra si allunga, è già tra noi. La via del male è stata tracciata."*
 >
-> La visione svanisce. Ma la certezza rimane: **il presagio è reale.** È collegato a quello che stai investigando. Non è follia.
+> La visione svanisce rapidamente come è apparsa, lasciando dietro di sé una certezza gelida: il presagio non era un parto della follia. Gli eventi che state vivendo sono solo l'inizio di qualcosa di molto più vasto.
 
 ### PNG Messaggi — Setup Fazioni per Sessione 2
 
@@ -364,29 +351,22 @@ Se il party lo invita alla ricerca di Floon: Accetta. Si arma con pugnale e spad
 
 #### Messaggio Aelar (Arpisti — Mirt)
 
-> Un piccione grigio arriva mentre siete al Portale o nel vostro rifugio temporaneo. Alle zampette c'è un scroll sigillato con la palla d'argento arpista.
+> Un piccione dal piumaggio cinereo vi raggiunge al Portale. Legata alla zampa, una pergamena sigillata con il simbolo della palla d'argento degli Arpisti:
 >
-> *"Moonwhisper — Ho sentito di vostre azioni al Portale Spalancato e nel Dock Ward. Bene. Voglio parlarvi. Venite domani sera alla mia villa nel Castle Ward, dopo il tramonto. Spille d'argento vi faranno entrare. — Mirt"*
+> *"Moonwhisper — Le eco delle vostre gesta al Portale e nel Porto sono giunte alle mie orecchie. Bene. Desidero parlarvi. Presentatevi domani al tramonto presso la mia villa nel Quartiere del Castello. Le spille d'argento saranno il vostro lasciapassare. — Mirt"*
 
 #### Messaggio Force Grey (Vajra Safahr)
 
-> **[Se Razak e/o Vorador Thraxas si svegliano la mattina dopo:]**
+> Un messaggero della Guardia batte colpi secchi alla vostra porta. Il tono è burocratico e privo di emozione:
 >
-> Un messaggero della Guardia Cittadina batte alla porta (qualunque rifugio temporaneo).
->
-> *"Razak Kendal? Vorador Thraxas? Il Bastone Nero — Vajra Safahr — desideri farvi rapporto. Presentatevi alla Torre del Bastone Nero oggi pomeriggio. Non è una richiesta."*
->
-> (Tono formale, quasi minaccioso. Vajra è impaziente.)
+> *"Razak Kendal? Vorador Thraxas? Il Bastone Nero in persona, Vajra Safahr, esige un vostro rapporto. Presentatevi alla Torre del Bastone Nero questo pomeriggio. Non è un invito a cui potete declinare."*
 
 #### Messaggio Zentharim (Davil Starsong — via Yagra)
 
 > **[Se Eric e Gabri sono al Portale o nei bassifondi:]**
+> Yagra vi avvicina tra la folla. È guarita dalle ferite del brawl, ma il suo sguardo è più freddo del solito:
 >
-> Yagra vi approccia. È guarita dal brawl, professionalmente fredda.
->
-> *"Davil vuole parlarvi. È interessato. Stasera, la Gaping Maw — locanda nel Dock Ward Sud. Beviamo, parliamo affari. Essere lì al tramonto."*
->
-> (Tono non minaccioso, ma non c'è urgenza—è un invito, ma è una richiesta.)
+> *"Davil Starsong vuole vedervi. È rimasto colpito. Stasera, alla locanda 'Gapping Maw'. Berremo qualcosa e parleremo di affari seri. Non fate tardi."*
 
 ---
 
