@@ -1,128 +1,122 @@
 # DM Notes — Sessione 2 (In-Game)
 
-## Fonte primaria
-- File: Fonti-Originali/Dragon Heist.txt L3051–L3350 (punto di partenza: "TRACKING FLOON")
+## 🎬 SETUP INIZIALE — Atmosfera & Descrizioni In-Character
 
-## 🎬 SETUP INIZIALE — Breve apertura in-character
-> Nota per il DM: questa sessione parte dal sottocapitolo "TRACKING FLOON" (punto di ingresso nelle fogne). Le scene del Portale Spalancato, del brawl e della scoperta del magazzino sono state giocate in Sessione 1 — qui si presuppone che il party abbia già le indicazioni che conducono a Candle Lane.
-
-> In-character (riassunto rapido per i giocatori): Volo vi ha indicato la possibile direzione: Candle Lane. Le tracce portano verso una botola che scende nelle fogne.
----
-
-## Durata target
-- Totale stimato: ~2h30
-
-### Suddivisione raccomandata (allineata a "TRACKING FLOON")
-- 10' — Apertura rapida (conferma indizi già raccolti; leggere breve riassunto per i giocatori)
-- 30' — Navigazione nelle fogne: scelte di percorso e skill challenge
-- 25' — Incontro: Gazer guard (breve combattimento/skill challenge)
-- 35' — Approccio al nascondiglio: kenku, stanza posteriore, recupero di Renaer
-- 25' — Tentativo di salvataggio/reazione della Guardia (Hyustus Staget)
-- 10' — RECAP e aggiornamento checklist
+### Apertura Sessione
+> Siete sopra la botola di Candle Lane. La pioggia ha lasciato un velo d'acqua sul selciato e l'odore di pesce e fumo vi segue mentre sollevate il coperchio di metallo che apre la via verso le fogne. Le voci del porto si affievoliscono: sotto la città, il respiro dei canali è un sussurro freddo.
 
 ---
 
-## FASE 1: NAVIGAZIONE DELLE FOGNE (10'–30') — (inizio vero secondo "TRACKING FLOON")
-- Obiettivo: seguire le tracce attraverso i tunnel, identificare i simboli gialli e raggiungere l'intersezione.
-- Ambiente: buio, acqua maleodorante; i simboli di Xanathar (cerchio con raggi) e le indicazioni in giallo guidano chi conosce il percorso.
-- Check utili:
-  - DC 12 Survival/Investigation per seguire le tracce senza perdere tempo
-  - Percezione passiva alta (16+) o Perception checks per sentire rumori di guardia
-  - Illustrare che senza luce o darkvision il party progredisce a malapena
-- Complicazioni su falli: tracce cancellate → +15' ritardo; incontro casuale con topi maggiori o gas del tunnel (fuori-scena) → danni minori o condizioni
+## FASE 1: LA DISCESA — Ingresso nelle fogne
 
+### Descrizione Ambiente (da leggere ai giocatori)
+> Sollevate il coperchio. Una scala di ferro scende nell'oscurità. L'aria che sale sa di muffa e alghe, e una flebile luce gialla proviene da qualche corridoio più in basso. L'acqua vi arriva alle caviglie: il sentiero è scivoloso e le ombre si allungano come dita.
 
----
-
-## FASE 2: INCONTRO — GAZER GUARD (25')
-- Collocazione: tre-vie dove la via giusta è marcata dal simbolo giallo.
-- Descrizione: una creatura sferica con occhio centrale e 4 eyestalks fluttua vicino al simbolo; aggressiva e sorveglia il corridoio.
-- Opzioni offerte ai giocatori: tentare aggiramento stealth (DC 13 Stealth vs Passive Perception), negoziare (Intimidation/Arcana), o ingaggiare combattimento rapido.
-- Esito: se sconfitta o evitata, permette di procedere; se allertata, richiede 5–10' per ripristinare la sicurezza e possibili rinforzi kenku.
+### Meccaniche e Check suggeriti
+- Per rintracciare la via: DC 15 Intelligence (Investigation) o spendere 5 gp per ottenere una pista dai locali (gente del porto). (Citazione: "A successful DC 15 Intelligence... or 5 gp in bribes allows the characters to trace the kidnappers' path...")
+- Senza darkvision: richiedere fonti di luce; la luce aiuta a ridurre la penalità ai tiri di Investigazione/Percezione.
+- Se il party perde la traccia: +15' ritardo e possibile incontro ambientale.
 
 ---
 
-## FASE 3: APPROCCIO AL NASCONDIGLIO (35')
-- Layout chiave (da `Dragon Heist.txt`): ingresso dalla botola, hub circolare (Q1), passaggi verso nord/sud, porte non bloccate.
-- Sequenza consigliata:
- 1. Tentare ingresso senza rumore (Stealth vs Passive Perception kenku)
- 2. Se sorpresa: breve combattimento con kenku (4) — gestibile senza stat blocks completi
- 3. Trovare Renaer nella stanza sul retro (Z2): descrizione, ruolo, possibilità di armarlo
-- Indizi ottenuti dai kenku: frasi mimiche che indicano "Follow the yellow signs in the sewers" e "Tie up the pretty boy in the back room" — usale testualmente come gancio
+## FASE 2: NAVIGARE I TUNNEL — Segni e pericoli
+
+### Descrizione
+> Camminando, trovate un piccolo simbolo disegnato a gesso giallo: un cerchio con dieci raggi. È il tipo di segnale che solo chi conosce i bassifondi saprebbe leggere.
+
+### Opzioni e risultati
+- Check: DC 12 Survival/Investigation per seguire correttamente i simboli senza perdere tempo.
+- Fallimento: le tracce vengono cancellate o portano a percorsi errati (+ tempo).
+- Complicazioni ambientali: gas, tunnel crollato, branchi di ratti o topi maggiori (danni minori se non gestiti).
 
 ---
 
-## FASE 4: INCONTRO — GAZER GUARD (25')
-- Location: tre-vie dove la via giusta è marcata dal simbolo giallo.
-- Scopo: creare un incontro breve che non richieda stat block completo.
-- Svolgimento consigliato:
-  - Descrivere la creatura flottante e minacciosa.
-  - Offrire opzioni: negoziazione (Intimidazione/Arcana per riconoscere allineamento), fuga, o combattimento rapido.
-  - Risultato narrativo: sconfitta o fuga della creature consente di proseguire (5 minuti); altrimenti richiede deviazione di ~10'.
-- TODO DM: sostituire con stat block minimale se il gruppo chiede un combattimento completo. Attualmente lasciare segnaposto: [ENCOUNTER: GAZER — STAT BLOCK TODO]
+## FASE 3: INCONTRO — GAZER GUARD
+
+### Lettura d'entrata (read-aloud)
+> Dopo un'ora di ricerca, arrivate a un bivio a tre vie. Appeso vicino a un simbolo giallo fluttua una sfera dalle dimensioni di un pompelmo, un occhio centrale che vi fissa. Le sue pupille si stringono: avete attratto l'attenzione di una guardia.
+
+### Tattiche e risoluzione
+- Opzioni: aggiramento stealth (DC 13 Stealth vs Passive Perception), intimidire/negoziare (Intimidation/Arcana), oppure ingaggiare.
+- Meccanica di combattimento suggerita: incontro rapido; se la creatura è sconfitta o evitata, proseguite; se allerta, +5–10' e possibili rinforzi.
+- NOTE DM: il Gazer fa da sentinella; se lasciato vivo può avvisare Grum'shar.
 
 ---
 
-## FASE 4: SCENA EMOTIVA — RENAER & LA GUARDIA (20')
-- Renaer emerge dal telo; roleplay emotivo: ringraziamento e senso di colpa per Floon.
-- Arrivo della Guardia Cittadina (Capitano Hyustus Staget): scena sociale delicata che può limitare l'accesso ufficiale ai tunnel o, se persuaso, offrire appoggio
-- Meccaniche sociali: CD 15 Persuasione per Barnabus per guadagnare una parziale cooperazione; altrimenti la Guardia ostacola ulteriori ricerche.
+## FASE 4: HUB CENTRALE E POSTI DI GUARDIA (Q1–Q4)
+
+### Descrizione scena
+> Il tunnel si apre in un ampio hub circolare con due feritoie per sparatorie. Due passaggi continuano a nord e sud; una porta di pietra è chiusa nella parete ovest. L'acqua qui è profonda un piede e vi impedisce di muovervi silenziosi come vorreste.
+
+### Incontri e NPC
+- Se parlate ad alta voce: i goblin di guardia (Q2a/Q2b) vi individueranno e spareranno frecce (fornisce copertura 3/4).
+- Segreto: porta segreta nel passaggio sud (DC 15 Perception per trovare).
+- Se sorpresi: combattimento con 2 goblin; altrimenti possibilità di eludere.
 
 ---
 
-## FASE 6: SCENA EMOTIVA — RENAER & LA GUARDIA (20')
-- Renaer è sporco ma vivo; è disponibile a unirsi ai PG per cercare Floon.
-- Linee chiave da leggere (per tono): ringraziamento, spiegazione su Stone of Golorr, senso di colpa per Floon.
-- Arrivo della Guardia (Capitano Hyustus Staget): scena sociale delicata.
-  - Se Barnabus è presente: opportunità di roleplay con Staget (CD15 Persuasione per ottenere tolleranza).
-  - Se antagonismo scatena: la Guardia può limitare il party, togliendo aiuti ufficiali.
+## FASE 5: STANZA SUL RETRO — RENAER E INFORMAZIONI
+
+### Lettura (in-character)
+> Dietro un telo rattoppato, un uomo giovane ansima. Si tira su lentamente: è sporco, affamato, ma sveglio. "Vi ringrazio... per quello che avete fatto", dice con voce roca. "Mi chiamo Renaer Neverember. Hanno sbagliato persona. Hanno preso il ragazzo al posto mio...".
+
+### Ruolo e opzioni
+- Renaer si unisce alla ricerca se viene aiutato; può armarsi con un pugnale trovato tra i cadaveri.
+- Info utili: gli Zhentarim cercano la Pietra di Golorr; se interrogato con successo (CD 13 Persuasione) fornisce dettagli narrativi utili.
 
 ---
 
-## RECAP POST-SESSIONE (da completare in-play)
-- Fatti da consolidare (aggiornare durante il recap):
-  - ✓ Floon è stato rapito e portato nelle fogne
-  - ✓ Renaer è stato trovato vivo nel magazzino
-  - ✓ Segni di scontro tra Zhentarim e Xanathar
-  - [NOTE] Marcare come già noti: gli eventi di superficie (Portale Spalancato, brawl, Skewered Dragon) sono materia di Sessione 1 — qui si lavora sulle conseguenze immediate in sotterraneo.
+## FASE 6: APPROFONDIMENTO — NASCONDIGLIO (Q5–Q7)
 
+### Lettura e escalation
+> Nelle stanze successive notate i resti di uno scontro recente: corpi, casse rovesciate e segni di tortura. In una stanza rialzata un orco mez'orme stringe un prigioniero al suolo mentre una creatura tentacolare lo osserva con interesse.
+
+### Nemici chiave
+- Grum'shar (mez'orc) sta interrogando Floon; Nihiloor (mind flayer) osserva.
+- Se intervenite, Grum'shar reagisce per salvare il proprio onore; Nihiloor tenterà di fuggire usando dominate o la pietra-occhio.
+
+### Risultati possibili
+- Salvataggio riuscito: Floon ha 1 HP; if curato → riconoscente (abbraccio). (Citazione: "As a result of Grum'shar's torture, Floon Blagmaar ... has 1 hit point left.")
+- Loot: sul capo orco: spellbook, due pozioni di cura, piccole monete (vedi testo originale per numeri esatti).
+
+---
+
+## RECAP POST-SESSIONE
+
+### Fatti narrativi consolidati
+- ✓ Floon è stato localizzato nel nascondiglio Xanathar (se salvato)
+- ✓ Renaer è stato recuperato e può collaborare
+- ✓ Evidenza di scontro tra Zhentarim e Xanathar nelle fogne
+
+### PNG incontrati / aggiornamenti
+- Volothamp "Volo" Geddarm — informatore e pagatore promesso
+- Old Xoblob — testimone di superficie (aggiornare se ruolo espanso)
+- Renaer Neverember — alleato emergente
 
 ---
 
 ## POST-SESSION CHECKLIST (azioni suggerite)
 - Aggiornare `Campagna/missioni-secondarie.md`: marcare Cap.1 come "In corso" (se non già fatto)
-- Aggiungere/aggiornare voci in `Campagna/png-incontrati.md` per: `Old Xoblob`, `Renaer Neverember`, `Volothamp` (stato dopo sessione)
-- Verificare cambiamenti di livello / XP in `Campagna/party.md`
-- [TODO] Se il party sopravvive allo scontro con il Gazer e chiede ricompensa, segnare pagamento in log finanziario
+- Aggiornare `Campagna/png-incontrati.md` con `Renaer Neverember`, `Floon Blagmaar` (se salvato)
+- Aggiornare `Campagna/party.md` per XP/loot
+- [TODO DM] Registrare eventi riservati e segnare decisioni da rivedere
 
 ---
 
 ## NOTE PER IL DM — TODO e segnaposti
-- [TODO] Inserire stat blocks opzionali se il gruppo chiede combattimenti completi.
-- [TODO] Confermare i range di linee esatti da `Dragon Heist.txt` utilizzati per citazioni dirette.
-- [TODO] Revisare strumenti/oggetti donati a Xoblob (oggetti viola) se forniti dal party.
-- [NOTE] Parti riservate al DM indicare come `[NOTA DM — riservata]` nel documento finale.
+- [TODO] Inserire stat blocks (Grum'shar, Nihiloor, kenku) o riferimenti ad appendix B se si desidera combattimento completo
+- [TODO] Verificare valori di loot e pozioni secondo `Dragon Heist.txt` (Q7)
+- [NOTA DM — riservata] Parti segrete: legami con Stone of Golorr e conseguenze politiche
 
 ---
 
-## Citazioni chiave da "TRACKING FLOON"
-(Fonte primaria: `Fonti-Originali/Dragon Heist.txt` — estratto usato per questa sessione)
-
-- "A successful DC 15 Intelligence (Investigation) check or 5 gp in bribes allows the characters to trace the kidnappers' path through back alleys to a circular metal cover inset in the pavement. The cover is easily lifted, revealing a ladder down into the sewers." — utile come Hook meccanico per far partire la discesa.
-
-- "The sewers have no natural light. Characters without darkvision need light sources to see." — ricordare ai giocatori le necessità di luce.
-
-- "A tiny symbol drawn on the wall in yellow chalk: a palm-sized circle with ten equidistant spokes radiating out from its circumference." — descrizione del marker che guida nel tunnel.
-
-- (Gazer) "After an hour of following signs through the tunnels, you come to a three-way intersection... floating near the symbol is a spherical, grapefruit-sized creature with a bulging central eye and four stumpy eyestalks. It bares its teeth at you." — incipit per l'incontro di guardia.
-
-- "Ladder. Characters who climb the ladder and push open the metal cover find themselves in the cellar of the Spouting Fish, a tavern in the Dock Ward." — cross-reference utile per transizioni surface↔sewer.
-
-- (Hideout) "The boss of this hideout is a half-orc named Grum'shar... When the characters arrive, Grum'shar is interrogating Floon Blagmaar in area Q7... The tentacled creature is Nihiloor..." — usalo per colorare la scena finale e i possibili NPC presenti.
-
-- (Roleplaying Floon) "As a result of Grum'shar's torture, Floon Blagmaar ... has 1 hit point left. If he is healed by the characters, he is eternally grateful and shows his affection by hugging them." — indicazione emotiva da usare durante il salvataggio.
-
-NOTE DM: tutti i passaggi testuali sopra provengono dalla sezione "TRACKING FLOON" di `Fonti-Originali/Dragon Heist.txt`. Usali come citazioni dirette o come riferimento nello script della sessione; mantieni le parti riservate a DM in `[NOTA DM — riservata]`.
+## Citazioni chiave (reference)
+- "A successful DC 15 Intelligence (Investigation) check or 5 gp in bribes allows the characters to trace the kidnappers' path..."
+- "The sewers have no natural light. Characters without darkvision need light sources to see."
+- "A tiny symbol drawn on the wall in yellow chalk: a palm-sized circle with ten equidistant spokes..."
+- "After an hour of following signs through the tunnels, you come to a three-way intersection... floating near the symbol is a spherical..."
+- "Ladder. Characters who climb the ladder and push open the metal cover find themselves in the cellar of the Spouting Fish..."
+- "The boss of this hideout is a half-orc named Grum'shar... When the characters arrive, Grum'shar is interrogating Floon Blagmaar in area Q7..."
 
 ---
 
