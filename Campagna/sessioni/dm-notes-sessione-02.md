@@ -31,17 +31,6 @@
   - Illustrare che senza luce o darkvision il party progredisce a malapena
 - Complicazioni su falli: tracce cancellate → +15' ritardo; incontro casuale con topi maggiori o gas del tunnel (fuori-scena) → danni minori o condizioni
 
----
-
-## FASE 2: INDAGINE AL SKEWERED DRAGON (30')
-- Goal: recuperare informazioni su direzione rapimento e possibili ingressi (Candle Lane).
-- Meccaniche suggerite:
-  - Per ottenere info: CD 13 Persuasione/Intimidazione oppure 5 gp per corrompere testimoni.
-  - Ricerca fisica: CD 15 Investigazione per trovare una traccia (impronte/slime, direzione).
-- Possibili risultati e reazioni NPC:
-  - Se ottengono prove, un avventore indica "Candle Lane — porta con serpente".
-  - Se falliscono, trovano solo voci contraddittorie e perdono tempo (innesco complicazione).
-- Nota DM: mantenere Yagra e Durnan coerenti con sessione 1 (atteggiamenti già registrati).
 
 ---
 
@@ -113,6 +102,27 @@
 - [TODO] Confermare i range di linee esatti da `Dragon Heist.txt` utilizzati per citazioni dirette.
 - [TODO] Revisare strumenti/oggetti donati a Xoblob (oggetti viola) se forniti dal party.
 - [NOTE] Parti riservate al DM indicare come `[NOTA DM — riservata]` nel documento finale.
+
+---
+
+## Citazioni chiave da "TRACKING FLOON"
+(Fonte primaria: `Fonti-Originali/Dragon Heist.txt` — estratto usato per questa sessione)
+
+- "A successful DC 15 Intelligence (Investigation) check or 5 gp in bribes allows the characters to trace the kidnappers' path through back alleys to a circular metal cover inset in the pavement. The cover is easily lifted, revealing a ladder down into the sewers." — utile come Hook meccanico per far partire la discesa.
+
+- "The sewers have no natural light. Characters without darkvision need light sources to see." — ricordare ai giocatori le necessità di luce.
+
+- "A tiny symbol drawn on the wall in yellow chalk: a palm-sized circle with ten equidistant spokes radiating out from its circumference." — descrizione del marker che guida nel tunnel.
+
+- (Gazer) "After an hour of following signs through the tunnels, you come to a three-way intersection... floating near the symbol is a spherical, grapefruit-sized creature with a bulging central eye and four stumpy eyestalks. It bares its teeth at you." — incipit per l'incontro di guardia.
+
+- "Ladder. Characters who climb the ladder and push open the metal cover find themselves in the cellar of the Spouting Fish, a tavern in the Dock Ward." — cross-reference utile per transizioni surface↔sewer.
+
+- (Hideout) "The boss of this hideout is a half-orc named Grum'shar... When the characters arrive, Grum'shar is interrogating Floon Blagmaar in area Q7... The tentacled creature is Nihiloor..." — usalo per colorare la scena finale e i possibili NPC presenti.
+
+- (Roleplaying Floon) "As a result of Grum'shar's torture, Floon Blagmaar ... has 1 hit point left. If he is healed by the characters, he is eternally grateful and shows his affection by hugging them." — indicazione emotiva da usare durante il salvataggio.
+
+NOTE DM: tutti i passaggi testuali sopra provengono dalla sezione "TRACKING FLOON" di `Fonti-Originali/Dragon Heist.txt`. Usali come citazioni dirette o come riferimento nello script della sessione; mantieni le parti riservate a DM in `[NOTA DM — riservata]`.
 
 ---
 
