@@ -51,3 +51,4 @@ Crea una scheda PNG completa in italiano. Se non hai le informazioni richieste, 
 - **Statistiche di riferimento:** *[usa le stat di: Guardia / Bandito / Nobile / Artigiano / Ladro / ... dal Monster Manual — non reinventare dal nulla]*
 - **CD interazione sociale:** Persuasione CD X / Inganno CD X / Intimidire CD X *(a seconda della personalità)*
 - **Informazioni ottenibili:** cosa sa il PNG e come le rivela (liberamente / con una prova / solo in extremis)
+

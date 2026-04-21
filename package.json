@@ -5,7 +5,9 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "build": "node build-foundry.mjs"
+    "build": "node build-foundry.mjs",
+    "ai-validate": "node scripts/validate-prompts.mjs",
+    "ai-load": "node scripts/load-prompts.mjs"
   },
   "dependencies": {
     "marked": "^14.0.0"

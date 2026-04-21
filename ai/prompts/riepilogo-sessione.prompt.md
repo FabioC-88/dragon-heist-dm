@@ -76,3 +76,4 @@ Lv X → Lv Y *(se c'è stato avanzamento)*
 ### Aggiornamenti suggeriti a `Campagna/missioni-secondarie.md`
 
 - **[Missione]:** cambia stato da Pianificata a In corso / da In corso a Completata
+

@@ -1,3 +1,6 @@
+
+<!-- Copia di `AGENTS.md` per il catalogo AI: usare `ai/agents/AGENTS.md` come fonte canonica per tool automatizzati -->
+
 # Assistente DM — Waterdeep: Dragon Heist
 
 ## Ruolo
@@ -104,90 +107,4 @@ Le missioni sono salvate come file `.txt` nella workspace. Consulta il file per 
 | 3 | 4 | `Arpisti_Missione3_benvenuti_in_famiglia.txt` | Banda di doppelganger; valutare se sono alleabili; contatto Mattrim "Tre Corde" Mereg |
 | 4 | 4 | `Arpisti_Missione4_velo_alzato.txt` | Infiltrazione sulla nave Eyecatcher durante il Giorno delle Meraviglie; prove contro Jarlaxle/Zardoz Zord |
 
-### Force Grey — referente: Vajra Safahr · protagonisti frazionali: Razak, Thraximundar
 
-| # | Lv | File | Sintesi |
-|---|----|------|---------|
-| 1 | 2 | `ForceGrey_Missione1_IlCaricoDelFondatore.txt` | Presagio di Hlam; veleno Midnight Tears al Giorno dei Fondatori; lista carico Cassalanters |
-| 2 | 3 | `ForceGrey_Missione2_NonETuttoOroQuelCheLuccica.txt` | Giovane drago di bronzo nel porto navale; relitto Neverluster; soluzione sociale, non combattimento |
-| 3 | 4 | `ForceGrey_Missione3_CriminiDiPensiero.txt` | Meloon Wardragon infiltrato da un Divoratore di Intelletto; sorveglianza 10 giorni in-game |
-| 4 | 5 | `ForceGrey_Missione4_CoseTerribilidaSprecare.txt` | Eliminare Nihiloor nel covo di Xanathar; boss finale del ciclo Force Grey |
-
-### Zentharim — referente: Davil Starsong
-
-| # | Lv | File | Sintesi |
-|---|----|------|---------|
-| 1 | 2 | `Zentharim_Missione1_un_brutto_momento.txt` | Assassino drow; tre marinai elfi decapitati nel Dock Ward; proteggere Heldar |
-| 2 | 3 | `Zentharim_Missione2_tieni_il_resto.txt` | Consegna pozioni velenate; alchimista Skeemo Weirdbottle; ladra in mantello viola; Manshoon nel background |
-| 3 | 4 | `Zentharim_Missione3_corri_dasher.txt` | Mezzuomo nobile Dasher Snobeedle scomparso; 500 dragoni di ricompensa; segreto del morso |
-| 4 | 5 | `Zentharim_Missione4_sangue_del_patto.txt` | Eliminare il traditore Skeemo Weirdbottle; connessione Manshoon / Kolat Towers |
-
----
-
-## Waterdeep — Riferimento Rapido Quartieri
-
-| Quartiere | Carattere | Luoghi chiave per la campagna |
-|-----------|-----------|-------------------------------|
-| **Castle Ward** | Governo, militare, centrum | Torre del Bastone Nero, Palazzo di Waterdeep, Villa di Mirt, Statua del Cacciatore di Dei |
-| **Trades Ward** | Shopping, gilde, commercio h24 | Libreria Curiosity & Satisfaction (Arpisti M2), Alchimia Weirdbottle |
-| **Dock Ward** | Porto, magazzini, pericoloso | Moli del Salgemma, Muleskull Tavern (Ship St.), Portale Sbadigliante |
-| **Sea Ward** | Ricco, templi, nobiltà | Villa Cassalanter, Campo del Trionfo, Casa delle Meraviglie (Mystra) |
-| **North Ward** | Residenziale, pacifico | Residenze nobili, Cliffwatch |
-| **Southern Ward** | Multiculturale, lavoratori | Vicolo dei Calderai, Corte Danzante, Famiglia Snobeedle (Zentharim M3) |
-| **City of the Dead** | Cimitero-parco pubblico | Fuori e dentro le mura; mausolei |
-| **Trollskull Alley** *(North Ward)* | Base del party | Villa Trollskull (taverna del party), Quartiere del cap. 2 |
-
----
-
-## File di Riferimento
-
-Consulta questi file per dettagli su lore, PG e missioni.
-
-**Lore ufficiale:**
-- `Dragon Heist.txt` — avventura ufficiale (EN): struttura capitoli, PNG canonici, meccaniche
-- `Volo guide to waterdeep.txt` — guida della città: quartieri, locande, istituzioni
-- `Guida alla costa della spada.txt` — lore regionale della Sword Coast
-
-**Background PG:**
-- `BG Seba.txt` — Vorador Thraxas (Warlock Dragonide, Dendar)
-- `BG Mirko.txt` — Razak Kendal (Monaco, presagio di Hlam)
-- `BG Berto.txt` — Aelar Moonwhisper (Bardo Elfo delle stelle, Arpisti, Trobbio)
-- `BG Silvia.txt` — Barnabus Reed (Sergente Guardia Cittadina, ospite)
-- `BG Eric.txt` — Gnoma Artefice (specializzazione Armorer, connessione Zentharim)
-- `BG Gabri.txt` — Paladino Umano (arco verso Oathbreaker; Aldric/Asmodeo come PNG chiave)
-
-**Missioni scritte:**
-- `Arpisti_Missione1_UnCavalloDonato.txt` · `Arpisti_Missione2_Disinfestazione.txt` · `Arpisti_Missione3_benvenuti_in_famiglia.txt` · `Arpisti_Missione4_velo_alzato.txt`
-- `ForceGrey_Missione1_IlCaricoDelFondatore.txt` · `ForceGrey_Missione2_NonETuttoOroQuelCheLuccica.txt` · `ForceGrey_Missione3_CriminiDiPensiero.txt` · `ForceGrey_Missione4_CoseTerribilidaSprecare.txt`
-- `Zentharim_Missione1_un_brutto_momento.txt` · `Zentharim_Missione2_tieni_il_resto.txt` · `Zentharim_Missione3_corri_dasher.txt` · `Zentharim_Missione4_sangue_del_patto.txt`
-
-**Tracking campagna (aggiorna dopo ogni sessione):**
-- `Campagna/party.md` — stato del party, PG, livelli
-- `Campagna/fazioni.md` — posizione fazioni verso il party
-- `Campagna/png-incontrati.md` — registro PNG incontrati
-- `Campagna/missioni-secondarie.md` — stato missioni (Pianificata / In corso / Completata)
-- `Campagna/sessioni/` — note sessione per sessione (`sessione-01.md`, `sessione-02.md`, …)
-
----
-
-## Workflow Foundry VTT — Regole operative
-
-### Dopo ogni modifica ai file della campagna
-
-Al termine di ogni modifica a file `.md` nella workspace (missioni, note campagna, background PG, lore, schema rapporti, ecc.), **chiedi sempre al DM**:
-
-> *"Vuoi fare subito la release su Foundry, o accumulo altre modifiche prima?"*
-
-Non avviare mai il processo di build/release in autonomia senza questa conferma.
-
-### Quando il DM conferma la release — esegui in ordine
-
-1. **Build** — `npm run build` (bumpa automaticamente `module.json` version)
-2. **Aggiorna `download` URL** in `module.json` con la nuova versione (es. `v1.0.5` → `v1.0.6`)
-3. **Commit** — includi `module.json`, `packs/`, e tutti i file `.md` modificati
-4. **Retag** — sposta il tag sulla versione corrente al commit aggiornato (vedi §9 di `Master-Prompt-DM.md`)
-5. **Zip** — `module.json` + `packs/` → `dragon-heist-dm.zip`
-6. **GitHub Release** — `gh release create vX.Y.Z dragon-heist-dm.zip module.json`
-7. **Pulizia** — rimuovi lo zip locale
-
-Per i dettagli completi dei comandi: consulta `Master-Prompt-DM.md` §9.
