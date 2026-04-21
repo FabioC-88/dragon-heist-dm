@@ -4,31 +4,32 @@
 - File: Fonti-Originali/Dragon Heist.txt L3051–L3350 (punto di partenza: "TRACKING FLOON")
 
 ## 🎬 SETUP INIZIALE — Breve apertura in-character
-> Il gruppo ha seguito le tracce lasciate dopo il brawl al Portale Spalancato: Volo è ancora agitato per la sparizione di Floon. Il Dock Ward è umido, pieno di odori e sussurri; il party ha informazioni che puntano a Candle Lane e alla porta con il simbolo del serpente.
+> Nota per il DM: questa sessione parte dal sottocapitolo "TRACKING FLOON" (punto di ingresso nelle fogne). Le scene del Portale Spalancato, del brawl e della scoperta del magazzino sono state giocate in Sessione 1 — qui si presuppone che il party abbia già le indicazioni che conducono a Candle Lane.
 
+> In-character (riassunto rapido per i giocatori): Volo vi ha indicato la possibile direzione: Candle Lane. Le tracce portano verso una botola che scende nelle fogne.
 ---
 
 ## Durata target
 - Totale stimato: ~2h30
 
-### Suddivisione raccomandata
-- 10' — Apertura e briefing (Volo, Xoblob, riassunto indizi)
-- 30' — Indagine in superficie: Skewered Dragon, testimoni, ricerca tracce
-- 30' — Viaggio e scelta dei percorsi verso le fogne (skill checks, social)
-- 25' — Incontro Gazer Guard (breve combattimento/skill challenge)
-- 35' — Approccio al nascondiglio Zhentarim: esplorazione, kenku, stanza del retro
-- 20' — Scena di salvataggio/recupero (Renaer/Floon) o fuga/ritiro
-- 10' — RECAP e assegnazione compiti post-sessione
+### Suddivisione raccomandata (allineata a "TRACKING FLOON")
+- 10' — Apertura rapida (conferma indizi già raccolti; leggere breve riassunto per i giocatori)
+- 30' — Navigazione nelle fogne: scelte di percorso e skill challenge
+- 25' — Incontro: Gazer guard (breve combattimento/skill challenge)
+- 35' — Approccio al nascondiglio: kenku, stanza posteriore, recupero di Renaer
+- 25' — Tentativo di salvataggio/reazione della Guardia (Hyustus Staget)
+- 10' — RECAP e aggiornamento checklist
 
 ---
 
-## FASE 1: BRIEF E SCELTE INIZIALI (Apertura — 10')
-- Obiettivo: mettere in chiaro cosa il party sa e le opzioni investigative.
-- Lettura rapida a voce di Volo e annotazioni chiave:
-  - Volo: ricompensa promessa, informazioni vaghe su Xoblob
-  - Xoblob: descrizione aggressori, marchio del serpente (Zhentarim)
-- Spunti sociali: offrire prova (CD 13 Persuasione/Intimidazione) per ottenere dettagli aggiuntivi.
-- TODO DM: confermare se il party possiede elementi di riconoscimento (oggetti viola, testimoni a favore).
+## FASE 1: NAVIGAZIONE DELLE FOGNE (10'–30') — (inizio vero secondo "TRACKING FLOON")
+- Obiettivo: seguire le tracce attraverso i tunnel, identificare i simboli gialli e raggiungere l'intersezione.
+- Ambiente: buio, acqua maleodorante; i simboli di Xanathar (cerchio con raggi) e le indicazioni in giallo guidano chi conosce il percorso.
+- Check utili:
+  - DC 12 Survival/Investigation per seguire le tracce senza perdere tempo
+  - Percezione passiva alta (16+) o Perception checks per sentire rumori di guardia
+  - Illustrare che senza luce o darkvision il party progredisce a malapena
+- Complicazioni su falli: tracce cancellate → +15' ritardo; incontro casuale con topi maggiori o gas del tunnel (fuori-scena) → danni minori o condizioni
 
 ---
 
@@ -44,15 +45,21 @@
 
 ---
 
-## FASE 3: NAVIGARE LE FOGNE — Skill challenges (30')
-- Ambiente: buio, acqua maleodorante, simboli gialli di Xanathar come guide.
-- Check utili:
-  - Percezione passiva alta rivela rumori (percezione passiva 16+ rileva kenku)
-  - DC 10-15 Survival/Investigation per seguire tracce
-  - Illuminazione: senza darkvision richiedere torce/lanterne
-- Complicazioni possibili:
-  - Tracce cancellate → ritardo di 15-20'
-  - Collasso di un tunnel (Forza/Acrobatics CD12 per evitare danni)
+## FASE 2: INCONTRO — GAZER GUARD (25')
+- Collocazione: tre-vie dove la via giusta è marcata dal simbolo giallo.
+- Descrizione: una creatura sferica con occhio centrale e 4 eyestalks fluttua vicino al simbolo; aggressiva e sorveglia il corridoio.
+- Opzioni offerte ai giocatori: tentare aggiramento stealth (DC 13 Stealth vs Passive Perception), negoziare (Intimidation/Arcana), o ingaggiare combattimento rapido.
+- Esito: se sconfitta o evitata, permette di procedere; se allertata, richiede 5–10' per ripristinare la sicurezza e possibili rinforzi kenku.
+
+---
+
+## FASE 3: APPROCCIO AL NASCONDIGLIO (35')
+- Layout chiave (da `Dragon Heist.txt`): ingresso dalla botola, hub circolare (Q1), passaggi verso nord/sud, porte non bloccate.
+- Sequenza consigliata:
+ 1. Tentare ingresso senza rumore (Stealth vs Passive Perception kenku)
+ 2. Se sorpresa: breve combattimento con kenku (4) — gestibile senza stat blocks completi
+ 3. Trovare Renaer nella stanza sul retro (Z2): descrizione, ruolo, possibilità di armarlo
+- Indizi ottenuti dai kenku: frasi mimiche che indicano "Follow the yellow signs in the sewers" e "Tie up the pretty boy in the back room" — usale testualmente come gancio
 
 ---
 
@@ -67,19 +74,10 @@
 
 ---
 
-## FASE 5: NASCONDIGLIO XANATHAR / ZHENTARIM — Approccio ed esplorazione (35')
-- Layout chiave (da `Dragon Heist.txt`):
-  - Ingresso: copertura, lanterna magica su Candle Lane
-  - Tre punti di accesso: porta frontale, portone magazzino, finestra verniciata
-  - Sala principale con kenku, stanza sul retro con Renaer
-- Sequenza raccomandata:
-  1. Sopralluogo silenzioso (Stealth vs Passive Perception dei nemici). Se successo: sorpresa.
-  2. Gestire i kenku (opzione non letale: CD10 Intimidazione per ottenere informazioni)
-  3. Trovare Renaer sotto il telo nella stanza posteriore
-- Info di scena:
-  - I kenku, se interrogati (CD10 Intimidazione), ripetono frasi che indicano "Follow the yellow signs in the sewers" e "Tie up the pretty boy in the back room" — usare come indizi.
-  - Se i kenku fuggono, possono correre a cercare rinforzi (potenziale escalation).
-- Note tattiche DM: i Zhentarim morti e i segni di lotta suggeriscono uno scontro tra fazioni — usare come indizio di rete criminale in gioco.
+## FASE 4: SCENA EMOTIVA — RENAER & LA GUARDIA (20')
+- Renaer emerge dal telo; roleplay emotivo: ringraziamento e senso di colpa per Floon.
+- Arrivo della Guardia Cittadina (Capitano Hyustus Staget): scena sociale delicata che può limitare l'accesso ufficiale ai tunnel o, se persuaso, offrire appoggio
+- Meccaniche sociali: CD 15 Persuasione per Barnabus per guadagnare una parziale cooperazione; altrimenti la Guardia ostacola ulteriori ricerche.
 
 ---
 
@@ -97,11 +95,8 @@
   - ✓ Floon è stato rapito e portato nelle fogne
   - ✓ Renaer è stato trovato vivo nel magazzino
   - ✓ Segni di scontro tra Zhentarim e Xanathar
-- PNG incontrati da aggiornare:
-  - Volothamp "Volo" Geddarm — confermare ricompensa promessa
-  - Old Xoblob — testimone (aggiungere dettaglio su chi lo ha avvicinato)
-  - Renaer Neverember — alleato emergente
-  - Kenku — fonti di voci
+  - [NOTE] Marcare come già noti: gli eventi di superficie (Portale Spalancato, brawl, Skewered Dragon) sono materia di Sessione 1 — qui si lavora sulle conseguenze immediate in sotterraneo.
+
 
 ---
 
