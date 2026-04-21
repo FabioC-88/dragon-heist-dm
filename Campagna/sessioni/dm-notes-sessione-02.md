@@ -83,7 +83,7 @@
 > Paglia e manette al muro; stanze per i membri della banda.
 
 ### Q11 — Back Door / Portal Pillar
-> Pilastro con simbolo circolare (10 raggi) e incavo a forma d'occhio. Inserendo la pietra-occhio di Nihiloor si apre un portale verso Xanathar's lair (area X22). Porta una sola direzione; si chiude 1 minuto dopo la rimozione.
+> Pilastro con simbolo circolare (10 raggi) e incavo a forma d'occhio. Inserendo la pietra-occhio si apre un portale magico in una sola direzione; il portale si chiude 1 minuto dopo la rimozione. (Lasciare come gancio narrativo, senza dettagli aggiuntivi.)
 
 ---
 
@@ -99,7 +99,7 @@
 > Forgeria gestita da Embric e Avi (genasi). Vendono armi e armature; caratteristiche speciali per i proprietari.
 
 ### T4 — Corellon's Crown
-> Erboristeria con una serra al terzo piano; Fala Lefaliir fornisce pozioni e informazioni (vista sull'evento del fireball).
+> Erboristeria con una serra al terzo piano; Fala Lefaliir fornisce pozioni e informazioni utili alla ricerca e al contesto cittadino.
 
 ### T5 — Tiger's Eye
 > Agenzia investigativa di Vincent Trench (rakshasa). Può offrire indagini e contatti utili.
@@ -136,8 +136,8 @@
 
 ## NOTE PER IL DM — TODO e segnaposti
 - [TODO] Inserire stat blocks (Grum'shar, Nihiloor, kenku) o riferimenti ad appendix B se si desidera combattimento completo
-- [TODO] Verificare valori di loot e pozioni secondo `Dragon Heist.txt` (Q7)
-- [NOTA DM — riservata] Parti segrete: legami con Stone of Golorr e conseguenze politiche
+- [TODO] Verificare valori di loot e pozioni secondo `Dragon Heist.md` (Q7)
+- [NOTA DM — riservata] Parti segrete: mantenere riservate le informazioni sensibili reperite durante l'investigazione
 
 ---
 
@@ -152,5 +152,5 @@
 ---
 
 ## Riferimenti e fonti
-- `Fonti-Originali/Dragon Heist.txt` — sezione "TRACKING FLOON" (cap.1)
+- `Fonti-Originali/Dragon Heist.md` — sezione "TRACKING FLOON" (cap.1)
 - Vedi anche: `Campagna/party.md`, `Campagna/png-incontrati.md`, `Campagna/rapporti.md`, `Campagna/missioni-secondarie.md`
