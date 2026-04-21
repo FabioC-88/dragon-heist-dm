@@ -43,41 +43,72 @@
 
 ---
 
-## FASE 4: HUB CENTRALE E POSTI DI GUARDIA (Q1–Q4)
+## Dettaglio aree: Xanathar Guild Hideout (stanze separate)
 
-### Descrizione scena
-> Il tunnel si apre in un ampio hub circolare con due feritoie per sparatorie. Due passaggi continuano a nord e sud; una porta di pietra è chiusa nella parete ovest. L'acqua qui è profonda un piede e vi impedisce di muovervi silenziosi come vorreste.
+### Q1 — Central Hub
+> Ampio hub circolare; acqua di 1-foot, due feritoie contrapposte e passaggi a nord e sud. Porta di pietra a ovest.
+- Rumore sveglia i goblin nelle feritoie (copertura 3/4). Segreto nel passaggio sud (DC 15 Perception).
 
-### Incontri e NPC
-- Se parlate ad alta voce: i goblin di guardia (Q2a/Q2b) vi individueranno e spareranno frecce (fornisce copertura 3/4).
-- Segreto: porta segreta nel passaggio sud (DC 15 Perception per trovare).
-- Se sorpresi: combattimento con 2 goblin; altrimenti possibilità di eludere.
+### Q2a — Watch Post A
+> Goblin di guardia addormentato; DC 9 Dexterity (Stealth) per passare senza svegliarlo.
+- Tesoro: 1d6 cp su di lui.
+
+### Q2b — Watch Post B
+> Speculare a Q2a: altro goblin di guardia, identiche regole e ricompensa minima.
+
+### Q3 — Messy Room
+> Stanza armadietto/guardaroba con armi arrugginite e vestiti logori; niente di valore significativo.
+
+### Q4 — Empty Sleeping Area
+> Sei materassi imbottiti di paglia; se Q5 è attivo, si odono rumori attraverso la porta.
+
+### Q5 — Sleeping Area (Zemk / Krentz)
+> Contiene sei materassi e un duergar ostile (Zemk). Se Krentz è fuggito qui, può collaborare o combattere a seconda degli eventi precedenti.
+
+### Q6 — Lavatory
+> Buco nel pavimento che conduce a una fossa; un gray ooze ha ucciso due goblin qui. Nessun equipaggiamento recuperabile.
+
+### Q7 — Boss Fight (Grum'shar & Nihiloor)
+> Sala lunga: Grum'shar tiene Floon al suolo; Nihiloor su una piattaforma con un intellect devourer. Nihiloor possiede una pietra-occhio che attiva un portale (Q11).
+- Loot: spellbook (Grum'shar), 2 pozioni di cura, 16 gp, 82 sp, 250 cp in cassa nascosta.
+- Roleplay: Floon ha 1 HP; se curato diventa riconoscente.
+
+### Q8 — Getaway Passage
+> Tunnel nascosto sotto una lastra; scoperto con DC 10 Perception; conduce a Q9.
+
+### Q9 — Private Cellar (Peabodys)
+> Cantina dei Peabody, birrificio domestico; accesso tramite lastra sollevabile con Strength 10+. Contiene rifornimenti di birra e ingombri.
+
+### Q10 — Sleeping Quarters
+> Paglia e manette al muro; stanze per i membri della banda.
+
+### Q11 — Back Door / Portal Pillar
+> Pilastro con simbolo circolare (10 raggi) e incavo a forma d'occhio. Inserendo la pietra-occhio di Nihiloor si apre un portale verso Xanathar's lair (area X22). Porta una sola direzione; si chiude 1 minuto dopo la rimozione.
 
 ---
 
-## FASE 5: STANZA SUL RETRO — RENAER E INFORMAZIONI
+## Aree esterne: Trollskull Alley (capitolo 2) — stanze e luoghi chiave
 
-### Lettura (in-character)
-> Dietro un telo rattoppato, un uomo giovane ansima. Si tira su lentamente: è sporco, affamato, ma sveglio. "Vi ringrazio... per quello che avete fatto", dice con voce roca. "Mi chiamo Renaer Neverember. Hanno sbagliato persona. Hanno preso il ragazzo al posto mio...".
+### T1 — Trollskull Manor (panoramica)
+> Quattro piani, taverna abbandonata. Taproom piena di detriti; poltergeist (Lif) nel locale.
 
-### Ruolo e opzioni
-- Renaer si unisce alla ricerca se viene aiutato; può armarsi con un pugnale trovato tra i cadaveri.
-- Info utili: gli Zhentarim cercano la Pietra di Golorr; se interrogato con successo (CD 13 Persuasione) fornisce dettagli narrativi utili.
+### T2 — The Bent Nail
+> Bottega di falegnameria e vendita di bastoni e armi; Tally Fellbranch è il proprietario.
 
----
+### T3 — Steam and Steel
+> Forgeria gestita da Embric e Avi (genasi). Vendono armi e armature; caratteristiche speciali per i proprietari.
 
-## FASE 6: APPROFONDIMENTO — NASCONDIGLIO (Q5–Q7)
+### T4 — Corellon's Crown
+> Erboristeria con una serra al terzo piano; Fala Lefaliir fornisce pozioni e informazioni (vista sull'evento del fireball).
 
-### Lettura e escalation
-> Nelle stanze successive notate i resti di uno scontro recente: corpi, casse rovesciate e segni di tortura. In una stanza rialzata un orco mez'orme stringe un prigioniero al suolo mentre una creatura tentacolare lo osserva con interesse.
+### T5 — Tiger's Eye
+> Agenzia investigativa di Vincent Trench (rakshasa). Può offrire indagini e contatti utili.
 
-### Nemici chiave
-- Grum'shar (mez'orc) sta interrogando Floon; Nihiloor (mind flayer) osserva.
-- Se intervenite, Grum'shar reagisce per salvare il proprio onore; Nihiloor tenterà di fuggire usando dominate o la pietra-occhio.
+### T6 — Book Wyrm's Treasure
+> Libreria gestita da Rishaal; sfera di libri e vendita di spellbooks e servizi di copiatura.
 
-### Risultati possibili
-- Salvataggio riuscito: Floon ha 1 HP; if curato → riconoscente (abbraccio). (Citazione: "As a result of Grum'shar's torture, Floon Blagmaar ... has 1 hit point left.")
-- Loot: sul capo orco: spellbook, due pozioni di cura, piccole monete (vedi testo originale per numeri esatti).
+### T7 — Sewer Access (grate)
+> Grata rimovibile che scende nella rete fognaria; punto di collegamento tra Trollskull Alley e il nascondiglio.
 
 ---
 
