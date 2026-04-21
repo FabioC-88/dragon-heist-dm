@@ -57,7 +57,7 @@ Referente: **Vajra Safahr** · Protagonisti frazionali: **Razak Kendal**, **Vora
 - **M1** è la prima missione operativa di Razak e collega direttamente il suo presagio di Hlam ai Cassalanters (lista carico + Midnight Tears) — giocarla presto, è il primo filo verso il villain principale
 - **M2** è la missione "sociale" del ciclo — niente combattimento ottimale, il drago di bronzo non è un nemico
 - **M3** dura più sessioni (10 giorni in-game di sorveglianza su Meloon) — pianifica 3-5 sessioni se la giochi estesa
-- **M4** usa la mappa del covo di Xanathar dal Capitolo 5 WDH — tieni `Dragon Heist.txt` a portata di mano
+- **M4** usa la mappa del covo di Xanathar dal Capitolo 5 WDH — tieni `Dragon Heist.md` a portata di mano
 
 ---
 

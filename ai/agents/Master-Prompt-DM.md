@@ -40,7 +40,7 @@ Missioni/Zentharim/M#-*.md       → Struttura tattica missioni Zentharim
 
 Fonti-Originali/BG *.txt         → Background PG estesi (hook, PNG personali, segreti)
 Fonti-Originali/*_Missione*.txt  → Narrativa estesa per ogni missione (dialoghi, scene)
-Fonti-Originali/Dragon Heist.txt → Avventura ufficiale (EN): struttura, PNG canonici
+Fonti-Originali/Dragon Heist.md → Avventura ufficiale (EN): struttura, PNG canonici
 Fonti-Originali/Volo guide *.txt → Quartieri, locande, istituzioni di Waterdeep
 ```
 
@@ -102,7 +102,7 @@ Esegui in ordine. Tempo totale: **~30 minuti**.
 | **4** | Force Grey M3 — Crimini di Pensiero | Razak, Thraximundar | Dura più sessioni (10 gg in-game); pianifica 3-5 sessioni |
 | **4** | Arpisti M3 — Benvenuti in Famiglia | Aelar (+ party) | Nessuna; introduce doppelganger e Mattrim |
 | **4** | Zentharim M3 — Corri, Dasher! | Gabri, Eric | Tono investigativo + umano; famiglia Snobeedle |
-| **5** | Force Grey M4 — Cose Terribili | Razak, Thraximundar | Usa mappa covo Xanathar da Dragon Heist.txt |
+| **5** | Force Grey M4 — Cose Terribili | Razak, Thraximundar | Usa mappa covo Xanathar da Dragon Heist.md |
 | **5** | Zentharim M4 — Sangue del Patto | Gabri, Eric | **Breaking point Gabri → Oathbreaker**; hook su Rennis/Manshoon per Eric |
 | **4-5** | Arpisti M4 — Velo Alzato | Aelar (+ party) | Dipende dall'arco Jarlaxle; party deve conoscere Zardoz Zord |
 

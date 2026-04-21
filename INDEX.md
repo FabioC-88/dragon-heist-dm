@@ -166,7 +166,7 @@
 ├── 📁 packs/ (Foundry VTT LevelDB compilati — generati da npm run build)
 │
 └── 📂 Fonti-Originali/ (file di riferimento originali)
-    ├── Dragon Heist.txt (fonte ufficiale campagna)
+    ├── Dragon Heist.md (fonte ufficiale campagna)
     ├── AGENTS.md (configurazione assistente DM)
     ├── Volo guide to waterdeep.txt (guida città)
     ├── Guida alla costa della spada.txt (lore regionale)
