@@ -63,44 +63,82 @@ Sei un assistente Dungeon Master esperto per **Waterdeep: Dragon Heist** (D&D 5e
 ### `/prep-sessione`
 **Usa quando:** Si vuole preparare automaticamente una nuova sessione di gioco basata sul materiale esistente.
 
-**Comportamento (automatico):**
-1. Individua l'ultimo file `Campagna/sessioni/dm-notes-sessione-XX.md` e calcola `next = XX+1`.
-2. Se l'utente specifica un numero o una missione, usa quella; altrimenti procedi con la sessione successiva (`next`).
-3. Leggi `Campagna/sessioni/dm-notes-sessione-XX.md` (se presente) per estrarre marker di avanzamento; in mancanza usa il progress marker implicito nella testata del file.
-4. Controlla `Fonti-Originali/Dragon Heist.md` e seleziona il chunk narrativo successivo da usare come fonte primaria per la sessione. Heuristica predefinita: usa il capitolo successivo; fallback: chunk di ~2000–3000 parole per stimare ~2h30m di gioco.
-5. Raccogli automaticamente i file di contesto:
-	- `Campagna/party.md`
-	- `Campagna/png-incontrati.md`
-	- `Campagna/rapporti.md`
-	- `Campagna/missioni-secondarie.md`
-	- Tutti i file `Fonti-Originali/BG*.txt` corrispondenti ai personaggi presenti in `party.md`.
-6. Genera il nuovo file `Campagna/sessioni/dm-notes-sessione-NN.md` replicando la struttura di `Campagna/sessioni/dm-notes-sessione-01.md`:
-	- Header con fonte primaria e range di riferimento (es: "Fonti-Originali/Dragon Heist.md Lxxx–Lyyy")
-	- `🎬 SETUP INIZIALE` (descrizioni breve e aperture in-character)
-	- Fasi/Scene numerate con durata stimata (totale ~2h30m)
-	- Incontri con stat blocks essenziali, tabelle e trigger
-	- Sezione `[NOTA DM — riservata]` con dettagli nascosti
-	- `RECAP POST-SESSIONE` con elementi da aggiornare
-	- `POST-SESSION CHECKLIST` (aggiornamenti su `Campagna/*.md`)
-7. **REGOLA OBBLIGATORIA — Testi boxed `>>`:** Ogni sezione di testo read-aloud segnata con `>>` in `Dragon Heist.md` deve essere:
-	- Inserita come blockquote `>` principale nel file di sessione, **in italiano**.
-	- **Tutte le informazioni presenti nell'originale devono essere presenti** — nulla può essere omesso o ignorato.
-	- Il testo può essere rielaborato, espanso e reso più atmosferico, purché il contenuto informativo originale sia intatto.
-	- Le aggiunte del DM che vanno oltre il testo originale vanno inserite **dopo** il blockquote principale, in un blockquote separato marcato con `*[aggiunta atmosferica]*` o `*[Appena X accade — aggiunta atmosferica]:*`.
-	- **Esempio corretto:**
-		```
-		> Testo originale rielaborato in italiano, con tutte le info originali presenti.
-		
-		*[Aggiunta atmosferica]:*
-		> *Frase o dettaglio extra aggiunto dal DM.*
-		```
-	- **Esempio sbagliato:** omettere dettagli chiave dell'originale (descrizioni di creature, simboli, luoghi, azioni) nel testo italiano.
-8. Evidenzia chiaramente le parti che richiedono revisione manuale (TODO) e aggiungi riferimenti ai file di origine usati.
-9. La struttura del file deve essere identica a quella del file `Campagna/sessioni/dm-notes-sessione-01.md`
+**Questo comando orchestra una pipeline di 7 agenti specializzati in sequenza.** Invoca ogni agente nell'ordine indicato, passando l'output del precedente come input al successivo.
+
+---
+
+#### Pipeline di Preparazione Sessione
+
+**STEP 1 — Agente Estrattore** (`01-session-extractor.agent.md`)
+- Input: numero sessione target (o "prossima" per calcolo automatico)
+- Output: documento grezzo con chunk estratto da Dragon Heist.md + lista testi `>>` marcati
+
+**STEP 2 — Agente Traduttore** (`02-session-translator.agent.md`)
+- Input: output Step 1
+- Output: draft completo in italiano con testi boxed espansi e tag `*[aggiunta atmosferica]*`
+
+**STEP 3 — Agente Personaggi** (`03-session-pc-integrator.agent.md`)
+- Input: output Step 2
+- Output: draft con hook personali, spotlight PG, `[NOTA DM]` per segreti, atteggiamenti PNG verificati
+
+**STEP 4 — Agente Missioni** (`04-session-missions-integrator.agent.md`)
+- Input: output Step 3
+- Output: draft con missioni secondarie rilevanti integrate (hook, trigger, contatti fazione)
+
+**STEP 5 — Agente Traduttore** (re-invoca `02-session-translator.agent.md`)
+- Input: output Step 4
+- Output: draft con parti aggiunte da Step 3 e 4 uniformate per stile e lingua
+
+**STEP 6 — Agente Revisore** (`06-session-reviewer.agent.md`)
+- Input: output Step 5 + ultima sessione giocata `dm-notes-sessione-XX.md`
+- Output: file `dm-notes-sessione-NN.md` finale + lista modifiche applicate
+
+**STEP 7 — Agente Git** (`git-procedures.agent.md`)
+- Input: file finale da Step 6
+- Output: commit + release su GitHub
+
+---
 
 **Comportamento (fallback manuale):**
-- Se non è possibile determinare il chunk successivo in `Dragon Heist.md`, chiedi all'utente di indicare il punto di partenza (capitolo o parola).
+- Se non è possibile determinare il chunk successivo in `Dragon Heist.md`, chiedi all'utente di indicare il punto di partenza (capitolo o parola chiave).
 - Se mancano file BG o informazioni party, segnala le lacune e procedi usando solo i file disponibili.
+- Se l'utente specifica un numero di sessione o una missione, usala; altrimenti calcola `next = ultimo XX + 1`.
+
+---
+
+### `/aggiorna-sessione`
+**Usa quando:** Hai appena giocato una sessione e vuoi aggiornare le note della sessione successiva in base a ciò che è realmente accaduto.
+
+**Prerequisito:** Compilare il file di recap in `Campagna/sessioni/recaps/recap-sessione-XX.md` (XX = sessione appena giocata) usando il template nel file `00-recap-updater.agent.md`.
+
+**Pipeline di Aggiornamento Sessione:**
+
+**STEP 1 — Agente Updater** (`00-recap-updater.agent.md`)
+- Input: numero sessione TARGET `NN` + `recap-sessione-[NN-1].md`
+- Legge: sessioni da 01 a NN-1 come contesto; **ignora sessioni > NN**
+- Output: `dm-notes-sessione-NN.md` aggiornato con i delta + tabella modifiche applicate
+
+**STEP 2 — Agente Personaggi** (`03-session-pc-integrator.agent.md`)
+- Input: output Step 1
+- Output: hook personali e atteggiamenti PNG riallineati alla realtà del recap
+
+**STEP 3 — Agente Missioni** (`04-session-missions-integrator.agent.md`)
+- Input: output Step 2
+- Output: missioni aggiornate se il recap indica cambi di stato *(salta se nessuna missione è cambiata)*
+
+**STEP 4 — Agente Revisore** (`06-session-reviewer.agent.md`)
+- Input: output Step 3 + `dm-notes-sessione-[NN-1].md`
+- Output: file finale validato + revision log
+
+**STEP 5 — Agente Git** (`git-procedures.agent.md`)
+- Input: file finale da Step 4
+- Output: commit + release su GitHub
+
+---
+
+**Comportamento (fallback):**
+- Se il file recap non esiste, l'agente si ferma e chiede di crearlo prima di procedere.
+- Se l'utente non specifica il numero di sessione target, usa `ultimo file dm-notes + 1`.
 
 ---
 

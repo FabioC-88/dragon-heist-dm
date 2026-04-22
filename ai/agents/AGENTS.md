@@ -107,4 +107,64 @@ Le missioni sono salvate come file `.txt` nella workspace. Consulta il file per 
 | 3 | 4 | `Arpisti_Missione3_benvenuti_in_famiglia.txt` | Banda di doppelganger; valutare se sono alleabili; contatto Mattrim "Tre Corde" Mereg |
 | 4 | 4 | `Arpisti_Missione4_velo_alzato.txt` | Infiltrazione sulla nave Eyecatcher durante il Giorno delle Meraviglie; prove contro Jarlaxle/Zardoz Zord |
 
+### Force Grey — referente: Vajra Safahr · protagonisti frazionali: Razak, Vorador
+
+| # | Lv | File | Sintesi |
+|---|----|------|---------|
+| 1 | 2 | `ForceGrey_Missione1_IlCaricoDelFondatore.txt` | Recuperare un artefatto rubato legato al Giorno dei Fondatori; introduce il filo dei Cassalanters |
+| 2 | 3 | `ForceGrey_Missione2_NonETuttoOroQuelCheLuccica.txt` | Sessione sociale/investigativa su una truffa al mercato di Waterdeep |
+| 3 | 4 | `ForceGrey_Missione3_CriminiDiPensiero.txt` | Dura più sessioni (10 gg in-game); operazione sotto copertura; pianifica 3-5 sessioni |
+| 4 | 5 | `ForceGrey_Missione4_CoseTerribilidaSprecare.txt` | Assalto al covo di Xanathar; Nihiloor come boss finale |
+
+### Zentharim — referente: Davil Starsong · protagonisti frazionali: Friedrich, Scintilla
+
+| # | Lv | File | Sintesi |
+|---|----|------|---------|
+| 1 | 2 | `Zentharim_Missione1_un_brutto_momento.txt` | Primo contatto ufficiale con Davil e Yagra; introduzione alla rete nera |
+| 2 | 3 | `Zentharim_Missione2_tieni_il_resto.txt` | Introduce Skeemo — torna in M4 come breaking point |
+| 3 | 4 | `Zentharim_Missione3_corri_dasher.txt` | Tono investigativo + umano; famiglia Snobeedle |
+| 4 | 5 | `Zentharim_Missione4_sangue_del_patto.txt` | **Breaking point Friedrich → Oathbreaker**; possibile scoperta di Rennis/Manshoon per Eric |
+
+---
+
+## Mappa File di Riferimento
+
+```
+AGENTS.md                        → Overview campagna (villain, party, PNG, fazioni, missioni)
+Campagna/party.md                → Stato PG — livello, XP, condizioni, note sessione
+Campagna/fazioni.md              → Posizione fazioni verso party, archi lunghi
+Campagna/missioni-secondarie.md  → Stato tutte le 12 missioni + note timing DM
+Campagna/png-incontrati.md       → Relationship map per PG (atteggiamenti numerici)
+Campagna/sessioni/dm-notes-##.md → Note sessione per sessione (narrative + meccaniche)
+
+Missioni/Arpisti/M#-*.md         → Struttura tattica missioni Arpisti (obiettivi, CD, ricompense)
+Missioni/ForceGrey/M#-*.md       → Struttura tattica missioni Force Grey
+Missioni/Zentharim/M#-*.md       → Struttura tattica missioni Zentharim
+
+Fonti-Originali/BG *.txt         → Background PG estesi (hook, PNG personali, segreti)
+Fonti-Originali/*_Missione*.txt  → Narrativa estesa per ogni missione (dialoghi, scene)
+Fonti-Originali/Dragon Heist.md  → Avventura ufficiale (EN): struttura, PNG canonici, testi boxed >>
+Fonti-Originali/Volo guide *.txt → Quartieri, locande, istituzioni di Waterdeep
+```
+
+---
+
+## Tabella Decisionale — Quale Missione Per Livello
+
+| Livello party | Missione consigliata | Fazione protagonista | Dipendenze |
+|---------------|---------------------|----------------------|------------|
+| **1** | Cap. 1 — Portale Spalancato, rescue Floon | Tutto il party | Prima sessione / già gestita |
+| **2** | Arpisti M1 — Un Cavallo Donato | Aelar (+ party) | Nessuna; introduce Davil e Yagra → gioca **prima** di Zentharim M1 |
+| **2** | Force Grey M1 — Il Carico del Fondatore | Razak, Vorador | Vajra deve aver convocato il party dopo S1 |
+| **2** | Zentharim M1 — Un Brutto Momento | Friedrich, Scintilla (+ Barnabus se presente) | Meglio dopo Arpisti M1 (Davil già visto) |
+| **3** | Force Grey M2 — Non è Tutto Oro | Razak, Vorador | Dopo M1 Force Grey; sessione "relax" sociale |
+| **3** | Arpisti M2 — Disinfestazione | Aelar (+ party) | Nessuna; location: libreria Trades Ward |
+| **3** | Zentharim M2 — Tieni il Resto | Friedrich, Scintilla | **Introduce Skeemo** — torna in Z-M4 |
+| **4** | Force Grey M3 — Crimini di Pensiero | Razak, Vorador | Dura più sessioni (10 gg in-game); pianifica 3-5 sessioni |
+| **4** | Arpisti M3 — Benvenuti in Famiglia | Aelar (+ party) | Nessuna; introduce doppelganger e Mattrim |
+| **4** | Zentharim M3 — Corri, Dasher! | Friedrich, Scintilla | Tono investigativo + umano; famiglia Snobeedle |
+| **5** | Force Grey M4 — Cose Terribili | Razak, Vorador | Usa mappa covo Xanathar da Dragon Heist.md |
+| **5** | Zentharim M4 — Sangue del Patto | Friedrich, Scintilla | **Breaking point Friedrich → Oathbreaker**; hook su Rennis/Manshoon per Scintilla |
+| **4-5** | Arpisti M4 — Velo Alzato | Aelar (+ party) | Dipende dall'arco Jarlaxle; party deve conoscere Zardoz Zord |
+
 
