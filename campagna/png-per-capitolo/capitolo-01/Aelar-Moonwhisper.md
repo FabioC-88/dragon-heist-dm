@@ -1,14 +1,6 @@
----
-capitolo: 1
-pg: Aelar Moonwhisper
-giocatore: Berto
-generato: 2026-04-24
----
+# Persone di Waterdeep
 
-# Persone di Waterdeep — Capitolo 1
-### Aelar Moonwhisper (Berto)
-
-> Questi sono i personaggi che conosci, o di cui hai sentito parlare, mentre ti muovi nel Capitolo 1 degli eventi di Waterdeep. Non tutti appariranno nella prossima sessione — ma potresti incrociarli prima del previsto.
+> Questi sono i personaggi che conosci, o di cui hai sentito parlare, mentre ti muovi nel Capitolo 1 degli eventi di Waterdeep.
 
 ---
 
