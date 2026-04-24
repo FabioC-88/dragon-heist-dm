@@ -27,7 +27,7 @@ generato: 2026-04-24
 **Come lo conosci:** Ce l'hai nel mirino da mesi. Uno dei soggetti principali della tua indagine personale nel Dock Ward.
 **Ruolo pubblico:** Agente Zentharim, responsabile di gran parte degli scontri recenti tra la Rete Nera e la Gilda di Xanathar nel Dock Ward.
 **Quello che sai:**
-- Opera nel sottomondo del Dock Ward con una rete di informatori e picciotti. I cinque agenti che hanno rapito Floon Blagmaar (e Renaer Neverember) lavoravano per lui.
+- Opera nel sottomondo del Dock Ward con una rete di informatori e picciotti. I cinque agenti coinvolti nel rapimento di Renaer Neverember lavoravano per lui.
 - Non si è ancora fatto trovare. Ha un fiuto per quando la Guardia si avvicina — qualcuno lo avvisa in anticipo.
 - Qualcuno in alto lo protegge, o almeno lo lascia operare. Il collegamento non è ancora chiaro.
 - Sei sicuro che trovarlo non risolverà tutto — ma è un anello in una catena che porta a qualcosa di più grosso.
@@ -63,15 +63,6 @@ generato: 2026-04-24
 
 ---
 
-## Floon Blagmaar
-**Come lo conosci:** Nome che potrebbe emergere nelle indagini sulle sparizioni nel Dock Ward.
-**Ruolo pubblico:** Uomo comune, noto frequentatore dei locali del Dock Ward.
-**Quello che sai:**
-- Maschio umano sulla trentina, capelli biondi-rossastri ondulati. Un tipo socievole, non particolarmente cauto.
-- Frequenta gli stessi ambienti dove di recente sono aumentate le sparizioni legate alla guerra tra Zentharim e Gilda di Xanathar.
-
----
-
 ## Renaer Neverember
 **Come lo conosci:** Il figlio del vecchio Lord Aperto è una figura pubblica. Il suo nome era già nei tuoi archivi.
 **Ruolo pubblico:** Figlio di Dagult Neverember, ex Lord Aperto. Nobile giovane che vive a Waterdeep con un profilo discreto.
@@ -87,17 +78,6 @@ generato: 2026-04-24
 **Ruolo pubblico:** Gnomo commerciante di curiosità nel Dock Ward.
 **Quello che sai:**
 - Conosce ogni faccia del Dock Ward. Il tipo di fonte informale che la Guardia usa quando i canali ufficiali non arrivano abbastanza in fondo.
-
----
-
-## Xanathar
-**Come lo conosci:** La Guardia Cittadina del Dock Ward ha fascicoli completi sulla Gilda di Xanathar. Ogni agente della zona portuale conosce il nome.
-**Ruolo pubblico:** Capo invisibile della Gilda di Xanathar, il crimelord beholder che controlla il sottomondo di Waterdeep.
-**Quello che sai:**
-- È un beholder. La sua Gilda controlla gran parte del crimine organizzato nel Dock Ward — estorsioni, traffici, informatori.
-- Il simbolo della gilda (cerchio con dieci raggi) segna i punti di controllo nelle fogne sotto il quartiere.
-- La guerra tra Gilda di Xanathar e Zentharim sta creando vittime civili nel Dock Ward. È diventato un tuo problema diretto.
-- Non viene mai visto in persona. Tutto passa attraverso intermediari.
 
 ---
 

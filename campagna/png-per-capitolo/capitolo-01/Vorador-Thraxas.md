@@ -34,70 +34,18 @@ generato: 2026-04-24
 ---
 
 ## Yagra Stonefist
-**Come lo conosci:** Mercenaria mezza orchessa nota nel Dock Ward — il suo nome circola tra le organizzazioni del quartiere.
-**Ruolo pubblico:** Mercenaria indipendente, volto noto nel Dock Ward.
+**Come lo conosci:** Una mezza orchessa che vedi di tanto in tanto al Portale Spalancato, quando torni tardi da un caso.
+**Ruolo pubblico:** Mercenaria, volto noto nel Dock Ward.
 **Quello che sai:**
-- Combatte bene e per la sua dignità — non è qualcuno che agisce solo per ordine. Ha un codice.
-- È legata agli Zentharim, anche se non lo pubblicizza.
-- Come operativo Zentharim nel Dock Ward, potrebbe essere risorsa situazionale o ostacolo — dipende dalle circostanze.
-
----
-
-## Renaer Neverember
-**Come lo conosci:** Figlio dell'ex Lord Aperto — un nome che circola in città e che chiunque si muova nel Dock Ward o tra i contatti dell'Ordine avrà sentito almeno di riflesso.
-**Ruolo pubblico:** Figlio di Dagult Neverember, l'ex Lord Aperto di Waterdeep. Nobile giovane, profilo volutamente basso.
-**Quello che sai:**
-- Ha preso pubblica distanza dal padre. La rottura sembra voluta e profonda.
-- Nonostante il basso profilo, mantiene connessioni influenti in città — il cognome Neverember conta ancora.
-- I vari attori criminali in città hanno interesse su di lui per via degli affari del padre. Vale la pena sapere chi è.
-
----
-
-## Xoblob
-**Come lo conosci:** Proprietario dell'Old Xoblob Shop nel Dock Ward — un negozio bizzarro e inconfondibile, punto di riferimento nel quartiere.
-**Ruolo pubblico:** Gnomo profondo, commerciante di curiosità, tutto rigorosamente viola.
-**Quello che sai:**
-- Un tipo stravagante con una storia improbabile — dice di aver inalato memorie di un beholder dopo un'esplosione di spore a Undermountain.
-- Conosce il Dock Ward come pochi. Chiunque del quartiere sa dove trovarlo.
-- Un buon contatto se si cerca informazioni sul movimento delle persone nel quartiere.
+- Sembra sapere badare a sé stessa — basta guardarla per capirlo.
+- Non hai mai avuto motivo di parlarle davvero.
 
 ---
 
 ## Hyustus Staget
-**Come lo conosci:** Capitano della Guardia Cittadina del Dock Ward — lo conosci tramite il tuo collega Saeth Cromley e dai registri dell'Ordine Vigilante.
+**Come lo conosci:** Capitano della Guardia Cittadina del Dock Ward — vi siete incrociati professionalmente su casi che toccavano il crimine nel quartiere.
 **Ruolo pubblico:** Capitano veterano della Guardia, responsabile dell'ordine nel Dock Ward.
 **Quello che sai:**
-- Non è un incompetente — è semplicemente un uomo che gioca con cautela. Preferirebbe vedere Zentharim e Guild di Xanathar distruggersi da soli.
-- Nei registri dell'Ordine appare come contatto professionale per casi che coinvolgono crimini nel Dock Ward. Non è un alleato, ma non è un ostacolo dichiarato.
+- Un uomo che gioca con cautela — preferisce aspettare che le situazioni si risolvano da sole piuttosto che intervenire.
+- Nei registri dell'Ordine appare come contatto professionale per casi nel Dock Ward. Non è un alleato, ma non è un ostacolo dichiarato.
 - Osserva tutto. Se ti muovi nel suo quartiere, lui lo nota.
-
----
-
-## Urstul Floxin
-**Come lo conosci:** Nome presente nei registri dell'Ordine Vigilante dei Magisti e Protettori.
-**Ruolo pubblico:** Agente Zentharim di peso, noto instigatore della tensione tra Zhentarim e Gilda di Xanathar.
-**Quello che sai:**
-- È considerato un "pesce grosso" responsabile di buona parte degli scontri recenti nel Dock Ward.
-- La Guardia Cittadina lo ha nel mirino da tempo — finora ha eluso ogni tentativo di localizzazione.
-- Fisicamente non lo hai ancora identificato. Sai che esiste e che è pericoloso.
-
----
-
-## Xanathar
-**Come lo conosci:** Beholder crimelord di Waterdeep — nei dossier dell'Ordine Vigilante è classificato come minaccia aberrante di livello urbano.
-**Ruolo pubblico:** Capo invisibile della Gilda di Xanathar, l'organizzazione criminale più radicata nelle fogne e nel sottomondo di Waterdeep.
-**Quello che sai:**
-- È un beholder — aberrazione con occhio centrale e più occhi su peduncoli, ciascuno con un potere diverso. La sua paranoia è leggendaria anche negli archivi dell'Ordine.
-- Comanda la sua gilda dal profondo sotto la città. Raro che agisca direttamente; preferisce intermediari.
-- La sua rete include spie ovunque — i simboli della gilda (cerchio con dieci raggi) compaiono nelle fogne.
-- Gli Zentharim e la Gilda di Xanathar sono in guerra aperta. Il caos che ne deriva è già visibile sulle strade.
-
----
-
-## Dagult Neverember
-**Come lo conosci:** Ex Lord Aperto di Waterdeep — nome pubblico, storia pubblica.
-**Ruolo pubblico:** Fu il Lord Aperto di Waterdeep prima di essere destituito. Ora guida la ricostruzione di Neverwinter.
-**Quello che sai:**
-- Era noto per la sua ambizione e per la spregiudicatezza con cui usava la posizione. Non pochi a Waterdeep ne conservano un ricordo amaro.
-- Renaer, suo figlio, non ha rapporti con lui da anni — e non sembra voler cambiare la situazione.
-- Gli Zentharim credono che abbia sottratto mezzo milione di monete d'oro durante il suo mandato e le abbia nascoste da qualche parte in città.

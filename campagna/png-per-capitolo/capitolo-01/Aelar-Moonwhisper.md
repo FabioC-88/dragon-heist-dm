@@ -89,13 +89,12 @@ generato: 2026-04-24
 ---
 
 ## Xanathar
-**Come lo conosci:** Obiettivo di lungo termine dell'intelligence Arpisti. Le organizzazioni criminali di Waterdeep sono monitorate dalla rete.
-**Ruolo pubblico:** Capo invisibile della Gilda di Xanathar, il crimelord beholder che controlla il sottomondo della città.
+**Come lo conosci:** Hai sentito il nome girare negli ambienti degli Arpisti — solo voci, per ora.
+**Ruolo pubblico:** Il presunto capo di una delle organizzazioni criminali più radicate nel sottomondo di Waterdeep, nota come Gilda di Xanathar.
 **Quello che sai:**
-- È un beholder — aberrazione con occhio centrale e occhi su peduncoli, ciascuno con un potere magico diverso. Paranoia leggendaria, reazione imprevedibile.
-- Opera dal profondo sotto la città. Raramente agisce in persona; gestisce tutto tramite intermediari.
-- I simboli della gilda (cerchio con dieci raggi) segnano i punti di controllo nelle fogne.
-- È in guerra aperta con gli Zentharim. Questa guerra sta già uccidendo gente per le strade di Waterdeep.
+- Il nome circola sottovoce: c'è qualcuno — o qualcosa — che controlla buona parte del crimine organizzato nelle fogne sotto la città.
+- Nessuno di quelli con cui hai parlato lo ha mai visto. Chi comanda la gilda opera sempre attraverso intermediari.
+- C'è tensione crescente tra la Gilda di Xanathar e un'altra organizzazione nel Dock Ward. La guerra sta già uccidendo gente per le strade.
 
 ---
 
