@@ -34,6 +34,8 @@ safe_defaults:
     versione target.
   - Il bump della versione in `module.json` viene eseguito automaticamente come parte del
     workflow di release se l'utente lo richiede (conferma prima dell'editing).
+  - **CRITICO per Foundry VTT**: Il campo `download` in `module.json` DEVE puntare al file .zip
+    della release (es. `https://github.com/.../releases/download/vX.Y.Z/dragon-heist-dm-vX.Y.Z.zip`).
   - Se il repo ha CI, l'agente segnalerà lo stato dei controlli; attendere il via dall'utente
     se desidera che l'agente aspetti il completamento della CI.
 
@@ -52,15 +54,16 @@ examples:
     - `git commit -m "fix: corregge typo in campagna/party.md"`
     - `git push`
 
-  - Esempio: workflow di release (vedi AGENTS.md)
-    1. `npm run build`
-    2. L'agente incremente automaticamente la versione in `module.json` (es. `1.0.11` → `1.0.12`) previa conferma
-    3. Aggiorna il campo `download` in `module.json` se richiesto
+  - Esempio: workflow di release completo (vedi AGENTS.md)
+    1. `npm run build` — compila i pack LevelDB
+    2. L'agente incrementa automaticamente la versione in `module.json` (es. `1.0.11` → `1.0.12`) previa conferma
+    3. Aggiorna il campo `download` in `module.json`: `https://github.com/FabioC-88/dragon-heist-dm/releases/download/vX.Y.Z/dragon-heist-dm-vX.Y.Z.zip`
     4. `git add module.json packs/` && `git commit -m "chore(release): vX.Y.Z"`
-    5. `git push origin master` (push diretto su `master` — policy del repository)
-    6. `git tag vX.Y.Z` && `git.push origin vX.Y.Z`
-    7. `zip -r dragon-heist-dm.zip module.json packs/` (o script di packaging)
-    8. `gh release create vX.Y.Z dragon-heist-dm.zip module.json` (richiede conferma)
+    5. `git push origin master` (push diretto su `master`)
+    6. `git tag vX.Y.Z` && `git push origin vX.Y.Z`
+    7. `Compress-Archive -Path module.json, packs/ -DestinationPath dragon-heist-dm-vX.Y.Z.zip` — **nota**: `module.json` DEVE essere nella root dello zip
+    8. `gh release create vX.Y.Z dragon-heist-dm-vX.Y.Z.zip module.json` — crea release con **due asset**: zip + module.json separato
+       *(Foundry legge module.json dalla release e scarica lo zip dal campo `download`)*
 
 prompts_to_try:
   - "Fai un commit con tutti i cambiamenti e pusha sul mio branch attuale"
@@ -72,6 +75,11 @@ operational_notes:
     modifica lo stato remoto richiede conferma esplicita.
   - Per le istruzioni di release, riferirsi a `ai/agents/AGENTS.md`; l'agente
     chiederà conferma per gli step che richiedono credenziali o tag.
+  - **[FOUNDRY VTT]** La release deve avere:
+    * Lo zip contenente `module.json` + `packs/` nella root (Foundry estrae qui)
+    * `module.json` come asset separato della release GitHub (Foundry legge il manifest da qui)
+    * Campo `download` in `module.json` che punta al .zip della release
+    * Se uno di questi tre elementi manca, Foundry non riuscirà a trovare l'update!
 
 file_location: git-procedures.agent.md
 
