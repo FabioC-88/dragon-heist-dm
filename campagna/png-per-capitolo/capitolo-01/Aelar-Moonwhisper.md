@@ -5,23 +5,19 @@
 ---
 
 ## Mirt il Cambiavalute
-**Come lo conosci:** È il tuo referente negli Arpisti a Waterdeep. Ti ha consegnato personalmente la spilla con l'arpa e la mezzaluna; ti contatta tramite uccellini di carta origami.
-**Ruolo pubblico:** Cambiavalute ricchissimo, usuraio di lusso, figura joviale e famosa in città. Villa nel Quartiere del Castello.
+**Come lo conosci:** È il tuo referente negli Arpisti a Waterdeep. Contatta i menmbri degli Arpisti tramite uccellini di carta origami.
+**Ruolo pubblico:** Cambiavalute ricchissimo, usuraio di lusso, figura gioviale e famosa in città. Villa nel Quartiere del Castello.
 **Quello che sai:**
 - Sotto la facciata del mercante grasso e bonario si nasconde uno degli uomini più scaltri e pericolosi di Waterdeep — e uno dei più capaci.
-- È uno dei Lord di Waterdeep. Pochi lo sanno. Tu lo sai perché sei un Arpista.
 - La sua rete di informatori è capillare. Se lo chiedi nel modo giusto — e se è il momento giusto — può aprire porte che non esistono sulla mappa pubblica.
-- Ti ha già inviato un messaggio via piccione dopo il brawl al Portale Spalancato. La missione Arpisti sta per cominciare.
-
 ---
 
 ## Remallia "Remi" Haventree
-**Come lo conosci:** Nobile elfa del sole, guida politica degli Arpisti a Waterdeep. Il tuo percorso nell'organizzazione passa anche attraverso di lei.
+**Come la conosci:** Nobile elfa del sole, guida politica degli Arpisti a Waterdeep. Il tuo percorso nell'organizzazione passa anche attraverso di lei. Ti ha consegnato personalmente la spilla con l'arpa e la mezzaluna;
 **Ruolo pubblico:** Nobildonna elfa del sole, risiede a Villa Ulbrinter nel North Ward. Patrona delle arti.
 **Quello che sai:**
 - È il punto di riferimento di alto grado degli Arpisti nella città. Le questioni che Mirt gestisce operativamente, lei le calibra politicamente.
 - Parla poco e pesa ogni parola. Il tipo di leadership che non ha bisogno di alzare la voce.
-- Conosce Renaer Neverember — se le cose si complicano, Renaer può organizzare un incontro.
 
 ---
 
