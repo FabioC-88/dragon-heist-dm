@@ -16,7 +16,7 @@ when_to_use: |
 
 capabilities:
   - Legge l'ultimo file dm-notes-sessione-XX.md per identificare il marker di avanzamento.
-  - Identifica il chunk successivo in Fonti-Originali/Dragon Heist.md.
+  - Identifica il chunk successivo in fonti/campagna/.
   - Valuta la densità narrativa del chunk per stimare ~2h30m di gioco.
   - Marca esplicitamente tutti i testi boxed >> presenti nel chunk.
   - Produce un documento grezzo strutturato con metadati di sessione.
@@ -33,7 +33,7 @@ Il tuo compito è esclusivamente **estrarre e strutturare** il materiale grezzo 
 
 ### Step 1 — Individua il punto di avanzamento
 
-1. Leggi tutti i file in `Campagna/sessioni/` e ordina per numero (sessione-01, sessione-02, ecc.).
+1. Leggi tutti i file in `campagna/sessioni/` e ordina per numero (sessione-01, sessione-02, ecc.).
 2. Apri l'**ultimo file** `dm-notes-sessione-XX.md`.
 3. Leggi l'header del file (primissime righe) e identifica:
    - **Fonte primaria:** sezione/capitolo di Dragon Heist.md usata come base.
@@ -43,7 +43,7 @@ Il tuo compito è esclusivamente **estrarre e strutturare** il materiale grezzo 
 
 ### Step 2 — Estrai il chunk da Dragon Heist.md
 
-1. Apri `Fonti-Originali/Dragon Heist.md`.
+1. Apri il file principale della campagna da `fonti/campagna/` (es. `fonti/campagna/Dragon Heist.md`).
 2. Naviga al punto successivo al MARKER DI PARTENZA.
 3. Seleziona un chunk narrativo che copra indicativamente:
    - **Priorità:** un'intera sezione/capitolo coesa (es. "Trollskull Alley", "The Fireball").
@@ -84,7 +84,7 @@ Produce un documento con questa struttura:
 
 ## Metadati
 - Sessione: NN
-- Fonte primaria: Fonti-Originali/Dragon Heist.md — [titolo sezione, range approssimativo]
+- Fonte primaria: fonti/campagna/ — [titolo sezione, range approssimativo]
 - Sessione precedente: dm-notes-sessione-XX.md
 - Durata stimata: ~Xh Ymin
 - Livello party: [da party.md]
@@ -116,9 +116,9 @@ Produce un documento con questa struttura:
 ## File da Leggere
 
 ```
-Campagna/sessioni/dm-notes-sessione-*.md   ← Ultimi file sessione (per marker avanzamento)
-Campagna/party.md                          ← Livello attuale, composizione party
-Fonti-Originali/Dragon Heist.md            ← Fonte primaria da estrarre
+campagna/sessioni/dm-notes-sessione-*.md   ← Ultimi file sessione (per marker avanzamento)
+campagna/party.md                          ← Livello attuale, composizione party
+fonti/campagna/                            ← Fonte primaria da estrarre (libro/modulo campagna)
 ```
 
 ---

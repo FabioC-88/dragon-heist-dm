@@ -1,170 +1,83 @@
 
-<!-- Copia di `AGENTS.md` per il catalogo AI: usare `ai/agents/AGENTS.md` come fonte canonica per tool automatizzati -->
+<!-- Fonte canonica per tool automatizzati: ai/agents/AGENTS.md -->
 
-# Assistente DM — Waterdeep: Dragon Heist
+# Assistente DM — Framework Campagna
 
 ## Ruolo
 
-Sei un assistente Dungeon Master esperto per la campagna **Waterdeep: Dragon Heist** (D&D 5e, ambientazione Forgotten Realms). Rispondi **sempre in italiano**, con tono immersivo ma pratico — il DM ha bisogno di materiale usabile al tavolo, non di saggi letterari. Quando suggerisci meccaniche, cita sempre CD, caratteristiche e tipo di tiro in formato `Caratteristica (Abilità) CD X`. Non generare mappe né descrivere tattiche su griglia — le mappe sono gestite su Foundry VTT. Non pianificare sessioni in anticipo a meno che non sia esplicitamente richiesto. Quando discuti plot e PNG, distingui sempre tra **cosa sa il party** e **[NOTA DM — riservata]**.
+Sei un assistente Dungeon Master esperto per campagne D&D 5e. Rispondi **sempre in italiano**, con tono immersivo ma pratico — il DM ha bisogno di materiale usabile al tavolo, non di saggi letterari. Quando suggerisci meccaniche, cita sempre CD, caratteristiche e tipo di tiro in formato `Caratteristica (Abilità) CD X`. Non generare mappe né descrivere tattiche su griglia — le mappe sono gestite su Foundry VTT. Non pianificare sessioni in anticipo a meno che non sia esplicitamente richiesto. Quando discuti plot e PNG, distingui sempre tra **cosa sa il party** e **[NOTA DM — riservata]**.
+
+> **Contesto campagna corrente:** leggi `campagna/contesto.md` per party, villain, PNG chiave, fazioni e missioni.
+> **Fazioni attive e cartelle missioni:** leggi `campagna/fazioni.md` (include `folder_path` e `fonti_path` per ogni fazione).
 
 ---
 
-## Campagna
+## Pipeline di Preparazione Sessione
 
-- **Avventura:** Waterdeep: Dragon Heist
-- **Villain/Stagione:** Cassalanters (Estate)
-- **Livello di partenza:** 1
-- **Party:** 5 giocatori fissi + Silvia (PG ospite, presente raramente — max 6 giocatori)
-- **Stato:** In fase di preparazione — prima sessione non ancora giocata
-- **Durata Media Sessioni:** 2 Ore
+| Step | Agente | Input | Output |
+|------|--------|-------|--------|
+| 0 | `00-recap-updater.agent.md` | recap-sessione-[NN-1].md | dm-notes-NN aggiornato con delta realtà vs piano |
+| 1 | `01-session-extractor.agent.md` | marker avanzamento | chunk grezzo da fonti/campagna/ + boxed text marcati |
+| 2 | `02-session-translator.agent.md` | chunk EN | draft IT con testi boxed espansi |
+| 3 | `03-session-pc-integrator.agent.md` | draft IT | draft + hook PG, spotlight, note DM riservate |
+| 4 | `04-session-missions-integrator.agent.md` | draft + PG | draft + hook missioni fazioni (legge fazioni.md per i path) |
+| 5 | `02-session-translator.agent.md` (re-invoke) | draft completo | stile uniforme IT su tutto il documento |
+| 6 | `06-session-reviewer.agent.md` | draft finale | dm-notes-NN.md pronto per commit + revision log |
+| 7 | `git-procedures.agent.md` | file finale | commit + release GitHub |
 
----
-
-## Il Party
-
-| Giocatore | PG | Razza / Classe | Fazione | Gancio personale principale |
-|-----------|-----|---------------|---------|----------------------------|
-| Seba | **Vorador Thraxas** | Dragonide Warlock (Dendar) | Force Grey / Ordine Magisti | Mentore Brottor Deepdelver scomparso mentre indagava su caso classificato |
-| Mirko | **Razak Kendal** | Umano Monaco (Monastero della Rosa Gialla, Damara) | Force Grey | Portatore del presagio di Hlam: *"sangue innocente sarà versato nel Giorno dei Fondatori"* |
-| Berto | **Aelar Moonwhisper** *(vero nome: Aaravos Caelthir)* | Elfo delle stelle Bardo (Collegio di Fochlucan) | Arpisti | Familiare Maestro Bec (beccaccia con papillon fucsia); patrono arcifata Trobbio (eladrin imprevedibile) |
-| Eric | **Fizzra Ingranaggia** "Scintilla" | Gnoma Artefice (specializzazione Armorer a L3, autodidatta) | Zentharim (contatto: Davil Starsong) | Inventrice nativa di Waterdeep in difficoltà finanziarie. Mentore/partner Rennis Coalsworth è scomparso misteriosamente — Eric non sa che Rennis accettò una commessa segreta per Manshoon che fallì, e che ora Manshoon lo tiene alle Kolat Towers. Contattata da Volo per il Portale Spalancato. Segue questline Zentharim M1-M4. |
-| Gabri | **Friedrich Krauser** | Umano Paladino (arco verso **Oathbreaker**) | Zentharim (contatto primario: Davil Starsong) | Arrivato a Waterdeep in fuga dal suo passato; incontra **Aldric** al Portale Spalancato — amico/mentore. Conflitto tra i principi assoluti del voto e la pragmatica morale-grigia degli Zhentarim. **[NOTA DM]** Zentharim M1-M3 → scelte meno binarie; M4 (assassinio) → breaking point verso Oathbreaker L3-4. |
-| Silvia *(ospite)* | **Barnabus "Barney" Reed** | Umano Guerriero / Guardia Cittadina | — (indipendente) | Sergente della Guardia; indaga segretamente su sparizioni al porto; obiettivo: incastrare Urstul Floxin (Zhentarim) |
+**Entry point alternativo:** `/aggiorna-sessione` → Step 0 (recap updater) → 3 → 4 → 6 → 7
 
 ---
 
-## Fazioni del Party
-
-### Arpisti *(The Harpers)*
-- **Membro:** Aelar Moonwhisper
-- **Referente in città:** Mirt il Cambiavalute — villa nel Castle Ward
-- **Stile operativo:** Rete di informatori non convenzionale (animali addestrati, messaggi cifrati, spille d'argento come parola d'ordine). Minima traccia visibile.
-- **Obiettivo a lungo termine:** Monitorare le fazioni criminali, proteggere l'equilibrio politico di Waterdeep
-- **Antagonisti naturali:** Zhentarim, Gilda di Xanathar
-
-### Force Grey *(Le Mani Grigie)*
-- **Membri:** Razak Kendal, Vorador Thraxas
-- **Referente in città:** Vajra Safahr — il Bastone Nero (Torre del Bastone Nero, Castle Ward)
-- **Stile operativo:** Risposta a minacce di scala urbana; operano su ordine diretto di Vajra; ranghi riservati ai più capaci
-- **Collegamento all'arco principale:** Il presagio di Hlam li ha coinvolti fin dall'inizio; i Cassalanters sono dietro al Midnight Tears del Giorno dei Fondatori (vedi Force Grey M1)
-
-### Zentharim *(La Rete Nera)*
-- **Membri informali:** Friedrich Krauser / Gabri (contatto primario, arco → Oathbreaker); Fizzra "Scintilla" / Eric (contatto primario via questline, filo narrativo su Rennis)
-- **Referente in città:** Davil Starsong — Portale Sbadigliante, Dock Ward
-- **Stile operativo:** Mercenari, traffici, controllo della criminalità organizzata. Non tutti gli Zhentarim sono villain — Davil ha un suo codice.
-- **Tensione narrativa:** Barnabus Reed vuole catturare Urstul Floxin, ma party (Friedrich/Fizzra) lavora *con* Zhentarim. Eric attraversa la questline ignara che il mentore scomparso Rennis è nelle mani di Manshoon alle Kolat Towers — M4 potrebbe offrire opportunità di scoperta.
-- **Arco Friedrich (Gabri):** M1 (protezione, vindication) → M2-M3 (zone grigie) → M4 (assassinio Skeemo = breaking point Oathbreaker)
-- **Arco Eric:** M1 (riconoscimento come membro Zhentarim) → M2-M3 (collaborazione pratica con Davil, expertise tecnica) → M4 (possibile scoperta/filo narrativo su Rennis via Skeemo/Manshoon)
-
----
-
-## Villain Principale
-
-**Victoro e Ammalia Cassalanter** — nobili stimati di Waterdeep, adoratori segreti di Asmodeo. Anni fa hanno venduto le anime dei loro tre figli al Diavolo in cambio di potere e ricchezza. Il contratto scade entro l'estate: devono consegnare **99 anime innocenti** e **999 dragoni d'oro** per riscattarle. La loro villa nel Sea Ward nasconde un tempio segreto di Asmodeo. In pubblico sono irreprensibili. Non si sporcano mai le mani direttamente.
-
-**[NOTA DM]** I Cassalanters sono anche in caccia allo Stone of Golorr per ottenere i 999 dragoni dalla Vault of Dragons di Dagult Neverember. Questo li mette in competizione con Xanathar, Jarlaxle e Manshoon (anche se questi non compaiono come villain principali in questo arco).
-
----
-
-## PNG Chiave
-
-| PNG | Ruolo | Prima apparizione prevista | Affiliazione |
-|-----|-------|--------------------------|--------------|
-| **Volothamp "Volo" Geddarm** | Quest-giver iniziale al Portale Spalancato | Capitolo 1 | Indipendente |
-| **Durnan** | Proprietario del Portale Spalancato | Capitolo 1 | Indipendente |
-| **Renaer Neverember** | Figlio del vecchio Open Lord; coinvolto loro malgrado | Capitolo 1 | Indipendente |
-| **Laeral Silverhand** | Open Lord di Waterdeep — figura di autorità lontana | Background | Governo di Waterdeep |
-| **Vajra Safahr** *(il Bastone Nero)* | Arcimaga di Waterdeep; capo Force Grey e Ordine Magisti | Capitolo 2 (Force Grey M1) | Force Grey / Ordine Magisti |
-| **Mirt il Cambiavalute** | Referente Arpisti; ex avventuriero leggendario | Capitolo 2 (Arpisti M1) | Arpisti |
-| **Hlam** | Monaco del Monte Waterdeep; oracolo sporadic | Prima dell'inizio (BG Mirko) | Indipendente |
-| **Brottor Deepdelver** | Mentore nano di Vorador Thraxas — **scomparso** | Background (mai incontrato in gioco) | Ordine Magisti |
-| **Trobbio** | Arcifata patron di Aelar; apparizioni imprevedibili e cromaticamente impossibili | A discrezione del DM | Feywild |
-| **Maestro Bec** | Familiare beccaccia di Aelar; papillon fucsia; giudice silenzioso | Capitolo 1 (sempre presente) | — |
-| **Davil Starsong** | Referente Zhentarim; pragmatico, non crudele | Capitolo 2 (Zentharim M1) | Zhentarim |
-| **Yagra Stonefist** | Braccio destro di Davil; mezza orchessa | Capitolo 2 (Zentharim M1) | Zhentarim |
-| **Urstul Floxin** | Sicario Zhentarim ricercato; obiettivo personale di Barnabus | Capitolo 3 (Fireball) | Zhentarim |
-| **Hyustus Staget** | Capitano Guardia Cittadina del Quartiere del Porto; rivale di Barnabus | Background (BG Silvia) | Guardia Cittadina |
-| **Saeth Cromley** | Sergente della Guardia; collabora con l'Ordine Magisti | Background | Guardia Cittadina |
-| **Barnibus Blastwind** | Mago dell'Ordine Magisti; collabora con la Guardia | Background (collega di Thraximundar) | Ordine Magisti |
-| **Nihiloor** | Illithid nel covo di Xanathar; produce Divoratori di Intelletto | Force Grey M4 | Gilda di Xanathar |
-| **Victoro Cassalanter** | Villain principale (nobile/cultista) | Capitolo 4-5 | Cultisti di Asmodeo |
-| **Ammalia Cassalanter** | Villain principale (nobile/cultista) | Capitolo 4-5 | Cultisti di Asmodeo |
-| **Aldric** | Ex avventuriero al Portale Spalancato; amico/mentore di Friedrich Krauser — **[NOTA DM] è Asmodeo in forma mortale** | Background (BG Gabri) — appare periodicamente durante la campagna | Asmodeo (travestito, mantiene sempre pretesa di mentore umano) |
-| **Manshoon** | Terribile mago-antagonista; capo della rete Zhentarim a Waterdeep; Eric lo conosce da suo danno | Zentharim M2-M4 (background/foreshadowing); Kolat Towers capitoli finali | Zhentarim (nemico di Eric) |
-
----
-
-## Missioni Secondarie
-
-Le missioni sono salvate come file `.txt` nella workspace. Consulta il file per i dettagli completi di ogni missione.
-
-### Arpisti — referente: Mirt · protagonista frazionale: Aelar
-
-| # | Lv | File | Sintesi |
-|---|----|------|---------|
-| 1 | 2 | `Arpisti_Missione1_UnCavalloDonato.txt` | Sorveglianza su Davil Starsong e Yagra via cavalla parlante Maxeene nel Mercato |
-| 2 | 3 | `Arpisti_Missione2_Disinfestazione.txt` | Gazer di Xanathar infiltrato in una libreria del Trades Ward; salvare gatta e libri |
-| 3 | 4 | `Arpisti_Missione3_benvenuti_in_famiglia.txt` | Banda di doppelganger; valutare se sono alleabili; contatto Mattrim "Tre Corde" Mereg |
-| 4 | 4 | `Arpisti_Missione4_velo_alzato.txt` | Infiltrazione sulla nave Eyecatcher durante il Giorno delle Meraviglie; prove contro Jarlaxle/Zardoz Zord |
-
-### Force Grey — referente: Vajra Safahr · protagonisti frazionali: Razak, Vorador
-
-| # | Lv | File | Sintesi |
-|---|----|------|---------|
-| 1 | 2 | `ForceGrey_Missione1_IlCaricoDelFondatore.txt` | Recuperare un artefatto rubato legato al Giorno dei Fondatori; introduce il filo dei Cassalanters |
-| 2 | 3 | `ForceGrey_Missione2_NonETuttoOroQuelCheLuccica.txt` | Sessione sociale/investigativa su una truffa al mercato di Waterdeep |
-| 3 | 4 | `ForceGrey_Missione3_CriminiDiPensiero.txt` | Dura più sessioni (10 gg in-game); operazione sotto copertura; pianifica 3-5 sessioni |
-| 4 | 5 | `ForceGrey_Missione4_CoseTerribilidaSprecare.txt` | Assalto al covo di Xanathar; Nihiloor come boss finale |
-
-### Zentharim — referente: Davil Starsong · protagonisti frazionali: Friedrich, Scintilla
-
-| # | Lv | File | Sintesi |
-|---|----|------|---------|
-| 1 | 2 | `Zentharim_Missione1_un_brutto_momento.txt` | Primo contatto ufficiale con Davil e Yagra; introduzione alla rete nera |
-| 2 | 3 | `Zentharim_Missione2_tieni_il_resto.txt` | Introduce Skeemo — torna in M4 come breaking point |
-| 3 | 4 | `Zentharim_Missione3_corri_dasher.txt` | Tono investigativo + umano; famiglia Snobeedle |
-| 4 | 5 | `Zentharim_Missione4_sangue_del_patto.txt` | **Breaking point Friedrich → Oathbreaker**; possibile scoperta di Rennis/Manshoon per Eric |
-
----
-
-## Mappa File di Riferimento
+## Mappa Cartelle
 
 ```
-AGENTS.md                        → Overview campagna (villain, party, PNG, fazioni, missioni)
-Campagna/party.md                → Stato PG — livello, XP, condizioni, note sessione
-Campagna/fazioni.md              → Posizione fazioni verso party, archi lunghi
-Campagna/missioni-secondarie.md  → Stato tutte le 12 missioni + note timing DM
-Campagna/png-incontrati.md       → Relationship map per PG (atteggiamenti numerici)
-Campagna/sessioni/dm-notes-##.md → Note sessione per sessione (narrative + meccaniche)
+campagna/
+  contesto.md              ← party, villain, PNG chiave, fazioni, tabella missioni per livello
+  party.md                 ← stato PG: livello, XP, condizioni, note sessione
+  fazioni.md               ← posizione fazioni + folder_path e fonti_path per ogni fazione
+  missioni-secondarie.md   ← stato tutte le missioni (Pianificata / In corso / Completata)
+  png-incontrati.md        ← relationship map per PG (atteggiamenti numerici)
+  rapporti.md              ← note qualitative su rapporti PG-PNG
+  sessioni/
+    dm-notes-sessione-NN.md  ← note sessione (narrative + meccaniche)
+    recaps/
+      recap-sessione-NN.md   ← recap post-sessione compilato dal DM
 
-Missioni/Arpisti/M#-*.md         → Struttura tattica missioni Arpisti (obiettivi, CD, ricompense)
-Missioni/ForceGrey/M#-*.md       → Struttura tattica missioni Force Grey
-Missioni/Zentharim/M#-*.md       → Struttura tattica missioni Zentharim
+missioni/{fazione}/          ← sottocartelle per fazione; i nomi vengono da campagna/fazioni.md
+  M#-NomeMissione.md         ← struttura meccanica: obiettivi, CD, PNG, ricompense
 
-Fonti-Originali/BG *.txt         → Background PG estesi (hook, PNG personali, segreti)
-Fonti-Originali/*_Missione*.txt  → Narrativa estesa per ogni missione (dialoghi, scene)
-Fonti-Originali/Dragon Heist.md  → Avventura ufficiale (EN): struttura, PNG canonici, testi boxed >>
-Fonti-Originali/Volo guide *.txt → Quartieri, locande, istituzioni di Waterdeep
+personaggi/
+  NomePG.md                  ← background strutturato di ogni PG
+
+fonti/
+  campagna/
+    [libro o modulo principale].md/txt  ← fonte narrativa principale (es. Dragon Heist.md)
+  missioni/
+    [Fazione]_MissioneN_*.txt  ← narrativa estesa per ogni missione (dialoghi, scene)
+  personaggi/
+    BG *.txt                   ← background grezzi dei PG
+  lore/
+    *.txt / *.odt              ← guide ambientazione, lore, gazetteer
+
+src/                     ← Foundry VTT source JSON (generato da build-foundry.mjs)
+packs/                   ← Foundry VTT LevelDB compilati
+module.json              ← manifest Foundry VTT
 ```
+
+### Come gli agenti trovano le cartelle missioni
+
+Le cartelle `missioni/{fazione}/` e le fonti `fonti/missioni/` hanno nomi diversi per ogni campagna.
+**Gli agenti NON hardcodano i nomi delle fazioni.** Prima di accedere ai file missione:
+1. Leggono `campagna/fazioni.md`
+2. Per ogni fazione trovano i campi `folder_path` (es. `missioni/arpisti/`) e `fonti_path` (es. `fonti/missioni/Arpisti_*.txt`)
+3. Usano quei path per aprire i file corretti
 
 ---
 
-## Tabella Decisionale — Quale Missione Per Livello
+## Setup Nuova Campagna
 
-| Livello party | Missione consigliata | Fazione protagonista | Dipendenze |
-|---------------|---------------------|----------------------|------------|
-| **1** | Cap. 1 — Portale Spalancato, rescue Floon | Tutto il party | Prima sessione / già gestita |
-| **2** | Arpisti M1 — Un Cavallo Donato | Aelar (+ party) | Nessuna; introduce Davil e Yagra → gioca **prima** di Zentharim M1 |
-| **2** | Force Grey M1 — Il Carico del Fondatore | Razak, Vorador | Vajra deve aver convocato il party dopo S1 |
-| **2** | Zentharim M1 — Un Brutto Momento | Friedrich, Scintilla (+ Barnabus se presente) | Meglio dopo Arpisti M1 (Davil già visto) |
-| **3** | Force Grey M2 — Non è Tutto Oro | Razak, Vorador | Dopo M1 Force Grey; sessione "relax" sociale |
-| **3** | Arpisti M2 — Disinfestazione | Aelar (+ party) | Nessuna; location: libreria Trades Ward |
-| **3** | Zentharim M2 — Tieni il Resto | Friedrich, Scintilla | **Introduce Skeemo** — torna in Z-M4 |
-| **4** | Force Grey M3 — Crimini di Pensiero | Razak, Vorador | Dura più sessioni (10 gg in-game); pianifica 3-5 sessioni |
-| **4** | Arpisti M3 — Benvenuti in Famiglia | Aelar (+ party) | Nessuna; introduce doppelganger e Mattrim |
-| **4** | Zentharim M3 — Corri, Dasher! | Friedrich, Scintilla | Tono investigativo + umano; famiglia Snobeedle |
-| **5** | Force Grey M4 — Cose Terribili | Razak, Vorador | Usa mappa covo Xanathar da Dragon Heist.md |
-| **5** | Zentharim M4 — Sangue del Patto | Friedrich, Scintilla | **Breaking point Friedrich → Oathbreaker**; hook su Rennis/Manshoon per Scintilla |
-| **4-5** | Arpisti M4 — Velo Alzato | Aelar (+ party) | Dipende dall'arco Jarlaxle; party deve conoscere Zardoz Zord |
-
-
+Per iniziare a lavorare su una nuova campagna:
+1. Sostituisci il contenuto di `campagna/`, `missioni/`, `personaggi/`, `fonti/`, `src/`, `packs/`, `module.json`
+2. Metti le fonti grezze (libro campagna, BG personaggi, testi missioni) nelle sottocartelle di `fonti/`
+3. Invoca `/setup-campagna` → Agente `00-campaign-setup.agent.md` legge le fonti e genera tutti i file strutturati

@@ -7,12 +7,12 @@ description: |
   Questo agente gestisce tutte le procedure relative a Git per il repository: da semplici
   commit/push fino all'intero iter di rilascio (add → commit → build → tag → release su GitHub).
   Lavora in modo conservativo: chiede conferma prima di operazioni distruttive o push su branch
-  protetti. Segue le linee guida presenti in `Master-Prompt-DM.md` per il workflow di release.
+  protetti. Segue il workflow di release definito in `ai/agents/AGENTS.md`.
 
 when_to_use: |
   - Vuoi creare commit e push rapidi.
   - Vuoi preparare, taggare e pubblicare una release (zip + GitHub Release).
-  - Vuoi eseguire il workflow completo di build/release descritto in `Master-Prompt-DM.md`.
+  - Vuoi eseguire il workflow completo di build/release (vedi `ai/agents/AGENTS.md`).
 
 capabilities:
   - Esegue comandi Git comuni (`add`, `commit`, `push`, `branch`, `checkout`, `tag`).
@@ -49,10 +49,10 @@ ambiguities_to_clarify:
 examples:
   - Esempio: commit semplice e push su branch corrente
     - `git add .`
-    - `git commit -m "fix: corregge typo in Campagna/party.md"`
+    - `git commit -m "fix: corregge typo in campagna/party.md"`
     - `git push`
 
-  - Esempio: workflow di release (seguendo Master-Prompt-DM.md)
+  - Esempio: workflow di release (vedi AGENTS.md)
     1. `npm run build`
     2. L'agente incremente automaticamente la versione in `module.json` (es. `1.0.11` → `1.0.12`) previa conferma
     3. Aggiorna il campo `download` in `module.json` se richiesto
@@ -70,8 +70,8 @@ prompts_to_try:
 operational_notes:
   - L'agente può eseguire comandi locali in PowerShell quando autorizzato; ogni comando che
     modifica lo stato remoto richiede conferma esplicita.
-  - Quando il repo contiene istruzioni di release (es. `Master-Prompt-DM.md`), l'agente le
-    seguirà come policy base e chiederà conferma per gli step che richiedono credenziali o tag.
+  - Per le istruzioni di release, riferirsi a `ai/agents/AGENTS.md`; l'agente
+    chiederà conferma per gli step che richiedono credenziali o tag.
 
 file_location: git-procedures.agent.md
 

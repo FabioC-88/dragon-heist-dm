@@ -17,6 +17,8 @@
 | **Membro nel party** | Aelar Moonwhisper (Berto) |
 | **Sede operativa** | Villa di Mirt, Castle Ward |
 | **Ultimo evento** | — *(campagna non iniziata)* |
+| **folder_path** | `missioni/arpisti/` |
+| **fonti_path** | `fonti/missioni/Arpisti_*.txt` |
 
 **Stile operativo:** Rete di informatori nell'ombra. Comunicazione via animali addestrati e messaggi cifrati. Spille d'argento come parola d'ordine. Minima traccia visibile. Obiettivo: proteggere l'equilibrio politico e impedire che le tirannie si consolidino.
 
@@ -41,6 +43,8 @@
 | **Membri nel party** | Razak Kendal (Mirko), Vorador Thraxas (Seba) |
 | **Sede operativa** | Torre del Bastone Nero, Castle Ward |
 | **Ultimo evento** | — *(campagna non iniziata)* |
+| **folder_path** | `missioni/forcegrey/` |
+| **fonti_path** | `fonti/missioni/ForceGrey_*.txt` |
 
 **Stile operativo:** Risposta a minacce di scala urbana. Operano su ordine diretto di Vajra. I ranghi più alti (Force Grey) sono riservati ai più capaci; i ranghi base (Mani Grigie) sono accessibili prima. Nessun compromesso sulla sicurezza di Waterdeep.
 
@@ -65,6 +69,8 @@
 | **Membri nel party** | Friedrich Krauser (Gabri) — contatto primario; Fizzra "Scintilla" (Eric) — fuggitiva da Manshoon |
 | **Sede operativa** | Portale Sbadigliante *(taverna nel Dock Ward)* |
 | **Ultimo evento** | — *(campagna non iniziata)* |
+| **folder_path** | `missioni/zentharim/` |
+| **fonti_path** | `fonti/missioni/Zentharim_*.txt` |
 
 **Stile operativo:** Mercenari, traffici, controllo della criminalità organizzata. Davil Starsong ha un codice personale — non è un villain, è un pragmatico. Non tutti gli Zhentarim sono uguali. La fazione è divisa tra chi segue Manshoon e chi lavora in modo indipendente a Waterdeep.
 

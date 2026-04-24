@@ -15,9 +15,9 @@ description: |
 
 when_to_use: |
   - Comando /aggiorna-sessione: dopo aver giocato una sessione, per aggiornare la successiva.
-  - Input richiesto: numero della sessione TARGET (NN) + file recap in Campagna/sessioni/recaps/recap-sessione-[NN-1].md
+  - Input richiesto: numero della sessione TARGET (NN) + file recap in campagna/sessioni/recaps/recap-sessione-[NN-1].md
 
-recap_file_location: Campagna/sessioni/recaps/
+recap_file_location: campagna/sessioni/recaps/
 recap_file_naming: recap-sessione-XX.md  (XX = numero sessione giocata)
 ---
 
@@ -29,7 +29,7 @@ Sei un editor di continuità per campagne D&D 5e. Il tuo compito è **aggiornare
 
 ## Formato File di Recap
 
-I file di recap vanno salvati in `Campagna/sessioni/recaps/` con il nome `recap-sessione-XX.md`.
+I file di recap vanno salvati in `campagna/sessioni/recaps/` con il nome `recap-sessione-XX.md`.
 
 Il DM compila il recap **dopo** ogni sessione giocata, usando questa struttura:
 
@@ -78,9 +78,9 @@ Il DM compila il recap **dopo** ogni sessione giocata, usando questa struttura:
 ### Step 1 — Identifica i file coinvolti
 
 1. Determina il numero della sessione TARGET: `NN` (specificato dall'utente, o chiedi).
-2. Leggi `Campagna/sessioni/recaps/recap-sessione-[NN-1].md` → **il recap da integrare**.
-3. Leggi `Campagna/sessioni/dm-notes-sessione-[NN-1].md` → **il piano originale della sessione precedente**.
-4. Leggi `Campagna/sessioni/dm-notes-sessione-NN.md` → **il file da aggiornare**.
+2. Leggi `campagna/sessioni/recaps/recap-sessione-[NN-1].md` → **il recap da integrare**.
+3. Leggi `campagna/sessioni/dm-notes-sessione-[NN-1].md` → **il piano originale della sessione precedente**.
+4. Leggi `campagna/sessioni/dm-notes-sessione-NN.md` → **il file da aggiornare**.
 5. Leggi tutte le sessioni **anteriori** a NN-1 (dm-notes-sessione-01 fino a NN-2) **solo come contesto di background** — non come priorità.
 
 **⚠️ IMPORTANTE:** Non leggere né considerare file di sessione con numero > NN. La sessione NN è il futuro: non deve essere contaminata da previsioni su sessioni ancora successive.
@@ -183,13 +183,13 @@ Dopo aver applicato i delta, **il file aggiornato va ripassato da:**
 ## File da Leggere
 
 ```
-Campagna/sessioni/recaps/recap-sessione-[NN-1].md   ← Input principale
-Campagna/sessioni/dm-notes-sessione-[NN-1].md        ← Piano della sessione precedente
-Campagna/sessioni/dm-notes-sessione-NN.md            ← File target da aggiornare
-Campagna/sessioni/dm-notes-sessione-01.md ... NN-2   ← Contesto storico (solo lettura)
-Campagna/party.md                                    ← Stato attuale party
-Campagna/png-incontrati.md                           ← Atteggiamenti PNG correnti
-Campagna/missioni-secondarie.md                      ← Stato missioni
+campagna/sessioni/recaps/recap-sessione-[NN-1].md   ← Input principale
+campagna/sessioni/dm-notes-sessione-[NN-1].md        ← Piano della sessione precedente
+campagna/sessioni/dm-notes-sessione-NN.md            ← File target da aggiornare
+campagna/sessioni/dm-notes-sessione-01.md ... NN-2   ← Contesto storico (solo lettura)
+campagna/party.md                                    ← Stato attuale party
+campagna/png-incontrati.md                           ← Atteggiamenti PNG correnti
+campagna/missioni-secondarie.md                      ← Stato missioni
 ```
 
 ---

@@ -31,12 +31,12 @@ Non ti limiti a segnalare problemi: **li risolvi**.
 Apri e leggi:
 
 ```
-Campagna/sessioni/dm-notes-sessione-XX.md    ← Ultima sessione giocata (per coerenza narrativa)
-Campagna/sessioni/dm-notes-sessione-01.md    ← Template strutturale di riferimento
-Campagna/party.md                            ← Livello, XP, stato PG
-Campagna/png-incontrati.md                   ← Atteggiamenti PNG aggiornati
-Campagna/fazioni.md                          ← Stato fazioni
-Fonti-Originali/Dragon Heist.md              ← Per verifica fedeltà testi boxed
+campagna/sessioni/dm-notes-sessione-XX.md    ← Ultima sessione giocata (per coerenza narrativa)
+campagna/sessioni/dm-notes-sessione-01.md    ← Template strutturale di riferimento
+campagna/party.md                            ← Livello, XP, stato PG
+campagna/png-incontrati.md                   ← Atteggiamenti PNG aggiornati
+campagna/fazioni.md                          ← Stato fazioni
+fonti/campagna/                              ← Per verifica fedeltà testi boxed (fonte principale)
 ```
 
 ### Step 2 — Checklist di Revisione
@@ -78,7 +78,7 @@ Confronta con dm-notes-sessione-XX.md (ultima sessione):
 
 Per ogni blockquote `>` che corrisponde a un testo read-aloud originale:
 
-1. Individua il testo originale inglese corrispondente in `Fonti-Originali/Dragon Heist.md`.
+1. Individua il testo originale corrispondente nella fonte principale in `fonti/campagna/`.
 2. Verifica che **tutte le informazioni chiave** siano presenti nella versione italiana:
    - Descrizioni di creature (aspetto, comportamento)
    - Simboli, oggetti, caratteristiche dell'ambiente
@@ -114,13 +114,13 @@ Per ogni stat block presente:
 
 La checklist deve includere tutti i file che **dovranno essere aggiornati** dopo questa sessione:
 
-- [ ] `Campagna/party.md` (level up? nuovi XP? cambi di stato?)
-- [ ] `Campagna/png-incontrati.md` (nuovi PNG incontrati? atteggiamenti cambiati?)
-- [ ] `Campagna/fazioni.md` (nuovi rapporti? missioni che cambiano stato?)
-- [ ] `Campagna/missioni-secondarie.md` (missioni avviate, completate, o modificate?)
-- [ ] `Campagna/rapporti.md` (nuovi rapporti tra PG e PNG?)
-- [ ] `Campagna/sessioni/recaps/recap-sessione-NN.md` da compilare **dopo** la sessione (usa il template in `00-recap-updater.agent.md`)
-- [ ] Eventuale `dm-notes-sessione-NN+1.md` da creare prima della prossima sessione
+- [ ] `campagna/party.md` (level up? nuovi XP? cambi di stato?)
+- [ ] `campagna/png-incontrati.md` (nuovi PNG incontrati? atteggiamenti cambiati?)
+- [ ] `campagna/fazioni.md` (nuovi rapporti? missioni che cambiano stato?)
+- [ ] `campagna/missioni-secondarie.md` (missioni avviate, completate, o modificate?)
+- [ ] `campagna/rapporti.md` (nuovi rapporti tra PG e PNG?)
+- [ ] `campagna/sessioni/recaps/recap-sessione-NN.md` da compilare **dopo** la sessione (usa il template in `00-recap-updater.agent.md`)
+- [ ] Eventuale `campagna/sessioni/dm-notes-sessione-NN+1.md` da creare prima della prossima sessione
 
 ---
 

@@ -3,48 +3,67 @@ AI files: uso e organizzazione
 
 Scopo
 ------
-Questo file descrive i file "AI / agent / prompt" presenti nel repository, come usarli (manualmente o programmaticamente), e come validarli.
+Questo file descrive i file "AI / agent / prompt" presenti nel repository, come usarli e come è organizzato il sistema.
 
-Stato attuale
---------------
-- I file sotto la radice (`AGENTS.md`, `Master-Prompt-DM.md`, `.instructions.md`, `DnD5e2024-Expert-SystemPrompt.md`, `git-procedures.agent.md`) sono documenti di prompt e istruzioni destinati all'uso umano (copy/paste in Copilot/Chat UI) o a eventuali tool esterni.
-- Non esiste un loader runtime che carichi automaticamente questi file in questo repository.
-
-Obiettivo raccomandato
-----------------------
-1. Centralizzare i prompt/agent in `ai/` per chiarezza (opzionale, consigliato).
-2. Usare `ai/manifest.json` come elenco canonico dei prompt/agent da validare/integrare.
-3. Eseguire `node scripts/validate-prompts.mjs` per verificare che i file elencati esistano.
-
-File rilevanti e raccomandazione d'uso
--------------------------------------
-- `AGENTS.md` — Documentazione principale per l'assistente DM; tenerlo come reference umano.
-- `Master-Prompt-DM.md` — Manuale operativo esteso; mantenere come documentazione estesa.
-- `.instructions.md` — Slash-commands e comportamento operativo; utile per Copilot/assistant.
-- `DnD5e2024-Expert-SystemPrompt.md` — System-prompt specialistico per regole D&D; utile come reference tecnico.
-- `git-procedures.agent.md` — Agente per procedure Git/release; può essere spostato sotto `ai/agents/` per coerenza.
-- `.github/prompts/` — Library di prompt; se usati da GitHub Actions, mantenerli qui; altrimenti consolidare in `ai/prompts/`.
-
-Esempio di workflow (manuale)
-----------------------------
-1. Aprire il prompt desiderato (es. `AGENTS.md`) e copiare nel tuo Chat UI (Copilot Chat, ChatGPT, ecc.) come system prompt.
-2. Usare i template sotto `.github/prompts/` come prompt predefiniti per task ripetuti.
-
-Validazione locale
+Struttura file AI
 ------------------
-Esegui:
+Tutti gli agenti e le istruzioni si trovano sotto `ai/agents/`:
 
-```powershell
-npm run ai-validate
+```
+ai/agents/
+  AGENTS.md                        ← Documentazione framework agenti (pipeline, mappa cartelle)
+  instructions.md                  ← Slash commands per VS Code Copilot Chat
+  00-campaign-setup.agent.md       ← Bootstrap nuova campagna da fonti grezze
+  00-recap-updater.agent.md        ← Aggiorna note sessione dopo il gioco
+  01-session-extractor.agent.md    ← Estrae chunk narrativo da fonti/campagna/
+  02-session-translator.agent.md   ← Traduce e adatta in italiano
+  03-session-pc-integrator.agent.md ← Integra hook PG e atteggiamenti PNG
+  04-session-missions-integrator.agent.md ← Integra hook missioni secondarie
+  06-session-reviewer.agent.md     ← QC finale e validazione
+  git-procedures.agent.md          ← Procedure Git/release
 ```
 
-Questo script esegue `node scripts/validate-prompts.mjs` e verifica che i file elencati in `ai/manifest.json` esistano.
+Struttura campagna
+-------------------
+I file di contenuto della campagna attiva sono in:
 
-Note di migrazione
-------------------
-- Se si decide di spostare i file in `ai/`, aggiornare i riferimenti in `AGENTS.md`, `Master-Prompt-DM.md` e `.instructions.md`.
-- Prima di spostare, confermare che eventuali workflow esterni (GitHub Actions, estensioni VSCode) non dipendano dai path correnti.
+```
+campagna/
+  contesto.md              ← Party, PNG, villain, fazioni, tabella missioni (DH-specifico)
+  party.md                 ← Livello, XP, stato attuale PG
+  fazioni.md               ← Posizione fazioni + folder_path/fonti_path per ogni fazione
+  missioni-secondarie.md   ← Stato missioni (Pianificata/In corso/Completata)
+  png-incontrati.md        ← Registro PNG incontrati con attitudini
+  rapporti.md              ← Note qualitative PG-PNG
+  sessioni/                ← Note per sessione (dm-notes-sessione-NN.md)
 
-Contatti
---------
-Se vuoi che esegua la migrazione o crei il manifest + script di integrazione, scegli una delle opzioni proposte nella conversazione: A) solo README; B) README + manifest + script (eseguito ora); C) tutto (incluso loader opzionale).
+fonti/
+  campagna/                ← Fonte narrativa principale (libro/modulo)
+  missioni/                ← Testi grezzi missioni secondarie per fazione
+  personaggi/              ← File BG dei PG (BG NomeGiocatore.txt)
+  lore/                    ← Guide ambientazione e materiale di supporto
+
+missioni/{fazione}/        ← File .md strutturati per ogni missione (path da fazioni.md)
+personaggi/                ← Background strutturati dei PG
+```
+
+Uso con VS Code Copilot
+------------------------
+Gli agenti sono file `.agent.md` usabili in VS Code Copilot Chat in modalità agent.
+Le istruzioni in `instructions.md` definiscono gli slash commands disponibili:
+
+- `/setup-campagna`   — Bootstrap nuova campagna da zero
+- `/prep-sessione`    — Prepara la sessione successiva (pipeline 7 agenti)
+- `/aggiorna-sessione` — Aggiorna note sessione dopo il gioco
+- `/aggiorna-campagna` — Aggiorna stato campagna dopo una sessione
+- `/espandi-missione` — Espandi dettagli di una missione
+- `/png-stat`         — Genera stat block per un PNG
+- `/indizio`          — Genera un indizio narrativo
+
+Avviare una nuova campagna
+---------------------------
+1. Metti i materiali grezzi in `fonti/campagna/`, `fonti/missioni/`, `fonti/personaggi/`
+2. Usa `/setup-campagna` in Copilot Chat → invoca `00-campaign-setup.agent.md`
+3. L'agente intervista il DM e genera tutti i file strutturati
+
+Per la campagna corrente (Dragon Heist), i file sono già presenti.
