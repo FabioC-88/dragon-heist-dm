@@ -8,7 +8,7 @@ generato: 2026-04-24
 # Persone di Waterdeep — Capitolo 1
 ### Friedrich Krauser (Gabri)
 
-> Questi sono i personaggi che conosci, o di cui hai sentito parlare, mentre ti muovi nel Capitolo 1 degli eventi di Waterdeep. Non tutti appariranno nella prossima sessione — ma potresti incrociarli prima del previsto.
+> Queste sono le persone che Friedrich conosce o di cui ha sentito parlare prima di entrare nel vivo degli eventi del Capitolo 1. Non tutte compaiono necessariamente nella prossima sessione.
 
 ---
 
@@ -17,54 +17,50 @@ generato: 2026-04-24
 **Ruolo pubblico:** Taverniere leggendario, ex avventuriero. Il Portale Spalancato è il punto di riferimento degli avventurieri in città.
 **Quello che sai:**
 - Un uomo di poche parole. Non fa domande che non ti aspetti, ma nota tutto. Ti ha visto sederti al bancone da solo molte sere.
-- Ha affrontato un troll a mani nude — figurativamente. È esattamente quello che sembra: qualcuno che ha visto tutto e si è guadagnato ogni ruga.
+- Veterano di Undermountain nel senso più concreto. Esattamente quello che sembra: qualcuno che ha visto tutto e si è guadagnato ogni ruga.
 - Sa cose. Non le offre, ma se hai la sua fiducia, può diventare una delle fonti più preziose della città.
-- La sua posizione verso di te: ti rispetta per come ti sei comportato quella sera. Non è poco.
 
 ---
 
 ## Volothamp Geddarm
-**Come lo conosci:** Ti ha avvicinato al Portale Spalancato. Incontrato di persona nella Sessione 1.
+**Come lo conosci:** Ti ha avvicinato al Portale Spalancato con un invito a un incontro.
 **Ruolo pubblico:** Cronista, mago e celebrità, autore di guide di viaggio famose in tutto il Faerûn.
 **Quello che sai:**
 - Sa trovare le persone giuste nel momento sbagliato — o nel momento giusto, dipende dai punti di vista.
-- La sua preoccupazione per Floon era reale. Non è un uomo che recita, anche quando esagera.
+- Non è un uomo che recita, anche quando esagera. Tiene agli affetti genuini.
 - Il compenso promesso forse supera le sue disponibilità attuali, ma il regalo che ha in mente è concreto.
 
 ---
 
 ## Yagra Stonefist
-**Come lo conosci:** L'hai incontrata nella rissa al Portale Spalancato (Sessione 1). Braccio destro di Davil Starsong — il tuo referente Zentharim.
+**Come lo conosci:** Braccio destro di Davil Starsong — il tuo referente Zentharim. La conosci attraverso la rete della Rete Nera.
 **Ruolo pubblico:** Mercenaria mezza orchessa, volto noto nel Dock Ward.
 **Quello che sai:**
-- Ha un codice. Non combatte per ordine — quella sera stava difendendo la sua dignità, punto.
+- Ha un codice. Non combatte per ordine — agisce per principio personale.
 - È la principale intermediaria di Davil Starsong sul campo. Ogni contatto futuro con gli Zentharim probabilmente passerà attraverso di lei.
-- Ha già preso contatti con te e Fizzra dopo la Sessione 1. Il rapporto con la Rete Nera si sta formalizzando.
 
 ---
 
 ## Floon Blagmaar
-**Come lo conosci:** Te ne ha parlato Volo — è il centro della sua missione.
-**Ruolo pubblico:** Uomo comune, amico di Volo Geddarm.
+**Come lo conosci:** Potresti incontrarlo nei locali del Dock Ward. È il tipo di persona che frequenta quegli ambienti.
+**Ruolo pubblico:** Uomo comune, noto frequentatore dei locali del Dock Ward.
 **Quello che sai:**
-- Maschio umano sulla trentina, capelli biondi-rossastri ondulati, vestiva abiti principeschi.
-- Rapito per errore — scambiato per qualcun altro. Il tipo di situazione che ricorda che anche le persone innocenti possono trovarsi nel mezzo di qualcosa di grosso.
-- Non ancora trovato.
+- Maschio umano sulla trentina, capelli biondi-rossastri ondulati. Un tipo socievole, non particolarmente cauto.
 
 ---
 
 ## Renaer Neverember
-**Come lo conosci:** L'hai trovato nascosto in un magazzino del Dock Ward (Sessione 1). Figlio del vecchio Lord Aperto — nome noto in città.
+**Come lo conosci:** Figlio del vecchio Lord Aperto — nome noto in città. Nel contesto Zentharim, il suo nome circola per ragioni specifiche.
 **Ruolo pubblico:** Figlio di Dagult Neverember, ex Lord Aperto di Waterdeep. Nobile giovane, profilo volutamente discreto.
 **Quello che sai:**
-- Si è comportato meglio di molti nobili che hai conosciuto, coperto di sporcizia com'era. Parla chiaro e non mente.
-- Gli Zentharim lo cercavano per un tesoro nascosto da suo padre — lui dice di non saperne nulla.
-- Ha contatti importanti. Non il tipo di alleato da sottovalutare, anche se apparentemente non ha potere diretto.
+- Gli Zentharim hanno interesse su di lui: credono che suo padre abbia nascosto qualcosa di valore in città, e che Renaer possa essere una pista.
+- Ha preso le distanze dal padre pubblicamente. Non è chiaro quanto sia davvero all'oscuro degli affari paterni.
+- Ha contatti importanti, nonostante il profilo basso.
 
 ---
 
 ## Xoblob
-**Come lo conosci:** Proprietario dell'Old Xoblob Shop nel Dock Ward, visitato durante le indagini (Sessione 1).
+**Come lo conosci:** Proprietario dell'Old Xoblob Shop nel Dock Ward — il negozio tutto viola è un riferimento noto nel quartiere.
 **Ruolo pubblico:** Gnomo commerciante di curiosità, tutto viola, nel Dock Ward.
 **Quello che sai:**
 - Stravagante, ma ha informazioni utili se lo si approccia nel modo giusto.
@@ -73,10 +69,10 @@ generato: 2026-04-24
 ---
 
 ## Hyustus Staget
-**Come lo conosci:** Capitano della Guardia Cittadina del Dock Ward — si è presentato al magazzino con rinforzi dopo che avete trovato Renaer (Sessione 1).
+**Come lo conosci:** Capitano della Guardia Cittadina del Dock Ward — figura che ogni operativo nel quartiere conosce almeno di nome.
 **Ruolo pubblico:** Capitano veterano della Guardia nel Dock Ward. Rispettato dai residenti, anche se controverso nei metodi.
 **Quello che sai:**
-- Non è un nemico dichiarato, ma non è nemmeno cieco. Ha distribuito il Codice Legale come avvertimento velato — ti ha notato.
+- Non è un nemico dichiarato, ma non è nemmeno cieco. Nota chi si muove nel suo quartiere.
 - Preferisce la cautela all'azione. Questo può essere un vantaggio se il party si muove con discrezione.
 - Tollera ciò che non può fermare — finché il sangue non raggiunge le strade. Ricordatelo.
 
@@ -86,7 +82,7 @@ generato: 2026-04-24
 **Come lo conosci:** Nome che circola negli ambienti Zentharim come operativo di alto profilo.
 **Ruolo pubblico:** Agente Zentharim, instigatore degli scontri recenti tra Rete Nera e Gilda di Xanathar.
 **Quello che sai:**
-- Gestisce i lavori difficili per la Rete Nera a Waterdeep. I cinque agenti che hanno rapito Floon e Renaer lavoravano per lui.
+- Gestisce i lavori difficili per la Rete Nera a Waterdeep.
 - La Guardia Cittadina lo cerca attivamente. Finora non è riuscita a tenerlo.
 - Nei circoli Zentharim si capisce velocemente che è qualcuno da non sottovalutare — o da incontrare senza preparazione.
 

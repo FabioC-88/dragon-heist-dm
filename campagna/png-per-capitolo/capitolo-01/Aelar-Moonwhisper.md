@@ -1,6 +1,14 @@
-# Persone di Waterdeep
+---
+capitolo: 1
+pg: Aelar Moonwhisper
+giocatore: Berto
+generato: 2026-04-24
+---
 
-> Questi sono i personaggi che conosci, o di cui hai sentito parlare, mentre ti muovi nel Capitolo 1 degli eventi di Waterdeep.
+# Persone di Waterdeep — Capitolo 1
+### Aelar Moonwhisper (Berto)
+
+> Queste sono le persone che Aelar conosce o di cui ha sentito parlare prima di entrare nel vivo degli eventi del Capitolo 1. Non tutte compaiono necessariamente nella prossima sessione.
 
 ---
 
@@ -22,63 +30,51 @@
 ---
 
 ## Volothamp Geddarm
-**Come lo conosci:** Ti ha invitato al Portale Spalancato e ti ha commissionato la ricerca di Floon. Incontrato di persona nella Sessione 1.
+**Come lo conosci:** Hai sentito il suo nome nelle reti degli Arpisti come figura che si muove con disinvoltura tra personaggi influenti. Ti ha fatto recapitare un invito al Portale Spalancato.
 **Ruolo pubblico:** Cronista, mago e celebrità, autore di guide di viaggio famose in tutto il Faerûn.
 **Quello che sai:**
-- Esagera, racconta storie, sparge voce. Ma è onesto nelle motivazioni — la preoccupazione per Floon era reale.
+- Esagera, racconta storie, sparge voce — ma sotto la facciata c'è un uomo con contatti reali e motivazioni genuine.
 - Ha una rete di conoscenze enorme. Il tipo di persona che "conosce qualcuno" ovunque vada.
-- Il compenso promesso è più generoso delle sue tasche attuali — ma il regalo che ne seguirà sarà concreto.
+- Negli ambienti degli Arpisti circola come figura utile, non affiliata, ma affidabile.
 
 ---
 
 ## Durnan
-**Come lo conosci:** Proprietario del Portale Spalancato. L'hai visto in azione nella Sessione 1.
+**Come lo conosci:** Il suo nome è leggenda tra chi frequenta i circoli degli avventurieri. Proprietario del Portale Spalancato, il punto di ritrovo più famoso di Waterdeep.
 **Ruolo pubblico:** Taverniere leggendario, ex avventuriero di Undermountain. Il Portale Spalancato è il suo dominio.
 **Quello che sai:**
-- Poche parole, molti anni di esperienza. Ha affrontato un troll con una spada a due mani senza cambiare espressione.
+- Poche parole, molti anni di esperienza. Si dice che abbia affrontato le profondità di Undermountain più volte e sia tornato con le proprie gambe.
 - Conosce ogni voce che passa per questa città. Non è facile guadagnare la sua fiducia — ma vale lo sforzo.
 - Il Portale Spalancato è un punto di passaggio per avventurieri di tutti i tipi. Utile per chi vuole capire cosa si muove in città.
 
 ---
 
 ## Yagra Stonefist
-**Come lo conosci:** Mezza orchessa coinvolta nella rissa al Portale Spalancato (Sessione 1).
-**Ruolo pubblico:** Mercenaria, volto noto nel Dock Ward.
+**Come lo conosci:** Nome presente nell'intelligence degli Arpisti sulle operazioni Zentharim nel Dock Ward.
+**Ruolo pubblico:** Mercenaria mezza orchessa, volto noto nel Dock Ward.
 **Quello che sai:**
-- Ha un codice personale — combatteva per la sua dignità, non per ordine.
-- È legata agli Zentharim. Come Arpista, sai che gli Zentharim sono un'organizzazione da monitorare — ma non necessariamente da combattere apertamente a ogni incontro.
-- Si è comportata bene durante la crisi del troll. Il rapporto è nascente ma non privo di possibilità.
-
----
-
-## Floon Blagmaar
-**Come lo conosci:** Te ne ha parlato Volo — è il centro della sua missione.
-**Ruolo pubblico:** Uomo comune, amico di Volo Geddarm.
-**Quello che sai:**
-- Maschio umano sulla trentina, capelli biondi-rossastri ondulati, vestiva abiti principeschi.
-- Un tipo affascinante ma non particolarmente cauto — lo descrivono come facile da ingannare o influenzare.
-- È sparito nel Dock Ward dopo una serata con Volo. Sembra che sia stato rapito per errore, scambiato per qualcun altro.
-- Non ancora trovato.
+- È identificata come braccio operativo di Davil Starsong, uno degli Zentharim più attivi nella zona portuale.
+- Come Arpista, sai che gli Zentharim sono un'organizzazione da monitorare — ma non necessariamente da combattere apertamente a ogni incontro.
+- Il suo profilo è quello di qualcuno con un codice personale: non agisce per puro ordine. Questo la distingue dai picciotti ordinari.
 
 ---
 
 ## Renaer Neverember
-**Come lo conosci:** L'hai trovato nascosto in un magazzino del Dock Ward (Sessione 1). Conosci il suo nome da prima — il figlio del vecchio Lord Aperto è una figura pubblica.
+**Come lo conosci:** Il figlio del vecchio Lord Aperto è una figura pubblica. Hai sentito il suo nome negli ambienti degli Arpisti.
 **Ruolo pubblico:** Figlio di Dagult Neverember, ex Lord Aperto di Waterdeep. Nobile giovane, vive in città con un profilo volutamente basso.
 **Quello che sai:**
-- Si è comportato con grazia anche in condizioni umilianti. Parla con onestà — compresi i suoi limiti.
-- Agli Zentharim serviva perché credevano sapesse dove si trova un tesoro nascosto da suo padre. Non sa nulla — e sembra vero.
-- Ha amici in alto, inclusi Arpisti. Può aprire porte e organizzare incontri.
-- È estranio al padre: la ferita è vecchia e non sembra volerla curare.
+- Ha preso esplicitamente le distanze dal padre e dalla sua eredità politica. Non è considerato una minaccia né un alleato diretto.
+- Ha amici in alto, inclusi alcuni vicini agli Arpisti. Può aprire porte e organizzare incontri se ben disposto.
+- È estranio al padre: la ferita è vecchia. Non sembra volerla curare.
 
 ---
 
 ## Xoblob
-**Come lo conosci:** Proprietario dell'Old Xoblob Shop nel Dock Ward, visitato durante le indagini (Sessione 1).
+**Come lo conosci:** Il suo negozio è un punto di riferimento bizzarro nel Dock Ward — chiunque conosca il quartiere sa dove trovarlo.
 **Ruolo pubblico:** Gnomo commerciante di curiosità, tutto rigorosamente viola, nel Dock Ward.
 **Quello che sai:**
-- Stravagante ma utile — ha fornito informazioni su Floon dopo un piccolo incentivo.
-- Il suo negozio è un punto di riferimento nel Dock Ward. Chi vuole capire il quartiere lo conosce.
+- Stravagante fino all'eccesso, ma conosce ogni faccia del Dock Ward. Il tipo di fonte informale che gli Arpisti tengono a mente.
+- Il suo negozio attira personaggi insoliti. Utile per capire chi si muove nel quartiere.
 
 ---
 
@@ -87,9 +83,8 @@
 **Ruolo pubblico:** Noto agente Zentharim, responsabile di gran parte degli scontri recenti tra la Rete Nera e la Gilda di Xanathar.
 **Quello che sai:**
 - È considerato un "pesce grosso" degli Zentharim a Waterdeep. Non un capo, ma qualcuno che esegue lavori sporchi ad alto livello.
-- I cinque agenti che hanno rapito Floon e Renaer lavoravano per lui.
 - La Guardia Cittadina lo sta cercando. Finora ha eluso ogni tentativo di cattura.
-- Non lo hai ancora visto di persona — sai che esiste e che va tenuto d'occhio.
+- Non lo hai mai visto di persona — sai che esiste e che va tenuto d'occhio.
 
 ---
 

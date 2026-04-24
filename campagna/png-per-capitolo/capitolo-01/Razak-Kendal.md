@@ -13,74 +13,61 @@ generato: 2026-04-24
 ---
 
 ## Volothamp Geddarm
-**Come lo conosci:** Ti ha avvicinato nel Quartiere del Castello e ti ha invitato al Portale Spalancato. L'hai incontrato di persona nella Sessione 1.
-**Ruolo pubblico:** Cronista, mago e celebrità — autore di *Volo's Guide to Monsters* e altre guide di viaggio nel Faerûn.
+**Come lo conosci:** Ti ha inviato un messaggio, invitandoti al Portale Spalancato. Il suo nome circola come contatto utile in vari ambienti.
+**Ruolo pubblico:** Cronista, mago e celebrità — autore di *Volo's Guide to Monsters* e altre guide di viaggio nel Faìrûn.
 **Quello che sai:**
-- Parla tanto, esagera spesso — ma sotto la facciata ci sono affetti genuini. Era sinceramente preoccupato per il suo amico scomparso.
-- Ti ha ingaggiato per trovare Floon Blagmaar, promettendo una ricompensa generosa. La promessa potrebbe essere più generosa delle sue tasche attuali.
-- Sa trovare le persone giuste nel momento giusto — cosa che lo rende un contatto utile in una città grande come Waterdeep.
+- Parla tanto, esagera spesso — ma sotto la facciata ci sono affetti genuini e una rete di conoscenze sorprendente.
+- Sa trovare le persone giuste nel momento giusto — cosa che lo rende un contatto potenzialmente utile in una città grande come Waterdeep.
+- È noto per promettere compensi generosi. Quanto siano concreti dipende dalle circostanze.
 
 ---
 
 ## Durnan
-**Come lo conosci:** Proprietario del Portale Spalancato, luogo dove tutto ha avuto inizio. L'hai visto in azione nella Sessione 1.
+**Come lo conosci:** Proprietario del Portale Spalancato, dove sei stato convocato da Volo. La reputazione di Durnan precede qualsiasi presentazione.
 **Ruolo pubblico:** Taverniere leggendario, ex avventuriero. Gestisce il Portale Spalancato, punto di riferimento per avventurieri di tutta la costa.
 **Quello che sai:**
-- È un uomo di poche parole e molto peso. Lo hai visto affrontare un troll senza battere ciglio.
+- È un uomo di poche parole e molto peso. Veterano di Undermountain nel senso più concreto del termine.
 - Conosce questa città come pochi altri — ogni voce passa prima o poi per la sua taverna.
-- Ti ha offerto due notti gratuite come base temporanea. Non è poco.
+- Non fa domande che non ti aspetti, ma nota tutto. Se guadagni la sua fiducia, diventa una fonte preziosa.
 
 ---
 
 ## Yagra Stonefist
-**Come lo conosci:** Mezza orchessa coinvolta nella rissa d'apertura al Portale Spalancato (Sessione 1).
-**Ruolo pubblico:** Mercenaria, volto noto nel Dock Ward.
+**Come lo conosci:** Nome presente nei dossier di Force Grey sugli operativi Zentharim attivi nel Dock Ward.
+**Ruolo pubblico:** Mercenaria indipendente, volto noto nel Dock Ward.
 **Quello che sai:**
-- Ha combattuto cinque uomini da sola per pura questione di orgoglio. Non è qualcuno che cede facilmente.
-- Ha partecipato alla difesa del Portale contro il troll.
-- Ha dei legami con le organizzazioni criminali della città — non la fazione più rassicurante, ma sembrava combattere per principio personale quella sera.
-
----
-
-## Floon Blagmaar
-**Come lo conosci:** Te ne ha parlato Volo — è il centro della sua missione.
-**Ruolo pubblico:** Uomo comune, amico di Volo Geddarm.
-**Quello che sai:**
-- Maschio umano sulla trentina, capelli biondi-rossastri ondulati, vestiva abiti principeschi.
-- Volo lo descrive come una persona di buon cuore ma non particolarmente avveduta.
-- È sparito dopo una serata nel Dock Ward. Sembra che qualcuno lo abbia scambiato per un'altra persona e lo abbia rapito.
-- Non ancora trovato.
+- Ha un codice personale — non è qualcuno che combatte solo per ordine o denaro.
+- È legata agli Zentharim, anche se non lo pubblicizza. Braccio operativo di Davil Starsong nel Dock Ward.
+- Come operativo Zentharim, può essere alleata situazionale o ostacolo — dipende dagli interessi del momento.
 
 ---
 
 ## Renaer Neverember
-**Come lo conosci:** L'hai trovato nascosto in un magazzino del Dock Ward durante le indagini della Sessione 1.
-**Ruolo pubblico:** Figlio di Dagult Neverember, l'ex Lord Aperto di Waterdeep. Nobile giovane, vive in città.
+**Come lo conosci:** Figlio dell'ex Lord Aperto — una figura nota nei circoli politici e nei dossier di Force Grey sulla situazione di Waterdeep.
+**Ruolo pubblico:** Figlio di Dagult Neverember, l'ex Lord Aperto di Waterdeep. Nobile giovane, profilo volutamente discreto.
 **Quello che sai:**
-- Si è comportato con dignità nonostante la situazione — coperto di sporcizia, eppure parlava con chiarezza e senza panico.
-- Gli Zentharim lo cercavano perché credevano sapesse dove si trova un tesoro nascosto da suo padre. Lui nega di saperne qualcosa — e sembrava sincero.
-- È in rotta con il padre da anni, ma ha ancora connessioni importanti in città.
-- È grato. E le persone grate in posizioni influenti sono una risorsa a Waterdeep.
+- Ha preso le distanze pubblicamente dal padre. La rottura è vecchia e sembra sincera.
+- Nonostante il basso profilo, mantiene connessioni importanti in città — il cognome Neverember apre ancora molte porte.
+- Force Grey lo monitora come variabile irrisolta: non è chiaro quanto sia davvero al corrente degli affari del padre.
 
 ---
 
 ## Xoblob
-**Come lo conosci:** Proprietario dell'Old Xoblob Shop nel Dock Ward, visitato durante le indagini su Floon (Sessione 1).
+**Come lo conosci:** Proprietario dell'Old Xoblob Shop nel Dock Ward — un negozio stravagante e impossibile da ignorare nel quartiere.
 **Ruolo pubblico:** Gnomo stravagante, commerciante di curiosità viola nel Dock Ward.
 **Quello che sai:**
-- Un tipo eccentrico con una storia improbabile. Ha dato informazioni utili su Floon in cambio di un piccolo incentivo.
-- Il suo negozio è un punto di riferimento bizzarro nel Dock Ward — chiunque del quartiere sa dove trovarlo.
+- Eccentrico ma perspicace. Conosce il Dock Ward come pochi — ogni faccia del quartiere è passata davanti al suo negozio.
+- Ha la reputazione di chi sa procurarsi informazioni, se lo si approccia nel modo giusto.
 
 ---
 
 ## Hyustus Staget
-**Come lo conosci:** Capitano della Guardia Cittadina del Dock Ward — si è presentato al magazzino con una dozzina di veterani dopo che avete trovato Renaer (Sessione 1).
+**Come lo conosci:** Capitano della Guardia Cittadina del Dock Ward — figura che chiunque operi per Force Grey nel quartiere conosce almeno di nome.
 **Ruolo pubblico:** Capitano della Guardia nel Dock Ward, noto e rispettato dai commercianti e dai residenti del quartiere.
 **Quello che sai:**
-- È metodico e prudente — forse troppo. Ha ammesso di aver ritirato la sorveglianza su quel magazzino proprio prima che succedesse il peggio.
-- Preferisce non interferire negli scontri tra criminali finché il sangue resta nelle fogne. Una filosofia comoda quanto preoccupante.
-- Ha riconosciuto Renaer Neverember e si è comportato di conseguenza — la nobiltà conta ancora.
-- Ha distribuito una copia del Codice Legale. Una cortesia formale con un significato chiaro.
+- È metodico e prudente. Preferisce la cautela all'intervento diretto.
+- Tollera ciò che non può fermare — non interferisce negli scontri tra criminali finché il sangue resta nelle fogne. Utile saperlo.
+- Lavora con Force Grey su base professionale per casi nel Dock Ward. I rispettivi obiettivi non sempre coincidono.
 
 ---
 
@@ -111,4 +98,4 @@ generato: 2026-04-24
 **Quello che sai:**
 - Fu destituito dai Lord di Waterdeep — le ragioni esatte sono complesse, ma le voci parlano di corruzione e di fondi sottratti alla città.
 - Suo figlio Renaer non ha rapporti con lui. La ferita è vecchia e profonda.
-- Gli Zentharim credono che abbia nascosto mezzo milione di monete d'oro da qualche parte in città, e stanno cercando un modo per trovarlo.
+- Circolano voci su fondi sottratti alla città durante il suo mandato. Diversi attori criminali in città sembrano cercare qualcosa che aveva — le ragioni precise restano poco trasparenti.

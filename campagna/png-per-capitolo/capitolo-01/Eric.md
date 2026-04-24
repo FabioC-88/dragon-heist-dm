@@ -8,57 +8,53 @@ generato: 2026-04-24
 # Persone di Waterdeep — Capitolo 1
 ### Fizzra Ingranaggia "Scintilla" (Eric)
 
-> Questi sono i personaggi che conosci, o di cui hai sentito parlare, mentre ti muovi nel Capitolo 1 degli eventi di Waterdeep. Non tutti appariranno nella prossima sessione — ma potresti incrociarli prima del previsto.
+> Queste sono le persone che Fizzra conosce o di cui ha sentito parlare prima di entrare nel vivo degli eventi del Capitolo 1. Non tutte compaiono necessariamente nella prossima sessione.
 
 ---
 
 ## Volothamp Geddarm
-**Come lo conosci:** È entrato nella tua officina, ha pronunciato esattamente le parole giuste, e ti ha convinta ad andare al Portale Spalancato. Incontrato di persona nella Sessione 1.
+**Come lo conosci:** È entrato nella tua officina, ha pronunciato esattamente le parole giuste, e ti ha convinta ad andare al Portale Spalancato per un incontro.
 **Ruolo pubblico:** Cronista, mago e celebrità, autore di guide di viaggio famose in tutto il Faerûn.
 **Quello che sai:**
 - Ha un fiuto speciale per trovare le persone interessanti nel momento in cui ne hanno più bisogno — o quando lui ne ha più bisogno di loro.
-- La sua preoccupazione per Floon era genuina, anche se il compenso promesso potrebbe non corrispondere alle sue disponibilità attuali.
+- Il compenso promesso potrebbe non corrispondere alle sue disponibilità attuali.
 - Ha una rete di conoscenze enorme. Essere nei suoi buoni libri non è un vantaggio trascurabile.
 
 ---
 
 ## Durnan
-**Come lo conosci:** Proprietario del Portale Spalancato. L'hai incontrato nella Sessione 1.
+**Come lo conosci:** Proprietario del Portale Spalancato, leggenda tra gli avventurieri di Waterdeep.
 **Ruolo pubblico:** Taverniere leggendario, ex avventuriero. Il Portale Spalancato è il punto di riferimento degli avventurieri a Waterdeep.
 **Quello che sai:**
-- Un uomo di poche parole che esprimono molto. Ha neutralizzato un troll senza batter ciglio.
+- Un uomo di poche parole che esprimono molto. Veterano di Undermountain — si dice ne sia tornato più volte.
 - Conosce Waterdeep meglio di chiunque altro. È una fonte di informazioni se si è disposti a guadagnarsela.
-- Ha lasciato che il party si stabilisse lì temporaneamente. Un gesto che vale.
 
 ---
 
 ## Yagra Stonefist
-**Come lo conosci:** L'hai incontrata nella rissa al Portale Spalancato (Sessione 1). È il braccio destro di Davil Starsong — il tuo referente Zentharim.
+**Come lo conosci:** È il braccio destro di Davil Starsong — il tuo referente Zentharim. La conosci attraverso la rete della Rete Nera.
 **Ruolo pubblico:** Mercenaria mezza orchessa, volto noto nel Dock Ward.
 **Quello che sai:**
 - Non è una persona che si fa comandare facilmente — combatte per principio, non per ordine. Questo la rende affidabile in un certo senso.
 - È la principale intermediaria di Davil sul campo. Se Davil vuole parlarti, ti contatta attraverso di lei.
-- Ha già preso contatti con te e Friedrich dopo la Sessione 1 — la missione Zentharim sta per iniziare.
 
 ---
 
 ## Floon Blagmaar
-**Come lo conosci:** Te ne ha parlato Volo — è il centro della sua missione.
-**Ruolo pubblico:** Uomo comune, amico di Volo Geddarm.
+**Come lo conosci:** Potresti incontrarlo nei tuoi giri nel Dock Ward. È il tipo di persona che frequenta i locali del quartiere.
+**Ruolo pubblico:** Uomo comune, noto frequentatore dei locali del Dock Ward.
 **Quello che sai:**
-- Maschio umano sulla trentina, capelli biondi-rossastri ondulati, vestiva abiti principeschi.
-- Rapito per errore — qualcuno lo ha scambiato per qualcun altro di molto più importante.
-- Non ancora trovato. Il suo salvataggio è ancora la missione in corso.
+- Maschio umano sulla trentina, capelli biondi-rossastri ondulati. Un tipo socievole, non particolarmente prudente.
 
 ---
 
 ## Renaer Neverember
-**Come lo conosci:** L'hai trovato nascosto in un magazzino del Dock Ward (Sessione 1). Figlio del vecchio Lord Aperto — nome noto in città.
+**Come lo conosci:** Figlio del vecchio Lord Aperto — nome noto in città. Nel contesto Zentharim, il suo nome circola per ragioni specifiche.
 **Ruolo pubblico:** Figlio di Dagult Neverember, ex Lord Aperto di Waterdeep. Nobile giovane con un profilo volutamente discreto.
 **Quello che sai:**
-- Gli Zentharim lo volevano perché credevano sapesse dove si trova un *Sasso di Golorr* — un artefatto che rivelerebbe la posizione di un tesoro nascosto da suo padre.
-- Lui stesso ha detto di non saperne nulla. Sembrava sincero, e tu hai un buon occhio per queste cose.
-- Ha contatti utili in città. Non è il tipo che dimentica chi lo ha tirato fuori da un magazzino puzzolente.
+- Gli Zentharim hanno interesse su di lui: credono che suo padre abbia nascosto qualcosa di valore in città, e che Renaer possa sapere dove trovarlo.
+- Ha preso le distanze dal padre pubblicamente. Non è chiaro quanto sia davvero all'oscuro degli affari paterni.
+- Ha contatti utili in città.
 
 ---
 
@@ -72,12 +68,11 @@ generato: 2026-04-24
 ---
 
 ## Hyustus Staget
-**Come lo conosci:** Capitano della Guardia Cittadina del Dock Ward — si è presentato al magazzino con rinforzi dopo che avete trovato Renaer (Sessione 1).
+**Come lo conosci:** Capitano della Guardia Cittadina del Dock Ward — figura che ogni operativo nel quartiere conosce almeno di nome.
 **Ruolo pubblico:** Capitano veterano della Guardia, responsabile dell'ordine nel Dock Ward. Rispettato dai commercianti locali.
 **Quello che sai:**
 - È metodico e cauto. Preferisce non mandare la Guardia nelle fogne se può evitarlo.
-- Ha distribuito una copia del Codice Legale — ha notato voi. Tenete un profilo ragionevole.
-- Non è stupido: ha capito che il party sta indagando e che potrebbe tornargli utile. Per ora lascia fare.
+- Non è stupido: nota chi si muove nel suo quartiere. È bene mantenere un profilo ragionevole.
 
 ---
 

@@ -13,21 +13,20 @@ generato: 2026-04-24
 ---
 
 ## Volothamp Geddarm
-**Come lo conosci:** Lo hai incontrato di persona al Portale Spalancato (Sessione 1).
-**Ruolo pubblico:** Cronista, mago e celebrità — autore di guide di viaggio famose in tutto il Faerûn, inclusa *Volo's Guide to Monsters*.
+**Come lo conosci:** Ti ha inviato un messaggio per incontrarti al Portale Spalancato. La sua reputazione ti precede.
+**Ruolo pubblico:** Cronista, mago e celebrità — autore di guide di viaggio famose in tutto il Faìrûn, inclusa *Volo's Guide to Monsters*.
 **Quello che sai:**
 - È un grande chiacchierone con la tendenza ad esagerare, ma il suo cuore è genuino — specie quando si tratta degli amici.
-- Ti ha ingaggiato per ritrovare il suo amico scomparso, Floon Blagmaar.
-- È a corto di denaro — il compenso promesso di 100 mo a testa potrebbe non essere immediato.
-- Attende le royalties di *Volo's Guide to Monsters* e sta lavorando (con scarsa fortuna) a *Volo's Guide to Spirits and Specters*.
+- Notoriamente a corto di denaro: le royalties di *Volo's Guide to Monsters* tardano, e il nuovo progetto (*Volo's Guide to Spirits and Specters*) non decolla.
+- Ha una rete di conoscenze enorme. Utile come contatto informale in una città grande come Waterdeep.
 
 ---
 
 ## Durnan
-**Come lo conosci:** Proprietario del Portale Spalancato, dove vivi in affitto permanente. Lo hai visto combattere nella Sessione 1.
+**Come lo conosci:** Proprietario del Portale Spalancato, dove sei in affitto permanente. Lo conosci da quando sei arrivato in città.
 **Ruolo pubblico:** Taverniere leggendario, ex-avventuriero. Il Portale Spalancato è il suo dominio.
 **Quello che sai:**
-- Durnan è un veterano di combattimenti che pochi eguagliano — lo hai visto saltare il bancone con una spada a due mani senza esitare.
+- Durnan è un veterano di combattimenti che pochi eguagliano — lo si vede dalla postura, dalle cicatrici, dal modo in cui conta ogni uscita della locanda.
 - È laconico e diretto, non ama le complicazioni. A chi si comporta bene, offre un "hai combattuto bene" come massimo riconoscimento.
 - Ha la rete di informazioni di chi gestisce la taverna più famosa di Waterdeep da decenni. Utile.
 - Ti ospita con tariffa agevolata — è già qualcosa in questa città cara.
@@ -35,55 +34,42 @@ generato: 2026-04-24
 ---
 
 ## Yagra Stonefist
-**Come lo conosci:** Mezza orchessa che hai visto combattere al Portale Spalancato nella rissa di apertura (Sessione 1).
+**Come lo conosci:** Mercenaria mezza orchessa nota nel Dock Ward — il suo nome circola tra le organizzazioni del quartiere.
 **Ruolo pubblico:** Mercenaria indipendente, volto noto nel Dock Ward.
 **Quello che sai:**
-- Combatte bene e per la sua dignità — non è qualcuno che attacca per ordine. Ha un codice.
-- È legata agli Zentharim, anche se non lo pubblicizza. L'hai capito dai movimenti e dagli sguardi.
-- Ti ha aiutato contro il troll. Questo vale qualcosa, anche se il rapporto è appena nato.
-
----
-
-## Floon Blagmaar
-**Come lo conosci:** Te ne ha parlato Volo — è l'obiettivo della sua missione.
-**Ruolo pubblico:** Uomo comune, amico di Volo.
-**Quello che sai:**
-- Maschio umano sulla trentina, capelli biondi-rossastri ondulati, vestiva abiti principeschi.
-- Volo lo descrive come "più bellezza che cervello" — un tipo affascinante ma non particolarmente prudente.
-- È sparito dopo una serata allo Skewered Dragon nel Dock Ward. Non si sa ancora dove sia finito.
-- Sembra essere stato scambiato per qualcun altro da chi lo ha rapito.
+- Combatte bene e per la sua dignità — non è qualcuno che agisce solo per ordine. Ha un codice.
+- È legata agli Zentharim, anche se non lo pubblicizza.
+- Come operativo Zentharim nel Dock Ward, potrebbe essere risorsa situazionale o ostacolo — dipende dalle circostanze.
 
 ---
 
 ## Renaer Neverember
-**Come lo conosci:** L'hai trovato nascosto in un magazzino nel Dock Ward durante la Sessione 1.
-**Ruolo pubblico:** Figlio di Dagult Neverember, l'ex Lord Aperto di Waterdeep. Nobile giovane, vive in città.
+**Come lo conosci:** Figlio dell'ex Lord Aperto — un nome che circola in città e che chiunque si muova nel Dock Ward o tra i contatti dell'Ordine avrà sentito almeno di riflesso.
+**Ruolo pubblico:** Figlio di Dagult Neverember, l'ex Lord Aperto di Waterdeep. Nobile giovane, profilo volutamente basso.
 **Quello che sai:**
-- Parla con l'educazione di un nobile ma senza l'arroganza. Si è comportato con dignità anche coperto di sudiciume e odore di aringhe marce.
-- Gli Zentharim lo stavano cercando perché credevano sapesse qualcosa sul *Sasso di Golorr* e su un deposito nascosto di monete d'oro sottratte dalla città da suo padre quando era Lord Aperto.
-- Lui stesso ti ha detto di non saperne nulla — e i tuoi istinti da investigatore confermano che dice la verità.
-- È in rotta con il padre da anni. Ha amici influenti in città nonostante questo.
+- Ha preso pubblica distanza dal padre. La rottura sembra voluta e profonda.
+- Nonostante il basso profilo, mantiene connessioni influenti in città — il cognome Neverember conta ancora.
+- I vari attori criminali in città hanno interesse su di lui per via degli affari del padre. Vale la pena sapere chi è.
 
 ---
 
 ## Xoblob
-**Come lo conosci:** Proprietario dell'Old Xoblob Shop nel Dock Ward, visitato durante le indagini su Floon (Sessione 1).
+**Come lo conosci:** Proprietario dell'Old Xoblob Shop nel Dock Ward — un negozio bizzarro e inconfondibile, punto di riferimento nel quartiere.
 **Ruolo pubblico:** Gnomo profondo, commerciante di curiosità, tutto rigorosamente viola.
 **Quello che sai:**
-- Un tipo stravagante con una storia bizzarra — dice di aver inalato memorie di un beholder dopo un'esplosione di spore a Undermountain.
-- Ha fornito informazioni utili su Floon: lo ha visto uscire dal suo negozio inseguito da cinque uomini in armatura di cuoio nera, uno con un tatuaggio a serpente alato sul collo.
-- Vende oggettini a prezzi ragionevoli. L'interesse per il viola è totale e non irrazionale.
+- Un tipo stravagante con una storia improbabile — dice di aver inalato memorie di un beholder dopo un'esplosione di spore a Undermountain.
+- Conosce il Dock Ward come pochi. Chiunque del quartiere sa dove trovarlo.
+- Un buon contatto se si cerca informazioni sul movimento delle persone nel quartiere.
 
 ---
 
 ## Hyustus Staget
-**Come lo conosci:** Capitano della Guardia Cittadina del Dock Ward — si è presentato al magazzino dopo che hai trovato Renaer (Sessione 1). Lo conosci anche tramite il tuo collega Saeth Cromley.
+**Come lo conosci:** Capitano della Guardia Cittadina del Dock Ward — lo conosci tramite il tuo collega Saeth Cromley e dai registri dell'Ordine Vigilante.
 **Ruolo pubblico:** Capitano veterano della Guardia, responsabile dell'ordine nel Dock Ward.
 **Quello che sai:**
-- Non è un incompetente — è semplicemente un uomo che gioca con cautela. Ha detto apertamente che preferirebbe vedere Zentharim e Xanathar Guild distruggersi da soli.
-- Ha distribuito una copia del Codice Legale come avvertimento velato. Osserva tutto.
-- Stava già monitorando quel magazzino nel quadro di un'indagine su un operativo Zentharim. Ha ritirato la sorveglianza — e ora se ne pente.
-- Nei registri dell'Ordine appare come contatto professionale per casi che coinvolgono crimini magici nel Dock Ward.
+- Non è un incompetente — è semplicemente un uomo che gioca con cautela. Preferirebbe vedere Zentharim e Guild di Xanathar distruggersi da soli.
+- Nei registri dell'Ordine appare come contatto professionale per casi che coinvolgono crimini nel Dock Ward. Non è un alleato, ma non è un ostacolo dichiarato.
+- Osserva tutto. Se ti muovi nel suo quartiere, lui lo nota.
 
 ---
 
@@ -92,7 +78,6 @@ generato: 2026-04-24
 **Ruolo pubblico:** Agente Zentharim di peso, noto instigatore della tensione tra Zhentarim e Gilda di Xanathar.
 **Quello che sai:**
 - È considerato un "pesce grosso" responsabile di buona parte degli scontri recenti nel Dock Ward.
-- Gli Zentharim che hanno rapito Floon e Renaer lavoravano per lui.
 - La Guardia Cittadina lo ha nel mirino da tempo — finora ha eluso ogni tentativo di localizzazione.
 - Fisicamente non lo hai ancora identificato. Sai che esiste e che è pericoloso.
 
