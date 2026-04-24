@@ -32,7 +32,7 @@ generato: 2026-04-24
 ---
 
 ## Yagra Stonefist
-**Come lo conosci:** È il braccio destro di Davil Starsong — il tuo referente Zentharim. La conosci attraverso la rete della Rete Nera.
+**Come lo conosci:** È il braccio destro di Davil Starsong — il tuo referente Zentharim.
 **Ruolo pubblico:** Mercenaria mezza orchessa, volto noto nel Dock Ward.
 **Quello che sai:**
 - Non è una persona che si fa comandare facilmente — combatte per principio, non per ordine. Questo la rende affidabile in un certo senso.

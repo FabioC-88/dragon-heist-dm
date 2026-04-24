@@ -67,29 +67,11 @@ generato: 2026-04-24
 - Ha amici in alto, inclusi alcuni vicini agli Arpisti. Può aprire porte e organizzare incontri se ben disposto.
 - È estranio al padre: la ferita è vecchia. Non sembra volerla curare.
 
----
-
-## Xoblob
-**Come lo conosci:** Il suo negozio è un punto di riferimento bizzarro nel Dock Ward — chiunque conosca il quartiere sa dove trovarlo.
-**Ruolo pubblico:** Gnomo commerciante di curiosità, tutto rigorosamente viola, nel Dock Ward.
-**Quello che sai:**
-- Stravagante fino all'eccesso, ma conosce ogni faccia del Dock Ward. Il tipo di fonte informale che gli Arpisti tengono a mente.
-- Il suo negozio attira personaggi insoliti. Utile per capire chi si muove nel quartiere.
-
----
-
-## Urstul Floxin
-**Come lo conosci:** Nome presente nell'intelligence degli Arpisti sulle operazioni Zentharim in città.
-**Ruolo pubblico:** Noto agente Zentharim, responsabile di gran parte degli scontri recenti tra la Rete Nera e la Gilda di Xanathar.
-**Quello che sai:**
-- È considerato un "pesce grosso" degli Zentharim a Waterdeep. Non un capo, ma qualcuno che esegue lavori sporchi ad alto livello.
-- La Guardia Cittadina lo sta cercando. Finora ha eluso ogni tentativo di cattura.
-- Non lo hai mai visto di persona — sai che esiste e che va tenuto d'occhio.
 
 ---
 
 ## Xanathar
-**Come lo conosci:** Hai sentito il nome girare negli ambienti degli Arpisti — solo voci, per ora.
+**Come lo conosci:** Hai sentito il nome girare negli ambienti degli Arpisti.
 **Ruolo pubblico:** Il presunto capo di una delle organizzazioni criminali più radicate nel sottomondo di Waterdeep, nota come Gilda di Xanathar.
 **Quello che sai:**
 - Il nome circola sottovoce: c'è qualcuno — o qualcosa — che controlla buona parte del crimine organizzato nelle fogne sotto la città.

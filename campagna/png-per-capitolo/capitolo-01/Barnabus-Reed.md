@@ -16,18 +16,15 @@ generato: 2026-04-24
 **Come lo conosci:** Il tuo diretto superiore nella Guardia Cittadina del Dock Ward. Lo conosci da anni — e lo conosci bene. Troppo bene.
 **Ruolo pubblico:** Capitano veterano della Guardia, responsabile dell'ordine nel Dock Ward. Rispettato dai commercianti locali, considerato affidabile dall'alto.
 **Quello che sai:**
-- Era amico di tuo padre — o almeno così si racconta. La realtà è più complicata: c'è una ferita vecchia tra le loro famiglie, e Staget si è assicurato che tu la sentissi ogni giorno.
+- Era amico di tuo padre — o almeno così si racconta. La realtà è più complicata: c'è una ferita vecchia tra le vostre famiglie, e Staget si è assicurato che tu la sentissi ogni giorno.
 - Blocca la tua avanzata di carriera con il pretesto del "rispetto delle procedure". È il suo strumento preferito.
-- Ha ritirato la sorveglianza su un magazzino nel Dock Ward nell'ambito di un'indagine su operativi Zentharim — una decisione che ti lascia perplesso.
-- La tua missione personale include scoprire fino a dove arrivano le sue connessioni con ciò che si muove nel Dock Ward.
-
 ---
 
 ## Urstul Floxin
 **Come lo conosci:** Ce l'hai nel mirino da mesi. Uno dei soggetti principali della tua indagine personale nel Dock Ward.
 **Ruolo pubblico:** Agente Zentharim, responsabile di gran parte degli scontri recenti tra la Rete Nera e la Gilda di Xanathar nel Dock Ward.
 **Quello che sai:**
-- Opera nel sottomondo del Dock Ward con una rete di informatori e picciotti. I cinque agenti coinvolti nel rapimento di Renaer Neverember lavoravano per lui.
+- Opera nel sottomondo del Dock Ward con una rete di informatori e picciotti.
 - Non si è ancora fatto trovare. Ha un fiuto per quando la Guardia si avvicina — qualcuno lo avvisa in anticipo.
 - Qualcuno in alto lo protegge, o almeno lo lascia operare. Il collegamento non è ancora chiaro.
 - Sei sicuro che trovarlo non risolverà tutto — ma è un anello in una catena che porta a qualcosa di più grosso.
@@ -68,8 +65,6 @@ generato: 2026-04-24
 **Ruolo pubblico:** Figlio di Dagult Neverember, ex Lord Aperto. Nobile giovane che vive a Waterdeep con un profilo discreto.
 **Quello che sai:**
 - Ha preso le distanze dal padre pubblicamente. Non è coinvolto in politica attiva, ma ha connessioni importanti.
-- Come agente della Guardia, ha un profilo di interesse: la sua posizione di figlio dell'ex Lord Aperto lo rende un obiettivo potenziale per organizzazioni criminali in cerca di leve.
-- Non è un alleato ufficiale, ma una figura che può aprire porte se il rapporto fosse avviato correttamente.
 
 ---
 
