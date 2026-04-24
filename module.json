@@ -48,13 +48,20 @@
       "path": "./packs/campagna",
       "type": "JournalEntry",
       "ownership": { "PLAYER": "NONE", "ASSISTANT": "OWNER" }
+    },
+    {
+      "name": "campagna-completa",
+      "label": "Dragon Heist — Sorgente Completa",
+      "path": "./packs/campagna-completa",
+      "type": "JournalEntry",
+      "ownership": { "PLAYER": "NONE", "ASSISTANT": "OWNER" }
     }
   ],
   "packFolders": [
     {
       "name": "Dragon Heist DM",
       "sorting": "m",
-      "packs": ["campagna", "pg-backgrounds"],
+      "packs": ["campagna", "campagna-completa", "pg-backgrounds"],
       "folders": [
         {
           "name": "Missioni",

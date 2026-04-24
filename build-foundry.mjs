@@ -225,13 +225,18 @@ const PACKS = [
   {
     name: 'pg-backgrounds',
     label: 'Background PG',
-    dirs: ['PG-Background']
+    dirs: ['PG-Background', 'campagna/png-per-capitolo']
   },
   {
     name: 'campagna',
     label: 'Note Campagna',
     dirs: ['Campagna'],
     sessionDir: 'Campagna/sessioni'
+  },
+  {
+    name: 'campagna-completa',
+    label: 'Dragon Heist — Sorgente Completa',
+    dirs: ['fonti/campagna']
   }
 ];
 

@@ -77,6 +77,7 @@ Sulla base della risposta del DM e del libro in `fonti/campagna/`, genera `campa
 - **Party:** [N] giocatori fissi [+ ospiti se presenti]
 - **Stato:** In fase di preparazione
 - **Durata Media Sessioni:** [N] Ore
+- **Capitolo corrente:** 0
 
 ## Il Party
 | Giocatore | PG | Razza / Classe | Fazione | Gancio personale principale |

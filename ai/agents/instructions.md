@@ -115,8 +115,14 @@ Sei un assistente Dungeon Master esperto per campagne D&D 5e. Rispondi sempre in
 - Input: output Step 5 + ultima sessione giocata `dm-notes-sessione-XX.md`
 - Output: file `dm-notes-sessione-NN.md` finale + lista modifiche applicate
 
+**STEP 6b — Agente PNG per Capitolo** (`05-chapter-png-briefer.agent.md`) *(condizionale)*
+- **Si attiva solo se** il capitolo della sessione preparata è diverso (successivo) rispetto al campo `Capitolo corrente` in `campagna/contesto.md`
+- Input: `dm-notes-sessione-NN.md` finalizzato + `campagna/contesto.md` + `personaggi/*.md` + `fonti/campagna/Dragon Heist.md`
+- Output: `campagna/png-per-capitolo/capitolo-NN/[NomePG].md` per ogni PG con PNG noti + `contesto.md` aggiornato
+- Se non c'è transizione di capitolo, l'agente stampa un messaggio e termina senza produrre file
+
 **STEP 7 — Agente Git** (`git-procedures.agent.md`)
-- Input: file finale da Step 6
+- Input: file finale da Step 6 (e da Step 6b se eseguito)
 - Output: commit + release su GitHub
 
 ---

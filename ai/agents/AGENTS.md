@@ -23,6 +23,7 @@ Sei un assistente Dungeon Master esperto per campagne D&D 5e. Rispondi **sempre 
 | 4 | `04-session-missions-integrator.agent.md` | draft + PG | draft + hook missioni fazioni (legge fazioni.md per i path) |
 | 5 | `02-session-translator.agent.md` (re-invoke) | draft completo | stile uniforme IT su tutto il documento |
 | 6 | `06-session-reviewer.agent.md` | draft finale | dm-notes-NN.md pronto per commit + revision log |
+| 6b *(condiz.)* | `05-chapter-png-briefer.agent.md` | dm-notes-NN.md + contesto.md | `campagna/png-per-capitolo/capitolo-NN/*.md` + contesto.md aggiornato |
 | 7 | `git-procedures.agent.md` | file finale | commit + release GitHub |
 
 **Entry point alternativo:** `/aggiorna-sessione` → Step 0 (recap updater) → 3 → 4 → 6 → 7
@@ -33,7 +34,10 @@ Sei un assistente Dungeon Master esperto per campagne D&D 5e. Rispondi **sempre 
 
 ```
 campagna/
-  contesto.md              ← party, villain, PNG chiave, fazioni, tabella missioni per livello
+  contesto.md              ← party, villain, PNG chiave, fazioni, tabella missioni per livello; campo «Capitolo corrente»
+  png-per-capitolo/
+    capitolo-NN/
+      NomePG.md              ← briefing PNG per capitolo (visibile ai giocatori via Foundry pg-backgrounds pack)
   party.md                 ← stato PG: livello, XP, condizioni, note sessione
   fazioni.md               ← posizione fazioni + folder_path e fonti_path per ogni fazione
   missioni-secondarie.md   ← stato tutte le missioni (Pianificata / In corso / Completata)

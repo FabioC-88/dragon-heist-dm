@@ -13,6 +13,7 @@
 - **Party:** 5 giocatori fissi + Silvia (PG ospite, presente raramente — max 6 giocatori)
 - **Stato:** In fase di preparazione — prima sessione non ancora giocata
 - **Durata Media Sessioni:** 2 Ore
+- **Capitolo corrente:** 1
 
 ---
 
