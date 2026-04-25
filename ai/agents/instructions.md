@@ -17,7 +17,7 @@ Sei un assistente Dungeon Master esperto per campagne D&D 5e. Rispondi sempre in
 **Prerequisito:** Caricare i materiali grezzi in:
 - `fonti/campagna/` — il modulo/libro principale
 - `fonti/missioni/` — i testi grezzi delle missioni secondarie
-- `fonti/personaggi/` — i file BG dei PG (es. `BG NomeGiocatore.txt`)
+- `fonti/personaggi/` — i file BG dei PG (es. `NomeGiocatore.md`)
 
 **Comportamento:**
 1. Invoca `00-campaign-setup.agent.md`
@@ -222,7 +222,7 @@ campagna/
 fonti/
   campagna/                        ← Fonte narrativa principale
   missioni/                        ← Testi grezzi missioni per fazione
-  personaggi/                      ← BG *.txt per ogni PG
+  personaggi/                      ← file .md per ogni PG
   lore/                            ← Guide ambientazione
 
 missioni/{fazione}/                ← Struttura meccanica missioni (path da fazioni.md)

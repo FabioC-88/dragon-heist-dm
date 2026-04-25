@@ -41,7 +41,7 @@ Prima di tutto, **verifica cosa è presente in fonti/**:
 ```
 fonti/campagna/       ← deve contenere il libro/modulo principale (es. Dragon Heist.md)
 fonti/missioni/       ← deve contenere i testi grezzi delle missioni secondarie
-fonti/personaggi/     ← deve contenere i file BG dei PG (es. BG NomeGiocatore.txt)
+fonti/personaggi/     ← deve contenere i file BG dei PG (es. NomeGiocatore.md)
 fonti/lore/           ← opzionale: guide ambientazione, gazetteer, note DM
 ```
 
@@ -254,7 +254,7 @@ Per ogni fazione e ogni file `.txt` in `fonti/missioni/`, leggi il testo grezzo 
 
 ### Step 10 — Genera personaggi/NomePG.md
 
-Per ogni PG, leggi il file `.txt` corrispondente in `fonti/personaggi/` e genera il file strutturato:
+Per ogni PG, leggi il file `.md` corrispondente in `fonti/personaggi/` e genera il file strutturato:
 
 ```markdown
 # [Nome PG] — [Razza/Classe]
@@ -307,5 +307,5 @@ Il sistema è pronto. Invoca /prep-sessione per preparare la prima sessione.
 
 - **Non inventare** informazioni che non sono nelle fonti. Usa `[TODO: da compilare]` per i gap.
 - **Non modificare** i file in `fonti/` — sono sola lettura.
-- Se i file `.txt` in `fonti/personaggi/` usano nomi diversi dai PG in `fonti/campagna/`, chiedi chiarimento al DM prima di procedere.
+- Se i file `.md` in `fonti/personaggi/` usano nomi diversi dai PG in `fonti/campagna/`, chiedi chiarimento al DM prima di procedere.
 - Se una fazione non ha file missione in `fonti/missioni/`, crea la struttura vuota e segnala il gap.

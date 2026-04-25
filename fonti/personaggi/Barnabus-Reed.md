@@ -1,0 +1,106 @@
+# Barnabus Reed — Background di Sergente della Guardia
+
+## L'Eredità della Guardia
+
+Sono nato tra le mura di una caserma. Il mio primo ricordo non è la voce di mia madre: è il ritmo cadenzato degli stivali sul ciottolato umido di Waterdeep, e l'odore di cuoio vecchio e olio per armature che impregnava ogni pietra di casa nostra. 
+
+Mio padre era, è, una leggenda della Guardia. Non mi ha permesso di diventare un topo d'archivio. Mi ha addestrato di persona, con la stessa durezza che usava con le reclute più ostinate. "Lo scudo non è un'arma difensiva: è un'estensione del braccio," mi diceva. E io ho imparato. Ho imparato a leggere il ritmo di una battaglia prima ancora che la lama esca dal fodero.
+
+La mia promozione a Sergente è arrivata per merito accademico, certo, e forse accelerata dal peso del cognome che porto. Non ho fatto la gavetta dei vicoli bui. Lo so. E so anche che c'è chi me lo rinfaccia ogni giorno, silenziosamente, con quella smorfia da sergenti anziani che hanno passato vent'anni a controllare licenze di mercato.
+
+Non sono uno sprovveduto. Che nessuno si dimentichi di questa cosa.
+
+## La Fede in Waterdeep
+
+Credo in Waterdeep. Lo scrivo nero su bianco, qui, perché nei giorni più grigi ho bisogno di rileggerlo.
+
+La chiamano la Città degli Splendori, e non è solo un titolo pomposo coniato da qualche bardo in cerca di monete facili. È un baluardo — forse l'ultimo vero baluardo di civiltà e ordine in questo angolo di Faerûn. La criminalità striscia tra le ombre, è vero. Ma la città è fondamentalmente sana. Lo è. Lo devo credere.
+
+Il problema non è la fede nelle istituzioni. È il mio ruolo attuale.
+
+Lo sento nelle ossa, con la stessa certezza con cui leggo il meteo dal colore del cielo sul porto, di essere destinato a qualcosa di più grande. A imprese che abbiano peso, che lascino un segno. Non a sedare risse da taverna tra scaricatori ubriachi. Non alla routine asfissiante di un sergente di quartiere intrappolato tra i moli e i carichi di rifiuti.
+
+E so chi ha costruito questa trappola.
+
+**Il Capitano.** Vecchio rivale di mio padre. Un uomo che sorride solo quando mi vede inchiodato ai turni più logoranti, più umilianti, più lontani da qualsiasi cosa conti davvero. Non è incompetenza: è calcolo. È vendetta generazionale mascherata da burocrazia.
+
+Non gliela darò vinta.
+
+## La Squadra Disgrazia
+
+Per assicurarsi il mio fallimento, il Capitano mi ha affibbiato quella che i colleghi — con una crudeltà che quasi ammiro — chiamano la **Squadra Disgrazia**.
+
+Tre sottoposti. I peggiori del distretto.
+
+**Grob.** Un uomo che sembra avere più grasso che muscoli. La sua unica vera abilità, e Tempus mi è testimone, è individuare un chiosco di salsicce anche durante un inseguimento serrato tra i vicoli del Porto. L'ho visto farlo. Due volte.
+
+**Festo.** Giovane. Entusiasta oltre ogni ragionevole limite umano. Privo di coordinazione in misura inversamente proporzionale al suo entusiasmo. Tende a inciampare nella propria alabarda nei momenti precisi in cui dovremmo apparire autorevoli. I commercianti ci ridono dietro. Ho smesso di contare le volte.
+
+**Vina.** Cinica fino al midollo. Intelligente — questo non glielo nego — ma usa quella mente acuta esclusivamente per trovare modi nuovi di farsi offrire da bere dai mercanti del porto e per sfidare la mia autorità con una pigrizia così elaborata che quasi la rispetto. Quasi.
+
+Sono questi i miei uomini. Con questi devo dimostrare il mio valore.
+
+Porto sempre con me il Codice Legale. È l'unica ancora che mi tiene al dovere nei giorni in cui sarei tentato di... fare diversamente.
+
+## Il Rifiuto del Capitano
+
+Il Capitano ha rifiutato. Di nuovo.
+
+Gli ho portato i rapporti. I nomi. I numeri. Le sparizioni dal porto non sono casuali — c'è un ritmo, una progressione, qualcosa che si muove nell'ombra tra i magazzini del porto e che la Guardia ufficiale è troppo occupata per vedere.
+
+Ha rifiutato di autorizzare l'indagine. Ha detto che non ci sono prove sufficienti. Ha detto che stavo oltrepassando le mie competenze. Ha detto tante cose, seduto dietro quella scrivania ingombra di pratiche mai evase.
+
+Sono uscito dall'ufficio con il Codice in mano e la bile in gola.
+
+Ho camminato lungo il porto per un'ora, sotto un cielo color piombo che sembrava condividere il mio umore. E in quel momento ho capito — non con la testa, con qualcosa di più profondo, più antico — che la legge può essere servita anche in modo diverso. Che l'onore non è cieca obbedienza.
+
+## La Svolta
+
+Sono stato contattato da Maestro Volo e ho accettato di incontrarlo, pare che anche lui stia indagando sulle sparizioni e credo sia doveroso aiutarlo.
+
+Lo scrivo qui, per onestà. So che cammino sul filo del rasoio dell'insubordinazione. Se lo venisse a sapere il Capitano... ma non può venire a saperlo. Non ancora.
+
+Se la Guardia ufficiale è troppo impantanata nella burocrazia per riconoscere una minaccia reale quando ce l'ha davanti, allora sarò io a farlo. In silenzio. Da solo, se necessario, che Ao mi aiuti.
+
+Il nome dei Reed non deve essere solo un ricordo polveroso inciso su una lapide del cimitero di campo. Deve essere una promessa. Per questa città. Per chi non ha voce abbastanza forte da essere sentito.
+
+Lo devo a mio padre. Lo devo a Waterdeep. Lo devo a me stesso.
+
+— B.R.
+
+## Personaggi Chiave
+
+### Hyustus Staget
+- **Chi è:** Capitano della Guardia Cittadina del Quartiere del Porto
+- **Cosa sai:** È un uomo rigido, tutto d'un pezzo, che segue pedissequamente le procedure e non tollera i pettegolezzi. È un vecchio rivale di tuo padre e ritieni che ti stia ostacolando deliberatamente assegnandoti i turni peggiori e la "Squadra Disgrazia". Ha ufficialmente rifiutato di autorizzare le tue indagini sulle sparizioni al porto, sostenendo che non ci sono prove sufficienti
+- **Collegamento:** Il tuo superiore diretto. Il rapporto è teso; lo vedi come un burocrate che preferisce ignorare i problemi finché non diventano emergenze
+
+### Volothamp "Volo" Geddarm
+- **Chi è:** Un celebre (ed eccentrico) scrittore ed esploratore, autore di guide di viaggio
+- **Cosa sai:** Ti ha contattato segretamente perché anche lui sta indagando sulle misteriose sparizioni al porto che la Guardia ufficiale ignora. Ti ha dato appuntamento al Portale Spalancato al calare del sole
+- **Collegamento:** Un informatore esterno e potenziale datore di lavoro. Collaborare con lui è un atto di insubordinazione che tieni nascosto a Staget
+
+### Urstul Floxin
+- **Chi è:** Un noto agente e sicario della Rete Nera (Zhentarim)
+- **Cosa sai:** Leggendo i rapporti e studiando i nomi legati alla violenza nel porto, sai che è un "pesce grosso" ricercato per gran parte dei recenti conflitti tra bande. Sai che la Guardia vorrebbe catturarlo ma che è riuscito a sfuggire persino alla localizzazione magica
+- **Collegamento:** Il tuo obiettivo principale "ombra". È il criminale che vorresti incastrare per dimostrare il tuo valore e risolvere il mistero delle sparizioni
+
+### Saeth Cromley
+- **Chi è:** Sergente della Guardia Cittadina
+- **Cosa sai:** Un tuo collega di pari grado. Sai che spesso viene assegnato a indagini che richiedono coordinamento con le autorità magiche
+- **Collegamento:** Collega professionale. Rappresenta la parte della Guardia che "funziona" secondo le regole, a differenza della tua Squadra Disgrazia
+
+### Durnan
+- **Chi è:** Proprietario del Portale Spalancato; veterano leggendario di Undermountain
+- **Cosa sai:** Come nativo di Waterdeep conosci bene il suo nome e la sua reputazione; luogo dove si raccolgono voci e informazioni del porto
+- **Collegamento:** Taverna dove le tue indagini informali possono proseguire; crocevia di traffico informativo
+
+### Yagra Stonefist
+- **Chi è:** Una mezza-orchessa; braccio destro di Davil Starsong (Rete Nera); criminale nota del porto
+- **Cosa sai:** Dai rapporti e dalle voci dei bassifondi, sai che è temuta nei circoli criminali; coinvolta in violenze e traffici
+- **Collegamento:** Ricercata; obiettivo secondario della tua investigazione; collegata a Urstul Floxin
+
+### Davil Starsong
+- **Chi è:** Il referente locale della Rete Nera (Zhentarim) presso il Portale Spalancato
+- **Cosa sai:** Dai rapporti della Guardia e dalle voci del porto, sai che è pragmatico e non gratuitamente crudele; dirige operazioni criminali coordinate
+- **Collegamento:** Nemico professionale; rappresenta la struttura organizzata della criminalità che devi comprendere

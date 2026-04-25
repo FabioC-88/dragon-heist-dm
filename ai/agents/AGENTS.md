@@ -60,7 +60,7 @@ fonti/
   missioni/
     [Fazione]_MissioneN_*.txt  ← narrativa estesa per ogni missione (dialoghi, scene)
   personaggi/
-    BG *.txt                   ← background grezzi dei PG
+    *.md (in fonti/personaggi/) ← background grezzi dei PG
   lore/
     *.txt / *.odt              ← guide ambientazione, lore, gazetteer
 

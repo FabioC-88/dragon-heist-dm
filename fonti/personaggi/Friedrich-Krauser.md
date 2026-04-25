@@ -1,8 +1,12 @@
-[PG: Friedrich Krauser].
+# Friedrich Krauser — Background di Paladino
 
-Sei nato in una famiglia nobile — fortunato, almeno sulla carta. [Luogo d'origine: da definire con il DM.] Il tuo cognome aveva una storia con la Chiesa di Tyr: devozione alla giustizia, rispetto per la legge, il tipo di fede che si eredita come si eredita un blasone. Non fu mai una tua scelta. Era semplicemente chi eri.
+## L'Eredità Nobiliare
+
+Sei nato in una famiglia nobile — fortunato, almeno sulla carta. La tua stirpe aveva una storia con la Chiesa di Tyr: devozione alla giustizia, rispetto per la legge, il tipo di fede che si eredita come si eredita un blasone. Non fu mai una tua scelta. Era semplicemente chi eri.
 
 Per anni hai servito la Chiesa con convinzione sincera. Ignoravi le crepe — le voci di corruzione nei ranghi alti, le sentenze che sembravano avvantaggiare sempre le stesse famiglie, le missioni di cui non si parlava mai abbastanza. Ci credevi davvero. Era più facile credere.
+
+## Il Tradimento nella Shadowfell
 
 Poi ti hanno mandato nella Shadowfell.
 
@@ -14,14 +18,21 @@ Tornasti solo. Nessuno chiamato a rispondere. Nessuna inchiesta. Solo silenzi di
 
 Capisti il messaggio. E scappasti.
 
+## La Ricerca di un Nuovo Cammino
 
-Quello che sai con certezza è che a un certo punto della tua vita stavi percorrendo una strada che non aveva futuro — o almeno non una a cui potessi guardare senza vergogna. Non fu una conversione improvvisa. Fu più simile a un cedimento lento: un giorno ti resi conto che la persona che stavi diventando era qualcuno che non volevi essere. Il voto di paladino non fu una chiamata divina. Fu una fuga. Una scelta disperata di attaccarti a qualcosa di solido quando tutto il resto stava marcendo.
+Quello che sai con certezza è che a un certo punto della tua vita stavi percorrendo una strada che non aveva futuro — o almeno non una a cui potessi guardare senza vergogna. Non fu una conversione improvvisa. Fu più simile a un cedimento lento: un giorno ti rendi conto che la persona che stavi diventando era qualcuno che non volevi essere. 
+
+Il voto di paladino non fu una chiamata divina. Fu una fuga. Una scelta disperata di attaccarti a qualcosa di solido quando tutto il resto stava marcendo.
 
 Il Bene assoluto. Ci credi davvero — o almeno dici di crederci. Seguendo il Bene abbastanza a lungo, abbastanza fedelmente, forse un giorno smetterai di essere chi sei sempre stato.
+
+### Il Voto di Devozione — Tyr
 
 Tyr. Il Voto di Devozione — giustizia, protezione dei deboli, onore assoluto. L'hai preso anni fa, in un momento di certezza che adesso fai fatica a riconoscere come tuo. Lo porti ancora, anche se pesa diversamente da prima. Non sai se ci credi ancora davvero, o se hai solo smesso di sapere in cosa altro credere.
 
 I tuoi primi passi come paladino li hai mossi nei ranghi della Chiesa — parrocchie, piccoli incarichi, la formazione rituale che precede i voti completi. La fiamma sacra ti era sembrata reale. Forse lo era. Ma adesso, ogni volta che pronunci il Voto, c'è una voce in fondo alla mente che ti ricorda che le persone che te lo hanno insegnato ti hanno mandato a morire.
+
+## Waterdeep: La Ricerca di Risposte
 
 Waterdeep è sembrata la risposta naturale. Una città grande, piena di templi, di avventurieri, di persone che avevano fatto peggio di te e si erano riscattate. Se esisteva un posto dove trovare "la risposta", doveva essere lì. Arrivasti con poco — qualche moneta, le tue armi, la convinzione fragile che il cambiamento fosse ancora possibile.
 
@@ -29,9 +40,7 @@ La risposta non la trovasti. Almeno non quella che cercavi.
 
 Quello che trovasti, invece, fu un amico.
 
-
----
-
+## L'Incontro al Portale Spalancato
 
 Era sera al Portale Spalancato. Te ne stavi lì, seduto da solo al bancone — non perché ti stessi godendo la serata, ma perché, in fondo, non avevi un posto migliore dove stare. 
 
@@ -43,8 +52,9 @@ Poi ti disse: "Hai quella faccia."
 
 "Quella di chi crede ancora che esistano le risposte giuste."
 
-Non è stata una rivelazione improvvisa, ma l'inizio di una conversazione. Poi ne è seguita un'altra, qualche giorno dopo, nella stessa taverna e allo stesso bancone. **Aldric** non ti faceva mai domande invadenti e non ti dava consigli non richiesti — ma quando parlava, sembrava capire dove saresti andato a parare un attimo prima che tu finissi la frase. Era stato un avventuriero anche lui, ti ha raccontato, molti anni fa. Aveva creduto nelle tue stesse cose, finché il mondo non lo aveva "corretto".
+## Aldric — Il Mentore Informale
 
+Non è stata una rivelazione improvvisa, ma l'inizio di una conversazione. Poi ne è seguita un'altra, qualche giorno dopo, nella stessa taverna e allo stesso bancone. **Aldric** non ti faceva mai domande invadenti e non ti dava consigli non richiesti — ma quando parlava, sembrava capire dove saresti andato a parare un attimo prima che tu finissi la frase. Era stato un avventuriero anche lui, ti ha raccontato, molti anni fa. Aveva creduto nelle tue stesse cose, finché il mondo non lo aveva "corretto".
 
 "Il problema del Bene assoluto," ti ha detto una sera, fissando il boccale, "è che funziona benissimo nelle parabole. Nella realtà, il Male raramente aspetta che tu finisca di rispettare i tuoi principi."
 
@@ -54,7 +64,7 @@ Il vostro rapporto è cresciuto lentamente, come crescono le cose che non sembra
 
 Oggi, Aldric è il riferimento più solido che tu abbia a Waterdeep. Un amico. Forse l'unico su cui puoi davvero contare.
 
-
+## L'Opportunità di Volothamp
 
 Il Portale Spalancato ti ha riservato anche altro, però.
 
@@ -66,26 +76,19 @@ Poi, già girandosi per andarsene, ti ha lasciato cadere una frase: "Le persone 
 
 Non sai esattamente cosa voglia dire. Ma sai dove devi andare.
 
+## Personaggi Chiave
 
----
+### Aldric
+- **Chi è:** Un ex avventuriero che hai incontrato al bancone del Portale Spalancato poco dopo il tuo arrivo a Waterdeep. Ha capelli grigi, modi diretti e la tranquillità di chi ha smesso di avere paura delle cose.
+- **Cosa sai:** È un avventuriero in pensione senza affiliazioni. È il tuo punto di riferimento più stabile in città — qualcuno che sembra capire il tuo conflitto senza giudicarlo. Vi ritrovate spesso a bere e parlare.
+- **Collegamento:** Amico, mentore informale. La persona a cui ti rivolgi quando i dubbi diventano troppo pesanti da portare da solo.
 
+### Volothamp "Volo" Geddarm
+- **Chi è:** Un famoso scrittore di guide sui mostri, eccentrico e loquace.
+- **Cosa sai:** Frequenta il Portale Spalancato e ha fama di coinvolgere chiunque nella sua prossima avventura. Ti ha avvicinato di recente, incuriosito dalla spada al tuo fianco, e ti ha proposto un affare che sostiene essere "perfetto per qualcuno con il tuo coraggio e i tuoi principi".
+- **Collegamento:** Potenziale datore di lavoro. Ha bisogno di qualcuno capace — e sembra convinto che tu lo sia.
 
-PNG
-
-
-Aldric
-Chi è: Un ex avventuriero che hai incontrato al bancone del Portale Spalancato poco dopo il tuo arrivo a Waterdeep. Ha capelli grigi, modi diretti e la tranquillità di chi ha smesso di avere paura delle cose.
-Cosa sai: È un avventuriero in pensione senza affiliazioni. È il tuo punto di riferimento più stabile in città — qualcuno che sembra capire il tuo conflitto senza giudicarlo. Vi ritrovate spesso a bere e parlare.
-Collegamento: Amico, mentore informale. La persona a cui ti rivolgi quando i dubbi diventano troppo pesanti da portare da solo.
-
-
-Volothamp "Volo" Geddarm
-Chi è: Un famoso scrittore di guide sui mostri, eccentrico e loquace.
-Cosa sai: Frequenta il Portale Spalancato e ha fama di coinvolgere chiunque nella sua prossima avventura. Ti ha avvicinato di recente, incuriosito dalla spada al tuo fianco, e ti ha proposto un affare che sostiene essere "perfetto per qualcuno con il tuo coraggio e i tuoi principi".
-Collegamento: Potenziale datore di lavoro. Ha bisogno di qualcuno capace — e sembra convinto che tu lo sia.
-
-
-Durnan
-Chi è: Il proprietario del Portale Spalancato, ex avventuriero leggendario.
-Cosa sai: Gestisce la taverna con la calma di chi ha già visto di tutto. È lì tutte le sere, dietro il bancone, accanto al pozzo che scende nell'Undermountain.
-Collegamento: Presenza fissa, fonte di informazioni locali.
+### Durnan
+- **Chi è:** Il proprietario del Portale Spalancato, ex avventuriero leggendario.
+- **Cosa sai:** Gestisce la taverna con la calma di chi ha già visto di tutto. È lì tutte le sere, dietro il bancone, accanto al pozzo che scende nell'Undermountain.
+- **Collegamento:** Presenza fissa, fonte di informazioni locali.

@@ -1,0 +1,50 @@
+# Razak Kendal — Background di Monaco
+
+## L'Addestramento nelle Montagne
+
+Vengo da molto lontano, dalle aspre vette degli Speroni della Terra, nel Damara. Lì, tra i ghiacci eterni, ho trascorso la mia giovinezza nel Monastero della Rosa Gialla. I maestri mi hanno insegnato che la sofferenza è una prova e che la forza risiede nella capacità di sopportare e proteggere. 
+
+Ma il silenzio di quelle montagne non riusciva più a soffocare un richiamo che sentivo fin nelle ossa: un senso di urgenza che puntava verso l'estremo Occidente.
+
+## La Ricerca di Hlam
+
+Ho attraversato le Terre Centrali per raggiungere le mura titaniche della Città degli Splendori. Non cercavo il lusso, cercavo un uomo di cui si narrava persino nei nostri archivi montani: **Hlam, il santo che vive nel cuore del Monte Waterdeep**. 
+
+Scalare quella roccia è stato come tornare a casa. L'aria rarefatta e il vento sono stati i miei unici compagni finché non ho trovato la sua grotta. Hlam era immerso in una meditazione così profonda che il suo respiro sembrava muovere il fumo delle candele come una marea. Quando ha aperto gli occhi, non ho visto sorpresa, ma riconoscimento.
+
+"Ti ho visto nei miei sogni, Razak," ha sussurrato, e la sua voce era un'eco antica. "Ti ho visto scendere dalla montagna avvolto in una luce che non riscaldava, mentre un'ombra lunga si stendeva sulle ville dei potenti. Il destino ha scelto le tue mani per custodire ciò che i miei occhi non possono più interpretare". 
+
+Senza aggiungere altro, mi ha affidato una pergamena sigillata. Mi ha spiegato che dovevo portarla giù, nel frastuono della città, restare vigile e fidarmi del Bastone Nero. Le uniche parole che ho trovato scritte all'interno tormentano i miei pensieri:
+
+> "Che le imprese siano buone o malvagie, sangue innocente sarà versato nel Giorno dei Fondatori"
+
+## Nel Cuore della Città
+
+Ora cammino tra questa gente come un forestiero, cercando di decifrare un presagio di sangue mentre la città si prepara a festeggiare. Ma in una metropoli che si nutre di pettegolezzi e segreti, un viaggiatore solitario appena disceso dal Monte non passa inosservato a lungo.
+
+Proprio mentre cercavo di orientarmi tra i vicoli del Quartiere del Castello, sono stato avvicinato da un uomo dall'aspetto stravagante, con un cappello piumato e un paio di baffi curati con una precisione quasi magica. Si è presentato come **Volothamp Geddarm**, celebre cronista e viaggiatore. 
+
+Con la parlantina rapida di chi è abituato a incantare le folle, ha intuito che il mio silenzio nascondeva una storia degna di nota. Mi ha guardato con una curiosità che definirei quasi scientifica e mi ha invitato a incontrarlo al Portale Spalancato.
+
+"Le persone giuste si incontrano sempre nel posto giusto, mio caro Razak," mi ha detto con un sorriso enigmatico. "Vieni alla taverna al calare del sole. Ho una proposta che potrebbe dare un senso al tuo viaggio, e forse troverai altri viandanti i cui fili del destino si sono intrecciati al tuo".
+
+Sono diretto lì, ora. Mentre le ombre si allungano sulle mura di Waterdeep, sento che l'appuntamento di Maestro Volo non è che l'inizio di quella danza d'ombre che Hlam aveva previsto sulla vetta del monte.
+
+## Personaggi Chiave
+
+### Hlam
+- **Chi è:** Un monaco umano leggendario, considerato un "santo" negli archivi del Monastero della Rosa Gialla. Vive in isolamento meditativo in una grotta sul versante meridionale del Monte Waterdeep
+- **Cosa sai:** Parla per frasi brevi e criptiche, descrivendosi come un semplice "vascello" per una saggezza che lui stesso non comprende appieno. Ti ha rivelato di aver visto il tuo arrivo nei suoi sogni. Ti ha affidato una pergamena sigillata contenente un presagio specifico: "Che le imprese siano buone o malvagie, sangue innocente sarà versato nel Giorno dei Fondatori"
+- **Collegamento:** È la figura spirituale che hai cercato partendo dal Damara. Il suo incarico è il motivo per cui sei sceso dal monte per entrare nel vivo della città
+
+### Volothamp "Volo" Geddarm
+- **Chi è:** Un celebre cronista, scrittore ed esploratore dall'aspetto stravagante, caratterizzato da un cappello piumato e baffi curatissimi
+- **Cosa sai:** Ha una parlantina rapida e una curiosità quasi scientifica verso chi nasconde storie interessanti. Ti ha approcciato nel Quartiere del Castello, sostenendo che i vostri fili del destino si sono intrecciati
+- **Collegamento:** Ti ha invitato al Portale Spalancato per una proposta che potrebbe dare un senso al tuo viaggio. È il tramite che ti permetterà di conoscere altri viandanti
+
+## Conoscenze di Fama (Personaggi pubblici di cui hai sentito nominare)
+
+### Durnan
+- **Chi è:** Il proprietario del Portale Spalancato; leggenda vivente di Waterdeep, veterano di Undermountain
+- **Cosa sai:** Anche come straniero appena arrivato, il suo nome è celebre. La taverna è il principale crocevia di avventurieri e informazioni in città
+- **Collegamento:** Luogo dove avrai il primo incontro con Maestro Volo; centro di scambio di notizie dove ascoltare voci sulla città

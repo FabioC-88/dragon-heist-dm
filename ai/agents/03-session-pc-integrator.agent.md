@@ -34,10 +34,10 @@ campagna/png-incontrati.md                ← Atteggiamenti numerici dei PNG ver
 campagna/rapporti.md                      ← Rapporti tra PG e PNG (note qualitative)
 campagna/fazioni.md                       ← Posizione fazioni verso party, archi lunghi attivi
 campagna/contesto.md                      ← Segreti DM su ogni PG, PNG chiave, villain
-fonti/personaggi/BG *.txt                 ← Background grezzi di tutti i PG (un file per PG)
+fonti/personaggi/*.md                     ← Background di tutti i PG (un file per PG)
 ```
 
-> **Come trovare i file background:** leggi i nomi dei PG da `campagna/party.md`, poi cerca i corrispondenti file `BG *.txt` in `fonti/personaggi/`.
+> **Come trovare i file background:** leggi i nomi dei PG da `campagna/party.md`, poi cerca i corrispondenti file `.md` in `fonti/personaggi/`.
 
 ### Step 2 — Identifica gli hook attivi per questa sessione
 
@@ -103,4 +103,4 @@ Usa sempre `[NOTA DM — riservata]` per distinguere le informazioni riservate.
 - Non modificare i testi boxed `>` tradotti dall'Agente 2.
 - Non aggiungere combattimenti o incontri — le scene opzionali devono essere di roleplay o esplorazione.
 - Non rivelare segreti che non sono ancora stati "guadagnati" narrativamente dai giocatori.
-- Se un BG*.txt non è disponibile per un PG, segnalalo come `[TODO: BG mancante — verificare]` e procedi.
+- Se un file BG in `.md` non è disponibile per un PG, segnalalo come `[TODO: BG mancante — verificare]` e procedi.
