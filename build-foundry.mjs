@@ -225,7 +225,7 @@ const PACKS = [
   {
     name: 'pg-backgrounds',
     label: 'Background PG',
-    dirs: ['PG-Background', 'campagna/png-per-capitolo']
+    dirs: ['fonti/personaggi', 'campagna/png-per-capitolo']
   },
   {
     name: 'campagna',
