@@ -105,6 +105,21 @@ Confronta il recap con il piano originale e costruisci una **tabella dei delta**
 
 Per ogni delta identificato, modifica il file di sessione NN:
 
+#### ⚠️ REGOLA FONDAMENTALE — Scene Non Giocate
+
+Se il recap indica che una o più **fasi/scene non sono state giocate** nella sessione NN-1:
+
+1. **SPOSTA il contenuto integralmente** (verbatim) da `dm-notes-sessione-NN-1.md` a `dm-notes-sessione-NN.md`.
+   - Inserisci la fase spostata **prima del contenuto già pianificato** per la sessione NN, come nuova fase iniziale (es. rinumerando le fasi: la fase spostata diventa Fase 0 o Fase 1 della nuova sessione).
+   - **Non riassumere, non creare riferimenti incrociati** ("vedi sessione-01 per i dettagli") — il contenuto deve essere completo e autonomo nella nuova sessione.
+2. **RIMUOVI il contenuto** dalla sessione NN-1 — non deve più apparire lì.
+3. **Aggiorna il RECAP POST-SESSIONE** di sessione NN-1 per riflettere solo ciò che è stato effettivamente giocato: rimuovi riferimenti a PNG, eventi, fazioni, e thread narrativi derivanti dalle scene non giocate.
+4. **Aggiorna il header di sessione NN** (Contesto, Durata stimata) per rispecchiare il contenuto aggiunto.
+
+> Esempio: Se la Fase 4 di S1 non è stata giocata, la Fase 4 di dm-notes-sessione-01.md viene spostata integralmente come Fase 0 in dm-notes-sessione-02.md e rimossa da sessione-01.
+
+---
+
 #### 3A — SETUP INIZIALE
 Aggiorna la sezione di apertura per rispecchiare lo stato reale del mondo dopo la sessione precedente:
 - Posizione del party

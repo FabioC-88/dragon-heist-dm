@@ -37,7 +37,7 @@
 
 **Indizi disponibili (CD 12 Intelligenza · Investigazione per trovarli tutti):**
 - Sul tavolo: una lettera di Volo, con la grafia inconfondibilmente entusiasta del mago-viaggiatore. Invita Floon a *"una seratina al Porto, amico mio — ti farà bene!"*
-- Un paio di scarpe eleganti nell'ingresso — **Floon era uscito con le scarpe da festa**, non in abiti da passeggio (coerente con una serata al Drago Infilzato, non con una fuga improvvisata)
+- Un paio di scarpe da passeggio nelll'ingress — **Floon era uscito con le scarpe da festa**, non in abiti da passeggio (coerente con una serata al Drago Infilzato, non con una fuga improvvisata)
 - La porta non era chiusa a chiave — Floon non prevedeva di stare fuori a lungo
 
 **[NOTA DM — riservata]** Non c'è nulla di drammatico in quest'appartamento. Floon non è stato rapito da casa: è uscito di sua volontà per la serata. L'obiettivo di questa scena è dare un volto umano a Floon prima che il party lo incontri ridotto a 1 PF nelle fogne. Mantieni la scena breve (max 10 min) e usa il testimone per indirizzare il party verso la FASE 1.
