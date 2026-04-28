@@ -232,7 +232,7 @@ const PACKS = [
     label: 'Note Campagna',
     dirs: ['Campagna'],
     sessionDir: 'Campagna/sessioni',
-    locationsDir: 'Campagna/luoghi-visitati'
+    locationsDir: 'campagna/luoghi-visitati'
   },
   {
     name: 'campagna-completa',
