@@ -271,7 +271,7 @@ Dopo ogni sessione, quando il **Location Updater** aggiorna il compendio:
 
 1. **Entra nella Scene** "Waterdeep — Mappa Interattiva"
 2. **Attiva Note Tool** (tasto `N` o menù)
-3. **Clicca sulla mappa** dove si trova il Portale (Castle Ward, vicino a Piazza Sottomonte)
+3. **Clicca sulla mappa** dove si trova il Portale (Dock Ward, vicino a Piazza Sottomonte)
 4. **Nel dialogo**, compila:
    ```
    Name: Il Portale Spalancato

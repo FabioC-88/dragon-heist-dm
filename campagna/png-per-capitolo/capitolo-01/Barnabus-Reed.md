@@ -42,7 +42,7 @@ generato: 2026-04-24
 ---
 
 ## Durnan
-**Come lo conosci:** Proprietario del Portale Spalancato — veterano, ex avventuriero. Nome noto a chiunque frequenti il Castle Ward e cerchi avventurieri.
+**Come lo conosci:** Proprietario del Portale Spalancato — veterano, ex avventuriero. Nome noto a chiunque frequenti il Dock Ward e cerchi avventurieri.
 **Ruolo pubblico:** Taverniere leggendario nel Castle Ward. Punto di riferimento per avventurieri.
 **Quello che sai:**
 - Ha visto tutto quello che si muove in questa città negli ultimi vent'anni. Le sue informazioni sulle attività portuali e criminali sono preziose, anche se non le offre facilmente.

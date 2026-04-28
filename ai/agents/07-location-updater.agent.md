@@ -117,7 +117,7 @@ Note storiche, referenze, o contesto.
 ```markdown
 # Il Portale Spalancato
 
-**Quartiere/Zona**: Castle Ward, Waterdeep  
+**Quartiere/Zona**: Dock Ward, Waterdeep  
 **Sessioni Visitate**: S1  
 **Descrizione**: Celebre taverna leggendaria. Hub principale del party.
 
