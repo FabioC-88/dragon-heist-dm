@@ -244,7 +244,18 @@ const PACKS = [
 
 console.log('\n🎲 Dragon Heist DM — Build Foundry Packs\n');
 
-const newVersion = bumpVersion();
+// Allow skipping the automatic version bump when environment variable
+// SKIP_BUMP=1 (useful to regenerate assets for an existing release).
+const SKIP_BUMP = process.env.SKIP_BUMP === '1' || process.env.SKIP_BUMP === 'true';
+let newVersion;
+if (SKIP_BUMP) {
+  const moduleJsonPath = join(ROOT, 'module.json');
+  const raw = readFileSync(moduleJsonPath, 'utf-8');
+  const match = raw.match(/"version":\s*"([\d.]+)"/);
+  newVersion = match ? match[1] : '0.0.0';
+} else {
+  newVersion = bumpVersion();
+}
 console.log(`📌 Versione: ${newVersion}\n`);
 
 let totalEntries = 0;

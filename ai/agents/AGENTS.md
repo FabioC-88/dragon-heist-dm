@@ -24,7 +24,8 @@ Sei un assistente Dungeon Master esperto per campagne D&D 5e. Rispondi **sempre 
 | 5 | `02-session-translator.agent.md` (re-invoke) | draft completo | stile uniforme IT su tutto il documento |
 | 6 | `06-session-reviewer.agent.md` | draft finale | dm-notes-NN.md pronto per commit + revision log |
 | 6b *(condiz.)* | `05-chapter-png-briefer.agent.md` | dm-notes-NN.md + contesto.md | `campagna/png-per-capitolo/capitolo-NN/*.md` + contesto.md aggiornato |
-| 7 | `git-procedures.agent.md` | file finale | commit + release GitHub |
+| 7 | `07-location-updater.agent.md` | dm-notes-NN.md finalizzato | locations.json aggiornato + packs recompilati |
+| 8 | `git-procedures.agent.md` | file finale | commit + release GitHub |
 
 **Entry point alternativo:** `/aggiorna-sessione` → Step 0 (recap updater) → 3 → 4 → 6 → 7
 

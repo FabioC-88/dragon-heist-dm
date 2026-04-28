@@ -88,3 +88,70 @@ file_location: git-procedures.agent.md
 [NOTA DM — riservata]: Questo agente è neutro rispetto ai contenuti della campagna; si occupa
 solo delle procedure Git/Release. Non eseguire alcuna release automatica senza conferma esplicita.
 
+---
+
+## Workflow Sessione Completo (con Location Updater)
+
+Dopo che una sessione è stata **finalizzata dal Session Reviewer (Agente 6)**, il workflow completo è:
+
+### Step 1: Session Reviewer → dm-notes-NN.md finalizzato
+```
+/prep-sessione NN
+→ [Agenti 1-5]
+→ Agente 6 (Reviewer) → dm-notes-NN.md ✅ PRONTO PER COMMIT
+```
+
+### Step 2: Location Updater → compendio aggiornato
+```
+/aggiorna-locations NN
+→ Agente 7 (Location Updater):
+  1. Legge dm-notes-NN.md finalizzato
+  2. Estrae tutti i luoghi visitati
+  3. Aggiorna locations.json (nuovi + aggiornamenti)
+  4. Esegue npm run build
+  5. Output: src/campagna/locations.json + packs/campagna/ recompilato ✅
+```
+
+### Step 3: Git Commit
+```
+/commit-location-update NN
+→ Agente Git (questo):
+  1. git add campagna/luoghi-visitati.md src/campagna/locations.json
+  2. git commit -m "Sessione NN: Aggiornamento compendio Luoghi Visitati"
+  3. git push origin master
+```
+
+### Step 4 (opzionale): Release
+```
+/release NN
+→ npm run build
+→ git add + commit + tag + GitHub Release
+```
+
+---
+
+## Comando Rapido: Aggiorna Locations e Commit
+
+**⚠️ ORDINE CORRETTO:**
+
+1. **Finisci la Sessione N e fai ripassare il Reviewer**: `/rivedi-sessione N`
+2. **POI aggiorna i Luoghi visitati in S.N**: `/aggiorna-locations N`
+3. **POI fai il commit**: `/commit-location-update N`
+
+Non fare `/aggiorna-locations` mentre **prepari** la sessione successiva!
+
+---
+
+Quando il Session Reviewer (Agente 6) consegna dm-notes-NN.md **finalizzato**, invoca:
+
+```
+/aggiorna-locations NN
+```
+
+Questo:
+1. ✅ Esegue Agente 7 (Location Updater)
+2. ✅ Legge il dm-notes-NN.md appena completato
+3. ✅ Estrae i luoghi visitati IN QUELLA SESSIONE
+4. ✅ Aggiorna locations.json e recompila packs
+5. ✅ Pronto per il commit nel prossimo step
+
