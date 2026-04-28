@@ -33,7 +33,7 @@ Il mentore **Brottor Deepdelver** è scomparso durante un'indagine su un caso cl
 - **Vajra Safahr** — capo supremo dell'Ordine; ti convoca per rapporto (Force Grey M1 incoming)
 - **Barnibus Blastwind** — collega Ordine, collabora con la Guardia
 - **Saeth Cromley** — Sergente della Guardia, contatto professionale
-- **Durnan** *(nuovo, S1)* — proprietario Yawning Portal; +1 amichevolezza (post-brawl)
+- **Durnan** *(nuovo, S1)* — proprietario Yawning Portal; +1 amichevolezza (post-rissa)
 - **Yagra Stonefist** *(nuovo, S1)* — mezza-orchessa Zhentarim; ha combattuto con te (+1)
 - **Volothamp Volo** *(nuovo, S1)* — quest-giver Floon, genuino (+2)
 - **Azzaxell** *(nuovo, S1)* — barista Skewered Dragon; diffile (-1)
@@ -68,7 +68,7 @@ Ha ricevuto dal monaco **Hlam** sul Monte Waterdeep una pergamena sigillata con 
 - **Vajra Safahr** — l'ha accolto e lo convoca per rapporto (Force Grey M1)
 - **Volothamp "Volo" Geddarm** — quest-giver Floon; genuino (+2)
 - **Durnan** *(nuovo, S1)* — proprietario Yawning Portal; neutrale (+0)
-- **Yagra Stonefist** *(nuovo, S1)* — ha combattuto con te nel brawl (+1)
+- **Yagra Stonefist** *(nuovo, S1)* — ha combattuto con te nella rissa (+1)
 - **Azzaxell** *(nuovo, S1)* — barista Skewered Dragon; ostile (-1)
 - **Old Xoblob** *(nuovo, S1)* — gnomo del negozio; gentile, informativo (+1)
 - **Renaer Neverember** *(nuovo, S1)* — nobile salvato; grato, spiega il tesoro (+2)
@@ -113,8 +113,8 @@ Ha ricevuto dal monaco **Hlam** sul Monte Waterdeep una pergamena sigillata con 
 - **Renaer Neverember** *(nuovo, S1)* — nobile salvato; grato; info tesoro (+2)
 
 #### Note [Sessione 1]
-- **Mirt manda messaggio via piccione** dopo il brawl al Portale (Arpisti M1 incoming)
-- **Il Maestro Bec osserva tutto** — il suo giudizio silenzioso durante il brawl è stato notato
+- **Mirt manda messaggio via piccione** dopo la rissa al Portale (Arpisti M1 incoming)
+- **Il Maestro Bec osserva tutto** — il suo giudizio silenzioso durante la rissa è stato notato
 - **Trobbio assente durante S1** — ma presente narrativamente come patron che osserva
 
 ---
@@ -148,13 +148,13 @@ Volothamp "Volo" Geddarm l'ha contattata in officina e l'ha invitata al Portale 
 - **Rennis Coalsworth** — partner/mentore; scomparso misteriosamente (filo narrativo M4)
 - **Volothamp "Volo" Geddarm** *(nuovo, S1)* — ti ha contattato in officina; genuino (+2)
 - **Durnan** *(nuovo, S1)* — proprietario Yawning Portal; neutrale (+0)
-- **Yagra Stonefist** *(nuovo, S1)* — ha combattuto con te nel brawl; braccio destro Davil (+1)
+- **Yagra Stonefist** *(nuovo, S1)* — ha combattuto con te nella rissa; braccio destro Davil (+1)
 - **Azzaxell** *(nuovo, S1)* — barista Skewered Dragon; ostile (-1)
 - **Old Xoblob** *(nuovo, S1)* — spia Xanathar unknown; gentile per ora (+1)
 - **Renaer Neverember** *(nuovo, S1)* — nobile salvato; info su Stone of Golorr (+2)
 
 #### Note [Sessione 1]
-- **Davil ti contatta via Yagra** dopo il brawl (Zentharim M1 incoming)
+- **Davil ti contatta via Yagra** dopo la rissa (Zentharim M1 incoming)
 - **La questline M2-M4** potrebbe rivelare info su Manshoon e Kolat Towers
 - **Eric come tech specialist** — Davil ti usa per incarichi dove serve expertise tecnica
 

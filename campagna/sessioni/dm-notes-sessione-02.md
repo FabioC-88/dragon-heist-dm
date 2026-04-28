@@ -1,8 +1,8 @@
 # DM Notes — Sessione 2 (In-Game)
 
 > **Fonte primaria:** `Fonti-Originali/Dragon Heist.md` · Sezione *"Tracking Floon"* → *"Completing Volo's Quest"* (Cap. 1, Atto III)
-> **Contesto:** Party Lv 1 · Milestone · Al Portale Spalancato dopo l'incontro con Volo (fine S1) · Il party ha l'indirizzo di Floon (2, Fetlock Court) e intende indagare lì prima degli altri luoghi · Renaer Neverember non ancora incontrato
-> **Obiettivo sessione:** Verificare la casa di Floon → Indagare nel Dock Ward → Trovare il magazzino di Candle Lane → Tracciare Floon nelle fogne → Sconfiggere Grum'shar + Nihiloor → Consegnare Floon a Volo → Ottenere Trollskull Manor → Level Up Lv 2
+> **Contesto:** Party Lv 1 · Milestone · Al Portale Spalancato dopo l'incontro con Volo (fine S1) · Il party ha l'indirizzo di Floon (2, Fetlock Court) · Renaer Neverember non ancora incontrato · **Barnabus Reed non era presente in S1** — era sulla scena del crimine (chiamato da Festo) e si sta congedando dalla sua squadra proprio quando il party arriva
+> **Obiettivo sessione:** Indagare nel Dock Ward (Sangue nelle Strade → Casa di Floon → Xoblob → Drago Infilzato) → Trovare il magazzino di Candle Lane → Tracciare Floon nelle fogne → Sconfiggere Grum'shar + Nihiloor → Consegnare Floon a Volo → Ottenere Trollskull Manor → Level Up Lv 2
 > **Durata stimata:** ~3h45m
 
 ---
@@ -17,13 +17,39 @@
 >
 > Nelle tasche tintinnano le 10 monete d'oro — gli anticipi della speranza di Volo. Fuori, il Quartiere del Porto vi aspetta nella sera umida con tutti i suoi segreti.
 
-**[Svolta narrativa da recap S1]** Il party ha chiesto a Volo l'indirizzo di Floon — lui lo fornisce senza esitazione: **2, Fetlock Court, Dock Ward**. Avviate direttamente con la **FASE 0: Casa di Floon**. Dopo la visita, il party sarà indirizzato verso il Vecchio Xoblob e il Drago Infilzato (FASE 1).
+**[Svolta narrativa da recap S1]** Il party ha chiesto a Volo l'indirizzo di Floon — lui lo fornisce senza esitazione: **2, Fetlock Court, Dock Ward**. Uscendo dal Portale Spalancato, il party incrocia la scena del crimine (vedi FASE 1 — Tappa 0), dove Barnabus Reed si trova già da un po' con la sua squadra. È il **primo incontro tra Barnabus e il party**: lui non li conosce, loro sanno solo che Volo aveva citato un sergente che non si era presentato. Solo dopo questo primo contatto il gruppo si dirige insieme a Fetlock Court.
 
 ---
 
-## FASE 0: CASA DI FLOON BLAGMAAR — Fetlock Court (~15 min)
+## FASE 1: INDAGINE NEL QUARTIERE DEL PORTO — Dock Ward (~60 min)
 
-*La prima mossa del party: verificare la casa di Floon prima di esplorare i luoghi frequentati. Volo li ha indirizzati al **2 di Fetlock Court**, nel Dock Ward.*
+### Ambiente Generale Dock Ward
+
+> Il Quartiere del Porto è un labirinto di legno marcescente e nebbia salmastra. L'odore delle alghe in decomposizione si mescola a quello del pesce stantio, mentre il gemito delle navi ancorate ai moli funge da costante e inquietante colonna sonora. Nonostante non sia ufficialmente una zona di guerra, la tensione grava sulle spalle dei passanti come un mantello bagnato.
+
+---
+
+### Tappa 0: SANGUE NELLE STRADE — Primo incontro con Barnabus Reed
+
+*Il party esce dal Portale Spalancato e, prima ancora di raggiungere Fetlock Court, svolta l'angolo sbagliato. Barnabus Reed è già sul posto da un po': Festo lo aveva chiamato prima che riuscisse ad arrivare al Portale la sera di S1. Ha aiutato la squadra ad ammanettare i tre fermati, li ha interrogati senza ricavare nulla di utile, ha esaminato i cadaveri trovando solo le affiliazioni tatuate (Zhentarim e Xanathar) ma nessun elemento nuovo. Sta per congedarsi e riprendere la strada per il Portale quando dalla nebbia del porto emerge il party.*
+
+> Svoltate l'angolo e la realtà del Porto vi colpisce con la forza di un maglio. La strada è sbarrata. Sul selciato giacciono **sei cadaveri**, le vesti imbevute di sangue, testimoni muti di una ferocia inaudita. Gli ufficiali della Guardia Cittadina hanno già disarmato e stretto in ceppi **tre uomini laceri e sporchi di sangue**.
+>
+> Un uomo con l'uniforme da sergente — taccuino aperto in mano, l'espressione di chi ha già finito di guardare e sta per andarsene — alza gli occhi dalla scena verso di voi. Vi osserva un momento dalla distanza di dieci passi. Una guardia si fa avanti con la mano sull'elsa. *"Circolare, cittadini. Non c'è nulla da vedere qui."*
+
+**Barnabus è già presente e si sta congedando.** La guardia si ferma appena lui fa un piccolo gesto con la mano — non è necessario che parli. Il sergente vi studia con la stessa attenzione con cui poco fa ha studiato i cadaveri: senza fretta, senza conclusioni premature.
+
+*Punto di riconoscimento:* Volo aveva citato un sergente della Guardia che non si era presentato. Se qualcuno lo menziona, Barnabus riconosce il collegamento. Se nessuno parla, lui fa la prima mossa: *"Voi siete quelli del Portale Spalancato."* Non è una domanda.
+
+**[NOTA DM — riservata]** I 3 arrestati sono **agenti Zhentarim di Urstul Floxin** (i tatuaggi li tradiscono). Lo scontro è una escalation della guerra tra Xanathar e Zhentarim. Barnabus ha già questa informazione ma non ne ha ancora ricavato un filo investigativo.
+
+**[NOTA DM — Barnabus si unisce al party]** Questo è il primo incontro tra Barnabus e il resto del gruppo — non si conoscono. Barnabus sa di Volo e della convocazione saltata; il party sa solo che Volo aveva citato un sergente assente. La squadra (Grob, Festo, Vina) porta i fermati in questura: Barnabus è libero di procedere. Si unisce con il pragmatismo di chi ha già un'indagine in corso e vede che i pezzi coincidono, non per simpatia.
+
+---
+
+### Tappa 1: CASA DI FLOON BLAGMAAR — Fetlock Court (~15 min)
+
+*Prima tappa dell'indagine vera e propria. Il party (con o senza Barnabus) si dirige al **2 di Fetlock Court**, nel Dock Ward.*
 
 ### Ambiente in-character
 
@@ -31,16 +57,16 @@
 >
 > Dentro, l'aria è densa di muffa e trementina. Una piccola stanza: un letto disfatto, un cavalletto con uno schizzo incompiuto — una donna di spalle, colta di notte su un molo — e cinque bottiglie di vino sul tavolo, tre vuote. I resti di una cena di due sere fa non sono ancora marciti. Tutto indica una partenza volontaria, a sera inoltrata.
 
-**Se Barnabus Reed è presente:** Conosce Fetlock Court e la bottega del calzolaio al piano terra. Vantaggio a tutte le prove di Indagine in questa scena.
+**Barnabus Reed conosce Fetlock Court** e la bottega del calzolaio al piano terra — zona di pattuglia abituale. Vantaggio a tutte le prove di Indagine in questa scena se lui partecipa attivamente.
 
 **[NOTA DM — riservata] Hook per Aelar (Bardo):** Lo schizzo incompiuto sul cavalletto ritrae una donna di spalle in un angolo del Dock Ward notturno — tecnica rozza ma con una sensibilità reale. Un bardo riconosce l'occhio di chi osserva il mondo per tradurlo. Puoi usarlo come momento di caratterizzazione: Aelar potrebbe commentare la qualità del tratto prima ancora che il party si preoccupi dei dettagli pratici.
 
 **Indizi disponibili (CD 12 Intelligenza · Investigazione per trovarli tutti):**
 - Sul tavolo: una lettera di Volo, con la grafia inconfondibilmente entusiasta del mago-viaggiatore. Invita Floon a *"una seratina al Porto, amico mio — ti farà bene!"*
-- Un paio di scarpe da passeggio nelll'ingress — **Floon era uscito con le scarpe da festa**, non in abiti da passeggio (coerente con una serata al Drago Infilzato, non con una fuga improvvisata)
+- Un paio di scarpe da passeggio nell'ingresso — **Floon era uscito con le scarpe da festa**, non in abiti da passeggio (coerente con una serata al Drago Infilzato, non con una fuga improvvisata)
 - La porta non era chiusa a chiave — Floon non prevedeva di stare fuori a lungo
 
-**[NOTA DM — riservata]** Non c'è nulla di drammatico in quest'appartamento. Floon non è stato rapito da casa: è uscito di sua volontà per la serata. L'obiettivo di questa scena è dare un volto umano a Floon prima che il party lo incontri ridotto a 1 PF nelle fogne. Mantieni la scena breve (max 10 min) e usa il testimone per indirizzare il party verso la FASE 1.
+**[NOTA DM — riservata]** Non c'è nulla di drammatico in quest'appartamento. Floon non è stato rapito da casa: è uscito di sua volontà per la serata. L'obiettivo di questa scena è dare un volto umano a Floon prima che il party lo incontri ridotto a 1 PF nelle fogne. Mantieni la scena breve (max 10 min) e usa il testimone per indirizzare il party verso le tappe successive.
 
 ### Testimone nel vicolo
 
@@ -50,39 +76,13 @@
 
 **CD:** Nessuna — Tomm parla volentieri con chiunque si mostri gentile o curioso.
 
-**[NOTA DM — riservata]** Questa testimonianza conferma che Floon era con Renaer Neverember la sera della scomparsa. "Fillet Lane / Zastrow Street" è la zona del **Drago Infilzato** e del **Vecchio Xoblob** — il party viene indirizzato naturalmente verso la FASE 1.
+**[NOTA DM — riservata]** Questa testimonianza conferma che Floon era con Renaer Neverember la sera della scomparsa. "Fillet Lane / Zastrow Street" è la zona del **Drago Infilzato** e del **Vecchio Xoblob** — il party viene indirizzato naturalmente verso le tappe successive.
 
 ---
 
-## FASE 1: INDAGINE NEL QUARTIERE DEL PORTO — Dock Ward (~45 min)
+### Tappa 2: IL NEGOZIO DEL VECCHIO XOBLOB
 
-### Ambiente Generale Dock Ward
-
-> Il Quartiere del Porto è un labirinto di legno marcescente e nebbia salmastra. L'odore delle alghe in decomposizione si mescola a quello del pesce stantio, mentre il gemito delle navi ancorate ai moli funge da costante e inquietante colonna sonora. Nonostante non sia ufficialmente una zona di guerra, la tensione grava sulle spalle dei passanti come un mantello bagnato.
-
----
-
-### [OPZIONALE] SANGUE NELLE STRADE
-
-*Questo incontro avviene mentre vi muovete verso il Drago Infilzato (Skewered Dragon) — il party lo incontra mentre attraversa il Dock Ward.*
- 
-> Svoltate l'angolo e la realtà del Porto vi colpisce con la forza di un maglio. La strada è sbarrata. Sul selciato giacciono **sei cadaveri**, le vesti imbevute di sangue, testimoni muti di una ferocia inaudita. Gli ufficiali della Guardia Cittadina hanno già disarmato e stretto in ceppi **tre uomini laceri e sporchi di sangue**, mentre torchiano i testimoni oculari.
->
-
-> Una guardia vi intercetta con lo sguardo, la mano sull'elsa. *"Circolare, cittadini. Non c'è nulla da vedere qui che non sia già stato deciso dalla legge."*
-
-**Se Barnabus Reed è presente:** la guardia abbassa la mano dall'elsa, fa un leggero cenno di rispetto e si rivolge a lui con tono misurato: *"Sergente — abbiamo fermato questi qui. Se desidera identificarli o interrogarli brevemente, possiamo concederle l'accesso; altrimenti li portiamo in questura secondo protocollo."* (le guardie restano comunque legate alle procedure ufficiali, ma riconoscono la sua autorità locale)
-
-**[NOTA DM — riservata]** I 3 arrestati sono **agenti Zhentarim di Urstul Floxin** (i tatuaggi li tradiscono). Lo scontro è una escalation della guerra tra Xanathar e Zhentarim.
-
-**Allineamento col background di Barnabus:** Barnabus Reed è un Sergente della Guardia Cittadina e il Dock Ward è la sua zona di competenza. È quindi plausibile che le tre guardie che hanno effettuato gli arresti siano membri della sua "Squadra Disgrazia" (Grob, Festo, Vina) o che comunque lo riconoscano e gli concedano rispetto anche se è fuori servizio. Se Barnabus è presente e si qualifica come Sergente, le guardie potrebbero lasciargli un margine di intervento o consultarlo; se invece il party si presenta come estranei, la Guardia potrebbe inizialmente ostacolare l'avvicinamento.
-
-
----
-
-### Tappa 1: IL NEGOZIO DEL VECCHIO XOBLOB
-
-*Il negozio si trova all'angolo di Zastrow Street e Fillet Lane — sulla stessa strada dell Drago Infilzato.*
+*Il negozio si trova all'angolo di Zastrow Street e Fillet Lane — sulla stessa strada del Drago Infilzato.*
 
 **Ambiente in-character:**
 
@@ -100,7 +100,7 @@ Se il party ottiene info (CD 13 Carisma — Persuasione o Intimidazione — oppu
 
 ---
 
-### Tappa 2: IL DRAGO INFILZATO (Skewered Dragon)
+### Tappa 3: IL DRAGO INFILZATO (Skewered Dragon)
 
 *Affacciato su un vicolo tra Net Street e Fillet Lane — non lontano dal negozio del Vecchio Xoblob.*
 
@@ -114,19 +114,18 @@ Per ottenere info: **CD 13 Carisma (Intimidazione o Persuasione)** oppure **5 gp
 
 Se parlano:
 
-
-**Se Barnabus Reed è presente:** 
->L'oste interrompe bruscamente la pulizia di un boccale incrostato non appena incrocia lo sguardo di Barnabus. Sputa a terra, poi si sporge sul bancone riducendo gli occhi a due fessure.
+**Se Barnabus Reed è presente:**
+> L'oste interrompe bruscamente la pulizia di un boccale incrostato non appena incrocia lo sguardo di Barnabus. Sputa a terra, poi si sporge sul bancone riducendo gli occhi a due fessure.
 >
->"*"Ancora lei, Sergente? Credevo che l'odore di questo posto le avesse finalmente dato il voltastomaco."*
+> *"Ancora lei, Sergente? Credevo che l'odore di questo posto le avesse finalmente dato il voltastomaco."*
 >
->Abbassa la voce, che diventa un rantolo aspro tra i denti stretti:
+> Abbassa la voce, che diventa un rantolo aspro tra i denti stretti:
 >
->*"Ascolti bene, perché non ho intenzione di finire con la gola tagliata per colpa del suo distintivo. Il damerino che cercate è passato di qui due notti fa. Se n'è andato con un nobile e una scorta di cinque tipi che non avevano l'aria di voler chiedere il permesso a nessuno. Se proprio deve andare a ficcare il naso, lo faccia a Candle Lane: cerchi la porta col serpente e veda di non farsi ammazzare troppo vicino al mio ingresso. Ora circolare, sta spaventando la clientela."* 
+> *"Ascolti bene, perché non ho intenzione di finire con la gola tagliata per colpa del suo distintivo. Il damerino che cercate è passato di qui due notti fa. Se n'è andato con un nobile e una scorta di cinque tipi che non avevano l'aria di voler chiedere il permesso a nessuno. Se proprio deve andare a ficcare il naso, lo faccia a Candle Lane: cerchi la porta col serpente e veda di non farsi ammazzare troppo vicino al mio ingresso. Ora circolare, sta spaventando la clientela."*
 
 ---
 
-### Tappa 3: CANDLE LANE — MAGAZZINO DEGLI ZHENTARIM
+### Tappa 4: CANDLE LANE — MAGAZZINO DEGLI ZHENTARIM
 
 **Ambiente in-character:**
 
