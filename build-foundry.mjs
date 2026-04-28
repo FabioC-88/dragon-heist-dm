@@ -290,6 +290,14 @@ for (const pack of PACKS) {
     mdFiles = mdFiles.filter(f => !f.startsWith(sessionDirAbs));
   }
 
+  // Separa i file locations dal resto (verranno uniti in un journal multi-pagina)
+  let locationsFiles = [];
+  if (pack.locationsDir) {
+    const locationsDirAbs = join(ROOT, pack.locationsDir);
+    locationsFiles = mdFiles.filter(f => f.toLowerCase().startsWith(locationsDirAbs.toLowerCase()));
+    mdFiles = mdFiles.filter(f => !f.toLowerCase().startsWith(locationsDirAbs.toLowerCase()));
+  }
+
   // Ordina: ordine fisso per Campagna, ordine numerico M1/M2/… per le missioni
   if (pack.name === 'campagna') {
     mdFiles.sort((a, b) => campagnaSortKey(a) - campagnaSortKey(b));
@@ -317,18 +325,13 @@ for (const pack of PACKS) {
   }
 
   // Journal multi-pagina per i luoghi visitati
-  let locationsFiles = [];
-  if (pack.locationsDir) {
-    const locationsDirAbs = join(ROOT, pack.locationsDir);
-    locationsFiles = collectMdFiles(locationsDirAbs);
-    if (locationsFiles.length > 0) {
-      locationsFiles.sort();
-      const luoghi = buildMultiPageJournalEntry('Luoghi Visitati', 'campagna:luoghi-visitati', locationsFiles);
-      const outPath  = join(srcDir, `${luoghi._id}.json`);
-      writeFileSync(outPath, JSON.stringify(luoghi, null, 2), 'utf-8');
-      console.log(`   ✓ ${luoghi._id}  "${luoghi.name}"  (${locationsFiles.length} pagine)`);
-      totalEntries++;
-    }
+  if (locationsFiles.length > 0) {
+    locationsFiles.sort();
+    const luoghi = buildMultiPageJournalEntry('Luoghi Visitati', 'campagna:luoghi-visitati', locationsFiles);
+    const outPath  = join(srcDir, `${luoghi._id}.json`);
+    writeFileSync(outPath, JSON.stringify(luoghi, null, 2), 'utf-8');
+    console.log(`   ✓ ${luoghi._id}  "${luoghi.name}"  (${locationsFiles.length} pagine)`);
+    totalEntries++;
   }
 
   // 2. Compila LevelDB con fvtt-cli
