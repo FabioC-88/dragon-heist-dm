@@ -42,8 +42,8 @@ generato: 2026-04-24
 ---
 
 ## Durnan
-**Come lo conosci:** Proprietario del Portale Spalancato — veterano, ex avventuriero. Nome noto a chiunque lavori nel Dock Ward.
-**Ruolo pubblico:** Taverniere leggendario nel Castlethorp. Punto di riferimento per avventurieri.
+**Come lo conosci:** Proprietario del Portale Spalancato — veterano, ex avventuriero. Nome noto a chiunque frequenti il Castle Ward e cerchi avventurieri.
+**Ruolo pubblico:** Taverniere leggendario nel Castle Ward. Punto di riferimento per avventurieri.
 **Quello che sai:**
 - Ha visto tutto quello che si muove in questa città negli ultimi vent'anni. Le sue informazioni sulle attività portuali e criminali sono preziose, anche se non le offre facilmente.
 - Potrebbe diventare una fonte preziosa per capire i movimenti nel Dock Ward — se guadagni la sua fiducia.

@@ -65,9 +65,9 @@
 | Campo | Valore |
 |-------|--------|
 | **Posizione verso il party** | Neutrale / Amichevole *(dipende dalle azioni)* |
-| **PNG di contatto** | **Davil Starsong** (Portale Sbadigliante, Dock Ward) · Yagra Stonefist (braccio armato) |
+| **PNG di contatto** | **Davil Starsong** (Portale Spalancato, Castle Ward) · Yagra Stonefist (braccio armato) |
 | **Membri nel party** | Friedrich Krauser (Gabri) — contatto primario; Fizzra "Scintilla" (Eric) — fuggitiva da Manshoon |
-| **Sede operativa** | Portale Sbadigliante *(taverna nel Dock Ward)* |
+| **Sede operativa** | Portale Spalancato *(taverna nel Castle Ward)* |
 | **Ultimo evento** | — *(campagna non iniziata)* |
 | **folder_path** | `missioni/zentharim/` |
 | **fonti_path** | `fonti/missioni/Zentharim_*.txt` |

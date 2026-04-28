@@ -47,7 +47,7 @@
 
 ### Zentharim *(La Rete Nera)*
 - **Membri informali:** Friedrich Krauser / Gabri (contatto primario, arco → Oathbreaker); Fizzra "Scintilla" / Eric (contatto primario via questline, filo narrativo su Rennis)
-- **Referente in città:** Davil Starsong — Portale Sbadigliante, Dock Ward
+- **Referente in città:** Davil Starsong — Portale Spalancato, Castle Ward
 - **Stile operativo:** Mercenari, traffici, controllo della criminalità organizzata. Non tutti gli Zhentarim sono villain — Davil ha un suo codice.
 - **Tensione narrativa:** Barnabus Reed vuole catturare Urstul Floxin, ma party (Friedrich/Fizzra) lavora *con* Zhentarim. Eric attraversa la questline ignara che il mentore scomparso Rennis è nelle mani di Manshoon alle Kolat Towers — M4 potrebbe offrire opportunità di scoperta.
 - **Arco Friedrich (Gabri):** M1 (protezione, vindication) → M2-M3 (zone grigie) → M4 (assassinio Skeemo = breaking point Oathbreaker)

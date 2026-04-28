@@ -48,11 +48,16 @@ Non ti limiti a segnalare: **aggiorni il compendio e compili il pack**.
 Apri e leggi:
 
 ```
-campagna/sessioni/dm-notes-sessione-NN.md    ← Sessione appena finalizzata
-campagna/luoghi-visitati.md                  ← Sorgente Markdown dei luoghi (per formato/stile)
-src/campagna/locations.json                  ← Compendio Foundry da aggiornare
-src/campagna/2fd86746b2e1362b.json          ← Template struttura JournalEntry (per riferimento)
+campagna/luoghi-visitati/*.md          ← File markdown separati (uno per luogo)
+dm-notes-sessione-NN.md                ← Sessione appena finalizzata
 ```
+
+**Struttura**: Ogni luogo è un file markdown separato in `campagna/luoghi-visitati/`, es:
+- `01-portale-spalancato.md`
+- `02-scena-crimine.md`
+- ecc.
+
+Il build-foundry.mjs raggruppa automaticamente questi file in un'unica JournalEntry multi-pagina chiamata "Luoghi Visitati".
 
 ### Step 2 — Estrai lista dei luoghi visitati
 
@@ -60,7 +65,7 @@ Scansiona il dm-notes-sessione-NN.md e **estrai ogni luogo visitato** dalle sezi
 
 Per ogni luogo, registra:
 - **Nome del luogo** (esatto come scritto in dm-notes)
-- **Quartiere/Zona** (se menzonato nella descrizione)
+- **Quartiere/Zona** (se menzionato nella descrizione)
 - **Evento accaduto** (riassunto generico: "Il party ha combattuto contro...", "Il party ha incontrato...")
 - **PNG incontrati** (lista)
 
@@ -70,115 +75,100 @@ Per ogni luogo, registra:
 - ❌ "Aelar ha incontrato Fala Lefaliir e hanno parlato di Sildëyuir"
 - ✅ "Il party ha incontrato Fala Lefaliir nel negozio di erbe"
 
-### Step 3 — Verifica esistenza nel compendio
+### Step 3 — Verifica esistenza del file
 
-Per ogni luogo estratto, verifica se esiste già in locations.json:
+Per ogni luogo estratto, verifica se esiste un file corrispondente in `campagna/luoghi-visitati/`:
 
-```json
-// Cerca la pagina con name corrispondente in pages[]
-// Esempio: se il luogo è "Il Portale Spalancato", cerca una pagina con "name": "Il Portale Spalancato"
+**Naming convention**: `NN-nome-luogo-slug.md`
+- Esempio: `01-portale-spalancato.md`, `02-scena-crimine.md`, `09-trollskull-alley.md`
+
+Dove `NN` è il numero sequenziale (001, 002, ... 019 per max 19 luoghi).
+
+- **Se NUOVO**: Procedi a Step 4A (Crea nuovo file luogo)
+- **Se ESISTENTE**: Procedi a Step 4B (Aggiorna evento nel file)
+
+### Step 4A — Crea nuovo file luogo
+
+Se il luogo è nuovo, crea un nuovo file markdown in `campagna/luoghi-visitati/`:
+
+**Template**:
+```markdown
+# Nome del Luogo
+
+**Quartiere/Zona**: Nome Quartiere, Area  
+**Sessioni Visitate**: SX  
+**Descrizione**: Descrizione breve (2-3 righe) senza nomi PG specifici.
+
+## PNG Incontrati
+
+- PNG 1 (brevissima descrizione)
+- PNG 2
+
+## Eventi Importanti
+
+- [SX] Il party ha [azione generica]
+
+## Note Aggiuntive
+
+Note storiche, referenze, o contesto.
 ```
 
-- **Se NUOVO**: Procedi a Step 4A (Aggiungi nuovo luogo)
-- **Se ESISTENTE**: Procedi a Step 4B (Aggiorna luogo esistente)
+**Esempio**:
+```markdown
+# Il Portale Spalancato
 
-### Step 4A — Aggiungi nuovo luogo
+**Quartiere/Zona**: Castle Ward, Waterdeep  
+**Sessioni Visitate**: S1  
+**Descrizione**: Celebre taverna leggendaria. Hub principale del party.
 
-Se il luogo è nuovo, crea una nuova pagina in locations.json seguendo questo template:
+## PNG Incontrati
 
-```json
-{
-  "_id": "pXXX_slug_luogo",
-  "name": "Nome Luogo",
-  "type": "text",
-  "title": {
-    "show": false,
-    "level": 1
-  },
-  "text": {
-    "format": 1,
-    "content": "<h2>Nome Luogo</h2>\n<p><strong>Quartiere/Zona:</strong> Quartiere della Città<br>\n<strong>Sessioni Visitate:</strong> SX</p>\n<h3>Descrizione</h3>\n<p>[descrizione breve dal campagna/luoghi-visitati.md se disponibile, altrimenti dalla sessione]</p>\n<h3>PNG Incontrati</h3>\n<ul>\n<li>PNG 1 (descrizione breve)</li>\n</ul>\n<h3>Eventi Importanti</h3>\n<ul>\n<li>[SX] Il party ha [azione generica]</li>\n</ul>\n<h3>Note Aggiuntive</h3>\n<p>Note se presenti.</p>"
-  },
-  "image": {},
-  "video": {
-    "controls": true,
-    "volume": 0.5
-  },
-  "src": null,
-  "system": {},
-  "sort": 100000 + (numero_pagina),
-  "ownership": {
-    "default": -1
-  },
-  "flags": {},
-  "_key": "!journal.pages!f2a8b5c1d3e4f6g7h8i9j0k1.pXXX_slug_luogo"
-}
+- Durnan (proprietario, neutrale-rispettoso)
+- Volo Geddarm (quest-giver, amichevole)
+
+## Eventi Importanti
+
+- [S1] Il party ha combattuto contro banditi Xanathar e un troll
+
+## Note Aggiuntive
+
+Luogo cardine della campagna. *Fonte: Dragon Heist Cap. 1*.
 ```
 
-**Note sulla struttura**:
-- `_id`: genera da "pXXX_slug_luogo" dove XXX = numero pagina (001, 002, ecc.)
-- `sort`: incrementa per ogni nuova pagina
-- `text.content`: HTML con header H2, sezioni H3, liste con UL/LI
-- `ownership.default`: -1 = DM-only (non visibile a giocatori)
-- `_key`: **SEMPRE**: `!journal.pages!f2a8b5c1d3e4f6g7h8i9j0k1.[_id]`
+**Salva come**: `campagna/luoghi-visitati/NN-nome-slug.md` (sostituisci NN con il numero sequenziale)
 
-Aggiungi la nuova pagina alla fine dell'array `pages[]` in locations.json.
+### Step 4B — Aggiorna evento luogo esistente
 
-### Step 4B — Aggiorna luogo esistente
+Se il luogo esiste già, aggiungi la nuova riga dell'evento nella sezione **Eventi Importanti**:
 
-Se il luogo esiste già, aggiorna la sezione `<h3>Eventi Importanti</h3>`:
-
-1. Individua la pagina con `name` corrispondente in `pages[]`
-2. Trova la sezione `<h3>Eventi Importanti</h3>` nel `text.content`
+1. Apri `campagna/luoghi-visitati/NN-nome-slug.md`
+2. Vai a `## Eventi Importanti`
 3. Aggiungi una nuova linea:
-   ```html
-   <li>[SX] Il party ha [azione generica]</li>
+   ```markdown
+   - [SX] Il party ha [azione generica]
    ```
-   **Prima della chiusura `</ul>`**
 
-Esempio di aggiornamento:
+**Esempio di aggiornamento (S1 → S2)**:
+```markdown
+## Eventi Importanti
 
-```html
-<!-- PRIMA -->
-<h3>Eventi Importanti</h3>
-<ul>
-<li>[S0] Il party si riunisce come gruppo presso il Portale</li>
-<li>[S1] Combattimento massivo contro banditi Xanathar</li>
-</ul>
-
-<!-- DOPO (aggiunta S3) -->
-<h3>Eventi Importanti</h3>
-<ul>
-<li>[S0] Il party si riunisce come gruppo presso il Portale</li>
-<li>[S1] Combattimento massivo contro banditi Xanathar</li>
-<li>[S3] Il party incontra Davil Starsong dei Zhentarim per la missione Arpisti M1</li>
-</ul>
+- [S1] Il party si riunisce come gruppo presso il Portale
+- [S2] Il party incontra Volo per indagare su Floon Blagmaar
 ```
 
-### Step 5 — Aggiorna Sessioni Visitate
-
-Per ogni luogo (nuovo o aggiornato), assicurati che la riga `<strong>Sessioni Visitate:</strong>` includa SX:
-
-```html
-<!-- ESEMPIO -->
-<strong>Sessioni Visitate:</strong> S0, S1, S2, S3+
+Aggiorna anche la riga `**Sessioni Visitate**` per includere la nuova sessione:
+```markdown
+**Sessioni Visitate**: S1, S2
 ```
 
-Aggiungi SX alla fine della lista di sessioni, separato da virgola.
+### Step 5 — Valida Markdown
 
-### Step 6 — Valida JSON
+Assicurati che il markdown sia sintatticamente corretto:
+- Titoli H1 (#), H2 (##), H3 (###) ben formattati
+- Liste con `-` e spazi
+- Nessun carattere speciale non-escapato
 
-Assicurati che il JSON risultante sia **valido**:
-
-```bash
-# Comando per validare
-npm run validate-json src/campagna/locations.json
-# Oppure usa un JSON validator online
-```
-
-Se il JSON è **non valido**, correggi gli errori prima di procedere.
-
-### Step 7 — Esegui il build
+### Step 6 — Esegui il build
 
 Compila il compendio aggiornato:
 
@@ -189,12 +179,18 @@ npm run build
 
 L'output dovrebbe contenere:
 ```
-📦 Pack: Note Campagna (19+ file)
-   ✓ f2a8b5c1d3e4f6g7h8i9j0k1  "Luoghi Visitati"  (Campagna/luoghi-visitati.md)
-   ...
-[classic-level] Packing "...src/campagna" into "...packs/campagna"
-Packed f2a8b5c1d3e4f6g7h8i9j0k1 (Luoghi Visitati)
-   ✅ Pack compilato → packs/campagna
+✓ 9bd14f4f1a5f9a82  "Luoghi Visitati"  (NN pagine)
+```
+
+Dove `NN` è il numero totale di file .md in `campagna/luoghi-visitati/`.
+
+### Step 7 — Verifica JSON compilato
+
+Il build genera file JSON in `src/campagna/`. Verifica che il JournalEntry "Luoghi Visitati" contenga tutte le pagine:
+
+```bash
+# Visualizza il numero di pagine generate
+Get-Content src/campagna/9bd14f4f1a5f9a82.json | Select-String '"name"' | Measure-Object
 ```
 
 ### Step 8 — Prepara per commit
@@ -202,12 +198,12 @@ Packed f2a8b5c1d3e4f6g7h8i9j0k1 (Luoghi Visitati)
 Il compendio è aggiornato e compilato. I file sono pronti per il commit:
 
 ```bash
-git add campagna/luoghi-visitati.md src/campagna/locations.json
+git add campagna/luoghi-visitati/ packs/campagna/
 git commit -m "Sessione NN: Aggiornamento compendio Luoghi Visitati
 
 - Aggiunto/Aggiornato: [lista brevissima dei luoghi modificati]
 - Pack campagna recompilato
-- Validazione JSON: ✓"
+- Struttura: NN file markdown in campagna/luoghi-visitati/"
 ```
 
 ---

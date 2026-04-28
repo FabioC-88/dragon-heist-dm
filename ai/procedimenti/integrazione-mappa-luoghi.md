@@ -107,27 +107,21 @@ Dove:
 
 ### 3.3 — Dove trovare gli _id
 
-Apri il compendio "Luoghi Visitati" e cercacerca i dati:
+Apri il compendio "Luoghi Visitati" in Foundry e verifica i dati:
 
-**JournalEntry _id**:
-```json
-// In src/campagna/locations.json
-{
-  "_id": "f2a8b5c1d3e4f6g7h8i9j0k1",  ← Questo è il main _id
-  "name": "Luoghi Visitati",
-  "pages": [...]
-}
+**JournalEntry _id** (raggruppamento locations):
+```
+9bd14f4f1a5f9a82
 ```
 
-**Page _id**:
-```json
-// In src/campagna/locations.json → pages
-{
-  "_id": "p001_portale_spalancato",    ← Questo è il page _id
-  "name": "Il Portale Spalancato",
-  ...
-}
-```
+**Page _id** (singolo luogo):
+- Il Portale Spalancato: `97f66a0732aa837d`
+- Per altri luoghi, il page _id è generato dal build-foundry.mjs
+
+**Convenzione naming**: File markdown in `campagna/luoghi-visitati/`:
+- `01-portale-spalancato.md` → pagina "01 Portale Spalancato"
+- `02-scena-crimine.md` → pagina "02 Scena Crimine"
+- ecc.
 
 ### 3.4 — Inserisci il Link nel Pin
 
@@ -135,7 +129,7 @@ Torna al dialogo del pin:
 
 1. Nel campo **Entry Name**, incolla (o scrivi):
    ```
-   @UUID[JournalEntry.f2a8b5c1d3e4f6g7h8i9j0k1.p001_portale_spalancato]{Il Portale Spalancato}
+   @UUID[JournalEntry.9bd14f4f1a5f9a82.97f66a0732aa837d]{Il Portale Spalancato}
    ```
 
 2. Clicca **Create Note**
@@ -147,7 +141,7 @@ Torna al dialogo del pin:
 1. Clicca sul pin appena creato
 2. Una finestra dovrebbe aprirsi mostrando la pagina "Il Portale Spalancato" dal compendio
 3. ✅ Se funziona: procedi con gli altri pin
-4. ❌ Se non funziona: verifica che il _id sia corretto
+4. ❌ Se non funziona: verifica che l'UUID sia corretto (ricarica Foundry con F5)
 
 ---
 
@@ -155,46 +149,36 @@ Torna al dialogo del pin:
 
 Ripeti **Step 3** per ogni luogo visitato dal party.
 
-### Lista Template di Pin (copy-paste ready)
+### Come trovare i page_id
 
-**DOCK WARD**:
-```
-@UUID[JournalEntry.f2a8b5c1d3e4f6g7h8i9j0k1.p001_portale_spalancato]{Il Portale Spalancato}
-@UUID[JournalEntry.f2a8b5c1d3e4f6g7h8i9j0k1.p002_scena_crimine]{Scena del Crimine}
-@UUID[JournalEntry.f2a8b5c1d3e4f6g7h8i9j0k1.p003_fetlock_court]{Casa di Floon}
-@UUID[JournalEntry.f2a8b5c1d3e4f6g7h8i9j0k1.p004_xoblob]{Negozio Xoblob}
-@UUID[JournalEntry.f2a8b5c1d3e4f6g7h8i9j0k1.p005_drago_infilzato]{Il Drago Infilzato}
-@UUID[JournalEntry.f2a8b5c1d3e4f6g7h8i9j0k1.p006_candle_lane]{Magazzino Candle Lane}
-@UUID[JournalEntry.f2a8b5c1d3e4f6g7h8i9j0k1.p007_fogne]{Fogne Sottomonte}
-@UUID[JournalEntry.f2a8b5c1d3e4f6g7h8i9j0k1.p008_spouting_fish]{Spouting Fish}
-```
+Per ogni luogo, devi trovare il suo `page_id`. Accedi a:
 
-**QUARTIERE NORD**:
+1. Foundry VTT → apri il compendio "Luoghi Visitati"
+2. Apri la pagina del luogo
+3. Nella barra indirizzi del browser, vedi un ID come: `https://...#/journal/9bd14f4f1a5f9a82/97f66a0732aa837d`
+4. L'ultimo valore è il `page_id` (es: `97f66a0732aa837d`)
+
+### Template di Pin (formula generica)
+
 ```
-@UUID[JournalEntry.f2a8b5c1d3e4f6g7h8i9j0k1.p009_trollskull_alley]{Trollskull Alley}
-@UUID[JournalEntry.f2a8b5c1d3e4f6g7h8i9j0k1.p010_trollskull_manor]{Trollskull Manor}
-@UUID[JournalEntry.f2a8b5c1d3e4f6g7h8i9j0k1.p011_chiodo_storto]{Il Chiodo Storto}
-@UUID[JournalEntry.f2a8b5c1d3e4f6g7h8i9j0k1.p012_vapore_acciaio]{Vapore e Acciaio}
-@UUID[JournalEntry.f2a8b5c1d3e4f6g7h8i9j0k1.p013_corona_corellon]{Corona di Corellon}
-@UUID[JournalEntry.f2a8b5c1d3e4f6g7h8i9j0k1.p014_occhio_tigre]{Occhio di Tigre}
-@UUID[JournalEntry.f2a8b5c1d3e4f6g7h8i9j0k1.p015_tesoro_wyrm]{Tesoro del Wyrm}
-@UUID[JournalEntry.f2a8b5c1d3e4f6g7h8i9j0k1.p016_accesso_fogne]{Accesso Fognature}
+@UUID[JournalEntry.9bd14f4f1a5f9a82.PAGE_ID_DEL_LUOGO]{Nome Luogo}
 ```
 
-**QUARTIERE DEL MARE**:
+Dove:
+- `9bd14f4f1a5f9a82` = JournalEntry "Luoghi Visitati" (sempre questo)
+- `PAGE_ID_DEL_LUOGO` = Sostituisci con l'ID effettivo della pagina del luogo
+
+### Esempi
+
+**S1 — Luogo aggiunto (page_id conosciuto)**:
 ```
-@UUID[JournalEntry.f2a8b5c1d3e4f6g7h8i9j0k1.p017_teatro_luce]{Teatro Cantante della Luce}
+@UUID[JournalEntry.9bd14f4f1a5f9a82.97f66a0732aa837d]{Il Portale Spalancato}
 ```
 
-**QUARTIERE DEL CASTELLO**:
-```
-@UUID[JournalEntry.f2a8b5c1d3e4f6g7h8i9j0k1.p018_torre_verga_nera]{Torre della Verga Nera}
-```
-
-**FUTURI** (menzione):
-```
-@UUID[JournalEntry.f2a8b5c1d3e4f6g7h8i9j0k1.p019_monte_waterdeep]{Monte Waterdeep}
-```
+**S2+ — Luogo futuro (page_id da scoprire)**:
+1. Apri il compendio dopo il prossimo build
+2. Apri il luogo e copia il page_id dalla barra indirizzi
+3. Crea il pin con la formula template sopra
 
 ---
 
@@ -287,7 +271,7 @@ Dopo ogni sessione, quando il **Location Updater** aggiorna il compendio:
 
 1. **Entra nella Scene** "Waterdeep — Mappa Interattiva"
 2. **Attiva Note Tool** (tasto `N` o menù)
-3. **Clicca sulla mappa** dove si trova il Portale (Piazza Sottomonte nel Dock Ward)
+3. **Clicca sulla mappa** dove si trova il Portale (Castle Ward, vicino a Piazza Sottomonte)
 4. **Nel dialogo**, compila:
    ```
    Name: Il Portale Spalancato

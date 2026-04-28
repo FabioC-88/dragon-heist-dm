@@ -231,7 +231,8 @@ const PACKS = [
     name: 'campagna',
     label: 'Note Campagna',
     dirs: ['Campagna'],
-    sessionDir: 'Campagna/sessioni'
+    sessionDir: 'Campagna/sessioni',
+    locationsDir: 'Campagna/luoghi-visitati'
   },
   {
     name: 'campagna-completa',
@@ -313,6 +314,21 @@ for (const pack of PACKS) {
     writeFileSync(outPath, JSON.stringify(sessioni, null, 2), 'utf-8');
     console.log(`   ✓ ${sessioni._id}  "${sessioni.name}"  (${sessionFiles.length} pagine)`);
     totalEntries++;
+  }
+
+  // Journal multi-pagina per i luoghi visitati
+  let locationsFiles = [];
+  if (pack.locationsDir) {
+    const locationsDirAbs = join(ROOT, pack.locationsDir);
+    locationsFiles = collectMdFiles(locationsDirAbs);
+    if (locationsFiles.length > 0) {
+      locationsFiles.sort();
+      const luoghi = buildMultiPageJournalEntry('Luoghi Visitati', 'campagna:luoghi-visitati', locationsFiles);
+      const outPath  = join(srcDir, `${luoghi._id}.json`);
+      writeFileSync(outPath, JSON.stringify(luoghi, null, 2), 'utf-8');
+      console.log(`   ✓ ${luoghi._id}  "${luoghi.name}"  (${locationsFiles.length} pagine)`);
+      totalEntries++;
+    }
   }
 
   // 2. Compila LevelDB con fvtt-cli
