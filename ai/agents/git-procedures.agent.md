@@ -55,9 +55,11 @@ examples:
     - `git push`
 
   - Esempio: workflow di release completo (vedi AGENTS.md)
-    1. `npm run build` — compila i pack LevelDB
-    2. L'agente incrementa automaticamente la versione in `module.json` (es. `1.0.11` → `1.0.12`) previa conferma
-    3. Aggiorna il campo `download` in `module.json`: `https://github.com/FabioC-88/dragon-heist-dm/releases/download/vX.Y.Z/dragon-heist-dm-vX.Y.Z.zip`
+    1. `npm run build` — compila i pack LevelDB (incrementa automaticamente la versione in `module.json`)
+    2. Leggi la versione aggiornata: `$ver=(Get-Content .\module.json | Out-String | ConvertFrom-Json).version`
+    3. **Aggiorna il campo `download` in `module.json`** con il nuovo URL:
+       `(Get-Content .\module.json -Raw) -replace '"download":.*', '"download": "https://github.com/FabioC-88/dragon-heist-dm/releases/download/v$ver/dragon-heist-dm-v$ver.zip",' | Set-Content .\module.json`
+       *(CRITICO: senza questo Foundry non trova il file zip della release)*
     4. `git add module.json packs/` && `git commit -m "chore(release): vX.Y.Z"`
     5. `git push origin master` (push diretto su `master`)
     6. `git tag vX.Y.Z` && `git push origin vX.Y.Z`
@@ -125,7 +127,30 @@ Dopo che una sessione è stata **finalizzata dal Session Reviewer (Agente 6)**, 
 ```
 /release NN
 → npm run build
+→ Aggiorna campo "download" in module.json con la nuova versione
 → git add + commit + tag + GitHub Release
+```
+
+**Comando completo per la release** (da eseguire dopo `npm run build`):
+```powershell
+$ver=(Get-Content .\module.json | Out-String | ConvertFrom-Json).version
+$tag="v$ver"
+$zip="dragon-heist-dm-$tag.zip"
+# Aggiorna il campo download con la nuova versione
+(Get-Content .\module.json -Raw) -replace '"download": "https://github\.com/FabioC-88/dragon-heist-dm/releases/download/v[\d.]+/dragon-heist-dm-v[\d.]+\.zip"', `
+  '"download": "https://github.com/FabioC-88/dragon-heist-dm/releases/download/' + $tag + '/dragon-heist-dm-' + $tag + '.zip"' | Set-Content .\module.json
+if (Test-Path $zip) { Remove-Item $zip -Force }
+Compress-Archive -Path module.json,packs -DestinationPath $zip -Force
+git add -A
+git commit -m "chore(release): $tag"
+git push origin master
+git tag $tag -f
+git push origin $tag -f
+gh release delete $tag -y 2>$null
+gh release create $tag $zip module.json -t "Release $tag" -n ""
+git rm $zip
+git commit -m "chore(release): remove zip after $tag"
+git push origin master
 ```
 
 ---
