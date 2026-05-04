@@ -110,7 +110,7 @@ Se il party ottiene info (CD 13 Carisma — Persuasione o Intimidazione — oppu
 
 **Gli avventori sono diffidenti ma si possono far parlare:**
 
-Per ottenere info: **CD 13 Carisma (Intimidazione o Persuasione)** oppure **[[/award 5gp]]**.
+Per ottenere info: **CD 13 Carisma (Intimidazione o Persuasione)** oppure **5 gp di corruzione**.
 
 Se parlano:
 
@@ -231,7 +231,7 @@ Il party deve localizzare il tombino di accesso. Due modi:
 
 **Opzione A — Investigation (CD 15 Intelligenza · Investigazione):** Seguire il percorso dei rapitori attraverso vicoli di servizio fino a un tombino metallico circolare incastonato nel selciato.
 
-**Opzione B — Corruzione ([[/award 5gp]]):** Un residente del Dock Ward che stava ancora guardando dalla finestra indica il vicolo dove ha visto trascinare il "biondo urlante" due notti fa.
+**Opzione B — Corruzione (5 gp):** Un residente del Dock Ward che stava ancora guardando dalla finestra indica il vicolo dove ha visto trascinare il "biondo urlante" due notti fa.
 
 **Se Renaer è con il party:** Conosce la zona. Fornisce vantaggio al tiro di Investigation.
 
@@ -262,34 +262,7 @@ I simboli di Xanathar segnano il percorso a ogni bivio. Il party deve sempliceme
 
 > Dopo un'ora a seguire i segnali nei tunnel, giungete a un incrocio a tre vie, dove una scala a pioli sale verso uno sfiatatoio di pietra sigillato da un coperchio metallico circolare. Uno dei familiari simboli di gesso è segnato sul muro vicino, e accanto al simbolo — nell'aria — fluttua una creatura sferica grande quanto un pompelmo, con un bulbo oculare centrale prominente e quattro peduncoli oculari tozzi. Digrigna i denti verso di voi.
 
-### Stat Block — Gazer (Mini-Beholder)
 
-```
-GAZER · Piccola aberrazione, neutrale malvagio
-─────────────────────────────────────────────────
-CA 13 · PF 13 (3d4+6) · Velocità 0 ft, volo 30 ft (levitate)
-─────────────────────────────────────────────────
-FOR  3 (-4) · DES 17 (+3) · COS 14 (+2)
-INT  3 (-4) · SAG 10 (+0) · CAR  7 (-2)
-─────────────────────────────────────────────────
-Abilità: Percezione +4 · Furtività +5
-Sensi: Scurovisione 60 ft · Perc. passiva 14
-Immunità a condizioni: prono
-─────────────────────────────────────────────────
-AZIONI
-· Morso: +5 colpire, 5 (2d4) danni perforanti
-· Raggio Occhio (1/round, tiro dado):
-  1-2  Raggio Stordente — Tiro Sag CD 11 o
-       stordito 1 round
-  3-4  Raggio del Terrore — Tiro Sag CD 11 o
-       spaventato 1 minuto
-  5-6  Raggio Glaciale — +5 colpire, 10 (3d6)
-       danni da freddo
-  7-8  Raggio Telecinetico — Tiro For CD 11 o
-       spostato 30 ft in direzione a scelta
-─────────────────────────────────────────────────
-CR 1/2 · Foundry calcola XP automaticamente
-```
 
 **Tattiche:** Il Gazer usa il Raggio Stordente al primo round per tentare di bloccare il difensore più robusto. Poi si sposta dietro copertura d'angolo e usa raggi a distanza. Se portato a 0 PF, si dissolve con un sibilo acuto.
 
