@@ -34,7 +34,7 @@ Lo scontro si è concluso come da modulo e il resto è proseguito come previsto:
 
 ## Oggetti e Ricompense
 
-- 10 mo a testa (compenso previsto da sessione)
+- [[/award 10gp each]] (compenso previsto da sessione)
 
 ## Thread Aperti (lasciati in sospeso)
 

@@ -130,7 +130,7 @@
 
 **Volo offre:** Atto di proprietà di Trollskull Manor (North Ward, palazzo a quattro piani con torrino).
 
-**Magistrata Silmerhelve** testimonia il trasferimento il giorno dopo: tassa 25 gp. Se il party non può pagare, Renaer interviene silenziosamente e copre.
+**Magistrata Silmerhelve** testimonia il trasferimento il giorno dopo: tassa di 25 gp. Se il party non può pagare, Renaer interviene silenziosamente e copre.
 
 ---
 
@@ -437,7 +437,7 @@ Yagra Stonefist li accoglie alla porta e li conduce al tavolo di Davil al centro
 > *"Qualcuno sta uccidendo marinai elfi e mezzelfi nel Quartiere del Porto — tre morti, decapitati di notte. Indagate. La Guardia non ne vuol sapere."*
 > Dettagli completi: `Missioni/Zentharim/M1-UnBruttoMomento.md`
 > Tre notti di sorveglianza ai moli. Identificare Soluun Xibrindas (drow cannoniere). CD 18 Percezione per notarlo prima che colpisca.
-> Ricompensa: +1 Renown Zentharim + 50 mo se Heldar sopravvive.
+> Ricompensa: +1 Renown Zentharim + [[/award 50gp]] se Heldar sopravvive.
 
 ---
 

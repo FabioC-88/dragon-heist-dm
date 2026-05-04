@@ -110,7 +110,7 @@ Se il party ottiene info (CD 13 Carisma — Persuasione o Intimidazione — oppu
 
 **Gli avventori sono diffidenti ma si possono far parlare:**
 
-Per ottenere info: **CD 13 Carisma (Intimidazione o Persuasione)** oppure **5 gp di corruzione**.
+Per ottenere info: **CD 13 Carisma (Intimidazione o Persuasione)** oppure **[[/award 5gp]]**.
 
 Se parlano:
 
@@ -231,7 +231,7 @@ Il party deve localizzare il tombino di accesso. Due modi:
 
 **Opzione A — Investigation (CD 15 Intelligenza · Investigazione):** Seguire il percorso dei rapitori attraverso vicoli di servizio fino a un tombino metallico circolare incastonato nel selciato.
 
-**Opzione B — Corruzione (5 gp):** Un residente del Dock Ward che stava ancora guardando dalla finestra indica il vicolo dove ha visto trascinare il "biondo urlante" due notti fa.
+**Opzione B — Corruzione ([[/award 5gp]]):** Un residente del Dock Ward che stava ancora guardando dalla finestra indica il vicolo dove ha visto trascinare il "biondo urlante" due notti fa.
 
 **Se Renaer è con il party:** Conosce la zona. Fornisce vantaggio al tiro di Investigation.
 
@@ -288,7 +288,7 @@ AZIONI
   7-8  Raggio Telecinetico — Tiro For CD 11 o
        spostato 30 ft in direzione a scelta
 ─────────────────────────────────────────────────
-CR 1/2 · 100 XP
+CR 1/2 · Foundry calcola XP automaticamente
 ```
 
 **Tattiche:** Il Gazer usa il Raggio Stordente al primo round per tentare di bloccare il difensore più robusto. Poi si sposta dietro copertura d'angolo e usa raggi a distanza. Se portato a 0 PF, si dissolve con un sibilo acuto.

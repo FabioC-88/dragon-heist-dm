@@ -98,13 +98,10 @@
 ### Treasure & Reward Combattimento
 
 **Drops:**
-- ~10 gp (tasche banditi)
+- [[/award 10gp]] (tasche banditi)
 - Armi semplici (spade, pugnali — niente di speciale)
 - Troll non lascia treasure
 
-**XP:**
-- **50 XP per PG** (combattimento + exploration)
-- Party passa da 0 → 50/300 verso L2
 
 ### Reazione di Durnan (post-combattimento)
 
@@ -167,7 +164,7 @@ Post combattimento:
 | *"Chi è Floon?"* | "Un giovane di bell'aspetto, sapete? Capelli curati, un po' ingenuo, forse troppo incline a farsi offrire da bere. Un artista nell'anima, anche se non ha ancora prodotto un'opera degna di nota. Un'anima buona, ecco tutto." |
 | *"Cosa è successo dopo che te ne sei andato?"* | "Ah, se solo lo sapessi! Ho sentito dire che è stato visto con un altro conoscente dopo la mia partenza... ma sono solo voci. Il Porto inghiotte i segreti come il mare inghiotte i relitti." |
 | *"Hai indizi su dove cercarlo?"* | "Sono tornato al 'Drago Infilzato', ma il locandiere è un tipo poco raccomandabile. Tuttavia, ho notato dei movimenti sospetti vicino a un negozio chiamato 'Vecchio Xoblob'. Lo gnomo che lo gestisce ha occhi ovunque, anche se spesso vede cose che non esistono." |
-| *"Qual è la ricompensa?"* | "Ecco, prendete questi: **10 dragoni d'oro** per le spese immediate. Se mi riporterete Floon sano e salvo, vi darò altri **100 dragoni**." |
+| *\"Qual è la ricompensa?\"* | \"Ecco, prendete questi: [[/award 10gp each]] per le spese immediate. Se mi riporterete Floon sano e salvo, vi darò altri [[/award 100gp each]].\" |
 
 ---
 
@@ -209,8 +206,8 @@ Post combattimento:
 
 ### Ricompense
 
-- **Denaro:** 10 gp a testa da Volo (anticipo ricevuto)
-- **Promesse Future:** 100 gp a testa da Volo al ritorno di Floon sano e salvo
+- **Denaro:** [[/award 10gp each]] da Volo (anticipo ricevuto)
+- **Promesse Future:** [[/award 100gp each]] da Volo al ritorno di Floon sano e salvo
 
 ### Thread Narrativi Aperti
 
