@@ -29,16 +29,16 @@
 
 **I due goblin in Q2a e Q2b sono addormentati.** Per svegliarli serve rumore o una CD 9 di Furtività fallita. Se svegli, sparano frecce attraverso le feritoie con tre quarti di copertura.
 
-### Q2 — Postazioni di Guardia (2 Goblin, addormentati)
+### Q2 — Postazioni di Guardia (3-4 Goblin, addormentati)
 
-```
-GOBLIN · Piccolo umanoide, neutrale caotico
-CA 15 (armatura di cuoio + scudo) · PF 7 (2d6) · Velocità 30 ft
-Attacchi: Scimitarra +4, 5 (1d6+2) taglio | Arco corto +4, gittata 80/320, 5 (1d6+2) perforante
-Furtività: +6 · Scurovisione 60 ft · CR 1/4
-```
+**Nemici (scalato per 6 PG):** 3 goblin alle feritoie + 1 goblin di pattuglia del corridoio.
 
-**Se il party li bypassa in silenzio (CD 9 Furtività):** I goblin dormono fino alla fine dell'incursione e possono essere trovati e legati/liberati dopo.
+**Se il party li bypassa in silenzio (CD 10 Furtività per 6 PG):** I goblin dormono fino alla fine dell'incursione e possono essere trovati e legati/liberati dopo.
+
+**Se svegli:** 
+- 3 goblin alle feritoie sparano frecce con tre quarti di copertura
+- 1 goblin di pattuglia suona un corno d'allarme e tenta fuga verso Q5 per avvertire Zemk
+- Se catturato il messaggero, Zemk potrebbe non essere preparato all'arrivo
 
 ### Q3-Q4 — Stanze Vuote
 
@@ -46,29 +46,19 @@ Furtività: +6 · Scurovisione 60 ft · CR 1/4
 
 **Q4** contiene sei materassi di paglia stracciata. Non c'è nulla di valore — ma chi ha Percezione passiva 14+ sente rumori provenienti da Q5.
 
-### Q5 — Stanza con Zemk e (opzionale) Krentz
+### Q5 — Stanza con Zemk e Alleati
 
 > La stanza ha altri sei materassi. Un nano dalla pelle grigia sta cercando di barricare la porta verso Q6 con pezzi di mobilio, imprecando sottovoce in qualcosa che assomiglia al nanico ma suona molto meno accogliente.
 
-Zemk è un **Duergar** — non è felice della situazione. Se Krentz è sopravvissuto alla rissa del Portale Spalancato, è qui a discutere con Zemk su come bloccare la porta.
+**Nemici (scalato per 6 PG):** Zemk (Duergar leader) + 2 banditi Xanathar umani (archi corti, pugnali, armature di cuoio). Se Krentz è sopravvissuto alla rissa del Portale Spalancato, è qui come terzo bandito.
 
-```
-ZEMK (DUERGAR) · Umanoide medio (nano), LE
-CA 16 (maglia di scaglie + scudo) · PF 26 (4d8+8) · Velocità 25 ft
-FOR 14 (+2) · DES 11 (+0) · COS 14 (+2) · INT 11 (+0) · SAG 10 (+0) · CAR 9 (-1)
-CR 1 · 200 XP
-```
-
-**Zemk combatte fino alla morte.**
+**Tattica:** Zemk combatte dalla trincea di mobili in difesa; banditi supportano o fuggono verso Q7 per allertare Grum'shar se il combattimento piega contro di loro.
 
 ### Q6 — Latrina (Opzionale)
 
-> Un buco nel pavimento si apre su una fossa nera e maleodorante. Due goblin mandati a smaltire la **Melma Grigia** sono stati uccisi. Le loro ossa galleggiano nella melma.
+> Un buco nel pavimento si apre su una fossa nera e maleodorante. Due goblin mandati a smaltire la Melma Grigia sono stati uccisi. Le loro ossa galleggiano nella melma.
 
-```
-MELMA GRIGIA · Ooze media
-CA 8 · PF 22 (3d8+9) · CR 1/2 · 100 XP
-```
+**Nemico (scalato):** Una Melma Grigia (ooze, CA 8, resistente a molti tipi di danno). Puoi scalare aggiungendo una seconda melma più piccola se il party cala nella vasca, o aumentando i PF della principale a ~30 per 6 giocatori.
 
 ---
 
@@ -80,50 +70,47 @@ CA 8 · PF 22 (3d8+9) · CR 1/2 · 100 XP
 >
 > Su una piattaforma rialzata a sud siede una figura da incubo in vesti nere. Ha occhi bianchi enormi e pelle viola gommosa, con quattro tentacoli che incorniciano la bocca inumana.
 
-### Mappa Combattimento
+### Mappa Combattimento per 6 PG
 
-| Entità | Posizione |
-|--------|-----------|
-| **Grum'shar** | Centro sala · piede su Floon |
-| **Floon** | A terra · 1 PF · incapacitato |
-| **Nihiloor** (Mind Flayer) | Piattaforma Sud · priorità: fuga |
-| **Divoratore d'Intelletto** | Accanto a Nihiloor |
+| Entità | Posizione | Note |
+|--------|-----------|-------|
+| **Grum'shar** | Centro sala · piede su Floon | Apprendista mago, incantesimi |
+| **Floon** | A terra · 1 PF · incapacitato | Obiettivo da salvare |
+| **Nihiloor** (Mind Flayer) | Piattaforma Sud · priorità: fuga | Priorità narrativa: FUGA |
+| **Divoratore d'Intelletto** | Accanto a Nihiloor | "Pet" di Nihiloor |
+| **2 Sicari Xanathar** | Retro della sala (Q7b) | Rinforzi — aggiunto per 6 PG |
 
-### Stat Block — Grum'shar
+### Nemici Principali (senza stat block)
 
-```
-GRUM'SHAR · Umanoide medio (mezz'orco), CE
-CA 13 · PF 22 (5d8) · Velocità 30 ft
-INT 16 (+3) · Incantesimi: mani ardenti, strale di strega, scudo
-CR 1 · 200 XP
-Tesoro: Libro degli incantesimi
-```
+**GRUM'SHAR** (Apprendista Mago Mezz'Orco):
+- Posizione: Centro sala, piede su Floon per tenerlo incapacitato
+- Armi e incantesimi: Mani Ardenti (cono 15 ft), Strale di Strega (concentrazione), Scudo (reazione)
+- HP scalati per 6 PG: ~30 PF (aumentato da 22 originali)
+- Tattica Round 1: Mani Ardenti sul gruppo più compatto
+- Tattica Round 2+: Mantiene concentrazione su Strale di Strega; usa Scudo come reazione se colpito
+- Speciale (Tenace): A 1 PF, urla "Non è finita!" e tenta fuga verso Q8
+- Tesoro: Libro degli incantesimi (valore: componenti rari per incantatori)
 
-**Tattiche:** Round 1 = Mani Ardenti. Round 2+ = mantiene concentrazione su Strale di Strega. Usa Scudo come reazione. A 1 PF (Tenace) = urla e cerca fuga verso Q8.
+**NIHILOOR** (Mind Flayer - Priorità NARRATIVA: FUGA):
+- Posizione: Piattaforma Sud (rialzata, +2 di terreno difficile per raggiungerlo)
+- Tema tattico: FUGA, non combattimento frontale. Nihiloor è CR 7 — troppo potente per Lv 1.
+- Round 1: Tenta Dominare il Mostro su bersaglio con più PF (CD 15 Sag). Se ha successo, quella creatura combatte contro il party per 1 ora (concentrazione).
+- Round 2+: Si muove velocemente verso porta ovest (Q8/Q11) con velocità aumentata
+- Se bloccato fisicamente: Usa Tentacoli per tentare grappling; minaccia Estrazione Cerebrale per generare panico nel party
+- Speciale: Porta l'Occhio di Pietra (chiave del portale a Q11 → Skullport). Se catturato, diventa quest item
+- [NOTA DM] Se il party lo lascia andare: scappa verso il portale a Q11. Se lo catturano: riapparirà in Force Grey M4. Non è un'eliminazione permanente.
 
-### Stat Block — Nihiloor
+**DIVORATORE D'INTELLETTO** (Piccola Aberrazione):
+- Posizione: Accanto a Nihiloor sulla piattaforma Sud
+- Ruolo tattico: Protezione per fuga di Nihiloor; attacca bersagli non in armatura pesante (target maghi/bardi)
+- HP scalato per 6 PG: ~30 PF (aumentato da 21 originali)
+- Abilità: Artigli (attacco multiplo), Divorare Intelletto (riduce INT bersaglio), Corpo Ospite (possession se bersaglio scende a 0 INT)
+- Tattica: Se Nihiloor fugge, continua a combattere fino alla morte o porta si schiude indietro della sua forma fisica
 
-```
-NIHILOOR · Aberrazione media, LE
-CA 15 · PF 71 (13d8+13) · Velocità 30 ft
-INT 19 (+4) · Incantesimi innati: dominare il mostro, cambio di piano
-Azioni: Tentacoli (+7 colpire, 15 psichici), Esplosione Mentale
-CR 7 · 2.900 XP
-Speciale: Occhio di Pietra (chiave portale Q11)
-```
-
-**Tattiche (PRIORITÀ: FUGA):** Round 1 = tenta dominare il mostro. Round 2 = si muove verso porta ovest (Q8/Q11). Non attacca se non bloccato. Se lasciato andare = scappa via portale verso Skullport.
-
-**[NOTA DM]** Nihiloor è troppo potente per Lv 1. Tema narrativo: FUGA, non combattimento. Se il party lo trattiene: permetti interazioni ma alla fine scappa. Se prendono l'Occhio di Pietra: oggetto misterioso utile dopo.
-
-### Stat Block — Divoratore d'Intelletto
-
-```
-DIVORATORE D'INTELLETTO · Piccola aberrazione, LE
-CA 12 · PF 21 (6d4+6) · Velocità 40 ft
-Azioni: Artigli (+4, 7 taglio), Divorare Intelletto, Corpo Ospite
-CR 2 · 450 XP
-```
+**SICARI XANATHAR x2** (Umani, aggiunti per 6 PG):
+- Posizione iniziale: Retro della sala (Q7b), entrano al Round 2-3 o quando il combattimento è conclamato
+- Equipaggiamento: Pugnali +1, archi corti, armature di cuoio, HP ~7 ciascuno
+- Tattica: Supporto tattico a Grum'shar; attacchi coordinati su bersagli isolati; fuggono con Grum'shar se il combattimento piega decisamente verso il party
 
 ---
 
@@ -264,35 +251,24 @@ Dopo questo momento, Lif non è più ostile. Apre porte, sposta oggetti, aiuta i
 
 Lif fugge al torrino quando scende a metà PF; combatte fino alla morte dal livello più alto.
 
-### Stat Block — Lif (Poltergeist / Spettro variante)
+### Nemico — Lif (Poltergeist / Spettro variante, scalato per 6 PG)
 
-```
-LIF — Poltergeist · Non morto medio, neutrale (protettivo del locale)
-──────────────────────────────────────────────────────────────────────
-CA 12 · PF 22 (5d8) · Velocità 0 ft, volo 50 ft (levitante, immobile)
-──────────────────────────────────────────────────────────────────────
-FOR  1 (–5) · DES 14 (+2) · COS 11 (+0)
-INT 10 (+0) · SAG 10 (+0) · CAR 11 (+0)
-──────────────────────────────────────────────────────────────────────
-Resistenze ai danni: Acido, Fuoco, Fulmine, Tuono;
-                     Contundente, Perforante, Tagliente (armi non magiche)
-Immunità ai danni: Freddo, Necrotico, Veleno
-Immunità a condizioni: Affascinato, Esausto, Afferrato, Paralizzato,
-                       Pietrificato, Avvelenato, Prono, Trattenuto
-Sensi: Scurovisione 60 ft · Percezione passiva 10
-Tratti: Movimento incorporeo · Sensibilità alla luce solare
-──────────────────────────────────────────────────────────────────────
-AZIONI
-· Spinta Telecinetica: CD 12 Forza (bersaglio entro 30 ft). In caso di
-  fallimento, il bersaglio è spostato di 10 ft e cade prono. Attacco a
-  distanza con oggetto scagliato: +4 al colpire; 3 (1d6) danni contundenti.
-· Drenaggio di Forza (solo se ha forma parzialmente visibile):
-  +4 al colpire, portata 5 ft. 3 (1d6) danni necrotici. I PF massimi del
-  bersaglio si riducono della stessa quantità fino a riposo lungo.
-──────────────────────────────────────────────────────────────────────
-TATTICHE: Priorità a chiunque minacci arredi o sembri intenzionato a
-danneggiare il locale. Fugge al torrino quando scende a 11 PF o meno.
-```
+**Lif** — Non morto medio, neutrale (protettivo del locale)
+
+**Caratteristiche (scalate per 6 PG):**
+- CA 12 · PF 36 (aumentato da 22 per bilanciare 6 giocatori)
+- Movimento: Volo 50 ft (incorporeo, levitante)
+- Resistenze: Danni non magici (contundente, perforante, tagliente); Acido, Fuoco, Fulmine, Tuono
+- Immunità: Freddo, Necrotico, Veleno; Condizioni di Affascinato, Esausto, Afferrato, Paralizzato, Pietrificato, Avvelenato, Prono, Trattenuto
+- Sensi: Scurovisione 60 ft
+
+**Abilità (modalità aggressiva - se il party attacca):**
+- Spinta Telecinetica: CD 12 Forza contro bersaglio entro 30 ft. Fallimento = spostamento 10 ft + caduta prona. Può lanciare oggetti come attacchi a distanza: +5 al colpire (potenziato), 1d8 danni contundenti.
+- Drenaggio di Forza: +5 al colpire, portata 5 ft. 1d8 danni necrotici; riduce MAX HP di bersaglio della stessa quantità fino a riposo lungo.
+- Attacco addizionale (Round 3+): Lif può fare due attacchi per turno se il party insiste nel combattimento.
+- Fuga al Torrino: Quando scende a 18 PF o meno (invece di 11 PF), fugge verso il torrino e combatte da posizione elevata con vantaggio.
+
+**Tattiche:** Priorità a chiunque danneggi arredi del locale o mostri ostilità. In modalità difensiva: usa oggetti come barriera visiva e prova a rinchiudere il party nelle stanze usando il controllo delle porte.
 
 ---
 
