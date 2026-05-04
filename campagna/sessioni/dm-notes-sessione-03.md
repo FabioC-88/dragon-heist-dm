@@ -1,25 +1,159 @@
 # DM Notes — Sessione 3 (In-Game)
 
-> **Fonte primaria:** `Fonti-Originali/Dragon Heist.md` · Cap. 2: "Trollskull Alley" (aree T1–T7, "Joining Factions")
-> **Contesto:** Party Lv 2 (milestone da S2) · Il party ha ottenuto l'atto di proprietà di Trollskull Manor da Volo · Quartiere Nord
-> **Obiettivo sessione:** Prima ispezione di Trollskull Manor → Confronto con il poltergeist Lif → Tour del vicinato → Ricezione contatti dalle fazioni (Arpisti, Force Grey, Zentharim)
-> **Durata stimata:** ~2h30m
+> **Fonte primaria:** `Fonti-Originali/Dragon Heist.md` · Sezione *"Completing Volo's Quest"* (Cap. 1, Atto III) → Cap. 2: "Trollskull Alley"
+> **Contesto:** Party Lv 1 (milestone in sospeso) · Hanno ucciso il Gazer nelle fogne ma non hanno ancora salvato Floon · Renaer Neverember si è unito · Trollskull Manor ancora da ottenere · A metà del salvataggio
+> **Obiettivo sessione:** Completare le fogne (magazzino Xanathar Q1-Q12, boss fight Grum'shar+Nihiloor) → Salvare Floon → Ritorno a Volo → Trasferimento Trollskull Manor → Level Up Lv 2 → Se tempo: prima ispezione del Manor e hook fazioni
+> **Durata stimata:** ~4h00m (S2 continuo) + 1h00m (Trollskull)
 
 ---
 
-## 🎬 SETUP INIZIALE — Atmosfera & Descrizioni In-Character
+## FASE 0: COMPLETAMENTO SESSIONE 2 — FOGNE E MAGAZZINO XANATHAR (~90 min)
 
-### Apertura Sessione (Ripresa da S2)
+### Apertura Sessione (Ripresa da S2 — Post-Gazer)
 
-> Il Portale Spalancato si chiude alle vostre spalle con lo stesso cigolìo che avete imparato a riconoscere come un congedo. Nelle mani stringete un cilindro di metallo — sobrio, notarizzato, formalmente inattaccabile. Dentro: l'atto di proprietà di Trollskull Manor, nel Quartiere Nord.
+> Siete nelle fogne di Waterdeep. Il Gazer giace dissolto sul pavimento umido, un ricordo di sibilo acuto che ancora risuona nelle vostre orecchie. Davanti a voi, due direzioni: il tunnel continue verso nord-est, con i segni gialli di Xanathar ancora visibili nella semioscurità. La scala metallica dietro di voi conduce al tombino della taverna *Spouting Fish* — un'uscita sicura, ma Floon non è salvo. Non ancora.
 >
-> Volo vi ha guardati andare con un sorriso che prometteva guai futuri e un libro a venire. *"Un locale infestato a pochi passi da Piazza delle Armi,"* ha detto, strofinandosi le mani. *"Potenziale narrativo straordinario. Per voi, ovviamente."*
+> Renaer (se presente) vi osserva, in attesa. Barnabus (se presente) pulisce il sangue dalla sua spada con un'espressione indecifra bile, ma il suo sguardo è chiaro: *Procediamo?*
 >
-> Waterdeep ha un modo di accogliere i nuovi proprietari: con il sibilo del vento tra i comignoli e la diffidenza silenziosa dei vicini che sanno già tutto di voi.
+> La ricerca non è finita. Continua nelle profondità.
 
 ---
 
-## FASE 1: ARRIVO A TROLLSKULL ALLEY (~20 min)
+## FASE 1: NASCONDIGLIO DELLA GILDA DI XANATHAR — Stanze Q1-Q6 (~20 min)
+
+[Contenuto dalle FASE 4 originali di Sessione 2 — vedi dm-notes-sessione-02.md linee 302-330]
+
+### Q1 — Punto Centrale del Tunnel
+
+> Il tunnel principale si allarga in un hub circolare. Sul muro di fronte, due strette feritoie guardano verso di voi come occhi socchiusi. Da ognuna filtra un respiro — o qualcosa che gli assomiglia.
+
+**I due goblin in Q2a e Q2b sono addormentati.** Per svegliarli serve rumore o una CD 9 di Furtività fallita. Se svegli, sparano frecce attraverso le feritoie con tre quarti di copertura.
+
+### Q2 — Postazioni di Guardia (2 Goblin, addormentati)
+
+```
+GOBLIN · Piccolo umanoide, neutrale caotico
+CA 15 (armatura di cuoio + scudo) · PF 7 (2d6) · Velocità 30 ft
+Attacchi: Scimitarra +4, 5 (1d6+2) taglio | Arco corto +4, gittata 80/320, 5 (1d6+2) perforante
+Furtività: +6 · Scurovisione 60 ft · CR 1/4
+```
+
+**Se il party li bypassa in silenzio (CD 9 Furtività):** I goblin dormono fino alla fine dell'incursione e possono essere trovati e legati/liberati dopo.
+
+### Q3-Q4 — Stanze Vuote
+
+**Q3** è piena di armi arrugginite e indumenti logori — niente di valore, ma i PG possono improvvisarsi materiale (torce, corde).
+
+**Q4** contiene sei materassi di paglia stracciata. Non c'è nulla di valore — ma chi ha Percezione passiva 14+ sente rumori provenienti da Q5.
+
+### Q5 — Stanza con Zemk e (opzionale) Krentz
+
+> La stanza ha altri sei materassi. Un nano dalla pelle grigia sta cercando di barricare la porta verso Q6 con pezzi di mobilio, imprecando sottovoce in qualcosa che assomiglia al nanico ma suona molto meno accogliente.
+
+Zemk è un **Duergar** — non è felice della situazione. Se Krentz è sopravvissuto alla rissa del Portale Spalancato, è qui a discutere con Zemk su come bloccare la porta.
+
+```
+ZEMK (DUERGAR) · Umanoide medio (nano), LE
+CA 16 (maglia di scaglie + scudo) · PF 26 (4d8+8) · Velocità 25 ft
+FOR 14 (+2) · DES 11 (+0) · COS 14 (+2) · INT 11 (+0) · SAG 10 (+0) · CAR 9 (-1)
+CR 1 · 200 XP
+```
+
+**Zemk combatte fino alla morte.**
+
+### Q6 — Latrina (Opzionale)
+
+> Un buco nel pavimento si apre su una fossa nera e maleodorante. Due goblin mandati a smaltire la **Melma Grigia** sono stati uccisi. Le loro ossa galleggiano nella melma.
+
+```
+MELMA GRIGIA · Ooze media
+CA 8 · PF 22 (3d8+9) · CR 1/2 · 100 XP
+```
+
+---
+
+## FASE 2: BOSS FIGHT — Stanza Q7 (~30 min)
+
+### Descrizione Ambiente (leggere al party)
+
+> Tende consunte pendono dalla parete est di un lungo corridoio. Al centro, un mezz'orco muscoloso in abiti dimessi tiene il piede sul petto di un giovane umano dalla chioma biondo-ondulata. Il fuoco brucia attorno al pugno chiuso dell'orco, e la sua vittima piange e si dimena impotente sotto di lui.
+>
+> Su una piattaforma rialzata a sud siede una figura da incubo in vesti nere. Ha occhi bianchi enormi e pelle viola gommosa, con quattro tentacoli che incorniciano la bocca inumana.
+
+### Mappa Combattimento
+
+| Entità | Posizione |
+|--------|-----------|
+| **Grum'shar** | Centro sala · piede su Floon |
+| **Floon** | A terra · 1 PF · incapacitato |
+| **Nihiloor** (Mind Flayer) | Piattaforma Sud · priorità: fuga |
+| **Divoratore d'Intelletto** | Accanto a Nihiloor |
+
+### Stat Block — Grum'shar
+
+```
+GRUM'SHAR · Umanoide medio (mezz'orco), CE
+CA 13 · PF 22 (5d8) · Velocità 30 ft
+INT 16 (+3) · Incantesimi: mani ardenti, strale di strega, scudo
+CR 1 · 200 XP
+Tesoro: Libro degli incantesimi
+```
+
+**Tattiche:** Round 1 = Mani Ardenti. Round 2+ = mantiene concentrazione su Strale di Strega. Usa Scudo come reazione. A 1 PF (Tenace) = urla e cerca fuga verso Q8.
+
+### Stat Block — Nihiloor
+
+```
+NIHILOOR · Aberrazione media, LE
+CA 15 · PF 71 (13d8+13) · Velocità 30 ft
+INT 19 (+4) · Incantesimi innati: dominare il mostro, cambio di piano
+Azioni: Tentacoli (+7 colpire, 15 psichici), Esplosione Mentale
+CR 7 · 2.900 XP
+Speciale: Occhio di Pietra (chiave portale Q11)
+```
+
+**Tattiche (PRIORITÀ: FUGA):** Round 1 = tenta dominare il mostro. Round 2 = si muove verso porta ovest (Q8/Q11). Non attacca se non bloccato. Se lasciato andare = scappa via portale verso Skullport.
+
+**[NOTA DM]** Nihiloor è troppo potente per Lv 1. Tema narrativo: FUGA, non combattimento. Se il party lo trattiene: permetti interazioni ma alla fine scappa. Se prendono l'Occhio di Pietra: oggetto misterioso utile dopo.
+
+### Stat Block — Divoratore d'Intelletto
+
+```
+DIVORATORE D'INTELLETTO · Piccola aberrazione, LE
+CA 12 · PF 21 (6d4+6) · Velocità 40 ft
+Azioni: Artigli (+4, 7 taglio), Divorare Intelletto, Corpo Ospite
+CR 2 · 450 XP
+```
+
+---
+
+## FASE 3: ESPLORAZIONE POST-BOSS E RITORNO A VOLO (~15 min)
+
+### Q8-Q12 — Uscita dalle Fogne
+
+**Q8:** Botola nel pavimento porta a tunnel nord verso Q9.
+
+**Q9 — Cantina dei Peabody:** Famiglia halfling spaventata ma amichevole. Lasciano passare il party. Possibile uscita alternativa: risalire il tombino già usato da Q1.
+
+**Q11 — Stanza del Portale (opzionale):** Pilastro di pietra con incavo per l'Occhio di Pietra. Se usato: apre portale a Skullport (pericoloso per Lv 1).
+
+### Il Ritorno a Volo
+
+> Il Portale Spalancato brilla nella notte come un faro. Quando varcate la soglia con Floon tra voi, Volo vi vede e si lancia verso di voi con entusiasmo sfrenato.
+
+**Volo offre:** Atto di proprietà di Trollskull Manor (North Ward, palazzo a quattro piani con torrino).
+
+**Magistrata Silmerhelve** testimonia il trasferimento il giorno dopo: tassa 25 gp. Se il party non può pagare, Renaer interviene silenziosamente e copre.
+
+---
+
+## LEVEL UP — Da Lv 1 a Lv 2
+
+**Trigger:** Al ritorno al Portale Spalancato con Floon.
+
+**Meccanica:** Milestone. Tutti i PG salgono a Livello 2. Ogni PG sceglie opzioni (slot, feature, HP).
+
+---
 
 ### Trovare il Vicolo
 
@@ -47,7 +181,7 @@ Trollskull Alley si trova nel Quartiere Nord, pochi minuti a piedi dal Portale S
 
 ---
 
-## FASE 2: IL MANOR — Prima Ispezione (~15 min)
+## FASE 5: IL MANOR — Prima Ispezione (~15 min)
 
 ### Entrare nell'Edificio
 
@@ -82,7 +216,7 @@ La porta principale è sbarrata dall'interno ma non bloccata magicamente. Un tir
 
 ---
 
-## FASE 3: LIF — Lo Spirito del Barista (~25 min)
+## FASE 6: LIF — Lo Spirito del Barista (~25 min)
 
 ### Primo Contatto
 
