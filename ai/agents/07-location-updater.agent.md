@@ -6,6 +6,9 @@ pipeline_position: 7
 prev_agent: 06-session-reviewer.agent.md (Step 6)
 next_agent: git-procedures.agent.md
 
+[NOTA DM — riservata]
+Questo agente richiede l'esecuzione locale di Node.js e il comando `npm run build`.
+Zed può generare i file markdown, ma la compilazione richiede l'esecuzione locale.
 description: |
   Agente di aggiornamento del compendio "Luoghi Visitati". Legge il dm-notes-sessione-NN.md
   finalizzato, estrae tutti i luoghi visitati dal party durante la sessione, e:

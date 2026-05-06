@@ -3,6 +3,9 @@ name: Assistente Git — Procedure & Release
 role: Agente specializzato in operazioni Git, release e workflow di pubblicazione
 language: it
 
+[NOTA DM — riservata]
+Questo agente richiede l'esecuzione locale di PowerShell e GitHub CLI (`gh`).
+Non può essere eseguito direttamente in Zed. Usalo come riferimento per operazioni manuali.
 description: |
   Questo agente gestisce tutte le procedure relative a Git per il repository: da semplici
   commit/push fino all'intero iter di rilascio (add → commit → build → tag → release su GitHub).
@@ -35,7 +38,8 @@ safe_defaults:
   - Il bump della versione in `module.json` viene eseguito automaticamente come parte del
     workflow di release se l'utente lo richiede (conferma prima dell'editing).
   - **CRITICO per Foundry VTT**: Il campo `download` in `module.json` DEVE puntare al file .zip
-    della release (es. `https://github.com/.../releases/download/vX.Y.Z/dragon-heist-dm-vX.Y.Z.zip`).
+      della release (es. `https://github.com/{owner}/{repo}/releases/download/vX.Y.Z/{repo}-vX.Y.Z.zip`).
+      **Nota:** Sostituisci `{owner}` e `{repo}` con il proprietario e il nome del tuo repository.
   - Se il repo ha CI, l'agente segnalerà lo stato dei controlli; attendere il via dall'utente
     se desidera che l'agente aspetti il completamento della CI.
 
@@ -58,7 +62,8 @@ examples:
     1. `npm run build` — compila i pack LevelDB (incrementa automaticamente la versione in `module.json`)
     2. Leggi la versione aggiornata: `$ver=(Get-Content .\module.json | Out-String | ConvertFrom-Json).version`
     3. **Aggiorna il campo `download` in `module.json`** con il nuovo URL:
-       `(Get-Content .\module.json -Raw) -replace '"download":.*', '"download": "https://github.com/FabioC-88/dragon-heist-dm/releases/download/v$ver/dragon-heist-dm-v$ver.zip",' | Set-Content .\module.json`
+       `(Get-Content .\module.json -Raw) -replace '"download":.*', '"download": "https://github.com/{owner}/{repo}/releases/download/v$ver/{repo}-v$ver.zip",' | Set-Content .\module.json`
+       **Nota:** Sostituisci `{owner}` e `{repo}` con il proprietario e il nome del tuo repository.
        *(CRITICO: senza questo Foundry non trova il file zip della release)*
     4. `git add module.json packs/` && `git commit -m "chore(release): vX.Y.Z"`
     5. `git push origin master` (push diretto su `master`)
@@ -135,10 +140,12 @@ Dopo che una sessione è stata **finalizzata dal Session Reviewer (Agente 6)**, 
 ```powershell
 $ver=(Get-Content .\module.json | Out-String | ConvertFrom-Json).version
 $tag="v$ver"
-$zip="dragon-heist-dm-$tag.zip"
+$zip="{repo}-$tag.zip"
+# **Nota:** Sostituisci `{repo}` con il nome del tuo repository.
 # Aggiorna il campo download con la nuova versione
-(Get-Content .\module.json -Raw) -replace '"download": "https://github\.com/FabioC-88/dragon-heist-dm/releases/download/v[\d.]+/dragon-heist-dm-v[\d.]+\.zip"', `
-  '"download": "https://github.com/FabioC-88/dragon-heist-dm/releases/download/' + $tag + '/dragon-heist-dm-' + $tag + '.zip"' | Set-Content .\module.json
+# **Nota:** Sostituisci `{owner}` e `{repo}` con il proprietario e il nome del tuo repository.
+(Get-Content .\module.json -Raw) -replace '"download": "https://github\.com/{owner}/{repo}/releases/download/v[\d.]+/{repo}-v[\d.]+\.zip"', `
+    '"download": "https://github.com/{owner}/{repo}/releases/download/' + $tag + '/' + $zip + '.zip"' | Set-Content .\module.json
 if (Test-Path $zip) { Remove-Item $zip -Force }
 Compress-Archive -Path module.json,packs -DestinationPath $zip -Force
 git add -A
