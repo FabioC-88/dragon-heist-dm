@@ -11,9 +11,9 @@
 
 ### Apertura Sessione (Ripresa da S2 — Post-Gazer)
 
-> Siete nelle fogne di Waterdeep. Il Gazer giace dissolto sul pavimento umido, un ricordo di sibilo acuto che ancora risuona nelle vostre orecchie. Davanti a voi, due direzioni: il tunnel continue verso nord-est, con i segni gialli di Xanathar ancora visibili nella semioscurità. La scala metallica dietro di voi conduce al tombino della taverna *Spouting Fish* — un'uscita sicura, ma Floon non è salvo. Non ancora.
+> Siete nelle fogne di Waterdeep. Il Gazer giace dissolto sul pavimento umido, un ricordo di sibilo acuto che ancora risuona nelle vostre orecchie. Davanti a voi, due direzioni: il tunnel continua verso nord-est, con i segni gialli di Xanathar ancora visibili nella semioscurità. La scala metallica dietro di voi conduce al tombino della taverna *Spouting Fish* — un'uscita sicura, ma Floon non è salvo. Non ancora.
 >
-> Renaer (se presente) vi osserva, in attesa. Barnabus (se presente) pulisce il sangue dalla sua spada con un'espressione indecifra bile, ma il suo sguardo è chiaro: *Procediamo?*
+> Renaer (se presente) vi osserva, in attesa. Barnabus (se presente) pulisce il sangue dalla sua spada con un'espressione indecifrabile, ma il suo sguardo è chiaro: *Procediamo?*
 >
 > La ricerca non è finita. Continua nelle profondità.
 
@@ -85,7 +85,7 @@
 **GRUM'SHAR** (Apprendista Mago Mezz'Orco):
 - Posizione: Centro sala, piede su Floon per tenerlo incapacitato
 - Armi e incantesimi: Mani Ardenti (cono 15 ft), Strale di Strega (concentrazione), Scudo (reazione)
-- HP scalati per 6 PG: ~30 PF (aumentato da 22 originali)
+- HP scalati per 6 PG: ~50 PF (aumentato da 22 originali — 6 PG Lv 1 possono fare 30-40 danni al round 1; servono almeno 2-3 round di combattimento)
 - Tattica Round 1: Mani Ardenti sul gruppo più compatto
 - Tattica Round 2+: Mantiene concentrazione su Strale di Strega; usa Scudo come reazione se colpito
 - Speciale (Tenace): A 1 PF, urla "Non è finita!" e tenta fuga verso Q8
@@ -142,13 +142,13 @@
 
 ---
 
-### Trovare il Vicolo
+### FASE 3b — Trovare il Vicolo
 
 Trollskull Alley si trova nel Quartiere Nord, pochi minuti a piedi dal Portale Spalancato. Bastano indicazioni o l'indirizzo sull'atto — nessun tiro richiesto. Il vicolo è noto per la sua aria ordinata e per quella casa abbandonata ai quattro piani che sembra tenere d'occhio chi passa.
 
 ### Descrizione del Vicolo (leggere ai giocatori)
 
-> La carreggiata lastricata di Trollskull Alley ha la larghezza di un carro e la pazienza di chi ne ha visti passare tanti. Le case ai lati sono row-house ben tenute — finestre con tende di pizzo, vasi di erbe sui davanzali, una lanterna ancora accesa davanti a una bottega di legnami. Il vicolo pulsa di una vita ordinata, quasi orgogliosa.
+> La carreggiata lastricata di Trollskull Alley ha la larghezza di un carro e la pazienza di chi ne ha visti passare tanti. Le case ai lati sono case a schiera ben tenute — finestre con tende di pizzo, vasi di erbe sui davanzali, una lanterna ancora accesa davanti a una bottega di legnami. Il vicolo pulsa di una vita ordinata, quasi orgogliosa.
 >
 > E poi c'è il vostro palazzo.
 >
@@ -168,7 +168,7 @@ Trollskull Alley si trova nel Quartiere Nord, pochi minuti a piedi dal Portale S
 
 ---
 
-## FASE 5: IL MANOR — Prima Ispezione (~15 min)
+## FASE 4: IL MANOR — Prima Ispezione (~15 min)
 
 ### Entrare nell'Edificio
 
@@ -203,7 +203,7 @@ La porta principale è sbarrata dall'interno ma non bloccata magicamente. Un tir
 
 ---
 
-## FASE 6: LIF — Lo Spirito del Barista (~25 min)
+## FASE 5: LIF — Lo Spirito del Barista (~25 min)
 
 ### Primo Contatto
 
@@ -257,7 +257,7 @@ Lif fugge al torrino quando scende a metà PF; combatte fino alla morte dal live
 
 **Caratteristiche (scalate per 6 PG):**
 - CA 12 · PF 36 (aumentato da 22 per bilanciare 6 giocatori)
-- Movimento: Volo 50 ft (incorporeo, levitante)
+- Movimento: Volo 50 ft (incorporeo, levitante) — [scalato da 30 ft standard per party 6 PG Lv 2]
 - Resistenze: Danni non magici (contundente, perforante, tagliente); Acido, Fuoco, Fulmine, Tuono
 - Immunità: Freddo, Necrotico, Veleno; Condizioni di Affascinato, Esausto, Afferrato, Paralizzato, Pietrificato, Avvelenato, Prono, Trattenuto
 - Sensi: Scurovisione 60 ft
@@ -272,7 +272,7 @@ Lif fugge al torrino quando scende a metà PF; combatte fino alla morte dal live
 
 ---
 
-## FASE 4: IL VICINATO — Giro degli Esercizi (~30 min)
+## FASE 6: IL VICINATO — Giro degli Esercizi (~30 min)
 
 ### Struttura della Scena
 
@@ -374,7 +374,7 @@ Il party può esplorare il vicolo liberamente. Non è necessario visitare tutte 
 
 ---
 
-## FASE 5: LE FAZIONI VI TROVANO — I Contatti (~30 min)
+## FASE 7: LE FAZIONI VI TROVANO — I Contatti (~30 min)
 
 ### Tempistica
 
@@ -386,7 +386,8 @@ I contatti arrivano entro **24–72 ore** dall'arrivo al manor. Non tutti nello 
 
 ### Contatto 1 — Arpisti → Aelar
 
-**Come arriva:** Un **uccellino di carta** (origami animato) vola dal tetto e atterra sulla spalla di Aelar — o sul naso del Maestro Bec, a discrezione di Berto. Il biglietto si apre da solo.
+**Come arriva:** Un **uccellino di carta** (origami animato) vola dal tetto e atterra sulla spalla di Aelar
+> [NOTA DM] Mirt opera dalla sua villa nel **Castle Ward** (non nel Dock Ward). L’opera è il pretesto: il vero obiettivo è briefare Aelar su **M1 — Un Cavallo Donato** (sorveglianza su Davil Starsong e Yagra via cavalla Maxeene). Dettagli completi in . — o sul naso del Maestro Bec, a discrezione di Berto. Il biglietto si apre da solo.
 
 **Messaggio (leggere ad Aelar):**
 
