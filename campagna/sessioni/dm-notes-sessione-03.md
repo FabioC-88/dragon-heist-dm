@@ -144,6 +144,66 @@
 
 ### FASE 3b — Trovare il Vicolo
 
+---
+
+## FASE 3c — IL GIUDICE E IL PALADINO (Narrazione per Friedrich)
+
+> **[NOTA DM]** Questa scena è riservata a **Friedrich Krauser**. Gli altri PG possono andare avanti con la FASE 4 (Ispezione del Manor) o rimanere in silenzio, come spettatori. Questo momento avviene mentre Friedrich esplora il manor o si allontana per un po' da solo, dopo aver sentito voci in città sul "Magistrato Toga Nera".
+
+---
+
+La pelle del tuo avambraccio brucia ancora, non per la ferita — che ormai si è chiusa in una cicatrice sottile — ma per il ricordo. Ogni volta che senti parlare di "giustizia", senti quel brivido che ti sale dalla spina dorsale e ti gela le dita.
+
+Waterdeep è una città di leggi. Lo sai. Lo hai sempre saputo. Eppure, mentre cammini per le strade lastricate del Dock Ward, senti qualcosa che non quadra. Le voci si susseguono, come foglie morte portate dal vento:
+
+> *"Il Magistrato Valerius ha assolto i responsabili del naufragio della Stella del Mare."*  
+> *"Padre Borin ha benedetto la sentenza del Magistrato."*  
+> *"Nessuno osa contestare una sentenza di Tyr."*
+
+E poi, finalmente, lo vedi.
+
+---
+
+**Il Magistrato Toga Nera** esce dal tribunale all'ora di pranzo. Non è un uomo alto, ma sembra più grande — come se la sua autorità lo ingrandisse. Indossa una toga nera, non per lutto, ma per simbolo: il colore della legge, della giustizia inattaccabile. Sotto la stola di lana scura, intravedi la pelle scura — non di un nativo di Waterdeep, ma di qualcuno che ha attraversato molte terre. I suoi occhi sono calmi, forse troppo. Come se sapesse già tutto di te, prima ancora che tu apra bocca.
+
+Tu lo fissi.
+
+Lui ti guarda.
+
+E per un attimo — solo un attimo — il mondo si ferma.
+
+Non è una coincidenza. Non è un caso. È lui. Lo riconosci. È lo stesso ufficiale che firmò l'ordine di missione per la Shadowfell. Lo stesso che mandò te e i tuoi commilitoni verso la morte, sapendo esattamente cosa vi aspettava.
+
+La tua mano va alla spada. Il tuo voto ti urla di agire. Di chiedere giustizia. Di far cadere la sua maschera davanti a tutto il tribunale.
+
+Ma poi… vedi lui.
+
+Vedi **Padre Borin** che gli cammina accanto, sorridendo. Un sacerdote di Tyr, con la tunica bianca e nera del suo ordine, la spada corta appesa al fianco — non per protezione, ma per simbolo.
+
+Il Magistrato non dice nulla. Non deve. Sa chi sei. Sa cosa vuoi. E sa che **non puoi fare nulla**.
+
+Perché lui non è un criminale. È un magistrato. È un sacerdote di Tyr. È la legge stessa, incarnata in un uomo.
+
+E tu?
+
+Tu sei solo un paladino senza chiesa, un fuggiasco senza patria, un uomo che credeva nella giustizia e ha scoperto che la stessa giustizia ha un prezzo — e chi paga è sempre chi non ha niente.
+
+---
+
+Il Magistrato sale su una carrozza nera, tirata da due cavalli neri. La portiera si chiude con un colpo secco.
+
+Tu rimani lì, fermo, con la mano ancora sulla spada.
+
+La tua fede vacilla. E sai una cosa sola, con certezza assoluta:
+
+***Se la legge del'uomo non può portare la vera giustiza dovrai trovare un alernativa più efficace.***
+
+---
+
+### FASE 3d — Il Ritorno al Manor
+
+> *Dopo questo momento di riflessione, Friedrich torna al manor. Gli altri PG sono già dentro, o stanno per entrare. La serata si fa tarda, e la notte porterà con sé qualcosa di inaspettato…*
+
 Trollskull Alley si trova nel Quartiere Nord, pochi minuti a piedi dal Portale Spalancato. Bastano indicazioni o l'indirizzo sull'atto — nessun tiro richiesto. Il vicolo è noto per la sua aria ordinata e per quella casa abbandonata ai quattro piani che sembra tenere d'occhio chi passa.
 
 ### Descrizione del Vicolo (leggere ai giocatori)

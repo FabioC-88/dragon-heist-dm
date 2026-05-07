@@ -224,13 +224,18 @@
 | **Yagra Stonefist** | Zhentarim | **Operativa di fazione** | Neutrale | Braccio armato di Davil; ti assegna i primi incarichi | Diretta e competente; non amichevole ma professionale |
 | **Volothamp "Volo" Geddarm** | Indipendente | **Reclutatore** | Amichevole | Ti ha avvicinato per primo al Portale Spalancato | Cronista; sa riconoscere potenziale |
 | **Durnan** | Indipendente | **Innkeeper** | Neutrale-accogliente | Proprietario Portale Spalancato; ha visto passare molte persone come te | Vide il primo dei tuoi incontri con Aldric |
+| **Magistrato Valerius** *(Toga Nera)* | Chiesa di Tyr | **Antagonista-speculare** | Ostile (dopo FASE 3c) | Alto magistrato e sacerdote di Tyr. Ha firmato l'ordine per l'imboscata nella Shadowfell. Lo riconosci dopo la FASE 3c. Rappresenta tutto ciò che Friedrich doveva diventare. | Rappresenta la corruzione istituzionale della Chiesa di Tyr. |
+| **Padre Borin** | Chiesa di Tyr | **Traditore istituzionale** | Ostile (dopo Cap. 3) | Sacerdote di Tyr. Tradisce Friedrich quando presenta le prove contro il magistrato. | Rappresenta la Chiesa di Tyr come istituzione corrotta. |
+| **Skeemo Weirdbottle** | Zhentarim / Manshoon | **Traditore alchimista** | Ostile | Gnomo alchimista. Lavora per Manshoon, ma usa le sue pozioni per coprire i crimini del magistrato. | Funziona come distrattore e prova che il magistrato lo usava per coprire i suoi crimini. |
 
 ### Conoscenze di Fama (Notizie da voci, non di persona)
 
 | PNG | Affiliazione | Chi è / Cosa sai | Contesto | Note |
 |-----|-------------|------------------|---------|------|
 | **Urstul Floxin** | Zhentarim | **Sicario Zhentarim ricercato** | Conosci il nome nei circoli Zhentarim; assassino noto della Guardia Cittadina; target della Guardia | Potenziale rilevanza se Barnabus agisce mentre sei con Zhentarim |
-| **Skeemo Weirdbottle** | Zhentarim / Manshoon | **Alchimista sospetto** | Gnomo alchimista; Davil lo menziona come "motivo di tensione" negli Zhentarim | Zentharim M2-M4: figura centrale dell'arco |
+| **Manshoon** | Zhentarim (ramo ostile) | **Mago-antagonista** | Mago terribile; opera dalle Kolat Towers; ha rapito Eric per una commessa fallita | M4 questione Zentharim potrebbe coinvolgerlo; arco finale campagna |
+| **Vajra Safahr** *(il Bastone Nero)* | Ordine Magisti / Force Grey | **Capo supremo** | Arcimaga di Waterdeep; coordina l'Ordine e le Mani Grigie | Non l'hai mai incontrata; la conosci come entità gerarchica |
+| **Mirt il Cambiavalute** | Arpisti | **Capo degli Arpisti a Waterdeep** | Ex avventuriero leggendario; dirige la rete Arpisti in città | Sei stato informato di lui come tuo referente; non l'hai ancora incontrato formalmente |
 
 ---
 

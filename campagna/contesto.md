@@ -25,7 +25,7 @@
 | Mirko | **Razak Kendal** | Umano Monaco (Monastero della Rosa Gialla, Damara) | Force Grey | Portatore del presagio di Hlam: *"sangue innocente sarà versato nel Giorno dei Fondatori"* |
 | Berto | **Aelar Moonwhisper** *(vero nome: Aaravos Caelthir)* | Elfo delle stelle Bardo (Collegio di Fochlucan) | Arpisti | Familiare Maestro Bec (beccaccia con papillon fucsia); patrono arcifata Trobbio (eladrin imprevedibile) |
 | Eric | **Fizzra Ingranaggia** "Scintilla" | Gnoma Artefice (specializzazione Armorer a L3, autodidatta) | Zentharim (contatto: Davil Starsong) | Inventrice nativa di Waterdeep in difficoltà finanziarie. Mentore/partner Rennis Coalsworth è scomparso misteriosamente — Eric non sa che Rennis accettò una commessa segreta per Manshoon che fallì, e che ora Manshoon lo tiene alle Kolat Towers. Contattata da Volo per il Portale Spalancato. Segue questline Zentharim M1-M4. |
-| Gabri | **Friedrich Krauser** | Umano Paladino (arco verso **Oathbreaker**) | Zentharim (contatto primario: Davil Starsong) | Arrivato a Waterdeep in fuga dal suo passato; incontra **Aldric** al Portale Spalancato — amico/mentore. Conflitto tra i principi assoluti del voto e la pragmatica morale-grigia degli Zhentarim. **[NOTA DM]** Zentharim M1-M3 → scelte meno binarie; M4 (assassinio) → breaking point verso Oathbreaker L3-4. |
+Gabri | **Friedrich Krauser** | Umano Paladino (arco verso **Oathbreaker**) | Zentharim (contatto primario: Davil Starsong) | Arrivato a Waterdeep in fuga dal suo passato; incontra **Aldric** al Portale Spalancato — amico/mentore. Conflitto tra i principi assoluti del voto e la pragmatica morale-grigia degli Zhentarim. **[NOTA DM]** Capitolo 2 (FASE 3c Lv 2): scopre la Toga Nera (magistrato corrotto). Capitolo 3 (Lv 3): breaking point → Oathbreaker dopo aver ricevuto le prove dagli Zhentarim. Capitolo 4: regolamento di conti con il magistrato.
 | Silvia *(ospite)* | **Barnabus "Barney" Reed** | Umano Guerriero / Guardia Cittadina | — (indipendente) | Sergente della Guardia; indaga segretamente su sparizioni al porto; obiettivo: incastrare Urstul Floxin (Zhentarim) |
 
 ---
@@ -50,7 +50,7 @@
 - **Referente in città:** Davil Starsong — Portale Spalancato, Dock Ward
 - **Stile operativo:** Mercenari, traffici, controllo della criminalità organizzata. Non tutti gli Zhentarim sono villain — Davil ha un suo codice.
 - **Tensione narrativa:** Barnabus Reed vuole catturare Urstul Floxin, ma party (Friedrich/Fizzra) lavora *con* Zhentarim. Eric attraversa la questline ignara che il mentore scomparso Rennis è nelle mani di Manshoon alle Kolat Towers — M4 potrebbe offrire opportunità di scoperta.
-- **Arco Friedrich (Gabri):** M1 (protezione, vindication) → M2-M3 (zone grigie) → M4 (assassinio Skeemo = breaking point Oathbreaker)
+- **Arco Friedrich (Gabri):** Cap. 2 (FASE 3c Lv 2: scoperta Toga Nera) → Cap. 3 (Lv 3, breaking point → Oathbreaker) → Cap. 4 (regolamento di conti). Gli Zhentarim gli danno le prove contro il magistrato corrotto. Il Voto si spezza quando capisce che la Chiesa lo ha tradito. |
 - **Arco Eric:** M1 (riconoscimento come membro Zhentarim) → M2-M3 (collaborazione pratica con Davil, expertise tecnica) → M4 (possibile scoperta/filo narrativo su Rennis via Skeemo/Manshoon)
 
 ---
@@ -87,6 +87,8 @@
 | **Victoro Cassalanter** | Villain principale (nobile/cultista) | Capitolo 4-5 | Cultisti di Asmodeo |
 | **Ammalia Cassalanter** | Villain principale (nobile/cultista) | Capitolo 4-5 | Cultisti di Asmodeo |
 | **Aldric** | Ex avventuriero al Portale Spalancato; amico/mentore di Friedrich Krauser — **[NOTA DM] è Asmodeo in forma mortale** | Background (BG Gabri) — appare periodicamente durante la campagna | Asmodeo (travestito) |
+| **Magistrato Valerius** *(Toga Nera)* | **Antagonista-speculare** — alto magistrato e sacerdote di Tyr che orchestrò l'imboscata nella Shadowfell | Capitolo 2 (FASE 3c) | Chiesa di Tyr (corrotta) |
+| **Padre Borin** | Sacerdote di Tyr — rappresenta la Chiesa come istituzione corrotta | Capitolo 3 (tradimento) | Chiesa di Tyr |
 | **Manshoon** | Terribile mago-antagonista; capo della rete Zhentarim a Waterdeep; tiene Rennis prigioniero alle Kolat Towers | Zentharim M2-M4 (background/foreshadowing) | Zhentarim |
 
 ---
@@ -119,9 +121,10 @@ Le fazioni attive e i loro `folder_path` sono in `campagna/fazioni.md`.
 | # | Lv | File strutturato | Fonte grezza | Sintesi |
 |---|----|-----------------|--------------|---------|
 | 1 | 2 | `missioni/zentharim/M1-UnBruttoMomento.md` | `fonti/missioni/Zentharim_Missione1_un_brutto_momento.txt` | Primo contatto ufficiale con Davil e Yagra; introduzione alla rete nera |
-| 2 | 3 | `missioni/zentharim/M2-TieniIlResto.md` | `fonti/missioni/Zentharim_Missione2_tieni_il_resto.txt` | Introduce Skeemo — torna in M4 come breaking point |
-| 3 | 4 | `missioni/zentharim/M3-CorriDasher.md` | `fonti/missioni/Zentharim_Missione3_corri_dasher.txt` | Tono investigativo + umano; famiglia Snobeedle |
-| 4 | 5 | `missioni/zentharim/M4-SangueDeiPatto.md` | `fonti/missioni/Zentharim_Missione4_sangue_del_patto.txt` | **Breaking point Friedrich → Oathbreaker**; possibile scoperta di Rennis/Manshoon per Eric |
+| 2 | 3 | `missioni/zentharim/M2-TieniIlResto.md` | `fonti/missioni/Zentharim_Missione2_tieni_il_resto.txt` | Introduce Skeemo — funge da distrattore e prova che il magistrato lo usava per coprire i suoi crimini |
+| 3 | 3 | **Z-M3.5 (nuova)** | **[NOTA DM]** | **Breaking point (Lv 3)**: Davil consegna a Friedrich le prove schiaccianti contro il magistrato Toga Nera. Friedrich diventa Oathbreaker. |
+| 4 | 4 | `missioni/zentharim/M3-CorriDasher.md` | `fonti/missioni/Zentharim_Missione3_corri_dasher.txt` | Tono investigativo + umano; famiglia Snobeedle |
+| 5 | 5 | `missioni/zentharim/M4-SangueDeiPatto.md` | `fonti/missioni/Zentharim_Missione4_sangue_del_patto.txt` | **Regolamento di conti**: Friedrich affronta il magistrato (o lo smaschera/elimina). Skeemo può essere un boss finale alternativo. |
 
 ---
 
@@ -133,12 +136,13 @@ Le fazioni attive e i loro `folder_path` sono in `campagna/fazioni.md`.
 | **2** | Arpisti M1 — Un Cavallo Donato | Aelar (+ party) | Nessuna; introduce Davil e Yagra → gioca **prima** di Zentharim M1 |
 | **2** | Force Grey M1 — Il Carico del Fondatore | Razak, Vorador | Vajra deve aver convocato il party dopo S1 |
 | **2** | Zentharim M1 — Un Brutto Momento | Friedrich, Scintilla (+ Barnabus se presente) | Meglio dopo Arpisti M1 (Davil già visto) |
+| **2** | **FASE 3c — Il Giudice e il Paladino** | **Friedrich** | **Scoperta della Toga Nera** (Lv 2): Friedrich vede il magistrato e si rende conto di non poterlo toccare. Questo momento porta naturalmente all'hook Zhentarim. |
 | **3** | Force Grey M2 — Non è Tutto Oro | Razak, Vorador | Dopo M1 Force Grey; sessione "relax" sociale |
 | **3** | Arpisti M2 — Disinfestazione | Aelar (+ party) | Nessuna; location: libreria Trades Ward |
-| **3** | Zentharim M2 — Tieni il Resto | Friedrich, Scintilla | **Introduce Skeemo** — torna in Z-M4 |
+| **3** | **Z-M3.5 (nuova)** | **Friedrich** | **Breaking point (Lv 3)**: Davil consegna le prove contro il magistrato. Friedrich diventa Oathbreaker. |
 | **4** | Force Grey M3 — Crimini di Pensiero | Razak, Vorador | Dura più sessioni (10 gg in-game); pianifica 3-5 sessioni |
 | **4** | Arpisti M3 — Benvenuti in Famiglia | Aelar (+ party) | Nessuna; introduce doppelganger e Mattrim |
 | **4** | Zentharim M3 — Corri, Dasher! | Friedrich, Scintilla | Tono investigativo + umano; famiglia Snobeedle |
 | **5** | Force Grey M4 — Cose Terribili | Razak, Vorador | Usa mappa covo Xanathar da Dragon Heist.md |
-| **5** | Zentharim M4 — Sangue del Patto | Friedrich, Scintilla | **Breaking point Friedrich → Oathbreaker**; hook su Rennis/Manshoon per Scintilla |
+| **5** | Zentharim M4 — Sangue del Patto | Friedrich, Scintilla | **Regolamento di conti**: Friedrich affronta il magistrato. Skeemo può essere un boss finale alternativo. |
 | **4-5** | Arpisti M4 — Velo Alzato | Aelar (+ party) | Dipende dall'arco Jarlaxle; party deve conoscere Zardoz Zord |
