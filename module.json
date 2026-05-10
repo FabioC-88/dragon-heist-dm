@@ -71,6 +71,15 @@
             "missioni-forcegrey",
             "missioni-zentharim"
           ]
+        },
+        {
+          "name": "Missioni Secondarie",
+          "sorting": "m",
+          "packs": [
+            "missioni-arpisti",
+            "missioni-forcegrey",
+            "missioni-zentharim"
+          ]
         }
       ]
     }
