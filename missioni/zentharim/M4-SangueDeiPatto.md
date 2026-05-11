@@ -1,101 +1,111 @@
-# Missione 4 — Il Sangue del Patto
+# Missione 4 — La Sentenza di Tyr
 
-**Fazione:** [Zhentarim](../../Campagna/fazioni.md#zhentarim) | **Livello:** 5 **BOSS FINALE** | **Durata:** 3–4 ore  
+**Fazione:** [Zhentarim](../../Campagna/fazioni.md#zhentarim) | **Livello:** 4 | **Durata:** 2–3 ore  
 **Referente:** [Davil Starsong](../../Campagna/png-incontrati.md#davil-starsong)  
 **Fonte Completa:** `Zentharim_Missione4_sangue_del_patto.txt`
+
+> **⚠️ Modifica Narrativa Integrale:** Questa missione sostituisce la M4 canone (assassinio di Skeemo Weirdbottle). La struttura di base è mantenuta — incarico da Davil, confronto ad alto rischio, connessione alle Kolat Towers — ma la narrativa è stata riscritta per l'arco Krauser & Scintilla. Skeemo rimane un PNG attivo: il suo coinvolgimento con Manshoon emerge attraverso l'arco, non tramite la sua eliminazione.
 
 ---
 
 ## 📖 Sinossi
 
-**Skeemo Weirdbottle ha tradito gli Zhentarim** — lavorava segretamente per **Manshoon**. Ha avvelenato le consegne dirette a certi alleati e ha sabotato operazioni della Rete Nera. Davil non chiede giustizia: chiede un corpo, o almeno un agente fuori gioco. Il party conosce già l'uomo, conosce il negozio, conosce il veleno che distribuiva. **Questa volta Skeemo sa di essere cercato** — e ha già un piano di fuga. Una missione di eliminazione che diventa una **caccia per le strade di Waterdeep**, con la Vipera Nera nell'ombra e le **Torri di Kolat** all'orizzonte.
+**Aldren Vosk ha i giorni contati** — ma non grazie alla giustizia ordinaria. Davil Starsong ha costruito un caso contro il magistrato corrotto e ha bisogno di un testimone credibile. Un ex paladino della Chiesa di Tyr vale più di qualsiasi spia. La trappola è elegante: gli Zhentarim usano **Krauser** per legittimare le loro prove, ottenendo la caduta di un rivale politico. Non è giustizia. È politica. Ma il risultato è lo stesso.
+
+Mentre **Krauser** testimonia in aula, **Scintilla** nota qualcosa nel pubblico — un uomo con un tatuaggio che non avrebbe dovuto essere lì. Poi il caos prende forma: tutto il lavoro fatto in quattro missioni rischia di svanire in un istante, e ognuno deve scegliere cosa conta davvero.
 
 ---
 
 ## 🎯 Obiettivi
 
-1. **Ricevere l'ordine** da Davil Starsong direttamente
-2. **Localizzare Skeemo** — il negozio è chiuso; è in fuga
-3. **Inseguire Skeemo** attraverso Waterdeep, il Trades Ward, verso il Castello
-4. **Intercettare Skeemo** prima che raggiunga le Torri di Kolat
-5. **Combattere Skeemo** — boss finale dei Zhentarim
-6. **Consegnare il corpo** (o notizie della vittoria) a Davil
-7. **Raccogliere ricompense**
+1. **Ricevere l'incarico** da Davil Starsong — Krauser deve testimoniare al processo contro Vosk
+2. **Prepararsi al processo** — i PG decidono cosa rivelare e cosa tacere
+3. **Testimonianza di Krauser** — le prove vengono presentate, Vosk vacilla
+4. **Scintilla osserva** — individua l'uomo con il tatuaggio del serpente alato
+5. **Il simulacro si rivela** — caos calcolato, fuga di Vosk con le prove originali
+6. **Scelta di Scintilla** — seguire l'agente di Manshoon o restare con il gruppo
+7. **Fine missione:** le Kolat Towers
 
 ---
 
 ## 🗺️ Ambientazione
 
-- **Alchimia Weirdbottle** — punto di partenza (chiuso, serrato)
-- **Trades Ward** — inseguimento urbano
-- **Strade di Waterdeep** — corse sui tetti, attraversamenti pericolosi
-- **Castle Ward** — area finale
-- **Torri di Kolat** — rifugio di Manshoon (mai raggiunto, ma visible)
+- **Il Portale Spalancato** — briefing pre-processo con Davil
+- **Aula del Tribunale, Quartiere del Castello** — il processo; sala pubblica, almeno trenta testimoni
+- **Strade di Waterdeep** — fuga e inseguimento post-caos
 
 ---
 
 ## 👥 PNG Chiave
 
-| PNG | Ruolo | Affiliazione |
-|-----|-------|-------------|
-| **Skeemo Weirdbottle** | Traditore / objectif | Manshoon (controllato magicamente) |
-| **Davil Starsong** | Comandante dell'operazione | Zhentarim |
-| **Yagra Stonefist** | Braccio destro di Davil | Zhentarim (attesa al ritorno) |
-| **La Vipera Nera (Esvele)** | Possibile alleata ombra | Indipendente |
+| PNG | Ruolo | Note |
+|-----|-------|------|
+| **Davil Starsong** | Architetto del processo | Usa Krauser come strumento; onesto su questo |
+| **Aldren Vosk** | Imputato / magistrato corrotto | Ancora convinto di avere ragione; fuggirà nel caos |
+| **Simulacro di Manshoon** | Agente del caos | In aula da ore come testimone silenzioso; agisce al momento giusto |
+| **L'uomo con il tatuaggio** | Agente di Manshoon / filo verso Rennis | Tatuaggio: serpente alato — lo stesso simbolo che Rennis aveva descritto |
+| **Yagra Stonefist** | Supporto Zhentarim | Presente come "pubblico", scorta discreta |
 
 ---
 
 ## 💡 Meccaniche Chiave
 
-### Il Negozio Serrato
-Quando il party arriva ad Alchimia Weirdbottle, trovano:
-- **Imposte chiuse**, cartello girato
-- **Un dray (carrozza pubblica)** s'allontana dall'incrocio vicino
-- Skeemo sa (o teme) che stanno arrivando
+### Il Briefing di Davil
 
-**Percezione CD 16:** Notate un mezzuomo incappucciato confuso tra cinque umani comuni sul dray. È Skeemo.
+Davil convoca Krauser separatamente. È diretto:
 
-### L'Inseguimento Urbano
-Una volta identificato Skeemo, inzia una caccia attraverso Waterdeep:
+> *"Hai le prove. Io ho l'aula. Tu testimoni, Vosk cade. Tutti otteniamo quello che vogliamo."*
 
-**Fase 1: Dray Chase (Trades Ward)**
-- Inseguimento a piedi/cavallo dietro il dray
-- CD 12–14 Atletica per mantenere il passo
-- Skeemo salta giù e corre nei vicoli
+Non dice mai che è giusto. Lascia che sia Krauser a decidere se importa.
 
-**Fase 2: Fuga nei Vicoli (Trades Ward → Castle Ward)**
-- Parkour urbano — tetti, finestre, salti
-- CD 13–15 Acrobazia/Atletica per mantenersi al passo
-- Skeemo usa incantesimi per rallentare i persecutori
+**La trappola:** Gli Zhentarim legittimerranno le prove attraverso la credibilità di un ex paladino della Chiesa di Tyr. Krauser ottiene la caduta di Vosk — ma diventa uno strumento politico di Davil. La vittoria ha il sapore dell'aceto.
 
-**Fase 3: Ascensione Finale (verso Kolat Towers)**
-- Skeemo lancia **Volo** (concentazione, Lv 3 spell)
-- Vola a 18 m di altezza, verso il Castello e le Torri di Kolat
-- Il party deve trovare modo di raggiungerlo: incantesimi, acrobazia estrema, o coordinamento tattico
+**Se Krauser rifiuta:** La missione collassa. Davil rimane freddo: *"Era la tua unica occasione. Adesso Vosk è intoccabile."* Le Kolat Towers restano l'unica via, ma senza supporto Zhentarim.
 
-### Skeemo Weirdbottle — Boss Finale
+### La Testimonianza di Krauser (CD 14)
 
-**SKEEMO, Mago Gnomo Traditore (Lv 4-5 Challenge)**
+**Prova:** Persuasione o Intimidazione, CD 14
+- **Successo:** Le prove hanno peso. La condanna si avvicina. La sala sente tutto.
+- **Fallimento:** Vosk mette in dubbio la credibilità di un Oathbreaker. L'aula tentenna — ma le prove restano valide.
 
-**Statistica Base:**
-- **AC:** 14 (vestiti)
-- **PF:** 44 (Mago, mediocre)
-- **Movimento:** 25 piedi
+**Il peso simbolico:** Vosk è un sacerdote di Tyr. Krauser era un paladino di Tyr. Ora Krauser è un Oathbreaker al servizio di Asmodeus. Vosk combatte nel nome di Tyr. Krauser combatte nel nome di Asmodeus. Entrambi convinti di essere dalla parte giusta. Uno specchio deformato.
 
-**Incantesimi Preparati (Lv 3 Mago):**
-1. **Palla di Fuoco** (Lv 3): 8d6 danni fuoco, CD 14 Dex Save
-2. **Fulmine** (Lv 3): 9d6 danni fulmine, CD 14 Dex Save (usato durante fuga aerea!)
-3. **Disco di Tasha** (Lv 1): Creare superficie ghiacciata per rallentare inseguitori
-4. **Incantamento** (Lv 1): Controllare intelligenze basse (non peccatori che conoscono Skeemo)
-5. **Volo** (Lv 3): Movimento 60 piedi, concentazione per 1 ora
+> *"Guarda cosa sei diventato. Almeno io sono rimasto fedele a qualcosa."*
 
-**Azioni Bonus:**
-- **Scappa Rapida** — ogni turno può usare azione di movimento aggiuntiva
+### Scintilla Osserva (CD 13 Percezione)
 
-**Lair Actions:** (se il combattimento è nei Vicoli di Waterdeep)
-- Controllare persone inosservate come distrazioni
-- Creare illusioni per confondere inseguitori
-- Fuoco magico dai camini per creare barriere
+Mentre l'attenzione è su Krauser, Scintilla nota il pubblico. Un uomo in terza fila ha sul polso un tatuaggio — un **serpente alato**. Lo stesso simbolo che Rennis aveva descritto come marchio del gruppo che lo aveva assoldato.
+
+L'uomo non guarda il processo. Guarda Vosk. Aspetta qualcosa.
+
+**CD 13 — Successo:** Scintilla lo individua prima del caos.  
+**CD 15 — Successo aggiuntivo:** Ha uno schema posturale specifico — è pronto a muoversi in qualsiasi momento.  
+**Fallimento:** Lo nota solo quando si alza, troppo tardi per anticiparlo.
+
+### Il Simulacro di Manshoon
+
+Quando la condanna diventa inevitabile, uno dei testimoni in aula si alza. Il suo volto cambia. Le sue mani cambiano. È un **simulacro di Manshoon**, e ha aspettato esattamente questo momento.
+
+Il caos è **chirurgico**: abbastanza disordine da coprire una fuga, non abbastanza da causare morti inutili. Manshoon non spreca risorse.
+
+**Statistiche (calibrate per gruppo Lv 4–5):**
+- **CA:** 12 | **PF:** 45 | **Velocità:** 9 m
+- **Slot incantesimo:** solo 1°–4° livello — nessun accesso a slot 6°+
+- **Obiettivo:** Non uccidere il party. Coprire la fuga di Vosk.
+- **Quando distrutto:** Si dissolve in polvere e ghiaccio — nessun corpo, nessuna loot.
+
+### La Fuga di Vosk
+
+Nel caos, Vosk sparisce portando con sé le **prove originali**. L'uomo con il tatuaggio sparisce con lui.
+
+**Nota DM — riservata:** Le prove non contano più come oggetto fisico. Il processo era pubblico: i testimoni hanno sentito tutto. La colpevolezza di Vosk è ora di dominio pubblico anche senza i documenti. Ma Vosk non sarà mai più in un tribunale. Le prove serviranno solo come oggetto narrativo nelle Kolat Towers.
+
+### La Scelta di Scintilla
+
+Seguire l'uomo con il tatuaggio — che porta a Rennis — significa abbandonare Krauser nel caos. Restare significa perdere forse l'unico filo diretto verso il suo obiettivo. Non esiste la risposta giusta.
+
+**Se Scintilla segue (CD 14 Indagine):** Raccoglie informazioni sulle Kolat Towers. Perde il contatto visivo col party nel momento di crisi.  
+**Se Scintilla resta:** Il party affronta il simulacro unito. Perde il filo diretto verso Rennis.
 
 ---
 
@@ -103,67 +113,71 @@ Una volta identificato Skeemo, inzia una caccia attraverso Waterdeep:
 
 | Azione | CD | Caratteristica | Risultato |
 |--------|-----|-----------|-----------|
-| Percezione Skeemo sul dray | 16 | Percezione | Identifica il target |
-| Atletica durante inseguimento | 13–14 | Atletica | Mantieni il passo |
-| Acrobazia nei vicoli | 14 | Acrobazia | Evita ostacoli urbani |
-| Resistere a Palla di Fuoco | 14 | Salvezza Dex | Ridotto danno |
-| Colpire Skeemo in combattimento | / | Tattica | AC 14, mobile, sfuggente |
-| Raggiungere Skeemo mentre vola | 15 | Atletica/Magia | Richiede incantesimi o coordinamento |
+| Testimonianza di Krauser | 14 | Persuasione / Intimidazione | La condanna avanza o vacilla |
+| Individuare l'uomo con il tatuaggio | 13 | Percezione | Scintilla lo vede prima del caos |
+| Leggere le intenzioni del simulacro | 15 | Intuizione | Capisci che sta aspettando |
+| Resistere al disorientamento del simulacro | 12 | Salvezza Sag | Agisci nel primo round |
+| Seguire l'uomo con il tatuaggio | 14 | Indagine | Intel su Rennis / Kolat Towers |
+| Tracciare Vosk nel caos | 16 | Atletica / Furtività | Riesci solo a capire dove è andato |
 
 ---
 
 ## 🎭 Trama Narrativa
 
-**Tema:** Il tradimento ha un prezzo. Skeemo ha giocato su due tavoli, ora entrambi lo cercano.
+**Tema:** La giustizia ottenuta con i mezzi sbagliati vale ancora?
 
 **Colpi di Scena:**
-- Durante l'inseguimento, **la Vipera Nera (Esvele)** potrebbe apparire per aiutare — se salva da M2 (sincerismo narrativo)
-- Skeemo usa **Volo** per raggiungere le **Torri di Kolat** — visibilità della minaccia Manshoon
-- Se Skeemo catturato vivo, rivela che **Manshoon lo controlla magicamente** — connection diretta al villain maggiore
+- Davil ha orchestrato tutto per settimane — Krauser era già parte del piano senza saperlo
+- Manshoon sapeva del processo e ha aspettato: i PG erano utili per far emergere Vosk, poi li ha neutralizzati. Erano strumenti di due padroni diversi nello stesso momento.
+- Vosk fugge ancora convinto di avere ragione — non si considera in fuga, si considera liberato da un'ingiustizia
+- La scelta di Scintilla non ha risposta giusta — questo è il punto
+
+**La riga finale:**
+> *Le Kolat Towers.*
 
 ---
 
 ## 🏆 Ricompense
 
-- **Oro:** 250 mo per membro + parte bottino Skeemo (~300 mo in componenti magici)
-- **Fama Zhentarim:** +4 (eliminazione di traditore di alto livello)
-- **Davil's Trust:** Massimo — il party ha completato il ciclo Zhentarim impeccabilmente
-- **Intel Manshoon:** Se Skeemo catturato/interrogato, scopri che Manshoon lo controlla dalle Torri di Kolat
+- **Oro:** Davil "dimentica" di pagare nel caos. Ha però un debito narrativo riconosciuto.
+- **Fama Zhentarim:** +2 (se Krauser testimonia); +1 aggiuntivo (se Scintilla individua il tatuaggio prima del caos)
+- **Intel Kolat Towers:** Qualsiasi informazione raccolta dall'uomo con il tatuaggio
+- **Debito di Davil:** Supporto logistico disponibile per le Kolat Towers
 
 ---
 
 ## 🔗 Connessioni
 
-- **Collegate a:** [Zentharim M1](M1-UnBruttoMomento.md), [M2](M2-TieniIlResto.md), [M3](M3-CorriDasher.md) **(FINALE ARCO)**
-- **Rivela:** Manshoon come villain minore di importanza crescente
-- **Introduce:** **Torri di Kolat** — location villain secondaria
-- **Possibile Alleanza:** La Vipera Nera (se salva in M2) appare come alleata
+- **Collegate a:** [Zentharim M1](M1-UnBruttoMomento.md), [M2](M2-TieniIlResto.md), [M3](M3-CorriDasher.md) **(FINALE ARCO — porta al dungeon conclusivo)**
+- **Introduce:** Il Simulacro di Manshoon come minaccia concreta e presente
+- **Rivela:** Vosk come asset di Manshoon, non solo magistrato corrotto autonomo
+- **Porta a:** [Dungeon Conclusivo — Le Kolat Towers](../../fonti/personaggi/Arco_Krauser_Scintilla.md#le-kolat-towers)
+- **Arco PG:** [Arco Krauser & Scintilla](../../fonti/personaggi/Arco_Krauser_Scintilla.md) — Missione 4
 - **Fazione:** [Zhentarim](../../Campagna/fazioni.md#zhentarim)
 
 ---
 
 ## 📝 Note per il DM
 
-- **Boss FIGHT MOBILE E DRAMMATICO** — Skeemo in Volo cambia la dinamica tattica
-- **L'inseguimento è il vero focus** — non è solo combattimento, è pura azione urbana
-- Se il party fallisce: Skeemo raggiunge le Torri di Kolat, scompare, riappare nel Capitolo 5 come minaccia
-- Se il party vince: Enorme vittoria narrativa — il ciclo Zhentarim è completo, Davil rimane profondamente in debito
-- **Usa il contesto urbano:** Edifici, tetti, folla — rendilo un inseguimento di film d'azione, non una griglia tattica
+- **Non c'è un boss fight diretto** — il climax è narrativo: il momento in cui tutto si rompe
+- **Davil è onesto sulla sua disonestà** — non mente a Krauser sui propri motivi. Questo lo rende più pericoloso di un bugiardo
+- **Manshoon non è un nemico da affrontare** — è una forza che si subisce. Il simulacro è potente, ma il suo obiettivo non è uccidere il party
+- **La scelta di Scintilla** non deve essere risolta in fretta — lascia che il giocatore ci pensi davvero
+- **Vosk non si pente** — anche nel caos, rimane convinto di avere ragione. Non offrire redenzione
 
 ---
 
 ## 📚 Varianti e Personalizzazioni
 
-### Se il party cattura Skeemo vivo
-Interrogatorio: Skeemo è controllato magicamente da Manshoon. Mettere fine al controllo richiede magia potente o eliminazione di Skeemo.
+### Se Krauser rifiuta di testimoniare
+La missione fallisce nel senso convenzionale — ma il party può comunque raggiungere le Kolat Towers per via diversa. Davil rimane freddo ma rispetta la scelta. Il percorso verso le Kolat è solo più difficile.
 
-### Se il party fallisce e Skeemo raggiunge Kolat Towers
-Consequenza: Le Torri di Kolat emerger come minaccia crescente. Possibile connection al Capitolo 5.
+### Se il simulacro viene affrontato direttamente
+Combattimento breve e brutale. Il simulacro si ritira se portato sotto il 50% PF — Manshoon non spreca risorse. La fuga di Vosk avviene comunque.
 
-### Se la Vipera Nera appare (M2 success)
-Grande momento di aiuto tattico — Esvele crea distrazioni mentre il party cattura Skeemo.
+### Se Scintilla segue l'uomo con il tatuaggio
+Porta a informazioni aggiuntive sulle Kolat Towers o su Rennis — ma non a Rennis stesso. Il prigioniero è ben custodito. Scintilla può ricongiungersi al party prima delle Kolat Towers.
 
 ---
 
-**Aggiornamento:** 7 Aprile 2026 | **Stato:** Non giocata
-
+**Aggiornamento:** Maggio 2026 | **Stato:** Non giocata

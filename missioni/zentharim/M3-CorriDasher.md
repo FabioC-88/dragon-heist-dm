@@ -12,6 +12,35 @@
 
 ---
 
+## 🔥 Modifica Narrativa — Arco Krauser & Scintilla
+
+**Protagonisti: Entrambi | Livello: 4**
+
+**Il passato di Dasher:**
+Prima della trasformazione in lupo ratto, Dasher lavorava come **scrivano per il tribunale di Vosk**. Ha copiato — inconsapevolmente — documenti altamente incriminanti che ora porta cuciti nel fodero di un giocattolo d'infanzia. Non sa cosa contengono. Non sa che qualcuno li sta cercando.
+
+**I documenti — un fascicolo, due sezioni:**
+
+| Sezione | Contenuto | Rilevante per |
+|---------|-----------|---------------|
+| **A** | Documentazione dell'imboscata nella Shadowfell, firma di Vosk come mandante | Krauser |
+| **B** | Registro di transazioni con il nome di Rennis Coalsworth, la commessa, e il nome di un intermediario di Manshoon | Scintilla |
+
+**Il conflitto sui documenti:**
+- **Davil** vuole i documenti — li userà come leva politica, non come prova pubblica. *"Hanno più valore chiusi in un cassetto che in un'aula."*
+- **Skeemo**, se scopre che esistono, li vuole distrutti
+- **Manshoon** non sa ancora che i PG li hanno in mano
+- **Krauser e Scintilla** vogliono cose diverse dagli stessi documenti
+
+**La questione di Dasher:**
+Dasher non è solo un vettore di informazioni. Vuole restare con i **Shard Shunners** — è la sua famiglia adesso. Riportarlo a casa contro la sua volontà è un atto che nessuno può fare senza conseguenze.
+
+**Fine missione:** Scintilla sa che Rennis è vivo. Krauser ha le prove su Vosk. Entrambi sanno che il tempo stringe.
+
+**Nota DM — riservata:** I documenti non devono essere trovati subito — emergono mentre il party conosce Dasher. Il momento in cui Krauser legge la Sezione A è narrativamente importante: potrebbe essere la prima volta che vede prove concrete scritte dell'imboscata.
+
+---
+
 ## 🎯 Obiettivi
 
 1. **Ricevere l'incarico** da Davil o messaggero Zhentarim
@@ -38,8 +67,8 @@
 | PNG | Ruolo | Note |
 |-----|-------|------|
 | **Blossom Snobeedle** | Madre di Dasher | Sessantina, dignità, ricca, piange |
-| **Dasher Snobeedle** | Mezzuomo nobile scomparso | 20ish, ribelle, trasformato |
-| **Amore di Dasher** | Compagno/a segreto | Mezzuomo/a di ceto basso |
+| **Dasher Snobeedle** | Mezzuomo ex-scrivano di Vosk, scomparso | 20ish, trasformato; porta documenti senza sapere cosa sono |
+| **Shard Shunners** | La famiglia vera di Dasher | Gruppo di mezzuomini nel Southern Ward; Dasher non vuole lasciarli |
 | **Vaniel Shortwick** | Gestore Buco nel Muro | Discreto, protettivo |
 
 ---
@@ -63,10 +92,11 @@
 
 ### Dasher — Il Colpo di Scena
 - **Descrizione:** Venti anni, capelli scuri, vestiario da artigiano (non da nobile)
-- **Situazione:** Ha una relazione con un mezzuomo di basso ceto; si sente "finalmente a casa"
-- **Il Morso:** Ha un **segno di morso su un lato del collo** — hint di transformazione vampirica o licantropia
-- **Reazione agli intrusi:** "Dite a mia madre che sto bene. Dite a chiunque che sono morto. Ma NON venite a cercarmi di nuovo."
-- **Secret:** Trasformazione in corso (possibile vampiro giovane, lycanthrope, o altro)
+- **Passato:** Lavorava come scrivano al tribunale di Vosk — ha copiato documenti incriminanti senza capirne il contenuto
+- **Situazione attuale:** Vive con i **Shard Shunners** — li considera la sua vera famiglia
+- **Il Morso:** Ha un **segno di morso su un lato del collo** — trasformazione in lupo ratto in corso
+- **I documenti nascosti:** Cuciti nel fodero di un giocattolo d'infanzia. Non sa di averli. Non sa cosa sono.
+- **Reazione agli intrusi:** *"Dite a mia madre che sto bene. Dite a chiunque che sono morto. Ma NON venite a cercarmi di nuovo."*
 
 ### Il Dilemma Morale
 Se il party porta Dasher a casa:
@@ -118,8 +148,10 @@ Se il party lo protegge e indaga sul "morso":
 ## 🔗 Connessioni
 
 - **Collegate a:** [Zentharim M1](M1-UnBruttoMomento.md), [M2](M2-TieniIlResto.md), [M4](M4-SangueDeiPatto.md)
-- **Introduce:** Minaccia soprannaturale (vampiro/lycanthrope) nel Southern Ward
-- **Rivela:** Complessità morale delle decisioni forzate
+- **Introduce:** Trasformazione in lupo ratto (Dasher) — minaccia soprannaturale nel Southern Ward
+- **Rivela:** Prove scritte sull'imboscata nella Shadowfell (Sezione A) e su Rennis/Manshoon (Sezione B)
+- **Rivela:** Conflitto diretto tra gli obiettivi di Krauser e quelli di Scintilla
+- **Arco PG:** [Arco Krauser & Scintilla](../../fonti/personaggi/Arco_Krauser_Scintilla.md) — Missione 3
 - **Fazione:** [Zhentarim](../../Campagna/fazioni.md#zhentarim)
 
 ---

@@ -1,10 +1,10 @@
 # DM Notes — Sessione 4 (In-Game)
 
 > **Fonte primaria:** `fonti/campagna/Dragon Heist.md` · Sezione *"Trollskull Alley"* (Cap. 2) → *"Fireball"* (Cap. 3)
-> **Contesto:** Party Lv 1 · Hanno completato Cap. 1 (salvato Floon, ottenuto Trollskull Manor) · Hanno ricevuto contatti da tutte e 3 le fazioni · A metà Cap. 2, in attesa dell'esplosione
+> **Contesto:** Party Lv 2 · Hanno completato Cap. 1 (salvato Floon, ottenuto Trollskull Manor) · Hanno ricevuto contatti da tutte e 3 le fazioni · A metà Cap. 2, in attesa dell'esplosione
 > **Obiettivo sessione:** Esplorazione del vicinato (Trollskull Alley) · Sviluppo delle missioni fazione (M1) · Preparazione per Cap. 3 (Fireball)
 > **Durata stimata:** ~2h30m
-> **XP accumulati:** 50 / 300 (verso L2)
+> **XP accumulati:** milestone — Lv 2 confermato (S3), prossimo: Lv 3 al completamento Cap. 2
 
 ---
 
@@ -226,6 +226,8 @@ Ricompensa: +1 Renown Zentharim + [[/award 50gp]] se Heldar sopravvive.
 
 **[NOTA DM — Barnabus]:** Se Barnabus (Silvia) è presente, potrebbe essere interessato all'indagine — ma è anche in conflitto con gli Zhentarim. Potrebbe chiedere al party di condividere le informazioni con la Guardia.
 
+**[NOTA DM — Arco Krauser & Scintilla]:** Tra le tre vittime c'è **Edran Voss**, commilitone di Krauser nella Shadowfell — creduto morto nell'imboscata di Vosk, sopravvissuto con prove contro il magistrato, poi eliminato. Quando Krauser identifica il corpo capisce che Vosk sta ancora ripulendo testimoni e che lui è probabilmente il prossimo. Se il drow viene fermato, le sue parole finali: *"Vosk paga bene. Manshoon paga meglio."* — primo filo tra i due antagonisti. Scintilla è essenziale: senza i suoi contatti nel mercato nero del porto, l'assassino non viene identificato. Dettagli completi: [Arco Krauser & Scintilla](../../fonti/personaggi/Arco_Krauser_Scintilla.md).
+
 **[NOTA DM — Hook per PG]:**
 - **Friedrich (Paladino):** Se Friedrich discute del suo voto con Davil, Davil dice "*La legge non è una spada. È uno strumento. A volte serve a tagliare, a volte a legare.*" → **Hook attivo:** prepara il terreno per il breaking point verso Oathbreaker.
 - **Scintilla (Gnoma):** Se Scintilla menziona Rennis Coalsworth, Davil dice "*Rennis sapeva dove trovare componenti che non si trovano più. Qualcuno ha tagliato i canali di approvvigionamento.*" → **Indizio su Rennis/Manshoon** (vedi [NOTA DM — Fili Narrativi Riservati]).
@@ -443,7 +445,9 @@ Ricompensa: +1 Renown Zentharim + [[/award 50gp]] se Heldar sopravvive.
 >
 > *Tono: Diretto, nessuna promessa sentimentale. Il pagamento parla da sé.*"
 
-**[NOTA DM — riservata]** Obiettivo reale della missione: Proteggere **Heldar**, un marinaio mezzelfo designato come prossima vittima, e identificare l'assassino **Solun Xibrindas** (drow fanatico). Ricompensa: +1 Renown Zentharim, 500 XP, 50 mo se Heldar sopravvive. **Dipendenze:** Nessuna. **File di riferimento:** *(missioni/zentharim/)*
+**[NOTA DM — riservata]** Obiettivo reale della missione: Proteggere **Heldar**, un marinaio mezzelfo designato come prossima vittima, e identificare l'assassino **Solun Xibrindas** (drow fanatico). Ricompensa: +1 Renown Zentharim, 500 XP, 50 mo se Heldar sopravvive. **Dipendenze:** Nessuna. **File di riferimento:** [missioni/zentharim/M1-UnBruttoMomento.md](../../missioni/zentharim/M1-UnBruttoMomento.md).
+
+**[NOTA DM — Arco Krauser & Scintilla]:** Tra le tre vittime c'è **Edran Voss** (commilitone di Krauser nella Shadowfell) — primo aggancio alla questline Vosk. Parole finali del drow: *"Vosk paga bene. Manshoon paga meglio."* — primo filo tra i due antagonisti. Scintilla identifica l'assassino via contatti nel mercato nero del porto: senza di lei il gruppo brancola nel buio. Il filo si sviluppa nelle M2–M4 Zentharim.
 
 ---
 
@@ -473,6 +477,17 @@ Se Scintilla torna alla sua officina (non lontana dal manor), trova i segni di u
 
 *Non indicare Manshoon. Non indicare le Kolat Towers. Solo: è sparito, non da solo.*
 
+### Krauser / Vosk (Friedrich — Gabri)
+La questline personale di Krauser si sviluppa in parallelo all'arco Oathbreaker, intrecciandosi con tutte e quattro le missioni Zentharim:
+
+- **M1 (questa sessione):** Krauser identifica **Edran Voss** tra le vittime — commilitone della Shadowfell, creduto morto, sopravvissuto con prove contro Vosk. Il drow, se fermato, dice: *"Vosk paga bene. Manshoon paga meglio."* — primo aggancio ai due villain.
+- **M2:** Krauser riconosce il sigillo di Vosk sulla confezione delle pozioni di Skeemo — primo collegamento visivo tra le due questline.
+- **M3:** Sezione A dei documenti di Dasher — prove scritte dell'imboscata nella Shadowfell, firma di Vosk come mandante. Prima volta che Krauser vede prove concrete scritte.
+- **M4:** Processo contro Vosk — Krauser testimonia in aula. La vittoria ha il sapore dell'aceto: strumento degli Zhentarim, non protagonista della propria giustizia.
+
+*Indizio in questa sessione: M1 attiva il filo. Non spingere il nome di Vosk oltre le parole del drow.*
+*Arco completo: [Arco Krauser & Scintilla](../../fonti/personaggi/Arco_Krauser_Scintilla.md)*
+
 ### Aldric / Asmodeo (Friedrich — Gabri)
 In questa sessione **Aldric passa a visitare Friedrich** al manor. Si presenta come mentore premuroso — porta del vino, fa domande sensate sulla ristrutturazione, ascolta le frustrazioni.
 
@@ -489,7 +504,7 @@ Nient'altro. Solo quella frase. Friedrich la sentirà risuonare dopo.
 - **Rishaal (T6):** Chiede *"Se la legge è uno strumento rotto, sei ancora obbligato a usarla?"*
 - **Davil Starsong (Zentharim M1):** Ha una filosofia pragmatica. *"La legge non è una spada. È uno strumento. A volte serve a tagliare, a volte a legare."*
 
-**[NOTA DM — riservata]** Aldric *è Asmodeo sotto forma mortale*. Mantiene il pretesto di mentore umano. Osserva silenziosamente la rottura morale di Friedrich attraverso la pragmatica Zentharim, e sottilmente la incoraggia. Le missioni Zentharim M1-M3 erodono gradualmente i principi assoluti di Friedrich. M4 (assassinio Skeemo Weirdbottle) è il breaking point dove il voto si spezza, portandolo verso il sottoclass Oathbreaker tra i L3-L4.
+**[NOTA DM — riservata]** Aldric *è Asmodeo sotto forma mortale*. Mantiene il pretesto di mentore umano. Osserva silenziosamente la rottura morale di Friedrich attraverso la pragmatica Zentharim, e sottilmente la incoraggia. Le missioni Zentharim M1-M3 erodono gradualmente i principi assoluti di Friedrich. M4 (La Sentenza di Tyr — il processo contro Vosk, con il simulacro di Manshoon che sovverte la giustizia nell'aula stessa) è il breaking point dove il voto si spezza, portandolo verso il sottoclass Oathbreaker tra i L3-L4.
 
 ---
 
@@ -522,7 +537,7 @@ Nient'altro. Solo quella frase. Friedrich la sentirà risuonare dopo.
 | Aldric | Friedrich | Visita al manor | **Friedrich:** Aldric è Asmodeo (segreto DM) — guida verso Oathbreaker | Mellifluo |
 
 ### XP / Milestone
-- **Milestone:** Completamento Cap. 2 → Lv 2 (da dare a inizio sessione o già dato a fine S3)
+- **Milestone:** Completamento Cap. 1 → Lv 2 (milestone già avvenuto in S3; prossimo: Lv 3 al completamento Cap. 2)
 - **XP tracciato:** Non applicabile (milestone campaign)
 
 ### Thread Narrativi Aperti
@@ -531,7 +546,7 @@ Nient'altro. Solo quella frase. Friedrich la sentirà risuonare dopo.
 - **Esplosione:** Chi ha causato l'esplosione? Perché?
 - **Meloon Wardragon:** Chi è davvero? Che ruolo ha nei Cassalanters?
 - **Krebbyg Masq'il'yr:** Chi è? Perché ha lanciato l'incantesimo?
-- **Filo Zentharim M1:** Sparizioni di marinai nel Dock Ward — proteggere Heldar, identificare Soluun Xibrindas
+- **Filo Zentharim M1:** Sparizioni di marinai nel Dock Ward — proteggere Heldar, identificare Soluun Xibrindas; **Arco Krauser:** Edran Voss tra le vittime — primo filo verso Vosk
 - **Filo Force Grey M1:** Indagine su carico al porto, lista Cassalanters, presagio di Hlam
 - **Filo Arpisti M1:** Sorveglianza su Davil Starsong e Yagra via cavalla Maxeene
 
@@ -539,8 +554,8 @@ Nient'altro. Solo quella frase. Friedrich la sentirà risuonare dopo.
 - **Vorador (Brottor Deepdelver):** Voci su Brottor nel Quartiere Nord — indagini su "attività non autorizzate in zone sotterranee". File classificato. [T2, T5, T6, Arpisti M1, Force Grey M1]
 - **Razak (Presagio di Hlam):** Il presagio "sangue innocente sarà versato nel Giorno dei Fondatori" — indizi in Tally, Vajra, Valantajar. [T2, Force Grey M1, T5]
 - **Aelar (Nilshai/Trobbio):** Nilshai cercano varchi — segni nel Quartiere Nord. Trobbio è un arcifata imprevedibile. [T2, T4, Arpisti M1]
-- **Scintilla (Rennis Coalsworth):** Componenti rari tagliati fuori dal mercato. Rennis è scomparso. [T2, T3, T4, T6, Zentharim M1]
-- **Friedrich (Aldric/Oathbreaker):** Aldric è Asmodeo (segreto DM). Preparazione per breaking point verso Oathbreaker. [T2, T3, T4, T5, T6, Zentharim M1]
+- **Scintilla (Rennis Coalsworth):** Componenti rari tagliati fuori dal mercato. Rennis è scomparso. Progressione arco Zentharim: M1 (nome Manshoon emerge dal drow), M2 (riconosce la firma chimica di Rennis nelle pozioni di Skeemo — automatico), M3 (Sezione B dei documenti di Dasher). [T2, T3, T4, T6, Zentharim M1–M3]
+- **Friedrich / Krauser (Aldric/Oathbreaker + Vosk):** Due archi paralleli convergenti: Aldric erode i principi verso Oathbreaker (segreto DM); M1 Zentharim introduce Edran Voss e il nome di Vosk — questline personale che culmina in M4 (processo contro Vosk). [T2, T3, T4, T5, T6, Zentharim M1–M4]
 - **Barnabus (Urstul Floxin):** Urstul Floxin alle Kolat Towers — indagine sulle sparizioni al porto. [T2, T3, T4, T5, T6, Arpisti M1, Force Grey M1, Zentharim M1]
 
 ---
@@ -574,8 +589,8 @@ La struttura è coerente con `dm-notes-sessione-01.md`:
 **Stato:** ✅ CORRETTA  
 - **Apertura:** Il SETUP INIZIALE riprende correttamente da dove si è fermata la S3 (post-contatti fazione, manor a Trollskull Alley)
 - **PNG:** I PNG che compaiono hanno atteggiamenti coerenti con la S3 (Tally, Embric, Avi, Fala, Rishaal sono già stati incontrati in S3)
-- **Livello party:** Il livello indicato nell'header è Lv 1 — **CORRETTO** rispetto a `party.md`
-- **XP:** Gli XP accumulati corrispondono a quelli in `party.md` (50 XP verso L2)
+- **Livello party:** Il livello indicato nell'header è Lv 2 — **CORRETTO**: il level-up è avvenuto in S3 (trigger: completamento Cap. 1, salvataggio Floon). `party.md` risultava fermo a S1 e non era attendibile come fonte.
+- **XP:** Sistema milestone — Lv 2 confermato in S3, prossimo Lv 3 al completamento Cap. 2
 - **Plot hook:** I thread narrativi lasciati aperti nella S3 trovano seguito (contatti fazione, esplosione)
 - **Oggetti/risorse:** Il manor è stato acquisito in S3, il party ha i contatti fazione — coerente
 
@@ -602,10 +617,12 @@ La checklist include tutti i file che dovranno essere aggiornati dopo questa ses
 
 ## 📋 Correzioni Applicate
 
-### 1. Livello Party — ERRORE CRITICO
-**Problema:** Il file indica che il party è Lv 2, ma `party.md` indica Lv 1 (50/300 XP verso L2).
+### 1. Livello Party — REVERSIONE CORREZIONE
+**Problema originale:** Una revisione precedente aveva abbassato il livello a Lv 1 basandosi su `party.md`, ma `party.md` non era aggiornato dalla S1 e non era attendibile.
 
-**Correzione:** Aggiornato l'header per indicare **Party Lv 1** e aggiunto XP accumulati.
+**Stato corretto:** Il level-up da Lv 1 a Lv 2 è il milestone per il completamento del Cap. 1 (salvataggio Floon). `dm-notes-sessione-03.md` prevedeva il trigger esplicito "Al ritorno al Portale Spalancato con Floon" e `recap-sessione-03.md` conferma "Nessuna deviazione". Il party è **Lv 2** all'inizio di S4.
+
+**Correzione:** Ripristinato **Party Lv 2**; aggiornati header, XP e milestone di conseguenza.
 
 ### 2. Esplosione — ERRORE NARRATIVO
 **Problema:** Il testo read-aloud indica che l'esplosione colpisce la bottega di Tally nel vicolo, ma `Dragon Heist.md` indica che l'esplosione colpisce la **casa di House Gralhund** nel quartiere Sea Ward.
@@ -622,10 +639,10 @@ La checklist include tutti i file che dovranno essere aggiornati dopo questa ses
 
 **Correzione:** Aggiornato il ruolo di Krebbyg a "Agente di Bregan D'aerthe (drow)".
 
-### 5. XP / Milestone — ERRORE CRITICO
-**Problema:** Il file indica un milestone per Lv 3, ma il party è Lv 1.
+### 5. XP / Milestone — CORREZIONE
+**Problema:** Il file indicava un milestone per Lv 3.
 
-**Correzione:** Aggiornato il recap per indicare **Milestone: Completamento Cap. 2 → Lv 2**.
+**Correzione:** Il milestone corretto è **Completamento Cap. 1 → Lv 2** (già avvenuto in S3). Il prossimo milestone in questa sessione è Lv 3 al completamento Cap. 2.
 
 ---
 

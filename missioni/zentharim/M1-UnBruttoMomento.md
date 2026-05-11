@@ -12,6 +12,28 @@
 
 ---
 
+## 🔥 Modifica Narrativa — Arco Krauser & Scintilla
+
+**Protagonista principale: Krauser | Ruolo attivo: Scintilla | Livello: 2–3**
+
+**La vittima riconosciuta:**
+Tra i tre marinai decapitati c'è **Edran Voss**, mezzuelfo. Krauser lo riconosce: era uno dei commilitoni inviati nella Shadowfell, creduto morto nell'imboscata. Era sopravvissuto, era fuggito con un frammento di prova contro **Vosk**, e qualcuno lo ha trovato prima che potesse parlare.
+
+Quando Krauser identifica il corpo, capisce due cose in un colpo: Vosk sta ancora ripulendo le prove, e lui è probabilmente il prossimo sulla lista.
+
+**Il ruolo di Scintilla:**
+Scintilla conosce i canali del mercato nero del porto. Può identificare il drow assassino attraverso i suoi contatti — senza di lei il gruppo brancolherebbe nel buio. L'indagine è impossibile senza questa collaborazione.
+
+**La scena conclusiva:**
+Il drow viene fermato. Prima di essere neutralizzato o fuggire, mormora:
+> *"Vosk paga bene. Manshoon paga meglio."*
+
+È il primo filo che collega i due villain. Né Krauser né Scintilla conoscono ancora il nome di Manshoon.
+
+**Nota DM — riservata:** Il drow non lavora per Manshoon direttamente — lavora per Vosk, ma sa chi finanzia Vosk. La battuta è autentica, non un depistaggio. Questa missione è il primo contatto formale con Davil Starsong per entrambi i PG.
+
+---
+
 ## 🎯 Obiettivi
 
 1. **Incontrare Davil Starsong** al Portale Sbadigliante
@@ -38,7 +60,8 @@
 |-----|-------|------|
 | **Davil Starsong** | Referente Zhentarim | Pragmatico, niente sentimenti |
 | **Heldar** | Marinaio mezzelfo (bersaglio) | 50 anni, brillo, coraggioso fino alla temerarietà |
-| **L'Assassino Drow** | Nemico | Non è identificato inizialmente |
+| **Edran Voss** | Vittima riconosciuta da Krauser | Commilitone della Shadowfell, creduto morto; portava prove contro Vosk |
+| **L'Assassino Drow** | Sicario di Vosk | Assoldato da Vosk tramite intermediari; conosce anche il nome di Manshoon |
 | **Richard Charleston** | Gestore Muleskull | Cooperativo, nervoso |
 
 ---
@@ -64,11 +87,20 @@ Tre marinai elfi/mezzelfi, **tutti decapitati** di notte nei magazzini. Schema c
 - **Reazione agli avvertimenti:** "Haha, non mi importa. Ho combattuto per decenni."
 - **Meccanica:** Se ignorato, muore al tramonto (`orso). Se protetto, diventa alleato for future qmissioni
 
+### Edran Voss — La Vittima Chiave
+Tra le tre vittime c'è Edran Voss, mezzuelfo, commilitone di Krauser nella Shadowfell. Creduto morto nell'imboscata, era sopravvissuto con un frammento di prova contro Vosk. Qualcuno lo ha trovato prima che potesse parlare.
+
+**Cosa dice il corpo a Krauser:** Vosk sta ancora eliminando testimoni. Krauser potrebbe essere il prossimo.
+
 ### L'Assassino Drow
-- **Identità:** Agente di Manshoon o rivale Zhentarim non spiegato
+- **Identità:** Sicario assoldato da Vosk — sa con chi lavora, sa anche chi finanzia Vosk
+- **Parole finali:** *"Vosk paga bene. Manshoon paga meglio."*
 - **Tattica:** Colpi veloci di notte, evita combattimenti diurni
 - **Sfida:** Combattente competente (Lv 3-4)
 - **Armi:** Scimitarre, veleno, incantesimi minori
+
+### Il Contributo di Scintilla
+Senza i contatti di Scintilla nel mercato nero del porto, il drow non viene identificato. Lei conosce i canali giusti — una prova al gruppo che la collaborazione tra i due PG ha valore pratico immediato.
 
 ---
 
@@ -107,8 +139,10 @@ Tre marinai elfi/mezzelfi, **tutti decapitati** di notte nei magazzini. Schema c
 ## 🔗 Connessioni
 
 - **Collegate a:** [Zentharim M2](M2-TieniIlResto.md), [M3](M3-CorriDasher.md), [M4](M4-SangueDeiPatto.md)
-- **Introduce:** Assassini professionisti in Waterdeep (minaccia ricorrente)
+- **Introduce:** Il nome di **Vosk** come mandante — primo filo della questline personale di Krauser
+- **Introduce:** Il nome di **Manshoon** — ancora sconosciuto al party, ma già presente in ombra
 - **Rivela:** Vulnerabilità Zhentarim nel porto
+- **Arco PG:** [Arco Krauser & Scintilla](../../fonti/personaggi/Arco_Krauser_Scintilla.md) — Missione 1
 - **Fazione:** [Zhentarim](../../Campagna/fazioni.md#zhentarim)
 
 ---

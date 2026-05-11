@@ -12,6 +12,26 @@ Un **serpente volante** porta un messaggio notturno: ritirare pozioni da un alch
 
 ---
 
+## 🔥 Modifica Narrativa — Arco Krauser & Scintilla
+
+**Protagonista principale: Scintilla | Ruolo attivo: Krauser | Livello: 3**
+
+**Il riconoscimento di Scintilla:**
+Quando Scintilla esamina le pozioni — è un'artificiera, i componenti chimici non le sono estranei — la firma chimica la blocca. Questi composti sono identici a materiali che **Rennis Coalsworth** ordinava periodicamente tramite i suoi contatti zhentarim. Non è una coincidenza: Rennis lavorava per Skeemo, o per chi sta sopra Skeemo. La commessa che lo ha fatto sparire passa attraverso questa catena.
+
+**Il riconoscimento di Krauser:**
+Durante il trasporto, Krauser nota il **sigillo di Vosk** sulla confezione — lo stesso stemma sull'ordine di missione che lo mandò nella Shadowfell. I due PG si guardano: le loro storie si stanno intrecciando per la prima volta.
+
+**Il dilemma morale reale:**
+La destinataria non sa cosa sta ricevendo. Non esiste un'uscita pulita:
+- **Consegnare** = ucciderla consapevolmente
+- **Non consegnare** = tradire la prima missione seria con gli Zhentarim
+- **Trovare una via di mezzo** = rischiare di esporsi a Vosk o a Skeemo
+
+**Nota DM — riservata:** Skeemo non è un alchimista compiacente — sa esattamente cosa c'è in quelle pozioni e lavora per Manshoon. Il riconoscimento della firma di Rennis è la prima prova concreta che Rennis era coinvolto in questa rete prima di sparire. Skeemo è un nodo cruciale della rete: non eliminarlo ancora.
+
+---
+
 ## 🎯 Obiettivi
 
 1. **Ricevere il messaggio** dal serpente volante
@@ -59,8 +79,16 @@ Un **serpente volante** (magico, non biologico) deposita una pergamena:
 ### Le Pozioni Velenate
 - **Etichetta:** "Pozioni di Lettura del Pensiero" 
 - **Realtà:** Contengono un veleno raro che induce morte dopo 2d4 ore
-- **Rilevazione:** Arcana CD 13 per riconoscere il veleno; Alchimia CD 14 per analizzare i componenti
+- **Rilevazione (Scintilla):** Riconosce automaticamente la firma chimica di Rennis Coalsworth — non serve tiro. Sa subito che Rennis era coinvolto in questa catena.
+- **Rilevazione (altri PG):** Arcana CD 13 per riconoscere il veleno; Alchimia CD 14 per analizzare i componenti
 - **Rimedi:** Contraddio Magico, Neutralizza Veleno, o antidoto raro
+
+### Il Sigillo di Vosk
+Sulla confezione c'è un sigillo — uno stemma nobile con una bilancia stilizzata. Krauser lo riconosce: è lo stesso sigillo sull'ordine di missione che lo mandò nella Shadowfell.
+
+**Rilevazione:** Automatica per Krauser. Per gli altri PG: Storia CD 13 per identificarlo come sigillo di Vosk, magistrato del Quartiere del Castello.
+
+Questo è il momento in cui le storie dei due PG si toccano concretamente per la prima volta.
 
 ### Esvele Rosznar — "La Vipera Nera"
 - **Leggenda:** Ladra nostra dagli inseguimenti di Waterdeep per *decenni*, creduta morta
@@ -107,9 +135,11 @@ Un **serpente volante** (magico, non biologico) deposita una pergamena:
 ## 🔗 Connessioni
 
 - **Collegate a:** [Zentharim M1](M1-UnBruttoMomento.md), [M3](M3-CorriDasher.md), [M4](M4-SangueDeiPatto.md)
-- **Introduce:** [Skeemo Weirdbottle](../../Campagna/png-incontrati.md) (traditore di rilievo)
+- **Introduce:** [Skeemo Weirdbottle](../../Campagna/png-incontrati.md) — nodo della rete Rennis/Manshoon; non eliminarlo ora
 - **Introduce:** [Esvele Rosznar — La Vipera Nera](../../Campagna/png-incontrati.md)
-- **Rivela:** Manshoon come nemico minore, intrighi Zhentarim vs Manshoon
+- **Rivela:** Sigillo di Vosk sulla confezione — primo collegamento visivo tra le due questline
+- **Rivela:** Rennis Coalsworth era nella catena di distribuzione di Skeemo prima di sparire
+- **Arco PG:** [Arco Krauser & Scintilla](../../fonti/personaggi/Arco_Krauser_Scintilla.md) — Missione 2
 - **Fazione:** [Zhentarim](../../Campagna/fazioni.md#zhentarim)
 
 ---

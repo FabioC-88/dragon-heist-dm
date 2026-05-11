@@ -74,11 +74,12 @@ Referente: **Davil Starsong**
 
 ### Note per il DM — Zentharim
 
-- **M1** si svolge nel Dock Ward (Ship Street, Muleskull Tavern) — atmosfera notturna, porto, freddo; ideale per il BG di Barnabus Reed quando Silvia è presente
-- **M2** introduce **Skeemo Weirdbottle** che torna come obiettivo nella M4 — assicurati che il party lo ricordi
-- **M3** coinvolge la famiglia **Snobeedle** (Southern Ward) e il loro "segreto del morso" — tono più investigativo e umano
-- **M4** è la missione più violenta e definitiva del ciclo; collegamento con **Kolat Towers** e Manshoon (importante se stai pianificando filo secondario invernale)
+- **M1** si svolge nel Dock Ward (Ship Street, Muleskull Tavern) — atmosfera notturna, porto, freddo; ideale per il BG di Barnabus Reed quando Silvia è presente. **Arco Krauser & Scintilla:** tra le vittime c'è Edran Voss (commilitone di Krauser); il drow rivela: *"Vosk paga bene. Manshoon paga meglio."*
+- **M2** introduce **Skeemo Weirdbottle** come nodo della rete Rennis/Manshoon — non eliminarlo, serve per l'arco. **Arco:** Scintilla riconosce la firma chimica di Rennis; Krauser riconosce il sigillo di Vosk sulla confezione.
+- **M3** coinvolge la famiglia **Snobeedle** (Southern Ward) — tono investigativo e umano. **Arco:** Dasher era scrivano di Vosk; porta documenti nascosti (Sezione A per Krauser: prove sulla Shadowfell; Sezione B per Scintilla: registro Rennis/Manshoon).
+- **M4** sostituisce l'assassinio di Skeemo con **"La Sentenza di Tyr"** — il processo contro Vosk, l'intervento del simulacro di Manshoon, e la porta verso le **Kolat Towers** (dungeon conclusivo dell'arco).
 - **ATTENZIONE:** Se Barnabus (Silvia) è presente alle missioni Zhentarim, è narrativamente in conflitto — gestire la tensione in modo intenzionale
+- **Arco completo:** [Arco Krauser & Scintilla](../fonti/personaggi/Arco_Krauser_Scintilla.md)
 
 ---
 
