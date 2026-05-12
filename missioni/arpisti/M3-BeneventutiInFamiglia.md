@@ -35,7 +35,7 @@ Gli Arpisti hanno individuato una **banda di doppelganger** operante nelle ombre
 |------|---------|---------|
 | **Mattrim "Tre Corde" Mereg** | Trovatore Arpista | Tres corde extra sul liuto; allegro, diretto |
 | **Bonnie** | Leader doppelganger (I Mutaforma) | Intelligente, carismatica, potenzialmente alleabile |
-| **Slane** | Doppelganger violento | Precedenti di violenza; diffida di chiunque |
+| **Slane** | Doppelganger instabile | Precedenti di violenza; diffida di chiunque. Nell'ultimo mese ha sogni ricorrenti di un luogo che non ha mai visitato — ne parla poco e malvolentieri |
 | **Voss** | Doppelganger | Misterioso, pochi dettagli |
 
 ---
@@ -77,6 +77,26 @@ Se il party tira **Spada/Magia**, i doppelganger svaniscono — missione fallisc
 **Colpo di Scena:** Mattrim ha una simpatia personale per Bonnie (Intuizione CD 14 rivela questo).
 
 **Morale:** La missione è un esame di carattere del party — quanto bene riescono a giudicare quando stare con i "mostri"?
+
+---
+
+## 🌟 Gancio Aelar — Slane, i Sogni e il Cliente Rifiutato
+
+Se il party costruisce abbastanza fiducia con i Mutaforma prima del tiro di Persuasione su Bonnie, Aelar può chiedere a Slane dei sogni. Slane descrive, a fatica:
+
+> *"Un posto che non conosco. Alberi che sembrano fatti di vetro scuro. Un cielo senza colore. E qualcosa che si rompe, non so cosa — sento il rumore più che vederlo."*
+
+Aelar riconosce Sildëyuir. Nessun altro al tavolo potrebbe saperlo.
+
+I sogni sono iniziati dopo un incontro avvenuto qualche mese fa. Se il party approfondisce, Bonnie racconta:
+
+> *"Un tipo si è presentato. Voleva che trovassimo qualcuno a Waterdeep — dovevamo localizzarlo, capire le sue abitudini, poi portarlo a un 'incontro'. Non ci ha detto con chi. Non ci ha spiegato perché non poteva parlare lui stesso con questa persona. Quando abbiamo fatto domande, si è messo a ridere. Non in modo nervoso — in modo divertito, come se la domanda fosse ovviamente sbagliata. Slane ha cominciato ad avere quei sogni la notte dopo che lo aveva incontrato. Abbiamo detto no."*
+
+**Nota DM:**
+
+> Non nominare Trobbio. Non confermare né smentire nulla — lasciare che Berto colleghi i puntini da solo: rifiuto delle domande dirette, divertimento evasivo, sogni di Sildëyuir che partono dopo il contatto, incarico di localizzare qualcuno. È più che sufficiente.
+>
+> Bec, se presente nella scena, gira lentamente la testa verso Aelar e dice: *"Meeep."* Tono piatto. È la prima volta che lo dice così.
 
 ---
 

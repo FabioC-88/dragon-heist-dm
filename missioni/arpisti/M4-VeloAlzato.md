@@ -12,6 +12,16 @@ Gli Arpisti sospettano che la nave **Eyecatcher** e il suo misterioso capitano *
 
 ---
 
+## 🌟 Briefing Privato di Remallia — Solo Aelar
+
+Prima di riunire il gruppo, Remallia chiede di parlare con Aelar da solo. Ha intercettato comunicazioni di Jarlaxle che menzionano "ricerche planari" e "instabilità lungo la Sword Coast" — non capisce il contesto, ma lo ha scelto per questa missione *anche* per il suo background planare, non solo perché è un Arpista.
+
+> *"Se c'è qualcosa che non mi hai detto e che potrebbe essere rilevante a quello che troveremo su quella nave, Aelar — adesso è il momento."*
+
+Cosa rivela Aelar è una scelta del giocatore. Non ci sono conseguenze immediate in un senso o nell'altro — ma conta per il finale.
+
+---
+
 ## 🎯 Obiettivi
 
 1. **Ricevere il briefing** da Mirt / Remallia Haventree
@@ -79,6 +89,18 @@ Gli Arpisti sospettano che la nave **Eyecatcher** e il suo misterioso capitano *
 **Scarlet Marpenoth** (sotto):
 - **U4 — Baule di Jarlaxle:** Documenti con prove (Lucchetto CD 14 oppure lucchetto a combinazione)
 
+#### Contenuto specifico del baule — gancio Aelar
+
+Tra i documenti normali (prove di traffici drow, corrispondenza con Luskan), ci sono due fogli che nessun altro membro del party saprebbe contestualizzare:
+
+**Documento A — Mappa planare parziale:** Una mappa di Faerûn segnata con punti in inchiostro dorato — *"instabilità planari confermate."* Uno dei punti cade nel Mar del Nord, nella posizione approssimativa di Sildëyuir rispetto al piano materiale. Accanto al punto: *"Fonte: T. Verifica: in corso."*
+
+**Documento B — Lettera in alto elfico, firmata "T.":** Gli altri membri del party non la leggono senza un incantesimo. Tono elegante, quasi teatrale:
+
+> *"Caro capitano, il soggetto si avvicina a voi più velocemente di quanto avessi previsto — è tanto puntuale quanto inconsapevole. La breccia che porta con sé è reale e documentabile. Usatela pure come leva: non è mia, appartiene a lui. Io mi limito a osservare. — T."*
+
+**Nota DM:** Aelar la legge da solo. Trobbio ha usato la sua colpa come moneta di scambio con Jarlaxle. Il patto non firmato era già in corso — senza che Aelar lo sapesse.
+
 ---
 
 ## ⚙️ Tiri e Prove
@@ -102,6 +124,18 @@ Gli Arpisti sospettano che la nave **Eyecatcher** e il suo misterioso capitano *
 - Zelifarn (il drago di bronzo di M2) riappare come alleato segreto
 - I documenti rivelano connessioni a nemici più grandi (Luskan, drow)
 - L'oggetto sotto la chiglia è un **arma lantaniana** o **sommergibile** — implicazioni politiche enormi
+- Il baule di Jarlaxle contiene documenti che rivelano ad Aelar che Trobbio lo stava manovrando da mesi
+
+**Apparizione di Trobbio — momento opzionale:**
+
+Mentre Aelar sta leggendo il documento B, Trobbio si materializza nella Scarlet Marpenoth — rosa shocking contro l'acciaio grigio del sommergibile, cappello da capitano messo storto. Rimane dieci secondi esatti.
+
+> *"Ah, l'hai trovata. Speravo fossi tu e non uno degli altri — sarebbe stato difficile da spiegare. Non preoccuparti, il capitano non sa ancora che sei qui. Non ancora."*
+> Gira i tacchi. *"Buona lettura."*
+
+Scompare. Bec non dice nulla. È la prima volta.
+
+**Nota DM:** Non è combattimento, non è negoziabile. È solo la conferma che Trobbio sa tutto, e che ora Aelar sa che Trobbio sa. Il patto non firmato può diventare reale quando Berto decide di farlo — adesso ha tutte le informazioni.
 
 ---
 

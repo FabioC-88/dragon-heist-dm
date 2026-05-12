@@ -90,6 +90,22 @@ Il Gazer vola; il gruppo deve raggiungere il soffitto o usare incantesimi a dist
 
 ---
 
+## 🌟 Gancio Aelar — Il Tomo del Terzo Piano
+
+Al terzo piano della libreria (accesso ristretto, scala a chiocciola dietro uno scaffale girevole) c'è un tomo raro intitolato *"Sigilli del Vuoto: Tecniche di Contenimento per Piani Minacciati"*, compilato da un sapiente di Sildëyuir. Era qui da anni, quasi dimenticato da Uza stessa.
+
+**Il Gazer lo stava consumando.** Le aberrazioni si nutrono di conoscenza arcana planare — non come metafora, ma letteralmente: le ultime pagine sono corrose, bruciate dall'interno.
+
+**Nota DM — solo se Aelar è presente:**
+
+> La prima volta che Aelar avvista il Gazer, chiedigli un tiro Saggezza CD 12. **Se fallisce:** riconosce la vibrazione — la stessa sensazione planare sbagliata del giorno in cui il Nilshai passò attraverso il sigillo a Sildëyuir. Perde la prima azione, sopraffatto dal flash di memoria. **Se supera:** la riconosce ugualmente, ma mantiene la lucidità.
+>
+> Se il party esamina il tomo dopo la battaglia, le ultime 20 pagine sono quasi illeggibili. Si legge ancora il titolo di un capitolo: *"Brecce auto-amplificanti: perché un sigillo rotto tende ad allargarsi."* Solo Aelar sa perché quel titolo gli toglie il fiato.
+>
+> Non è necessario che Aelar condivida questa reazione con il gruppo.
+
+---
+
 ## 🏆 Ricompense
 
 - **Oro:** 75 mo per membro (Uza paga bene)
