@@ -64,7 +64,7 @@ Un **giovane drago di bronzo** si è insediato nel Porto Navale e ha spaventato 
 ### Il Relitto
 Nascondiglio di Zelifarn. Tre camere principali:
 - **Camera 1:** Ingresso, macerie, tesoro sparso
-- **Camera 2:** Zona letture (Zelifarn) — biblioteca marina
+- **Camera 2:** Zona letture (Zelifarn) — biblioteca marina. **[Vorador]** In un angolo nascosta tra i detriti c'è una **borsa impermeabile in cuoio grezzo con rune naneschi** — attrezzatura da campo di Brottor Deepdelver. Contenuto: un quaderno da campo parzialmente danneggiato dall'acqua (leggibile al 60%), uno schizzo incompiuto di una silhouette con tentacoli (riconoscibile come Mind Flayer con Arcana CD 14), una nota in nano (*"Non è un culto. È una rete. La creatura non prende — prende IN PRESTITO. Torna a prendere."*), e un medaglione dell'Ordine con l'iniziale "B".
 - **Camera 3:** Tesoreria — oggetti di valore, includering una corona dorata (importante per Force Grey M4!)
 
 ### Negoziazione con Zelifarn
@@ -72,6 +72,12 @@ Zelifarn è **razionale e parla**:
 - Non è ostile al party — è curioso di loro
 - Spiega che è fuggito da una calamità più grande (hint: Xanathar)
 - Propone alleanza: "Proteggimi dai vostri nemici, vi proteggerò dai miei"
+
+**[Vorador — a due livelli]** Una volta stabilito un rapporto cordiale, Zelifarn menziona quasi di sfuggita: *"Ho osservato queste acque per mesi. Alcune settimane fa ho visto qualcosa che non quadrava — trascinato in profondità, verso il fondo est, dove le rocce diventano gallerie. Era basso e robusto, con una barba lunga. Gridava in una lingua che suona come roccia che si frantuma."*
+
+Se Vorador chiede esplicitamente (Persuasione CD 11, o anche solo *"hai visto qualcosa di distintivo su di lui?"*), Zelifarn aggiunge: *"Portava qualcosa al collo — un disco di metallo con simboli. Brillava di luce propria, piccola, come una lanterna stanca. E sulle mani: tatuaggi di rune naneschi, lo stesso stile di certi testi che conservo nel relitto."*
+
+> **Nota DM:** Se il party è distratto e non fa seguiti, gioca la seconda versione come nota a margine del congedo: *"Ah — vi ricordo della creatura di pietra. Se è vostro amico, cercatelo in fondo. Est."*
 
 ---
 

@@ -79,6 +79,7 @@ I cultisti Asmodeo non sono mostri — sono **persone comuni** con una fede aber
 - Una dei cultisti è qualcuno che il party riconosce (PG trama parallela?)
 - La lista contiene il nome **Victoro o Ammalia Cassalanter** — primo indizio del main villain
 - Orvyn muore eroicamente proteggendo la lista (o il party lo salva in extremis)
+- **[Vorador]** Tra i documenti di carico recuperati nell'imboscata, Vorador nota una pagina strappata con il **sigillo classificato dell'Ordine Vigilante** e un numero di protocollo — lo stesso formato dei rapporti di Brottor. Il documento è parziale e bruciacchiato ai bordi (qualcuno ha tentato di distruggerlo). Leggibile: *"…soggetti: 7 civili, District III, Dock Ward. Sintomatologia: lacune mnestiche, incubi frammentati, lingua non identificata. Connessione cultuale: status → CLASSIFICATO. Firma: B.D."* — Non spiegare nulla. Lascia che Seba faccia 2+2 da solo nelle missioni successive.
 
 ---
 

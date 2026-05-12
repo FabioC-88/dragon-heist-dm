@@ -21,6 +21,7 @@
 5. **Distruggere la camera dei Divoratori** — evitare ulteriori parapositi
 6. **Fuggire dal covo** prima del collasso o ritorno di Xanathar
 7. **Riferire a Vajra** della vittoria
+8. *(Opzionale)* **[Vorador] Liberare il prigioniero** nella camera di detenzione adiacente alla camera dei Divoratori
 
 ---
 
@@ -29,6 +30,7 @@
 - **Strade di Waterdeep** — agguato iniziale
 - **Covo di Xanathar** — sottomarino/caverna acquatica nel porto profondo
 - **Antri di Nihiloor** — santuario del Mind Flayer, chamber dei Divoratori
+- **[Vorador] Camera di Detenzione** — cella in pietra adiacente alla camera dei Divoratori. Una grata di ferro rinforzata psichicamente (CD 15 Forza per sfondarla, o CD 13 Indagare per trovare il meccanismo di apertura nascosto nel muro). È qui che si trova Brottor Deepdelver.
 
 **Nota DM:** Il layout esatto del covo è nel Capitolo 6 di WDH. Questo modulo fornisce il contesto narrativo e il boss di Nihiloor personalizzato.
 
@@ -41,6 +43,17 @@
 | **Nihiloor** | Mind Flayer boss | Gilda di Xanathar |
 | **Divoratore di Intelletto** | Agguato iniziale | Prodotto di Nihiloor |
 | **Xanathar** | Beholder capo | Gilda (assente in missione) |
+| **Brottor Deepdelver** *(opzionale)* | Prigioniero — mentore di Vorador | Ordine Vigilante / Force Grey |
+
+### Brottor Deepdelver — stato di prigionia
+- Nano, ~180 anni. Capelli bianchi (erano grigi-castani prima della prigionia). Occhi affaticati, segni fisici di interrogatori psichici ripetuti.
+- **PF attuali:** 12 su 45 (non combatte — è troppo debole)
+- **Mentalmente intatto:** Ha resistito alle "interviste" di Nihiloor fornendo mezze verità e informazioni deliberatamente sbagliate. Sta tenendo il conto dei giorni incidendo segni sulla pietra della cella.
+- **Dialogo all'apertura della cella:** *"Sapevo che saresti venuto. Ho rallentato il processo il più a lungo possibile — gli ho dato tutto sbagliato. Quando sentivo che stava per sfondare, gli raccontavo di Dendar in modo che si perdesse nei dettagli."*
+- **Riconoscimento di Vorador:** Usa un dettaglio specifico di addestramento (es.: *"Stai usando la seconda forma del sigillo difensivo. Ti avevo detto che la prima è meglio nei corridoi stretti."*)
+- **Confessione:** *"Ho classificato il caso per proteggere te. Il nome di Dendar è un bersaglio nell'Ordine. Avevo torto — avrei dovuto fidarmi di te."*
+
+> **Nota DM — dopo M4:** Brottor è vivo ma cambiato. È più silenzioso, più cauto. Le "interviste" di Nihiloor hanno lasciato tracce che non si vedono subito. Non è rotto — ma non è più del tutto quello di prima. Materiale per archi futuri.
 
 ---
 
@@ -135,6 +148,7 @@ Localizzazione Magica, scry su Nihiloor (CD 15 Arcana), o contatto con un Arcima
 - **Fama Force Grey:** +5 (vittoria finale)
 - **Loot:** Artefatti Mind Flayer, libri di magia oscura, componenti rare
 - **Narrative Consequence:** Il covo di Xanathar è compromesso — implicazioni politiche enormi per il Capitolo 5
+- **Bonus (se Brottor liberato):** +50 mo per membro (fondi convalescenza), +1 Fama Force Grey aggiuntiva, e Brottor sopravvive all'arco come PNG attivo
 
 ---
 

@@ -57,11 +57,20 @@
 - Il Divoratore tenta di "controllare" Meloon ma Meloon resiste
 - **Prove:** Arcana CD 13 per riconoscere Deep Speech; Intuizione CD 14 per capire il conflitto interno
 - **Scoperta Cruciale:** Meloon non è completamente posseduto — esiste ancora dentro di lui
+- **[Vorador — Il Riconoscimento]** Quando Vorador sente le cadenze del Deep Speech, le riconosce. Sono le stesse che Brottor gli aveva trascritto nel quaderno da campo (se recuperato in M2) — o, anche senza il quaderno, pattern che Brottor gli aveva descritto verbalmente durante la formazione: *"Le creature che rubano pensieri parlano così."* Con Arcana CD 13, Vorador capisce che il Divoratore in Meloon è dello stesso tipo che il suo maestro stava investigando prima di scomparire.
 
 **Fase 3 (Giorni 8–10): Decisione**
 - Il Divoratore realizza di essere stato scoperto (se il party è careless)
 - O il party tenta contatto diretto "buonasera Meloon"
 - Finale: Combattimento, negoziazione, o sorpresa (Meloon combatte il Divoratore da solo)
+
+**[Vorador — La Confessione di Vajra]** Quando il party riferisce a Vajra le prove del Divoratore in Meloon, Vorador può confrontarla con il documento trovato in M1 e il quaderno di Brottor (M2). Vajra non può più negare.
+
+> *Vajra appoggia lo Staff of Power e tace per un lungo momento.* "Brottor mi ha inviato il suo ultimo rapporto tre settimane prima di scomparire. Identificava un'entità aberrante che operava nelle acque sottostanti il porto. Ho classificato il caso perché il rapporto citava Dendar — e sapevo che l'Ordine avrebbe sollevato domande su di te, Vorador, se il nome della Divoratrice fosse circolato nelle stanze sbagliate. Ho pensato di proteggervi entrambi tenendo i fili nelle mie mani. Mi sbagliavo."
+
+Vajra rivela che l'ultima posizione nota di Brottor era il Dock Ward. Non sa se sia vivo. Sa che l'entità è quasi certamente Nihiloor — ed è una delle ragioni per cui ha accelerato questa missione.
+
+> **Nota DM:** Questa scena trasforma M4 in una missione personale per Vorador, non solo di fazione. Vajra non sa che Brottor è nel covo — solo il party lo scoprirà.
 
 ### Meloon Wardragon — Statistiche
 **Combattente Esperto di Lv 4:**

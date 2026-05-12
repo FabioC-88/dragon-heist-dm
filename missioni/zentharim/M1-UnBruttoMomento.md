@@ -17,7 +17,7 @@
 **Protagonista principale: Krauser | Ruolo attivo: Scintilla | Livello: 2–3**
 
 **La vittima riconosciuta:**
-Tra i tre marinai decapitati c'è **Edran Voss**, mezzuelfo. Krauser lo riconosce: era uno dei commilitoni inviati nella Shadowfell, creduto morto nell'imboscata. Era sopravvissuto, era fuggito con un frammento di prova contro **Vosk**, e qualcuno lo ha trovato prima che potesse parlare.
+Tra i tre marinai decapitati c'è **Edran Voss**, mezzelfo. Krauser lo riconosce: era uno dei commilitoni inviati nella Shadowfell, creduto morto nell'imboscata. Era sopravvissuto, era fuggito con un frammento di prova contro **Vosk**, e qualcuno lo ha trovato prima che potesse parlare.
 
 Quando Krauser identifica il corpo, capisce due cose in un colpo: Vosk sta ancora ripulendo le prove, e lui è probabilmente il prossimo sulla lista.
 
