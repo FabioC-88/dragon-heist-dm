@@ -1,0 +1,33 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "Bash(Get-ChildItem -Path \"c:\\\\Users\\\\cotta\\\\Documents\\\\Repo\\\\dragon-heist-dm\" -Recurse -File)",
+      "Bash(Select-Object FullName)",
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\cotta\\\\Documents\\\\Repo\\\\dragon-heist-dm\" -Force)",
+      "Bash(Select-Object Name, PSIsContainer)",
+      "Bash(Format-Table -AutoSize)",
+      "Bash(git pull *)",
+      "Bash(Get-ChildItem -Path \"c:\\\\Users\\\\cotta\\\\Documents\\\\Repo\\\\dragon-heist-dm\" -Recurse -Directory)",
+      "Bash(Select-Object -ExpandProperty FullName)",
+      "Bash(Get-Content .\\\\module.json)",
+      "Bash(ConvertFrom-Json)",
+      "Bash(Select-Object version, download)",
+      "Bash(node -e \"const m=require\\('./module.json'\\); console.log\\('version:', m.version, '\\\\ndownload:', m.download\\)\")",
+      "Bash(npm run *)",
+      "PowerShell(gh release view v1.1.11 --json tagName,assets,url | ConvertFrom-Json | Select-Object tagName, url, @{n='assets';e={$_.assets.name}})",
+      "Bash(node -e ' *)",
+      "Bash(gh release *)",
+      "Bash(python3)",
+      "Bash(python3 -c ' *)",
+      "Bash(python -c ' *)",
+      "Skill(git-release)",
+      "Skill(git-release:*)"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\cotta\\.claude\\projects\\c--Users-cotta-Documents-Repo-dragon-heist-dm"
+    ]
+  }
+}

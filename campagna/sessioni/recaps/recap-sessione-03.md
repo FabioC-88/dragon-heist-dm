@@ -29,17 +29,6 @@ Nessuna
 | Renaer Neverember | Amichevole | Accompagnato a casa con Floon |
 | Volo Geddarm | Amichevole | Ha consegnato il contratto di Trollskull Manor |
 | Magistrato Toga Nera | Impassibile | Ha ignorato Friedrich; scena personale innescata |
-| Padre Borin | Neutrale | Accompagnava il Magistrato |
-| Lif (poltergeist) | Accettante | Appeasement riuscito dopo promessa di riaprire la taverna |
-| Tally Fellbranch | Amichevole | Visita al Chiodo Storto |
-| Embric + Avi | Amichevoli | Visita a Vapore e Acciaio |
-| Fala Lefaliir | Amichevole | Visita alla Corona di Corellon |
-| Rishaal | Collegiale | Visita al Tesoro del Wyrm |
-| Vincent Trench (Valantajar) | Misurato | Visita all'Occhio di Tigre |
-| Aldric | Mellifluo | Visita al manor — primo seme narrativo su Friedrich |
-| Mirt (via messaggio) | Ignoto | Uccellino di carta ad Aelar → invito all'opera, M1 Arpisti |
-| Vajra Safahr (via sending) | Formale | Messaggio magico a Razak → Torre del Bastone Nero, M1 Force Grey |
-| Davil Starsong | In valutazione | Serpe alata a Friedrich e Scintilla → M1 Zentharim |
 
 ## Livello e XP
 
@@ -52,17 +41,8 @@ Nessuna
 |----------|---------------------|
 | Trovare Floon Blagmaar | ✅ Completata |
 | Trollskull Manor — ristrutturazione | Aperta |
-| Arpisti M1 — Un Cavallo Donato | Ricevuta |
-| Force Grey M1 — Il Carico del Fondatore | Ricevuta |
-| Zentharim M1 — Un Brutto Momento | Ricevuta |
 
 ## Thread Aperti
 
 - Ristrutturazione del Trollskull Manor: direzione e investimento da decidere
-- Lif: spirito accettante, rimane nel manor
-- Arpisti M1: Aelar deve presentarsi a Mirt all'opera → sorveglianza su Davil/Yagra via Maxeene
-- Force Grey M1: Razak (o Vorador) deve recarsi alla Torre del Bastone Nero → Moli del Salgemma
-- Zentharim M1: Friedrich e Scintilla devono incontrare Davil → proteggere Heldar al porto
 - Friedrich: seme morale piantato da Magistrato Toga Nera e da Aldric; voto ancora integro
-- Scintilla: indizi su Rennis Coalsworth latenti nel vicinato (ancora da raccogliere)
-- Vorador: primo filo su Brottor Deepdelver aperto (voci nel Quartiere Nord)

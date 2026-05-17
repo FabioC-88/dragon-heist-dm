@@ -127,7 +127,7 @@ Il mattino dopo l'arrivo dei contatti fazione, il vicolo si risveglia. Le botteg
 
 **PNG:** Rishaal the Page-Turner — draconico dorato, mago, membro dell'Ordine dei Magisti e Protettori
 
-> Due piani di scaffali che sembrano contenere più libri di quanto la fisica dovrebbe consentire. L'odore di carta vecchia è quasi inebriante. Rishaal è in bilico su una scala mobile, recuperando qualcosa da uno scaffale alto; vi accoglie senza girarsi — *"Con voi tra un momento"* — con il tono di chi conta righe di testo mentre parla.
+> Due piani di scaffali che sembrano contenere più libri di quanto la fisica dovrebbe consentire. L'odore di carta vecchia è quasi inebriante. Rishaal è in bilico su una scala mobile, recuperando qualcosa da uno scaffale alto; vi accoglie senza girarsi — *"Sarò da voi tra un momento"* — con il tono di chi conta righe di testo mentre parla.
 
 **Rishaal + Vorador/Scintilla:** Rishaal è membro dell'Ordine dei Magisti, come Vorador. Riconosce immediatamente il simbolo. È disponibile a fare da tramite con i registri pubblici dell'Ordine — ma non ha accesso ai file riservati.
 
@@ -159,23 +159,20 @@ I contatti arrivano entro **24–72 ore** dall'arrivo al manor. Non tutti nello 
 
 ### Contatto 1 — Arpisti → Aelar
 
-**Come arriva:** Un **uccellino di carta** (origami animato) vola dal tetto e atterra sulla spalla di Aelar
-> [NOTA DM] Mirt opera dalla sua villa nel **Castle Ward** (non nel Dock Ward). L'opera è il pretesto: il vero obiettivo è briefare Aelar su **M1 — Un Cavallo Donato** (sorveglianza su Davil Starsong e Yagra via cavalla Maxeene). Dettagli completi in . — o sul naso del Maestro Bec, a discrezione di Berto. Il biglietto si apre da solo.
+**Come arriva:** Un **uccellino di carta** (origami animato) vola dal tetto e atterra sulla spalla di Aelar. Il foglio si apre da solo.
 
 **Messaggio (leggere ad Aelar):**
 
-> "*Renaer ci ha detto che vale la pena scommettere su di te. Ha comprato i biglietti per tutta la compagnia per questa sera al Teatro Cantante della Luce, nel Quartiere del Mare. Se sei interessato, trovami all'intervallo. Palco Privato C. L'ingresso richiede abbigliamento formale.*"
+> "*Renaer pensa che tu valga la pena. Io tendo a fidarmi del suo giudizio. C'è una giumenta da tiro che lavora in città — la chiamano Maxeene. Conosce le facce degli operativi Zentharim. Trovala, falla parlare, scopri dove si nascondono.*"
 >
 > *— Mirt*
-
-Inclusi nel biglietto: posti per tutti i PG a *La Caduta di Tiamat*, opera in lingua gigante. Mirt li aspetta nel Palco C all'intervallo. Offre formale adesione agli Arpisti e, per chi accetta, la prima missione.
 
 **[Arpisti M1 — Sintesi per DM]**
 > "*Una giumenta da tiro che lavora in città — la chiamano Maxeene — conosce le facce degli operativi Zentharim. Trovala, falla parlare, scopri dove si nascondono.*"
 > Dettagli completi: `missioni/arpisti/M1-UnCavalloDonato.md`
 > Ricompensa: +1 Renown Arpisti.
 
-**[NOTA DM — riservata]** Se Aelar accetta, Mirt li aspetta nel Palco C all'intervallo. Offre formale adesione agli Arpisti e, per chi accetta, la prima missione. La missione M1 richiede 3 notti di sorveglianza ai moli — potrebbe essere una buona occasione per coinvolgere Barnabus (Silvia) se presente.
+**[NOTA DM — riservata]** La missione M1 richiede 3 notti di sorveglianza ai moli — potrebbe essere una buona occasione per coinvolgere Barnabus (Silvia) se presente.
 
 **[NOTA DM — Hook per PG]:**
 - **Aelar (Elfo):** Se Aelar menziona i Nilshai o Sildëyuir, Mirt dice "*I Nilshai... ho sentito dire che qualcuno ha visto segni simili nel Quartiere Nord. Dove viveva Brottor Deepdelver.*" → **Hook attivo su Brottor** (vedi [NOTA DM — Fili Narrativi Riservati]).
@@ -185,24 +182,28 @@ Inclusi nel biglietto: posti per tutti i PG a *La Caduta di Tiamat*, opera in li
 
 ### Contatto 2 — Force Grey → Razak e Vorador
 
-**Come arriva:** Un incantesimo di *messaggio* raggiunge **uno** dei due PG di Force Grey — prima Razak, poi Vorador se il primo rifiuta o non risponde entro un giorno.
+**Come arriva:** Due contatti distinti, in modo diverso:
 
-**Messaggio (leggere al personaggio interessato):**
+- **Vorador (ordini formali):** Un incantesimo di *messaggio* raggiunge Vorador direttamente — in quanto Magister dell'Ordine, lavora già per Vajra. Il tono è di ordine, non di invito. Nelle istruzioni c'è esplicito di portare Razak con sé.
+- **Razak (invito via Vorador):** Non viene contattato direttamente da Vajra. È Vorador a trasmettergli l'invito — Razak può scegliere se presentarsi.
 
-> "*Sono Vajra Safahr, la Verga Nera. Venite subito alla Torre della Verga Nera, nel Quartiere del Castello. Portate i vostri amici.*"
+**Messaggio a Vorador (leggere solo a lui):**
 
-Vajra non si offende se aspettano un giorno. Se rifiutano due volte, non ricontatta il party fino al livello successivo. La Torre della Verga Nera è accademia e fortezza — Vajra offre membership nelle Gray Hands e subito la prima missione.
+> "*Presentati subito alla Torre del Bastone Nero. Porta con te il monaco Razak — ho bisogno di entrambi.*"
+>
+> *— Vajra Safahr, il Bastone Nero*
+
+La Torre del Bastone Nero è accademia e fortezza — Vajra offre membership nelle Gray Hands a Razak e assegna subito la prima missione a entrambi.
 
 **[Force Grey M1 — Sintesi per DM]**
-> "*Cercate Hlam, il monaco che vive in una grotta sul fianco del Monte Waterdeep. Chiedetegli cosa ha sentito delle minacce alla città. Non seccatelo e non trattenetevi troppo.*"
+> "*So che sei stato da Hlam. No so ancora quello che ti ha detto ma vorrei saperlo. Prima però: abbiamo un carico sospetto ai Moli del Salgemma. Reagenti alchemici, quantità anomale, compatibili con il Midnight Tears. C'è un mio informatore lì — un ex contrabbandiere, si chiama Orvyn. Ha la lista dei destinatari. Portatemi quella lista. Poi mi dici cos'ha detto Hlam.*"
 > Dettagli completi: `missioni/forcegrey/M1-IlCaricoDelFondatore.md`
-> Hlam dice: "*Il gemello del male nasconde il suo volto per ora. Aspettatevi che cambi prima della fine dell'inverno.*"
-Ricompensa: +1 Renown Force Grey.
+> Ricompensa: +2 Renown Force Grey + 75 mo a testa.
 
-**[NOTA DM — Razak]:** Razak ha già cercato Hlam prima di entrare in città. Questo incarico gli dà l'occasione di tornare — e di scoprire che il monaco sa qualcosa di più di quanto disse la prima volta.
+**[NOTA DM — Razak]:** Vajra sa già della visita a Hlam — è un arcimaga, ha i suoi canali. Non sa il contenuto del presagio. Quando Razak glielo rivela, lei ascolta in silenzio, poi: *"Giorno dei Fondatori. Midnight Tears. Stesso punto di arrivo."* — e chiude il briefing con urgenza.
 
 **[NOTA DM — Hook per PG]:**
-- **Razak (Presagio):** Se Razak menziona il presagio di Hlam, Vajra dice "*Il Giorno dei Fondatori... senti anche tu quel brivido nell'aria? La città intera è in ansia.*" → **Indizio sul presagio**.
+- **Razak (Presagio):** Vajra chiede attivamente il contenuto del presagio durante o dopo il briefing. È lei a sollevare l'argomento: *"Allora — cos'ha detto Hlam?"*
 - **Vorador (Investigatore):** Se Vorador chiede di Brottor Deepdelver, Vajra dice "*Brottor indagava su "attività non autorizzate in zone sotterranee del Quartiere Nord". File classificato. Ma io ho sentito dire che qualcuno ha tagliato i canali di approvvigionamento.*" → **Hook attivo su Brottor**.
 - **Barnabus (Guardia):** Se Barnabus è presente, Vajra sa che la Guardia ha problemi con gli Zentarim. "*Ho sentito dire che Urstul Floxin è stato visto alle Kolat Towers. Se vuoi incastrarlo, forse è lì che dovresti andare.*" → **Hook attivo:** Barnabus può seguire questo filo, ma non ha prove. [NOTA DM: Kolat Towers è il luogo dove Manshoon tiene Rennis prigioniero — indizio sottile che connette Barnabus alla questline di Scintilla.]
 
@@ -210,13 +211,19 @@ Ricompensa: +1 Renown Force Grey.
 
 ### Contatto 3 — Zentharim → Friedrich e Scintilla
 
-**Come arriva:** Una **serpe alata** di rame atterra sul davanzale del manor di notte. Ha un ritaglio di pergamena avvolto attorno al corpo.
+**Come arriva:** Due **serpi alate** di rame atterrano sul davanzale del manor di notte — una per Friedrich, una per Scintilla. Ciascuna porta un messaggio diverso.
 
-**Messaggio (leggere ai personaggi interessati):**
+**Messaggio a Friedrich (leggere solo a lui):**
 
-> "*Vuoi far parte di qualcosa di grande? Parla con Davil Starsong al Portale Spalancato.*"
+> "*So che hai dei conti in sospeso con un certo Edran Voss. Potremmo aiutarti a chiuderli. Parla con Davil Starsong al Portale Spalancato.*"
 
-Yagra Stonefist li accoglie alla porta e li conduce al tavolo di Davil al centro della sala. Davil — un mezzelfo raffinato, sempre con un bicchiere in mano — li valuta con attenzione e offre formale adesione al Black Network. Poi assegna la prima missione.
+**Messaggio a Scintilla (leggere solo a lei):**
+
+> "*Ho del lavoro ben pagato per qualcuno con le tue mani. Se ti interessa anche sapere che fine ha fatto Rennis Coalsworth, quello lo discutiamo dopo. Parla con Davil Starsong al Portale Spalancato.*"
+
+**[NOTA DM — riservata]** Davil non sa tutto — sa abbastanza. Ha comprato informazioni sui nuovi arrivati al manor. L'obiettivo è far capire a ciascuno che gli Zentharim sono utili *adesso*, non in futuro. Non fa promesse: mostra che è già informato.
+
+Yagra Stonefist li accoglie alla porta e li conduce al tavolo di Davil al centro della sala. Davil — un mezzelfo raffinato, sempre con un bicchiere in mano — non offre discorsi. Offre utilità. Poi assegna la prima missione.
 
 **[Zentharim M1 — Sintesi per DM]**
 > "*Qualcuno sta uccidendo marinai elfi e mezzelfi nel Quartiere del Porto — tre morti, decapitati di notte. Indagate. La Guardia non ne vuol sapere.*"
@@ -235,219 +242,128 @@ Ricompensa: +1 Renown Zentharim + [[/award 50gp]] se Heldar sopravvive.
 
 ---
 
-## FASE 3: L'ESPLOSIONE — Capitolo 3 Inizia (~45 min)
+## FASE 3: LE GILDE — La Burocrazia di Waterdeep (~30 min)
 
-### Innesco Narrativo
+### Contesto
 
-> Il vicolo è silenzioso. Troppo silenzioso. Le finestre sono chiuse, le porte socchiuse. Nessuno è fuori. Anche i bambini hanno smesso di giocare.
->
-> Poi, il suono.
->
-> Un ruggito lontano, come un tuono sotterraneo. Il pavimento trema. I vetri delle finestre tremolano. Poi, un boato assordante — come se il mondo si fosse spacchato in due.
->
-> **L'esplosione.**
->
-> Dal vicino di casa, un grido. Dalla bottega di Tally, un rumore di legno che si spezza. Dalla taverna, il rumore di qualcuno che corre.
->
-> Qualcuno ha fatto esplodere Trollskull Alley.
+La notizia che Trollskull Manor vuole riaprire come taverna si sparge in fretta. Entro uno o due giorni dall'arrivo dei contatti fazione, i rappresentanti delle gilde cominciano a bussare alla porta. Non è opzionale: senza le gilde, il locale non apre.
 
-### Descrizione dell'Esplosione
+**Costi di ristrutturazione (sintesi):**
 
-> Un'esplosione di fuoco e fumo si alza dal quartiere Sea Ward — la casa di House Gralhund. Il tetto è volato via, le pareti sono crollate in se stesse. Il fuoco brucia selvaggio, divorando il legno antico della villa.
->
-> Dalla nuvola di fumo, emergono due figure. Una è **Meloon Wardragon**, un umano alto e magro con occhi acuti e una barba tagliata corta. L'altra è un uomo in abiti scuri, con una cicatrice che gli attraversa il viso — **Krebbyg Masq'il'yr**, un agente di Bregan D'aerthe.
->
-> Meloon alza le mani in segno di pace. *"Non è stato un incidente. È stato un avvertimento."*
+| Voce | Costo |
+|------|-------|
+| Ristrutturazione completa (12 giorni) | 1.000 mo |
+| Licenze e contratti gilde (una tantum) | 250 mo |
+| Manutenzione + stipendi (ogni tenday) | 50 mo |
+| Spese gilde correnti (ogni tenday) | 10 mo |
 
-### PNG Coinvolti
-
-| PNG | Ruolo | Stato |
-|-----|-------|-------|
-| **Meloon Wardragon** | Agente della Guardia Cittadina (indaga sull'esplosione) | Presente, sta indagando sull'esplosione |
-| **Krebbyg Masq'il'yr** | Agente di Bregan D'aerthe (drow) | Presente, ha lanciato l'incantesimo |
-| **Tally Fellbranch** | Proprietario della bottega | Ferito, sopravvissuto all'esplosione |
-| **Embric + Avi** | Proprietari di Vapore e Acciaio | Presenti, cercano di spegnere le fiamme |
-
-### Tattica del DM
-
-- **Meloon** è un agente della Guardia Cittadina che sta indagando sull'esplosione. La sua missione è identificare i responsabili e proteggere la città.
-- **Krebbyg** è un drow di Bregan D'aerthe che ha lanciato l'incantesimo su ordine di Jarlaxle. Usa incantesimi di fuoco per distruggere senza uccidere (ancora).
-- **Tally** è ferito ma sopravvissuto — potrebbe dare informazioni ai PG.
-
-### Opzioni del Party
-
-1. **Aiutare a spegnere le fiamme** — Tally ringrazia, potrebbe offrire informazioni
-2. **Interrogare Meloon** — Meloon finge di essere un agente della Guardia, potrebbe mentire
-3. **Seguire Krebbyg** — Se il party lo riconosce o lo insegue, potrebbe portare a una scoperta
-4. **Tornare al manor** — Lif potrebbe reagire all'esplosione in modo particolare
+**[NOTA DM — riservata]** I PG non devono pagare tutto subito. Possono negoziare dilazioni, fare lavori in cambio di sconti, o trovare scorciatoie. Ma ogni scorciatoia ha conseguenze — Emmek Frewn ne è la prova.
 
 ---
 
-## FASE 4: DOPO L'ESPLOSIONE — Indagini e Conseguenze (~30 min)
+### Broxley Fairkettle — Fellowship of Innkeepers
 
-### Tally Fellbranch — Testimone Oculare
+**PNG:** Broxley Fairkettle — halfling maschio, basettoni folti, modi rilassati
 
-> Tally è seduto sulle macerie della sua bottega, con un braccio fasciato e un occhio livido. Quando vi vede, vi fa cenno con la mano.
+> Un halfling con le guance rosate e due basettoni che sembrano voler diventare una barba si presenta alla porta con un registro sotto il braccio e un sorriso che non ha intenzione di andarsene presto. *"Broxley Fairkettle, Fellowship of Innkeepers. Ho sentito dire che state pensando di riaprire. Ottima notizia — il Quartiere Nord aveva bisogno di un posto decente da anni."*
 
-**Tally dice:** *"Sono due strani tipi. Uno sembrava un agente della Guardia, l'altro... sembrava un demonio. Hanno detto qualcosa su 'un avvertimento' e poi sono volati via."*
+**Broxley è genuinamente dalla loro parte.** Non fa pressioni, ma è chiaro: senza l'iscrizione alla Fellowship, la vita diventa difficile. *"Le gilde fanno del loro meglio per complicare le cose a chi lavora da solo. Io faccio del mio meglio per evitarglielo."*
 
-**[NOTA DM — riservata]** Tally non sa chi sono davvero. Ma ha visto qualcosa che potrebbe essere utile: *"Prima dell'esplosione, uno di loro ha tirato fuori una pietra. Era nera, con una scritta rossa. Poi l'ha lanciata contro la bottega."*
+**Informazioni che Broxley offre spontaneamente:**
+- La taverna ha bisogno di almeno 12 giorni di lavori prima di poter aprire
+- C'è già un altro locale che vuole aprire nel vicolo: *"Un certo Emmek Frewn. L'ho incontrato due volte — non è il tipo con cui si vuole condividere un quartiere."*
+- Ulkoria Stonemarrow, ex proprietaria dell'edificio, passa ogni tanto. *"Non è spaventosa come sembra. Quasi."*
 
-### Meloon Wardragon — Finta Indagine
-
-> Meloon si avvicina con un taccuino in mano, facendo finta di annotare qualcosa.
-
-**Meloon dice:** *"Sono Meloon Wardragon, agente della Guardia. Questa esplosione non è un incidente. È un avvertimento. La città è in pericolo, e io sono qui per proteggerla."*
-
-**[NOTA DM — riservata]** Meloon è un agente della Guardia Cittadina che sta indagando sull'esplosione. La sua missione è identificare i responsabili e proteggere la città. Se il party lo indaga, potrebbe essere un buon punto per introdurre Force Grey M1 (indagine su Meloon).
-
-### Krebbyg Masq'il'yr — Fuga
-
-> Krebbyg è volato via con un incantesimo di *fly*. Se il party lo insegue, potrebbe portare a una scoperta — ma è molto potente (CR 5). Meglio lasciarlo fuggire e introdurlo in seguito.
-
-**[NOTA DM — riservata]** Krebbyg è un drow di Bregan D'aerthe su ordine di Jarlaxle. Ha lanciato l'incantesimo per creare distrazione e testare la reazione della città. Non è un nemico diretto del party.
-
-### Lif — Reazione all'Esplosione
-
-> Lif, il poltergeist, è in preda al panico. Le porte del manor si chiudono di colpo, i boccali volano via. Poi, una voce invisibile sussurra:
-
-> *"La pace è finita. La guerra è arrivata."*
-
-**[NOTA DM — riservata]** Lif sa più di quanto sembri. È stato barista del manor prima dell'esplosione — potrebbe aver visto qualcosa. Se il party lo appeasa in S3, potrebbe rivelare un indizio sottile.
+**[NOTA DM — Hook Emmek]:** La menzione di Frewn è il primo campanello d'allarme. I PG possono chiedere di più — Broxley sa poco ma sa abbastanza: *"Ha provato a comprare questo posto prima di voi. Non l'ha presa bene."*
 
 ---
 
-## FASE 5: I CONTATTI FAZIONE — Aggiornamento (~15 min)
+### Hammond Kraddoc — Vintners', Distillers', and Brewers' Guild
 
-### Hook Arpisti — Un Cavallo Donato
+**PNG:** Hammond Kraddoc — umano Illuskano, vestito bene, accompagnato dalla scriba Jinny (tiefling con occhiali)
 
-**Trigger:** Opera *La Caduta di Tiamat* (Sea Ward), all'intervallo nel Palco Privato C
+> L'uomo che arriva la mattina dopo è vestito troppo bene per il vicolo. Ha una lista in mano e un'aria da chi ha già deciso cosa pensa di voi prima di entrare. Al suo fianco, una giovane tiefling con gli occhiali e un taccuino aperto annota tutto senza dire una parola.
 
-**Contatto:** **Mirt il Cambiavalute** — anziano raffinato, cambiavalute rispettato, si incontra nel Palco C all'intervallo. Il contatto avviene tramite un uccellino di carta che vola sulla spalla di Aelar (o sul naso del Maestro Bec).
-
-**Pitch narrativo:**
-> *L'uccellino di carta atterra sulla spalla di Aelar, o sul naso del Maestro Bec se Berto lo tiene in braccio. Si apre da solo, rivelando un messaggio scritto con inchiostro viola.*
->
-> *"Renaer ci ha detto che vale la pena scommettere su di te. Ha comprato i biglietti per tutta la compagnia per questa sera al Teatro Cantante della Luce, nel Quartiere del Mare. Se sei interessato, trovami all'intervallo. Palco Privato C. L'ingresso richiede abbigliamento formale.*
->
-> *— Mirt*"
->
-> *All'intervallo, Mirt li aspetta nel Palco C. Offre formale adesione agli Arpisti e, per chi accetta, la prima missione.*
-
-**[NOTA DM — riservata]** Obiettivo reale della missione: Sorvegliare **Davil Starsong** e **Yagra Stonefist** tramite la cavalla parlante **Maxeene** nel Mercato. Gli Arpisti vogliono capire se gli Zhentarim stanno operando in modo sospetto. Ricompensa: +1 Renown Arpisti, 500 XP. **Dipendenze:** Nessuna. **File di riferimento:** *(missioni/arpisti/)*
+**Hammond non ama gli avventurieri**, ma ama il loro denaro. Critica la selezione di bevande del locale — anche se sono stati loro a comprarla da lui. Jinny annota tutto in silenzio. Senza la sua firma, non si serve alcol nel quartiere.
 
 ---
 
-### Hook Force Grey — Il Carico del Fondatore
+### Justyn Rassk — Guild of Butchers
 
-**Trigger:** Entro 24-72 ore dall'arrivo al manor, tramite incantesimo di *messaggio* che raggiunge uno dei due PG di Force Grey (prima Razak, poi Vorador)
+**PNG:** Justyn Rassk — umano Illuskano, occhi spenti, cicatrici sul viso
 
-**Contatto:** **Vajra Safahr — il Bastone Nero** — arcimaga di Waterdeep, capo delle Mani Grigie. La si incontra nella **Torre del Bastone Nero** (Castle Ward). Il contatto avviene tramite incantesimo di *messaggio*.
+> Il tipo che arriva il terzo giorno non si presenta. Scarica un cartload di carne sulla porta e tende la mano. *"Tre monete d'oro. Per il servizio."* Poi, quando è chiaro che le avete sentite: *"Forse la prossima volta la carne sarà qualcuno che conoscete."* Se ne va come se avesse fatto una battuta normale.
 
-**Pitch narrativo:**
-> *Un'aura blu si materializza davanti a Razak (o Vorador se il primo rifiuta). La voce di Vajra Safahr riecheggia, diretta e senza fronzoli.*
->
-> *"Sono Vajra Safahr, il Bastone Nero. Venite subito alla Torre del Bastone Nero, nel Quartiere del Castello. Portate i vostri amici.*
->
-> *Il presagio di Hlam è cristallino: 'sangue innocente sarà versato nel Giorno dei Fondatori'. Questa non è una minaccia generica — è una scadenza. I miei informatori segnalano l'arrivo al porto di quantità anomale di reagenti alchemici rari.*
->
-> *Un mio contatto ha sottratto una lista di carico che identifica i destinatari di queste sostanze. Incontratelo ai Moli del Salgemma, terzo magazzino a sinistra del pontile delle maree. Portatemi quel documento. Ho bisogno di nomi certi per poter colpire prima che sia troppo tardi.*
->
-> *E siate discreti. Se chi ha ordinato questo carico capisce che siamo sulle sue tracce, l'informatore è già un cadavere — e la lista scompare con lui.*"
->
-> *Vajra non si offende se aspettate un giorno. Se rifiutate due volte, non ricontatterà il party fino al livello successivo.*
-
-**[NOTA DM — riservata]** Obiettivo reale della missione: Recuperare la **lista di carico** dai Moli del Salgemma prima che venga distrutta, identificare i destinatari dei reagenti (probabilmente i Cassalanters), e sopravvivere all'imboscata dei cultisti di Asmodeus. Ricompensa: +1 Renown Force Grey, 700 XP, patrocinio di Vajra. **Dipendenze:** Nessuna. **File di riferimento:** *(missioni/forcegrey/)*
+**[NOTA DM — riservata]** La minaccia è vuota — Justyn è sgradevole, non pericoloso. La mancia standard è 3 mo. Se i PG reagiscono male, la sua gilda può complicare le forniture.
 
 ---
 
-### Zentharim — M1 Un Brutto Momento
+### Ulkoria Stonemarrow — Watchful Order of Magists and Protectors
 
-**Trigger:** Entro 24-72 ore dall'arrivo al manor, tramite serpe alata di rame che atterra sul davanzale di notte
+**PNG:** Ulkoria "la Gargoyle" Stonemarrow — nana scudo, ex proprietaria del manor, arcimaga, con uno shield guardian
 
-**Contatto:** **Davil Starsong** — mezzelfo raffinato, referente degli Zhentarim al Portale Spalancato (Dock Ward), accompagnato da **Yagra Stonefist**. Il contatto avviene dopo che la serpe alata consegna il messaggio.
+> Non ha bussato. Era semplicemente lì, nel mezzo della sala principale, con uno shield guardian alle spalle e un'espressione che potrebbe essere un sorriso o un avvertimento — difficile dirlo. *"Ulkoria Stonemarrow. Ho posseduto questo posto, una volta. Spero facciate qualcosa di decente con lui."* Si guarda intorno con occhio critico. Non dice nulla di quello che pensa.
 
-**Pitch narrativo:**
-> *La serpe alata di rame atterra sul davanzale del manor, avvolgendo un ritaglio di pergamena attorno al suo corpo. Il messaggio recita:*
->
-> *"Vuoi far parte di qualcosa di grande? Parla con Davil Starsong al Portale Spalancato.*"
->
-> *Yagra Stonefist li accoglie alla porta e li conduce al tavolo di Davil al centro della sala. Davil — sempre con un bicchiere in mano — li valuta con attenzione e offre formale adesione al Black Network.*
->
-> *"I marinai elfi e mezzelfi nel Quartiere del Porto continuano a trovarsi dalla parte sbagliata di una lama. Finora ci sono stati tre morti, ognuno decapitato nel cuore della notte. La Guardia Cittadina non ha indizi, come al solito. Sorvegliate la zona e vedete se riuscite a porre fine a tutto questo.*
->
-> *Tono: Diretto, nessuna promessa sentimentale. Il pagamento parla da sé.*"
+**Ulkoria è dalla parte giusta**, ma il suo modo di comunicarlo è inquietante. Se i PG vogliono glifi di protezione sull'edificio, può installarli per 300 mo l'uno.
 
-**[NOTA DM — riservata]** Obiettivo reale della missione: Proteggere **Heldar**, un marinaio mezzelfo designato come prossima vittima, e identificare l'assassino **Solun Xibrindas** (drow fanatico). Ricompensa: +1 Renown Zentharim, 500 XP, 50 mo se Heldar sopravvive. **Dipendenze:** Nessuna. **File di riferimento:** *(missioni/zentharim/)*
-
-**[NOTA DM — Barnabus]:** Se Barnabus (Silvia) è presente, potrebbe essere interessato all'indagine — ma è anche in conflitto con gli Zhentarim. Potrebbe chiedere al party di condividere le informazioni con la Guardia.
+**[NOTA DM — retroscena]:** Sa della storia oscura del manor — l'orfanotrofio gestito da una strega che cucinava i bambini. Non lo dice spontaneamente. Se le chiedono: lo racconta senza battere ciglio. *"Ecco perché Lif è ancora qui. Non è pronto ad andarsene."*
 
 ---
 
-## 🧩 THREAD NARRATIVI SETUP [S4]
+## FASE 4: IL RIVALE — Emmek Frewn e le Prime Ombre (~20 min)
 
-### Hook Fazione — Arpisti: Un Cavallo Donato
+### Emmek Frewn — Frewn's Brews
 
-**Trigger:** Dopo l'arrivo al Trollskull Manor, durante la sera dell'opera *La Caduta di Tiamat* al Teatro Cantante della Luce (Sea Ward)
+**PNG:** Emmek Frewn — umano Illuskano, nordico, amareggiato, NE
 
-**Contatto:** **Mirt il Cambiavalute** — anziano raffinato con occhi acuti, si presenta come cambiavalute rispettato. Lo si incontra nel **Palco Privato C** all'intervallo dell'opera. Si avvicina ad Aelar con un biglietto di carta che si trasforma in un uccellino di carta animato.
+> Dall'altro lato del vicolo, un uomo con le maniche arrotolate e un martello in mano guarda il party appendere la propria insegna. Non si avvicina. Non dice nulla. Ma il sorriso che ha è il tipo che fa sembrare un insulto anche un saluto. Poi torna al suo lavoro.
 
-**Pitch narrativo:**
-> *L'uccellino di carta atterra sulla spalla di Aelar, o sul naso del Maestro Bec se Berto lo tiene in braccio. Si apre da solo, rivelando un messaggio scritto con inchiostro viola.*
->
-> *"Renaer ci ha detto che vale la pena scommettere su di te. Ha comprato i biglietti per tutta la compagnia per questa sera al Teatro Cantante della Luce, nel Quartiere del Mare. Se sei interessato, trovami all'intervallo. Palco Privato C. L'ingresso richiede abbigliamento formale.*
->
-> *— Mirt*"
->
-> *All'intervallo, Mirt li aspetta nel Palco C. Offre formale adesione agli Arpisti e, per chi accetta, la prima missione.*
+**Emmek Frewn** voleva quel manor. Volo lo ha battuto all'asta, e ora Emmek ha comprato il secondo edificio disponibile nel vicolo e sta aprendo **Frewn's Brews**. Non è un nemico dichiarato — non ancora. Ma il suo risentimento è palpabile.
 
-**[NOTA DM — riservata]** Obiettivo reale della missione: Sorvegliare **Davil Starsong** e **Yagra Stonefist** tramite la cavalla parlante **Maxeene** nel Mercato. Gli Arpisti vogliono capire se gli Zhentarim stanno operando in modo sospetto. Ricompensa: +1 Renown Arpisti, 500 XP. **Dipendenze:** Nessuna. **File di riferimento:** *(missioni/arpisti/)*
+**[NOTA DM — riservata]** Emmek ha già contattato **Istrid Horn** (agente Zentharim) per un prestito di 150 mo. Ne ha usati 50 per ingaggiare i Shard Shunners, una gang di halfling mannari. Il piano è in moto — i PG non lo sanno ancora. Sviluppo completo in S5.
+
+**Se i PG si avvicinano a Emmek:**
+- Si presenta cordialmente: *"Emmek Frewn. Frewn's Brews. Speriamo vincano i migliori."* La stretta di mano è ferma. Il tono è corretto.
+- Se spinto: *"Avevo fatto un'offerta su quel posto prima di voi. Nessun rancore. Il mercato è il mercato."* La pausa prima di *"nessun rancore"* dice tutto.
 
 ---
 
-### Hook Fazione — Force Grey: Il Carico del Fondatore
+### I Cercatori di Lavoro — Prima Apparizione dei Shard Shunners
 
-**Trigger:** Entro 24-72 ore dall'arrivo al manor, tramite incantesimo di *messaggio* che raggiunge uno dei due PG di Force Grey (prima Razak, poi Vorador)
+Qualche giorno dopo l'apertura dei contatti fazione, **quattro halfling** si presentano al manor durante i lavori di ristrutturazione.
 
-**Contatto:** **Vajra Safahr — il Bastone Nero** — arcimaga di Waterdeep, capo delle Mani Grigie. La si incontra nella **Torre del Bastone Nero** (Castle Ward). Il contatto avviene tramite incantesimo di *messaggio*.
+> Quattro halfling bussano quasi contemporaneamente — due da una parte, due dall'altra. Sorrisi larghi, abiti da lavoro puliti — forse un po' troppo puliti per chi cerca un impiego in un cantiere. *"Abbiamo sentito che state cercando personale,"* dice il più alto dei quattro, che è comunque alto come un bambino di dieci anni. *"Siamo bravi lavoratori."*
 
-**Pitch narrativo:**
-> *Un'aura blu si materializza davanti a Razak (o Vorador se il primo rifiuta). La voce di Vajra Safahr riecheggia, diretta e senza fronzoli.*
->
-> *"Sono Vajra Safahr, il Bastone Nero. Venite subito alla Torre del Bastone Nero, nel Quartiere del Castello. Portate i vostri amici.*
->
-> *Il presagio di Hlam è cristallino: 'sangue innocente sarà versato nel Giorno dei Fondatori'. Questa non è una minaccia generica — è una scadenza. I miei informatori segnalano l'arrivo al porto di quantità anomale di reagenti alchemici rari.*
->
-> *Un mio contatto ha sottratto una lista di carico che identifica i destinatari di queste sostanze. Incontratelo ai Moli del Salgemma, terzo magazzino a sinistra del pontile delle maree. Portatemi quel documento. Ho bisogno di nomi certi per poter colpire prima che sia troppo tardi.*
->
-> *E siate discreti. Se chi ha ordinato questo carico capisce che siamo sulle sue tracce, l'informatore è già un cadavere — e la lista scompare con lui.*"
->
-> *Vajra non si offende se aspettate un giorno. Se rifiutate due volte, non ricontatterà il party fino al livello successivo.*
+**I quattro halfling:**
 
-**[NOTA DM — riservata]** Obiettivo reale della missione: Recuperare la **lista di carico** dai Moli del Salgemma prima che venga distrutta, identificare i destinatari dei reagenti (probabilmente i Cassalanters), e sopravvivere all'imboscata dei cultisti di Asmodeus. Ricompensa: +1 Renown Force Grey, 700 XP, patrocinio di Vajra. **Dipendenze:** Nessuna. **File di riferimento:** *(missioni/forcegrey/)*
+| Nome | Sesso | Tratto distintivo |
+|------|-------|-------------------|
+| **Kelso Fiddlewick** | M | Parlantino, chiede esplicitamente dei turni di notte |
+| **Danika Fiddlewick** | F | Sorella di Kelso, silenziosa, guarda i muri con troppa attenzione |
+| **Dasher Snobeedle** | M | Nervoso, evita il contatto visivo diretto |
+| **Brynn Hilltopple** | F | Sorriso fisso che non raggiunge gli occhi |
+
+**Prove:**
+- **Intuizione CD 15:** C'è qualcosa di sbagliato. Non riuscite a identificarlo, ma i loro sorrisi sono troppo uniformi — come se stessero recitando.
+- **Percezione CD 12:** Piccole tracce di terriccio umido sulla suola degli stivali di Dasher — il tipo di terra delle fognature o delle cantine.
+- **Percezione CD 18:** Danika tiene la mano destra leggermente chiusa, nasconde qualcosa di piccolo e aguzzo.
+
+**[NOTA DM — riservata]** Questi quattro sono i wererats di Emmek. Indipendentemente dall'esito del colloquio (assunti o rifiutati), nei giorni successivi piazzano morsetti di cibo nascosti nelle pareti e forano il legno esterno per attirare i topi. L'infestazione e le conseguenze si sviluppano in S5.
+
+**[NOTA DM — se assunti]:** Kelso chiede esplicitamente *"Avete bisogno di qualcuno che lavori di notte? Sono un nottambulo."* — indizio per i PG attenti. Nei primi giorni sembrano lavoratori normali.
 
 ---
 
-### Hook Fazione — Zentharim: Un Brutto Momento
+### Chiusura Sessione 4
 
-**Trigger:** Entro 24-72 ore dall'arrivo al manor, tramite serpe alata di rame che atterra sul davanzale di notte
+La sessione si chiude con il party che ha:
+- Esplorato il vicinato e incontrato i PNG locali
+- Ricevuto i contatti fazione, con le prime missioni in tasca (da eseguire in S5)
+- Scoperto il peso burocratico della ristrutturazione: gilde, costi, scadenze
+- Visto per la prima volta il rivale dall'altro lato del vicolo
+- Incontrato quattro halfling dalla faccia pulita che potrebbero essere chiunque
 
-**Contatto:** **Davil Starsong** — mezzelfo raffinato, referente degli Zhentarim al Portale Spalancato (Dock Ward), accompagnato da **Yagra Stonefist**. Il contatto avviene dopo che la serpe alata consegna il messaggio.
-
-**Pitch narrativo:**
-> *La serpe alata di rame atterra sul davanzale del manor, avvolgendo un ritaglio di pergamena attorno al suo corpo. Il messaggio recita:*
->
-> *"Vuoi far parte di qualcosa di grande? Parla con Davil Starsong al Portale Spalancato.*"
->
-> *Yagra Stonefist li accoglie alla porta e li conduce al tavolo di Davil al centro della sala. Davil — sempre con un bicchiere in mano — li valuta con attenzione e offre formale adesione al Black Network.*
->
-> *"I marinai elfi e mezzelfi nel Quartiere del Porto continuano a trovarsi dalla parte sbagliata di una lama. Finora ci sono stati tre morti, ognuno decapitato nel cuore della notte. La Guardia Cittadina non ha indizi, come al solito. Sorvegliate la zona e vedete se riuscite a porre fine a tutto questo.*
->
-> *Tono: Diretto, nessuna promessa sentimentale. Il pagamento parla da sé.*"
-
-**[NOTA DM — riservata]** Obiettivo reale della missione: Proteggere **Heldar**, un marinaio mezzelfo designato come prossima vittima, e identificare l'assassino **Solun Xibrindas** (drow fanatico). Ricompensa: +1 Renown Zentharim, 500 XP, 50 mo se Heldar sopravvive. **Dipendenze:** Nessuna. **File di riferimento:** [missioni/zentharim/M1-UnBruttoMomento.md](../../missioni/zentharim/M1-UnBruttoMomento.md).
-
-**[NOTA DM — Arco Krauser & Scintilla]:** Tra le tre vittime c'è **Edran Voss** (commilitone di Krauser nella Shadowfell) — primo aggancio alla questline Vosk. Parole finali del drow: *"Vosk paga bene. Manshoon paga meglio."* — primo filo tra i due antagonisti. Scintilla identifica l'assassino via contatti nel mercato nero del porto: senza di lei il gruppo brancola nel buio. Il filo si sviluppa nelle M2–M4 Zentharim.
+*La prossima sessione: le missioni M1 iniziano. E qualcosa di strano succede ai muri del manor.*
 
 ---
 
@@ -506,6 +422,18 @@ Nient'altro. Solo quella frase. Friedrich la sentirà risuonare dopo.
 
 **[NOTA DM — riservata]** Aldric *è Asmodeo sotto forma mortale*. Mantiene il pretesto di mentore umano. Osserva silenziosamente la rottura morale di Friedrich attraverso la pragmatica Zentharim, e sottilmente la incoraggia. Le missioni Zentharim M1-M3 erodono gradualmente i principi assoluti di Friedrich. M4 (La Sentenza di Tyr — il processo contro Vosk, con il simulacro di Manshoon che sovverte la giustizia nell'aula stessa) è il breaking point dove il voto si spezza, portandolo verso il sottoclass Oathbreaker tra i L3-L4.
 
+### Emmek Frewn / Shard Shunners
+Emmek Frewn è il rivale che ha perso l'asta del manor. In questa sessione compare per la prima volta — silenzioso, ostile solo nel linguaggio del corpo. Ha già ingaggiato i Shard Shunners (halfling mannari) tramite un prestito da Istrid Horn.
+
+**Hook attivo in questa sessione:**
+- **Broxley Fairkettle (FASE 3):** Primo alert su Emmek: *"Non l'ha presa bene."*
+- **I Shard Shunners (FASE 4):** Si presentano come candidati innocui. Se assunti o meno, iniziano il sabotaggio notturno.
+
+**Sviluppo in S5:** L'infestazione di topi compare. Emmek sparge voci. Il party comincia a indagare.
+**Sviluppo in S6:** Confronto con Emmek e/o i wererats. Risoluzione prima dell'esplosione.
+
+*Non rivelare mai esplicitamente il collegamento Emmek → Shard Shunners. Lasciare che i PG lo deducano.*
+
 ---
 
 ## RECAP POST-SESSIONE
@@ -515,25 +443,28 @@ Nient'altro. Solo quella frase. Friedrich la sentirà risuonare dopo.
 ### Cosa è successo
 - [ ] Il party ha esplorato il vicinato (Trollskull Alley)
 - [ ] Il party ha ricevuto i contatti fazione (Arpisti / Force Grey / Zentharim)
-- [ ] L'esplosione ha colpito Trollskull Alley
-- [ ] Il party ha interagito con Meloon, Krebbyg, Tally
-- [ ] Il party ha deciso cosa fare dopo l'esplosione
+- [ ] I rappresentanti delle gilde hanno bussato alla porta (Broxley, Hammond, Justyn, Ulkoria)
+- [ ] Emmek Frewn è comparso per la prima volta
+- [ ] I quattro halfling (Shard Shunners) si sono presentati per un colloquio di lavoro
 
 ### PNG Incontrati / Aggiornamento Attitudini
 
 | PNG | Personaggio | Incontro | Hook personali | Attitudine post-S4 |
 |-----|-------------|----------|----------------|--------------------|
-| Tally Fellbranch | Tutti | T2 Bent Nail (dopo esplosione) | **Vorador:** Voci su Brottor nel Quartiere Nord<br>**Razak:** Indizio sul presagio<br>**Aelar:** Nilshai nel Quartiere Nord<br>**Friedrich:** Preparazione Oathbreaker<br>**Scintilla:** Componenti rari tagliati fuori<br>**Barnabus:** Urstul Floxin alle Kolat Towers | Grato → Amichevole |
-| Embric + Avi | Tutti | T3 Steam & Steel | **Vorador:** Fuoco interno e Dendar<br>**Razak:** Presagio e sangue innocente<br>**Scintilla:** Rennis e componenti rari<br>**Friedrich:** Preparazione Oathbreaker<br>**Barnabus:** Urstul Floxin alle Kolat Towers | Amichevoli |
-| Fala Lefaliir | Aelar | T4 Crown | **Aelar:** Brottor e Nilshai<br>**Friedrich:** Preparazione Oathbreaker<br>**Scintilla:** Rennis e componenti rari<br>**Barnabus:** Urstul Floxin alle Kolat Towers | Amichevole |
-| Vincent Trench (Valantajar) | Tutti | T5 Tiger's Eye | **Razak:** Presagio e Giorno dei Fondatori<br>**Vorador:** Brottor e file classificati<br>**Friedrich:** Preparazione Oathbreaker<br>**Scintilla:** Urstul Floxin alle Kolat Towers<br>**Barnabus:** Urstul Floxin alle Kolat Towers | Misurato |
-| Rishaal | Vorador + Scintilla | T6 Book Wyrm | **Vorador:** Brottor e file classificati<br>**Scintilla:** Rennis e componenti rari<br>**Friedrich:** Preparazione Oathbreaker<br>**Barnabus:** Urstul Floxin alle Kolat Towers | Collegiale (Ordine) |
-| Lif (poltergeist) | Tutti | Manor (dopo esplosione) | — | Ansioso |
-| Meloon Wardragon | Tutti | Esplosione | — | Neutrale (Agente Guardia) |
-| Krebbyg Masq'il'yr | Tutti | Esplosione | — | Neutrale (Bregan D'aerthe) |
-| Mirt (messaggio) | Aelar | Uccellino di carta | **Aelar:** Brottor e Nilshai<br>**Barnabus:** Urstul Floxin alle Kolat Towers | Ignoto → da incontro opera |
-| Vajra (sending) | Razak / Vorador | Messaggio magico | **Razak:** Presagio e Giorno dei Fondatori<br>**Vorador:** Brottor e file classificati<br>**Barnabus:** Urstul Floxin alle Kolat Towers | Formale |
-| Davil Starsong | Friedrich + Scintilla | Portale Spalancato | **Friedrich:** Preparazione Oathbreaker<br>**Scintilla:** Rennis e componenti rari<br>**Barnabus:** Urstul Floxin alle Kolat Towers | In valutazione |
+| Tally Fellbranch | Tutti | T2 Il Chiodo Storto | **Vorador:** Voci su Brottor nel Quartiere Nord<br>**Razak:** Indizio sul presagio<br>**Aelar:** Nilshai nel Quartiere Nord<br>**Friedrich:** Preparazione Oathbreaker<br>**Scintilla:** Componenti rari tagliati fuori<br>**Barnabus:** Urstul Floxin alle Kolat Towers | Amichevole |
+| Embric + Avi | Tutti | T3 Vapore e Acciaio | **Vorador:** Fuoco interno e Dendar<br>**Razak:** Presagio e sangue innocente<br>**Scintilla:** Rennis e componenti rari<br>**Friedrich:** Preparazione Oathbreaker<br>**Barnabus:** Urstul Floxin alle Kolat Towers | Amichevoli |
+| Fala Lefaliir | Aelar | T4 La Corona di Corellon | **Aelar:** Brottor e Nilshai<br>**Friedrich:** Preparazione Oathbreaker<br>**Scintilla:** Rennis e componenti rari<br>**Barnabus:** Urstul Floxin alle Kolat Towers | Amichevole |
+| Vincent Trench (Valantajar) | Tutti | T5 L'Occhio di Tigre | **Razak:** Presagio e Giorno dei Fondatori<br>**Vorador:** Brottor e file classificati<br>**Friedrich:** Preparazione Oathbreaker<br>**Scintilla/Barnabus:** Urstul Floxin alle Kolat Towers | Misurato |
+| Rishaal | Vorador + Scintilla | T6 Il Tesoro del Wyrm | **Vorador:** Brottor e file classificati<br>**Scintilla:** Rennis e componenti rari<br>**Friedrich:** Preparazione Oathbreaker<br>**Barnabus:** Urstul Floxin alle Kolat Towers | Collegiale (Ordine) |
+| Broxley Fairkettle | Tutti | FASE 3 — Gilde | Primo alert su Emmek Frewn | Amichevole |
+| Hammond Kraddoc | Tutti | FASE 3 — Gilde | — | Neutrale/condiscendente |
+| Justyn Rassk | Tutti | FASE 3 — Gilde | — | Diffidente |
+| Ulkoria Stonemarrow | Tutti | FASE 3 — Gilde | Retroscena orfanotrofio-strega; storia del manor | Impenetrabile |
+| Emmek Frewn | Tutti | FASE 4 — Vicolo | Rivale silenziosa — tensione, nessuna dichiarazione aperta | Ostile (non dichiarato) |
+| Shard Shunners (×4) | Tutti | FASE 4 — Colloquio | Candidati sospetti; turni di notte; tracce di fognatura | Sconosciuta |
+| Mirt (messaggio) | Aelar | Uccellino di carta | **Aelar:** Brottor e Nilshai<br>**Barnabus:** Urstul Floxin alle Kolat Towers | Ignoto → da incontro opera S5 |
+| Vajra (sending) | Razak / Vorador | Messaggio magico | **Razak:** Presagio e Giorno dei Fondatori<br>**Vorador:** Brottor e file classificati | Formale |
+| Davil Starsong | Friedrich + Scintilla | Portale Spalancato | **Friedrich:** Preparazione Oathbreaker<br>**Scintilla:** Rennis e componenti rari | In valutazione |
 | Aldric | Friedrich | Visita al manor | **Friedrich:** Aldric è Asmodeo (segreto DM) — guida verso Oathbreaker | Mellifluo |
 
 ### XP / Milestone
@@ -542,13 +473,15 @@ Nient'altro. Solo quella frase. Friedrich la sentirà risuonare dopo.
 
 ### Thread Narrativi Aperti
 
-**Principali:**
-- **Esplosione:** Chi ha causato l'esplosione? Perché?
-- **Meloon Wardragon:** Chi è davvero? Che ruolo ha nei Cassalanters?
-- **Krebbyg Masq'il'yr:** Chi è? Perché ha lanciato l'incantesimo?
-- **Filo Zentharim M1:** Sparizioni di marinai nel Dock Ward — proteggere Heldar, identificare Soluun Xibrindas; **Arco Krauser:** Edran Voss tra le vittime — primo filo verso Vosk
-- **Filo Force Grey M1:** Indagine su carico al porto, lista Cassalanters, presagio di Hlam
-- **Filo Arpisti M1:** Sorveglianza su Davil Starsong e Yagra via cavalla Maxeene
+**Principali (continuano in S5):**
+- **Ristrutturazione del manor:** 1.000 mo da trovare, gilde da soddisfare, 12 giorni di lavori
+- **Emmek Frewn:** Il rivale silenzioso — cosa fa di notte? Chi sono quei quattro halfling?
+- **Filo Zentharim M1:** Sparizioni di marinai nel Dock Ward — da avviare in S5; **Arco Krauser:** Edran Voss tra le vittime — primo filo verso Vosk
+- **Filo Force Grey M1:** Indagine su carico al porto, lista Cassalanters, presagio di Hlam — da avviare in S5
+- **Filo Arpisti M1:** Sorveglianza su Davil Starsong e Yagra via cavalla Maxeene — da avviare in S5
+
+**Spostato a S6:**
+- L'esplosione (fireball), Meloon Wardragon, Krebbyg Masq'il'yr, inizio Cap. 3
 
 **Hook Personali Attivi:**
 - **Vorador (Brottor Deepdelver):** Voci su Brottor nel Quartiere Nord — indagini su "attività non autorizzate in zone sotterranee". File classificato. [T2, T5, T6, Arpisti M1, Force Grey M1]
@@ -562,13 +495,14 @@ Nient'altro. Solo quella frase. Friedrich la sentirà risuonare dopo.
 
 ## POST-SESSION CHECKLIST
 
-- [ ] Aggiornare `campagna/party.md` — stato PG post-S4 (Lv 2 confermato; nuovi PNG; aggiornare attitudini)
-- [ ] Aggiornare `campagna/png-incontrati.md` — aggiungere PNG del vicinato (Tally, Embric, Avi, Fala, Vincent Trench, Rishaal, Lif, Meloon, Krebbyg)
+- [ ] Aggiornare `campagna/party.md` — stato PG post-S4 (Lv 2 confermato; nuovi PNG; attitudini)
+- [ ] Aggiornare `campagna/png-incontrati.md` — aggiungere PNG vicinato (Tally, Embric, Avi, Fala, Vincent Trench, Rishaal) + gilde (Broxley, Hammond, Justyn, Ulkoria) + rivale (Emmek Frewn) + Shard Shunners
 - [ ] Aggiornare `campagna/rapporti.md` — attitudini post-S4
-- [ ] Aggiornare `campagna/missioni-secondarie.md` — M1 da `Pianificata` a `In corso` per le fazioni dei PG (Arpisti, Force Grey, Zentharim)
-- [ ] Aggiornare `campagna/sessioni/dm-notes-sessione-04.md` — aggiungere note sugli hook personali (Brottor, Rennis, Aldric/Asmodeo, Presagio, Nilshai, Urstul Floxin)
+- [ ] Aggiornare `campagna/missioni-secondarie.md` — M1 da `Pianificata` a `In corso` per le fazioni dei PG (Arpisti, Force Grey, Zentharim) — da aggiornare dopo S5 quando le missioni vengono realmente avviate
+- [ ] Creare `campagna/sessioni/dm-notes-sessione-05.md` (missioni M1 + escalation Emmek)
+- [ ] Creare `campagna/sessioni/dm-notes-sessione-06.md` (risoluzione Emmek + esplosione Cap. 3)
 - [ ] Creare `campagna/sessioni/recaps/recap-sessione-04.md` dopo la sessione reale
-- [ ] Commit su git: `feat: dm-notes-sessione-04`
+- [ ] Commit su git: `feat: dm-notes-sessione-04 ristrutturazione cap2`
 
 ---
 

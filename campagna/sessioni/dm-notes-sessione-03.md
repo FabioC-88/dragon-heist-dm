@@ -332,176 +332,6 @@ Lif fugge al torrino quando scende a metà PF; combatte fino alla morte dal live
 
 ---
 
-## FASE 6: IL VICINATO — Giro degli Esercizi (~30 min)
-
-### Struttura della Scena
-
-Il party può esplorare il vicolo liberamente. Non è necessario visitare tutte le botteghe in S3 — bastano 2–3 contatti per fondare i rapporti.
-
-**Priorità suggerite:**
-1. **T4 La Corona di Corellon** — Fala è utile per Aelar (elf-to-elf) e come fornitore di pozioni
-2. **T6 Il Tesoro del Wyrm** — Rishaal interessa Vorador e Scintilla (Ordine dei Magisti)
-3. **T3 Vapore e Acciaio** — utile per equipaggiamento
-4. **T5 L'Occhio di Tigre** — Vincent Trench è enigmatico e intrigante
-
----
-
-### T2. Il Chiodo Storto *(The Bent Nail)*
-
-**PNG:** Talisolvanar "Tally" Fellbranch — mezzelfo, falegname e intagliatore
-
-> L'insegna sopra la porta è un chiodo storto conficcato nel legno — e già questo dice qualcosa sul carattere del proprietario. Dentro, l'odore di legno fresco e vernice mista si scontra piacevolmente con l'aria del vicolo. Scudi, archi e balestre in esposizione. Aste da combattimento lucide come specchi. E un uomo con le maniche alzate che vi studia senza smettere di limare un'asta.
-
-**Tally sul manor (se gli chiedono):** *"Quel posto è fermo da tre anni. Prima che Lif morisse, era il miglior locale del vicolo. Se avete intenzione di riaprirlo — bene. Se no, tenetelo pulito. Il vicinato lo ringrazierà."*
-
-**Servizi:** Armi di legno, scudi, aste, bastoni a prezzi normali. Lavori su commissione per il manor disponibili.
-
----
-
-### T3. Vapore e Acciaio *(Steam and Steel)*
-
-**PNG:** Embric (genasi di fuoco, forgiatore) + Avi (genasi d'acqua, armaiolo)
-
-> Il calore vi accoglie prima ancora di varcare la soglia. Da ogni finestra escono vapore e fumo; il martello di Embric scandisce il ritmo della giornata come un orologio di ferro. Dentro, il contrasto tra i due genasi è quasi teatrale: Embric forgia con la frenesia di chi vuole finire ogni pezzo prima che il giorno lo tradisca; Avi raffredda l'acciaio con una calma che farebbe invidia a un lago di montagna.
-
-**Embric e Avi** sono sposati. Non lo dichiarano mai esplicitamente, ma il modo in cui si muovono nello spazio — ciascuno sapendo esattamente dove si trova l'altro — lo dice già.
-
-**Servizi:** Tutte le armi e armature metalliche del Manuale del Giocatore a prezzo normale.
-
----
-
-### T4. La Corona di Corellon *(Corellon's Crown)*
-
-**PNG:** Fala Lefaliir — elfo del bosco, erborista; pronomi essi/loro
-
-> Il terzo piano di questa townhouse è una serra di vetro: dall'esterno si vedono fiori di ogni colore sbocciare contro il cielo grigio di Waterdeep. La porta al piano terra è aperta. Dentro, un profumo che non assomiglia a niente di quello che avete sentito prima — floreale, pungente, selvatico. Qualcuno vi saluta da uno scaffale senza guardarvi.
-
-**Fala accoglie Aelar in modo particolare.** Un elfo è un elfo, e Fala è genuinamente curioso di sapere da dove viene. Se Aelar menziona Sildëyuir, Fala aggotta le sopracciglia — *"È ancora sicuro, da quelle parti?"*
-
-**[NOTA DM]** Fala ospita al secondo piano **Ziraj**, contatto Zentharim. Se il party è affiliato agli Zhentarim, Fala potrebbe menzionarlo di passaggio: *"Un amico passa di tanto in tanto. Lo troverete simpatico, credo."* Ziraj non è presente oggi.
-
-**Servizi:**
-
-| Pozione | Prezzo |
-|---------|--------|
-| *Pozione di amicizia animale* | 125 mo |
-| *Pozione di scalata* | 50 mo |
-| *Pozione di guarigione superiore* | 250 mo |
-| *Pozione di guarigione* | 50 mo |
-| *Pozione di respirare sott'acqua* | 250 mo |
-
----
-
-### T5. L'Occhio di Tigre *(Tiger's Eye)*
-
-**PNG:** Vincent Trench — detective privato. In realtà: **Valantajar**, rakshasa in incognito.
-
-> L'insegna è arancione e nera, con l'immagine di due occhi felini. La porta è chiusa a chiave; dovete bussare o suonare il campanello. Dopo un momento, una voce controllata chiede chi siete. Se chiedete un'udienza, la porta si apre.
->
-> Vincent Trench è estremamente ben vestito. Fuma una pipa sottile. Parla in frasi brevi, precise, senza sprecare un sillaba. Vi studia come se stesse già calcolando il prezzo.
-
-**Vincent dice:** *"Posso scoprire qualsiasi segreto di Waterdeep, a un prezzo equo. La tariffa base per un'indagine standard: cinquanta monete d'oro. Se volete sapere qualcosa sui signori che contano davvero in questa città, la tariffa è variabile."*
-
-**[NOTA DM — riservata]** Valantajar è un rakshasa che vive tra i mortali da anni, cambiando identità quando necessario. Stranamente, si è affezionato alla città. Non è un nemico per ora — ma è pericoloso se provocato. *Non rivelare mai che è un rakshasa. Qualsiasi divination fallisce su di lui.*
-
----
-
-### T6. Il Tesoro del Wyrm *(Book Wyrm's Treasure)*
-
-**PNG:** Rishaal the Page-Turner — draconico dorato, mago, membro dell'Ordine dei Magisti e Protettori
-
-> Due piani di scaffali che sembrano contenere più libri di quanto la fisica dovrebbe consentire. L'odore di carta vecchia è quasi inebriante. Rishaal è in bilico su una scala mobile, recuperando qualcosa da uno scaffale alto; vi accoglie senza girarsi — *"Con voi tra un momento"* — con il tono di chi conta righe di testo mentre parla.
-
-**Rishaal + Vorador/Scintilla:** Rishaal è membro dell'Ordine dei Magisti, come Vorador. Riconosce immediatamente il simbolo. È disponibile a fare da tramite con i registri pubblici dell'Ordine — ma non ha accesso ai file riservati.
-
-**[NOTA DM — Scintilla/Rennis]** Se Scintilla chiede di persone scomparse nell'area, Rishaal non ha informazioni dirette. Però nota che nelle ultime settimane ha visto meno traffico di componenti rari: *"Come se qualcuno avesse tagliato i canali di approvvigionamento. Strano, per questo periodo dell'anno."* — indizio sottile sulle attività di Manshoon, senza nominarlo.
-
-**Servizi — Copie di incantesimi:**
-
-| Incantesimi | Costo per incantesimo |
-|-------------|----------------------|
-| *Comprendi lingue, Individua magia, Caduta morbida, Trova familiare, Armatura magica, Dardo incantato, Scudo, Servitore invisibile* | 25 mo |
-| *Blocco arcano, Fiamma continua, Scurovisione, Invisibilità, Arma magica, Passo fatato, Trucco con la corda, Suggestionamento* | 75 mo |
-| *Chiaroveggenza, Controincanntesimo, Dissolvi magie, Palla di fuoco, Volo, Non individuazione, Respirare sott'acqua* | 150 mo |
-
----
-
-### T7. Accesso alle Fognature
-
-> All'estremità est del vicolo, una griglia di metallo rimovibile copre un'apertura nel selciato. Sotto, una scala a pioli scende di sei metri nel sistema fognario di Waterdeep.
-
-**[NOTA DM]** Vorador e Razak ricordano le fogne dal Capitolo 1. Questo è un accesso alternativo alla rete fognaria — rilevante dal Capitolo 3 in poi.
-
----
-
-## FASE 7: LE FAZIONI VI TROVANO — I Contatti (~30 min)
-
-### Tempistica
-
-I contatti arrivano entro **24–72 ore** dall'arrivo al manor. Non tutti nello stesso momento.
-
-**Suggestione DM:** Usare l'arrivo dei contatti come finale di S3 / apertura di S4. Se il tempo manca, bastano i messaggi — le missioni vere cominciano in S4.
-
----
-
-### Contatto 1 — Arpisti → Aelar
-
-**Come arriva:** Un **uccellino di carta** (origami animato) vola dal tetto e atterra sulla spalla di Aelar
-> [NOTA DM] Mirt opera dalla sua villa nel **Castle Ward** (non nel Dock Ward). L’opera è il pretesto: il vero obiettivo è briefare Aelar su **M1 — Un Cavallo Donato** (sorveglianza su Davil Starsong e Yagra via cavalla Maxeene). Dettagli completi in . — o sul naso del Maestro Bec, a discrezione di Berto. Il biglietto si apre da solo.
-
-**Messaggio (leggere ad Aelar):**
-
-> *"Renaer ci ha detto che vale la pena scommettere su di te. Ha comprato i biglietti per tutta la compagnia per questa sera al Teatro Cantante della Luce, nel Quartiere del Mare. Se sei interessato, trovami all'intervallo. Palco Privato C. L'ingresso richiede abbigliamento formale."*
->
-> *— Mirt*
-
-Inclusi nel biglietto: posti per tutti i PG a *La Caduta di Tiamat*, opera in lingua gigante. Mirt li aspetta nel Palco C all'intervallo. Offre formale adesione agli Arpisti e, per chi accetta, la prima missione.
-
-**[Arpisti M1 — Sintesi per DM]**
-> *"Una giumenta da tiro che lavora in città — la chiamano Maxeene — conosce le facce degli operativi Zentharim. Trovala, falla parlare, scopri dove si nascondono."*
-> Dettagli completi: `Missioni/Arpisti/M1-UnCavalloDonato.md`
-> Ricompensa: +1 Renown Arpisti.
-
----
-
-### Contatto 2 — Force Grey → Razak e Vorador
-
-**Come arriva:** Un incantesimo di *messaggio* raggiunge **uno** dei due PG di Force Grey — prima Razak, poi Vorador se il primo rifiuta o non risponde entro un giorno.
-
-**Messaggio (leggere al personaggio interessato):**
-
-> *"Sono Vajra Safahr, la Verga Nera. Venite subito alla Torre della Verga Nera, nel Quartiere del Castello. Portate i vostri amici."*
-
-Vajra non si offende se aspettano un giorno. Se rifiutano due volte, non ricontatta il party fino al livello successivo. La Torre della Verga Nera è accademia e fortezza — Vajra offre membership nelle Gray Hands e subito la prima missione.
-
-**[Force Grey M1 — Sintesi per DM]**
-> *"Cercate Hlam, il monaco che vive in una grotta sul fianco del Monte Waterdeep. Chiedetegli cosa ha sentito delle minacce alla città. Non seccatelo e non trattenetevi troppo."*
-> Dettagli completi: `Missioni/ForceGrey/M1-IlCaricoDelFondatore.md`
-> Hlam dice: *"Il gemello del male nasconde il suo volto per ora. Aspettatevi che cambi prima della fine dell'inverno."*
-> Ricompensa: +1 Renown Force Grey.
-
-**[NOTA DM — Razak]** Razak ha già cercato Hlam prima di entrare in città. Questo incarico gli dà l'occasione di tornare — e di scoprire che il monaco sa qualcosa di più di quanto disse la prima volta.
-
----
-
-### Contatto 3 — Zentharim → Friedrich e Scintilla
-
-**Come arriva:** Una **serpe alata** di rame atterra sul davanzale del manor di notte. Ha un ritaglio di pergamena avvolto attorno al corpo.
-
-**Messaggio (leggere ai personaggi interessati):**
-
-> *"Vuoi far parte di qualcosa di grande? Parla con Davil Starsong al Portale Spalancato."*
-
-Yagra Stonefist li accoglie alla porta e li conduce al tavolo di Davil al centro della sala. Davil — un mezzelfo raffinato, sempre con un bicchiere in mano — li valuta con attenzione e offre formale adesione al Black Network. Poi assegna la prima missione.
-
-**[Zentharim M1 — Sintesi per DM]**
-> *"Qualcuno sta uccidendo marinai elfi e mezzelfi nel Quartiere del Porto — tre morti, decapitati di notte. Indagate. La Guardia non ne vuol sapere."*
-> Dettagli completi: `Missioni/Zentharim/M1-UnBruttoMomento.md`
-> Tre notti di sorveglianza ai moli. Identificare Soluun Xibrindas (drow cannoniere). CD 18 Percezione per notarlo prima che colpisca.
-> Ricompensa: +1 Renown Zentharim + [[/award 50gp]] se Heldar sopravvive.
-
----
-
 ## [NOTA DM — Fili Narrativi Riservati]
 
 ### Brottor Deepdelver (Vorador — Seba)
@@ -529,25 +359,20 @@ Nient'altro. Solo quella frase. Friedrich la sentirà risuonare dopo.
 *(Da compilare dopo la sessione)*
 
 ### Cosa è successo
-- [ ] Il party ha preso possesso di Trollskull Manor
-- [ ] Il party ha risolto la questione del poltergeist Lif (appeasement / combattimento)
-- [ ] Il party ha visitato almeno 2 esercizi del vicinato
-- [ ] I contatti fazione sono stati recapitati (Arpisti / Force Grey / Zentharim)
-- [ ] Il party ha discusso cosa fare del manor
+- [x] Il party ha preso possesso di Trollskull Manor
+- [x] Il party ha risolto la questione del poltergeist Lif (appeasement)
+- [x] Il party ha visitato almeno 2 esercizi del vicinato
+- [x] I contatti fazione sono stati recapitati (Arpisti / Force Grey / Zentharim)
+- [ ] Il party ha discusso cosa fare del manor (non avvenuto in S3)
 
 ### PNG Incontrati / Aggiornamento Attitudini
 
 | PNG | Personaggio | Incontro | Attitudine post-S3 |
 |-----|-------------|----------|--------------------|
-| Lif (poltergeist) | Tutti | Taproom manor | Da definire |
-| Tally Fellbranch | Tutti | T2 Bent Nail | Neutrale → Amichevole |
-| Embric + Avi | Tutti | T3 Steam & Steel | Amichevoli |
-| Fala Lefaliir | Aelar | T4 Crown | Amichevole |
-| Vincent Trench | Tutti | T5 Tiger's Eye | Misurato |
-| Rishaal | Vorador + Scintilla | T6 Book Wyrm | Collegiale (Ordine) |
-| Mirt (messaggio) | Aelar | Uccellino di carta | Ignoto → da incontro opera |
-| Vajra (sending) | Razak / Vorador | Messaggio magico | Formale |
-| Davil Starsong | Friedrich + Scintilla | Portale Spalancato | In valutazione |
+| Lif (poltergeist) | Tutti | Taproom manor | Appeasement — barista cooperativo |
+| Mirt (messaggio) | Aelar | Uccellino di carta | Ignoto → da incontro opera (S4) |
+| Vajra (sending) | Razak / Vorador | Messaggio magico | Ignota → da visita Torre (S4) |
+| Davil Starsong | Friedrich + Scintilla | Serpe alata recapitata | Ignota → da incontro Portale (S4) |
 | Aldric | Friedrich | Visita al manor | Mellifluo |
 
 ### XP / Milestone
@@ -562,5 +387,5 @@ Nient'altro. Solo quella frase. Friedrich la sentirà risuonare dopo.
 - [ ] Aggiornare `Campagna/png-incontrati.md` — aggiungere PNG del vicinato (Tally, Embric, Avi, Fala, Vincent Trench, Rishaal, Lif)
 - [ ] Aggiornare `Campagna/rapporti.md` — attitudini post-S3
 - [ ] Aggiornare `Campagna/missioni-secondarie.md` — M1 da `Pianificata` a `In corso` per le fazioni dei PG (Arpisti, Force Grey, Zentharim)
-- [ ] Creare `Campagna/sessioni/recaps/recap-sessione-03.md` dopo la sessione reale
+- [x] Creare `Campagna/sessioni/recaps/recap-sessione-03.md` dopo la sessione reale
 - [ ] Commit su git: `feat: dm-notes-sessione-03`
