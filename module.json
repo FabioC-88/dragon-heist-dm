@@ -1,6 +1,6 @@
-﻿{
+{
   "id": "dragon-heist-dm",
-  "title": "Waterdeep: Dragon Heist Ã¢â‚¬â€ DM Notes",
+  "title": "Waterdeep: Dragon Heist — DM Notes",
   "description": "Note DM, missioni e background personaggi per la campagna Waterdeep: Dragon Heist.",
   "version": "1.1.12",
   "compatibility": {
@@ -16,52 +16,74 @@
   "packs": [
     {
       "name": "missioni-arpisti",
-      "label": "Missioni Ã¢â‚¬â€ Arpisti",
+      "label": "Missioni — Arpisti",
       "path": "./packs/missioni-arpisti",
       "type": "JournalEntry",
-      "ownership": { "PLAYER": "NONE", "ASSISTANT": "OWNER" }
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "missioni-forcegrey",
-      "label": "Missioni Ã¢â‚¬â€ Force Grey",
+      "label": "Missioni — Force Grey",
       "path": "./packs/missioni-forcegrey",
       "type": "JournalEntry",
-      "ownership": { "PLAYER": "NONE", "ASSISTANT": "OWNER" }
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "missioni-zentharim",
-      "label": "Missioni Ã¢â‚¬â€ Zentharim",
+      "label": "Missioni — Zentharim",
       "path": "./packs/missioni-zentharim",
       "type": "JournalEntry",
-      "ownership": { "PLAYER": "NONE", "ASSISTANT": "OWNER" }
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "pg-backgrounds",
       "label": "Background PG",
       "path": "./packs/pg-backgrounds",
       "type": "JournalEntry",
-      "ownership": { "PLAYER": "NONE", "ASSISTANT": "OWNER" }
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "campagna",
       "label": "Note Campagna",
       "path": "./packs/campagna",
       "type": "JournalEntry",
-      "ownership": { "PLAYER": "NONE", "ASSISTANT": "OWNER" }
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "campagna-completa",
-      "label": "Dragon Heist Ã¢â‚¬â€ Sorgente Completa",
+      "label": "Dragon Heist — Sorgente Completa",
       "path": "./packs/campagna-completa",
       "type": "JournalEntry",
-      "ownership": { "PLAYER": "NONE", "ASSISTANT": "OWNER" }
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "packFolders": [
     {
       "name": "Dragon Heist DM",
       "sorting": "m",
-      "packs": ["campagna", "campagna-completa", "pg-backgrounds"],
+      "packs": [
+        "campagna",
+        "campagna-completa",
+        "pg-backgrounds"
+      ],
       "folders": [
         {
           "name": "Missioni",
@@ -88,5 +110,3 @@
   "manifest": "https://github.com/FabioC-88/dragon-heist-dm/releases/latest/download/module.json",
   "download": "https://github.com/FabioC-88/dragon-heist-dm/releases/download/v1.1.12/dragon-heist-dm-v1.1.12.zip"
 }
-
-
