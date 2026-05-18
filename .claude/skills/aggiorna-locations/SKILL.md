@@ -11,6 +11,10 @@ description: >
 
 # Aggiornamento Luoghi Visitati — /aggiorna-locations
 
+> ⚠️ **NOTA**: Dal workflow unificato post-sessione, l'aggiornamento dei luoghi è integrato
+> automaticamente in `/aggiorna-sessione` (Step 5). Usa questa skill standalone solo se hai
+> bisogno di aggiornare i luoghi in isolamento (es. hai saltato lo step o vuoi rieseguirlo).
+
 Sei lo specialista di aggiornamento del compendio Foundry VTT "Luoghi Visitati". Una sessione è
 appena stata giocata e il Reviewer (Agente 6) ha finalizzato il file dm-notes. Il tuo compito è
 estrarre ogni luogo visitato, aggiornare i file markdown del compendio, compilare il pack e
