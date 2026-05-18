@@ -142,6 +142,76 @@ Localizzazione Magica, scry su Nihiloor (CD 15 Arcana), o contatto con un Arcima
 
 ---
 
+## 🎬 Scene Chiave
+
+### Scena 1 — L'agguato iniziale
+
+*È pomeriggio. Il party sta attraversando una strada ordinaria. Un fattorino, un passante comune, si ferma troppo di scatto — e poi comincia a camminare verso di voi con un passo che non è normale. Gli occhi non si muovono. Le mani sono già sollevate.*
+
+**Atmosfera DM:** Il Divoratore che controlla il passante non sa di essere già scoperto. Tenta la cattura rapida — non una conversazione. Se il party ha Percezione CD 13, agisce nel round 1 con vantaggio sull'iniziativa.
+
+*Quando la creatura viene neutralizzata — sia che esca dal corpo o sia distrutta con esso — tra le sue appendici mentali il party trova un'impronta psichica leggibile con Arcana CD 13: coordinate. Non una mappa — una sensazione direzionale, come sapere dove il sole sta calando. È abbastanza.*
+
+---
+
+### Scena 2 — L'ingresso nel covo
+
+*Il covo di Xanathar è sotto il porto, nelle gallerie di pietra che nessuna mappa ufficiale ha mai catalogato. L'ingresso dipende da come il party lo ha localizzato.*
+
+**Via Zelifarn:** Il drago accompagna il party fino a una botola sott'acqua nella parete est del porto profondo. Poi si ferma.
+> *"Non entro là dentro. Le creature che fanno questo ai pensieri mi disturba in modo che non so spiegare. Aspetterò qui."*
+
+**Via informatori / magia:** Ingresso da un magazzino abbandonato nel Dock Ward — una porta in pietra che sembra un muro, incisa con simboli Xanathar. Aperta con un meccanismo nascosto (Investigazione CD 14) o forza bruta.
+
+**Atmosfera DM:** Dentro, l'aria è stantia e fredda. Il silenzio è strano — non naturale. Come se qualcosa stesse assorbendo i suoni. Ogni 30 metri, un checkpoint con guardie Xanathar (troll, goblin potenziati, o costrutti).
+
+---
+
+### Scena 3 — La camera di Brottor
+
+*Prima di raggiungere la camera dei Divoratori, c'è una grata di ferro su un passaggio laterale. Oltre la grata, nella luce di una singola torcia a muro, un nano con i capelli bianchi e le mani appoggiate sulle ginocchia conta qualcosa sottovoce. Sul muro accanto a lui, incisioni nella pietra — linee verticali, gruppi da cinque. Ha contato ogni giorno.*
+
+**Atmosfera DM:** Brottor è visibilmente deteriorato fisicamente. Ma gli occhi sono svegli — e quando vede Vorador, c'è un riconoscimento che non ha niente a che fare con la sorpresa.
+
+**Brottor Deepdelver** *(senza alzarsi subito, come se dovesse raccogliere le forze)*:
+> *"Sapevo che saresti venuto. Ho rallentato il processo il più a lungo possibile — gli ho dato tutto sbagliato. Quando sentivo che stava per sfondare, gli raccontavo di Dendar in modo che si perdesse nei dettagli."*
+
+*Poi guarda Vorador con attenzione.*
+> *"Stai usando la seconda forma del sigillo difensivo. Ti avevo detto che la prima è meglio nei corridoi stretti."*
+
+*Dopo un momento, più basso:*
+> *"Ho classificato il caso per proteggerti. Il nome di Dendar è un bersaglio nell'Ordine. Avevo torto — avrei dovuto fidarmi di te."*
+
+**Nota DM:** Aprire la grata richiede Forza CD 15 o Investigazione CD 13 (meccanismo nascosto nel muro). Brottor può camminare ma non combattere — ha 12 PF su 45.
+
+---
+
+### Scena 4 — Il combattimento con Nihiloor
+
+*La camera di Nihiloor è rotonda, con le pareti rivestite di qualcosa che non è pietra — membrana biologica, pulsante. Al centro, in piedi su una piattaforma rialzata, il Mind Flayer attende. Non si nasconde. Sa che siete arrivati — probabilmente dal momento in cui avete messo piede nel covo.*
+
+**Nihiloor** *(telepatico — le parole arrivano direttamente nella testa, senza suono)*:
+> *"Force Grey ha impiegato più tempo del previsto. Interessante. Avevo stimato sette giorni — ne sono passati undici."*
+
+*Una pausa mentale.*
+> *"La vostra presenza qui è... inaspettatamente significativa. Xanathar mi aveva detto che eravate prevedibili."*
+
+**Atmosfera DM:** Nihiloor non insulta — analizza. Ogni cosa che dice è una valutazione ad alta voce. Questo lo rende più inquietante di qualsiasi minaccia tradizionale.
+
+**Durante il combattimento — quando scende sotto 60 PF:**
+
+**Nihiloor** *(telepatico, con qualcosa che suona come stupore genuino)*:
+> *"Avete imparato in fretta. Chi vi ha addestrato?"*
+
+*Non aspetta risposta — è una domanda retorica. Poi convoca i Divoratori rimanenti.*
+
+**Quando viene sconfitto** (se non fugge):
+
+*Nihiloor non fa un discorso finale. Cade lentamente, come qualcosa che si spegne piuttosto che qualcosa che viene ucciso. L'ultima trasmissione telepatica, quasi automatica:*
+> *"...questo non era previsto."*
+
+---
+
 ## 🏆 Ricompense
 
 - **Oro:** 300 mo per membro + bottino covo (~1000 mo in gemme/oggetti magici)

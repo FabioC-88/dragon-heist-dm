@@ -137,6 +137,97 @@ Seguire l'uomo con il tatuaggio — che porta a Rennis — significa abbandonare
 
 ---
 
+## 🎬 Scene Chiave
+
+### Scena 1 — Il briefing di Davil
+
+*Davil Starsong vi incontra al Portale Spalancato la mattina del processo, non al solito tavolo in fondo — a un tavolo vicino alla finestra, con luce diretta. Non è a suo agio qui. È un segnale.*
+
+**Davil Starsong** *(direttamente, come sempre)*:
+> *"Krauser. Hai le prove che Vosk ha ordinato quell'imboscata nella Shadowfell. Io ho costruito un caso su quelle prove. Ho bisogno di qualcuno che le presenti in aula con credibilità. Un ex paladino della Chiesa di Tyr vale più di dieci informatori."*
+
+*Una pausa — non per effetto, ma per lasciare spazio alla domanda ovvia.*
+> *"Non ti sto chiedendo di fare la cosa giusta. Ti sto chiedendo di fare la cosa utile. La differenza, se c'è, te la gestisci tu."*
+
+**Se Friedrich Krauser chiede cosa ci guadagnano gli Zhentarim:**
+> *"Vosk è un magistrato che lavora contro di noi da anni. La sua caduta vale quanto le tue prove. Entrambi otteniamo quello che vogliamo. Non c'è motivo di fingere diversamente."*
+
+---
+
+### Scena 2 — L'aula del tribunale
+
+*L'aula del Quartiere del Castello è pubblica — trenta persone almeno, tra curiosi, giornalisti di gazzette, e persone con interessi in questa vicenda che il party non conosce. Vosk è seduto al banco degli imputati con la postura di chi è convinto di essere in visita, non a processo.*
+
+**Atmosfera DM:** Questa è una stanza dove tutti guardano tutti. Scintilla può usare questo — mentre l'attenzione è su Friedrich Krauser, lei può osservare il pubblico senza essere osservata a sua volta.
+
+**Aldren Vosk** *(quando Friedrich Krauser entra in aula, a voce abbastanza alta da essere sentito)*:
+> *"Guarda cosa sei diventato. Almeno io sono rimasto fedele a qualcosa."*
+
+La battuta è autentica — Vosk lo crede davvero.
+
+**Durante la testimonianza di Friedrich Krauser:**
+
+**Vosk** *(incrociando le braccia, rivolto al giudice dopo la deposizione)*:
+> *"Questo uomo ha rotto il suo voto sacro a Tyr. Ha venduto la sua anima a un lord degli Inferi. E voi prendete la sua parola?"*
+
+*Il giudice esita. La stanza esita. Ma le prove sono scritte, non solo parlate.*
+
+---
+
+### Scena 3 — Scintilla e l'uomo con il tatuaggio
+
+*Mentre tutti guardano il banco dei testimoni, Scintilla guarda il pubblico. Terza fila, lato destro: un uomo che non guarda il processo. Guarda Vosk. Sul polso sinistro, appena visibile sotto il bordo della manica, il profilo di un serpente alato — lo stesso simbolo che Rennis aveva descritto nei registri.*
+
+**Atmosfera DM:** Questo è silenzioso. Scintilla non può agire adesso — è in un'aula pubblica durante un processo. Può solo guardare, memorizzare, aspettare. Con Percezione CD 13 lo nota abbastanza presto da tenerlo d'occhio. Con CD 15, nota anche che ha una borsa ai piedi già parzialmente aperta — è pronto a muoversi.
+
+---
+
+### Scena 4 — Il caos / il simulacro di Manshoon
+
+*Quando la condanna diventa inevitabile — il giudice sta per pronunciarsi — un uomo in quinta fila che non aveva attirato l'attenzione di nessuno si alza lentamente. Il suo viso cambia. Poi le sue mani.*
+
+**Atmosfera DM:** Non è un'entrata drammatica — è come guardare qualcosa che si sveglia. In un secondo, l'aula da stanza formale diventa caos: il banco dei testimoni si ribalta, qualcuno urla, il simulacro lancia un incantesimo verso il soffitto non per colpire nessuno, solo per creare confusione.
+
+*Vosk è già in piedi. L'uomo con il tatuaggio lo sta guidando verso un'uscita laterale. In trenta secondi, entrambi sono fuori.*
+
+**Il simulacro di Manshoon** *(nel caos, se qualcuno lo affronta — telepatico, senza aprire la bocca)*:
+> *"Non siete l'obiettivo oggi. Rischiate comunque."*
+
+*Poi attacca, metodico, senza rabbia.*
+
+**Nota DM:** Il simulacro non vuole uccidere il party — vuole coprire la fuga. Quando portato sotto il 50% PF, si dissolve in polvere e ghiaccio. Non c'è corpo, non c'è loot.
+
+---
+
+### Scena 5 — La scelta di Scintilla
+
+*Nel caos dell'aula, Scintilla vede l'uomo con il tatuaggio uscire dall'ingresso laterale. Non sta fuggendo — sta guidando Vosk. Se lo segue adesso, potrebbe seguirlo fino alle Kolat Towers. Se resta, Friedrich Krauser affronta il simulacro senza di lei.*
+
+**Atmosfera DM:** Non c'è la risposta giusta. Non spingete il giocatore in nessuna direzione. Non è un test di fedeltà — è una domanda su cosa conta di più, e non c'è risposta universale.
+
+**Se Scintilla resta:**
+*Dopo, Friedrich Krauser la guarda.*
+> *"Potevi seguirlo."*
+> *"Lo so."*
+
+**Se Scintilla segue:**
+*Riesce a raccogliere abbastanza per capire dove porta il filo — ma perde il contatto col party nel momento di crisi. Può ricongiungersi prima delle Kolat Towers. Ma non era lì quando serviva.*
+
+---
+
+### Scena finale — Le parole di Vosk
+
+*Se il party riesce ad avvicinarsi a Vosk prima che sparisca completamente nel caos:*
+
+**Aldren Vosk** *(già oltre la soglia, senza voltarsi)*:
+> *"Ho fatto quello che dovevo. Voi avete fatto quello che vi è stato detto. Non c'è differenza."*
+
+*Scompare nell'angolo. Le prove originali con lui.*
+
+**Nota DM:** Non offrire redenzione. Non lasciare che Vosk mostri dubbi. La cosa terrificante di Vosk è che crede davvero in quello che dice.
+
+---
+
 ## 🏆 Ricompense
 
 - **Oro:** Davil "dimentica" di pagare nel caos. Ha però un debito narrativo riconosciuto.

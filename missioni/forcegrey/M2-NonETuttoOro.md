@@ -105,6 +105,71 @@ Se Vorador chiede esplicitamente (Persuasione CD 11, o anche solo *"hai visto qu
 
 ---
 
+## 🎬 Scene Chiave
+
+### Scena 1 — Mistshore / informazioni locali
+
+*Mistshore è la parte meno gloriosa del porto — barche abbandonate mezza affondate, capanne su palafitte, gente che preferisce non fare domande. È qui che i marinai che hanno visto il drago si sono rifugiati a bere. Trovarne uno che parli richiede pazienza e qualcosa da offrire.*
+
+**Marinaio spaventato** *(terzo boccale di meraviglie)*:
+> *"Era grande. Non come un cavallo — come un magazzino. Bronzeo, gli occhi gialli. Ha rotto il molo di nord per sbaglio — per SBAGLIO, capisce? Come se non si rendesse conto della sua stessa dimensione. Poi si è immerso. Non l'ho visto più."*
+
+Se chiedono se sembrava aggressivo:
+> *"No. Sembrava... confuso. Come qualcuno che si è perso e non vuole ammetterlo."*
+
+---
+
+### Scena 2 — La discesa / Obliteros
+
+*Sott'acqua il porto è un posto diverso. La luce filtra dall'alto in raggi verdi e grigi, le corde delle ancore scendono verso l'oscurità, e il rumore delle onde diventa un ronzio sordo. Il freddo arriva subito.*
+
+**Atmosfera DM:** Date al party qualche momento per orientarsi — la visibilità non è ottima, il movimento è lento senza velocità natatoria. Poi, dal basso, qualcosa si muove.
+
+*Obliteros appare dal fondo come una parete che avanza — sette metri di squalo con le mascelle già aperte. Ma c'è qualcosa di strano: gli occhi non hanno la furia di un predatore. Hanno l'espressione di una creatura che sta seguendo un ordine che non ha scelto.*
+
+**Se il party attacca:** Obliteros combatte. Al 50% PF, rallenta — come se stesse cercando di resistere a qualcosa. Con Percezione CD 13, il party nota il teschio dorato agganciato sotto la pinna dorsale.
+
+**Se il party tenta di fermarlo:** Persuasione su animali CD 14 — con vantaggio se qualcuno individua il teschio. Se il teschio viene rimosso, Obliteros smette di attaccare immediatamente. Nuota via senza voltarsi.
+
+---
+
+### Scena 3 — Il relitto della Neverluster
+
+*Il relitto è sul fondo est del porto, parzialmente sepolto nel fango. La corrente lo ha coperto di alghe e coralli neri — da lontano sembra quasi naturale, parte del fondale. Quando il party si avvicina, una porta dello scafo si apre.*
+
+**Zelifarn** *(voce come acqua che scorre su pietre, sorprendentemente tranquilla)*:
+> *"Non siete Guardia Cittadina. Non siete cacciatori di mostri. Siete qualcos'altro."*
+
+*Una pausa mentre li esamina.*
+> *"Force Grey? Ah. Finalmente qualcuno con cui vale la pena parlare. Entrate — la corrente porta cattive notizie dal nord stasera."*
+
+**Atmosfera DM:** Zelifarn nel relitto è come qualcuno in casa propria — rilassato, curioso, un po' condiscendente nel modo tipico dei draghi giovani che si credono già antichi. Ma c'è qualcosa di genuino nella sua apertura.
+
+**Zelifarn** *(sulla sua situazione)*:
+> *"Sono qui perché la mia posizione precedente è diventata insalubre. Una creatura con troppi occhi ha deciso che il mio territorio era suo. Preferisco Waterdeep — almeno qui la gente ha la decenza di nascondere i propri crimini."*
+
+**Gancio Vorador** — dopo un rapporto stabilito:
+> *"Ho osservato queste acque per mesi. Alcune settimane fa ho visto qualcosa di inusuale — trascinato verso il fondo est, dove le rocce diventano gallerie. Basso e robusto. Barba lunga. Gridava in una lingua che suona come roccia che si frantuma."*
+
+*Se Vorador chiede:*
+> *"Portava qualcosa al collo — un disco di metallo con simboli. Brillava di luce propria, piccola, come una lanterna stanca. E sulle mani: tatuaggi di rune naneschi. Lo stesso stile di certi testi che conservo nel relitto."*
+
+---
+
+### Scena 4 — La borsa di Brottor
+
+*Mentre il party esplora il relitto, nell'angolo della camera secondaria — parzialmente coperta da una vela affondata — c'è una borsa in cuoio grezzo con rune naneschi incise attorno alla chiusura. La borsa è impermeabile, costruita per durare.*
+
+*Dentro:*
+- *Un quaderno da campo — carta speciale, leggibile al 60% nonostante i mesi sott'acqua*
+- *Uno schizzo di una silhouette con tentacoli che scende dal cranio*
+- *Una nota in nano: "Non è un culto. È una rete. La creatura non prende — prende IN PRESTITO. Torna a prendere."*
+- *Un medaglione dell'Ordine Vigilante con l'iniziale "B" incisa sul retro*
+
+**Atmosfera DM:** Consegnate la borsa a Vorador senza commenti. Non spiegate il contenuto — lasciate che lo legga da solo. Il medaglione è la conferma che non aveva: questa è roba di Brottor. Qui. Sott'acqua.
+
+---
+
 ## 🏆 Ricompense
 
 - **Oro:** 100 mo per membro + quota bottino relitto (~200 mo in gioielli)

@@ -126,16 +126,68 @@ Tra i documenti normali (prove di traffici drow, corrispondenza con Luskan), ci 
 - L'oggetto sotto la chiglia è un **arma lantaniana** o **sommergibile** — implicazioni politiche enormi
 - Il baule di Jarlaxle contiene documenti che rivelano ad Aelar che Trobbio lo stava manovrando da mesi
 
-**Apparizione di Trobbio — momento opzionale:**
+---
 
-Mentre Aelar sta leggendo il documento B, Trobbio si materializza nella Scarlet Marpenoth — rosa shocking contro l'acciaio grigio del sommergibile, cappello da capitano messo storto. Rimane dieci secondi esatti.
+## 🎬 Scene Chiave
 
-> *"Ah, l'hai trovata. Speravo fossi tu e non uno degli altri — sarebbe stato difficile da spiegare. Non preoccuparti, il capitano non sa ancora che sei qui. Non ancora."*
-> Gira i tacchi. *"Buona lettura."*
+### Scena 1 — Briefing di Remallia / Mirt
 
-Scompare. Bec non dice nulla. È la prima volta.
+*Lo studio di Mirt questa volta non odora solo di candele spente — c'è qualcuno in piedi vicino alla finestra che non ha ancora parlato. Remallia Haventree, alta, capelli scuri legati stretti, abito da lavoro non da corte. Si gira quando il party entra.*
 
-**Nota DM:** Non è combattimento, non è negoziabile. È solo la conferma che Trobbio sa tutto, e che ora Aelar sa che Trobbio sa. Il patto non firmato può diventare reale quando Berto decide di farlo — adesso ha tutte le informazioni.
+**Remallia Haventree:**
+> *"La nave si chiama Eyecatcher. Il capitano si fa chiamare Zardoz Zord — non è il suo vero nome. È Jarlaxle, un drow di Luskan con più interessi in questa città di quanti vogliamo ammettere. Domani è il Giorno delle Meraviglie. Lui sarà in parata per almeno quattro ore. Voi sarete sulla sua nave."*
+
+**Mirt** *(aggiunge, meno formale)*:
+> *"Volete la lista della spesa? Documenti nel baule sottocoperta — lucchetto a combinazione, quindi non brute-force. E qualcosa sotto la chiglia che non dovrebbe essere lì. Portate tutto ciò che non è inchiodato."*
+
+**Remallia** *(prima che il party esca — solo se Aelar è presente, a bassa voce)*:
+> *"Aelar. Un momento. Ho intercettato comunicazioni di Jarlaxle che menzionano ricerche planari. Non capisco il contesto — ma ti ho scelto per questa missione anche per quello. Se c'è qualcosa che non mi hai detto e che potrebbe essere rilevante a quello che troveremo su quella nave — adesso è il momento."*
+
+*Non giudicante. Solo diretta.*
+
+---
+
+### Scena 2 — La notte prima / sorveglianza
+
+*Il porto di notte sa di pesce, sale e catrame caldo. L'Eyecatcher è attraccata al molo principale — lunga, nera, con tre alberi che sembrano voler grattare il cielo. Le guardie sul ponte cambiano ogni due ore. Al terzo cambio, uno dei marinai drow rimane fermo troppo a lungo vicino alla murata di dritta.*
+
+**Atmosfera DM:** Questo momento serve a stabilire il ritmo dell'infiltrazione. Il party può usare Percezione per mappare le ronde, Furtività per muoversi lungo i moli senza essere notati, o semplicemente aspettare l'alba. Non c'è fretta — la fretta arriva domani.
+
+---
+
+### Scena 3 — A bordo / la Scarlet Marpenoth
+
+*Il sommergibile è una cosa strana e brutta — metallo grigio scuro, ribattini arrugginiti, oblò spessi come pugni. Puzza di olio e aria vecchia. Il baule di Jarlaxle è in U4, incatenato a un supporto a parete. Quando il party lo apre, la prima cosa che salta fuori è corrispondenza ordinaria — poi, in fondo, due fogli diversi dagli altri.*
+
+**Atmosfera DM:** Questa è la scena più lenta della missione. Date al party il tempo di cercare, descrivete l'ambiente claustrofobico, il suono del mare che batte sullo scafo. Quando trovano i documenti, non commentate — lasciate che siano loro a interpretare.
+
+**Il documento A** (mappa planare) si consegna al party intero: ci sono punti segnati, uno cade nella posizione approssimativa di Sildëyuir, accanto al quale c'è scritto *"Fonte: T. Verifica: in corso."*
+
+**Il documento B** (lettera in alto elfico, firmata "T.") — solo Aelar può leggerla senza magia. Consegnatela piegata.
+
+---
+
+### Scena 4 — L'apparizione di Trobbio
+
+*Mentre Aelar sta ancora tenendo in mano il documento B, qualcosa cambia nell'aria della Scarlet Marpenoth. L'acciaio grigio rimane lo stesso. Ma in un angolo che prima era vuoto c'è una figura — rosa shocking contro il grigio, cappello da capitano messo storto come per ironia. Trobbio si guarda intorno con l'aria di chi è arrivato in ritardo a un appuntamento che aveva già visto finire.*
+
+**Trobbio** *(tranquillo, quasi allegro)*:
+> *"Ah, l'hai trovata. Speravo fossi tu e non uno degli altri — sarebbe stato difficile da spiegare."*
+
+*Una pausa.*
+> *"Non preoccuparti. Il capitano non sa ancora che sei qui. Non ancora."*
+
+*Gira i tacchi. Scompare. La stanza è di nuovo silenziosa.*
+
+**Atmosfera DM:** Dieci secondi precisi. Nessuna minaccia, nessuna negoziazione, nessuna spiegazione. Se qualcuno nel party ha visto Trobbio, ha visto solo una figura rosa per un secondo che è scomparsa prima che potessero reagire.
+
+Bec non dice nulla. È la prima volta dall'inizio della campagna che Bec rimane in silenzio quando avrebbe potuto parlare.
+
+**Nota DM:** Non è combattimento, non è negoziabile. È la conferma che Trobbio sa tutto — e ora Aelar sa che Trobbio sa. Il patto non firmato può diventare reale quando il giocatore decide di farlo. Ha tutte le informazioni.
+
+**Apparizione di Trobbio — momento opzionale (già integrato nella Scena 4):**
+
+(Vedere sopra — la scena è descritta per essere giocata direttamente)
 
 ---
 

@@ -130,9 +130,80 @@ Se il party lo protegge e indaga sul "morso":
 **Tema:** Chi decide cosa è "giusto" per una persona — la famiglia o la scelta personale?
 
 **Colpi di Scena:**
-- Dasher ha un "segno" — possibile vampirismo, licantropia, o possessione
+- Dasher ha un morso — trasformazione in lupo ratto in corso
 - Blossom non sa della trasformazione (plot thread per futuro)
-- Se il "morso" è di origine soprannaturale, collega a minacce più grandi
+- I documenti cuciti nel giocattolo riguardano direttamente entrambi i PG
+
+---
+
+## 🎬 Scene Chiave
+
+### Scena 1 — Villa Snobeedle / Blossom
+
+*La Villa Snobeedle non è il palazzo che ci si aspetta da una delle famiglie più ricche di Waterdeep — è sobria, ordinata, con un frutteto curato sul retro. Blossom Snobeedle vi riceve nella sala principale. Capelli bianchi, abito semplice, occhi gonfi. Non piange davanti a voi — ha già pianto abbastanza in privato.*
+
+**Blossom Snobeedle:**
+> *"Dasher non è scomparso — è andato. C'è una differenza. Ha lasciato una nota, tre mesi fa: 'Non preoccuparti. Sto bene. Non cercarmi.' Come se questo bastasse."*
+
+*Pausa.*
+> *"Non mi interessa riportarlo a casa per forza. Mi interessa sapere che è vivo. Se lo è, vi pago. Se è in pericolo, vi pago di più."*
+
+Se chiedono dell'ultimo posto in cui è stato visto:
+> *"Il Quartiere Sud. Aveva degli amici là — 'gente comune', diceva, come se noi fossimo un'altra specie. Cercate un posto chiamato Buco nel Muro."*
+
+---
+
+### Scena 2 — Il Buco nel Muro / i Shard Shunners
+
+*Il Buco nel Muro è esattamente quello che il nome suggerisce — un ingresso basso in una via laterale del Southern Ward, con quattro mezzuomini seduti su casse all'esterno. Non sono guardie, ufficialmente. Si muovono come guardie.*
+
+**Atmosfera DM:** Questo è un posto dove i mezzuomini si sentono umani invece che piccoli. Non è ostilità verso il party — è protezione di qualcosa di raro. Chi non è un mezzuomo entra solo se qualcuno risponde di lui.
+
+*Se il party riesce a entrare (Persuasione CD 14, o mezzuomo nel gruppo):*
+
+*Dentro, al tavolo in fondo, c'è un ragazzo sui venti anni con capelli scuri e un cappello tenuto basso sul lato sinistro del collo. Quando il party si avvicina, tira su il cappello automaticamente — poi lo abbassa di nuovo, troppo tardi.*
+
+**Dasher Snobeedle** *(alzandosi, già sulla difensiva)*:
+> *"Vi ha mandato mia madre. Non voglio sentirlo."*
+
+Se il party insiste con calma:
+> *"Qui ho una famiglia vera. Non la gente che viene a cena tre volte l'anno e mi chiede se ho trovato una ragazza perbene. I Shard Shunners mi conoscono. Sanno chi sono."*
+
+---
+
+### Scena 3 — Il morso / la storia vera
+
+*Se il party guadagna abbastanza fiducia di Dasher (Persuasione CD 13 o approccio genuinamente non giudicante):*
+
+*Dasher abbassa completamente il cappello. Sul lato sinistro del collo, sotto l'orecchio, un segno di morso — due impronte di denti, non guarite normalmente. Leggermente livide ai bordi.*
+
+**Dasher** *(piano, come se stesse ammettendo qualcosa per la prima volta ad alta voce)*:
+> *"Tre mesi fa stavo tornando a casa la notte. Non ho visto chi era. Ho sentito solo — questo. E poi il mattino dopo mi sono svegliato con la testa piena di cose che non c'erano prima."*
+
+*Si ferma.*
+> *"Non so cosa diventerò. So che non voglio che mia madre lo veda succedere. Ecco perché sono qui."*
+
+**Nota DM:** Arcana o Medicina CD 13 — chi supera riconosce il morso come licantropia ratta (wererat) in stadio iniziale. La trasformazione non è ancora avvenuta. C'è tempo, ma non troppo.
+
+---
+
+### Scena 4 — I documenti
+
+*Se il party resta con Dasher abbastanza a lungo — o se Friedrich Krauser/Scintilla fanno domande sul periodo in cui Dasher lavorava come scrivano:*
+
+**Dasher** *(con un mezzo sorriso amaro)*:
+> *"Vosk. Sì, lavoravo per lui. Tre anni — copiavo atti, registravo verbali, fascicolavo. Non mi chiedevano di capire, solo di copiare. Poi ho capito che era meglio andarsene."*
+
+*Si alza, va verso il materasso, solleva il bordo. Sotto, un giocattolo — un cavallino di legno dipinto, ormai sbiadito. Lo porta al tavolo.*
+
+> *"L'ho portato quando sono andato via. Non so perché. L'aveva fatto mio padre. Dentro — non l'ho mai aperto, ma mi sembrava pesante."*
+
+*Apre il fodero cucito sotto la pancia del cavallino. Dentro, piegati in modo preciso come da qualcuno che li ha inseriti sapendo dove andrebbero stati trovati, ci sono due fogli.*
+
+**Nota DM:** Consegnate la Sezione A a Friedrich Krauser e la Sezione B a Scintilla. Lasciate che li leggano separatamente. Non commentate nulla. Se Dasher chiede cosa ci sia scritto:
+> *"Non lo so davvero — ho copiato quello che mi dicevano di copiare. Cos'è?"*
+
+Lascia che siano i PG a rispondere.
 
 ---
 

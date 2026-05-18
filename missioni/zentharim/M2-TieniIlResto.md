@@ -113,13 +113,78 @@ Questo è il momento in cui le storie dei due PG si toccano concretamente per la
 
 ## 🎭 Trama Narrativa
 
-**Tema:** Non tutti i veleni sono di Zhentarim — e non tutti i movimenti sono ciò che sembrare.
+**Tema:** Non tutti i veleni sono di Zhentarim — e non tutti i movimenti sono ciò che sembrano.
 
 **Colpi di Scena:**
-- Skeemo è il tradizione — lavora secretamente per Manshoon, rivale degli Zhentarim
+- Skeemo lavora secretamente per Manshoon, rivale degli Zhentarim
 - Esvele Rosznar è **leggenda viva** — se avvertita, diventa alleata formidabile
-- Consegnare le pozioni consapevolmente = potenziale nemico per Vila Cassalanter (storia collaterale)
-- Non consegnare = morte certa di Esvele, guadagno morale
+- Consegnare le pozioni consapevolmente = morte di Esvele, potenziale alleata perduta
+- Non consegnare = sfidare la prima missione seria con gli Zhentarim
+
+---
+
+## 🎬 Scene Chiave
+
+### Scena 1 — Alchimia Weirdbottle
+
+*Il negozio odora di zolfo, cannella e qualcosa di più difficile da identificare — forse il particolare tipo di fastidio chimico che nasce quando si combinano cose che non dovrebbero stare insieme. Skeemo Weirdbottle è un gnomo anziano con lenti spesse, capelli bianchi raccolti disordinatamente, e un grembiule che porta i segni di decenni di esperimenti. È cordiale in modo preciso — ogni parola calibrata.*
+
+**Skeemo Weirdbottle** *(avanzando le pozioni avvolte in carta cerata)*:
+> *"Eccole. Sei vialette, dosaggio standard, etichettate. Dite al vostro committente che Skeemo non sbaglia le misure — mai."*
+
+*Una pausa, con un sorriso professionale.*
+> *"Assicuratevi che la destinataria le prenda tutte e sei. Il risultato non funziona a metà dose."*
+
+**Atmosfera DM:** Questa frase finale — "assicuratevi che le prenda tutte e sei" — può essere lasciata cadere senza commento. È il momento in cui Skeemo si rivela a chi presta attenzione. Se il party fa domande, risponde con vaga tecnicità.
+
+**Se qualcuno chiede cosa contengono esattamente:**
+> *"Lettura del Pensiero, come indicato. La composizione è proprietà dell'alchimista. Fiducia reciproca, eccetera."*
+
+*Attiva Suggestione (CD 13 Sag) se sente che stanno per esaminare le pozioni.*
+
+---
+
+### Scena 2 — Il riconoscimento di Scintilla / il sigillo di Friedrich Krauser
+
+*Fuori dal negozio, prima di raggiungere la statua, qualcuno del party esamina il pacco.*
+
+**Il momento di Scintilla** *(automatico, senza tiro)*: Scintilla toglie il tappo di una vialetta e annusa. Non bevendo — annusando. Conosce questa combinazione di componenti. Li ha visti nei registri di ordinazione di Rennis Coalsworth, anni prima che sparisse. Non sono pozioni di Lettura del Pensiero. Ha bisogno di qualche minuto per essere sicura, ma la firma chimica è quella.
+
+> *"Questo non è quello che dicono che sia."*
+
+**Il momento di Friedrich Krauser** *(automatico)*: Sul lato della carta da imballaggio, quasi invisibile finché non la si gira, c'è un sigillo in ceralacca verde — una bilancia stilizzata. Friedrich Krauser lo riconosce immediatamente: è lo stesso stemma che compariva sull'ordine di missione che lo aveva mandato nella Shadowfell.
+
+*Se nessuno dei due parla per primo:*
+
+**Atmosfera DM:** Aspettate. Scintilla tiene la vialetta aperta. Friedrich Krauser tiene il pacco in mano con quel sigillo visibile. Dategli il tempo di guardare entrambi allo stesso momento. La connessione tra le loro storie in questo momento non ha bisogno di essere spiegata ad alta voce.
+
+---
+
+### Scena 3 — Esvele Rosznar alla Statua del Cacciatore di Dei
+
+*La Statua del Cacciatore di Dei è alta e severa nel buio del Castle Ward. Ai piedi, in mantello viola, una donna che potrebbe avere cinquant'anni come centocinquanta — impossibile dirlo con certezza. Aspetta senza muoversi, senza guardare intorno. Sa già dove siete.*
+
+**Esvele Rosznar** *(quando il party si avvicina)*:
+> *"Siete arrivati. Avete le pozioni?"*
+
+**Se il party le consegna senza avvertirla:**
+Esvele le prende, verifica il sigillo, se ne va. Fine interazione.
+
+**Se il party la avverte:**
+
+**Esvele** *(senza cambiare espressione)*:
+> *"Interessante. Quindi Skeemo si è schierato definitivamente. Non ero sicura."*
+
+*Una pausa.*
+> *"Perché mi avvisate?"*
+
+**Se il party risponde onestamente:**
+> *"Capisco. Non siete Zhentarim-Manshoon. Siete qualcos'altro."*
+
+*Guarda le pozioni senza toccarle.*
+> *"Tenete il vostro pagamento. E quando avrete bisogno di sapere qualcosa su Villa Cassalanter — trovate un modo per contattarmi. Saprò chi siete."*
+
+**Atmosfera DM:** Esvele non è grata in modo dimostrativo. È pratica. Questo è il massimo del calore che "La Vipera Nera" esprime — e va benissimo così.
 
 ---
 

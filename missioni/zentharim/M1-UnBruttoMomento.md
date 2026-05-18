@@ -12,23 +12,23 @@
 
 ---
 
-## 🔥 Modifica Narrativa — Arco Krauser & Scintilla
+## 🔥 Modifica Narrativa — Arco Friedrich Krauser & Scintilla
 
-**Protagonista principale: Krauser | Ruolo attivo: Scintilla | Livello: 2–3**
+**Protagonista principale: Friedrich Krauser | Ruolo attivo: Scintilla | Livello: 2–3**
 
 **La vittima riconosciuta:**
-Tra i tre marinai decapitati c'è **Edran Voss**, mezzelfo. Krauser lo riconosce: era uno dei commilitoni inviati nella Shadowfell, creduto morto nell'imboscata. Era sopravvissuto, era fuggito con un frammento di prova contro **Vosk**, e qualcuno lo ha trovato prima che potesse parlare.
+Tra i tre marinai decapitati c'è **Sylrael Voss**, mezzelfo. Friedrich Krauser lo riconosce: era uno dei commilitoni inviati nella Shadowfell, creduto morto nell'imboscata. Era sopravvissuto, era fuggito con un frammento di prova contro **Vosk**, e qualcuno lo ha trovato prima che potesse parlare.
 
-Quando Krauser identifica il corpo, capisce due cose in un colpo: Vosk sta ancora ripulendo le prove, e lui è probabilmente il prossimo sulla lista.
+Quando Friedrich Krauser identifica il corpo, capisce due cose in un colpo: Vosk sta ancora ripulendo le prove, e lui è probabilmente il prossimo sulla lista.
 
 **Il ruolo di Scintilla:**
-Scintilla conosce i canali del mercato nero del porto. Può identificare il drow assassino attraverso i suoi contatti — senza di lei il gruppo brancolherebbe nel buio. L'indagine è impossibile senza questa collaborazione.
+Scintilla conosce i canali del mercato nero del porto. Può identificare il drow assassino attraverso i suoi contatti — senza di lei il gruppo brancolerebbe nel buio. L'indagine è impossibile senza questa collaborazione.
 
 **La scena conclusiva:**
 Il drow viene fermato. Prima di essere neutralizzato o fuggire, mormora:
 > *"Vosk paga bene. Manshoon paga meglio."*
 
-È il primo filo che collega i due villain. Né Krauser né Scintilla conoscono ancora il nome di Manshoon.
+È il primo filo che collega i due villain. Né Friedrich Krauser né Scintilla conoscono ancora il nome di Manshoon.
 
 **Nota DM — riservata:** Il drow non lavora per Manshoon direttamente — lavora per Vosk, ma sa chi finanzia Vosk. La battuta è autentica, non un depistaggio. Questa missione è il primo contatto formale con Davil Starsong per entrambi i PG.
 
@@ -60,7 +60,7 @@ Il drow viene fermato. Prima di essere neutralizzato o fuggire, mormora:
 |-----|-------|------|
 | **Davil Starsong** | Referente Zhentarim | Pragmatico, niente sentimenti |
 | **Heldar** | Marinaio mezzelfo (bersaglio) | 50 anni, brillo, coraggioso fino alla temerarietà |
-| **Edran Voss** | Vittima riconosciuta da Krauser | Commilitone della Shadowfell, creduto morto; portava prove contro Vosk |
+| **Sylrael Voss** | Vittima riconosciuta da Friedrich Krauser | Commilitone della Shadowfell, creduto morto; portava prove contro Vosk |
 | **L'Assassino Drow** | Sicario di Vosk | Assoldato da Vosk tramite intermediari; conosce anche il nome di Manshoon |
 | **Richard Charleston** | Gestore Muleskull | Cooperativo, nervoso |
 
@@ -84,13 +84,13 @@ Tre marinai elfi/mezzelfi, **tutti decapitati** di notte nei magazzini. Schema c
 ### Heldar — Bersaglio Vivente
 - **Descrizione:** Capelli grigi, cicatrici, occhi chiari, ubriaco
 - **Personalità:** Caldo, coraggioso, non prende minacce seriamente
-- **Reazione agli avvertimenti:** "Haha, non mi importa. Ho combattuto per decenni."
-- **Meccanica:** Se ignorato, muore al tramonto (`orso). Se protetto, diventa alleato for future qmissioni
+- **Reazione agli avvertimenti:** *"Haha, non mi importa. Ho combattuto per decenni."*
+- **Meccanica:** Se ignorato, muore al tramonto. Se protetto, diventa alleato in future missioni
 
-### Edran Voss — La Vittima Chiave
-Tra le tre vittime c'è Edran Voss, mezzuelfo, commilitone di Krauser nella Shadowfell. Creduto morto nell'imboscata, era sopravvissuto con un frammento di prova contro Vosk. Qualcuno lo ha trovato prima che potesse parlare.
+### Sylrael Voss — La Vittima Chiave
+Tra le tre vittime c'è Sylrael Voss, mezzuelfo, commilitone di Friedrich Krauser nella Shadowfell. Creduto morto nell'imboscata, era sopravvissuto con un frammento di prova contro Vosk. Qualcuno lo ha trovato prima che potesse parlare.
 
-**Cosa dice il corpo a Krauser:** Vosk sta ancora eliminando testimoni. Krauser potrebbe essere il prossimo.
+**Cosa dice il corpo a Friedrich Krauser:** Vosk sta ancora eliminando testimoni. Friedrich Krauser potrebbe essere il prossimo.
 
 ### L'Assassino Drow
 - **Identità:** Sicario assoldato da Vosk — sa con chi lavora, sa anche chi finanzia Vosk
@@ -127,10 +127,103 @@ Senza i contatti di Scintilla nel mercato nero del porto, il drow non viene iden
 
 ---
 
+## 🎬 Scene Chiave
+
+### Scena 1 — Davil Starsong al Portale Sbadigliante
+
+*Davil Starsong non sembra qualcuno che gestisce crimini. Sembra qualcuno che gestisce problemi — la differenza è sottile ma reale. Al tavolo del fondo del Portale Sbadigliante, con un boccale davanti e nessuna fretta visibile, vi guarda arrivare dall'altro capo della stanza. Non fa cenni. Aspetta che ci arriviate.*
+
+**Atmosfera DM:** Davil è l'uomo più calmo nella stanza più rumorosa di Waterdeep. Questo non è comfort — è controllo.
+
+**Davil Starsong** *(quando vi sedete)*:
+> *"Tre marinai. Tutti elfi o mezzelfi. Tutti decapitati in modo professionale, di notte, vicino ai moli. La Guardia Cittadina non ha indizi e non li cercherà abbastanza a lungo. Io voglio che smetta."*
+
+*Una pausa — beve, posa il boccale.*
+> *"Il prossimo sulla lista si chiama Heldar. È alla Muleskull, ubriaco probabilmente già adesso. Trovate chi lo vuole morto e fate sì che non succeda. Portarmi il capo del responsabile sarebbe apprezzato."*
+
+Se chiedono perché gli importa:
+> *"Perché il porto è il mio quartiere. Qualcuno che uccide nel mio quartiere senza chiedere il permesso è un problema che risolvo. È semplice."*
+
+---
+
+### Scena 2 — Il corpo di Sylrael Voss
+
+*La scena del primo omicidio è già stata sgomberata dalla Guardia — ufficialmente. In pratica, con Investigazione CD 12, il party trova ancora tracce: l'angolo del magazzino dove è successo, una macchia di sangue sotto una cassa, e un oggetto dimenticato o intenzionalmente lasciato vicino al muro.*
+
+*Se Friedrich Krauser fa l'identificazione del corpo (all'obitorio della Guardia o tramite descrizione dei testimoni):*
+
+**Atmosfera DM:** Questo è un momento lento. Non c'è reazione drammatica da richiedere — basta descrivere il corpo. Friedrich Krauser conosce quel viso. Dategli un secondo.
+
+*Se Friedrich Krauser chiede di vedere i resti personali:*
+
+Tra i pochi oggetti recuperati sul corpo c'è un amuleto di Tyr. Sul retro, inciso a mano con qualcosa di aguzzo — non da un orefice:
+
+> *"Anann'ya veth, anann'ya sura."*
+
+Friedrich Krauser non legge l'elfico. Ma riconosce l'amuleto — Sylrael Voss glielo aveva mostrato anni fa, dopo la prima battaglia. Se l'era inciso da sé e gli aveva recitato la frase tradotta: *"Che il giusto trovi pace prima della spada."* Friedrich Krauser non ricordava le parole elfiche. Ricordava la cosa.
+
+**Atmosfera DM:** Consegnate l'amuleto a Friedrich Krauser senza commenti. Non spiegate. Non commentate. Aspettate.
+
+---
+
+### Scena 3 — Heldar alla Muleskull
+
+*La Muleskull è stranamente pulita per essere una taverna di porto — i tavoli non hanno incisioni, il bancone è stato lucidato di recente. È la sede della Gilda degli Spazzini, e si vede. Richard Charleston, il gestore, è un uomo nervoso con le mani sempre in movimento.*
+
+*Heldar è al bancone. Capelli grigi, cicatrici sulle mani, occhi chiari un po' velati. Ha la postura di qualcuno che ha visto di peggio e non è convinto che questo conti.*
+
+**Heldar** *(quando il party lo avverte del pericolo, senza alzare la testa dal boccale)*:
+> *"Assassino drow? Bello. Non li ho mai incontrati di notte. Sento che sono bravini."*
+
+Se insistono:
+> *"Amici, ho navigato verso Luskan in piena tempesta con un capitano mezzo matto e un equipaggio di sette ubriachi. Un assassino nel porto è martedì."*
+
+**Atmosfera DM:** Heldar non è stupido — è stanco. Ha smesso di avere paura delle cose molto tempo fa, e questo lo rende pericoloso per se stesso. Se il party lo protegge davvero, nota il gesto con sincerità.
+
+**Richard Charleston** *(a bassa voce, solo al party)*:
+> *"Portate quell'uomo fuori da qui se volete tenerlo vivo. Io non posso fare niente — ho una gilda da gestire e non voglio sangue sul bancone nuovo."*
+
+---
+
+### Scena 4 — Il drow assassino / le parole finali
+
+*Il drow si muove di notte, vicino alle ombre dei magazzini. Se il party lo intercetta prima che raggiunga Heldar — o durante il tentativo — il combattimento è breve e deciso. Il drow non è un villain da monologo. Combatte per uscire, non per spiegare.*
+
+**Atmosfera DM:** Se catturato vivo (Atletica/Inganno CD 14 per neutralizzare senza uccidere), parla solo sotto pressione significativa. Non conosce molti dettagli — è stato assoldato tramite un intermediario. Sa solo due nomi.
+
+**L'Assassino Drow** *(se messo abbastanza alle corde)*:
+> *"Vosk paga bene. Manshoon paga meglio."*
+
+*Poi, se vede che quei nomi non significano niente al party:*
+> *"Fate il vostro conto da soli."*
+
+**Nota DM:** Il drow non sa nulla di più di così. Non sa perché Sylrael Voss doveva morire. Sa che Vosk gli ha dato i nomi e Manshoon ha aggiunto i soldi. Non è interessante per lui sapere altro.
+
+---
+
+## 🤝 L'Invito Formale — Scintilla e Friedrich Krauser
+
+**Timing:** Il giorno dopo, quando il party riferisce a Davil l'esito della missione.
+
+*Davil ascolta il resoconto senza interromperlo. Quando il party finisce, rimane in silenzio un momento — non drammatico, solo il tempo di valutare.*
+
+**Davil Starsong:**
+> *"Avete fatto il vostro. Heldar è vivo, il drow non lo è, e adesso so che nel porto c'è qualcosa di più grande di un sicario freelance. Utile."*
+
+*Si alza — non per andarsene, ma per spostarsi al bancone. Ordina qualcosa, poi si gira.*
+> *"Se volete continuare a fare il vostro, sapete dove trovarmi."*
+
+*Poi guarda Scintilla, poi Friedrich Krauser — uno alla volta, brevemente.*
+> *"Non è un ordine. È un'offerta. C'è differenza."*
+
+**Atmosfera DM:** L'invito di Davil non ha cerimoniale. Non dice "benvenuti negli Zhentarim" — dice che c'è un tavolo e un posto vuoto. Il resto lo decidono loro.
+
+---
+
 ## 🏆 Ricompense
 
 - **Oro:** 100 mo per membro
-- **Fama Zhentarim:** +2 (se protect Heldar); +1 (se solo uccidi assassino)
+- **Fama Zhentarim:** +2 (se Heldar protetto); +1 (se solo ucciso l'assassino)
 - **Heldar Ally:** Se salvato, Heldar diventa informatore nei moli
 - **Intel:** Scoperta di forze esterne al controllo Zhentarim operanti nel porto
 
@@ -139,7 +232,7 @@ Senza i contatti di Scintilla nel mercato nero del porto, il drow non viene iden
 ## 🔗 Connessioni
 
 - **Collegate a:** [Zentharim M2](M2-TieniIlResto.md), [M3](M3-CorriDasher.md), [M4](M4-SangueDeiPatto.md)
-- **Introduce:** Il nome di **Vosk** come mandante — primo filo della questline personale di Krauser
+- **Introduce:** Il nome di **Vosk** come mandante — primo filo della questline personale di Friedrich Krauser
 - **Introduce:** Il nome di **Manshoon** — ancora sconosciuto al party, ma già presente in ombra
 - **Rivela:** Vulnerabilità Zhentarim nel porto
 - **Arco PG:** [Arco Krauser & Scintilla](../../fonti/personaggi/Arco_Krauser_Scintilla.md) — Missione 1
@@ -170,4 +263,3 @@ Possibilità di seguire le tracce nel Quartiere del Sud (collegamento a M3 Dashe
 ---
 
 **Aggiornamento:** 7 Aprile 2026 | **Stato:** Non giocata
-

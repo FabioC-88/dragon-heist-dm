@@ -80,6 +80,70 @@ Se il party tira **Spada/Magia**, i doppelganger svaniscono — missione fallisc
 
 ---
 
+## 🎬 Scene Chiave
+
+### Scena 1 — Mattrim "Tre Corde" al Portale Sbadigliante
+
+*C'è un trovatore che suona in un angolo del Portale Sbadigliante — niente di insolito. Insolito è il liuto: tre corde in più rispetto al normale, attorcigliate attorno al manico come serpenti addormentati. L'uomo è giovane-medio, capelli scuri, l'aria di chi è sempre a metà tra una battuta e una cosa seria.*
+
+**Mattrim Mereg** *(quando il party si avvicina, senza smettere di suonare)*:
+> *"Eccovi. Bene. Sedetevi, ordinate qualcosa — l'incontro che devo farvi fare è in un posto che non serve alcol. Conviene farne scorta adesso."*
+
+Quando il party chiede dei doppelganger:
+> *"Cercano di sopravvivere in una città che li ammazzerebbe se scoprisse cosa sono. Bonnie tiene tutto insieme. È intelligente, è pratica, e — cosa rara per chiunque in questa città — mantiene la parola. Gli Arpisti hanno bisogno di persone così. Anche se non sembrano persone."*
+
+Se chiedono di Slane:
+> *"Slane è... complicato. Ha fatto cose, in passato. Ma Bonnie risponde di lui. Per ora, rispondo anch'io."*
+
+---
+
+### Scena 2 — Il magazzino dei Mutaforma
+
+*Il magazzino sa di cera e stoppino — effettivamente una candleria abbandonata. Dentro, l'aria è ferma. Bonnie vi aspetta seduta su un bancone rovesciato, in forma di donna umana, capelli rossi, trent'anni circa. Slane sta in piedi vicino alla finestra, di spalle. Voss è da qualche parte nell'ombra — solo quando ci fate caso, notate che era lì dall'inizio.*
+
+**Atmosfera DM:** I Mutaforma non sono minacciosi — sono valutatori. Stanno guardando il party esattamente come il party sta guardando loro. Bonnie ha già fatto la scelta di incontrare degli Arpisti. Sta solo decidendo se ne valeva la pena.
+
+**Bonnie** *(direttamente, senza preamboli)*:
+> *"Mattrim dice che siete affidabili. Io non lo so ancora. Ma sono qui, quindi qualcosa mi ha convinto a provarci. Ditemi perché dovrei fidarmi di voi."*
+
+**Se il party risponde in modo onesto (anche ammettendo dubbi):**
+> *"Bene. L'onestà è sottovalutata in questa città. I bugiardi ci siamo noi, in teoria — eppure siete voi gli umani a mentirvi continuamente tra di voi."*
+
+**Se il party risponde in modo politico o calcolato:**
+Bonnie sorride — non è un sorriso caldo.
+> *"Già, capito. Lasciamo stare le presentazioni formali. Ditemi invece cosa volete da noi, concretamente."*
+
+---
+
+### Scena 3 — Slane e i sogni (solo se il party costruisce fiducia)
+
+*Slane non si muove dalla finestra per tutta la riunione. Se qualcuno gli parla direttamente — e in modo non aggressivo — si gira lentamente. Ha il viso di chi ha smesso di dormire bene da qualche tempo.*
+
+**Slane** *(secco, come se stesse concedendo qualcosa che preferisce tenere)*:
+> *"Un posto. Alberi di vetro scuro. Cielo senza colore. E qualcosa si rompe — sento il rumore, non lo vedo. Non so dove sia. Non so perché ci sogno."*
+
+Poi, se Aelar mostra di riconoscere qualcosa:
+> *"Tu sai cos'è?"*
+
+Non aspetta risposta — si gira di nuovo verso la finestra.
+> *"I sogni sono iniziati dopo che abbiamo incontrato un tipo. Voleva che localizzassimo qualcuno per lui. Non ci ha spiegato perché non poteva farlo da solo. Quando abbiamo chiesto, si è messo a ridere — non da nervoso. Da divertito. Come se la domanda fosse sbagliata nel modo sbagliato. Abbiamo detto no."*
+
+---
+
+### Scena 4 — Bonnie racconta il cliente rifiutato
+
+*Bonnie aspetta che Slane finisca di parlare, poi aggiunge — a bassa voce, come se stesse mettendo in ordine qualcosa:*
+
+**Bonnie:**
+> *"La notte dopo quell'incontro, Slane ha cominciato a sognare. Non è una coincidenza, ma non so cosa significhi. Il tipo era... di difficile descrizione. Non sembrava pericoloso — sembrava divertito da tutto, incluso il fatto di chiederci qualcosa. Questo mi ha preoccupato più di qualsiasi minaccia."*
+
+Se il party chiede chi fosse:
+> *"Non ha dato un nome. Si è presentato come qualcuno con un interesse particolare per certi collegamenti planari. E rideva, soprattutto, ogni volta che qualcuno faceva una domanda seria."*
+
+**Nota DM:** Bec, se presente, gira lentamente la testa verso Aelar e dice: *"Meeep."* Tono piatto. È la prima volta che lo dice così.
+
+---
+
 ## 🌟 Gancio Aelar — Slane, i Sogni e il Cliente Rifiutato
 
 Se il party costruisce abbastanza fiducia con i Mutaforma prima del tiro di Persuasione su Bonnie, Aelar può chiedere a Slane dei sogni. Slane descrive, a fatica:
