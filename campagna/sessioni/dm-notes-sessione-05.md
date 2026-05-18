@@ -10,9 +10,9 @@
 
 ## ⚠️ TODO DM — DECISIONI APERTE (da risolvere prima della sessione)
 
-1. **Pietra di Golor:** Cosa risponde il Bastone Nero a Vorador? → verificare in `fonti/campagna/Dragon Heist.md` cosa sanno le autorità di Waterdeep sulla Stone of Golorr
-2. **Midnight Tears cargo:** Barney vuole distruggere il carico di ingredienti per le Lacrime di Mezzanotte — modalità e conseguenze? (il carico non è illegale di per sé, solo le quantità anomale sono sospette)
-3. **Missione Zentharim (magazzino ai moli):** il combattimento è stato fatto in S4; cosa resta da completare? Quali obiettivi sono ancora aperti?
+1. ~~**Pietra di Golor:** Cosa risponde il Bastone Nero a Vorador?~~ ✅ **Risolto** — vedi FASE 0
+2. ~~**Midnight Tears cargo:** Barney vuole distruggere il carico~~ ✅ **Risolto** — vedi FASE 0
+3. ~~**Missione Zentharim (magazzino ai moli):**~~ ✅ **Risolto** — il combattimento in S4 era Force Grey M1, non Zentharim M1. Le due missioni si svolgono entrambe al porto ma sono separate. Zentharim M1 (Heldar + drow) è interamente da giocare in S5 — vedi FASE 4.
 
 ---
 
@@ -33,8 +33,8 @@
 - Davil Starsong: Friedrich e Scintilla hanno accettato di lavorare per lui (Zentharim)
 - Vajra/Bastone Nero: Vorador, Razak e Barney hanno accettato la missione Force Grey
 - Arpisti M1: Aelar sa che Maxeene è una cavalla bianca con fiocco che tira una carrozza nel Quartiere del Mercato
-- Midnight Tears: carico trovato al magazzino ai moli; Barney vuole distruggerlo [TODO DM]
-- Stone of Golor: Vorador ha chiesto al Bastone Nero; risposta da preparare [TODO DM]
+- Midnight Tears: carico trovato al magazzino ai moli; Barney può distruggerlo — conseguenze gestite (vedi FASE 0)
+- Stone of Golor: risposta di Vajra arriva dopo il porto — gestita (vedi FASE 0)
 
 ---
 
@@ -42,24 +42,27 @@
 
 ### Risposta del Bastone Nero sulla Pietra di Golor
 
-**[TODO DM]** Dopo aver completato la missione ai moli, Vorador riceve una risposta dal Bastone Nero sulla Pietra di Golor. Preparare in base a `Dragon Heist.md`:
-- Il Bastone Nero conosce la Stone of Golorr? In che misura?
-- Cosa rivela? Cosa trattiene?
-- È disponibile come messaggio di follow-up, o richiede una seconda visita alla Torre?
+**[NOTA DM — riservata]** Vajra conosce la Pietra di Golorr — la Torre ha documentazione sull'artefatto. Non è tuttavia informazione che intende condividere con reclute al loro secondo incarico.
+
+La risposta **non arriva subito**: Vajra risponde via *sending* solo **dopo che il party torna dal porto** con la missione completata (o con progressi concreti). Se Vorador sollecita prima, non riceve risposta.
+
+**Messaggio *sending* di Vajra (al ritorno dal porto):**
+> *"Negli archivi della Torre abbiamo documentazione sulla Pietra. È oltre il vostro livello operativo per ora. Finite il porto — poi venite da me."*
+
+Conferma che la Pietra esiste ed è seria. Non dice altro. L'invito alla Torre apre una scena opzionale per una sessione futura — Vajra di persona può dare più contesto quando il party avrà dimostrato di meritarselo.
+
+---
 
 ### Decisione Barney — Il Carico di Midnight Tears
 
-Barney vuole distruggere il carico di ingredienti per le Lacrime di Mezzanotte.
+**[NOTA DM — riservata]** Barney può distruggere il carico. Non bloccarlo: è una scelta coerente con il personaggio.
 
-**Il carico in sé non è illegale** — ma le quantità sono così anomale da essere compatibili con una produzione su larga scala (avvelenamento di massa del Giorno dei Fondatori).
+**Conseguenze della distruzione:**
+- I Cassalanters notano la perdita entro un tenday. Non reagiscono in modo diretto — gestiscono la cosa con la discrezione di chi non vuole attirare attenzione. Un emissario anonimo si fa vivo agli uffici doganali per chiedere informazioni sul carico mancante.
+- La prova fisica degli ingredienti è persa. La lista dei destinatari da Orvyn diventa ancora più urgente per Force Grey — senza di essa non c'è niente su cui costruire un caso.
+- Staget, che pattuglia il porto, viene a sapere dell'incendio. Può menzionarlo a Barney senza accusarlo, come farebbe con qualsiasi contatto che lavora nella zona:
 
-**Opzioni per Barney:**
-- **Distrugge il carico in loco:** nessuna conseguenza immediata, ma il fornitore (chi ha ordinato quegli ingredienti?) se ne accorge. [TODO DM: chi riceve l'ordine? Cassalanters?]
-- **Segnala alla Guardia:** Capitano Staget potrebbe ignorarlo o confiscare senza ringraziare.
-- **Segnala al Bastone Nero / Force Grey:** va nella direzione corretta della missione M1 (la lista dei destinatari).
-- **Non fa nulla:** il carico rimane dov'è.
-
-**[NOTA DM — riservata]** Se il carico è legato alla Force Grey M1, la sua distruzione potrebbe far perdere la lista dei destinatari (Orvyn), complicando la missione. Se la lista è già stata recuperata, non importa.
+> *"La notte scorsa un magazzino al Salgemma ha preso fuoco. Nessun testimone, nessuna denuncia, il titolare è sparito. Strano. Se senti qualcosa in giro, fammelo sapere."*
 
 ---
 
@@ -177,7 +180,7 @@ Vajra ha assegnato la missione in S4. Il carico sospetto ai Moli del Salgemma (r
 
 ### Missione Zentharim — Magazzino ai Moli (Friedrich + Scintilla + Barney)
 
-**Stato:** In corso — scontro al magazzino avvenuto in S4, completamento da fare in S5.
+**Stato:** Da avviare — Davil ha assegnato la missione in S4. Nessuna azione operativa ancora svolta. (Il combattimento al magazzino in S4 era Force Grey M1, missione separata.)
 
 Qualcuno sta uccidendo marinai elfi e mezzelfi nel Dock Ward — tre morti, decapitati di notte. Davil vuole che il party indaghi. La Guardia non ne vuole sapere.
 
@@ -232,8 +235,8 @@ Prima apparizione di Emmek in questa sessione. I Shard Shunners compaiono nello 
 
 | Hook | Fazione/PG | Stato | Note |
 |------|-----------|-------|------|
-| Risposta Bastone Nero sulla Pietra di Golor | Vorador (Force Grey) | **TODO DM** aperto | Preparare risposta di Vajra da `Dragon Heist.md` |
-| Decisione cargo Midnight Tears | Barney | **TODO DM** aperto | Distruggere / segnalare / non agire — conseguenze diverse |
+| Risposta Bastone Nero sulla Pietra di Golor | Vorador (Force Grey) | ✅ Risolto | Vajra risponde via *sending* dopo il porto — vedi FASE 0 |
+| Decisione cargo Midnight Tears | Barney | ✅ Risolto | Barney può distruggere; conseguenze gestite — vedi FASE 0 |
 | Maxeene — sorveglianza | Aelar (Arpisti M1) | In corso | 3 notti sorveglianza; Barnabus coinvolgibile |
 | Edran Voss / Vosk | Friedrich, Scintilla (Zentharim M1) | **In apertura** | Prima prova del complotto Vosk; il drow come chiave |
 | Rennis e i canali tagliati | Scintilla | Filo aperto | Indagine sull'officina — due uomini in abiti scuri |
