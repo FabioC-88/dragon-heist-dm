@@ -15,11 +15,11 @@ Il **presagio di Hlam** ha allertato Vajra Safahr: *"sangue innocente sarà vers
 ## 🎯 Obiettivi
 
 1. **Ricevere il briefing** da Vajra Safahr in Torre del Bastone Nero
-2. **Localizzare informatore Orvyn** ai Moli del Salgemma (Dock Ward)
-3. **Sopravvivere all'imboscata** dei cultisti Asmodeo
-4. **Proteggere o vendicare Orvyn** — conseguenze morali
-5. **Recuperare la lista di carico** con i nomi dei destinatari
-6. **Consegnare la lista a Vajra** per azione immediata
+2. **Raggiungere i Moli del Salgemma** — arrivano tardi, l'imboscata è già in corso
+3. **Fermare il bandito che brucia la lista** — azione immediata, ogni round conta
+4. **Proteggere o salvare Orvyn** — è ferito, non è detto che sopravviva
+5. **Recuperare la lista intatta** — i nomi sono illeggibili senza Vajra
+6. **Consegnare la lista a Vajra** per decifrare i destinatari
 
 ---
 
@@ -63,11 +63,11 @@ I cultisti Asmodeo non sono mostri — sono **persone comuni** con una fede aber
 
 | Azione | CD | Caratteristica | Risultato |
 |--------|-----|-----------|-----------|
-| Localizzare Orvyn ai Moli | 12 | Investigazione | Trovi l'informatore prima dell'imboscata |
-| Riconoscere l'imboscata in tempo | 13 | Percezione | Vantaggi tattico nel combattimento |
-| Sopravvivere al combattimento | / | Tattica | Dipende dal party composition |
-| Recuperare lista senza danneggiarla | 11 | Acrobazia/Atletica | Lista rimane leggibile |
-| Decifra i nomi sulla lista | 12 | Arcana/Investigazione | Riconosci i nomi Cassalanter e altri |
+| Fermare il bandito al 1° round | — | Iniziativa/azione | Lista intatta e completa |
+| Fermare dopo 1–2 round | 13 | Investigazione (dopo) | Lista parzialmente leggibile |
+| Stabilizzare Orvyn | 10 | Medicina | Orvyn sopravvive e può parlare |
+| Sopravvivere al combattimento | / | Tattica | Dipende dalla composizione del party |
+| Decifrare la lista da soli | — | — | Impossibile: è in codice, serve Vajra |
 
 ---
 
@@ -77,8 +77,8 @@ I cultisti Asmodeo non sono mostri — sono **persone comuni** con una fede aber
 
 **Colpi di Scena:**
 - Una dei cultisti è qualcuno che il party riconosce (PG trama parallela?)
-- La lista contiene il nome **Victoro o Ammalia Cassalanter** — primo indizio del main villain
-- Orvyn muore eroicamente proteggendo la lista (o il party lo salva in extremis)
+- La lista ha nomi che i PG non riconoscono — ma Vajra li riconosce eccome (reazione visibile quando la legge)
+- Orvyn muore proteggendo la lista (o il party lo salva in extremis) — in ogni caso non sa chi c'è dietro
 - **[Vorador]** Tra i documenti di carico recuperati nell'imboscata, Vorador nota una pagina strappata con il **sigillo classificato dell'Ordine Vigilante** e un numero di protocollo — lo stesso formato dei rapporti di Brottor. Il documento è parziale e bruciacchiato ai bordi (qualcuno ha tentato di distruggerlo). Leggibile: *"…soggetti: 7 civili, District III, Dock Ward. Sintomatologia: lacune mnestiche, incubi frammentati, lingua non identificata. Connessione cultuale: status → CLASSIFICATO. Firma: B.D."* — Non spiegare nulla. Lascia che Seba faccia 2+2 da solo nelle missioni successive.
 
 ---
@@ -102,45 +102,64 @@ Se il party chiede chi siano "gli altri":
 
 ---
 
-### Scena 2 — Moli del Salgemma / Orvyn
+### Scena 2 — Moli del Salgemma / Arrivano tardi
 
-*Il Dock Ward di notte puzza di sale, pesce morto e catrame. Il terzo magazzino a sinistra del pontile ha una porta laterale socchiusa. Dentro, tra casse impilate male e reti ammonticchiate, un uomo sulla cinquantina con una cicatrice a mezzaluna sulla guancia sinistra fuma una pipa e guarda una lista scritta a mano come se contenesse informazioni personalmente offensive.*
+*Il Dock Ward di notte puzza di sale, pesce morto e catrame. Il terzo magazzino a sinistra del pontile — la porta laterale è spalancata, non socchiusa. Dall'interno si sente il rumore di un corpo trascinato e poi silenzio.*
 
-**Orvyn** *(senza alzare la testa)*:
-> *"Siete i nuovi di Vajra? Arrivate in orario almeno — cominciavo a pensare che non veniste. Guardate qui."*
+**Atmosfera DM:** Nessun dialogo con Orvyn prima del combattimento. Quando entrano, la situazione è già compromessa.
 
-*Spinge la lista verso di voi.*
-> *"Sei spedizioni nelle ultime tre settimane, tutti reagenti separati che non hanno senso da soli. Insieme fanno Midnight Tears. Il destinatario finale è anonimo — nome di copertura, non esiste nella guida commerciale. Ma l'ordine è passato per un intermediario che lavora per la casata Cassalanter."*
+*Dentro: casse rovesciate, reti strappate. Un uomo sulla cinquantina — cicatrice a mezzaluna sulla guancia sinistra — è a terra con una coltellata al fianco, ancora vivo ma a malapena. Tre figure in abiti borghesi lo circondano. Uno di loro tiene in mano una lista scritta a mano e ha già acceso un fiammifero.*
 
-**Se chiedono chi siano i Cassalanter:**
-> *"Nobili. Vecchi soldi. Faccia pulita. — Il tipo peggiore."*
+**Momento critico:** I PG devono agire subito. Ogni round in cui il bandito con la lista non viene fermato, brucia una parte del documento.
 
-*Proprio in quel momento, un rumore dall'esterno. Orvyn abbassa la pipa.*
-> *"Non erano attesi visitatori."*
+**Orvyn** *(se i PG riescono ad avvicinarsi prima che muoia)*:
+> *"La lista… riportatela a Vajra. Non sapete quello che avete in mano — neanch'io lo so. Ma lei sì."*
+
+*Se i PG lo stabilizzano e lui riesce a parlare di più:*
+> *"Sei spedizioni. Tutti reagenti separati, senso zero da soli. Insieme… Midnight Tears. Il destinatario finale è in codice — non ho fatto in tempo a decifrarlo. Vajra deve vederla."*
+
+**Nota DM:** Orvyn non sa chi c'è dietro. Sa solo che la lista è importante. Non ha nomi da dare.
 
 ---
 
-### Scena 3 — L'imboscata dei cultisti
+### Scena 3 — Il combattimento / salvataggio della lista
 
-*La porta del magazzino si apre di scatto. Non sono guardie della città — sono persone comuni, abiti borghesi, ma i gesti sono coordinati e le armi estratte con troppa pratica. Sul cinturino di uno di loro, appena visibile, un simbolo — la fiamma rovesciata di Asmodeo.*
+**Atmosfera DM:** Non sono professionisti militari — sono credenti. Combattono con l'intensità di chi è convinto di fare la cosa giusta. Il bandito con la lista ha priorità: se non fermato al primo round, brucia il primo quarto del documento (CD 13 Investigazione per decifrarlo in seguito); al secondo round, metà; al terzo, irrecuperabile.
 
-**Atmosfera DM:** Questo è il momento in cui il tono cambia. Non sono professionisti militari — sono credenti. Combattono con l'intensità di chi è convinto di fare la cosa giusta. Questo li rende più pericolosi in un certo senso, e più tragici.
+*Sul cinturino di uno di loro, appena visibile durante il combattimento, un simbolo — la fiamma rovesciata di Asmodeo.*
 
 **Se il party cattura uno vivo e lo interroga:**
 
 **Cultista** *(non si spezza facilmente, ma se messo abbastanza sotto pressione)*:
-> *"Non capite. Lord Cassalanter vuole purificare la città. Il Giorno dei Fondatori è il momento giusto — sangue impuro per sangue puro. Asmodeo vuole questo."*
+> *"Non capite. Il Giorno dei Fondatori è il momento giusto — sangue impuro per sangue puro. Asmodeo vuole questo."*
 
 *Dopo un momento, quasi a sé stesso:*
 > *"Non è criminalità. È fede."*
 
-**Nota DM:** Il cultista non sa niente di più di quello che ha detto. È un esecutore di basso livello, convinto. Sa solo che il veleno va consegnato prima dell'alba del Giorno dei Fondatori.
+**Nota DM:** Il cultista non conosce i nomi dei mandanti. Sa solo che il veleno va consegnato prima dell'alba del Giorno dei Fondatori. Chi ha dato gli ordini è sopra il suo livello.
+
+**Il Sigillo di Silenzio — Talismano dei Cultisti**
+
+Ogni cultista porta nascosto al collo un piccolo medaglione di rame annerito inciso con la fiamma rovesciata di Asmodeo. Non è un oggetto magico comune — è un vincolo.
+
+Se un cultista viene catturato e comincia a cedere sotto interrogatorio (a discrezione del DM, tipicamente dopo aver rivelato più di "è fede"), il talismano si scalda al contatto con la pelle. Il cultista lo sente. La sua reazione dipende da quanto è devoto:
+
+- **Devoto convinto:** smette di parlare, chiude gli occhi. *"Non posso dire altro."* Secondi dopo, il medaglione diventa incandescente — fuoco infernale verde che brucia dall'interno verso l'esterno. Il cultista muore in 6 secondi senza un suono.
+- **Cultista più debole:** panico, tenta di strapparsi il talismano — non si stacca. Stessa fine, meno dignitosa.
+
+**Atmosfera DM:** Il fuoco non brucia nient'altro — solo il cultista. Non lascia cenere, solo il medaglione intatto sul pavimento, ancora caldo. Chi li guarda morire capisce due cose: c'è qualcuno sopra che non vuole testimoni, e quel qualcuno ha accesso a magia diabolica vera.
+
+**Percezione CD 14** durante/dopo il combattimento: un PG nota che tutti i cultisti morti portano lo stesso medaglione. Vajra, quando glielo mostrano, lo riconosce e tace per un secondo più lungo del necessario prima di parlare.
 
 ---
 
 ### Scena 4 — La lista di carico / gancio Vorador
 
-*Quando il combattimento finisce e la lista è al sicuro, il party può esaminarla con calma. I nomi dei destinatari sono scritti in inchiostro normale — ma tra i fogli allegati, c'è qualcosa di diverso.*
+*Quando il combattimento finisce e la lista è al sicuro, il party può esaminarla. I nomi dei destinatari ci sono — scritti chiaramente — ma non dicono nulla: nessuno li riconosce. Nomi di copertura? Intermediari? Codici interni? Impossibile dirlo senza contesto. La lista ha senso solo per chi conosce le reti commerciali di Waterdeep ad alto livello.*
+
+**Nota DM:** I PG non decifrano nulla da soli. Non è un tiro mancato — è che la lista richiede Vajra. Questo è il motivo per cui la consegna ha urgenza.
+
+*Tra i fogli allegati alla lista, però, c'è qualcosa di diverso.*
 
 *Una pagina strappata, bordi bruciacchiati come se qualcuno avesse tentato di distruggerla e non ci fosse riuscito fino in fondo. Il sigillo in alto è quello dell'Ordine Vigilante — impresso, non scritto.*
 
@@ -173,7 +192,7 @@ Se il party chiede chi siano "gli altri":
 
 - **Oro:** 75 mo per membro
 - **Fama Force Grey:** +2
-- **Intel:** Nome Cassalanters identificato come minaccia
+- **Intel:** Lista di carico consegnata a Vajra — lei sa chi sono i destinatari, i PG no (ancora)
 - **Conseguenze Narrative:** Sprint verso il Giorno dei Fondatori — il clock inizia a ticchettare
 
 ---
@@ -181,7 +200,7 @@ Se il party chiede chi siano "gli altri":
 ## 🔗 Connessioni
 
 - **Collegate a:** [Force Grey M2](M2-NonETuttoOro.md), [M3](M3-CriminiDiPensiero.md), [M4](M4-CoseTerribili.md) (arco unificato)
-- **Introduce:** [Cassalanters](../../Campagna/png-incontrati.md#victoro-e-ammalia-cassalanter) come main villain
+- **Semina:** La lista porta a una pista — Vajra la legge e capisce, ma ai PG lo rivela gradualmente nelle missioni successive
 - **Rivela:** Midnight Tears, minaccia al Giorno dei Fondatori, Asmodeo cult activity
 - **Fazione:** [Force Grey](../../Campagna/fazioni.md#force-grey)
 
@@ -189,10 +208,10 @@ Se il party chiede chi siano "gli altri":
 
 ## 📝 Note per il DM
 
-- **Prima missione Force Grey** — stabilisce il tono di urgenza e pericolo reale
-- L'informatore Orvyn crea **hook emotivo** se muore tragicamente
+- **Prima missione Force Grey** — i PG arrivano tardi, la situazione è già compromessa: stabilisce il tono
+- L'informatore Orvyn crea **hook emotivo** se muore — e non ha rivelato nulla di utile, solo la lista conta
 - Se il party ha [Razak Kendal](../../Campagna/party.md#razak-kendal), enfatizza il suo ruolo nel presagio
-- **Consequenzsa della lista:** I nomi sulla lista diventano TARGET di future investigazioni
+- **La lista è opaca:** i nomi ci sono ma nessuno li capisce — la rivelazione arriva solo da Vajra, nelle sessioni successive
 - Timeline: Il Giorno dei Fondatori è circa 1 settimana in-game — pressure montante
 
 ---
@@ -203,7 +222,7 @@ Se il party chiede chi siano "gli altri":
 Orvyn muore — conseguenza emotiva. Ma la lista viene comunque recuperata (cade da un cadavere). Fama Force Grey lievemente ridotta, ma la missione continua.
 
 ### Se il party cattura cultisti vivi
-Possibilità di interrogatorio — svelano che riportano a nobili (Cassalanters). Escalazione narrativa.
+Possibilità di interrogatorio — il cultista parla di fede e purificazione ma non conosce i mandanti. Sa solo che c'è "un nobile" sopra la catena. Non fare nomi.
 
 ### Se il party vuole infiltrarsi nei culti Asmodeo
 Interessante variante che collega direttamente al cap. 5 finale. Vajra approva ma mette in guardia: "Non perdete la vostra umanità."
