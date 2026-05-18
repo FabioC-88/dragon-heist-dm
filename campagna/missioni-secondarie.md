@@ -27,7 +27,7 @@ Referente: **Mirt il Cambiavalute** · Protagonista frazionale: **Aelar Moonwhis
 
 | # | Titolo | Livello | File Sorgente | File Wiki | Stato |
 |---|--------|---------|------|------------|-------|
-| 1 | Un Cavallo Donato | 2 | `Arpisti_Missione1_UnCavalloDonato.txt` | [📖 Leggi](../Missioni/Arpisti/M1-UnCavalloDonato.md) | `Pianificata` |
+| 1 | Un Cavallo Donato | 2 | `Arpisti_Missione1_UnCavalloDonato.txt` | [📖 Leggi](../Missioni/Arpisti/M1-UnCavalloDonato.md) | `In corso` |
 | 2 | Disinfestazione | 3 | `Arpisti_Missione2_Disinfestazione.txt` | [📖 Leggi](../Missioni/Arpisti/M2-Disinfestazione.md) | `Pianificata` |
 | 3 | Benvenuti in Famiglia | 4 | `Arpisti_Missione3_benvenuti_in_famiglia.txt` | [📖 Leggi](../Missioni/Arpisti/M3-BeneventutiInFamiglia.md) | `Pianificata` |
 | 4 | Velo Alzato | 4 | `Arpisti_Missione4_velo_alzato.txt` | [📖 Leggi](../Missioni/Arpisti/M4-VeloAlzato.md) | `Pianificata` |
@@ -47,7 +47,7 @@ Referente: **Vajra Safahr** · Protagonisti frazionali: **Razak Kendal**, **Vora
 
 | # | Titolo | Livello | File Sorgente | File Wiki | Stato |
 |---|--------|---------|------|------------|-------|
-| 1 | Il Carico del Fondatore | 2 | `ForceGrey_Missione1_IlCaricoDelFondatore.txt` | [📖 Leggi](../Missioni/ForceGrey/M1-IlCaricoDelFondatore.md) | `Pianificata` |
+| 1 | Il Carico del Fondatore | 2 | `ForceGrey_Missione1_IlCaricoDelFondatore.txt` | [📖 Leggi](../Missioni/ForceGrey/M1-IlCaricoDelFondatore.md) | `In corso` |
 | 2 | Non è Tutto Oro Quel che Luccica | 3 | `ForceGrey_Missione2_NonETuttoOroQuelCheLuccica.txt` | [📖 Leggi](../Missioni/ForceGrey/M2-NonETuttoOro.md) | `Pianificata` |
 | 3 | Crimini di Pensiero | 4 | `ForceGrey_Missione3_CriminiDiPensiero.txt` | [📖 Leggi](../Missioni/ForceGrey/M3-CriminiDiPensiero.md) | `Pianificata` |
 | 4 | Cose Terribili da Sprecare | 5 | `ForceGrey_Missione4_CoseTerribilidaSprecare.txt` | [📖 Leggi](../Missioni/ForceGrey/M4-CoseTerribili.md) | `Pianificata` |
@@ -67,7 +67,7 @@ Referente: **Davil Starsong**
 
 | # | Titolo | Livello | File Sorgente | File Wiki | Stato |
 |---|--------|---------|------|------------|-------|
-| 1 | Un Brutto Momento | 2 | `Zentharim_Missione1_un_brutto_momento.txt` | [📖 Leggi](../Missioni/Zentharim/M1-UnBruttoMomento.md) | `Pianificata` |
+| 1 | Un Brutto Momento | 2 | `Zentharim_Missione1_un_brutto_momento.txt` | [📖 Leggi](../Missioni/Zentharim/M1-UnBruttoMomento.md) | `In corso` |
 | 2 | Tieni il Resto | 3 | `Zentharim_Missione2_tieni_il_resto.txt` | [📖 Leggi](../Missioni/Zentharim/M2-TieniIlResto.md) | `Pianificata` |
 | 3 | Corri, Dasher! | 4 | `Zentharim_Missione3_corri_dasher.txt` | [📖 Leggi](../Missioni/Zentharim/M3-CorriDasher.md) | `Pianificata` |
 | 4 | Sangue del Patto | 5 | `Zentharim_Missione4_sangue_del_patto.txt` | [📖 Leggi](../Missioni/Zentharim/M4-SangueDeiPatto.md) | `Pianificata` |

@@ -27,13 +27,19 @@
 | **Azzaxell** *(S1)* | Zhentarim | **Nemico-barista** | Diffidente (-1) | Barista al Skewered Dragon; ha mentito su Floon | Freddo, osservatore; sa più di quanto riveli |
 | **Old Xoblob** *(S1)* | Indipendente/Xanathar | **Informatore gentile** | Amichevole (+1) | Gnomo del negozio nel Dock Ward; sincero su Floon | Dotato di memoria photographic; non sa di essere spia Xanathar (sensore beholder in negozio) |
 | **Renaer Neverember** *(S1)* | Indipendente | **Nobile salvato** | Grato (+2) | Lo hai liberato dalla warehouse Zhentarim | Figlio di Dagult Neverember (ex Open Lord); conosce la trama del tesoro e del Stone of Golorr; alleato |
+| **Vajra Safahr** *(S4)* | Ordine Magisti / Force Grey | **Referente Force Grey** | Amichevole-formale | Incontrata alla Torre del Bastone Nero; ha assegnato Force Grey M1; ha ascoltato la domanda sulla Pietra di Golor | Arcimaga di Waterdeep; risposta sulla Pietra di Golor pendente |
+| **Rishaal il Voltapagine** *(S4)* | Ordine Magisti | **Collega dell'Ordine** | Amichevole-professionale | Incontrato nella sua libreria in Trollskull Alley; ha riconosciuto il simbolo dell'Ordine | Disponibile a fare da tramite con i registri pubblici; accesso ai file riservati non disponibile |
+| **Lif** *(S4)* | Indipendente | **Barista poltergeist** | Collaborativo | Poltergeist di Trollskull Manor; ora cooperativo dopo l'accordo con Aelar | Barista cooperativo; il manor è la sua casa |
+| **Broxley Fairkettle** *(S4)* | Fellowship of Innkeepers | **Rappresentante gilde** | Amichevole | Ha presentato il resoconto costi ristrutturazione al manor | Halfling con basettoni; genuinamente dalla parte del party; sa di Emmek Frewn |
+| **Tally Fellbranch** *(S4)* | Indipendente | **Falegname vicino** | Amichevole | Il Chiodo Storto, Trollskull Alley; vende armi di legno; disponibile per lavori manor | Mezzelfo; lavori su commissione disponibili |
+| **Embric** *(S4)* | Indipendente | **Forgiatore vicino** | Amichevole | Vapore e Acciaio, Trollskull Alley; genasi di fuoco | Forgia armi e armature metalliche |
+| **Avi** *(S4)* | Indipendente | **Armaiola vicina** | Amichevole | Vapore e Acciaio, Trollskull Alley; genasi d'acqua; coppia con Embric | Raffina e raffredda l'acciaio |
+| **Fala Lefaliir** *(S4)* | Indipendente | **Erborista vicina** | Amichevole | La Corona di Corellon, Trollskull Alley; elfo del bosco | Vende pozioni; pronomi essi/loro |
 
 ### Conoscenze di Fama (Conosce il nome e la reputazione, non avrà incontrato di persona)
 
 | PNG | Affiliazione | Chi è / Cosa sai | Contesto | Note |
 |-----|-------------|------------------|---------|------|
-| **Vajra Safahr** *(il Bastone Nero)* | Ordine Magisti / Force Grey | **Capo supremo** | Arcimaga di Waterdeep; coordina l'Ordine e le Mani Grigie; figura lontana e immensamente potente | Non l'hai mai incontrata; la conosci come entità gerarchica |
-| **Rishaal il Voltapagine** | Ordine Magisti | **Collega minore dell'Ordine** | Proprietario libreria Trollskull Alley; membro dell'Ordine; lo conosci di vista dai raduni e dalle riunioni | Fonte di ricerche esoteriche; incontro formale previsto Cap. 2 |
 | **Durnan** | Indipendente | **Leggenda vivente** | Proprietario Portale Spalancato; veterano leggendario di Undermountain; la sua taverna è fulcro di raccolta informazioni | Conosci la sua fama; la taverna è anche punto d'incontro dell'Ordine |
 
 ---
@@ -54,6 +60,13 @@
 | **Shard** *(S1, opzionale)* | Xanathar Guild | **Capokenku** | Ostile se combat / Neutrale se negoziato | Capo kenku presso il Skewered Dragon; potenziale combattimento o fonte Xanathar | Se combatti: acerrimo nemico. Se negozi: +1 neutrale, sa che qualcuno indaga su Xanathar |
 | **Old Xoblob** *(S1)* | Indipendente/Xanathar | **Informatore gentile** | Amichevole (+1) | Gnomo del negozio nel Dock Ward; ricorda Floon perfettamente | Sincero per quanto sa; ignaro di essere spia Xanathar via sensore beholder |
 | **Renaer Neverember** *(S1)* | Indipendente | **Nobile salvato** | Grato (+2) | Lo hai liberato dalla warehouse Zhentarim | Figlio di Dagult Neverember; spiega il mistero della Stone of Golorr e del tesoro; diventa alleato |
+| **Vajra Safahr** *(S4)* | Ordine Magisti / Force Grey | **Referente Force Grey** | Amichevole-formale | Incontrata alla Torre del Bastone Nero; ha accolto la rivelazione del presagio; ha assegnato Force Grey M1 | Ha risposto: *"Giorno dei Fondatori. Midnight Tears. Stesso punto di arrivo."* |
+| **Lif** *(S4)* | Indipendente | **Barista poltergeist** | Collaborativo | Poltergeist di Trollskull Manor; ora cooperativo | Il manor è la sua casa |
+| **Broxley Fairkettle** *(S4)* | Fellowship of Innkeepers | **Rappresentante gilde** | Amichevole | Ha presentato il resoconto costi ristrutturazione al manor | Halfling; genuinamente dalla parte del party |
+| **Tally Fellbranch** *(S4)* | Indipendente | **Falegname vicino** | Amichevole | Il Chiodo Storto, Trollskull Alley | Lavori su commissione per il manor disponibili |
+| **Embric** *(S4)* | Indipendente | **Forgiatore vicino** | Amichevole | Vapore e Acciaio, Trollskull Alley | Genasi di fuoco; armi e armature metalliche |
+| **Avi** *(S4)* | Indipendente | **Armaiola vicina** | Amichevole | Vapore e Acciaio, Trollskull Alley | Genasi d'acqua; coppia con Embric |
+| **Fala Lefaliir** *(S4)* | Indipendente | **Erborista vicina** | Amichevole | La Corona di Corellon, Trollskull Alley | Elfo del bosco; pozioni; pronomi essi/loro |
 
 ### Conoscenze di Fama (Personaggi pubblici di cui hai sentito nominare)
 
@@ -80,12 +93,18 @@
 | **Azzaxell** *(S1)* | Zhentarim | **Nemico-barista** | Ostile (-1) | Barista Skewered Dragon; ha mentito durante la ricerca Floon | Freddo, professionale, nasconde più di quanto dica |
 | **Old Xoblob** *(S1)* | Indipendente/Xanathar | **Informatore gentile** | Amichevole (+1) | Gnomo del negozio nel Dock Ward; sincero e utile | Ricorda perfettamente gli eventi; ignaro di essere spia Xanathar |
 | **Renaer Neverember** *(S1)* | Indipendente | **Nobile salvato** | Grato (+2) | Lo hai liberato dalla warehouse Zhentarim | Figlio di Dagult Neverember; conosce il mistero della Stone of Golorr; diventa alleato |
+| **Mirt il Cambiavalute** *(S3/S4)* | Arpisti | **Referente Arpisti** | Alleato-affidabile | Ti ha inviato un uccellino origami con la M1; conosce Renaer e il tuo valore | Ha assegnato Arpisti M1 (Maxeene) |
+| **Lif** *(S4)* | Indipendente | **Barista poltergeist** | ✅ Alleato / Amico | Hai fatto amicizia con lui; ora collaborativo — momento centrale di S4 | Lo hai convinto che il group intende riaprire la taverna |
+| **Broxley Fairkettle** *(S4)* | Fellowship of Innkeepers | **Rappresentante gilde** | Amichevole | Ha presentato il resoconto costi ristrutturazione al manor | Halfling; genuinamente dalla parte del party |
+| **Fala Lefaliir** *(S4)* | Indipendente | **Erborista vicina** | Amichevole-particolare | La Corona di Corellon; ti ha accolto con interesse speciale (entrambi elfi); chiede di Sildëyuir | Elfo del bosco; pronomi essi/loro; pozioni disponibili |
+| **Tally Fellbranch** *(S4)* | Indipendente | **Falegname vicino** | Amichevole | Il Chiodo Storto; vende armi di legno | Lavori su commissione per il manor disponibili |
+| **Embric** *(S4)* | Indipendente | **Forgiatore vicino** | Amichevole | Vapore e Acciaio; genasi di fuoco | Armi e armature metalliche |
+| **Avi** *(S4)* | Indipendente | **Armaiola vicina** | Amichevole | Vapore e Acciaio; genasi d'acqua | Coppia con Embric |
 
 ### Conoscenze di Fama (Membri della rete Arpisti di cui conosci nome, ruolo e reputazione)
 
 | PNG | Affiliazione | Chi è / Cosa sai | Contesto | Note |
 |-----|-------------|------------------|---------|------|
-| **Mirt il Cambiavalute** *(il Vecchio Lupo)* | Arpisti | **Capo degli Arpisti a Waterdeep** | Ex avventuriero leggendario; dirige la rete Arpisti in città; villa nel Castle Ward | Sei stato informato di lui come tuo referente; non l'hai ancora incontrato formalmente |
 | **Remallia Haventree** | Arpisti | **Supervisor di livello superiore** | Nobildonna elfa del sole; figura centrale coordinatrice della rete; villa Ulbrinter nel North Ward | Conosci la gerarchia Arpisti; lei è sopra Mirt; non l'hai ancora incontrata |
 | **Durnan** | Indipendente | **Innkeeper leggendario** | Proprietario Portale Spalancato; punto nevralgico per gli Arpisti come per tutti gli avventurieri | La taverna è dove ci si riferisce per raccogliere storie; lo conosci di fama come figura rilevante |
 
@@ -99,9 +118,16 @@
 
 | PNG | Affiliazione | Relazione | Atteggiamento | Contesto | Note |
 |-----|-------------|-----------|---------------|---------|------|
+| **Vajra Safahr** *(S4)* | Ordine Magisti / Force Grey | **Referente Force Grey** | Amichevole-formale | Incontrata alla Torre del Bastone Nero; ha assegnato Force Grey M1 | Arcimaga di Waterdeep |
+| **Lif** *(S4)* | Indipendente | **Barista poltergeist** | Collaborativo | Poltergeist di Trollskull Manor; ora cooperativo | Il manor è la sua casa |
+| **Broxley Fairkettle** *(S4)* | Fellowship of Innkeepers | **Rappresentante gilde** | Amichevole | Ha presentato il resoconto costi ristrutturazione | Halfling; genuinamente dalla parte del party |
+| **Tally Fellbranch** *(S4)* | Indipendente | **Falegname vicino** | Amichevole | Il Chiodo Storto, Trollskull Alley | Lavori su commissione disponibili |
+| **Embric** *(S4)* | Indipendente | **Forgiatore vicino** | Amichevole | Vapore e Acciaio, Trollskull Alley | Genasi di fuoco |
+| **Avi** *(S4)* | Indipendente | **Armaiola vicina** | Amichevole | Vapore e Acciaio, Trollskull Alley | Genasi d'acqua; coppia con Embric |
+| **Fala Lefaliir** *(S4)* | Indipendente | **Erborista vicina** | Amichevole | La Corona di Corellon, Trollskull Alley | Pozioni; pronomi essi/loro |
 | **Hyustus Staget** | Guardia Cittadina | **Capitano-rivale** | Ostile | Superiore diretto; rivale generazionale del tuo padre; ti ostacola deliberatamente | Rigido, burocratico; blocca le tue indagini; la tua frustrazione principale |
 | **Saeth Cromley** | Guardia Cittadina | **Collega di pari grado** | Neutrale-amichevole | Sergente collaborativo della Guardia; talvolta lavora su indagini congiunte | Pragmatico; rappresenta la parte della Guardia che "funziona" secondo le regole |
-| **Volothamp "Volo" Geddarm** | Indipendente | **Alleato investigativo segreto** | Amichevole-misterioso | Ti ha contattato segretamente; indaga le stesse sparizioni che il Capitano ignora | Cronista che sa fare domande; primo passo verso l'insubordinazione controllata |
+| **Volothamp "Volo" Geddarm** *(S1-S3)* | Indipendente | **Alleato investigativo segreto** | Amichevole-misterioso | Ti ha contattato segretamente; ha firmato il contratto manor | Cronista che sa fare domande |
 | **Grob, Festo, Vina** | Guardia Cittadina | **Squadra assegnatami (Squadra Disgrazia)** | Neutrale-tesi | Tre sottoposti problematici assegnatimi dal Capitano per farmi fallire | Grob (mangia-salsicce), Festo (entusiasta/goffo), Vina (cinica-intelligente) |
 
 ### Conoscenze di Fama (Criminali ricercati e figure pubbliche note dai rapporti)
@@ -194,18 +220,25 @@
 
 **Status sociale**: Inventrice nativa di Waterdeep; officina in crisi finanziaria dopo scomparsa del partner Rennis; no affiliazioni all'inizio della campagna.
 
-### Conoscenti Diretti (Incontrati Personalmente PRIMA della campagna)
+### Conoscenti Diretti (Incontrati Personalmente)
 
 | PNG | Affiliazione | Relazione | Atteggiamento | Contesto | Note |
 |-----|-------------|-----------|---------------|---------|------|
-| **Volothamp "Volo" Geddarm** | Indipendente | **Scopritore/reclutatore** | Amichevole | Ha trovato la tua officina; ti ha invitata al Portale Spalancato | Cronista che riconosce talento |
-| **Durnan** | Indipendente | **Innkeeper** | Neutrale-accogliente | Proprietario Portale Spalancato; punto di raccolta della città | Conosci il nome; hai incontrato qui gli altri PG |
+| **Davil Starsong** *(S4)* | Zhentarim | **Referente Zentharim** | Alleato-affidabile | Incontrato al Portale Spalancato; ha menzionato Rennis e i canali tagliati; ha assegnato Zentharim M1 | Ha detto: *"Rennis sapeva dove trovare componenti che non si trovano più."* → filo su Rennis aperto |
+| **Lif** *(S4)* | Indipendente | **Barista poltergeist** | Collaborativo | Poltergeist di Trollskull Manor; ora cooperativo | Il manor è la sua casa |
+| **Broxley Fairkettle** *(S4)* | Fellowship of Innkeepers | **Rappresentante gilde** | Amichevole | Ha presentato il resoconto costi ristrutturazione | Halfling; sa di Emmek Frewn |
+| **Tally Fellbranch** *(S4)* | Indipendente | **Falegname vicino** | Amichevole | Il Chiodo Storto, Trollskull Alley | Lavori su commissione disponibili |
+| **Embric** *(S4)* | Indipendente | **Forgiatore vicino** | Amichevole | Vapore e Acciaio, Trollskull Alley | Armi e armature metalliche; genasi di fuoco |
+| **Avi** *(S4)* | Indipendente | **Armaiola vicina** | Amichevole | Vapore e Acciaio, Trollskull Alley | Genasi d'acqua; coppia con Embric |
+| **Fala Lefaliir** *(S4)* | Indipendente | **Erborista vicina** | Amichevole | La Corona di Corellon, Trollskull Alley | Pozioni; pronomi essi/loro |
+| **Volothamp "Volo" Geddarm** *(S1-S3)* | Indipendente | **Scopritore/reclutatore** | Amichevole | Ha trovato la tua officina; ha firmato il contratto manor | Cronista che riconosce talento |
+| **Durnan** *(S1)* | Indipendente | **Innkeeper** | Neutrale-accogliente | Proprietario Portale Spalancato | Primo punto di raccolta del party |
 
 ### Conoscenze di Fama (Odito parlare di, non incontrato di persona)
 
 | PNG | Affiliazione | Chi è / Cosa sai | Contesto | Note |
 |-----|-------------|------------------|---------|------|
-| **Rennis Coalsworth** | Indipendente/Sconosciuto | **Ex-partner, scomparso** | Inventore umano; ti ha insegnato la rete di componenti rari; accesso a fornitori che da sola non avrei potuto raggiungere; sparito misteriosamente senza spiegazioni | Paradero sconosciuto; la sua scomparsa ha dato il colpo di grazia all'officina. Cosa gli è capitato? |
+| **Rennis Coalsworth** | Indipendente/Sconosciuto | **Ex-partner, scomparso** | Inventore umano; ti ha insegnato la rete di componenti rari; accesso a fornitori che da sola non avrei potuto raggiungere; sparito misteriosamente senza spiegazioni. Davil Starsong (S4) ha confermato che "qualcuno ha tagliato i canali di approvvigionamento" — filo aperto | Paradero sconosciuto; la sua scomparsa ha dato il colpo di grazia all'officina. |
 | **Skeemo Weirdbottle** | Zhentarim / Manshoon | **Alchimista, contatto potenziale** | Gnomo alchimista del Trades Ward; noto nella rete Zhentarim come fornitore; potenziale fonte di informazioni di cui non sai affidabilità | Zentharim M2: lo incontrerai; possibile connessione a figure più importanti nella fazione |
 
 ---
@@ -219,11 +252,17 @@
 
 | PNG | Affiliazione | Relazione | Atteggiamento | Contesto | Note |
 |-----|-------------|-----------|---------------|---------|------|
-| **Aldric** | Asmodeo *(travestito)* | **Mentore-amico** | Alleato-influente | Ex avventuriero al Portale Spalancato; affidabile e comprensivo dei tuoi dubbi morali | **[NOTA DM]** È Asmodeo under wraps. Osserva il tuo deterioramento morale. Non rivela identità nella campagna base. |
-| **Davil Starsong** | Zhentarim | **Nuovo referente di fazione** | Amichevole-pragmatico | Ti ha reclutato negli Zhentarim; pragmatico, non demoniaco; offre opportunità di guadagno e influenza | Contatto primario per questline Zentharim M1-M4 |
-| **Yagra Stonefist** | Zhentarim | **Operativa di fazione** | Neutrale | Braccio armato di Davil; ti assegna i primi incarichi | Diretta e competente; non amichevole ma professionale |
-| **Volothamp "Volo" Geddarm** | Indipendente | **Reclutatore** | Amichevole | Ti ha avvicinato per primo al Portale Spalancato | Cronista; sa riconoscere potenziale |
-| **Durnan** | Indipendente | **Innkeeper** | Neutrale-accogliente | Proprietario Portale Spalancato; ha visto passare molte persone come te | Vide il primo dei tuoi incontri con Aldric |
+| **Aldric** *(S3/S4)* | Asmodeo *(travestito)* | **Mentore-amico** | Alleato-influente | Ex avventuriero al Portale Spalancato; è venuto a trovare Friedrich al manor in S4 con del vino | **[NOTA DM]** È Asmodeo under wraps. Ha pronunciato in S4: *"La vera saggezza non è fare sempre la cosa giusta. È sapere quando le regole non si applicano a te."* |
+| **Davil Starsong** *(S4)* | Zhentarim | **Referente di fazione** | Amichevole-pragmatico | Incontrato al Portale Spalancato; ha assegnato Zentharim M1; filosofia pragmatica esposta | *"La legge non è una spada. È uno strumento."* — primo tassello dell'erosione morale |
+| **Yagra Stonefist** *(S1)* | Zhentarim | **Operativa di fazione** | Neutrale | Braccio armato di Davil; ha combattuto con te nel brawl | Diretta e competente; non amichevole ma professionale |
+| **Lif** *(S4)* | Indipendente | **Barista poltergeist** | Collaborativo | Poltergeist di Trollskull Manor; ora cooperativo | Il manor è la sua casa |
+| **Broxley Fairkettle** *(S4)* | Fellowship of Innkeepers | **Rappresentante gilde** | Amichevole | Ha presentato il resoconto costi ristrutturazione | Halfling; sa di Emmek Frewn |
+| **Tally Fellbranch** *(S4)* | Indipendente | **Falegname vicino** | Amichevole | Il Chiodo Storto, Trollskull Alley | Lavori su commissione disponibili |
+| **Embric** *(S4)* | Indipendente | **Forgiatore vicino** | Amichevole | Vapore e Acciaio, Trollskull Alley | Genasi di fuoco; armi metalliche |
+| **Avi** *(S4)* | Indipendente | **Armaiola vicina** | Amichevole | Vapore e Acciaio, Trollskull Alley | Genasi d'acqua; coppia con Embric |
+| **Fala Lefaliir** *(S4)* | Indipendente | **Erborista vicina** | Amichevole | La Corona di Corellon, Trollskull Alley | Pozioni; pronomi essi/loro |
+| **Volothamp "Volo" Geddarm** *(S1-S3)* | Indipendente | **Reclutatore** | Amichevole | Ti ha avvicinato per primo al Portale Spalancato; ha firmato il contratto manor | Cronista; sa riconoscere potenziale |
+| **Durnan** *(S1)* | Indipendente | **Innkeeper** | Neutrale-accogliente | Proprietario Portale Spalancato; ha visto passare molte persone come te | Vide il primo dei tuoi incontri con Aldric |
 | **Magistrato Valerius** *(Toga Nera)* | Chiesa di Tyr | **Antagonista-speculare** | Ostile (dopo FASE 3c) | Alto magistrato e sacerdote di Tyr. Ha firmato l'ordine per l'imboscata nella Shadowfell. Lo riconosci dopo la FASE 3c. Rappresenta tutto ciò che Friedrich doveva diventare. | Rappresenta la corruzione istituzionale della Chiesa di Tyr. |
 | **Padre Borin** | Chiesa di Tyr | **Traditore istituzionale** | Ostile (dopo Cap. 3) | Sacerdote di Tyr. Tradisce Friedrich quando presenta le prove contro il magistrato. | Rappresenta la Chiesa di Tyr come istituzione corrotta. |
 | **Skeemo Weirdbottle** | Zhentarim / Manshoon | **Traditore alchimista** | Ostile | Gnomo alchimista. Lavora per Manshoon, ma usa le sue pozioni per coprire i crimini del magistrato. | Funziona come distrattore e prova che il magistrato lo usava per coprire i suoi crimini. |

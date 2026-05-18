@@ -1,5 +1,5 @@
 ---
-aggiornato: Sessione 1
+aggiornato: Sessione 4
 ---
 
 # Schema Rapporti — Waterdeep: Dragon Heist
@@ -15,23 +15,30 @@ Righe = PNG. Colonne = PG. Stato al momento dell'incontro più recente.
 
 | PNG | Thrax | Razak | Aelar | Scintilla | Friedrich | Barney |
 |-----|:-----:|:-----:|:-----:|:---------:|:---------:|:------:|
-| **Volo Geddarm** | 🤝 Committente | 🤝 Committente | 🤝 Committente | 🤝 Committente | 🤝 Committente | 🤝 Committente |
+| **Volo Geddarm** | 🤝 Committente / contratto manor | 🤝 Committente | 🤝 Committente / contratto manor | 🤝 Committente | 🤝 Committente | 🤝 Committente |
 | **Durnan** | 🤝 Oste | 🤝 Oste | 🤝 Oste | 🤝 Oste | 🤝 Oste | 🤝 Collega |
-| **Renaer Neverember** | 🤝 Rescissato insieme | 🤝 Rescissato insieme | 🤝 Rescissato insieme | 🤝 Rescissato insieme | 🤝 Rescissato insieme | — |
-| **Vajra Safahr** | ✅ Referente Force Grey — convoca | ✅ Referente Force Grey — convoca | — | — | — | — |
-| **Mirt il Cambiavalute** | — | — | ✅ Referente Arpisti — piccione inviato | — | — | — |
-| **Hlam** | — | ✅ Ha confermato il presagio | — | — | — | — |
-| **Davil Starsong** | — | — | — | 🤝 Contatto Zhentarim (via Yagra) | 🤝 Contatto Zhentarim (via Yagra) | ❌ Capo rete Zhentarim (non sa del party) |
+| **Renaer Neverember** | 🤝 Salvato insieme | 🤝 Salvato insieme | 🤝 Salvato insieme | 🤝 Salvato insieme | 🤝 Salvato insieme | — |
+| **Vajra Safahr** | ✅ Referente Force Grey — incontrata S4 | ✅ Referente Force Grey — incontrata S4 | — | — | — | ✅ Referente Force Grey — incontrata S4 |
+| **Mirt il Cambiavalute** | — | — | ✅ Referente Arpisti — messaggio S3/S4 | — | — | — |
+| **Hlam** | — | ✅ Ha conferito il presagio | — | — | — | — |
+| **Davil Starsong** | — | — | — | ✅ Referente Zentharim — incontrato S4 | ✅ Referente Zentharim — incontrato S4 | ❌ Capo rete Zhentarim (non sa del party) |
 | **Yagra Stonefist** | — | — | — | 🤝 Intermediaria | 🤝 Intermediaria | ❌ Zhentarim |
-| **Aldric** | — | — | — | — | ✅ Amico / mentore al Portale Spalancato | — |
-| **Maestro Bec** | 🤝 Familiare di Aelar, li conosce | 🤝 | ✅ Familiare personale | 🤝 | 🤝 | — |
+| **Aldric** | — | — | — | — | ✅ Amico / mentore; visita al manor S4 | — |
+| **Maestro Bec** | 🤝 Familiare di Aelar | 🤝 Familiare di Aelar | ✅ Familiare personale | 🤝 Familiare di Aelar | 🤝 Familiare di Aelar | — |
 | **Trobbio** | — | — | 🔒 Patron arcifata (imprevedibile) | — | — | — |
-| **Brottor Deepdelver** | 🔒 Mentore scomparso (mai incontrato in gioco) | — | — | — | — | — |
+| **Brottor Deepdelver** | 🔒 Mentore scomparso | — | — | — | — | — |
 | **Rennis Coalsworth** | — | — | — | 🤝 Mentore/partner scomparso | — | — |
 | **Urstul Floxin** | — | — | — | — | — | ❌ Obiettivo personale |
 | **Hyustus Staget** | — | — | — | — | — | ⚠️ Superiore / rivale |
 | **Saeth Cromley** | 🤝 Collega Ordine Magisti | — | — | — | — | 🤝 Collega guardia |
 | **Barnibus Blastwind** | 🤝 Collega Ordine Magisti | — | — | — | — | — |
+| **Lif (poltergeist)** | 🤝 Barista manor | 🤝 Barista manor | ✅ Amicizia — Aelar lo ha convinto | 🤝 Barista manor | 🤝 Barista manor | 🤝 Barista manor |
+| **Broxley Fairkettle** | 🤝 Fellowship of Innkeepers | 🤝 Fellowship of Innkeepers | 🤝 Fellowship of Innkeepers | 🤝 Fellowship of Innkeepers | 🤝 Fellowship of Innkeepers | 🤝 Fellowship of Innkeepers |
+| **Tally Fellbranch** | 🤝 Vicino / fornitore legno | 🤝 Vicino | 🤝 Vicino | 🤝 Vicino | 🤝 Vicino | 🤝 Vicino |
+| **Embric** | 🤝 Vicino / fornitore armi | 🤝 Vicino | 🤝 Vicino | 🤝 Vicino | 🤝 Vicino | 🤝 Vicino |
+| **Avi** | 🤝 Vicino / fornitore armature | 🤝 Vicino | 🤝 Vicino | 🤝 Vicino | 🤝 Vicino | 🤝 Vicino |
+| **Fala Lefaliir** | 🤝 Vicino / erborista | 🤝 Vicino | 🤝 Vicino (legame elfico) | 🤝 Vicino | 🤝 Vicino | 🤝 Vicino |
+| **Rishaal il Voltapagine** | 🤝 Collega Ordine / libraio | 🤝 Vicino | 🤝 Vicino | 🤝 Vicino | 🤝 Vicino | 🤝 Vicino |
 | **Nihiloor** | — | — | — | — | — | — |
 | **Victoro Cassalanter** | — | — | — | — | — | — |
 | **Ammalia Cassalanter** | — | — | — | — | — | — |
@@ -46,10 +53,12 @@ Righe = PNG. Colonne = PG. Stato al momento dell'incontro più recente.
 | Volo Geddarm | Indipendente | Quest-giver S1 | 🤝 Amichevole, grato |
 | Durnan | Indipendente | Oste del Portale Spalancato | 🤝 Neutrale / ospitale |
 | Renaer Neverember | Indipendente | Figlio ex-Open Lord, coinvolto loro malgrado | 🤝 Amico emergente |
-| Vajra Safahr | Force Grey / Ordine Magisti | Arcimaga di Waterdeep, capo Force Grey | ✅ Referente diretto Thrax & Razak |
-| Mirt il Cambiavalute | Arpisti | Referente cittadino; ex avventuriero | ✅ Referente diretto Aelar |
+| Vajra Safahr | Force Grey / Ordine Magisti | Arcimaga di Waterdeep, capo Force Grey | ✅ Referente diretto Thrax, Razak & Barney (incontrata S4) |
+| Mirt il Cambiavalute | Arpisti | Referente cittadino; ex avventuriero | ✅ Referente diretto Aelar (messaggio S3/S4) |
 | Hlam | Indipendente | Monaco oracolo | 🤝 Profetico, distante |
-| Davil Starsong | Zhentarim | Referente Zhentarim; pragmatico | 🤝 In avvicinamento con Fizzra (Scintilla) & Gabri |
+| Davil Starsong | Zhentarim | Referente Zhentarim; pragmatico | ✅ Referente diretto Scintilla & Friedrich (incontrato S4) |
+| Lif | Indipendente | Poltergeist barista del manor | ✅ Collaborativo — Aelar ha costruito fiducia in S4 |
+| Broxley Fairkettle | Fellowship of Innkeepers | Rappresentante gilde tavernieri | 🤝 Amichevole verso tutto il party (incontrato S4) |
 | Yagra Stonefist | Zhentarim | Braccio destro di Davil | 🤝 Intermediaria |
 | Aldric | 🔒 Asmodeo travestito | "Ex avventuriero" al Portale Spalancato | 🔒 Mentore di Friedrich Krauser; in realtà agente di Asmodeo |
 | Brottor Deepdelver | Ordine Magisti | Mentore — scomparso | 🔒 Rapito/scomparso; filo narrativo Thrax |
