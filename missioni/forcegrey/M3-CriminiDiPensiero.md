@@ -113,6 +113,78 @@ Vajra rivela che l'ultima posizione nota di Brottor era il Dock Ward. Non sa se 
 
 ---
 
+## 🎬 Scene Chiave
+
+### Scena 1 — Briefing di Vajra (Sending)
+
+*Un messaggio arriva tramite Sending a chi nel party è il contatto primario con Force Grey. La voce di Vajra è compressa in 25 parole, e si sente che ne avrebbe volute usare cento:*
+
+**Vajra** *(tramite Sending)*:
+> *"Meloon Wardragon. Portale Sbadigliante. Dieci giorni di sorveglianza — discreta, senza avvicinarlo. Vedrete perché. Riferite solo a me. Non parlate con nessun altro nell'organizzazione di questa missione."*
+
+*Poi l'incontro diretto, dopo la risposta:*
+> *"Meloon è un alleato di lunga data. È anche qualcuno che ho sottovalutato. Non voglio che muoia prima di capire cosa gli è successo. Dieci giorni — osservate, raccogliete, non agite. La vostra opinione sulle conclusioni mi interessa."*
+
+---
+
+### Scena 2 — Giorni 1–3: Meloon al Portale Sbadigliante
+
+*Meloon Wardragon è un uomo grande, il tipo che riempie una stanza senza cercarlo — capelli castani, cicatrice sul mento, una risata che di solito si sente da due tavoli di distanza. Adesso è seduto da solo, beve lentamente, e risponde ai saluti dei conoscenti con il minimo indispensabile.*
+
+**Atmosfera DM:** Il primo giorno sembra niente. Il secondo anche. Il terzo, il party comincia a notare — non cosa fa di strano, ma cosa non fa: non ride, non cerca compagnia, non guarda verso l'ingresso quando qualcuno entra. Guarda il tavolo.
+
+*Se qualcuno ci parla casualmente (senza far emergere la missione):*
+
+**Meloon** *(distante, meccanico)*:
+> *"Sto bene. Sono solo stanco. Il lavoro."*
+
+*Poi torna a guardare il tavolo. Fine della conversazione.*
+
+---
+
+### Scena 3 — Giorni 4–7: Il rituale dell'alba
+
+*Il quarto giorno, qualcuno che veglia la notte nota qualcosa. Meloon si sveglia di colpo — non come uno che ha fatto un brutto sogno, ma come uno che ha sentito un ordine — e per un lungo momento rimane seduto sul bordo del letto a fissare la parete.*
+
+*Poi comincia a mormorare.*
+
+**Atmosfera DM:** È Deep Speech. Le cadenze sono irregolari, come se stesse lottando con le parole — o come se ci fossero due voci che cercano di parlare dalla stessa bocca. Meloon scrive qualcosa sul tavolo con l'unghia — simboli che si cancellano quasi subito. Poi si rialza, si lava la faccia, e torna al Portale come se niente fosse.
+
+**Gancio Vorador:** Chi ha ascoltato e supera Arcana CD 13 riconosce le cadenze del Deep Speech — e Vorador in particolare le riconosce da qualcosa che Brottor gli aveva descritto: *"Le creature che rubano pensieri parlano così."* Con o senza il quaderno di M2, è abbastanza per capire.
+
+---
+
+### Scena 4 — Giorni 8–10: Il confronto / la richiesta
+
+*Al decimo giorno, Meloon non torna al Portale. È seduto in un vicolo poco frequentato, la schiena al muro, e quando vi vede arrivare non è sorpreso. Come se lo aspettasse.*
+
+**Meloon** *(con fatica — ogni parola sembra costare qualcosa)*:
+> *"Sapevo che Vajra avrebbe mandato qualcuno. Sapevo anche che avrei continuato a fare quello che fa — finché non lo dico io, finché non lo chiedo io. Ecco. Lo sto chiedendo."*
+
+*Pausa.*
+> *"C'è qualcosa nella mia testa che non sono io. Non so da quando — un mese, forse due. Sa tutto quello che so. Ogni notte prova a convincermi che è normale. Ogni mattina ricomincio a capire che non lo è."*
+
+*Si guarda le mani.*
+> *"Non posso ucciderlo da solo. Ma non posso lasciarlo nemmeno. Quindi: aiutatemi. O uccidetemi. Non c'è una terza opzione."*
+
+**Atmosfera DM:** Questo è il momento più silenzioso della missione. Non c'è un'azione giusta da fare — solo una risposta da dare.
+
+---
+
+### Scena 5 — La confessione di Vajra (dopo il decimo giorno)
+
+*Vajra riceve il rapporto del party in silenzio. Poi appoggia lo Staff of Power sul tavolo — un gesto che non le avete mai visto fare — e rimane ferma per un momento.*
+
+**Vajra Safahr:**
+> *"Brottor mi ha inviato il suo ultimo rapporto tre settimane prima di scomparire. Identificava un'entità aberrante operante nelle acque sottostanti il porto. Ho classificato il caso perché il rapporto citava Dendar — e sapevo che l'Ordine avrebbe sollevato domande su di te, Vorador, se quel nome fosse circolato nelle stanze sbagliate. Ho pensato di proteggervi entrambi tenendo i fili nelle mie mani."*
+
+*Una pausa.*
+> *"Mi sbagliavo. L'ultima posizione nota di Brottor era il Dock Ward. Non so se sia vivo. So che l'entità che sta operando è quasi certamente Nihiloor — ed è una delle ragioni per cui ho accelerato questa missione."*
+
+*Non chiede scusa. Dice quello che sa e quello che non sa, con la stessa voce.*
+
+---
+
 ## 🏆 Ricompense
 
 - **Oro:** 50 mo per membro
