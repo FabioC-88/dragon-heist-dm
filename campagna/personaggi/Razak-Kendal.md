@@ -1,4 +1,4 @@
-# Razak Kendal — Mirko
+# Razak Kendal — Monaco — Mirko
 
 **Razza/Classe:** Umano Monaco (Monastero della Rosa Gialla, Damara)
 **Fazione:** Force Grey
@@ -6,7 +6,9 @@
 
 ---
 
-## Storia
+## Background
+
+### Storia
 
 Il mio nome è Razak Kendal.
 
@@ -28,7 +30,27 @@ Sono diretto lì. Il presagio di Hlam non è ancora decifrabile, ma Waterdeep si
 
 ---
 
-## PNG Collegati
+## PNG Conosciuti e Incontrati
+
+### Volothamp Geddarm
+**Come lo conosci:** Ti ha inviato un messaggio invitandoti al Portale Spalancato. Il tuo primo incontro in questa città.
+**Ruolo pubblico:** Cronista, mago e celebrità, autore di guide di viaggio famose in tutto il Faerûn.
+**Quello che sai:**
+- È un grande chiacchierone con la tendenza ad esagerare — ma la preoccupazione per il suo amico scomparso sembrava genuina.
+- Ha una rete di conoscenze sorprendente. Potrebbe rivelarsi utile in una città che non conosci ancora.
+
+---
+
+### Dagult Neverember
+**Come lo conosci:** Il suo nome è comparso nelle pergamene storiche del tuo tempio — era il Lord Aperto di Waterdeep prima di essere destituito.
+**Ruolo pubblico:** Fu il Lord Aperto di Waterdeep, ora guida la ricostruzione di Neverwinter.
+**Quello che sai:**
+- Tenne il controllo di Waterdeep per anni, con ambizione e spregiudicatezza. La sua caduta fu accompagnata da voci di corruzione.
+- Le pergamene del tuo tempio lo citano come esempio di potere mal usato — uno di quei nomi che tornano in mente quando si studia la storia recente della città.
+
+---
+
+## PNG Collegati (Schema)
 
 | PNG | Ruolo | Note |
 |-----|-------|------|
@@ -46,3 +68,12 @@ Sono diretto lì. Il presagio di Hlam non è ancora decifrabile, ma Waterdeep si
 Il presagio lo collega a **Force Grey M1 — Il Carico del Fondatore** fin dalla prima sessione.
 
 > **[NOTA DM]** I Cassalanters devono consegnare 99 anime innocenti entro il Giorno dei Fondatori. Il veleno Midnight Tears è il vettore. Razak è il campanello d'allarme che il party ha in mano dal giorno uno.
+
+---
+
+## Note Aggiornamenti
+
+**Ultimo aggiornamento:** 2026-05-18 — Consolidamento in single-source-of-truth structure `campagna/personaggi/`
+**Fonti precedenti:**
+- Background da: `personaggi/Razak-Kendal.md`
+- PNG conosciuti da: `campagna/png-per-capitolo/capitolo-01/Razak-Kendal.md`

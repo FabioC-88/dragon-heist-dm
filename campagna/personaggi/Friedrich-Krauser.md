@@ -1,4 +1,4 @@
-# Friedrich Krauser — Gabri
+# Friedrich Krauser — Paladino — Gabri
 
 **Nome avventura:** (da definire con Gabri)
 **Razza/Classe:** Umano Paladino (Voto di Devozione → arco verso Oathbreaker)
@@ -7,7 +7,9 @@
 
 ---
 
-## Storia
+## Background
+
+### Storia
 
 Sei nato in una famiglia nobile. Il tuo cognome aveva una storia con la **Chiesa di Tyr**: devozione alla giustizia, rispetto per la legge, il tipo di fede che si eredita come si eredita un blasone. Non fu mai una tua scelta — era semplicemente chi eri.
 
@@ -49,6 +51,69 @@ All'inizio non eri d'accordo. Poi ci hai ripensato. Alla fine, hai smesso di ess
 
 ---
 
+## PNG Conosciuti e Incontrati
+
+### Durnan
+**Come lo conosci:** Proprietario del Portale Spalancato — il posto dove hai trovato riparo quando sei arrivato a Waterdeep. Ti ha visto passare ogni sera.
+**Ruolo pubblico:** Taverniere leggendario, ex avventuriero. Il Portale Spalancato è il punto di riferimento degli avventurieri in città.
+**Quello che sai:**
+- Un uomo di poche parole. Non fa domande che non ti aspetti, ma nota tutto. Ti ha visto sederti al bancone da solo molte sere.
+- Veterano di Undermountain nel senso più concreto. Esattamente quello che sembra: qualcuno che ha visto tutto e si è guadagnato ogni ruga.
+- Sa cose. Non le offre, ma se hai la sua fiducia, può diventare una delle fonti più preziose della città.
+
+---
+
+### Volothamp Geddarm
+**Come lo conosci:** Ti ha avvicinato al Portale Spalancato con un invito a un incontro.
+**Ruolo pubblico:** Cronista, mago e celebrità, autore di guide di viaggio famose in tutto il Faerûn.
+**Quello che sai:**
+- Sa trovare le persone giuste nel momento sbagliato — o nel momento giusto, dipende dai punti di vista.
+- Non è un uomo che recita, anche quando esagera. Tiene agli affetti genuini.
+- Il compenso promesso forse supera le sue disponibilità attuali, ma il regalo che ha in mente è concreto.
+
+---
+
+### Yagra Stonefist
+**Come lo conosci:** Una mezza orchessa che hai visto qualche volta al Portale Spalancato, di solito in compagnia di altri.
+**Ruolo pubblico:** Mercenaria, volto noto nel Dock Ward.
+**Quello che sai:**
+- Sembra una persona tosta. Non è il tipo che passa inosservato in una stanza.
+- Non ci hai mai parlato davvero.
+
+---
+
+### Dagult Neverember
+**Come lo conosci:** Ex Lord Aperto — il suo nome compare spesso nelle conversazioni di chiunque abbia trascorso anche poco tempo a Waterdeep.
+**Ruolo pubblico:** Fu il Lord Aperto di Waterdeep, ora è a Neverwinter.
+**Quello che sai:**
+- Tenne il controllo della città per anni con ambizione e spregiudicatezza. La sua caduta fu seguita da voci di corruzione.
+- Per chi arriva a Waterdeep, il suo nome è parte della storia recente della città — come un'ombra che non ha ancora smesso di allungarsi.
+
+---
+
+## PNG Collegati (Schema)
+
+| PNG | Ruolo | Note |
+|-----|-------|------|
+| **Aldric** | Amico / mentore / **Asmodeo** | Ex avventuriero al Portale Spalancato. Capelli grigi, modi diretti. Il riferimento più stabile che Gabri abbia a Waterdeep. **[NOTA DM: è Asmodeo travestito.]** |
+| **Davil Starsong** | Referente Zentharim | Pragmatico, non crudele. *"Non ti sto chiedendo di amare quello che fai. Ti sto chiedendo di farlo bene."* |
+| **Yagra Stonefist** | Intermediaria Zentharim | Mezza orchessa, braccio destro di Davil. Ha contattato Gabri ed Eric dopo S1. |
+| **Volothamp "Volo" Geddarm** | Committente S1 | Ha avvicinato Gabri al Portale Spalancato. |
+| **Durnan** | Presenza fissa | Proprietario del Portale Spalancato; fonte di informazioni locali. |
+| **Magistrato Valerius** *(Toga Nera)* | **Antagonista-speculare** | Alto magistrato e sacerdote di Tyr. Ha firmato l'ordine per l'imboscata nella Shadowfell. Rappresenta tutto ciò che Friedrich doveva diventare. |
+| **Padre Borin** | Sacerdote di Tyr | Rappresenta la Chiesa di Tyr come istituzione. Tradisce Friedrich quando presenta le prove. |
+| **Skeemo Weirdbottle** | Alchimista gnomo | Zhentarim (copertura) / Manshoon (vero padrone). Funziona come distrattore e prova che il magistrato lo usava per coprire i suoi crimini. |
+
+---
+
+## Connessioni Pre-Campagna
+
+**Thraximundar (Seba)** — L'inquilino del piano di sopra al Portale Spalancato. Si sono visti sulle scale, al bancone — mai parlati davvero. Friedrich sa che è un dragonide dall'aria investigativa; dai movimenti e dalla postura ha capito che fa questo per mestiere. Non sa ancora di quale ordine faccia parte.
+
+**Aelar Moonwhisper (Berto)** — Un altro volto familiare del Portale. Il musicante con la beccaccia che suona nelle sere più tranquille. Friedrich lo ha ascoltato senza mai avvicinarsi — il tipo di presenza che fa sentire meno soli senza richiedere niente.
+
+---
+
 ## Arco Narrativo — Verso l'Oathbreaker (Livello 3)
 
 ### Capitolo 2: Il Seme del Dubbio (Livello 2)
@@ -81,29 +146,6 @@ All'inizio non eri d'accordo. Poi ci hai ripensato. Alla fine, hai smesso di ess
 
 ---
 
-## PNG Collegati
-
-| PNG | Ruolo | Note |
-|-----|-------|------|
-| **Aldric** | Amico / mentore / **Asmodeo** | Ex avventuriero al Portale Spalancato. Capelli grigi, modi diretti. Il riferimento più stabile che Gabri abbia a Waterdeep. **[NOTA DM: è Asmodeo travestito.]** |
-| **Davil Starsong** | Referente Zentharim | Pragmatico, non crudele. *"Non ti sto chiedendo di amare quello che fai. Ti sto chiedendo di farlo bene."* |
-| **Yagra Stonefist** | Intermediaria Zentharim | Mezza orchessa, braccio destro di Davil. Ha contattato Gabri ed Eric dopo S1. |
-| **Volothamp "Volo" Geddarm** | Committente S1 | Ha avvicinato Gabri al Portale Spalancato. |
-| **Durnan** | Presenza fissa | Proprietario del Portale Spalancato; fonte di informazioni locali. |
-| **Magistrato Valerius** *(Toga Nera)* | **Antagonista-speculare** | Alto magistrato e sacerdote di Tyr. Ha firmato l'ordine per l'imboscata nella Shadowfell. Rappresenta tutto ciò che Friedrich doveva diventare. |
-| **Padre Borin** | Sacerdote di Tyr | Rappresenta la Chiesa di Tyr come istituzione. Tradisce Friedrich quando presenta le prove. |
-| **Skeemo Weirdbottle** | Alchimista gnomo | Zhentarim (copertura) / Manshoon (vero padrone). Funziona come distrattore e prova che il magistrato lo usava per coprire i suoi crimini. |
-
----
-
-## Connessioni Pre-Campagna
-
-**Thraximundar (Seba)** — L'inquilino del piano di sopra al Portale Spalancato. Si sono visti sulle scale, al bancone — mai parlati davvero. Friedrich sa che è un dragonide dall'aria investigativa; dai movimenti e dalla postura ha capito che fa questo per mestiere. Non sa ancora di quale ordine faccia parte.
-
-**Aelar Moonwhisper (Berto)** — Un altro volto familiare del Portale. Il musicante con la beccaccia che suona nelle sere più tranquille. Friedrich lo ha ascoltato senza mai avvicinarsi — il tipo di presenza che fa sentire meno soli senza richiedere niente.
-
----
-
 ## Gancio Personale
 
 **Fuga da un passato che torna** — l'imboscata nella Shadowfell non è mai stata spiegata. Qualcuno nella Chiesa di Tyr sapeva. Qualcuno ha firmato quell'ordine di missione.
@@ -119,3 +161,12 @@ Un oggetto magico che Aldric consegna a Friedrich dopo il breaking point. Può e
 - **Talismano di Ordine**: permette di imporre pene "giuste" (es. fear su chi ha commesso crimini), ma attira l'attenzione di entità oscure.
 
 **Nota per il DM**: Il cimelio è un catalizzatore per il futuro patto con Asmodeo. Non è necessario per il cambio di sottoclasse, ma diventa cruciale nel Capitolo 4-5.
+
+---
+
+## Note Aggiornamenti
+
+**Ultimo aggiornamento:** 2026-05-18 — Consolidamento in single-source-of-truth structure `campagna/personaggi/`
+**Fonti precedenti:**
+- Background da: `personaggi/Friedrich-Krauser.md`
+- PNG conosciuti da: `campagna/png-per-capitolo/capitolo-01/Friedrich-Krauser.md`
