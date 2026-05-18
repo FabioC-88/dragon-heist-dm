@@ -1,4 +1,4 @@
-# Vorador Thraxas — Seba
+# Vorador Thraxas — Dragonide Warlock — Seba
 
 **Razza/Classe:** Dragonide Warlock (Patrono: Dendar, la Divoratrice di Incubi)
 **Fazione:** Force Grey / Ordine Vigilante dei Magisti e Protettori
@@ -6,7 +6,9 @@
 
 ---
 
-## Storia
+## Background
+
+### Storia
 
 Vorador Thraxas nacque nel villaggio dragonide di Vhordrakar, presso il Clan Vorelthas, tra le Spine del Mondo. Da neonato fu rapito e sostituito con un changeling da fate malevole. I genitori, con l'aiuto degli yuan-ti della covata Isssharess — adoratori di Dendar — recuperarono il bambino, al prezzo di un patto: al compimento dei dieci anni, sarebbe stato mandato dal drago nero Nizidramor'yth per stipulare un legame con Dendar.
 
@@ -31,7 +33,49 @@ Hai servito nell'Ordine Vigilante dei Magisti e Protettori. I tuoi compiti inclu
 
 ---
 
-## PNG Collegati
+## PNG Conosciuti e Incontrati
+
+### Volothamp Geddarm
+**Come lo conosci:** Ti ha inviato un messaggio per incontrarti al Portale Spalancato. La sua reputazione ti precede.
+**Ruolo pubblico:** Cronista, mago e celebrità — autore di guide di viaggio famose in tutto il Faerûn, inclusa *Volo's Guide to Monsters*.
+**Quello che sai:**
+- È un grande chiacchierone con la tendenza ad esagerare, ma il suo cuore è genuino — specie quando si tratta degli amici.
+- Notoriamente a corto di denaro: le royalties di *Volo's Guide to Monsters* tardano, e il nuovo progetto (*Volo's Guide to Spirits and Specters*) non decolla.
+- Ha una rete di conoscenze enorme. Utile come contatto informale in una città grande come Waterdeep.
+
+---
+
+### Durnan
+**Come lo conosci:** Proprietario del Portale Spalancato, dove sei in affitto permanente. Lo conosci da quando sei arrivato in città.
+**Ruolo pubblico:** Taverniere leggendario, ex-avventuriero. Il Portale Spalancato è il suo dominio.
+**Quello che sai:**
+- Durnan è un veterano di combattimenti che pochi eguagliano — lo si vede dalla postura, dalle cicatrici, dal modo in cui conta ogni uscita della locanda.
+- È laconico e diretto, non ama le complicazioni. A chi si comporta bene, offre un "hai combattuto bene" come massimo riconoscimento.
+- Ha la rete di informazioni di chi gestisce la taverna più famosa di Waterdeep da decenni. Utile.
+- Ti ospita con tariffa agevolata — è già qualcosa in questa città cara.
+
+---
+
+### Yagra Stonefist
+**Come lo conosci:** Una mezza orchessa che vedi di tanto in tanto al Portale Spalancato, quando torni tardi da un caso.
+**Ruolo pubblico:** Mercenaria, volto noto nel Dock Ward.
+**Quello che sai:**
+- Sembra sapere badare a sé stessa — basta guardarla per capirlo.
+- Non hai mai avuto motivo di parlarle davvero.
+
+---
+
+### Hyustus Staget
+**Come lo conosci:** Capitano della Guardia Cittadina del Dock Ward — vi siete incrociati professionalmente su casi che toccavano il crimine nel quartiere.
+**Ruolo pubblico:** Capitano veterano della Guardia, responsabile dell'ordine nel Dock Ward.
+**Quello che sai:**
+- Un uomo che gioca con cautela — preferisce aspettare che le situazioni si risolvano da sole piuttosto che intervenire.
+- Nei registri dell'Ordine appare come contatto professionale per casi nel Dock Ward. Non è un alleato, ma non è un ostacolo dichiarato.
+- Osserva tutto. Se ti muovi nel suo quartiere, lui lo nota.
+
+---
+
+## PNG Collegati (Schema)
 
 | PNG | Ruolo | Note |
 |-----|-------|------|
@@ -62,3 +106,12 @@ Hai servito nell'Ordine Vigilante dei Magisti e Protettori. I tuoi compiti inclu
 **Brottor Deepdelver è scomparso** mentre indagava su un caso classificato dell'Ordine. L'Ordine ha negato a Vorador Thraxas l'accesso all'indagine. Il filo narrativo si intreccia con le missioni Force Grey e con le minacce extraplanari che Brottor stava studiando.
 
 > **[NOTA DM]** Brottor stava indagando una serie di amnesia parziali a Waterdeep (vittime con lacune mnestiche e incubi frammentati) che inizialmente attribuiva a un culto di Dendar. La realtà: era Nihiloor che usava Divoratori di Intelletto per minare le memorie di informatori inconsapevoli. Brottor ha classificato il caso per proteggere Vorador dall'associazione con Dendar — isolandosi e finendo in trappola. È stato catturato da un contatto già compromesso e detenuto nel covo di Xanathar, dove resiste alle "interviste" di Nihiloor fornendo informazioni deliberatamente sbagliate. È vivo perché la sua expertise è troppo preziosa da sprecare. **Arco:** il filo si svela in M1 (documento con firma B.D.), M2 (quaderno e testimonianza Zelifarn), M3 (confessione di Vajra), M4 (ritrovamento nella camera di detenzione).
+
+---
+
+## Note Aggiornamenti
+
+**Ultimo aggiornamento:** 2026-05-18 — Consolidamento in single-source-of-truth structure `campagna/personaggi/`
+**Fonti precedenti:**
+- Background da: `personaggi/Vorador-Thraxas.md`
+- PNG conosciuti da: `campagna/png-per-capitolo/capitolo-01/Vorador-Thraxas.md`

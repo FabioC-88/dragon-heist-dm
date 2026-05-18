@@ -1,14 +1,16 @@
-# Fizzra Ingranaggia "Scintilla" — Gnoma Artefice
+# Fizzra Ingranaggia "Scintilla" — Gnoma Artefice — Eric
 
+**Nome completo PG:** Fizzra Ingranaggia
+**Soprannome:** Scintilla
 **Razza/Classe:** Gnoma Artefice (specializzazione Armorer a Lv 3, autodidatta)
 **Fazione:** Zentharim (contatto: Davil Starsong)
 **Giocatore:** Eric
-**Nome completo PG:** Fizzra Ingranaggia
-**Soprannome:** Scintilla
 
 ---
 
-## Armatura — "Errore 404: Funzione Sicurezza Non Trovata"
+## Background
+
+### Armatura — "Errore 404: Funzione Sicurezza Non Trovata"
 
 > *La tua armatura non è solo protezione. È un sistema instabile, in continua evoluzione.*
 >
@@ -16,31 +18,27 @@
 
 Un progetto incompleto — ma già vivo. Porta già il suo nome: **"Errore 404: Funzione Sicurezza Non Trovata"**, detto semplicemente **Errore 404**. Un sistema imperfetto, instabile, capace di sorprendere anche lei. Diventerà quello che deve essere quando la maestria dell'Armorer sarà pienamente sviluppata — per ora è un'intenzione in acciaio graffiato.
 
----
+### Tratti del Personaggio
 
-## Tratti del Personaggio
-
-### Difetti
+#### Difetti
 - Non riesce a smettere di sperimentare, anche in situazioni pericolose
 - Ha difficoltà a fidarsi completamente degli altri
 - Tende a sottovalutare i rischi delle sue invenzioni
 - Ha debiti con persone poco raccomandabili
 
-### Ideali
+#### Ideali
 - La conoscenza deve essere usata, non solo studiata
 - Ogni problema ha una soluzione (possibilmente esplosiva)
 - La libertà vale più delle regole
 - Le seconde possibilità esistono (anche per lei)
 
-### Legami
+#### Legami
 - Vuole scoprire cosa è successo a Rennis
 - La sua officina è la sua vita
 - È legata (anche controvoglia) ai contatti del Dock Ward
 - Errore 404 è più di un'armatura
 
----
-
-## Frasi Iconiche
+### Frasi Iconiche
 
 - *"Colpiscimi pure. Ho appena migliorato il sistema di assorbimento… credo."*
 - *"Se non esplode, non è ancora finito."*
@@ -49,9 +47,7 @@ Un progetto incompleto — ma già vivo. Porta già il suo nome: **"Errore 404: 
 - *"Non è rubare se lo uso meglio io."*
 - *"Oh. Questo non doveva succedere. Aspetta… oppure sì."*
 
----
-
-## Storia
+### Storia
 
 Sei una gnoma di Waterdeep — il che vuol dire che conosci ogni angolo di questa città dal Trades Ward fino alle fogne, hai visto gli stessi negozi aprirsi e chiudersi dieci volte, e sai dove trovare le persone interessanti quando ti servono.
 
@@ -79,24 +75,50 @@ Poi **Volothamp Geddarm** è entrato nella tua officina. Non sai come l'abbia sa
 
 *"Hai esattamente quello che mi serve. Vieni al Portale Spalancato al calare del sole. Ci saranno altri come te."*
 
-Non hai abbastanza orguoglio, debiti e curiosità per dire di no. Se Volo ha ragione, forse è il momento di scoprire quali opportunità stavi perdendo rinchiusa nella tua officina. Soprattutto se significa poter finalmente accedere ai materiali che hai sempre desiderato.
+Non hai abbastanza orgoglio, debiti e curiosità per dire di no. Se Volo ha ragione, forse è il momento di scoprire quali opportunità stavi perdendo rinchiusa nella tua officina. Soprattutto se significa poter finalmente accedere ai materiali che hai sempre desiderato.
 
 ---
 
-## Arc Narrativo — Il Filo di Rennis
+## PNG Conosciuti e Incontrati
 
-| Fase | Situazione | Nota DM |
-|------|-----------|---------|
-| **Lv 1–2** | Rennis è scomparso. L'officina era disordinata, i debiti sono rimasti. | La commessa aveva qualcosa di spaventoso — Rennis ha voluto tenerla fuori da Eric. |
-| **Z-M2 (Lv 3)** | Skeemo Weirdbottle appare. È coinvolto in qualcosa che puzza di Manshoon. | Eric può iniziare a collegare i puntini — il DM non lo fa per lei. Segnale: *"certi committenti"* (vago ma allarmante). |
-| **Z-M3 (Lv 4)** | Il nome "Kolat Towers" è menzionato in conversazioni Zentharim. | Il filo si ispessisce; Rennis è vivo ma sotto pressione. Segnale nei dialoghi di fonti terze. |
-| **Z-M4 (Lv 4–5)** | Skeemo viene eliminato. Nei suoi documenti c'è un riferimento a *"il progetto Coalsworth"*. | Eric può scegliere di cercare Rennis. La pista porta alle Kolat Towers e a Manshoon. |
-
-> **[NOTA DM]** Rennis ha accettato una commessa da un intermediario di Manshoon. Quando ha capito con chi aveva a che fare ha tentato di tirarsi fuori — troppo tardi. È attualmente tenuto nelle Kolat Towers. Skeemo è il filo che unisce Eric a Manshoon.
+### Volothamp Geddarm
+**Come lo conosci:** È entrato nella tua officina, ha pronunciato esattamente le parole giuste, e ti ha convinta ad andare al Portale Spalancato.
+**Ruolo pubblico:** Cronista, mago e celebrità, autore di guide di viaggio famose in tutto il Faerûn.
+**Quello che sai:**
+- Ha un fiuto per trovare le persone giuste nel momento in cui ne ha più bisogno.
+- Il compenso promesso potrebbe non corrispondere alle sue disponibilità attuali.
+- Ha una rete di conoscenze enorme. Essere nei suoi buoni libri non è un vantaggio trascurabile.
 
 ---
 
-## PNG Collegati
+### Durnan
+**Come lo conosci:** Proprietario del Portale Spalancato, leggenda tra gli avventurieri di Waterdeep.
+**Ruolo pubblico:** Taverniere leggendario, ex avventuriero. Il Portale Spalancato è il punto di riferimento degli avventurieri a Waterdeep.
+**Quello che sai:**
+- Un uomo di poche parole che esprimono molto. Veterano di Undermountain — si dice ne sia tornato più volte.
+- Conosce Waterdeep meglio di chiunque altro. È una fonte di informazioni se si è disposti a guadagnarsela.
+
+---
+
+### Yagra Stonefist
+**Come lo conosci:** È il braccio destro di Davil Starsong — il tuo referente Zentharim.
+**Ruolo pubblico:** Mercenaria mezza orchessa, volto noto nel Dock Ward.
+**Quello che sai:**
+- Non è una persona che si fa comandare facilmente — combatte per principio, non per ordine. Questo la rende affidabile in un certo senso.
+- È la principale intermediaria di Davil sul campo. Se Davil vuole parlarti, ti contatta attraverso di lei.
+
+---
+
+### Dagult Neverember
+**Come lo conosci:** Ex Lord Aperto — nome noto a qualsiasi residente di Waterdeep.
+**Ruolo pubblico:** Fu il Lord Aperto di Waterdeep, ora è a Neverwinter.
+**Quello che sai:**
+- Si dice abbia sottratto mezzo milione di monete d'oro durante il suo mandato e le abbia nascoste da qualche parte in città.
+- Gli Zentharim cercano quelle monete — è uno degli obiettivi operativi che ti hanno illustrato nel tuo briefing.
+
+---
+
+## PNG Collegati (Schema)
 
 | PNG | Ruolo | Note |
 |-----|-------|------|
@@ -118,8 +140,30 @@ Non hai abbastanza orguoglio, debiti e curiosità per dire di no. Se Volo ha rag
 
 ---
 
+## Arco Narrativo — Il Filo di Rennis
+
+| Fase | Situazione | Nota DM |
+|------|-----------|---------|
+| **Lv 1–2** | Rennis è scomparso. L'officina era disordinata, i debiti sono rimasti. | La commessa aveva qualcosa di spaventoso — Rennis ha voluto tenerla fuori da Eric. |
+| **Z-M2 (Lv 3)** | Skeemo Weirdbottle appare. È coinvolto in qualcosa che puzza di Manshoon. | Eric può iniziare a collegare i puntini — il DM non lo fa per lei. Segnale: *"certi committenti"* (vago ma allarmante). |
+| **Z-M3 (Lv 4)** | Il nome "Kolat Towers" è menzionato in conversazioni Zentharim. | Il filo si ispessisce; Rennis è vivo ma sotto pressione. Segnale nei dialoghi di fonti terze. |
+| **Z-M4 (Lv 4–5)** | Skeemo viene eliminato. Nei suoi documenti c'è un riferimento a *"il progetto Coalsworth"*. | Eric può scegliere di cercare Rennis. La pista porta alle Kolat Towers e a Manshoon. |
+
+> **[NOTA DM]** Rennis ha accettato una commessa da un intermediario di Manshoon. Quando ha capito con chi aveva a che fare ha tentato di tirarsi fuori — troppo tardi. È attualmente tenuto nelle Kolat Towers. Skeemo è il filo che unisce Eric a Manshoon.
+
+---
+
 ## Gancio Personale
 
 **Rennis scomparso, officina in difficoltà finanziarie.** Eric non sa ancora nulla della commessa di Manshoon. La questline Zentharim (M1→M4) è il percorso che la porterà progressivamente vicino alla verità — se saprà raccogliere i segnali.
 
 > Officina: posizione da definire con Eric (quartiere, come finanziata inizialmente).
+
+---
+
+## Note Aggiornamenti
+
+**Ultimo aggiornamento:** 2026-05-18 — Consolidamento in single-source-of-truth structure `campagna/personaggi/`
+**Fonti precedenti:**
+- Background da: `personaggi/Eric.md`
+- PNG conosciuti da: `campagna/png-per-capitolo/capitolo-01/Eric.md`
