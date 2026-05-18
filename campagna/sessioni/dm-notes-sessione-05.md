@@ -196,6 +196,13 @@ Il manor è nel Quartiere Nord — la stessa zona dove Brottor aveva un ufficio 
 
 **Hook attivo:** Risposta del Bastone Nero sulla Pietra di Golor potrebbe aprire (o chiudere) il filo Brottor.
 
+### Razak Kendal (Razak — Mirko)
+Vajra ha confermato in S4 che il presagio di Hlam è reale: *"Giorno dei Fondatori. Midnight Tears. Stesso punto di arrivo."* In S5, se il party discute del carico ai moli (FASE 0) o avanza sulla Force Grey M1, Razak è il PG con la visione d'insieme più nitida — ma il Giorno dei Fondatori si avvicina e la lista dei destinatari è ancora mancante.
+
+*Indizio sottile per S5: se Razak osserva la quantità del carico Midnight Tears, può fare un'inferenza sul numero di potenziali vittime. Lascia che sia lui a fare i conti, non descriverlo tu.*
+
+---
+
 ### Rennis Coalsworth (Scintilla — Eric)
 Davil Starsong ha menzionato Rennis in S4: sapeva dove trovare componenti rari che non si trovano più. Il filo è aperto — Scintilla sa che Rennis è sparito e che i canali di approvvigionamento sono stati tagliati. Se Scintilla torna alla sua officina: trova una tazza ancora piena di tisana fredda, un progetto a metà, nessuna nota. Il negoziante di fronte ha visto "due uomini in abiti scuri" caricare casse su un carro di notte.
 
@@ -216,6 +223,22 @@ Prima apparizione di Emmek in questa sessione. I Shard Shunners compaiono nello 
 **Sviluppo in S6:** L'infestazione di topi compare. Emmek sparge voci. Il party comincia a indagare.
 
 *Non rivelare mai esplicitamente il collegamento Emmek → Shard Shunners. Lasciare che i PG lo deducano.*
+
+---
+
+---
+
+## 🧩 THREAD NARRATIVI — Sessione 5
+
+| Hook | Fazione/PG | Stato | Note |
+|------|-----------|-------|------|
+| Risposta Bastone Nero sulla Pietra di Golor | Vorador (Force Grey) | **TODO DM** aperto | Preparare risposta di Vajra da `Dragon Heist.md` |
+| Decisione cargo Midnight Tears | Barney | **TODO DM** aperto | Distruggere / segnalare / non agire — conseguenze diverse |
+| Maxeene — sorveglianza | Aelar (Arpisti M1) | In corso | 3 notti sorveglianza; Barnabus coinvolgibile |
+| Edran Voss / Vosk | Friedrich, Scintilla (Zentharim M1) | **In apertura** | Prima prova del complotto Vosk; il drow come chiave |
+| Rennis e i canali tagliati | Scintilla | Filo aperto | Indagine sull'officina — due uomini in abiti scuri |
+| Emmek Frewn — prima apparizione | Tutti | **Nuovo S5** | Non rivelare mai esplicitamente il collegamento con gli Shard Shunners |
+| Hammond, Justyn, Ulkoria | Tutti | **Nuovo S5** | Visite gilde; senza di loro la taverna non può aprire |
 
 ---
 

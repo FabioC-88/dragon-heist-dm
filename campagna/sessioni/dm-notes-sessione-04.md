@@ -1,5 +1,8 @@
 # DM Notes — Sessione 4 (In-Game)
 
+> ⚠️ **File aggiornato post-sessione (17 Maggio 2026).** Le fasi sono annotate con ✅/⏸️/🔀 per riflettere la realtà giocata.
+> Vedi sezione [📋 ACCADUTO IN SESSIONE](#accaduto-in-sessione) per il riepilogo dei delta.
+
 > **Fonte primaria:** `fonti/campagna/Dragon Heist.md` · Sezione *"Trollskull Alley"* (Cap. 2) → *"Fireball"* (Cap. 3)
 > **Contesto:** Party Lv 2 · Hanno completato Cap. 1 (salvato Floon, ottenuto Trollskull Manor) · Hanno ricevuto contatti da tutte e 3 le fazioni · A metà Cap. 2, in attesa dell'esplosione
 > **Obiettivo sessione:** Esplorazione del vicinato (Trollskull Alley) · Sviluppo delle missioni fazione (M1) · Preparazione per Cap. 3 (Fireball)
@@ -20,7 +23,7 @@
 
 ---
 
-## FASE 1: IL VICINATO AL RISVEGLIO — Prima del Disastro (~45 min)
+## ✅ GIOCATO — FASE 1: IL VICINATO AL RISVEGLIO — Prima del Disastro (~45 min)
 
 ### Struttura della Scena
 
@@ -113,7 +116,9 @@ Il mattino dopo l'arrivo dei contatti fazione, il vicolo si risveglia. Le botteg
 
 ---
 
-## FASE 2: I CONTATTI FAZIONE — Prima Missione (~30 min)
+## ✅ GIOCATO — FASE 2: I CONTATTI FAZIONE — Prima Missione (~30 min)
+
+> 🔀 **Aggiunta realtà**: Il party ha completato la missione Zentharim ai moli nella stessa sessione (scontro, carico Midnight Tears trovato). Barney vuole distruggere il carico — decisione aperta [TODO DM]. Vorador ha chiesto al Bastone Nero della Pietra di Golor — risposta da preparare [TODO DM].
 
 ### Tempistica
 
@@ -208,7 +213,9 @@ Ricompensa: +1 Renown Zentharim + [[/award 50gp]] se Heldar sopravvive.
 
 ---
 
-## FASE 3: LE GILDE — La Burocrazia di Waterdeep (~30 min)
+## 🔀 DEVIAZIONE — FASE 3: LE GILDE — La Burocrazia di Waterdeep (~30 min)
+
+> 🔀 **Realtà**: Solo Broxley Fairkettle ha visitato il manor in S4 (costi ristrutturazione presentati). Hammond Kraddoc, Justyn Rassk e Ulkoria Stonemarrow non sono venuti → spostati a S5.
 
 ### Contesto
 
@@ -307,6 +314,43 @@ Emmek Frewn è il rivale che ha perso l'asta del manor. In questa sessione compa
 
 ---
 
+---
+
+## 📋 ACCADUTO IN SESSIONE 4 — Realtà vs Piano
+
+**Data aggiornamento:** 17 Maggio 2026
+**Basato su:** recap-sessione-04.md
+
+### Tabella Delta
+
+| # | Fase/Scena | Piano | Realtà | Tipo |
+|---|-----------|-------|--------|------|
+| 1 | FASE 1: Il Vicinato (T2-T6) | Esplora le botteghe del quartiere | Giocato integralmente; tutti i vicini incontrati | ✅ |
+| 2 | FASE 2: Contatto Arpisti (Aelar) | Uccellino origami con missione Maxeene | Giocato; Aelar ha avviato l'indagine, prima traccia trovata la sera stessa | ✅ |
+| 3 | FASE 2: Contatto Force Grey (Vorador + Razak + Barney) | Missione al Bastone Nero | Giocato; Vajra ha assegnato Force Grey M1 | ✅ |
+| 4 | FASE 2: Contatto Zentharim (Friedrich + Scintilla) | Incontro con Davil al Portale Spalancato | Giocato; Friedrich e Scintilla hanno accettato di lavorare per Davil | ✅ |
+| 5 | FASE 3: Broxley Fairkettle | Visita al manor | Giocato; ha presentato i costi di ristrutturazione | ✅ |
+| 6 | FASE 3: Hammond Kraddoc | Visita al manor — alcol | Non giocato | ⏸️ → S5 |
+| 7 | FASE 3: Justyn Rassk | Visita al manor — carne | Non giocato | ⏸️ → S5 |
+| 8 | FASE 3: Ulkoria Stonemarrow | Visita al manor | Non giocato | ⏸️ → S5 |
+| 9 | FASE 4: Emmek Frewn + Shard Shunners | Prima apparizione antagonisti | Non giocato | ⏸️ → S5 |
+| 10 | [Extra] Visita a Volo per atto di proprietà | Non pianificato come fase separata | Giocato — il party ha raggiunto Volo per concludere formalmente il passaggio | 🔀 |
+| 11 | [Extra] Pulizia manor (3 giorni) | Non pianificato come fase separata | Giocato — 3 giorni di pulizia e riorganizzazione | 🔀 |
+| 12 | [Extra] Raid al magazzino ai moli | Pianificato come conclusione missione Zentharim M1 | Giocato in anticipo sulla stessa sessione; scontro completato; Midnight Tears trovate | 🔀 |
+
+### Scene da Trasferire a Sessione 5
+
+Già trasferite verbatim in `dm-notes-sessione-05.md`:
+- FASE 3: Hammond Kraddoc, Justyn Rassk, Ulkoria Stonemarrow
+- FASE 4: Emmek Frewn (prima apparizione) + Shard Shunners (colloquio)
+
+### TODO per il DM
+
+1. **Pietra di Golor:** Vorador ha chiesto esplicitamente al Bastone Nero informazioni sulla Stone of Golorr. Cosa risponde Vajra? → Verificare in `fonti/campagna/Dragon Heist.md` cosa sanno le autorità.
+2. **Midnight Tears cargo:** Barney vuole distruggere il carico di ingredienti. Quali sono le conseguenze? Il carico non è illegale di per sé — ma se la lista di Orvyn non è stata recuperata, la distruzione potrebbe compromettere la Force Grey M1.
+
+---
+
 ## RECAP POST-SESSIONE
 
 *(Aggiornato da recap-sessione-04.md — Agente 0, 18 Maggio 2026)*
@@ -368,11 +412,12 @@ Emmek Frewn è il rivale che ha perso l'asta del manor. In questa sessione compa
 
 ## POST-SESSION CHECKLIST
 
-- [ ] Aggiornare `campagna/party.md` — Lv 2 confermato; aggiungi Broxley, Davil, contatto Bastone Nero, PNG vicinato (Tally, Embric, Avi, Fala, Rishaal)
-- [ ] Aggiornare `campagna/png-incontrati.md` — Lif (collaborativo), Broxley, Davil, Vajra/Bastone Nero, PNG vicinato
-- [ ] Aggiornare `campagna/rapporti.md` — attitudini post-S4
-- [ ] Aggiornare `campagna/missioni-secondarie.md` — Arpisti M1 da `Pianificata` a `In corso`; Force Grey M1 → verificare stato con DM
+- [x] Aggiornare `campagna/party.md` — Lv 2 confermato; aggiunti Broxley, Davil, Vajra, PNG vicinato ✅
+- [x] Aggiornare `campagna/png-incontrati.md` — Lif (collaborativo), Broxley, Davil, Vajra/Bastone Nero, PNG vicinato ✅
+- [x] Aggiornare `campagna/rapporti.md` — attitudini post-S4 ✅
+- [x] Aggiornare `campagna/missioni-secondarie.md` — Arpisti M1 `In corso`, Force Grey M1 `In corso`, Zentharim M1 `In corso` ✅
 - [x] Creare `campagna/sessioni/recaps/recap-sessione-04.md` — compilato e riformattato ✅
 - [x] Creare `campagna/sessioni/dm-notes-sessione-05.md` — creato con contenuto spostato da S4 ✅
+- [x] Aggiornare `campagna/luoghi-visitati/` — Torre Bastone Nero, Trollskull Manor, Portale Spalancato, Chiodo Storto, Magazzino Moli, altri vicinato ✅
 - [ ] Commit su git
 
