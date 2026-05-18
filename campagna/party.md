@@ -4,10 +4,10 @@
 
 ## Stato generale
 
-- **Livello attuale:** 1
-- **XP:** 50 / 300 (verso L2)
-- **Ultima sessione:** Sessione 1 (Capitolo 1: Atto I + II)
-- **Sede base:** Temporanea — Yawning Portal (ospiti di Durnan, 2 notti gratis). Trollskull Manor promesso dopo rescue Floon.
+- **Livello attuale:** 2
+- **Sistema XP:** Milestone — prossimo level up al completamento Cap. 2
+- **Ultima sessione:** Sessione 4 (Capitolo 2: Trollskull Alley — vicinato, fazioni, primo raid ai moli)
+- **Sede base:** Trollskull Manor, Trollskull Alley — in ristrutturazione (≈1.000 mo necessarie)
 
 ---
 
@@ -21,7 +21,7 @@
 
 | | |
 |--|--|
-| **Livello** | 1 |
+| **Livello** | 2 |
 | **PF attuali** | — |
 | **Condizioni** | — |
 
@@ -29,22 +29,24 @@
 Il mentore **Brottor Deepdelver** è scomparso durante un'indagine su un caso classificato. L'Ordine nega l'accesso ai dettagli. Vorador Thraxas indaga in parallelo.
 
 #### PNG collegati
--- **Brottor Deepdelver** — mentore nano, scomparso *(obiettivo personale)*
-- **Vajra Safahr** — capo supremo dell'Ordine; ti convoca per rapporto (Force Grey M1 incoming)
+- **Brottor Deepdelver** — mentore nano, scomparso *(obiettivo personale)*
+- **Vajra Safahr** *(S4)* — incontrata di persona alla Torre del Bastone Nero; ha assegnato Force Grey M1; filo aperto sulla Pietra di Golor
+- **Rishaal il Voltapagine** *(S4)* — membro dell'Ordine; libreria Trollskull Alley; disponibile a fare da tramite con i registri pubblici
 - **Barnibus Blastwind** — collega Ordine, collabora con la Guardia
 - **Saeth Cromley** — Sergente della Guardia, contatto professionale
-- **Durnan** *(nuovo, S1)* — proprietario Yawning Portal; +1 amichevolezza (post-rissa)
-- **Yagra Stonefist** *(nuovo, S1)* — mezza-orchessa Zhentarim; ha combattuto con te (+1)
-- **Volothamp Volo** *(nuovo, S1)* — quest-giver Floon, genuino (+2)
-- **Azzaxell** *(nuovo, S1)* — barista Skewered Dragon; diffile (-1)
-- **Old Xoblob** *(nuovo, S1)* — gnomo negozio, gentile, utile (+1)
-- **Renaer Neverember** *(nuovo, S1)* — nobile salvato, grato, alleato (+2)
+- **Lif** *(S4)* — poltergeist barista del manor; ora collaborativo
+- **Broxley Fairkettle** *(S4)* — halfling Fellowship of Innkeepers; ha presentato i costi di ristrutturazione
+- **Durnan** *(S1)* — proprietario Yawning Portal; amichevole
+- **Yagra Stonefist** *(S1)* — mezza-orchessa Zhentarim; ha combattuto con te (+1)
+- **Volothamp Volo** *(S1)* — quest-giver Floon, genuino (+2)
+- **Renaer Neverember** *(S1)* — nobile salvato, grato, alleato (+2)
 
 #### Note
 - Warlock di Dendar: deve seminare terrore negli altri per placare il patrono ed evitare gli incubi.
 - Membro dell'Ordine Magisti: può accedere alla Torre dell'Ordine, consultare registri, ottenere componenti
-- [S1] Ha combattuto il troll al Portale; Vajra lo convoca per rapporto (Force Grey M1)
-- [S1] Investigates sequestro Floon nel Dock Ward; scopre Renaer come vero bersaglio e Stone of Golorr
+- [S1] Ha combattuto il troll al Portale; indaga sequestro Floon; scopre Stone of Golorr
+- [S4] Ha fatto rapporto a Vajra Safahr e accettato Force Grey M1; ha chiesto al Bastone Nero informazioni sulla Pietra di Golor — risposta pendente [TODO DM]
+- [S4] Ha partecipato al raid al magazzino ai moli; trovate Lacrime di Mezzanotte
 
 ---
 
@@ -56,7 +58,7 @@ Il mentore **Brottor Deepdelver** è scomparso durante un'indagine su un caso cl
 
 | | |
 |--|--|
-| **Livello** | 1 |
+| **Livello** | 2 |
 | **PF attuali** | — |
 | **Condizioni** | — |
 
@@ -65,19 +67,19 @@ Ha ricevuto dal monaco **Hlam** sul Monte Waterdeep una pergamena sigillata con 
 
 #### PNG collegati
 - **Hlam** — monaco oracolo del Monte Waterdeep; il presagio è **confermato REALE**
-- **Vajra Safahr** — l'ha accolto e lo convoca per rapporto (Force Grey M1)
-- **Volothamp "Volo" Geddarm** — quest-giver Floon; genuino (+2)
-- **Durnan** *(nuovo, S1)* — proprietario Yawning Portal; neutrale (+0)
-- **Yagra Stonefist** *(nuovo, S1)* — ha combattuto con te nella rissa (+1)
-- **Azzaxell** *(nuovo, S1)* — barista Skewered Dragon; ostile (-1)
-- **Old Xoblob** *(nuovo, S1)* — gnomo del negozio; gentile, informativo (+1)
-- **Renaer Neverember** *(nuovo, S1)* — nobile salvato; grato, spiega il tesoro (+2)
+- **Vajra Safahr** *(S4)* — incontrata di persona alla Torre del Bastone Nero; le ha riferito il contenuto del presagio; ha accettato Force Grey M1
+- **Lif** *(S4)* — poltergeist barista del manor; collaborativo
+- **Broxley Fairkettle** *(S4)* — halfling Fellowship of Innkeepers; presentato i costi ristrutturazione
+- **Volothamp "Volo" Geddarm** *(S3)* — ha firmato il passaggio di proprietà del manor
+- **Durnan** *(S1)* — proprietario Yawning Portal; neutrale
+- **Yagra Stonefist** *(S1)* — ha combattuto con te nella rissa (+1)
+- **Renaer Neverember** *(S1)* — nobile salvato; grato (+2)
 
-#### Note [Sessione 1]
-- **Il presagio è confermato REALE** — Hlam sussurra durante l'investigazione
+#### Note
+- **Il presagio è confermato REALE** — Hlam lo ha confermato durante l'investigazione
 - **Sente la responsabilità personale** — il sangue è già versato, connesso agli eventi
-- **Vajra lo convoca per Force Grey M1** — debriefing caos del porto
-- Ha scalato il Monte Waterdeep per trovare Hlam prima ancora di varcare le porte della città
+- [S4] Ha fatto rapporto a Vajra Safahr, rivelato il contenuto del presagio; Vajra ha risposto: *"Giorno dei Fondatori. Midnight Tears. Stesso punto di arrivo."*
+- [S4] Ha partecipato al raid al magazzino ai moli; trovate Lacrime di Mezzanotte — connessione al presagio
 
 ---
 
@@ -89,7 +91,7 @@ Ha ricevuto dal monaco **Hlam** sul Monte Waterdeep una pergamena sigillata con 
 
 | | |
 |--|--|
-| **Livello** | 1 |
+| **Livello** | 2 |
 | **PF attuali** | — |
 | **Condizioni** | — |
 
@@ -101,21 +103,23 @@ Ha ricevuto dal monaco **Hlam** sul Monte Waterdeep una pergamena sigillata con 
 **Maestro Bec** — beccaccia con papillon fucsia leggermente storto. Sempre presente. Giudica tutto e tutti con un "Meeep" sibillino. Appare e scompare nei momenti narrativamente significativi. Le altre persone spesso non lo notano.
 
 #### PNG collegati
-- **Mirt il Cambiavalute** — referente Arpisti; ti contatta via uccellino messaggero (M1 incoming)
+- **Mirt il Cambiavalute** *(S3/S4)* — messaggio via uccellino origami; ha assegnato Arpisti M1 (Maxeene)
+- **Fala Lefaliir** *(S4)* — erborista elfa del bosco, La Corona di Corellon; accolto Aelar con interesse particolare (entrambi elfi)
+- **Lif** *(S4)* — poltergeist barista del manor; Aelar ha fatto amicizia — ora collaborativo
+- **Broxley Fairkettle** *(S4)* — halfling Fellowship of Innkeepers; amichevole
 - **Trobbio** — arcifata patron; segue silenziosamente, imprevedibile
 - **Remallia Haventree** — comando Arpisti di alto livello
 - **Thessara Vane** — mezz'elfa sorda, mentore al Collegio
-- **Durnan** *(nuovo, S1)* — proprietario Yawning Portal; neutrale (+0)
-- **Yagra Stonefist** *(nuovo, S1)* — mezza-orchessa Zhentarim; ha combattuto con te (+1)
-- **Volothamp Volo** *(nuovo, S1)* — quest-giver Floon; genuino (+2)
-- **Azzaxell** *(nuovo, S1)* — barista Skewered Dragon; ostile (-1)
-- **Old Xoblob** *(nuovo, S1)* — spia Xanathar; gentile; utile (+1)
-- **Renaer Neverember** *(nuovo, S1)* — nobile salvato; grato; info tesoro (+2)
+- **Durnan** *(S1)* — proprietario Yawning Portal; neutrale
+- **Yagra Stonefist** *(S1)* — mezza-orchessa Zhentarim; ha combattuto con te (+1)
+- **Volothamp Volo** *(S1-S3)* — quest-giver Floon; ha firmato il contratto manor
+- **Renaer Neverember** *(S1)* — nobile salvato; grato (+2)
 
-#### Note [Sessione 1]
-- **Mirt manda messaggio via piccione** dopo la rissa al Portale (Arpisti M1 incoming)
-- **Il Maestro Bec osserva tutto** — il suo giudizio silenzioso durante la rissa è stato notato
-- **Trobbio assente durante S1** — ma presente narrativamente come patron che osserva
+#### Note
+- **Il Maestro Bec osserva tutto** — il suo giudizio silenzioso è sempre presente
+- **Trobbio assente in gioco** — presente come patron che osserva in background
+- [S4] Ha approfondito l'amicizia con Lif — momento chiave della sessione
+- [S4] Arpisti M1 avviata: Maxeene individuata come cavalla bianca con fiocco, lavora nel Quartiere del Mercato; sorveglianza da completare
 
 ---
 
@@ -128,7 +132,7 @@ Ha ricevuto dal monaco **Hlam** sul Monte Waterdeep una pergamena sigillata con 
 
 | | |
 |--|--|
-| **Livello** | 1 |
+| **Livello** | 2 |
 | **PF attuali** | — |
 | **Condizioni** | — |
 | **Armorer Unlock** | L3 |
@@ -143,20 +147,19 @@ Rennis l'aveva insegnato come accedere alla rete di componenti rari e aveva cont
 Volothamp "Volo" Geddarm l'ha contattata in officina e l'ha invitata al Portale Spalancato. Entra così nel party.
 
 #### PNG collegati
-- **Manshoon** — capo rete Zhentarim a Waterdeep; nemico principale; rapisce Rennis
-- **Davil Starsong** — patrono negli Zhentarim; ti usa come operativa di fiducia
+- **Davil Starsong** *(S4)* — incontrato di persona al Portale Spalancato; ha menzionato Rennis e i canali tagliati; ha assegnato Zentharim M1
+- **Manshoon** — capo rete Zhentarim a Waterdeep; nemico principale; tiene Rennis prigioniero
 - **Rennis Coalsworth** — partner/mentore; scomparso misteriosamente (filo narrativo M4)
-- **Volothamp "Volo" Geddarm** *(nuovo, S1)* — ti ha contattato in officina; genuino (+2)
-- **Durnan** *(nuovo, S1)* — proprietario Yawning Portal; neutrale (+0)
-- **Yagra Stonefist** *(nuovo, S1)* — ha combattuto con te nella rissa; braccio destro Davil (+1)
-- **Azzaxell** *(nuovo, S1)* — barista Skewered Dragon; ostile (-1)
-- **Old Xoblob** *(nuovo, S1)* — spia Xanathar unknown; gentile per ora (+1)
-- **Renaer Neverember** *(nuovo, S1)* — nobile salvato; info su Stone of Golorr (+2)
+- **Lif** *(S4)* — poltergeist barista del manor; collaborativo
+- **Broxley Fairkettle** *(S4)* — halfling Fellowship of Innkeepers; amichevole
+- **Volothamp "Volo" Geddarm** *(S1-S3)* — quest-giver Floon; ha firmato il contratto manor
+- **Yagra Stonefist** *(S1)* — braccio destro Davil; ha combattuto con te (+1)
+- **Renaer Neverember** *(S1)* — nobile salvato; info su Stone of Golorr (+2)
 
-#### Note [Sessione 1]
-- **Davil ti contatta via Yagra** dopo la rissa (Zentharim M1 incoming)
-- **La questline M2-M4** potrebbe rivelare info su Manshoon e Kolat Towers
-- **Eric come tech specialist** — Davil ti usa per incarichi dove serve expertise tecnica
+#### Note
+- [S4] Ha incontrato Davil Starsong di persona; Davil ha menzionato Rennis: *"sapeva dove trovare componenti che non si trovano più. Qualcuno ha tagliato i canali."* → filo su Rennis attivo
+- [S4] Ha accettato Zentharim M1 con Friedrich; ha partecipato al raid al magazzino ai moli
+- La questline M2-M4 potrebbe rivelare info su Manshoon e Kolat Towers
 
 ---
 
@@ -168,10 +171,10 @@ Volothamp "Volo" Geddarm l'ha contattata in officina e l'ha invitata al Portale 
 
 | | |
 |--|--|
-| **Livello** | 1 |
+| **Livello** | 2 |
 | **PF attuali** | — |
 | **Condizioni** | — |
-| **Voto Paladino** | Attivo (rottezione prevista L3-L4) |
+| **Voto Paladino** | Attivo (rottura prevista L3-L4) |
 
 #### Gancio personale principale
 Ha incontrato **Aldric** al Portale Spalancato poco dopo il suo arrivo. Aldric è diventato il suo punto di riferimento emotivo — un ex-avventuriero che "capisce" i suoi dubbi meglio di qualunque prete.
@@ -181,21 +184,19 @@ Ha incontrato **Aldric** al Portale Spalancato poco dopo il suo arrivo. Aldric �
 Le missioni Zentharim M1-M3 erodono gradualmente i principi assoluti di Friedrich. M4 (assassinio di Skeemo Weirdbottle) è il breaking point dove il voto si spezza, portandolo verso il sottoclass Oathbreaker tra i L3-L4.
 
 #### PNG collegati
-- **Aldric** — amico/mentore al Portale Spalancato; **segretamente Asmodeo travestito**
-- **Davil Starsong** — contact primario Zentharim; pragmatico, non apertamente crudele
-- **Fizzra "Scintilla"** *(nuovo, S1)* — collega nella questline Zentharim; possibile spalla morale
-- **Volothamp "Volo" Geddarm** *(nuovo, S1)* — chi ti ha invitato al Portale; genuino (+2)
-- **Durnan** *(nuovo, S1)* — proprietario Yawning Portal; neutrale (+0)
-- **Yagra Stonefist** *(nuovo, S1)* — ha combattuto con te nel brawl; braccio Davil (+1)
-- **Azzaxell** *(nuovo, S1)* — barista Skewered Dragon; ostile (-1)
-- **Old Xoblob** *(nuovo, S1)* — spia Xanathar; gentile per ora (+1)
-- **Renaer Neverember** *(nuovo, S1)* — nobile salvato; grato; info tesoro (+2)
+- **Aldric** *(S3/S4)* — amico/mentore; è venuto a trovare Friedrich al manor in S4; **segretamente Asmodeo travestito**
+- **Davil Starsong** *(S4)* — incontrato di persona al Portale Spalancato; ha assegnato Zentharim M1; *"La legge non è una spada. È uno strumento."*
+- **Fizzra "Scintilla"** — collega nella questline Zentharim; possibile spalla morale
+- **Lif** *(S4)* — poltergeist barista del manor; collaborativo
+- **Broxley Fairkettle** *(S4)* — halfling Fellowship of Innkeepers; amichevole
+- **Volothamp "Volo" Geddarm** *(S1-S3)* — quest-giver Floon; ha firmato il contratto manor
+- **Yagra Stonefist** *(S1)* — braccio destro Davil; ha combattuto con te nel brawl (+1)
+- **Renaer Neverember** *(S1)* — nobile salvato; grato (+2)
 
-#### Note [Sessione 1]
-- **Aldric osserva silenziosamente** il tuo coinvolgimento con Zhentarim (M1-M3 erosione morale)
-- **M4 (assassinio Skeemo)** sarà il breaking point verso Oathbreaker L3-L4
-- **Davil ti contatta via Yagra** dopo il brawl (Zentharim M1 incoming)
+#### Note
+- **Aldric osserva silenziosamente** il coinvolgimento con Zhentarim; frase seminata in S4: *"La vera saggezza non è fare sempre la cosa giusta. È sapere quando le regole non si applicano a te."*
 - **Il voto rimane solido fino al L3-L4** — la rottura sarà drammatica, non repentina
+- [S4] Ha incontrato Davil Starsong di persona e accettato Zentharim M1; ha partecipato al raid al magazzino ai moli
 
 
 
@@ -209,17 +210,24 @@ Le missioni Zentharim M1-M3 erodono gradualmente i principi assoluti di Friedric
 
 | | |
 |--|--|
-| **Livello** | 1 |
+| **Livello** | 2 |
 | **Condizioni** | — |
 
 #### Gancio personale principale
 Indaga segretamente sulle sparizioni al porto, aggirandosi il Capitano **Hyustus Staget** che gli blocca l'indagine ufficiale. Ha accettato di collaborare con Volo. Obiettivo personale: incastrare **Urstul Floxin** (sicario Zhentarim).
 
 #### PNG collegati
+- **Vajra Safahr** *(S4)* — incontrata di persona alla Torre del Bastone Nero; ha accettato la missione Force Grey M1
+- **Lif** *(S4)* — poltergeist barista del manor; collaborativo
+- **Broxley Fairkettle** *(S4)* — halfling Fellowship of Innkeepers; amichevole
 - **Hyustus Staget** — Capitano, rivale del padre di Barnabus; gli assegna i turni peggiori deliberatamente
 - **Urstul Floxin** — obiettivo principale; sicario Zhentarim sfuggito alla localizzazione magica
 - **Saeth Cromley** — collega Sergente; lavora con Barnibus Blastwind dell'Ordine
-- **Volo** — informatore; ha preso contatto per indagare insieme sulle sparizioni
+- **Volo** *(S1-S3)* — informatore; ha firmato il contratto manor
+
+#### Note
+- [S4] Ha fatto rapporto a Vajra Safahr e accettato Force Grey M1 insieme a Razak e Vorador
+- [S4] Ha partecipato al raid al magazzino ai moli; ha notato il carico di ingredienti per le Lacrime di Mezzanotte e vuole distruggerlo [TODO DM: decidere conseguenze]
 
 #### Nota per il DM
 Barnabus è Guardia Cittadina che sta *indagando* sugli Zhentarim — ma il party potrebbe lavorare *con* gli Zhentarim nelle missioni secondarie. Questa tensione è intenzionale e va gestita quando Silvia è presente.

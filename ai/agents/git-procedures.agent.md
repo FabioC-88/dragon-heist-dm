@@ -61,8 +61,11 @@ examples:
   - Esempio: workflow di release completo (vedi AGENTS.md)
     1. `npm run build` — compila i pack LevelDB (incrementa automaticamente la versione in `module.json`)
     2. Leggi la versione aggiornata: `$ver=(Get-Content .\module.json | Out-String | ConvertFrom-Json).version`
-    3. **Aggiorna il campo `download` in `module.json`** con il nuovo URL:
-       `(Get-Content .\module.json -Raw) -replace '"download":.*', '"download": "https://github.com/{owner}/{repo}/releases/download/v$ver/{repo}-v$ver.zip",' | Set-Content .\module.json`
+    3. **Aggiorna il campo `download` in `module.json`** con il nuovo URL via Node.js
+       (NON usare `Set-Content` di PowerShell 5.1: aggiunge BOM e corrompe i caratteri UTF-8):
+       ```
+       node -e "const fs=require('fs');const m=JSON.parse(fs.readFileSync('module.json'));m.download='https://github.com/{owner}/{repo}/releases/download/v'+m.version+'/{repo}-v'+m.version+'.zip';fs.writeFileSync('module.json',JSON.stringify(m,null,2),{encoding:'utf8'})"
+       ```
        **Nota:** Sostituisci `{owner}` e `{repo}` con il proprietario e il nome del tuo repository.
        *(CRITICO: senza questo Foundry non trova il file zip della release)*
     4. `git add module.json packs/` && `git commit -m "chore(release): vX.Y.Z"`
