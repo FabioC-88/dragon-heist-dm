@@ -1,8 +1,10 @@
 # Torre del Bastone Nero
 
-**Quartiere/Zona**: Castle Ward, Waterdeep  
+**Quartiere/Zona**: Castle Ward, Waterdeep
+**Sessioni Visitate**: S4
+**Descrizione**: Fortezza e accademia di magia, sede ufficiale dell'Arcimago di Waterdeep. Chi regge il Bastone Nero protegge la città dalle minacce magiche che la legge ordinaria non può affrontare.
 
-## Descrizione
+## Struttura Fisica
 
 La Torre del Bastone Nero (*Blackstaff Tower*) è una delle strutture più riconoscibili del Castle Ward. Fortezza e accademia di magia insieme, è la sede ufficiale dell'Arcimago di Waterdeep — il titolo che la città conferisce al suo mago guardiano. Chi regge il Bastone Nero ha il compito di proteggere Waterdeep dalle minacce magiche e soprannaturali che la legge ordinaria non può affrontare.
 
@@ -12,9 +14,9 @@ Dall'esterno si presenta come una torre imponente, solida, senza decorazioni inu
 
 - **Vajra Safahr** (*il Bastone Nero*, Arcimaga di Waterdeep) — potente maga, supervisiona i Mani Grigie e Force Grey. Preferisce comunicare tramite incantesimi di *Messaggio* ai propri operativi. Donna diretta e di poche parole, ma giusta. Tiene l'intera città sotto osservazione.
 
-## Connessioni al Party
+## Eventi Importanti
 
-- **Vorador Thraxas** — collegato tramite l'Ordine dei Magisti e Protettori; Vajra è un contatto istituzionale per operazioni che richiedono l'autorizzazione dell'Arcimago.
+- [S4] Il party (Vorador, Razak, Barnabus) si presenta a Vajra Safahr; vengono arruolati nelle Gray Hands e ricevono la prima missione operativa di Force Grey
 
 ## Note Aggiuntive
 
