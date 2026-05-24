@@ -8,7 +8,7 @@
 
 ## 📖 Sinossi
 
-Un uccellino messaggero porta istruzioni: trovare una cavalla parlante chiamata **Maxeene** e ottenere informazioni su due agenti Zhentarim nel Porto. Prima missione degli Arpisti — pura sorveglianza e intelligenza, zero combattimenti. Lo stile Arpisti: rete di informatori non convenzionale, animali addestrati, minima traccia visibile.
+Un uccellino messaggero porta istruzioni: trovare una cavalla parlante chiamata **Maxeene** e scoprire se sa qualcosa di agenti Zhentarim che si nascondono in città. Il messaggio di Mirt non fa nomi — è Maxeene che li dà. Prima missione degli Arpisti: pura sorveglianza e intelligenza, zero combattimenti. Il party deve superare diversi ostacoli anche solo per parlare con la cavalla.
 
 ---
 
@@ -16,9 +16,11 @@ Un uccellino messaggero porta istruzioni: trovare una cavalla parlante chiamata 
 
 1. **Ricevere il messaggio** dall'uccellino messaggero (fringuello grigio-verde)
 2. **Localizzare Maxeene** nel Mercato (cavalla parlante, fiore viola dietro l'orecchio sinistro)
-3. **Ottenere informazioni** sugli agenti Zhentarim: **Davil Starsong** e **Yagra Stonefist**
-4. **Confrontarsi con Davil** (opzionale ma consigliato)
-5. **Riferire a Mirt** — decidere se inquadrare Davil come minaccia o risorsa
+3. **Distrarre Morgan** — Maxeene non parla finché il cocchiere la guarda
+4. **Convincere Maxeene** di essere Arpisti — spilla d'argento o Persuasione CD 13
+5. **Ottenere le informazioni** — Maxeene fa i nomi di Davil Starsong e Yagra Stonefist
+6. **Confrontarsi con Davil** al Portale Spalancato (opzionale ma consigliato)
+7. **Riferire a Mirt** — decidere come inquadrare Davil nel resoconto
 
 ---
 
@@ -26,7 +28,7 @@ Un uccellino messaggero porta istruzioni: trovare una cavalla parlante chiamata 
 
 - **Il Mercato** — mercato centrale di Waterdeep
 - **Strade del Porto** — Dock Ward
-- **Portale Sbadigliante** — locanda nel Porto (base Zhentarim)
+- **Portale Spalancato** — locanda nel Porto (base Zhentarim)
 
 ---
 
@@ -34,8 +36,10 @@ Un uccellino messaggero porta istruzioni: trovare una cavalla parlante chiamata 
 
 | PNG | Ruolo | Affiliazione |
 |-----|-------|-------------|
-| **Maxeene** | Cavalla parlante informante | Arpisti |
-| **Davil Starsong** | Agente Zhentarim target | Zhentarim |
+| **Maxeene** | Cavalla parlante (Int 10), informante | Arpisti |
+| **Morgan Wolfwood** | Cocchiere del dray, chiacchierone | Civile |
+| **Marcus Wolfwood** | Fratello di Morgan, controllore biglietti | Civile |
+| **Davil Starsong** | Agente Zhentarim | Zhentarim |
 | **Yagra Stonefist** | Braccio destro di Davil; mezza orchessa | Zhentarim |
 | **Mirt il Cambiavalute** | Referente Arpisti | Arpisti |
 
@@ -43,16 +47,45 @@ Un uccellino messaggero porta istruzioni: trovare una cavalla parlante chiamata 
 
 ## 💡 Meccaniche Chiave
 
-### Il Messaggio
-Un fringuello grigio-verde porta una pergamena arrotolata. Testo:
+### Il Messaggio di Mirt
+Un fringuello grigio-verde porta una pergamena. Testo:
 > "Una delle carrozze (dray) che lavorano in città è trainata da una cavalla parlante di nome Maxeene. Porta un fiore viola dietro l'orecchio sinistro. Localizzatela, scoprite se sa di agenti Zhentarim che si nascondono e scrivete ogni dettaglio sul lato bianco di questo uccellino. Liberatelo per rimandarmelo, grazie."— M.
 
-**Nota DM:** L'uccellino è animato da *Messaggero Animale* (Lv 1 Druido). Tornerà da Mirt entro 24 ore dal rilascio, indipendentemente dalla distanza.
+**Nota DM:** Il messaggio NON fa nomi. Mirt non sa chi siano gli agenti — chiede a Maxeene tramite il party. I nomi Davil e Yagra vengono fuori solo da Maxeene.
 
-### Abilità Richieste
-- **Percezione** — localizzare Maxeene tra le carrozze
-- **Inganno/Persuasione** — parlare a Morgan (proprietario carrozza) senza allarmare Davil
-- **Intuizione** — valutare se Davil è una minaccia reale
+L'uccellino è sotto effetto di *Messaggero Animale* (Lv 1 Druido). Tornerà da Mirt entro 24 ore dal rilascio.
+
+### Localizzare Maxeene
+
+**Metodo A — Conoscenza della città (Sopravvivenza CD 12):**
+Chi conosce Waterdeep o ha il background Monello di Strada sa dove i dray si concentrano nelle ore di punta. Successo: Maxeene localizzata entro 1d4 ore.
+
+**Metodo B — Sorveglianza paziente (Percezione CD 10, 1 tiro per ora):**
+Il party sorveglia il Mercato. Con un successo nota il fiore viola. Senza successi, la trovano comunque dopo una giornata intera — ma perdono tempo.
+
+**Metodo C — La Rete di Aelar (Persuasione CD 10):**
+Aelar usa i suoi contatti tra musicisti di strada e venditori ambulanti. Un venditore di mele conosce Maxeene: *"La cavalla col fiore viola? Passa ogni mattina verso l'ora terza."*
+
+### Il Dray di Morgan Wolfwood
+Carrozza lunga con pareti di vetro e sedili a panca sul tetto. Morgan Wolfwood guida dal tetto — ragazzo sulla ventina, giacca troppo grande, fischietta fuori tempo. **Non sa che Maxeene è intelligente.** Sul retro, Marcus Wolfwood (fratello maggiore, più ragionevole) fa il controllore dei biglietti.
+
+### Distrarre Morgan — Ostacolo Obbligatorio
+Maxeene **non parla finché Morgan la sta guardando**. Il party deve toglierlo dalla scena o catturare tutta la sua attenzione.
+
+**Opzione A — Comprare una corsa:** Marcus chiede 4 monete di rame a persona. Una volta a bordo, attaccare bottone con Morgan è facilissimo — lui chiacchiera di qualsiasi cosa e non smette più. Gli altri hanno tutto il tempo per avvicinarsi a Maxeene.
+
+**Opzione B — Spaventare un altro cavallo:** Il party libera un altro cavallo e lo spaventa, costringendo Morgan ad abbandonare il dray. **Rapidità di Mano CD 13** — se falliscono, Morgan capisce subito che l'hanno provocato. Lui corre dietro al cavallo, Marcus interroga il colpevole. Si arrabbia ma non chiama la Guardia.
+
+**Opzione C — Altra idea dei giocatori:** Qualsiasi piano ragionevole può funzionare con il tiro appropriato.
+
+### Convincere Maxeene — Ostacolo Obbligatorio
+Maxeene parla Comune ma **non mostra segni di intelligenza** finché non è convinta che il party lavora per gli Arpisti.
+
+- **Spilla d'argento:** Mostrare la spilla degli Arpisti ricevuta da Mirt basta. Nessun tiro.
+- **Senza spilla — Persuasione CD 13:** Devono convincerla a parole. Se falliscono, Maxeene li ignora come farebbe un cavallo qualsiasi.
+
+### Cosa sa Maxeene
+Due giorni fa ha dato un passaggio a un elfo del sole e una mezza orchessa — bodyguard. Li ha presi all'angolo tra Net Street e Dock Street, li ha scaricati al Portale Spalancato. Mentre scendevano dal dray, li ha sentiti parlare di piazzare agenti nella "Gilda" — dal tono era chiaro che intendevano la Gilda Xanathar, nemica degli Zhentarim. Maxeene li ritiene agenti Zhentarim.
 
 ---
 
@@ -60,17 +93,20 @@ Un fringuello grigio-verde porta una pergamena arrotolata. Testo:
 
 | Azione | CD | Caratteristica | Risultato |
 |--------|-----|-----------|-----------|
-| Trovare Maxeene nel Mercato | 12 | Percezione | Individui il dray e la cavalla |
-| Convincere Morgan a lasciarvi parlare a Maxeene | 12 | Persuasione | Morgan coopera senza sospetti |
-| Valutare le intenzioni di Davil | 14 | Intuizione | Capite se è minaccia o alleato |
+| Localizzare Maxeene (città) | 12 | Sopravvivenza | Trovata in 1d4 ore |
+| Localizzare Maxeene (osservazione) | 10 | Percezione | 1 tiro per ora |
+| Distrarre Morgan (conversazione) | — | — | Automatico se comprano corsa |
+| Spaventare un altro cavallo | 13 | Rapidità di Mano | Morgan se ne va / fallimento scoperto |
+| Convincere Maxeene (senza spilla) | 13 | Persuasione | Parla / li ignora |
+| Valutare le intenzioni di Davil | 14 | Intuizione | Capite se è minaccia o risorsa |
 
 ---
 
 ## 🎭 Trama Narrativa
 
-**Tema:** Non tutti i nemici sono nemici. Davil non è un villain — è uno Zhentarim che ha il suo codice di onore.
+**Tema:** Non tutti i nemici sono nemici. Davil non è un villain — è uno Zhentarim che si oppone alla fazione dominante del network.
 
-**Decisione Morale:** Il gruppo deve riferire a Mirt come inquadrare Davil — se presentarlo come minaccia (conseguenza: Davil diventa nemico) o risorsa (conseguenza: Davil può essere usato in future missioni).
+**Decisione Morale:** Il resoconto a Mirt determina il futuro di Davil a Waterdeep. Se il party lo presenta come minaccia, gli Arpisti lo trattano da nemico. Se lo presenta come risorsa potenziale (spiegando che Davil si oppone a Manshoon), Mirt ci riflette sopra.
 
 ---
 
@@ -78,84 +114,114 @@ Un fringuello grigio-verde porta una pergamena arrotolata. Testo:
 
 ### Scena 1 — L'uccellino messaggero
 
-*Un fringuello grigio-verde atterra sul davanzale o sulla spalla di qualcuno nel momento meno atteso. Tiene nel becco un rotolino di pergamena legato con un filo cerato. Quando viene liberato dalla pergamena, rimane immobile un istante — come se aspettasse di essere ringraziato — poi si gira e aspetta.*
+*Un fringuello grigio-verde atterra sulla spalla o sul davanzale di qualcuno. Tiene nel becco un rotolino di pergamena legato con un filo cerato. Quando glielo tolgono, rimane fermo — come se aspettasse qualcosa. Ha lo sguardo paziente di un corriere che ha fatto questo giro troppe volte.*
 
-**Atmosfera DM:** L'uccellino non cinguetta, non sbatte le ali. Si comporta come un corriere che ha fatto questo lavoro mille volte. È la cosa più normale e più strana che il party abbia visto questa settimana. Se Aelar è presente, Maestro Bec lo fissa con un'espressione che non è curiosità — è valutazione professionale.
+**Nota DM:** Se Aelar è presente, riconosce il metodo — comunicazione tramite animali addestrati, tipico Arpisti. Arcana CD 10 (automatica per lui): il fringuello è sotto *Messaggero Animale*. Maestro Bec lo fissa con l'aria professionale di un collega che valuta il lavoro altrui.
 
-**Nota:** Se qualcuno cerca di trattenere l'uccellino o studiarlo, vola via. Tornerà solo quando il party sarà pronto a scrivere il messaggio di risposta. Non è addestrabile, non è corruttibile. È uno strumento.
-
----
-
-### Scena 2 — Maxeene al Mercato
-
-*Il Mercato è chiassoso come sempre — venditori, carrozze, animali. Tra i dray che trasportano merci ce n'è uno con una cavalla dal mantello moro e una macchia bianca a stella sulla fronte. Dietro l'orecchio sinistro, un fiore viola fresco, come appena colto. La cavalla vi guarda arrivare prima ancora che siate abbastanza vicini da essere notati.*
-
-**Atmosfera DM:** Maxeene non è nascosta, non è in pericolo. È a lavoro. Non vuole essere disturbata — e lo dice con ogni centimetro del suo portamento.
-
-**Maxeene** *(voce bassa, senza muovere le labbra più del necessario)*:
-> *"Guardate il cielo, non me. Avete già l'attenzione di tre persone che non volete che vi guardino."*
-
-Se il party prova a parlare apertamente:
-> *"Siete nuovi, vero? Allora ascoltatemi: non fate domande, non prendete note, non gesticolate. Davil Starsong è al Portale Sbadigliante la sera, terzo tavolo a sinistra. Ha sempre Yagra vicino. Non avvicinatevi prima di aver capito cosa volete ottenere — lui capisce le intenzioni prima che apriate bocca."*
-
-Se chiedono come fa a sapere:
-> *"Questo è il mio lavoro. Il vostro è andare e non fare sciocchezze."*
+Se qualcuno prova a trattenere l'uccellino, vola via. Tornerà quando il party avrà il messaggio di risposta pronto.
 
 ---
 
-### Scena 3 — Davil al Portale Sbadigliante
+### Scena 2 — Il Mercato / Distrarre Morgan
 
-*Il Portale Sbadigliante è pieno, rumoroso, onestamente caotico — birra, legno bagnato, qualcuno che ha fumato qualcosa che non è tabacco. Al terzo tavolo a sinistra c'è un mezzelfo dai capelli corvini, intorno ai cinquant'anni, che beve qualcosa di ambrato e ha l'aria di chi non si annoia mai — aspetta sempre qualcosa di interessante. A un metro alla sua destra, una mezza orchessa con le braccia conserte e gli occhi fissi su ogni ingresso: Yagra Stonefist.*
+*Il Mercato è chiassoso come sempre — venditori, carrozze, animali. I dray circolano lungo i bordi come pesci grandi in un ruscello affollato. Il dray di Morgan è inconfondibile: pareti di vetro, sedili a panca sul tetto, e un cocchiere che fischietta storto.*
 
-**Atmosfera DM:** Davil non è minaccioso. È il tipo di persona che risolve i problemi prima che diventino problemi. Nota il party nel momento in cui entrano — non lo dà a vedere, ma li ha già catalogati.
+*Maxeene: mantello moro, macchia bianca a stella sulla fronte. Dietro l'orecchio sinistro, un fiore viola fresco. Vi guarda arrivare — ma non fa niente. Tira il dray come un cavallo qualsiasi.*
 
-**Davil Starsong** *(senza alzarsi, senza abbassare il boccale)*:
-> *"Sedetevi o andate via — in piedi fate solo rumore. Cosa volete?"*
+**Nota DM:** Maxeene non reagisce finché Morgan è presente. Se il party prova a parlarle direttamente, li ignora. Devono prima risolvere il problema Morgan.
 
-Se il party fa finta di non cercarlo:
-> *"Vi ha mandato qualcuno con l'iniziale M? Sì, lo so. Allora risparmiate entrambi il tempo — io non sono un problema e non sono una minaccia. Sono qualcuno che fa il suo lavoro, come lo fate voi. Qualcosa di specifico che vi preoccupa di me, o state solo raccogliendo materiale?"*
+**Morgan Wolfwood** *(se il party compra una corsa e attacca bottone)*:
+> *"Avete scelto il momento giusto! Stiamo per passare dal Quartiere del Castello, la vista da lassù è spettacolare. Sapete quanti anni ha questo dray? Tredici. Mio padre l'ha costruito. Beh, lui e cinque carpentieri, però il progetto era suo. Maxeene era un regalo di un cliente — non ci ha mai detto molto di lei, ma non ho mai avuto una cavalla migliore..."*
 
-Se chiedono delle sue intenzioni a Waterdeep:
-> *"Le stesse di chiunque in questa città. Commercio. Contatti. Sopravvivenza. Se Mirt vuole sapere se sono qui per fargli del male — no. Se vuole sapere se siamo in competizione — probabilmente sì. Ma si tratta di affari, non di guerra."*
+**Nota DM:** Morgan non smette di parlare. Qualsiasi domanda apre un altro fiume di parole. Mentre lui chiacchiera, gli altri possono avvicinarsi a Maxeene sul lato sinistro del dray senza problemi.
+
+---
+
+### Scena 3 — Maxeene
+
+*Quando Morgan è distratto e il party si avvicina, Maxeene li guarda. Non fa nient'altro. Aspetta.*
+
+**Se mostrano la spilla d'argento degli Arpisti:** Maxeene la guarda, poi parla.
+
+**Se non hanno la spilla:** Devono convincerla (Persuasione CD 13). Se falliscono, li ignora — è un cavallo, fine della storia.
+
+**Maxeene** *(voce bassa, ferma, senza muovere le labbra più del necessario)*:
+> *"Non guardate verso di me. Guardate altrove."*
+
+*Pausa.*
+> *"Due giorni fa ho portato un elfo del sole e una mezza orchessa. Li ho presi all'angolo tra Net Street e Dock Street, li ho scaricati al Portale Spalancato. Mentre scendevano li ho sentiti parlare — volevano piazzare agenti nella Gilda. Non una gilda qualsiasi. La Gilda."*
+
+Se chiedono chi siano:
+> *"Non lo so. So che l'elfo aveva l'aria di uno che dà ordini e la mezza orchessa aveva l'aria di uno che li esegue rompendo cose. Trovateli al Portale Spalancato e decidete voi cosa sono."*
+
+Se chiedono cosa devono fare:
+> *"Quello che vi ha chiesto M. Andate, guardate, e poi scrivete sul foglio quello che avete visto. Non è complicato."*
+
+**Nota DM:** Maxeene non dà ordini. Dà informazioni e lascia che il party decida come agire. Non menziona la parola "Zhentarim" — dice solo quello che ha sentito. Il party deve collegare i pezzi.
+
+---
+
+### Scena 4 — Davil al Portale Spalancato (opzionale)
+
+*Il Portale Spalancato è pieno e rumoroso. L'elfo del sole che corrisponde alla descrizione di Maxeene è facile da individuare — è al terzo tavolo a sinistra, beve qualcosa di ambrato. A un metro alla sua destra, una mezza orchessa con le braccia conserte. Davil Starsong e Yagra Stonefist — anche se il party non sa ancora i nomi.*
+
+**Nota DM:** Il party probabilmente li ha già visti al Portale Spalancato in sessioni precedenti. Adesso sa cosa cercare.
+
+Se il party li osserva da lontano, può scrivere il resoconto a Mirt basandosi su quello che vede. Se decide di avvicinarsi:
+
+**Davil Starsong** *(li nota subito, non lo dà a vedere. Quando si avvicinano)*:
+> *"Volete qualcosa o state guardando?"*
+
+Se il party lo confronta apertamente sugli Zhentarim:
+> *"Sì, sono Zhentarim. Non è un segreto per chi sa dove guardare. Quello che forse non sapete è che non tutti gli Zhentarim vogliono la stessa cosa. C'è chi vuole controllare Waterdeep e chi vuole farci affari. Io faccio affari."*
+
+Se chiedono di Manshoon o della fazione dominante:
+> *"Manshoon è un problema anche per noi. La Rete Nera non è un blocco unico — ci sono pezzi che lavorano contro altri pezzi. Io sono uno di quei pezzi."*
+
+Se chiedono perché dovrebbero credergli:
+> *"Non dovete. Ma se volevo farvi del male non saremmo qui a parlare."*
 
 **Yagra** *(se qualcuno le rivolge la parola)*:
-> *"Non ho niente da dirvi. Lui invece sì."*
+> *"Parlate con lui."*
+
+**Nota DM:** Il party può credergli o no. La missione non si completa finché non riferiscono a Mirt — e il modo in cui descrivono Davil ha conseguenze.
 
 ---
 
-### Scena 4 — Debriefing con Mirt
+### Scena 5 — Debriefing con Mirt
 
-*La casa di Mirt è arroccata nel Castle Ward — enorme, caotica, piena di oggetti che non c'entrano niente tra loro. Vi riceve in uno studio che odora di cuoio vecchio e candele spente. È un uomo grosso, rumoroso, con gli occhi che non perdono niente.*
+*Il party scrive il resoconto sul retro del foglio e libera l'uccellino, oppure va a riferire di persona.*
 
-**Mirt il Cambiavalute** *(si versa da bere senza offrirne)*:
-> *"Allora. Davil Starsong. Cosa avete capito?"*
+**Nota DM:** Se nel resoconto spiegano che Davil si oppone alla fazione dominante degli Zhentarim, Mirt si interessa e li guarda con più rispetto. Se lo descrivono solo come "agente Zhentarim, potenziale minaccia", gli Arpisti tratteranno Davil e chiunque si associ a lui come un pericolo.
 
-Dopo il resoconto — se lo descrivono come minaccia:
-> *"Capisco. Avete qualcosa di concreto, o è una sensazione? ... Le sensazioni non mi bastano. Tenetelo d'occhio."*
+**Se riferiscono di persona:**
 
-Se lo descrivono come potenziale risorsa:
-> *"Interessante. Ha detto qualcosa di specifico che vi ha convinto? ... Potrebbe essere utile. O potrebbe essere bravo a sembrare utile. Per ora: osservate."*
+**Mirt il Cambiavalute** *(si versa da bere, non offre)*:
+> *"Allora. Cosa avete trovato?"*
+
+Dopo il resoconto — se descrivono Davil come minaccia:
+> *"Bene. Lo teniamo d'occhio. Se cambia qualcosa, voglio saperlo."*
+
+Se lo descrivono come possibile risorsa e spiegano la faccenda Manshoon:
+> *"Uno Zhentarim che si oppone al suo capo. Potrebbe essere utile, potrebbe essere una trappola. Per ora: continuate a guardare."*
 
 In entrambi i casi:
-> *"Avete fatto bene. Il metodo è quello giusto — osservare, ascoltare, poi decidere. Waterdeep si governa così."*
+> *"Avete fatto quello che vi ho chiesto. È così che funziona."*
 
 ---
 
 ## 🤝 L'Invito Formale — Aelar
 
-**Timing:** Alla fine del debriefing, quando Mirt sembra sul punto di congedarli.
+**Timing:** Alla fine del debriefing.
 
-*Mirt rimane un momento in silenzio, come se stesse valutando qualcosa che aveva già deciso. Poi guarda Aelar — solo Aelar — con un'espressione diversa. Non è il tono di un datore di lavoro. È il tono di chi sta chiudendo una pratica aperta da troppo tempo.*
+*Mirt rimane un momento in silenzio. Poi guarda Aelar.*
 
-**Mirt** *(più basso, come se la cosa riguardasse solo loro due)*:
-> *"Aelar. Il periodo di prova è concluso. Non perché hai fatto qualcosa di eccezionale questa settimana — hai fatto bene, ma non è quello il punto. È perché ho visto abbastanza per sapere chi sei. Sei un Arpista. Lo eri già prima che ti dicessimo che lo eri."*
+**Mirt:**
+> *"Il periodo di prova è finito. Non per quello che hai fatto questa settimana — ho visto abbastanza prima. Sei un Arpista. Lo eri già, adesso è ufficiale."*
 
-*Una pausa. Poi, con lo stesso tono con cui potrebbe commentare il tempo:*
-> *"Benvenuto nell'organizzazione. Formalmente, questa volta."*
+*Non c'è cerimonia. Mirt si riversa da bere e cambia argomento.*
 
-*Non c'è cerimonia, non c'è stretta di mano solenne. Mirt si riversa da bere e cambia argomento come se avesse appena notato un'ammaccatura nel tavolo.*
-
-**Atmosfera DM:** Il peso di questa scena è nell'assenza di peso. Gli Arpisti non celebrano — agiscono. Il riconoscimento più grande è quello detto una volta sola, senza ripeterlo.
+**Atmosfera DM:** Gli Arpisti non celebrano. Il riconoscimento è detto una volta e non si ripete.
 
 ---
 
@@ -163,7 +229,7 @@ In entrambi i casi:
 
 - **Oro:** 50 mo per membro del party
 - **Fama Arpisti:** +1 (solo membri Arpisti)
-- **Narrativo:** Accesso ai contatti Arpisti per informazioni future
+- **Narrativo:** Remallia Haventree fa sapere al party che le porte della sua villa sono aperte se hanno bisogno di un posto dove stare — per qualsiasi motivo
 
 ---
 
@@ -177,25 +243,30 @@ In entrambi i casi:
 
 ## 📝 Note per il DM
 
-- **Prima missione consigliata** — introduce il metodo Arpisti
-- Se **Aelar è nel gruppo**, riconosce immediatamente le tecniche Arpisti (Arcana CD 10, automatica per lui)
-- **Maestro Bec** (familiare Aelar) guarda l'uccellino con aria professionale — momento di characterization
-- Il tono è **leggero ma significativo** — la comunicazione tramite animali è eccentrica ma efficace
+- **Prima missione Arpisti** — introduce il metodo: rete di informatori non convenzionale, animali, niente violenza
+- Il messaggio di Mirt NON fa nomi — Davil e Yagra vengono fuori solo da Maxeene
+- Maxeene NON parla finché: (1) Morgan è distratto, (2) il party dimostra di essere Arpisti
+- Se **Aelar è nel gruppo**, riconosce le tecniche Arpisti automaticamente (Arcana CD 10)
+- **Maestro Bec** guarda l'uccellino con aria professionale — momento di characterization
+- Il resoconto a Mirt ha **conseguenze reali**: Davil diventa risorsa o nemico in base a quello che scrivono
+- Tono **leggero ma significativo** — cavalle parlanti e uccellini sono eccentrici ma efficaci
 
 ---
 
 ## 📚 Varianti e Personalizzazioni
 
 ### Se il party fallisce a trovare Maxeene
-Mirt manda un secondo messaggio con indicazioni più dirette — niente fallimento, solo "aggiungiti un giorno al gioco in-game"
+Mirt manda un secondo messaggio con indicazioni più dirette. Niente fallimento definitivo — solo un giorno perso in-game.
 
-### Se il gruppo vuole frode attiva
-Possono fingere di essere Zhentarim per interrogare Davil direttamente — Inganno CD 14, il rischio è di fare nemici da subito
+### Se non riescono a convincere Maxeene
+Senza spilla e con Persuasione fallita, Maxeene li ignora. Devono trovare un altro modo — tornare da Mirt per la spilla, o provare il giorno dopo con un approccio diverso.
 
-### Se il party vuole combattere Davil e Yagra ora
-Permettete il combattimento, ma fate notare che Davil e Yagra sono combattenti competenti (Lv 3 circa). La missione diventa tregenda invece di investigazione — conseguenze narrative significative.
+### Se il party vuole combattere Davil e Yagra
+Permettete il combattimento, ma Davil e Yagra sono combattenti competenti (Lv 3 circa). La missione diventa un disastro diplomatico — conseguenze narrative pesanti con Mirt e con gli Zhentarim.
+
+### Se il party non va al Portale Spalancato
+Possono completare la missione scrivendo solo quello che Maxeene gli ha detto. Il resoconto sarà meno informativo e Mirt noterà che non hanno approfondito.
 
 ---
 
-**Aggiornamento:** 7 Aprile 2026 | **Stato:** Non giocata
-
+**Aggiornamento:** 24 Maggio 2026 | **Stato:** Non giocata

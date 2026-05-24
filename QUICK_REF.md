@@ -102,7 +102,7 @@
 - **Felzoun's Folly** — Taverna colorata (Arpisti M2)
 
 ### Dock Ward
-- **Portale Sbadigliante** — Base Zhentarim (Zentharim missions)
+- **Portale Spalancato** — Base Zhentarim (Zentharim missions)
 - **Moli del Salgemma** — Porto (Force Grey M1, M2)
 - **Porto Navale** — Zelifarn lo squalo (Force Grey M2)
 - **Taverna Muleskull** — Ship Street (Zentharim M1)

@@ -14,7 +14,7 @@ Gli Arpisti hanno individuato una **banda di doppelganger** operante nelle ombre
 
 ## 🎯 Obiettivi
 
-1. **Incontrare Mattrim Mereg** ("Tre Corde") al Portale Sbadigliante
+1. **Incontrare Mattrim Mereg** ("Tre Corde") al Portale Spalancato
 2. **Farsi presentare la banda di doppelganger** — I Mutaforma
 3. **Valutare l'affidabilità dei doppelganger**, in particolare **Bonnie** (leader)
 4. **Riferire le scoperte** a Mattrim (o contatto Arpista)
@@ -24,7 +24,7 @@ Gli Arpisti hanno individuato una **banda di doppelganger** operante nelle ombre
 
 ## 🗺️ Ambientazione
 
-- **Portale Sbadigliante** — locanda viva, piena di gente (incontro iniziale)
+- **Portale Spalancato** — locanda viva, piena di gente (incontro iniziale)
 - **Magazzino nel Trades Ward** — semi-abbandonato, copertura da fabbrica di candele (incontro doppelganger)
 
 ---
@@ -82,9 +82,9 @@ Se il party tira **Spada/Magia**, i doppelganger svaniscono — missione fallisc
 
 ## 🎬 Scene Chiave
 
-### Scena 1 — Mattrim "Tre Corde" al Portale Sbadigliante
+### Scena 1 — Mattrim "Tre Corde" al Portale Spalancato
 
-*C'è un trovatore che suona in un angolo del Portale Sbadigliante — niente di insolito. Insolito è il liuto: tre corde in più rispetto al normale, attorcigliate attorno al manico come serpenti addormentati. L'uomo è giovane-medio, capelli scuri, l'aria di chi è sempre a metà tra una battuta e una cosa seria.*
+*C'è un trovatore che suona in un angolo del Portale Spalancato — niente di insolito. Insolito è il liuto: tre corde in più rispetto al normale, attorcigliate attorno al manico come serpenti addormentati. L'uomo è giovane-medio, capelli scuri, l'aria di chi è sempre a metà tra una battuta e una cosa seria.*
 
 **Mattrim Mereg** *(quando il party si avvicina, senza smettere di suonare)*:
 > *"Eccovi. Bene. Sedetevi, ordinate qualcosa — l'incontro che devo farvi fare è in un posto che non serve alcol. Conviene farne scorta adesso."*
