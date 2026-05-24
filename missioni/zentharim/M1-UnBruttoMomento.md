@@ -30,7 +30,7 @@ Scintilla conosce i canali del mercato nero del porto. Può raccogliere informaz
 
 ## 🎯 Obiettivi
 
-1. **Incontrare Davil Starsong** al Portale Sbadigliante
+1. **Incontrare Davil Starsong** al Portale Spalancato
 2. **Investigare il Quartiere del Porto** — esaminare le scene degli omicidi, parlare con i testimoni
 3. **Capire chi potrebbe essere il prossimo bersaglio** — schema degli omicidi
 4. **Trovare e fermare l'assassino** — cattura o uccisione
@@ -40,7 +40,7 @@ Scintilla conosce i canali del mercato nero del porto. Può raccogliere informaz
 
 ## 🗺️ Ambientazione
 
-- **Portale Sbadigliante** — locanda base Zhentarim (incontro)
+- **Portale Spalancato** — locanda base Zhentarim (incontro)
 - **Quartiere del Porto (Dock Ward)** — area indagini, moli, magazzini
 - **Taverna Muleskull** — Ship Street, gestita dalla Gilda degli Spazzini
 - **Strade del Porto** — scene degli omicidi
@@ -124,9 +124,9 @@ Scintilla conosce i canali del mercato nero del porto. Può raccogliere informaz
 
 ## 🎬 Scene Chiave
 
-### Scena 1 — Davil Starsong al Portale Sbadigliante
+### Scena 1 — Davil Starsong al Portale Spalancato
 
-*Davil Starsong non sembra qualcuno che gestisce crimini. Sembra qualcuno che gestisce problemi — la differenza è sottile ma reale. Al tavolo del fondo del Portale Sbadigliante, con un boccale davanti e nessuna fretta visibile, vi guarda arrivare dall'altro capo della stanza. Non fa cenni. Aspetta che ci arriviate.*
+*Davil Starsong non sembra qualcuno che gestisce crimini. Sembra qualcuno che gestisce problemi — la differenza è sottile ma reale. Al tavolo del fondo del Portale Spalancato, con un boccale davanti e nessuna fretta visibile, vi guarda arrivare dall'altro capo della stanza. Non fa cenni. Aspetta che ci arriviate.*
 
 **Atmosfera DM:** Davil è l'uomo più calmo nella stanza più rumorosa di Waterdeep. Questo non è comfort — è controllo.
 

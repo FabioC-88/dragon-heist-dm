@@ -19,7 +19,7 @@ Un uccellino messaggero porta istruzioni: trovare una cavalla parlante chiamata 
 3. **Distrarre Morgan** — Maxeene non parla finché il cocchiere la guarda
 4. **Convincere Maxeene** di essere Arpisti — spilla d'argento o Persuasione CD 13
 5. **Ottenere le informazioni** — Maxeene fa i nomi di Davil Starsong e Yagra Stonefist
-6. **Confrontarsi con Davil** al Portale Sbadigliante (opzionale ma consigliato)
+6. **Confrontarsi con Davil** al Portale Spalancato (opzionale ma consigliato)
 7. **Riferire a Mirt** — decidere come inquadrare Davil nel resoconto
 
 ---
@@ -28,7 +28,7 @@ Un uccellino messaggero porta istruzioni: trovare una cavalla parlante chiamata 
 
 - **Il Mercato** — mercato centrale di Waterdeep
 - **Strade del Porto** — Dock Ward
-- **Portale Sbadigliante** — locanda nel Porto (base Zhentarim)
+- **Portale Spalancato** — locanda nel Porto (base Zhentarim)
 
 ---
 
@@ -85,7 +85,7 @@ Maxeene parla Comune ma **non mostra segni di intelligenza** finché non è conv
 - **Senza spilla — Persuasione CD 13:** Devono convincerla a parole. Se falliscono, Maxeene li ignora come farebbe un cavallo qualsiasi.
 
 ### Cosa sa Maxeene
-Due giorni fa ha dato un passaggio a un elfo del sole e una mezza orchessa — bodyguard. Li ha presi all'angolo tra Net Street e Dock Street, li ha scaricati al Portale Sbadigliante. Mentre scendevano dal dray, li ha sentiti parlare di piazzare agenti nella "Gilda" — dal tono era chiaro che intendevano la Gilda Xanathar, nemica degli Zhentarim. Maxeene li ritiene agenti Zhentarim.
+Due giorni fa ha dato un passaggio a un elfo del sole e una mezza orchessa — bodyguard. Li ha presi all'angolo tra Net Street e Dock Street, li ha scaricati al Portale Spalancato. Mentre scendevano dal dray, li ha sentiti parlare di piazzare agenti nella "Gilda" — dal tono era chiaro che intendevano la Gilda Xanathar, nemica degli Zhentarim. Maxeene li ritiene agenti Zhentarim.
 
 ---
 
@@ -149,10 +149,10 @@ Se qualcuno prova a trattenere l'uccellino, vola via. Tornerà quando il party a
 > *"Non guardate verso di me. Guardate altrove."*
 
 *Pausa.*
-> *"Due giorni fa ho portato un elfo del sole e una mezza orchessa. Li ho presi all'angolo tra Net Street e Dock Street, li ho scaricati al Portale Sbadigliante. Mentre scendevano li ho sentiti parlare — volevano piazzare agenti nella Gilda. Non una gilda qualsiasi. La Gilda."*
+> *"Due giorni fa ho portato un elfo del sole e una mezza orchessa. Li ho presi all'angolo tra Net Street e Dock Street, li ho scaricati al Portale Spalancato. Mentre scendevano li ho sentiti parlare — volevano piazzare agenti nella Gilda. Non una gilda qualsiasi. La Gilda."*
 
 Se chiedono chi siano:
-> *"Non lo so. So che l'elfo aveva l'aria di uno che dà ordini e la mezza orchessa aveva l'aria di uno che li esegue rompendo cose. Trovateli al Portale Sbadigliante e decidete voi cosa sono."*
+> *"Non lo so. So che l'elfo aveva l'aria di uno che dà ordini e la mezza orchessa aveva l'aria di uno che li esegue rompendo cose. Trovateli al Portale Spalancato e decidete voi cosa sono."*
 
 Se chiedono cosa devono fare:
 > *"Quello che vi ha chiesto M. Andate, guardate, e poi scrivete sul foglio quello che avete visto. Non è complicato."*
@@ -161,11 +161,11 @@ Se chiedono cosa devono fare:
 
 ---
 
-### Scena 4 — Davil al Portale Sbadigliante (opzionale)
+### Scena 4 — Davil al Portale Spalancato (opzionale)
 
-*Il Portale Sbadigliante è pieno e rumoroso. L'elfo del sole che corrisponde alla descrizione di Maxeene è facile da individuare — è al terzo tavolo a sinistra, beve qualcosa di ambrato. A un metro alla sua destra, una mezza orchessa con le braccia conserte. Davil Starsong e Yagra Stonefist — anche se il party non sa ancora i nomi.*
+*Il Portale Spalancato è pieno e rumoroso. L'elfo del sole che corrisponde alla descrizione di Maxeene è facile da individuare — è al terzo tavolo a sinistra, beve qualcosa di ambrato. A un metro alla sua destra, una mezza orchessa con le braccia conserte. Davil Starsong e Yagra Stonefist — anche se il party non sa ancora i nomi.*
 
-**Nota DM:** Il party probabilmente li ha già visti al Portale Sbadigliante in sessioni precedenti. Adesso sa cosa cercare.
+**Nota DM:** Il party probabilmente li ha già visti al Portale Spalancato in sessioni precedenti. Adesso sa cosa cercare.
 
 Se il party li osserva da lontano, può scrivere il resoconto a Mirt basandosi su quello che vede. Se decide di avvicinarsi:
 
@@ -264,7 +264,7 @@ Senza spilla e con Persuasione fallita, Maxeene li ignora. Devono trovare un alt
 ### Se il party vuole combattere Davil e Yagra
 Permettete il combattimento, ma Davil e Yagra sono combattenti competenti (Lv 3 circa). La missione diventa un disastro diplomatico — conseguenze narrative pesanti con Mirt e con gli Zhentarim.
 
-### Se il party non va al Portale Sbadigliante
+### Se il party non va al Portale Spalancato
 Possono completare la missione scrivendo solo quello che Maxeene gli ha detto. Il resoconto sarà meno informativo e Mirt noterà che non hanno approfondito.
 
 ---

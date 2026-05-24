@@ -93,7 +93,7 @@
 |-----------|-----------|------------------|
 | **Castle Ward** | Governo, militare | Torre del Bastone Nero (Force Grey), Palazzo di Waterdeep |
 | **Trades Ward** | Shopping, gilde | Libreria Curiosity & Satisfaction (Arpisti M2), Alchimia Weirdbottle |
-| **Dock Ward** | Porto, pericoloso | Moli del Salgemma, Portale Sbadigliante (Zhentarim base) |
+| **Dock Ward** | Porto, pericoloso | Moli del Salgemma, Portale Spalancato (Zhentarim base) |
 | **Sea Ward** | Ricco, nobiltà | Villa Cassalanter (villain), Campo del Trionfo |
 | **North Ward** | Residenziale | Trollskull Alley (base party dal Cap. 2) |
 | **Southern Ward** | Multiculturale | Vicolo dei Calderai, Buco nel Muro (Zentharim M3) |

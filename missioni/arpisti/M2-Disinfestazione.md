@@ -8,7 +8,7 @@
 
 ## 📖 Sinossi
 
-Un **Gazer** (occhio miniaturizzato di Xanathar) si è infiltrato in una libreria torre nel Quartiere dei Commerci per inseguire una gatta innocente che credeva fosse una spia. L'anziana libraista Uza è ubriaca di preoccupazione al Portale Sbadigliante. Il gruppo deve entrare nella libreria, neutralizzare il Gazer senza distruggere 300 anni di volumi rari, salvare la gatta **Fillipa**, e mantenere il negozio intatto. Ambiente come ostacolo: combattimento tridimensionale in spazio ristretto con vincoli specifici.
+Un **Gazer** (occhio miniaturizzato di Xanathar) si è infiltrato in una libreria torre nel Quartiere dei Commerci per inseguire una gatta innocente che credeva fosse una spia. L'anziana libraista Uza è ubriaca di preoccupazione al Portale Spalancato. Il gruppo deve entrare nella libreria, neutralizzare il Gazer senza distruggere 300 anni di volumi rari, salvare la gatta **Fillipa**, e mantenere il negozio intatto. Ambiente come ostacolo: combattimento tridimensionale in spazio ristretto con vincoli specifici.
 
 ---
 

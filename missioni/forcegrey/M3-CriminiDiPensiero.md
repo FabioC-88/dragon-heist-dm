@@ -15,7 +15,7 @@
 ## 🎯 Obiettivi
 
 1. **Ricevere incarico da Vajra** (Sending incompleto e misterioso)
-2. **Osservare Meloon** al Portale Sbadigliante per 10 giorni consecutivi
+2. **Osservare Meloon** al Portale Spalancato per 10 giorni consecutivi
 3. **Identificare il Divoratore di Intelletto** senza farsi notare
 4. **Decifra il rituale all'alba** — scopri cosa fa la creatura di notte
 5. **Recluta informazioni** da contatti Portale, baristi, amici Meloon
@@ -26,7 +26,7 @@
 
 ## 🗺️ Ambientazione
 
-- **Portale Sbadigliante** — locanda viva, teatro della sorveglianza
+- **Portale Spalancato** — locanda viva, teatro della sorveglianza
 - **Strade di Waterdeep** — Meloon si muove, il party lo segue
 - **Covo Xanathar** — location di origine del Divoratore (M4)
 
@@ -120,14 +120,14 @@ Vajra rivela che l'ultima posizione nota di Brottor era il Dock Ward. Non sa se 
 *Un messaggio arriva tramite Sending a chi nel party è il contatto primario con Force Grey. La voce di Vajra è compressa in 25 parole, e si sente che ne avrebbe volute usare cento:*
 
 **Vajra** *(tramite Sending)*:
-> *"Meloon Wardragon. Portale Sbadigliante. Dieci giorni di sorveglianza — discreta, senza avvicinarlo. Vedrete perché. Riferite solo a me. Non parlate con nessun altro nell'organizzazione di questa missione."*
+> *"Meloon Wardragon. Portale Spalancato. Dieci giorni di sorveglianza — discreta, senza avvicinarlo. Vedrete perché. Riferite solo a me. Non parlate con nessun altro nell'organizzazione di questa missione."*
 
 *Poi l'incontro diretto, dopo la risposta:*
 > *"Meloon è un alleato di lunga data. È anche qualcuno che ho sottovalutato. Non voglio che muoia prima di capire cosa gli è successo. Dieci giorni — osservate, raccogliete, non agite. La vostra opinione sulle conclusioni mi interessa."*
 
 ---
 
-### Scena 2 — Giorni 1–3: Meloon al Portale Sbadigliante
+### Scena 2 — Giorni 1–3: Meloon al Portale Spalancato
 
 *Meloon Wardragon è un uomo grande, il tipo che riempie una stanza senza cercarlo — capelli castani, cicatrice sul mento, una risata che di solito si sente da due tavoli di distanza. Adesso è seduto da solo, beve lentamente, e risponde ai saluti dei conoscenti con il minimo indispensabile.*
 
