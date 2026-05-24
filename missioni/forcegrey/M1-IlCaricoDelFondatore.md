@@ -8,7 +8,7 @@
 
 ## 📖 Sinossi
 
-Il **presagio di Hlam** ha allertato Vajra Safahr: *"sangue innocente sarà versato nel Giorno dei Fondatori"*. Non una metafora — una scadenza precisa. Le indagini rivelano che reagenti alchemici rari sono stati importati al porto in quantità anomale — ingredienti per il **veleno Midnight Tears** (inodore, insapore, mortale in 12 ore). Le Mani Grigie devono agire prima che sia troppo tardi. Missione iniziale con combattimento e investigation, ma senza risposte facili.
+Le indagini dell'Ordine Vigilante rivelano che reagenti alchemici rari sono stati importati al porto in quantità anomale — ingredienti per il **veleno Midnight Tears** (inodore, insapore, mortale in 12 ore). Vajra manda i PG a recuperare una lista di destinatari dal suo informatore ai moli. Se **Razak** è nel party, porta con sé la profezia di Hlam (*"sangue innocente sarà versato nel Giorno dei Fondatori"*) — un pezzo del puzzle che Vajra non ha. Missione iniziale con combattimento e urgenza, ma senza risposte facili.
 
 ---
 
@@ -37,17 +37,16 @@ Il **presagio di Hlam** ha allertato Vajra Safahr: *"sangue innocente sarà vers
 |-----|-------|-------------|
 | **Vajra Safahr** | Arcimaga; capo Force Grey | Force Grey / Ordine Magisti |
 | **Orvyn** | Informatore; ex contrabbandiere | Force Grey |
-| **Midnight Tears Cultisti** | Adoratori Asmodeo, assassini | Cultisti / Cassalanters minion |
+| **Cultisti Asmodeo** | Adoratori Asmodeo, esecutori | Culto di Asmodeo |
 
 ---
 
 ## 💡 Meccaniche Chiave
 
 ### Il Presagio di Hlam
-Questo è il gancio narrativo diretto per i personaggi con legami a Razak o al Monte Waterdeep:
-> "Sangue innocente sarà versato nel Giorno dei Fondatori"
+La profezia *"Sangue innocente sarà versato nel Giorno dei Fondatori"* appartiene a **Razak** — Hlam gliel'ha data sul Monte Waterdeep. Hlam non scende mai dal Monte e non ha contatti diretti con Vajra.
 
-Se il party ha un personaggio con questo legame, la missione diventa **personale**, non solo tattica.
+Se Razak è nel party e sceglie di condividerla con Vajra durante il briefing, aggiunge un pezzo che lei non aveva: la conferma che la minaccia è reale e la scadenza è il Giorno dei Fondatori. La missione diventa **personale** per Razak, non solo tattica.
 
 ### Midnight Tears — Il Veleno
 - **Caratteristiche:** Inodore, insapore, completamente impercettibile
@@ -55,7 +54,7 @@ Se il party ha un personaggio con questo legame, la missione diventa **personale
 - **Applicazione:** Perfetto per avvelenare un banchetto pubblico durante le celebrazioni dei Fondatori
 
 ### L'Ambuscata dei Cultisti
-I cultisti Asmodeo non sono mostri — sono **persone comuni** con una fede aberrante. La scoperta che eseguono ordini da nobili di alto rango (indizio: nomi sulla lista) è rivelazione importante.
+I cultisti Asmodeo non sono mostri — sono **persone comuni** con una fede aberrante.
 
 ---
 
@@ -76,10 +75,9 @@ I cultisti Asmodeo non sono mostri — sono **persone comuni** con una fede aber
 **Tema:** La legge non basta — la burocrazia di Waterdeep è troppo lenta.
 
 **Colpi di Scena:**
-- Una dei cultisti è qualcuno che il party riconosce (PG trama parallela?)
 - La lista ha nomi che i PG non riconoscono — ma Vajra li riconosce eccome (reazione visibile quando la legge)
 - Orvyn muore proteggendo la lista (o il party lo salva in extremis) — in ogni caso non sa chi c'è dietro
-- **[Vorador]** Tra i documenti di carico recuperati nell'imboscata, Vorador nota una pagina strappata con il **sigillo classificato dell'Ordine Vigilante** e un numero di protocollo — lo stesso formato dei rapporti di Brottor. Il documento è parziale e bruciacchiato ai bordi (qualcuno ha tentato di distruggerlo). Leggibile: *"…soggetti: 7 civili, District III, Dock Ward. Sintomatologia: lacune mnestiche, incubi frammentati, lingua non identificata. Connessione cultuale: status → CLASSIFICATO. Firma: B.D."* — Non spiegare nulla. Lascia che Seba faccia 2+2 da solo nelle missioni successive.
+- **[Vorador]** Tra le carte personali di Orvyn (non la lista di carico), Vorador trova un documento dell'Ordine Vigilante con firma B.D. — vedi Scena 4
 
 ---
 
@@ -91,14 +89,19 @@ I cultisti Asmodeo non sono mostri — sono **persone comuni** con una fede aber
 
 **Atmosphera DM:** Vajra non è fredda — è concentrata. C'è una differenza. La missione che sta per descrivere non la lascia dormire, e si vede.
 
-**Vajra Safahr** *(si volta, direttamente)*:
-> *"Hlam mi ha detto che sangue innocente sarà versato nel Giorno dei Fondatori. Non mi ha detto chi, non mi ha detto dove — i monaci del Monte Waterdeep parlano in profezie perché non sanno fare altrimenti. Quello che so io è che qualcuno ha importato al porto una quantità di reagenti alchemici sproporzionata. Ho fatto controllare. Sono ingredienti per il Midnight Tears."*
+**Vajra Safahr** *(si volta)*:
+> *"Ho fatto controllare i registri del porto. Qualcuno sta importando reagenti alchemici — singolarmente non valgono nulla. Messi insieme fanno Midnight Tears. Non si sente, non si vede, dopo dodici ore sei morto."*
 
-*Pausa breve.*
-> *"Inodore, insapore, mortale in dodici ore. Perfetto per un banchetto pubblico. Ho un informatore ai moli — si chiama Orvyn, ex contrabbandiere, conosce ogni carico che tocca il porto. Trovatelo prima che lo trovino gli altri."*
+*Si sposta verso la scrivania, prende un foglio.*
+> *"Midnight Tears a queste quantità vuol dire un banchetto. E il prossimo banchetto pubblico è il Giorno dei Fondatori."*
 
-Se il party chiede chi siano "gli altri":
-> *"Non lo so ancora. Questa è parte del problema."*
+*Posa il foglio.*
+> *"Ho un uomo ai moli — Orvyn, ex contrabbandiere, lavora per noi. Ha messo insieme una lista con i destinatari dei carichi. Andatelo a prendere."*
+
+Se il party chiede chi sia dietro a tutto questo:
+> *"Se lo sapessi non starei mandando voi."*
+
+**Nota DM:** Se **Razak** è nel party, questo è il momento di collegare la profezia di Hlam — *"sangue innocente sarà versato nel Giorno dei Fondatori"*. Razak l'ha ricevuta sul Monte Waterdeep. Hlam non scende mai dal Monte, la profezia l'ha data solo a Razak. Se Razak la menziona a Vajra, lei reagisce — è un'informazione in più che conferma i suoi sospetti.
 
 ---
 
@@ -112,13 +115,13 @@ Se il party chiede chi siano "gli altri":
 
 **Momento critico:** I PG devono agire subito. Ogni round in cui il bandito con la lista non viene fermato, brucia una parte del documento.
 
-**Orvyn** *(se i PG riescono ad avvicinarsi prima che muoia)*:
-> *"La lista… riportatela a Vajra. Non sapete quello che avete in mano — neanch'io lo so. Ma lei sì."*
+**Orvyn** *(se i PG riescono a raggiungerlo — parla a fatica, tossisce)*:
+> *"La lista… portatela a Vajra. I nomi sui carichi… sono in codice, non sono riuscito a decifrarli. Lei ha le risorse per farlo."*
 
-*Se i PG lo stabilizzano e lui riesce a parlare di più:*
-> *"Sei spedizioni. Tutti reagenti separati, senso zero da soli. Insieme… Midnight Tears. Il destinatario finale è in codice — non ho fatto in tempo a decifrarlo. Vajra deve vederla."*
+*Se lo stabilizzano e riesce a dire di più:*
+> *"Sei carichi in tre settimane. Roba separata, nessun senso da sola… insieme è Midnight Tears. Qualcuno ha ordinato abbastanza veleno da ammazzare un banchetto intero. I destinatari hanno usato nomi di copertura — servono i registri dell'Ordine per risalire a chi sono davvero."*
 
-**Nota DM:** Orvyn non sa chi c'è dietro. Sa solo che la lista è importante. Non ha nomi da dare.
+**Nota DM:** Orvyn non sa chi c'è dietro. Sa solo che la lista è importante. Non ha nomi da dare — e non fare l'errore di farglieli dire.
 
 ---
 
@@ -130,19 +133,21 @@ Se il party chiede chi siano "gli altri":
 
 **Se il party cattura uno vivo e lo interroga:**
 
-**Cultista** *(non si spezza facilmente, ma se messo abbastanza sotto pressione)*:
-> *"Non capite. Il Giorno dei Fondatori è il momento giusto — sangue impuro per sangue puro. Asmodeo vuole questo."*
+Il cultista resiste. Non per addestramento — per convinzione. Se spinto:
+> *"Voi non capite niente. Il Giorno dei Fondatori è quando succede. Sangue impuro per sangue puro."*
 
-*Dopo un momento, quasi a sé stesso:*
-> *"Non è criminalità. È fede."*
+Se insistono:
+> *"Non mi interessa quello che mi fate. Tanto non so nomi. Io faccio quello che mi dicono."*
 
-**Nota DM:** Il cultista non conosce i nomi dei mandanti. Sa solo che il veleno va consegnato prima dell'alba del Giorno dei Fondatori. Chi ha dato gli ordini è sopra il suo livello.
+Se provano a forzarlo oltre — chi ti comanda, in nome di chi lo fai — il talismano si attiva (vedi sotto). Il cultista **non pronuncia mai il nome di Asmodeo** — il sigillo lo brucia prima che ci arrivi.
+
+**Nota DM:** Il simbolo di Asmodeo (la fiamma rovesciata) è visibile sui loro cinturini — i PG possono riconoscerlo da soli con un tiro. Ma nessun cultista lo dirà ad alta voce. Chi dà gli ordini è qualcuno che "non si tocca", e il talismano è lì per assicurarsi che rimanga così.
 
 **Il Sigillo di Silenzio — Talismano dei Cultisti**
 
 Ogni cultista porta nascosto al collo un piccolo medaglione di rame annerito inciso con la fiamma rovesciata di Asmodeo. Non è un oggetto magico comune — è un vincolo.
 
-Se un cultista viene catturato e comincia a cedere sotto interrogatorio (a discrezione del DM, tipicamente dopo aver rivelato più di "è fede"), il talismano si scalda al contatto con la pelle. Il cultista lo sente. La sua reazione dipende da quanto è devoto:
+Se un cultista viene catturato e comincia a cedere sotto interrogatorio (a discrezione del DM, tipicamente dopo aver rivelato più di quello che dovrebbe), il talismano si scalda al contatto con la pelle. Il cultista lo sente. La sua reazione dipende da quanto è devoto:
 
 - **Devoto convinto:** smette di parlare, chiude gli occhi. *"Non posso dire altro."* Secondi dopo, il medaglione diventa incandescente — fuoco infernale verde che brucia dall'interno verso l'esterno. Il cultista muore in 6 secondi senza un suono.
 - **Cultista più debole:** panico, tenta di strapparsi il talismano — non si stacca. Stessa fine, meno dignitosa.
@@ -153,21 +158,23 @@ Se un cultista viene catturato e comincia a cedere sotto interrogatorio (a discr
 
 ---
 
-### Scena 4 — La lista di carico / gancio Vorador
+### Scena 4 — Dopo il combattimento / la roba di Orvyn
 
-*Quando il combattimento finisce e la lista è al sicuro, il party può esaminarla. I nomi dei destinatari ci sono — scritti chiaramente — ma non dicono nulla: nessuno li riconosce. Nomi di copertura? Intermediari? Codici interni? Impossibile dirlo senza contesto. La lista ha senso solo per chi conosce le reti commerciali di Waterdeep ad alto livello.*
+*Quando il combattimento finisce e la lista è al sicuro, il party può esaminarla. I nomi dei destinatari ci sono — scritti chiaramente — ma non dicono nulla: nessuno li riconosce. Nomi di copertura? Intermediari? Codici interni? Impossibile dirlo senza contesto.*
 
 **Nota DM:** I PG non decifrano nulla da soli. Non è un tiro mancato — è che la lista richiede Vajra. Questo è il motivo per cui la consegna ha urgenza.
 
-*Tra i fogli allegati alla lista, però, c'è qualcosa di diverso.*
+**[Gancio Vorador]** Orvyn non aveva solo la lista di carico. Nel magazzino, sotto una cassa dove evidentemente teneva le sue cose, c'è una borsa con altra roba — appunti, lettere, fogli raccolti da chissà dove. Orvyn è un informatore: accumula tutto quello che gli passa per le mani.
 
-*Una pagina strappata, bordi bruciacchiati come se qualcuno avesse tentato di distruggerla e non ci fosse riuscito fino in fondo. Il sigillo in alto è quello dell'Ordine Vigilante — impresso, non scritto.*
+In mezzo a questa roba, una pagina strappata con i bordi bruciacchiati. Il sigillo in alto è quello dell'Ordine Vigilante — impresso, non scritto.
 
 **Solo Vorador** riconosce il formato: è lo stesso tipo di rapporto classificato che Brottor Deepdelver usava. Testo leggibile:
 
 > *"…soggetti: 7 civili, District III, Dock Ward. Sintomatologia: lacune mnestiche, incubi frammentati, lingua non identificata. Connessione cultuale: status → CLASSIFICATO. Firma: B.D."*
 
-**Atmosfera DM:** Non spiegare nulla. Consegnate il frammento a Vorador, lasciate che lo guardi. Se chiede cosa significhi, la risposta è che non lo sapete — la missione è consegnare la lista a Vajra. Il frammento può aspettare. O no.
+Come ci è arrivato a Orvyn? Lui stesso è un membro dell'Ordine Vigilante — come Brottor e Vajra. Se sopravvive e glielo chiedono, dice che l'ha trovato in un carico sequestrato settimane fa. Lo ha riconosciuto subito come un rapporto dell'Ordine, ma è **classificato** — livello superiore al suo. Non sa chi sia B.D. e non aveva modo di risalire al mittente. Lo teneva da parte per darlo a Vajra insieme alla lista di carico.
+
+**Atmosfera DM:** Non spiegare nulla. Consegna il frammento a Vorador, lascia che lo guardi. Se chiede cosa significhi, la risposta è che non lo sai — la missione è consegnare la lista a Vajra. Il frammento può aspettare. O no.
 
 ---
 
@@ -176,15 +183,14 @@ Se un cultista viene catturato e comincia a cedere sotto interrogatorio (a discr
 **Timing:** Vajra riceve la lista, la esamina in silenzio per qualche secondo. Poi la posa sul tavolo e guarda il party.
 
 **Vajra Safahr:**
-> *"Avete fatto quello che vi ho chiesto. Avete anche fatto quello che non vi ho chiesto — avete protetto Orvyn quando potevate ignorarlo, e avete recuperato documenti che non erano nell'obiettivo primario."*
+> *"Bene. Avete portato la lista e avete tirato fuori Orvyn vivo. Non era scontato."*
 
-*Una pausa — non drammatica, solo il tempo di scegliere le parole.*
-> *"Waterdeep ha bisogno di persone che agiscano prima che la legge faccia in tempo a reagire. Le Mani Grigie non sono la guardia cittadina. Non siamo il Governo della Città. Siamo quello che rimane quando tutti gli altri strumenti si rompono. Se siete disposti a portare questo peso — l'organizzazione vi accoglie."*
+*Pausa.*
+> *"Vi dico una cosa — la guardia cittadina avrebbe impiegato due giorni solo per ottenere il mandato. Le Mani Grigie esistono per questo: quando aspettare non è un'opzione. Non siamo la legge, non siamo il governo. Siamo quelli che restano quando tutto il resto è troppo lento."*
 
-*Non è una domanda, esattamente. È un'offerta con un peso specifico.*
-> *"Pensateci. Rispondete quando siete pronti. Non c'è fretta — il Giorno dei Fondatori, invece, sì."*
+> *"Se vi interessa, c'è posto. Se non vi interessa, non vi biasimo. Ma pensateci in fretta — il Giorno dei Fondatori non aspetta nessuno."*
 
-**Atmosfera DM:** L'invito di Vajra non è emotivo. È una valutazione che ha già fatto — sta solo comunicando il risultato. Il peso è nella responsabilità, non nel cerimoniale.
+**Atmosfera DM:** L'invito di Vajra non è emotivo. È una valutazione che ha già fatto — sta solo comunicando il risultato.
 
 ---
 
@@ -212,6 +218,7 @@ Se un cultista viene catturato e comincia a cedere sotto interrogatorio (a discr
 - L'informatore Orvyn crea **hook emotivo** se muore — e non ha rivelato nulla di utile, solo la lista conta
 - Se il party ha [Razak Kendal](../../Campagna/party.md#razak-kendal), enfatizza il suo ruolo nel presagio
 - **La lista è opaca:** i nomi ci sono ma nessuno li capisce — la rivelazione arriva solo da Vajra, nelle sessioni successive
+- **Il documento di Brottor** è tra le carte personali di Orvyn, NON tra i fogli di carico — Orvyn lo ha trovato per caso e non sa cosa sia
 - Timeline: Il Giorno dei Fondatori è circa 1 settimana in-game — pressure montante
 
 ---
@@ -219,15 +226,14 @@ Se un cultista viene catturato e comincia a cedere sotto interrogatorio (a discr
 ## 📚 Varianti e Personalizzazioni
 
 ### Se il party fallisce a proteggere Orvyn
-Orvyn muore — conseguenza emotiva. Ma la lista viene comunque recuperata (cade da un cadavere). Fama Force Grey lievemente ridotta, ma la missione continua.
+Orvyn muore — conseguenza emotiva. Ma la lista viene comunque recuperata (cade da un cadavere). Fama Force Grey lievemente ridotta, ma la missione continua. Il documento dell'Ordine Vigilante si trova comunque nella sua borsa.
 
 ### Se il party cattura cultisti vivi
-Possibilità di interrogatorio — il cultista parla di fede e purificazione ma non conosce i mandanti. Sa solo che c'è "un nobile" sopra la catena. Non fare nomi.
+Possibilità di interrogatorio — il cultista parla di fede e purificazione ma non conosce i mandanti. Sa solo che c'è "qualcuno che non si tocca" sopra la catena. Non fare nomi.
 
 ### Se il party vuole infiltrarsi nei culti Asmodeo
 Interessante variante che collega direttamente al cap. 5 finale. Vajra approva ma mette in guardia: "Non perdete la vostra umanità."
 
 ---
 
-**Aggiornamento:** 7 Aprile 2026 | **Stato:** Non giocata
-
+**Aggiornamento:** 24 Maggio 2026 | **Stato:** Non giocata
