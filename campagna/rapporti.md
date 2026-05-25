@@ -22,10 +22,11 @@ Righe = PNG. Colonne = PG. Stato al momento dell'incontro più recente.
 | **Mirt il Cambiavalute** | — | — | ✅ Referente Arpisti — M1 completata S5; chiesto aiuto per riapertura Trollskull Manor | — | — | — |
 | **Remallia Haventree** | — | — | ✅ Supervisor Arpisti — incontrata S5 [TODO DM] | — | — | — |
 | **Hlam** | — | ✅ Ha conferito il presagio | — | — | — | — |
-| **Davil Starsong** | 🤝 Incontrato S5 al Portale Spalancato — faida Manshoon vs Doom Raiders | 🤝 Incontrato S5 al Portale Spalancato — faida Manshoon vs Doom Raiders | 🤝 Incontrato S5 al Portale Spalancato — faida Manshoon vs Doom Raiders | ✅ Referente Zhentarim — M1 completata S5, Zhentarim ufficiale | ✅ Referente Zhentarim — M1 completata S5, Zhentarim ufficiale | ❌ Capo rete Zhentarim (non sa del party) |
+| **Davil Starsong** | 🤝 Incontrato S5 al Portale Spalancato — faida Manshoon vs Doom Raiders | 🤝 Incontrato S5 al Portale Spalancato — faida Manshoon vs Doom Raiders | 🤝 Incontrato S5 al Portale Spalancato — faida Manshoon vs Doom Raiders | ✅ Referente Zhentarim — M1 completata S5, Zhentarim ufficiale | ✅ Referente Zhentarim — M1 completata S5, Zhentarim ufficiale; **ha consegnato a Krauser il talismano di Edran Voss** come segno di rispetto dei patti | ❌ Capo rete Zhentarim (non sa del party) |
 | **Yagra Stonefist** | — | — | — | 🤝 Intermediaria | 🤝 Intermediaria | ❌ Zhentarim |
 | **Maxeene** | — | — | 🤝 Cavalla parlante — incontrata S5 in privato, fornite info | — | — | — |
 | **Soluun Xibrindas** (drow) | — | ❌ Affrontato S5 — fuggito | — | ❌ Affrontato S5 — fuggito | ❌ Affrontato S5 — fuggito | ❌ Affrontato S5 — fuggito |
+| **Edran Voss** (deceduto) | — | — | — | — | 🔒 Commilitone elfo paladino della Shadowfell — confermato morto S5; talismano in possesso di Krauser | — |
 | **Aldric** | — | — | — | — | ✅ Amico / mentore; visita al manor S4 | — |
 | **Maestro Bec** | 🤝 Familiare di Aelar | 🤝 Familiare di Aelar | ✅ Familiare personale | 🤝 Familiare di Aelar | 🤝 Familiare di Aelar | — |
 | **Trobbio** | — | — | 🔒 Patron arcifata (imprevedibile) | — | — | — |

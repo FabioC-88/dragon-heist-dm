@@ -25,4 +25,4 @@
 - [S1] Combattimento contro banditi Xanathar, un troll risalito dal pozzo e stirgi
 - [S1] Il party incontra Volo Geddarm che espone il problema della scomparsa di Floon Blagmaar
 - [S4] Il party incontra Davil Starsong; parte del gruppo accetta di lavorare per gli Zhentarim e riceve la prima missione operativa
-- [S5] Il party (Aelar, Razak, Vorador) si presenta da Davil Starsong; Davil rivela la faida interna agli Zhentarim (Manshoon vs Doom Raiders) e la non-belligeranza dei Doom Raiders verso gli Arpisti. Successivamente Krauser e Scintilla chiudono la Zhentarim M1 con rapporto a Davil e diventano ufficialmente parte della fazione
+- [S5] Il party (Aelar, Razak, Vorador) si presenta da Davil Starsong; Davil rivela la faida interna agli Zhentarim (Manshoon vs Doom Raiders) e la non-belligeranza dei Doom Raiders verso gli Arpisti. Successivamente Krauser e Scintilla chiudono la Zhentarim M1 con rapporto a Davil e diventano ufficialmente parte della fazione; Davil consegna a Krauser il talismano di Edran Voss come gesto di rispetto dei patti

@@ -6,10 +6,11 @@
 - Il party ha consegnato a Vajra Safahr le informazioni sul carico di Midnight Tears (Force Grey M1) e Vorador le ha consegnato anche il documento classificato su Brottor.
 - Vorador, Razak e Barney sono tornati alla Torre del Bastone Nero e sono entrati ufficialmente nelle Force Grey.
 - Il party aveva notato che i talismani dei cultisti erano magici ma non era riuscito ad identificarli. Quelli sui vivi non si staccavano: hanno lasciato lì gli altri, ma ne hanno preso uno da un cadavere per analizzarlo.
+- **Il cargo di Midnight Tears è stato lasciato al magazzino** (decisione finale del party). Le conseguenze previste dal piano per la distruzione (Cassalanters che notano la perdita, voci di Staget sull'incendio) non si applicano.
 
 ### Mattina successiva — Indagini parallele
 - Vorador ha cercato informazioni sui talismani e sulla Pietra di Golor nelle biblioteche della Torre del Bastone Nero: senza successo.
-- "Karl" [TODO DM: probabilmente Krauser] ha provato a chiedere informazioni classificate sugli omicidi di elfi al Capitano della Guardia del Porto (Capitano Hyustus Staget). Staget l'ha riconosciuto e gli ha negato qualsiasi accesso.
+- Krauser ha provato a chiedere informazioni classificate sugli omicidi di elfi al Capitano della Guardia del Porto (Capitano Hyustus Staget). Staget l'ha riconosciuto e gli ha negato qualsiasi accesso.
 
 ### Pomeriggio — Arpisti M1 (Maxeene)
 - Aelar ha trovato Maxeene e ha cercato di parlarle in mezzo a tutti: la cavalla non ha proferito parola e si è comportata da normale cavalla.
@@ -26,6 +27,7 @@
 ### Indomani — Chiusura missioni
 - Aelar è andato da Mirt e ha concluso la sua missione Arpisti M1.
 - Krauser e Scintilla hanno fatto rapporto a Davil Starsong, concludendo la loro missione Zhentarim M1 e iniziando ufficialmente a lavorare con gli Zhentarim.
+- Davil ha consegnato a Krauser un **talismano recuperato dal cadavere di un elfo paladino morto** (Edran Voss, commilitone di Krauser nella Shadowfell) come segno che gli Zhentarim "rispettano i patti". L'identificazione di Edran è quindi avvenuta tramite Davil, non tramite il drow.
 
 ## Scene / Fasi Non Giocate
 
@@ -40,11 +42,11 @@ Motivo: il party si è concentrato per intero sul completamento delle tre missio
 | PNG | Attitudine finale | Note |
 |-----|------------------|------|
 | Vajra Safahr | Soddisfatta | Ricevute info su carico Midnight Tears + documento Brottor; Vorador/Razak/Barney ufficialmente Force Grey |
-| Capitano Hyustus Staget | Ostile verso "Karl" | Ha riconosciuto il PG e negato ogni accesso classificato sugli omicidi elfi |
+| Capitano Hyustus Staget | Ostile verso Krauser | Ha riconosciuto Krauser e negato ogni accesso classificato sugli omicidi elfi |
 | Maxeene (la cavalla) | Cooperativa una volta da sola | Ha parlato e fornito le informazioni in privato |
 | Padrone di Maxeene | Convinto (col pretesto del ritratto) | Non specificato — vedi dm-notes |
 | Remallia Haventree [TODO DM] | Esigente | Ha imposto la verifica Zhentarim prima di considerare la missione conclusa |
-| Davil Starsong | Trasparente / collaborativo | Ha rivelato la faida interna Zhentarim; ha chiuso M1 con Krauser e Scintilla |
+| Davil Starsong | Trasparente / collaborativo | Ha rivelato la faida interna Zhentarim; ha chiuso M1 con Krauser e Scintilla; ha consegnato a Krauser il talismano di Edran Voss come gesto di rispetto dei patti |
 | Mirt il Cambiavalute | Soddisfatto | Chiusa Arpisti M1; Aelar gli ha chiesto aiuto per riaprire Trollskull Manor |
 | Soluun Xibrindas (drow) | Sfuggito | Omicidio sventato ma il drow è fuggito |
 
@@ -66,12 +68,13 @@ Motivo: il party si è concentrato per intero sul completamento delle tre missio
 
 - XP guadagnati questa sessione: sistema milestone, non applicabile
 - XP totali party: non applicabile
-- Level up avvenuto: non specificato (Lv 3 atteso al completamento Cap. 2)
+- Level up avvenuto: **No** — Cap. 2 non è ancora concluso, level up rimandato
 
 ## Oggetti e Ricompense
 
-- Talismano magico di Asmodeus (recuperato da un cadavere di cultista)
-- Ricompense missioni M1: [TODO DM — confermare se già assegnate in gioco: 75 mo/PG Force Grey, 50 go Zhentarim se Heldar sopravvive, +1 Renown per Arpisti/Force Grey/Zhentarim]
+- Talismano magico di Asmodeus (recuperato da un cadavere di cultista in S4, ora sotto analisi di Vorador)
+- **Talismano di Edran Voss** (consegnato da Davil Starsong a Krauser come segno di rispetto dei patti)
+- Ricompense missioni M1: **+2 Renown** per Arpisti / Force Grey / Zhentarim, più 75 mo/PG Force Grey e 50 go Zhentarim se Heldar è sopravvissuto
 
 ## Thread Narrativi Aperti
 
@@ -80,7 +83,7 @@ Motivo: il party si è concentrato per intero sul completamento delle tre missio
 - **Trollskull Manor**: Aelar ha chiesto aiuto a Mirt per riaprirlo. Filo nuovo.
 - **Faida interna Zhentarim**: il party sa di Manshoon vs Doom Raiders; Krauser e Scintilla lavorano per Davil (Doom Raiders).
 - **Drow sfuggito**: Soluun Xibrindas in libertà, non interrogato; le sue parole su Vosk/Manshoon non sono state pronunciate.
-- **Edran Voss / Vosk** [TODO DM: il riconoscimento del corpo del commilitone di Krauser è avvenuto in gioco?].
+- **Edran Voss / Vosk**: identificazione avvenuta in modo alternativo — Davil Starsong ha recuperato il talismano dal cadavere di Edran (elfo paladino, commilitone di Krauser nella Shadowfell) e l'ha consegnato a Krauser come segno che gli Zhentarim rispettano i patti. Il filo Vosk è aperto.
 - **Emmek Frewn + Shard Shunners**: non comparsi, da trasferire a S6.
 - **Gilde mancanti**: Hammond, Justyn, Ulkoria da trasferire a S6.
 

@@ -206,8 +206,9 @@ Le missioni Zentharim M1-M3 erodono gradualmente i principi assoluti di Friedric
 - **Aldric osserva silenziosamente** il coinvolgimento con Zhentarim; frase seminata in S4: *"La vera saggezza non è fare sempre la cosa giusta. È sapere quando le regole non si applicano a te."*
 - **Il voto rimane solido fino al L3-L4** — la rottura sarà drammatica, non repentina
 - [S4] Ha incontrato Davil Starsong di persona e accettato Zentharim M1; ha partecipato al raid al magazzino ai moli
-- [S5] **Zhentarim M1 completata** con Scintilla: indagine omicidi elfi, omicidio sventato (drow Soluun Xibrindas fuggito); rapporto chiuso con Davil; ingresso ufficiale negli Zhentarim. [TODO DM: il riconoscimento del corpo di Edran Voss è avvenuto in gioco?]
+- [S5] **Zhentarim M1 completata** con Scintilla: indagine omicidi elfi, omicidio sventato (drow Soluun Xibrindas fuggito); rapporto chiuso con Davil; ingresso ufficiale negli Zhentarim. **Davil ha consegnato a Krauser il talismano di Edran Voss** (commilitone elfo paladino della Shadowfell) recuperato dal cadavere, come gesto di rispetto dei patti — filo Vosk aperto, prima prova fisica della continuità del complotto
 - [S5] Ha tentato di chiedere info classificate al Capitano Hyustus Staget (Guardia del Porto): riconosciuto e bloccato sull'accesso. Rapporto Staget ↔ Krauser ora documentato come ostile
+- **Oggetto nuovo:** talismano di Edran Voss (origine: cadavere del commilitone, consegnato da Davil)
 
 
 
