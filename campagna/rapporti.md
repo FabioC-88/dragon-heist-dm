@@ -1,5 +1,5 @@
 ---
-aggiornato: Sessione 4
+aggiornato: Sessione 5
 ---
 
 # Schema Rapporti — Waterdeep: Dragon Heist
@@ -18,18 +18,21 @@ Righe = PNG. Colonne = PG. Stato al momento dell'incontro più recente.
 | **Volo Geddarm** | 🤝 Committente / contratto manor | 🤝 Committente | 🤝 Committente / contratto manor | 🤝 Committente | 🤝 Committente | 🤝 Committente |
 | **Durnan** | 🤝 Oste | 🤝 Oste | 🤝 Oste | 🤝 Oste | 🤝 Oste | 🤝 Collega |
 | **Renaer Neverember** | 🤝 Salvato insieme | 🤝 Salvato insieme | 🤝 Salvato insieme | 🤝 Salvato insieme | 🤝 Salvato insieme | — |
-| **Vajra Safahr** | ✅ Referente Force Grey — incontrata S4 | ✅ Referente Force Grey — incontrata S4 | — | — | — | ✅ Referente Force Grey — incontrata S4 |
-| **Mirt il Cambiavalute** | — | — | ✅ Referente Arpisti — messaggio S3/S4 | — | — | — |
+| **Vajra Safahr** | ✅ Referente Force Grey — M1 completata S5 | ✅ Referente Force Grey — M1 completata S5 | — | — | — | ✅ Referente Force Grey — M1 completata S5 |
+| **Mirt il Cambiavalute** | — | — | ✅ Referente Arpisti — M1 completata S5; chiesto aiuto per riapertura Trollskull Manor | — | — | — |
+| **Remallia Haventree** | — | — | ✅ Supervisor Arpisti — incontrata S5 [TODO DM] | — | — | — |
 | **Hlam** | — | ✅ Ha conferito il presagio | — | — | — | — |
-| **Davil Starsong** | — | — | — | ✅ Referente Zentharim — incontrato S4 | ✅ Referente Zentharim — incontrato S4 | ❌ Capo rete Zhentarim (non sa del party) |
+| **Davil Starsong** | 🤝 Incontrato S5 al Portale Spalancato — faida Manshoon vs Doom Raiders | 🤝 Incontrato S5 al Portale Spalancato — faida Manshoon vs Doom Raiders | 🤝 Incontrato S5 al Portale Spalancato — faida Manshoon vs Doom Raiders | ✅ Referente Zhentarim — M1 completata S5, Zhentarim ufficiale | ✅ Referente Zhentarim — M1 completata S5, Zhentarim ufficiale | ❌ Capo rete Zhentarim (non sa del party) |
 | **Yagra Stonefist** | — | — | — | 🤝 Intermediaria | 🤝 Intermediaria | ❌ Zhentarim |
+| **Maxeene** | — | — | 🤝 Cavalla parlante — incontrata S5 in privato, fornite info | — | — | — |
+| **Soluun Xibrindas** (drow) | — | ❌ Affrontato S5 — fuggito | — | ❌ Affrontato S5 — fuggito | ❌ Affrontato S5 — fuggito | ❌ Affrontato S5 — fuggito |
 | **Aldric** | — | — | — | — | ✅ Amico / mentore; visita al manor S4 | — |
 | **Maestro Bec** | 🤝 Familiare di Aelar | 🤝 Familiare di Aelar | ✅ Familiare personale | 🤝 Familiare di Aelar | 🤝 Familiare di Aelar | — |
 | **Trobbio** | — | — | 🔒 Patron arcifata (imprevedibile) | — | — | — |
 | **Brottor Deepdelver** | 🔒 Mentore scomparso | — | — | — | — | — |
 | **Rennis Coalsworth** | — | — | — | 🤝 Mentore/partner scomparso | — | — |
 | **Urstul Floxin** | — | — | — | — | — | ❌ Obiettivo personale |
-| **Hyustus Staget** | — | — | — | — | — | ⚠️ Superiore / rivale |
+| **Hyustus Staget** | — | — | — | — | ⚠️ Incontrato S5 (accesso classificato negato) | ⚠️ Superiore / rivale |
 | **Saeth Cromley** | 🤝 Collega Ordine Magisti | — | — | — | — | 🤝 Collega guardia |
 | **Barnibus Blastwind** | 🤝 Collega Ordine Magisti | — | — | — | — | — |
 | **Lif (poltergeist)** | 🤝 Barista manor | 🤝 Barista manor | ✅ Amicizia — Aelar lo ha convinto | 🤝 Barista manor | 🤝 Barista manor | 🤝 Barista manor |
@@ -53,10 +56,11 @@ Righe = PNG. Colonne = PG. Stato al momento dell'incontro più recente.
 | Volo Geddarm | Indipendente | Quest-giver S1 | 🤝 Amichevole, grato |
 | Durnan | Indipendente | Oste del Portale Spalancato | 🤝 Neutrale / ospitale |
 | Renaer Neverember | Indipendente | Figlio ex-Open Lord, coinvolto loro malgrado | 🤝 Amico emergente |
-| Vajra Safahr | Force Grey / Ordine Magisti | Arcimaga di Waterdeep, capo Force Grey | ✅ Referente diretto Thrax, Razak & Barney (incontrata S4) |
-| Mirt il Cambiavalute | Arpisti | Referente cittadino; ex avventuriero | ✅ Referente diretto Aelar (messaggio S3/S4) |
+| Vajra Safahr | Force Grey / Ordine Magisti | Arcimaga di Waterdeep, capo Force Grey | ✅ Referente diretto Thrax, Razak & Barney — M1 completata S5; Force Grey ufficiali |
+| Mirt il Cambiavalute | Arpisti | Referente cittadino; ex avventuriero | ✅ Referente diretto Aelar — M1 completata S5; Aelar gli ha chiesto aiuto per Trollskull Manor |
+| Remallia Haventree | Arpisti | Supervisor di livello superiore, gerarchia Arpisti | ✅ Incontrata da Aelar in S5 [TODO DM]; ha richiesto la verifica Zhentarim per chiudere M1 |
 | Hlam | Indipendente | Monaco oracolo | 🤝 Profetico, distante |
-| Davil Starsong | Zhentarim | Referente Zhentarim; pragmatico | ✅ Referente diretto Scintilla & Friedrich (incontrato S4) |
+| Davil Starsong | Zhentarim | Referente Zhentarim; pragmatico | ✅ Referente diretto Scintilla & Friedrich — M1 completata S5; Zhentarim ufficiali. Ha rivelato a tutto il party la faida Manshoon vs Doom Raiders |
 | Lif | Indipendente | Poltergeist barista del manor | ✅ Collaborativo — Aelar ha costruito fiducia in S4 |
 | Broxley Fairkettle | Fellowship of Innkeepers | Rappresentante gilde tavernieri | 🤝 Amichevole verso tutto il party (incontrato S4) |
 | Yagra Stonefist | Zhentarim | Braccio destro di Davil | 🤝 Intermediaria |

@@ -1,7 +1,7 @@
 # Il Portale Spalancato
 
 **Quartiere/Zona**: Dock Ward, Waterdeep (affacciata su Piazza Sottomonte)  
-**Sessioni Visitate**: S0, S1, S4  
+**Sessioni Visitate**: S0, S1, S4, S5  
 **Descrizione**: Celebre inn e taverna del Dock Ward, rinomata in tutto Faerûn come punto di ritrovo per avventurieri. L'elemento che la rende leggendaria è il **pozzo aperto al centro della sala principale** — una struttura circolare di 40 piedi di diametro (circa 12 metri), che scende per 140 piedi fino al primo livello di **Sottomonte**, il vasto dungeon sotterraneo di Waterdeep. Un meccanismo a carrucola consente di calarsi e risalire dal pozzo. Dal pozzo può emergere qualsiasi cosa.
 
 ## Struttura Fisica
@@ -25,3 +25,4 @@
 - [S1] Combattimento contro banditi Xanathar, un troll risalito dal pozzo e stirgi
 - [S1] Il party incontra Volo Geddarm che espone il problema della scomparsa di Floon Blagmaar
 - [S4] Il party incontra Davil Starsong; parte del gruppo accetta di lavorare per gli Zhentarim e riceve la prima missione operativa
+- [S5] Il party (Aelar, Razak, Vorador) si presenta da Davil Starsong; Davil rivela la faida interna agli Zhentarim (Manshoon vs Doom Raiders) e la non-belligeranza dei Doom Raiders verso gli Arpisti. Successivamente Krauser e Scintilla chiudono la Zhentarim M1 con rapporto a Davil e diventano ufficialmente parte della fazione

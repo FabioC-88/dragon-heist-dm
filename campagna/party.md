@@ -6,8 +6,8 @@
 
 - **Livello attuale:** 2
 - **Sistema XP:** Milestone — prossimo level up al completamento Cap. 2
-- **Ultima sessione:** Sessione 4 (Capitolo 2: Trollskull Alley — vicinato, fazioni, primo raid ai moli)
-- **Sede base:** Trollskull Manor, Trollskull Alley — in ristrutturazione (≈1.000 mo necessarie)
+- **Ultima sessione:** Sessione 5 (Capitolo 2: triplo rapporto M1 — Force Grey, Arpisti, Zhentarim tutte chiuse)
+- **Sede base:** Trollskull Manor, Trollskull Alley — in ristrutturazione (≈1.000 mo necessarie); Aelar ha chiesto aiuto a Mirt per la riapertura
 
 ---
 
@@ -47,6 +47,9 @@ Il mentore **Brottor Deepdelver** è scomparso durante un'indagine su un caso cl
 - [S1] Ha combattuto il troll al Portale; indaga sequestro Floon; scopre Stone of Golorr
 - [S4] Ha fatto rapporto a Vajra Safahr e accettato Force Grey M1; ha chiesto al Bastone Nero informazioni sulla Pietra di Golor — risposta pendente [TODO DM]
 - [S4] Ha partecipato al raid al magazzino ai moli; trovate Lacrime di Mezzanotte
+- [S5] Ha consegnato a Vajra le info sul carico Midnight Tears + un documento classificato relativo a Brottor (Force Grey M1 completata); è entrato ufficialmente nelle Force Grey
+- [S5] Ha recuperato un talismano magico da un cadavere di cultista — sospetto rituale di Asmodeus; ricerche in biblioteca della Torre del Bastone Nero senza esito
+- [S5] Ha partecipato alla riunione al Portale Spalancato con Davil Starsong; conosce la faida Manshoon vs Doom Raiders
 
 ---
 
@@ -80,6 +83,8 @@ Ha ricevuto dal monaco **Hlam** sul Monte Waterdeep una pergamena sigillata con 
 - **Sente la responsabilità personale** — il sangue è già versato, connesso agli eventi
 - [S4] Ha fatto rapporto a Vajra Safahr, rivelato il contenuto del presagio; Vajra ha risposto: *"Giorno dei Fondatori. Midnight Tears. Stesso punto di arrivo."*
 - [S4] Ha partecipato al raid al magazzino ai moli; trovate Lacrime di Mezzanotte — connessione al presagio
+- [S5] Force Grey M1 completata insieme a Vorador e Barney; ingresso ufficiale nelle Force Grey
+- [S5] Ha partecipato al pedinamento e all'intervento contro l'omicidio del mezzelfo; il drow è fuggito
 
 ---
 
@@ -120,6 +125,9 @@ Ha ricevuto dal monaco **Hlam** sul Monte Waterdeep una pergamena sigillata con 
 - **Trobbio assente in gioco** — presente come patron che osserva in background
 - [S4] Ha approfondito l'amicizia con Lif — momento chiave della sessione
 - [S4] Arpisti M1 avviata: Maxeene individuata come cavalla bianca con fiocco, lavora nel Quartiere del Mercato; sorveglianza da completare
+- [S5] **Arpisti M1 completata**: contatto privato con Maxeene col pretesto del ritratto; ottenute informazioni; verifica Zhentarim via Davil; chiusura con Mirt
+- [S5] Ha incontrato Remallia Haventree [TODO DM: confermare], che ha richiesto la verifica Zhentarim prima della chiusura
+- [S5] Ha chiesto a Mirt aiuto per la riapertura di Trollskull Manor — filo nuovo aperto
 
 ---
 
@@ -159,6 +167,7 @@ Volothamp "Volo" Geddarm l'ha contattata in officina e l'ha invitata al Portale 
 #### Note
 - [S4] Ha incontrato Davil Starsong di persona; Davil ha menzionato Rennis: *"sapeva dove trovare componenti che non si trovano più. Qualcuno ha tagliato i canali."* → filo su Rennis attivo
 - [S4] Ha accettato Zentharim M1 con Friedrich; ha partecipato al raid al magazzino ai moli
+- [S5] **Zhentarim M1 completata** con Krauser: indagine sugli omicidi elfi, trovata la taverna, scoperto il nome della prossima vittima, omicidio sventato (drow Soluun Xibrindas fuggito); rapporto chiuso con Davil; ingresso ufficiale negli Zhentarim
 - La questline M2-M4 potrebbe rivelare info su Manshoon e Kolat Towers
 
 ---
@@ -197,6 +206,8 @@ Le missioni Zentharim M1-M3 erodono gradualmente i principi assoluti di Friedric
 - **Aldric osserva silenziosamente** il coinvolgimento con Zhentarim; frase seminata in S4: *"La vera saggezza non è fare sempre la cosa giusta. È sapere quando le regole non si applicano a te."*
 - **Il voto rimane solido fino al L3-L4** — la rottura sarà drammatica, non repentina
 - [S4] Ha incontrato Davil Starsong di persona e accettato Zentharim M1; ha partecipato al raid al magazzino ai moli
+- [S5] **Zhentarim M1 completata** con Scintilla: indagine omicidi elfi, omicidio sventato (drow Soluun Xibrindas fuggito); rapporto chiuso con Davil; ingresso ufficiale negli Zhentarim. [TODO DM: il riconoscimento del corpo di Edran Voss è avvenuto in gioco?]
+- [S5] Ha tentato di chiedere info classificate al Capitano Hyustus Staget (Guardia del Porto): riconosciuto e bloccato sull'accesso. Rapporto Staget ↔ Krauser ora documentato come ostile
 
 
 
@@ -228,6 +239,8 @@ Indaga segretamente sulle sparizioni al porto, aggirandosi il Capitano **Hyustus
 #### Note
 - [S4] Ha fatto rapporto a Vajra Safahr e accettato Force Grey M1 insieme a Razak e Vorador
 - [S4] Ha partecipato al raid al magazzino ai moli; ha notato il carico di ingredienti per le Lacrime di Mezzanotte e vuole distruggerlo [TODO DM: decidere conseguenze]
+- [S5] **Force Grey M1 completata**: con Vorador e Razak ha consegnato a Vajra le info sul carico Midnight Tears; ingresso ufficiale nelle Force Grey. [TODO DM: decisione sul cargo Midnight Tears in S5?]
+- [S5] Ha partecipato al pedinamento e all'intervento contro l'omicidio del mezzelfo
 
 #### Nota per il DM
 Barnabus è Guardia Cittadina che sta *indagando* sugli Zhentarim — ma il party potrebbe lavorare *con* gli Zhentarim nelle missioni secondarie. Questa tensione è intenzionale e va gestita quando Silvia è presente.
