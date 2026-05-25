@@ -161,7 +161,7 @@ Qualche giorno dopo l'arrivo dei contatti fazione, **quattro halfling** si prese
 > ✅ **Realtà**: tutte e tre le M1 sono state portate a termine in questa sessione. Le tre missioni hanno occupato la maggior parte del tempo, lasciando inevase le FASI 1-3.
 
 ### 🔀 DEVIAZIONE — Arpisti M1 — Un Cavallo Donato (Aelar)
-> 🔀 **Realtà**: Aelar ha contattato Maxeene direttamente (senza la sorveglianza di 3 notti prevista), prima in pubblico (fallito), poi in privato col pretesto di un ritratto (riuscito). Dopo aver parlato con Maxeene è stato mandato da Remallia Haventree [TODO DM: confermare] che gli ha imposto di verificare prima gli Zhentarim. La missione si chiude poi con rapporto a Mirt. Sub-arco aggiuntivo non previsto.
+> 🔀 **Realtà**: Aelar ha contattato Maxeene direttamente (senza la sorveglianza di 3 notti prevista), prima in pubblico (fallito), poi in privato col pretesto di un ritratto (riuscito). Dopo aver parlato con Maxeene ha fatto **rapporto intermedio a Remallia Haventree** (Villa Ulbrinter, North Ward), che gli ha imposto di verificare prima gli Zhentarim. Il **rapporto finale di chiusura** è andato poi a Mirt. Sub-arco aggiuntivo non previsto: Remallia ora è PNG confermato incontrato e disponibile come supervisor Arpisti.
 
 **Stato:** Avviata — prima traccia trovata in S4.
 
@@ -285,7 +285,7 @@ Prima apparizione di Emmek in questa sessione. I Shard Shunners compaiono nello 
 | 1 | Emmek Frewn — prima apparizione | Comparsa nel vicolo, scambio battute | Non giocato | ⏸️ |
 | 2 | Shard Shunners — colloquio | Quattro halfling al manor | Non giocato | ⏸️ |
 | 3 | Gilde mancanti (Hammond, Justyn, Ulkoria) | Visite separate al manor | Non giocate | ⏸️ |
-| 4a | Arpisti M1 — Maxeene | 3 notti sorveglianza, far parlare | Aelar contatta Maxeene direttamente (fallisce in pubblico, riesce in privato col pretesto del ritratto); poi mandato da Remallia Haventree, poi chiude con Mirt | 🔀 (Completata) |
+| 4a | Arpisti M1 — Maxeene | 3 notti sorveglianza, far parlare | Aelar contatta Maxeene direttamente (fallisce in pubblico, riesce in privato col pretesto del ritratto); rapporto intermedio a Remallia Haventree a Villa Ulbrinter; rapporto finale di chiusura a Mirt | 🔀 (Completata) |
 | 4b | Force Grey M1 — Cargo Fondatore | Ottenere lista destinatari da Orvyn | Consegnate a Vajra info carico + documento Brottor; ingresso ufficiale Force Grey per Vorador/Razak/Barney | ✅ (Completata) |
 | 4c | Zhentarim M1 — Un Brutto Momento | Identificare Soluun Xibrindas, salvare Heldar | Krauser e Scintilla indagano; party sventa omicidio; drow fuggito (non catturato); rapporto chiuso con Davil; ingresso ufficiale Zhentarim per Krauser e Scintilla. **Davil consegna a Krauser il talismano di Edran Voss** (commilitone elfo paladino) come gesto di rispetto dei patti — filo Vosk aperto in modo alternativo | 🔀 (Completata) |
 
@@ -309,8 +309,8 @@ Prima apparizione di Emmek in questa sessione. I Shard Shunners compaiono nello 
 - **Pietra di Golor**: l'invito di Vajra menzionato nel piano (*"Finite il porto — poi venite da me"*) è stato consegnato al party? Se no, lo facciamo emergere in S6?
 - ~~**Edran Voss / Vosk**~~ ✅ Risolto — Davil ha recuperato il talismano dal cadavere di Edran e lo ha consegnato a Krauser durante il rapporto. Il filo Vosk è aperto via Davil, non via drow.
 - ~~**Ricompense missioni M1**~~ ✅ Risolto — **+2 Renown** per fazione (Arpisti / Force Grey / Zhentarim) + denaro e ricompense materiali da assegnare.
-- **Talismano Asmodeus**: serve un PNG/risorsa che possa identificare il talismano per Vorador, o si tiene aperto come filo lungo? (Identificazione: tiro di Religione/Storia falliti; meta-info che il DM può lasciare emergere via Aldric, Vajra, Ordine).
-- **Talismano di Edran Voss in possesso di Krauser**: oggetto nuovo. Cosa indica? Simbolo religioso del paladino, oggetto magico, prova della Shadowfell? [Da definire per S6+]
+- ~~**Talismano Asmodeo**~~ ✅ Chiarito — è il sigillo specifico della setta Cassalanter, sconosciuto a tutte le fonti pubbliche. Solo Aldric (Asmodeo travestito) può dare indizi indiretti come "ex avventuriero".
+- ~~**Talismano di Edran Voss in possesso di Krauser**~~ ✅ Chiarito — simbolo sacro di Tyr; sul retro l'incisione elfica *"Veglia anche nell'ombra"* (Tyr che vede senza occhi + memoria della Shadowfell), riconoscibile a colpo d'occhio da Krauser.
 
 ---
 

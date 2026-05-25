@@ -20,7 +20,7 @@ Per chi è membro degli Arpisti, Villa Ulbrinter è uno dei punti di ritrovo ris
 
 ## Eventi Importanti
 
-- [S5] Il party (parte rappresentata da Aelar) viene ricevuto da Remallia Haventree per rendere conto della missione Arpisti M1 [TODO DM: confermare incontro]; viene imposta la verifica con gli Zhentarim prima di considerare la missione chiusa
+- [S5] Il party (rappresentato da Aelar) viene ricevuto da Remallia Haventree per il rapporto intermedio della missione Arpisti M1; viene imposta la verifica con gli Zhentarim prima di considerare la missione chiusa (il rapporto finale di chiusura andrà poi a Mirt)
 
 ## Note Aggiuntive
 

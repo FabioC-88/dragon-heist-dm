@@ -15,7 +15,7 @@
 ### Pomeriggio — Arpisti M1 (Maxeene)
 - Aelar ha trovato Maxeene e ha cercato di parlarle in mezzo a tutti: la cavalla non ha proferito parola e si è comportata da normale cavalla.
 - Dopo aver convinto il proprietario col pretesto di volerle fare un ritratto, Aelar ha ottenuto un incontro serale da solo con Maxeene ed è riuscito a ottenere le informazioni.
-- Aelar si è poi recato al palazzo di "Rennala" [TODO DM: probabilmente Remallia Haventree] per riferire. Lei gli ha puntualizzato che la missione non era completa finché non avesse parlato con i due Zhentarim per sapere se ci si poteva fidare di loro.
+- Aelar si è poi recato al palazzo di **Remallia Haventree** (Villa Ulbrinter) per fare rapporto intermedio. Lei gli ha puntualizzato che la missione non era completa finché non avesse parlato con i due Zhentarim per sapere se ci si poteva fidare di loro. (Il rapporto finale di chiusura è andato poi a Mirt — vedi sotto.)
 
 ### Sera — Doppia missione: Portale Spalancato e Omicidi Elfi
 - Aelar, Razak e Vorador sono andati al Portale Spalancato e hanno parlato con Davil Starsong. Hanno scoperto la faida interna tra i due gruppi degli Zhentarim (Manshoon vs Doom Raiders) e hanno capito che i Doom Raiders non hanno intenzione di mettersi contro gli Arpisti, almeno finché questi non si mettono contro di loro.
@@ -45,7 +45,7 @@ Motivo: il party si è concentrato per intero sul completamento delle tre missio
 | Capitano Hyustus Staget | Ostile verso Krauser | Ha riconosciuto Krauser e negato ogni accesso classificato sugli omicidi elfi |
 | Maxeene (la cavalla) | Cooperativa una volta da sola | Ha parlato e fornito le informazioni in privato |
 | Padrone di Maxeene | Convinto (col pretesto del ritratto) | Non specificato — vedi dm-notes |
-| Remallia Haventree [TODO DM] | Esigente | Ha imposto la verifica Zhentarim prima di considerare la missione conclusa |
+| Remallia Haventree | Esigente | Rapporto intermedio Arpisti M1; ha imposto la verifica Zhentarim prima di considerare la missione conclusa |
 | Davil Starsong | Trasparente / collaborativo | Ha rivelato la faida interna Zhentarim; ha chiuso M1 con Krauser e Scintilla; ha consegnato a Krauser il talismano di Edran Voss come gesto di rispetto dei patti |
 | Mirt il Cambiavalute | Soddisfatto | Chiusa Arpisti M1; Aelar gli ha chiesto aiuto per riaprire Trollskull Manor |
 | Soluun Xibrindas (drow) | Sfuggito | Omicidio sventato ma il drow è fuggito |

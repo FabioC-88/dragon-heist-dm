@@ -11,9 +11,9 @@
 - **Villain/Stagione:** Cassalanters (Estate)
 - **Livello di partenza:** 1
 - **Party:** 5 giocatori fissi + Silvia (PG ospite, presente raramente — max 6 giocatori)
-- **Stato:** In fase di preparazione — prima sessione non ancora giocata
+- **Stato:** In corso — Cap. 2 in chiusura (S6 prepara la transizione a Cap. 3)
 - **Durata Media Sessioni:** 2 Ore
-- **Capitolo corrente:** 1
+- **Capitolo corrente:** 2
 
 ---
 

@@ -95,7 +95,7 @@
 | **Renaer Neverember** *(S1)* | Indipendente | **Nobile salvato** | Grato (+2) | Lo hai liberato dalla warehouse Zhentarim | Figlio di Dagult Neverember; conosce il mistero della Stone of Golorr; diventa alleato |
 | **Mirt il Cambiavalute** *(S3/S4/S5)* | Arpisti | **Referente Arpisti** | Alleato-affidabile | S5: Arpisti M1 chiusa con rapporto diretto; Aelar gli ha chiesto aiuto per la riapertura di Trollskull Manor | Filo nuovo: riapertura Trollskull Manor |
 | **Maxeene** *(S5)* | Indipendente | **PNG informatore (cavalla parlante)** | Cooperativa in privato | Cavalla bianca con fiocco che tira una carrozza nel Quartiere del Mercato; in pubblico tace e si comporta da normale cavalla; in privato (col pretesto del ritratto) parla e fornisce informazioni | Conosce le facce degli operativi Zentharim |
-| **Remallia Haventree** *(S5)* | Arpisti | **Supervisor superiore** | Alleato-esigente [TODO DM] | Incontrata da Aelar al suo palazzo; ha imposto la verifica Zhentarim prima di chiudere M1 | Nobildonna elfa del sole; figura centrale Arpisti |
+| **Remallia Haventree** *(S5)* | Arpisti | **Supervisor superiore** | Alleato-esigente | Incontrata da Aelar al suo palazzo (Villa Ulbrinter); rapporto intermedio M1; ha imposto la verifica Zhentarim prima di chiudere | Nobildonna elfa del sole; figura centrale Arpisti; resta supervisor ricorrente per Aelar |
 | **Lif** *(S4)* | Indipendente | **Barista poltergeist** | ✅ Alleato / Amico | Hai fatto amicizia con lui; ora collaborativo — momento centrale di S4 | Lo hai convinto che il group intende riaprire la taverna |
 | **Broxley Fairkettle** *(S4)* | Fellowship of Innkeepers | **Rappresentante gilde** | Amichevole | Ha presentato il resoconto costi ristrutturazione al manor | Halfling; genuinamente dalla parte del party |
 | **Fala Lefaliir** *(S4)* | Indipendente | **Erborista vicina** | Amichevole-particolare | La Corona di Corellon; ti ha accolto con interesse speciale (entrambi elfi); chiede di Sildëyuir | Elfo del bosco; pronomi essi/loro; pozioni disponibili |
@@ -107,7 +107,7 @@
 
 | PNG | Affiliazione | Chi è / Cosa sai | Contesto | Note |
 |-----|-------------|------------------|---------|------|
-| **Remallia Haventree** | Arpisti | **Supervisor di livello superiore** | Nobildonna elfa del sole; figura centrale coordinatrice della rete; villa Ulbrinter nel North Ward | ⚠️ Spostata a "Conoscenti Diretti" dopo S5 [TODO DM: confermare incontro] |
+| **Remallia Haventree** | Arpisti | **Supervisor di livello superiore** | Nobildonna elfa del sole; figura centrale coordinatrice della rete; villa Ulbrinter nel North Ward | ⚠️ Spostata a "Conoscenti Diretti" dopo S5 — incontro confermato |
 | **Durnan** | Indipendente | **Innkeeper leggendario** | Proprietario Portale Spalancato; punto nevralgico per gli Arpisti come per tutti gli avventurieri | La taverna è dove ci si riferisce per raccogliere storie; lo conosci di fama come figura rilevante |
 
 ---
@@ -277,7 +277,7 @@
 | PNG | Affiliazione | Chi è / Cosa sai | Contesto | Note |
 |-----|-------------|------------------|---------|------|
 | **Urstul Floxin** | Zhentarim | **Sicario Zhentarim ricercato** | Conosci il nome nei circoli Zhentarim; assassino noto della Guardia Cittadina; target della Guardia | Potenziale rilevanza se Barnabus agisce mentre sei con Zhentarim |
-| **Edran Voss** *(S5 — deceduto)* | Indipendente / Ex-Shadowfell | **Commilitone deceduto** | Elfo paladino, commilitone di Krauser nella Shadowfell, creduto morto nell'imboscata di Vosk; **confermato deceduto** in S5 (vittima del drow Soluun Xibrindas) | Krauser ha ricevuto il suo talismano da Davil Starsong durante il rapporto di chiusura M1 |
+| **Edran Voss** *(S5 — deceduto)* | Indipendente / Ex-Shadowfell | **Commilitone deceduto** | Elfo paladino, commilitone di Krauser nella Shadowfell, creduto morto nell'imboscata di Vosk; **confermato deceduto** in S5 (vittima del drow Soluun Xibrindas) | Krauser ha ricevuto il suo talismano (simbolo di Tyr con incisione elfica *"Veglia anche nell'ombra"*) da Davil Starsong durante il rapporto di chiusura M1 |
 | **Manshoon** | Zhentarim (ramo ostile) | **Mago-antagonista** | Mago terribile; opera dalle Kolat Towers; ha rapito Eric per una commessa fallita | M4 questione Zentharim potrebbe coinvolgerlo; arco finale campagna |
 | **Vajra Safahr** *(il Bastone Nero)* | Ordine Magisti / Force Grey | **Capo supremo** | Arcimaga di Waterdeep; coordina l'Ordine e le Mani Grigie | Non l'hai mai incontrata; la conosci come entità gerarchica |
 | **Mirt il Cambiavalute** | Arpisti | **Capo degli Arpisti a Waterdeep** | Ex avventuriero leggendario; dirige la rete Arpisti in città | Sei stato informato di lui come tuo referente; non l'hai ancora incontrato formalmente |

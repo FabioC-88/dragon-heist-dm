@@ -126,7 +126,7 @@ Ha ricevuto dal monaco **Hlam** sul Monte Waterdeep una pergamena sigillata con 
 - [S4] Ha approfondito l'amicizia con Lif — momento chiave della sessione
 - [S4] Arpisti M1 avviata: Maxeene individuata come cavalla bianca con fiocco, lavora nel Quartiere del Mercato; sorveglianza da completare
 - [S5] **Arpisti M1 completata**: contatto privato con Maxeene col pretesto del ritratto; ottenute informazioni; verifica Zhentarim via Davil; chiusura con Mirt
-- [S5] Ha incontrato Remallia Haventree [TODO DM: confermare], che ha richiesto la verifica Zhentarim prima della chiusura
+- [S5] Ha incontrato Remallia Haventree a Villa Ulbrinter (rapporto intermedio M1); lei ha imposto la verifica Zhentarim prima della chiusura, poi il rapporto finale è andato a Mirt
 - [S5] Ha chiesto a Mirt aiuto per la riapertura di Trollskull Manor — filo nuovo aperto
 
 ---
@@ -208,7 +208,7 @@ Le missioni Zentharim M1-M3 erodono gradualmente i principi assoluti di Friedric
 - [S4] Ha incontrato Davil Starsong di persona e accettato Zentharim M1; ha partecipato al raid al magazzino ai moli
 - [S5] **Zhentarim M1 completata** con Scintilla: indagine omicidi elfi, omicidio sventato (drow Soluun Xibrindas fuggito); rapporto chiuso con Davil; ingresso ufficiale negli Zhentarim. **Davil ha consegnato a Krauser il talismano di Edran Voss** (commilitone elfo paladino della Shadowfell) recuperato dal cadavere, come gesto di rispetto dei patti — filo Vosk aperto, prima prova fisica della continuità del complotto
 - [S5] Ha tentato di chiedere info classificate al Capitano Hyustus Staget (Guardia del Porto): riconosciuto e bloccato sull'accesso. Rapporto Staget ↔ Krauser ora documentato come ostile
-- **Oggetto nuovo:** talismano di Edran Voss (origine: cadavere del commilitone, consegnato da Davil)
+- **Oggetto nuovo:** talismano di Edran Voss — simbolo sacro di Tyr, sul retro incisione elfica *"Veglia anche nell'ombra"* (origine: cadavere del commilitone, consegnato da Davil)
 
 
 

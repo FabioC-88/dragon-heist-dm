@@ -20,7 +20,7 @@ Righe = PNG. Colonne = PG. Stato al momento dell'incontro più recente.
 | **Renaer Neverember** | 🤝 Salvato insieme | 🤝 Salvato insieme | 🤝 Salvato insieme | 🤝 Salvato insieme | 🤝 Salvato insieme | — |
 | **Vajra Safahr** | ✅ Referente Force Grey — M1 completata S5 | ✅ Referente Force Grey — M1 completata S5 | — | — | — | ✅ Referente Force Grey — M1 completata S5 |
 | **Mirt il Cambiavalute** | — | — | ✅ Referente Arpisti — M1 completata S5; chiesto aiuto per riapertura Trollskull Manor | — | — | — |
-| **Remallia Haventree** | — | — | ✅ Supervisor Arpisti — incontrata S5 [TODO DM] | — | — | — |
+| **Remallia Haventree** | — | — | ✅ Supervisor Arpisti — rapporto intermedio M1 a Villa Ulbrinter (S5) | — | — | — |
 | **Hlam** | — | ✅ Ha conferito il presagio | — | — | — | — |
 | **Davil Starsong** | 🤝 Incontrato S5 al Portale Spalancato — faida Manshoon vs Doom Raiders | 🤝 Incontrato S5 al Portale Spalancato — faida Manshoon vs Doom Raiders | 🤝 Incontrato S5 al Portale Spalancato — faida Manshoon vs Doom Raiders | ✅ Referente Zhentarim — M1 completata S5, Zhentarim ufficiale | ✅ Referente Zhentarim — M1 completata S5, Zhentarim ufficiale; **ha consegnato a Krauser il talismano di Edran Voss** come segno di rispetto dei patti | ❌ Capo rete Zhentarim (non sa del party) |
 | **Yagra Stonefist** | — | — | — | 🤝 Intermediaria | 🤝 Intermediaria | ❌ Zhentarim |
@@ -59,7 +59,7 @@ Righe = PNG. Colonne = PG. Stato al momento dell'incontro più recente.
 | Renaer Neverember | Indipendente | Figlio ex-Open Lord, coinvolto loro malgrado | 🤝 Amico emergente |
 | Vajra Safahr | Force Grey / Ordine Magisti | Arcimaga di Waterdeep, capo Force Grey | ✅ Referente diretto Thrax, Razak & Barney — M1 completata S5; Force Grey ufficiali |
 | Mirt il Cambiavalute | Arpisti | Referente cittadino; ex avventuriero | ✅ Referente diretto Aelar — M1 completata S5; Aelar gli ha chiesto aiuto per Trollskull Manor |
-| Remallia Haventree | Arpisti | Supervisor di livello superiore, gerarchia Arpisti | ✅ Incontrata da Aelar in S5 [TODO DM]; ha richiesto la verifica Zhentarim per chiudere M1 |
+| Remallia Haventree | Arpisti | Supervisor di livello superiore, gerarchia Arpisti | ✅ Incontrata da Aelar in S5 (rapporto intermedio Arpisti M1); ha richiesto la verifica Zhentarim per chiudere |
 | Hlam | Indipendente | Monaco oracolo | 🤝 Profetico, distante |
 | Davil Starsong | Zhentarim | Referente Zhentarim; pragmatico | ✅ Referente diretto Scintilla & Friedrich — M1 completata S5; Zhentarim ufficiali. Ha rivelato a tutto il party la faida Manshoon vs Doom Raiders |
 | Lif | Indipendente | Poltergeist barista del manor | ✅ Collaborativo — Aelar ha costruito fiducia in S4 |
