@@ -124,36 +124,22 @@ La checklist deve includere tutti i file che **dovranno essere aggiornati** dopo
 
 ---
 
-### Step 3 — Genera il Changelog
+### Step 3 — Report al DM (NON nel file)
 
-Dopo aver applicato tutte le correzioni, aggiungi in fondo al documento (prima della POST-SESSION CHECKLIST) una sezione:
+**Il file di sessione è usato al tavolo: nessuna sezione meta-agente al suo interno** (no Revision Log, no Changelog, no annotazioni di processo). Vedi memoria `feedback_no_agent_notes_in_session_files`.
 
-```markdown
----
-## 🔍 REVISION LOG — Agente 6
-
-| # | Tipo | Sezione | Modifica Applicata |
-|---|------|---------|-------------------|
-| 1 | Struttura | Header | Aggiunto campo XP mancante |
-| 2 | Continuità | SETUP INIZIALE | Corretto riferimento a posizione party (da sessione precedente erano in X, non Y) |
-| 3 | Testo Boxed | FASE 2 | Aggiunta descrizione simbolo gesso mancante rispetto all'originale EN |
-...
-
-**Totale correzioni applicate:** N
-**Stato:** ✅ Pronto per commit
-```
+Le informazioni di revisione vanno comunicate **solo in chat al DM**, non scritte nel file:
+- Numero di correzioni applicate
+- Le 2-3 correzioni più significative
+- Eventuali punti che richiedono ulteriore conferma del DM (chiedi subito in chat, non lasciare TODO nel file — vedi memoria `feedback_no_todo_in_files`)
 
 ---
 
 ### Step 4 — Output finale
 
 Consegna:
-1. **Il file `dm-notes-sessione-NN.md` completo e corretto**, pronto per essere salvato.
-2. **Il Revision Log** integrato nel file stesso.
-3. Un messaggio breve al DM con:
-   - Numero di correzioni applicate
-   - Le 2-3 correzioni più significative
-   - Conferma: "✅ File pronto per Agente 7 (git)"
+1. **Il file `dm-notes-sessione-NN.md` completo e corretto**, pronto per essere salvato — privo di sezioni meta-agente.
+2. Un messaggio breve al DM in chat con il report di revisione.
 
 ---
 
@@ -162,4 +148,4 @@ Consegna:
 - **Applica, non solo segnala.** Ogni problema identificato deve essere risolto nel documento.
 - Non modificare il contenuto narrativo creativo (espansioni atmosferiche, dialoghi) se sono corretti — intervieni solo su problemi di coerenza, struttura o fedeltà ai dati.
 - Se una correzione richiederebbe informazioni che non hai (es. cosa è successo esattamente nella sessione precedente), segnalala come `[TODO DM: verificare — [descrizione del problema]]` e vai avanti.
-- Il Revision Log deve essere onesto: se non hai trovato problemi in una categoria, scrivi "Nessuna correzione necessaria".
+- Il report in chat deve essere onesto: se non hai trovato problemi in una categoria, dillo esplicitamente al DM.

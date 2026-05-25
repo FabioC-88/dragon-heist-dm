@@ -1,6 +1,7 @@
 # Villa Ulbrinter
 
 **Quartiere/Zona**: North Ward, Delzorin Street (tra Vhezoar Street e Brondar's Way)  
+**Sessioni Visitate**: S5
 
 ## Descrizione
 
@@ -16,6 +17,10 @@ Per chi è membro degli Arpisti, Villa Ulbrinter è uno dei punti di ritrovo ris
 ## Connessioni al Party
 
 - **Aelar Moonwhisper** conosce questa villa come punto di riferimento nella città per le attività degli Arpisti.
+
+## Eventi Importanti
+
+- [S5] Il party (rappresentato da Aelar) viene ricevuto da Remallia Haventree per il rapporto intermedio della missione Arpisti M1; viene imposta la verifica con gli Zhentarim prima di considerare la missione chiusa (il rapporto finale di chiusura andrà poi a Mirt)
 
 ## Note Aggiuntive
 

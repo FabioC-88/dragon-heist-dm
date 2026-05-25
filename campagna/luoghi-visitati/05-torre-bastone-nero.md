@@ -1,7 +1,7 @@
 # Torre del Bastone Nero
 
 **Quartiere/Zona**: Castle Ward, Waterdeep
-**Sessioni Visitate**: S4
+**Sessioni Visitate**: S4, S5
 **Descrizione**: Fortezza e accademia di magia, sede ufficiale dell'Arcimago di Waterdeep. Chi regge il Bastone Nero protegge la città dalle minacce magiche che la legge ordinaria non può affrontare.
 
 ## Struttura Fisica
@@ -17,6 +17,8 @@ Dall'esterno si presenta come una torre imponente, solida, senza decorazioni inu
 ## Eventi Importanti
 
 - [S4] Il party (Vorador, Razak, Barnabus) si presenta a Vajra Safahr; vengono arruolati nelle Gray Hands e ricevono la prima missione operativa di Force Grey
+- [S5] Il party consegna a Vajra le informazioni sul carico Midnight Tears e un documento classificato relativo a Brottor; Force Grey M1 chiusa, ingresso ufficiale nella fazione
+- [S5] Il party fa ricerche autonome nelle biblioteche della Torre su talismani magici e sulla Pietra di Golor: nessun risultato concreto
 
 ## Note Aggiuntive
 

@@ -27,7 +27,7 @@
 | **Azzaxell** *(S1)* | Zhentarim | **Nemico-barista** | Diffidente (-1) | Barista al Skewered Dragon; ha mentito su Floon | Freddo, osservatore; sa più di quanto riveli |
 | **Old Xoblob** *(S1)* | Indipendente/Xanathar | **Informatore gentile** | Amichevole (+1) | Gnomo del negozio nel Dock Ward; sincero su Floon | Dotato di memoria photographic; non sa di essere spia Xanathar (sensore beholder in negozio) |
 | **Renaer Neverember** *(S1)* | Indipendente | **Nobile salvato** | Grato (+2) | Lo hai liberato dalla warehouse Zhentarim | Figlio di Dagult Neverember (ex Open Lord); conosce la trama del tesoro e del Stone of Golorr; alleato |
-| **Vajra Safahr** *(S4)* | Ordine Magisti / Force Grey | **Referente Force Grey** | Amichevole-formale | Incontrata alla Torre del Bastone Nero; ha assegnato Force Grey M1; ha ascoltato la domanda sulla Pietra di Golor | Arcimaga di Waterdeep; risposta sulla Pietra di Golor pendente |
+| **Vajra Safahr** *(S4-S5)* | Ordine Magisti / Force Grey | **Referente Force Grey** | Alleato-formale | S5: consegnate info carico Midnight Tears + documento Brottor; Vorador entrato ufficialmente nelle Force Grey | Pietra di Golor: ricerca personale in biblioteca a vuoto; risposta diretta non ancora ricevuta |
 | **Rishaal il Voltapagine** *(S4)* | Ordine Magisti | **Collega dell'Ordine** | Amichevole-professionale | Incontrato nella sua libreria in Trollskull Alley; ha riconosciuto il simbolo dell'Ordine | Disponibile a fare da tramite con i registri pubblici; accesso ai file riservati non disponibile |
 | **Lif** *(S4)* | Indipendente | **Barista poltergeist** | Collaborativo | Poltergeist di Trollskull Manor; ora cooperativo dopo l'accordo con Aelar | Barista cooperativo; il manor è la sua casa |
 | **Broxley Fairkettle** *(S4)* | Fellowship of Innkeepers | **Rappresentante gilde** | Amichevole | Ha presentato il resoconto costi ristrutturazione al manor | Halfling con basettoni; genuinamente dalla parte del party; sa di Emmek Frewn |
@@ -60,7 +60,7 @@
 | **Shard** *(S1, opzionale)* | Xanathar Guild | **Capokenku** | Ostile se combat / Neutrale se negoziato | Capo kenku presso il Skewered Dragon; potenziale combattimento o fonte Xanathar | Se combatti: acerrimo nemico. Se negozi: +1 neutrale, sa che qualcuno indaga su Xanathar |
 | **Old Xoblob** *(S1)* | Indipendente/Xanathar | **Informatore gentile** | Amichevole (+1) | Gnomo del negozio nel Dock Ward; ricorda Floon perfettamente | Sincero per quanto sa; ignaro di essere spia Xanathar via sensore beholder |
 | **Renaer Neverember** *(S1)* | Indipendente | **Nobile salvato** | Grato (+2) | Lo hai liberato dalla warehouse Zhentarim | Figlio di Dagult Neverember; spiega il mistero della Stone of Golorr e del tesoro; diventa alleato |
-| **Vajra Safahr** *(S4)* | Ordine Magisti / Force Grey | **Referente Force Grey** | Amichevole-formale | Incontrata alla Torre del Bastone Nero; ha accolto la rivelazione del presagio; ha assegnato Force Grey M1 | Ha risposto: *"Giorno dei Fondatori. Midnight Tears. Stesso punto di arrivo."* |
+| **Vajra Safahr** *(S4-S5)* | Ordine Magisti / Force Grey | **Referente Force Grey** | Alleato-formale | S5: Force Grey M1 completata; Razak entrato ufficialmente nelle Force Grey | Ha risposto in S4: *"Giorno dei Fondatori. Midnight Tears. Stesso punto di arrivo."* |
 | **Lif** *(S4)* | Indipendente | **Barista poltergeist** | Collaborativo | Poltergeist di Trollskull Manor; ora cooperativo | Il manor è la sua casa |
 | **Broxley Fairkettle** *(S4)* | Fellowship of Innkeepers | **Rappresentante gilde** | Amichevole | Ha presentato il resoconto costi ristrutturazione al manor | Halfling; genuinamente dalla parte del party |
 | **Tally Fellbranch** *(S4)* | Indipendente | **Falegname vicino** | Amichevole | Il Chiodo Storto, Trollskull Alley | Lavori su commissione per il manor disponibili |
@@ -93,7 +93,9 @@
 | **Azzaxell** *(S1)* | Zhentarim | **Nemico-barista** | Ostile (-1) | Barista Skewered Dragon; ha mentito durante la ricerca Floon | Freddo, professionale, nasconde più di quanto dica |
 | **Old Xoblob** *(S1)* | Indipendente/Xanathar | **Informatore gentile** | Amichevole (+1) | Gnomo del negozio nel Dock Ward; sincero e utile | Ricorda perfettamente gli eventi; ignaro di essere spia Xanathar |
 | **Renaer Neverember** *(S1)* | Indipendente | **Nobile salvato** | Grato (+2) | Lo hai liberato dalla warehouse Zhentarim | Figlio di Dagult Neverember; conosce il mistero della Stone of Golorr; diventa alleato |
-| **Mirt il Cambiavalute** *(S3/S4)* | Arpisti | **Referente Arpisti** | Alleato-affidabile | Ti ha inviato un uccellino origami con la M1; conosce Renaer e il tuo valore | Ha assegnato Arpisti M1 (Maxeene) |
+| **Mirt il Cambiavalute** *(S3/S4/S5)* | Arpisti | **Referente Arpisti** | Alleato-affidabile | S5: Arpisti M1 chiusa con rapporto diretto; Aelar gli ha chiesto aiuto per la riapertura di Trollskull Manor | Filo nuovo: riapertura Trollskull Manor |
+| **Maxeene** *(S5)* | Indipendente | **PNG informatore (cavalla parlante)** | Cooperativa in privato | Cavalla bianca con fiocco che tira una carrozza nel Quartiere del Mercato; in pubblico tace e si comporta da normale cavalla; in privato (col pretesto del ritratto) parla e fornisce informazioni | Conosce le facce degli operativi Zentharim |
+| **Remallia Haventree** *(S5)* | Arpisti | **Supervisor superiore** | Alleato-esigente | Incontrata da Aelar al suo palazzo (Villa Ulbrinter); rapporto intermedio M1; ha imposto la verifica Zhentarim prima di chiudere | Nobildonna elfa del sole; figura centrale Arpisti; resta supervisor ricorrente per Aelar |
 | **Lif** *(S4)* | Indipendente | **Barista poltergeist** | ✅ Alleato / Amico | Hai fatto amicizia con lui; ora collaborativo — momento centrale di S4 | Lo hai convinto che il group intende riaprire la taverna |
 | **Broxley Fairkettle** *(S4)* | Fellowship of Innkeepers | **Rappresentante gilde** | Amichevole | Ha presentato il resoconto costi ristrutturazione al manor | Halfling; genuinamente dalla parte del party |
 | **Fala Lefaliir** *(S4)* | Indipendente | **Erborista vicina** | Amichevole-particolare | La Corona di Corellon; ti ha accolto con interesse speciale (entrambi elfi); chiede di Sildëyuir | Elfo del bosco; pronomi essi/loro; pozioni disponibili |
@@ -105,7 +107,7 @@
 
 | PNG | Affiliazione | Chi è / Cosa sai | Contesto | Note |
 |-----|-------------|------------------|---------|------|
-| **Remallia Haventree** | Arpisti | **Supervisor di livello superiore** | Nobildonna elfa del sole; figura centrale coordinatrice della rete; villa Ulbrinter nel North Ward | Conosci la gerarchia Arpisti; lei è sopra Mirt; non l'hai ancora incontrata |
+| **Remallia Haventree** | Arpisti | **Supervisor di livello superiore** | Nobildonna elfa del sole; figura centrale coordinatrice della rete; villa Ulbrinter nel North Ward | ⚠️ Spostata a "Conoscenti Diretti" dopo S5 — incontro confermato |
 | **Durnan** | Indipendente | **Innkeeper leggendario** | Proprietario Portale Spalancato; punto nevralgico per gli Arpisti come per tutti gli avventurieri | La taverna è dove ci si riferisce per raccogliere storie; lo conosci di fama come figura rilevante |
 
 ---
@@ -118,7 +120,7 @@
 
 | PNG | Affiliazione | Relazione | Atteggiamento | Contesto | Note |
 |-----|-------------|-----------|---------------|---------|------|
-| **Vajra Safahr** *(S4)* | Ordine Magisti / Force Grey | **Referente Force Grey** | Amichevole-formale | Incontrata alla Torre del Bastone Nero; ha assegnato Force Grey M1 | Arcimaga di Waterdeep |
+| **Vajra Safahr** *(S4-S5)* | Ordine Magisti / Force Grey | **Referente Force Grey** | Alleato-formale | S5: Force Grey M1 completata; Barney entrato ufficialmente nelle Force Grey | Arcimaga di Waterdeep |
 | **Lif** *(S4)* | Indipendente | **Barista poltergeist** | Collaborativo | Poltergeist di Trollskull Manor; ora cooperativo | Il manor è la sua casa |
 | **Broxley Fairkettle** *(S4)* | Fellowship of Innkeepers | **Rappresentante gilde** | Amichevole | Ha presentato il resoconto costi ristrutturazione | Halfling; genuinamente dalla parte del party |
 | **Tally Fellbranch** *(S4)* | Indipendente | **Falegname vicino** | Amichevole | Il Chiodo Storto, Trollskull Alley | Lavori su commissione disponibili |
@@ -224,7 +226,8 @@
 
 | PNG | Affiliazione | Relazione | Atteggiamento | Contesto | Note |
 |-----|-------------|-----------|---------------|---------|------|
-| **Davil Starsong** *(S4)* | Zhentarim | **Referente Zentharim** | Alleato-affidabile | Incontrato al Portale Spalancato; ha menzionato Rennis e i canali tagliati; ha assegnato Zentharim M1 | Ha detto: *"Rennis sapeva dove trovare componenti che non si trovano più."* → filo su Rennis aperto |
+| **Davil Starsong** *(S4-S5)* | Zhentarim | **Referente Zhentarim** | Alleato-affidabile | S5: Zhentarim M1 chiusa con rapporto; Scintilla Zhentarim ufficiale; faida interna Manshoon vs Doom Raiders rivelata in S5 | Filo Rennis aperto; faida Zhentarim rivelata |
+| **Soluun Xibrindas** *(S5)* | Zhentarim (Manshoon) | **Drow assassino** | Ostile (sfuggito) | Affrontato in S5 durante intervento per sventare omicidio del mezzelfo; è fuggito | Identità rivelata dal piano della M1; le parole su Vosk/Manshoon non sono state pronunciate (drow non catturato) |
 | **Lif** *(S4)* | Indipendente | **Barista poltergeist** | Collaborativo | Poltergeist di Trollskull Manor; ora cooperativo | Il manor è la sua casa |
 | **Broxley Fairkettle** *(S4)* | Fellowship of Innkeepers | **Rappresentante gilde** | Amichevole | Ha presentato il resoconto costi ristrutturazione | Halfling; sa di Emmek Frewn |
 | **Tally Fellbranch** *(S4)* | Indipendente | **Falegname vicino** | Amichevole | Il Chiodo Storto, Trollskull Alley | Lavori su commissione disponibili |
@@ -253,7 +256,9 @@
 | PNG | Affiliazione | Relazione | Atteggiamento | Contesto | Note |
 |-----|-------------|-----------|---------------|---------|------|
 | **Aldric** *(S3/S4)* | Asmodeo *(travestito)* | **Mentore-amico** | Alleato-influente | Ex avventuriero al Portale Spalancato; è venuto a trovare Friedrich al manor in S4 con del vino | **[NOTA DM]** È Asmodeo under wraps. Ha pronunciato in S4: *"La vera saggezza non è fare sempre la cosa giusta. È sapere quando le regole non si applicano a te."* |
-| **Davil Starsong** *(S4)* | Zhentarim | **Referente di fazione** | Amichevole-pragmatico | Incontrato al Portale Spalancato; ha assegnato Zentharim M1; filosofia pragmatica esposta | *"La legge non è una spada. È uno strumento."* — primo tassello dell'erosione morale |
+| **Davil Starsong** *(S4-S5)* | Zhentarim | **Referente di fazione** | Alleato-pragmatico (rafforzato) | S5: Zhentarim M1 chiusa con rapporto; Krauser Zhentarim ufficiale; faida interna Manshoon vs Doom Raiders rivelata; **ha consegnato a Krauser il talismano di Edran Voss** (commilitone) come gesto di rispetto dei patti | *"La legge non è una spada. È uno strumento."* — primo tassello dell'erosione morale; gesto del talismano rafforza la fiducia |
+| **Hyustus Staget** *(S5)* | Guardia Cittadina | **Capitano Guardia del Porto** | Ostile (verso Krauser) | S5: Krauser ha tentato di ottenere info classificate sugli omicidi elfi; Staget l'ha riconosciuto e ha negato l'accesso | Stesso PNG che ostacola Barnabus; rapporto ora ostile anche con Krauser |
+| **Soluun Xibrindas** *(S5)* | Zhentarim (Manshoon) | **Drow assassino** | Ostile (sfuggito) | Affrontato in S5 durante intervento per sventare omicidio del mezzelfo; è fuggito | Identità rivelata dal piano della M1; le parole su Vosk/Manshoon non sono state pronunciate |
 | **Yagra Stonefist** *(S1)* | Zhentarim | **Operativa di fazione** | Neutrale | Braccio armato di Davil; ha combattuto con te nel brawl | Diretta e competente; non amichevole ma professionale |
 | **Lif** *(S4)* | Indipendente | **Barista poltergeist** | Collaborativo | Poltergeist di Trollskull Manor; ora cooperativo | Il manor è la sua casa |
 | **Broxley Fairkettle** *(S4)* | Fellowship of Innkeepers | **Rappresentante gilde** | Amichevole | Ha presentato il resoconto costi ristrutturazione | Halfling; sa di Emmek Frewn |
@@ -272,6 +277,7 @@
 | PNG | Affiliazione | Chi è / Cosa sai | Contesto | Note |
 |-----|-------------|------------------|---------|------|
 | **Urstul Floxin** | Zhentarim | **Sicario Zhentarim ricercato** | Conosci il nome nei circoli Zhentarim; assassino noto della Guardia Cittadina; target della Guardia | Potenziale rilevanza se Barnabus agisce mentre sei con Zhentarim |
+| **Edran Voss** *(S5 — deceduto)* | Indipendente / Ex-Shadowfell | **Commilitone deceduto** | Elfo paladino, commilitone di Krauser nella Shadowfell, creduto morto nell'imboscata di Vosk; **confermato deceduto** in S5 (vittima del drow Soluun Xibrindas) | Krauser ha ricevuto il suo talismano (simbolo di Tyr con incisione elfica *"Veglia anche nell'ombra"*) da Davil Starsong durante il rapporto di chiusura M1 |
 | **Manshoon** | Zhentarim (ramo ostile) | **Mago-antagonista** | Mago terribile; opera dalle Kolat Towers; ha rapito Eric per una commessa fallita | M4 questione Zentharim potrebbe coinvolgerlo; arco finale campagna |
 | **Vajra Safahr** *(il Bastone Nero)* | Ordine Magisti / Force Grey | **Capo supremo** | Arcimaga di Waterdeep; coordina l'Ordine e le Mani Grigie | Non l'hai mai incontrata; la conosci come entità gerarchica |
 | **Mirt il Cambiavalute** | Arpisti | **Capo degli Arpisti a Waterdeep** | Ex avventuriero leggendario; dirige la rete Arpisti in città | Sei stato informato di lui come tuo referente; non l'hai ancora incontrato formalmente |

@@ -1,5 +1,8 @@
 # DM Notes — Sessione 5 (In-Game)
 
+> ⚠️ **File aggiornato post-sessione.** Le fasi sono annotate con ✅/⏸️/🔀 per riflettere la realtà giocata.
+> Vedi sezione [📋 ACCADUTO IN SESSIONE](#-accaduto-in-sessione-5--realtà-vs-piano) per il riepilogo dei delta.
+
 > **Fonte primaria:** `fonti/campagna/Dragon Heist.md` · Sezione *"Trollskull Alley"* (Cap. 2) — Emmek Frewn, Shard Shunners, Missioni M1 fazioni
 > **Contesto:** Party Lv 2 · Hanno ripulito il manor per 3 giorni · Broxley ha presentato i costi di ristrutturazione · Davil Starsong (Zentharim) e il Bastone Nero (Force Grey) hanno assegnato le prime missioni · Un magazzino ai moli è stato ripulito (Midnight Tears cargo trovato) · Arpisti M1 avviata con prima traccia su Maxeene
 > **Obiettivo sessione:** Emmek Frewn + Shard Shunners (spostati da S4) · Gilde mancanti (Hammond, Justyn, Ulkoria) · Missioni M1 continuazione · Risoluzione TODO DM aperti
@@ -38,9 +41,11 @@
 
 ---
 
-## FASE 0: CONSEGUENZE AZIONE AI MOLI (~20 min)
+## 🔀 DEVIAZIONE — FASE 0: CONSEGUENZE AZIONE AI MOLI (~20 min)
 
-### Risposta del Bastone Nero sulla Pietra di Golor
+> 🔀 **Realtà**: La risposta della Pietra di Golor non è arrivata via *sending*. Vorador è andato in persona a Vajra a consegnare le info del carico + documento Brottor, poi ha cercato da solo nelle biblioteche della Torre del Bastone Nero (senza successo). Il cargo Midnight Tears è stato **lasciato al magazzino** dal party.
+
+### 🔀 DEVIAZIONE — Risposta del Bastone Nero sulla Pietra di Golor
 
 **[NOTA DM — riservata]** Vajra conosce la Pietra di Golorr — la Torre ha documentazione sull'artefatto. Non è tuttavia informazione che intende condividere con reclute al loro secondo incarico.
 
@@ -53,7 +58,8 @@ Conferma che la Pietra esiste ed è seria. Non dice altro. L'invito alla Torre a
 
 ---
 
-### Decisione Barney — Il Carico di Midnight Tears
+### 🔀 DEVIAZIONE — Decisione Barney — Il Carico di Midnight Tears
+> 🔀 **Realtà**: il carico è stato **lasciato al magazzino**. Le conseguenze descritte sotto (Cassalanters notano la perdita, voci di Staget sull'incendio) **non si applicano** — il materiale è ancora nelle mani originali.
 
 **[NOTA DM — riservata]** Barney può distruggere il carico. Non bloccarlo: è una scelta coerente con il personaggio.
 
@@ -66,7 +72,7 @@ Conferma che la Pietra esiste ed è seria. Non dice altro. L'invito alla Torre a
 
 ---
 
-## FASE 1: IL RIVALE — Prima Apparizione di Emmek Frewn (~20 min)
+## ⏸️ NON GIOCATO — da spostare a S6 — FASE 1: IL RIVALE — Prima Apparizione di Emmek Frewn (~20 min)
 
 *[SPOSTATO VERBATIM DA dm-notes-sessione-04.md — FASE 4]*
 
@@ -86,7 +92,7 @@ Conferma che la Pietra esiste ed è seria. Non dice altro. L'invito alla Torre a
 
 ---
 
-## FASE 2: I CERCATORI DI LAVORO — Shard Shunners (~20 min)
+## ⏸️ NON GIOCATO — da spostare a S6 — FASE 2: I CERCATORI DI LAVORO — Shard Shunners (~20 min)
 
 *[SPOSTATO VERBATIM DA dm-notes-sessione-04.md — FASE 4]*
 
@@ -114,7 +120,7 @@ Qualche giorno dopo l'arrivo dei contatti fazione, **quattro halfling** si prese
 
 ---
 
-## FASE 3: LE GILDE MANCANTI — Hammond, Justyn, Ulkoria (~30 min)
+## ⏸️ NON GIOCATO — da spostare a S6 — FASE 3: LE GILDE MANCANTI — Hammond, Justyn, Ulkoria (~30 min)
 
 *[SPOSTATO VERBATIM DA dm-notes-sessione-04.md — FASE 3]*
 
@@ -150,9 +156,12 @@ Qualche giorno dopo l'arrivo dei contatti fazione, **quattro halfling** si prese
 
 ---
 
-## FASE 4: MISSIONI M1 — Continuazione (~60 min)
+## ✅ GIOCATO — FASE 4: MISSIONI M1 — Continuazione (~60 min)
 
-### Arpisti M1 — Un Cavallo Donato (Aelar)
+> ✅ **Realtà**: tutte e tre le M1 sono state portate a termine in questa sessione. Le tre missioni hanno occupato la maggior parte del tempo, lasciando inevase le FASI 1-3.
+
+### 🔀 DEVIAZIONE — Arpisti M1 — Un Cavallo Donato (Aelar)
+> 🔀 **Realtà**: Aelar ha contattato Maxeene direttamente (senza la sorveglianza di 3 notti prevista), prima in pubblico (fallito), poi in privato col pretesto di un ritratto (riuscito). Dopo aver parlato con Maxeene ha fatto **rapporto intermedio a Remallia Haventree** (Villa Ulbrinter, North Ward), che gli ha imposto di verificare prima gli Zhentarim. Il **rapporto finale di chiusura** è andato poi a Mirt. Sub-arco aggiuntivo non previsto: Remallia ora è PNG confermato incontrato e disponibile come supervisor Arpisti.
 
 **Stato:** Avviata — prima traccia trovata in S4.
 
@@ -166,7 +175,8 @@ Maxeene è una cavalla bianca con un fiocco dietro la testa che tira una carrozz
 
 ---
 
-### Force Grey M1 — Il Carico del Fondatore (Vorador + Razak + Barney)
+### ✅ GIOCATO — Force Grey M1 — Il Carico del Fondatore (Vorador + Razak + Barney)
+> ✅ **Realtà**: completata. Il party ha consegnato a Vajra le info sul carico Midnight Tears + il documento classificato Brottor. Vorador, Razak e Barney sono entrati ufficialmente nelle Force Grey.
 
 **Stato:** Accettata — da avviare.
 
@@ -178,7 +188,8 @@ Vajra ha assegnato la missione in S4. Il carico sospetto ai Moli del Salgemma (r
 
 ---
 
-### Missione Zentharim — Magazzino ai Moli (Friedrich + Scintilla + Barney)
+### 🔀 DEVIAZIONE — Missione Zentharim — Magazzino ai Moli (Friedrich + Scintilla + Barney)
+> 🔀 **Realtà**: completata ma con esito parziale. Krauser e Scintilla hanno indagato, trovato la taverna e scoperto il nome della prossima vittima. Il party ha sventato l'omicidio, ma il drow Soluun Xibrindas è fuggito (non catturato/ucciso). Le sue parole su "Vosk paga bene, Manshoon paga meglio" non sono mai state pronunciate in gioco. **L'identificazione di Edran Voss è avvenuta in modo alternativo**: Davil Starsong ha recuperato un talismano dal cadavere di Edran (elfo paladino, commilitone di Krauser nella Shadowfell) e l'ha consegnato a Krauser durante il rapporto, come segno che gli Zhentarim "rispettano i patti". Rapporto chiuso con Davil Starsong, ingresso ufficiale negli Zhentarim per Krauser e Scintilla.
 
 **Stato:** Da avviare — Davil ha assegnato la missione in S4. Nessuna azione operativa ancora svolta. (Il combattimento al magazzino in S4 era Force Grey M1, missione separata.)
 
@@ -199,10 +210,14 @@ Il manor è nel Quartiere Nord — la stessa zona dove Brottor aveva un ufficio 
 
 **Hook attivo:** Risposta del Bastone Nero sulla Pietra di Golor potrebbe aprire (o chiudere) il filo Brottor.
 
+> ⚠️ **POST-S5**: Vorador ha consegnato a Vajra un documento classificato relativo a Brottor (info dal carico Midnight Tears). Il *sending* di Vajra sulla Pietra di Golor non è avvenuto; Vorador ha cercato in autonomia nelle biblioteche della Torre del Bastone Nero senza esito. Filo Brottor leggermente avanzato (documento in mano a Vajra), ma il legame Pietra↔Brottor resta aperto da risolvere in S6+.
+
 ### Razak Kendal (Razak — Mirko)
 Vajra ha confermato in S4 che il presagio di Hlam è reale: *"Giorno dei Fondatori. Midnight Tears. Stesso punto di arrivo."* In S5, se il party discute del carico ai moli (FASE 0) o avanza sulla Force Grey M1, Razak è il PG con la visione d'insieme più nitida — ma il Giorno dei Fondatori si avvicina e la lista dei destinatari è ancora mancante.
 
 *Indizio sottile per S5: se Razak osserva la quantità del carico Midnight Tears, può fare un'inferenza sul numero di potenziali vittime. Lascia che sia lui a fare i conti, non descriverlo tu.*
+
+> ⚠️ **POST-S5**: il recap non documenta esplicitamente se Razak ha fatto l'inferenza in gioco. [TODO DM: confermare. Se non emerso, opportunità da riportare in S6.]
 
 ---
 
@@ -211,14 +226,20 @@ Davil Starsong ha menzionato Rennis in S4: sapeva dove trovare componenti rari c
 
 *Non indicare Manshoon. Non indicare le Kolat Towers. Solo: è sparito, non da solo.*
 
+> ⚠️ **POST-S5**: Scintilla non è tornata all'officina in S5 (concentrazione sulla Zhentarim M1). Scena ancora disponibile per S6+.
+
 ### Krauser / Vosk (Friedrich — Gabri)
 La Zentharim M1 introduce Edran Voss — il filo verso Vosk si apre in questa sessione. Prima volta che Friedrich ha prove concrete di una continuità del complotto.
+
+> ⚠️ **POST-S5**: la Zhentarim M1 è stata completata. Il drow Soluun Xibrindas è fuggito, quindi le sue parole "Vosk paga bene, Manshoon paga meglio" NON sono mai state pronunciate. **Tuttavia il filo Vosk si è aperto** in maniera alternativa: Davil Starsong ha recuperato un talismano dal cadavere di Edran Voss (elfo paladino, commilitone di Krauser nella Shadowfell) e l'ha consegnato a Krauser come gesto di rispetto dei patti. Krauser ora possiede un oggetto del commilitone morto: prima prova fisica della continuità del complotto Vosk. Il rapporto Davil ↔ Krauser è rafforzato.
 
 ### Aldric / Asmodeo (Friedrich — Gabri)
 Aldric può fare una seconda visita, o Friedrich può cercarlo. Aldric ascolta il resoconto della missione ai moli con interesse discreto.
 
 *Una battuta da pronunciare senza enfasi:*
 > *"Il bene che non si vede non è bene. È solo un crimine che non ha ancora trovato il suo giudice."*
+
+> ⚠️ **POST-S5**: Aldric non è comparso in S5. Scena ancora disponibile per S6, particolarmente potente se Krauser è entrato ufficialmente negli Zhentarim (Aldric può commentare con compiacenza discreta). **Sinergia nuova**: Vorador ha recuperato un talismano di Asmodeus; Aldric — se contattato — potrebbe "casualmente" notarlo e dare un indizio crittico [opportunità DM, da pesare].
 
 ### Emmek Frewn / Shard Shunners
 Prima apparizione di Emmek in questa sessione. I Shard Shunners compaiono nello stesso arco di tempo. Il sabotaggio notturno inizia silenziosamente.
@@ -227,21 +248,69 @@ Prima apparizione di Emmek in questa sessione. I Shard Shunners compaiono nello 
 
 *Non rivelare mai esplicitamente il collegamento Emmek → Shard Shunners. Lasciare che i PG lo deducano.*
 
+> ⚠️ **POST-S5**: nessuna comparsa di Emmek o degli Shard Shunners in S5. La prima apparizione di Emmek e il colloquio degli halfling vanno trasferiti **a inizio S6**. Il sabotaggio notturno può essere già iniziato (i 4 halfling lo fanno indipendentemente da assunzione/rifiuto), quindi in S6 si può aprire con i primi segni di topi nel manor.
+
 ---
 
 ---
 
 ## 🧩 THREAD NARRATIVI — Sessione 5
 
-| Hook | Fazione/PG | Stato | Note |
-|------|-----------|-------|------|
-| Risposta Bastone Nero sulla Pietra di Golor | Vorador (Force Grey) | ✅ Risolto | Vajra risponde via *sending* dopo il porto — vedi FASE 0 |
-| Decisione cargo Midnight Tears | Barney | ✅ Risolto | Barney può distruggere; conseguenze gestite — vedi FASE 0 |
-| Maxeene — sorveglianza | Aelar (Arpisti M1) | In corso | 3 notti sorveglianza; Barnabus coinvolgibile |
-| Edran Voss / Vosk | Friedrich, Scintilla (Zentharim M1) | **In apertura** | Prima prova del complotto Vosk; il drow come chiave |
-| Rennis e i canali tagliati | Scintilla | Filo aperto | Indagine sull'officina — due uomini in abiti scuri |
-| Emmek Frewn — prima apparizione | Tutti | **Nuovo S5** | Non rivelare mai esplicitamente il collegamento con gli Shard Shunners |
-| Hammond, Justyn, Ulkoria | Tutti | **Nuovo S5** | Visite gilde; senza di loro la taverna non può aprire |
+| Hook | Fazione/PG | Stato pianificato | Stato POST-S5 |
+|------|-----------|-------------------|---------------|
+| Risposta Bastone Nero sulla Pietra di Golor | Vorador (Force Grey) | ✅ Risolto via *sending* | 🔀 Modificato — ricerca biblioteca a vuoto; sending non avvenuto; filo aperto |
+| Decisione cargo Midnight Tears | Barney | ✅ Risolto (distruzione) | 🔀 Lasciato al magazzino — conseguenze del piano non si applicano |
+| Maxeene — sorveglianza | Aelar (Arpisti M1) | In corso | ✅ Completata (incontro privato col pretesto del ritratto) |
+| Edran Voss / Vosk | Friedrich, Scintilla (Zhentarim M1) | **In apertura** | ✅ **Filo aperto in modo alternativo** — Davil ha consegnato a Krauser il talismano di Edran (commilitone elfo paladino) come gesto di rispetto dei patti |
+| Rennis e i canali tagliati | Scintilla | Filo aperto | ⏸️ Non avanzato in S5 — Scintilla non è tornata all'officina |
+| Emmek Frewn — prima apparizione | Tutti | **Nuovo S5** | ⏸️ Non giocato → trasferito a S6 |
+| Hammond, Justyn, Ulkoria | Tutti | **Nuovo S5** | ⏸️ Non giocato → trasferito a S6 |
+| Talismano Asmodeus | Vorador, party | (non in piano) | 🆕 **Filo nuovo** — un talismano recuperato e sotto analisi |
+| Riapertura Trollskull Manor (via Mirt) | Aelar | (non in piano) | 🆕 **Filo nuovo** — Aelar ha chiesto aiuto a Mirt |
+| Faida Zhentarim (Manshoon vs Doom Raiders) | Aelar, Razak, Vorador | (info parziale) | ✅ Resa esplicita dal Davil — Doom Raiders neutrali con Arpisti finché reciproco |
+
+---
+
+## 📋 ACCADUTO IN SESSIONE 5 — Realtà vs Piano
+
+**Data aggiornamento:** 25 Maggio 2026
+**Basato su:** `campagna/sessioni/recaps/recap-sessione-05.md`
+
+### Tabella Delta
+
+| # | Fase/Scena | Piano | Realtà | Tipo |
+|---|-----------|-------|--------|------|
+| 0a | Risposta Bastone Nero su Pietra di Golor | Sending di Vajra dopo il porto | Vorador va in biblioteca della Torre, ricerche a vuoto; nessun sending | 🔀 |
+| 0b | Decisione cargo Midnight Tears (Barney) | Barney distrugge il carico, conseguenze | Cargo lasciato al magazzino — conseguenze della distruzione NON si applicano | 🔀 |
+| 1 | Emmek Frewn — prima apparizione | Comparsa nel vicolo, scambio battute | Non giocato | ⏸️ |
+| 2 | Shard Shunners — colloquio | Quattro halfling al manor | Non giocato | ⏸️ |
+| 3 | Gilde mancanti (Hammond, Justyn, Ulkoria) | Visite separate al manor | Non giocate | ⏸️ |
+| 4a | Arpisti M1 — Maxeene | 3 notti sorveglianza, far parlare | Aelar contatta Maxeene direttamente (fallisce in pubblico, riesce in privato col pretesto del ritratto); rapporto intermedio a Remallia Haventree a Villa Ulbrinter; rapporto finale di chiusura a Mirt | 🔀 (Completata) |
+| 4b | Force Grey M1 — Cargo Fondatore | Ottenere lista destinatari da Orvyn | Consegnate a Vajra info carico + documento Brottor; ingresso ufficiale Force Grey per Vorador/Razak/Barney | ✅ (Completata) |
+| 4c | Zhentarim M1 — Un Brutto Momento | Identificare Soluun Xibrindas, salvare Heldar | Krauser e Scintilla indagano; party sventa omicidio; drow fuggito (non catturato); rapporto chiuso con Davil; ingresso ufficiale Zhentarim per Krauser e Scintilla. **Davil consegna a Krauser il talismano di Edran Voss** (commilitone elfo paladino) come gesto di rispetto dei patti — filo Vosk aperto in modo alternativo | 🔀 (Completata) |
+
+### Eventi Emergenti Non Pianificati
+
+- **Talismani magici di Asmodeus** — il party li ha notati nei cultisti durante S4 ma in S5 ne ha recuperato uno da un cadavere. Vorador sta analizzando, finora senza risultati. Filo nuovo — Asmodeo dietro il culto è ora visibile.
+- **Riapertura Trollskull Manor** — Aelar ha chiesto aiuto a Mirt durante il rapporto di chiusura Arpisti M1. Filo nuovo.
+- **Faida Zhentarim resa esplicita** — Davil ha rivelato direttamente al party la spaccatura Manshoon vs Doom Raiders, e la non-belligeranza con gli Arpisti finché non è reciproca.
+
+### Scene da Trasferire a Sessione 6
+
+- **FASE 1: IL RIVALE — Prima Apparizione di Emmek Frewn (~20 min)** [contenuto verbatim da trasferire]
+- **FASE 2: I CERCATORI DI LAVORO — Shard Shunners (~20 min)** [contenuto verbatim da trasferire]
+- **FASE 3: LE GILDE MANCANTI — Hammond, Justyn, Ulkoria (~30 min)** [contenuto verbatim da trasferire]
+
+### TODO per il DM
+
+- ~~**"Karl" nel recap**~~ ✅ Risolto — era Krauser (refuso del DM).
+- **"Rennala" nel recap**: probabilmente Remallia Haventree; confermare che il primo incontro è avvenuto e con quale tono.
+- ~~**Cargo Midnight Tears**~~ ✅ Risolto — il cargo è stato lasciato al magazzino.
+- **Pietra di Golor**: l'invito di Vajra menzionato nel piano (*"Finite il porto — poi venite da me"*) è stato consegnato al party? Se no, lo facciamo emergere in S6?
+- ~~**Edran Voss / Vosk**~~ ✅ Risolto — Davil ha recuperato il talismano dal cadavere di Edran e lo ha consegnato a Krauser durante il rapporto. Il filo Vosk è aperto via Davil, non via drow.
+- ~~**Ricompense missioni M1**~~ ✅ Risolto — **+2 Renown** per fazione (Arpisti / Force Grey / Zhentarim) + denaro e ricompense materiali da assegnare.
+- ~~**Talismano Asmodeo**~~ ✅ Chiarito — è il sigillo specifico della setta Cassalanter, sconosciuto a tutte le fonti pubbliche. Solo Aldric (Asmodeo travestito) può dare indizi indiretti come "ex avventuriero".
+- ~~**Talismano di Edran Voss in possesso di Krauser**~~ ✅ Chiarito — simbolo sacro di Tyr; sul retro l'incisione elfica *"Veglia anche nell'ombra"* (Tyr che vede senza occhi + memoria della Shadowfell), riconoscibile a colpo d'occhio da Krauser.
 
 ---
 
