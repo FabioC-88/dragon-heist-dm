@@ -19,10 +19,10 @@ description: |
 when_to_use: |
   - Step 1 e Step 2 del workflow /aggiorna-sessione
   - Input: testo grezzo del recap (da prompt o da file) + numero sessione N appena giocata
-  - Output Fase A: campagna/sessioni/recaps/recap-sessione-N.md (strutturato)
+  - Output Fase A: ai/knowledge/recaps/recap-sessione-N.md (strutturato)
   - Output Fase B: campagna/sessioni/dm-notes-sessione-N.md (annotato con delta)
 
-recap_file_location: campagna/sessioni/recaps/
+recap_file_location: ai/knowledge/recaps/
 recap_file_naming: recap-sessione-NN.md  (NN = numero sessione appena giocata)
 ---
 
@@ -42,7 +42,7 @@ Il DM fornisce un testo del recap in forma completamente libera: potrebbe essere
 
 ### Cosa fai
 
-1. **Controlla se esiste già** `campagna/sessioni/recaps/recap-sessione-[N].md`.
+1. **Controlla se esiste già** `ai/knowledge/recaps/recap-sessione-[N].md`.
    - Se esiste e contiene già la struttura standard → usalo direttamente come input per Fase B (salta la riformattazione).
    - Se esiste ma è in forma libera → riformattalo e sovrascrivi il file.
    - Se non esiste → crea il file dalla struttura del testo fornito nel prompt.
@@ -91,7 +91,7 @@ Distingui: thread pianificati che rimangono aperti vs. thread nuovi emersi impro
 Se non ci sono note libere, ometti questa sezione.]
 ```
 
-3. **Salva il file** in `campagna/sessioni/recaps/recap-sessione-[N].md`.
+3. **Salva il file** in `ai/knowledge/recaps/recap-sessione-[N].md`.
 
 4. **Conferma** con un messaggio breve: `✅ recap-sessione-[N].md strutturato e salvato.`
 
@@ -102,7 +102,7 @@ Se non ci sono note libere, ometti questa sezione.]
 ### File da Leggere
 
 ```
-campagna/sessioni/recaps/recap-sessione-N.md         ← Output Fase A (fonte della realtà)
+ai/knowledge/recaps/recap-sessione-N.md         ← Output Fase A (fonte della realtà)
 campagna/sessioni/dm-notes-sessione-N.md              ← Piano originale da annotare
 campagna/sessioni/dm-notes-sessione-[N-1].md          ← Contesto storico (solo lettura)
 ```

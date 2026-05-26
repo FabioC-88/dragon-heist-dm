@@ -111,7 +111,7 @@ Apri il compendio "Luoghi Visitati" in Foundry e verifica i dati:
 
 **JournalEntry _id** (raggruppamento locations):
 ```
-9bd14f4f1a5f9a82
+b88a685e1c620569
 ```
 
 **Page _id** (singolo luogo):
@@ -129,7 +129,7 @@ Torna al dialogo del pin:
 
 1. Nel campo **Entry Name**, incolla (o scrivi):
    ```
-   @UUID[JournalEntry.9bd14f4f1a5f9a82.97f66a0732aa837d]{Il Portale Spalancato}
+   @UUID[JournalEntry.b88a685e1c620569.97f66a0732aa837d]{Il Portale Spalancato}
    ```
 
 2. Clicca **Create Note**
@@ -155,24 +155,24 @@ Per ogni luogo, devi trovare il suo `page_id`. Accedi a:
 
 1. Foundry VTT → apri il compendio "Luoghi Visitati"
 2. Apri la pagina del luogo
-3. Nella barra indirizzi del browser, vedi un ID come: `https://...#/journal/9bd14f4f1a5f9a82/97f66a0732aa837d`
+3. Nella barra indirizzi del browser, vedi un ID come: `https://...#/journal/b88a685e1c620569/97f66a0732aa837d`
 4. L'ultimo valore è il `page_id` (es: `97f66a0732aa837d`)
 
 ### Template di Pin (formula generica)
 
 ```
-@UUID[JournalEntry.9bd14f4f1a5f9a82.PAGE_ID_DEL_LUOGO]{Nome Luogo}
+@UUID[JournalEntry.b88a685e1c620569.PAGE_ID_DEL_LUOGO]{Nome Luogo}
 ```
 
 Dove:
-- `9bd14f4f1a5f9a82` = JournalEntry "Luoghi Visitati" (sempre questo)
+- `b88a685e1c620569` = JournalEntry "Luoghi Visitati" (sempre questo)
 - `PAGE_ID_DEL_LUOGO` = Sostituisci con l'ID effettivo della pagina del luogo
 
 ### Esempi
 
 **S1 — Luogo aggiunto (page_id conosciuto)**:
 ```
-@UUID[JournalEntry.9bd14f4f1a5f9a82.97f66a0732aa837d]{Il Portale Spalancato}
+@UUID[JournalEntry.b88a685e1c620569.97f66a0732aa837d]{Il Portale Spalancato}
 ```
 
 **S2+ — Luogo futuro (page_id da scoprire)**:
@@ -228,7 +228,7 @@ hai un punto di partenza veloce.
 ### Q: Il pin non apre il compendio
 
 **A**: 
-- Verifica che il `_id` sia esatto (copia da src/campagna/locations.json)
+- Verifica che il `_id` sia esatto (copia da src/luoghi-visitati/*.json)
 - Assicurati che il compendio "Luoghi Visitati" sia attivo nel mondo
 - Ricarica il mondo (F5)
 

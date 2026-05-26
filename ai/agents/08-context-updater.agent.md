@@ -29,13 +29,13 @@ La coerenza narrativa dipende interamente da quanto questi file riflettono fedel
 ## File da Leggere
 
 ```
-campagna/sessioni/recaps/recap-sessione-N.md     ← Fonte primaria (realtà giocata)
+ai/knowledge/recaps/recap-sessione-N.md     ← Fonte primaria (realtà giocata)
 campagna/sessioni/dm-notes-sessione-N.md         ← Fonte secondaria (note DM finalizzate)
-campagna/party.md                                ← Da aggiornare
-campagna/png-incontrati.md                       ← Da aggiornare
-campagna/fazioni.md                              ← Da aggiornare (se necessario)
-campagna/missioni-secondarie.md                  ← Da aggiornare
-campagna/rapporti.md                             ← Da aggiornare
+ai/knowledge/party.md                                ← Da aggiornare
+ai/knowledge/png-incontrati.md                       ← Da aggiornare
+ai/knowledge/fazioni.md                              ← Da aggiornare (se necessario)
+ai/knowledge/stato-missioni.md                  ← Da aggiornare
+ai/knowledge/rapporti.md                             ← Da aggiornare
 ```
 
 ---
@@ -53,7 +53,7 @@ campagna/rapporti.md                             ← Da aggiornare
 
 ---
 
-### Step 2 — Aggiorna `campagna/party.md`
+### Step 2 — Aggiorna `ai/knowledge/party.md`
 
 Aggiorna solo i campi esplicitamente menzionati nel recap:
 
@@ -72,7 +72,7 @@ Aggiorna solo i campi esplicitamente menzionati nel recap:
 
 ---
 
-### Step 3 — Aggiorna `campagna/png-incontrati.md`
+### Step 3 — Aggiorna `ai/knowledge/png-incontrati.md`
 
 Per ogni PNG menzionato nella sezione "PNG Incontrati / Atteggiamenti Finali" del recap:
 
@@ -93,7 +93,7 @@ Per ogni PNG menzionato nella sezione "PNG Incontrati / Atteggiamenti Finali" de
 
 ---
 
-### Step 4 — Aggiorna `campagna/missioni-secondarie.md`
+### Step 4 — Aggiorna `ai/knowledge/stato-missioni.md`
 
 Per ogni missione menzionata nella sezione "Missioni" del recap:
 
@@ -113,7 +113,7 @@ Per ogni missione menzionata nella sezione "Missioni" del recap:
 
 ---
 
-### Step 5 — Aggiorna `campagna/rapporti.md`
+### Step 5 — Aggiorna `ai/knowledge/rapporti.md`
 
 Se il recap o il dm-notes menziona variazioni esplicite nei rapporti tra party e fazioni/PNG:
 
@@ -124,7 +124,7 @@ Se il recap o il dm-notes menziona variazioni esplicite nei rapporti tra party e
 
 ---
 
-### Step 6 — Aggiorna `campagna/fazioni.md` (solo se necessario)
+### Step 6 — Aggiorna `ai/knowledge/fazioni.md` (solo se necessario)
 
 Modifica `fazioni.md` SOLO se il recap riporta cambiamenti strutturali espliciti alla fazione:
 - Cambio di referente/contatto per il party

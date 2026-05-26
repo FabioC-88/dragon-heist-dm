@@ -15,59 +15,49 @@
   ],
   "packs": [
     {
-      "name": "missioni-arpisti",
-      "label": "Missioni — Arpisti",
-      "path": "./packs/missioni-arpisti",
-      "type": "JournalEntry",
-      "ownership": {
-        "PLAYER": "NONE",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "missioni-forcegrey",
-      "label": "Missioni — Force Grey",
-      "path": "./packs/missioni-forcegrey",
-      "type": "JournalEntry",
-      "ownership": {
-        "PLAYER": "NONE",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "missioni-zentharim",
-      "label": "Missioni — Zentharim",
-      "path": "./packs/missioni-zentharim",
-      "type": "JournalEntry",
-      "ownership": {
-        "PLAYER": "NONE",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "pg-backgrounds",
-      "label": "Background PG",
-      "path": "./packs/pg-backgrounds",
-      "type": "JournalEntry",
-      "ownership": {
-        "PLAYER": "NONE",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "campagna",
-      "label": "Note Campagna",
-      "path": "./packs/campagna",
-      "type": "JournalEntry",
-      "ownership": {
-        "PLAYER": "NONE",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
       "name": "campagna-completa",
       "label": "Dragon Heist — Sorgente Completa",
       "path": "./packs/campagna-completa",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "sessioni",
+      "label": "Sessioni",
+      "path": "./packs/sessioni",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "missioni-secondarie",
+      "label": "Missioni Secondarie",
+      "path": "./packs/missioni-secondarie",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "pg-background",
+      "label": "Background PG",
+      "path": "./packs/pg-background",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "luoghi-visitati",
+      "label": "Luoghi Visitati",
+      "path": "./packs/luoghi-visitati",
       "type": "JournalEntry",
       "ownership": {
         "PLAYER": "NONE",
@@ -80,29 +70,11 @@
       "name": "Dragon Heist DM",
       "sorting": "m",
       "packs": [
-        "campagna",
         "campagna-completa",
-        "pg-backgrounds"
-      ],
-      "folders": [
-        {
-          "name": "Missioni",
-          "sorting": "m",
-          "packs": [
-            "missioni-arpisti",
-            "missioni-forcegrey",
-            "missioni-zentharim"
-          ]
-        },
-        {
-          "name": "Missioni Secondarie",
-          "sorting": "m",
-          "packs": [
-            "missioni-arpisti",
-            "missioni-forcegrey",
-            "missioni-zentharim"
-          ]
-        }
+        "sessioni",
+        "missioni-secondarie",
+        "pg-background",
+        "luoghi-visitati"
       ]
     }
   ],

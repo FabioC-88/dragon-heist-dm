@@ -14,12 +14,12 @@ when_to_use: |
   - Input richiesto: fonti grezze già presenti nelle sottocartelle di fonti/
 
 output_files:
-  - campagna/contesto.md
-  - campagna/party.md
-  - campagna/fazioni.md        (include folder_path e fonti_path per ogni fazione)
-  - campagna/missioni-secondarie.md
-  - campagna/png-incontrati.md
-  - campagna/rapporti.md
+  - ai/knowledge/contesto.md
+  - ai/knowledge/party.md
+  - ai/knowledge/fazioni.md        (include folder_path e fonti_path per ogni fazione)
+  - ai/knowledge/stato-missioni.md
+  - ai/knowledge/png-incontrati.md
+  - ai/knowledge/rapporti.md
   - missioni/{fazione}/M#-NomeMissione.md   (uno per ogni missione di ogni fazione)
   - personaggi/NomePG.md                    (uno per ogni PG)
 ---
@@ -63,9 +63,9 @@ Fai queste domande al DM. Puoi farle tutte insieme in un unico messaggio:
 
 ---
 
-### Step 3 — Genera campagna/contesto.md
+### Step 3 — Genera ai/knowledge/contesto.md
 
-Sulla base della risposta del DM e del libro in `fonti/campagna/`, genera `campagna/contesto.md` con:
+Sulla base della risposta del DM e del libro in `fonti/campagna/`, genera `ai/knowledge/contesto.md` con:
 
 ```markdown
 # Contesto Campagna — [Titolo]
@@ -108,7 +108,7 @@ Sulla base della risposta del DM e del libro in `fonti/campagna/`, genera `campa
 
 ---
 
-### Step 4 — Genera campagna/party.md
+### Step 4 — Genera ai/knowledge/party.md
 
 Struttura:
 
@@ -133,7 +133,7 @@ Struttura:
 
 ---
 
-### Step 5 — Genera campagna/fazioni.md
+### Step 5 — Genera ai/knowledge/fazioni.md
 
 Per ogni fazione identificata in Step 2, genera una sezione con la struttura esistente nel file.
 **IMPORTANTE:** aggiungi sempre i campi `folder_path` e `fonti_path`:
@@ -147,7 +147,7 @@ Il `folder_path` usa il nome della fazione in minuscolo senza spazi o caratteri 
 
 ---
 
-### Step 6 — Genera campagna/missioni-secondarie.md
+### Step 6 — Genera ai/knowledge/stato-missioni.md
 
 Per ogni missione in `fonti/missioni/`, estrai titolo e numero dal nome file e crea la riga di tracciamento:
 
@@ -167,7 +167,7 @@ Per ogni missione in `fonti/missioni/`, estrai titolo e numero dal nome file e c
 
 ---
 
-### Step 7 — Genera campagna/png-incontrati.md
+### Step 7 — Genera ai/knowledge/png-incontrati.md
 
 Crea il file vuoto con intestazione e istruzioni per il DM:
 
@@ -187,7 +187,7 @@ Crea il file vuoto con intestazione e istruzioni per il DM:
 
 ---
 
-### Step 8 — Genera campagna/rapporti.md
+### Step 8 — Genera ai/knowledge/rapporti.md
 
 Crea il file vuoto con header:
 
@@ -195,7 +195,7 @@ Crea il file vuoto con header:
 # Rapporti PG-PNG — [Titolo Campagna]
 
 > Note qualitative sulle relazioni tra PG e PNG. Aggiorna dopo eventi significativi.
-> Per i valori numerici, usa campagna/png-incontrati.md.
+> Per i valori numerici, usa ai/knowledge/png-incontrati.md.
 
 [Nessun rapporto registrato — campagna non iniziata]
 ```
@@ -285,12 +285,12 @@ Dopo aver generato tutti i file, stampa un riepilogo:
 
 ```
 ✅ File generati:
-- campagna/contesto.md
-- campagna/party.md
-- campagna/fazioni.md      (con folder_path e fonti_path per N fazioni)
-- campagna/missioni-secondarie.md
-- campagna/png-incontrati.md
-- campagna/rapporti.md
+- ai/knowledge/contesto.md
+- ai/knowledge/party.md
+- ai/knowledge/fazioni.md      (con folder_path e fonti_path per N fazioni)
+- ai/knowledge/stato-missioni.md
+- ai/knowledge/png-incontrati.md
+- ai/knowledge/rapporti.md
 - missioni/{fazione}/M#-*.md   (N file totali)
 - personaggi/NomePG.md         (N file totali)
 

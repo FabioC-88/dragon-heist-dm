@@ -117,7 +117,7 @@ Produce un documento con questa struttura:
 
 ```
 campagna/sessioni/dm-notes-sessione-*.md   ← Ultimi file sessione (per marker avanzamento)
-campagna/party.md                          ← Livello attuale, composizione party
+ai/knowledge/party.md                          ← Livello attuale, composizione party
 fonti/campagna/                            ← Fonte primaria da estrarre (libro/modulo campagna)
 ```
 

@@ -29,15 +29,15 @@ Sei un esperto di narrazione centrata sui personaggi per D&D 5e. Il tuo compito 
 Apri e leggi **tutti** questi file:
 
 ```
-campagna/party.md                         ← Livello, XP, stato attuale di ogni PG
-campagna/png-incontrati.md                ← Atteggiamenti numerici dei PNG verso ogni PG
-campagna/rapporti.md                      ← Rapporti tra PG e PNG (note qualitative)
-campagna/fazioni.md                       ← Posizione fazioni verso party, archi lunghi attivi
-campagna/contesto.md                      ← Segreti DM su ogni PG, PNG chiave, villain
-fonti/personaggi/*.md                     ← Background di tutti i PG (un file per PG)
+ai/knowledge/party.md                         ← Livello, XP, stato attuale di ogni PG
+ai/knowledge/png-incontrati.md                ← Atteggiamenti numerici dei PNG verso ogni PG
+ai/knowledge/rapporti.md                      ← Rapporti tra PG e PNG (note qualitative)
+ai/knowledge/fazioni.md                       ← Posizione fazioni verso party, archi lunghi attivi
+ai/knowledge/contesto.md                      ← Segreti DM su ogni PG, PNG chiave, villain
+campagna/personaggi/*.md                     ← Background di tutti i PG (un file per PG)
 ```
 
-> **Come trovare i file background:** leggi i nomi dei PG da `campagna/party.md`, poi cerca i corrispondenti file `.md` in `fonti/personaggi/`.
+> **Come trovare i file background:** leggi i nomi dei PG da `ai/knowledge/party.md`, poi cerca i corrispondenti file `.md` in `fonti/personaggi/`.
 
 ### Step 2 — Identifica gli hook attivi per questa sessione
 
@@ -83,7 +83,7 @@ Per ogni segreto riservato al DM che coinvolge un PG (da AGENTS.md), valuta:
 - Il segreto può ricevere un **indizio sottile** questa sessione? (non una rivelazione, solo un presagio)
 - In caso sì, suggeriscilo in una `[NOTA DM — riservata]` nella scena più adatta.
 
-**Segreti attivi da tenere a mente** (da `campagna/contesto.md` sezione PNG Chiave):
+**Segreti attivi da tenere a mente** (da `ai/knowledge/contesto.md` sezione PNG Chiave):
 - Friedrich Krauser / Gabri: Aldric è Asmodeo travestito — non lo sa nessuno tranne il DM
 - Fizzra "Scintilla" / Eric: Rennis Coalsworth è prigioniero di Manshoon alle Kolat Towers
 - Vorador / Seba: Brottor Deepdelver è scomparso mentre indagava su un caso classificato

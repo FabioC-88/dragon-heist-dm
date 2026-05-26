@@ -4,7 +4,7 @@ description: >
   Orchestratore della pipeline completa di preparazione sessione per la campagna D&D Dragon Heist.
   Usa questa skill ogni volta che il DM vuole preparare una nuova sessione di gioco, anche se
   scrive semplicemente "/prep-sessione" o "prepara la sessione" o "prossima sessione". Esegue
-  in sequenza gli agenti 1→2→3→4→2→6 e opzionalmente 5b (briefing PNG a cambio capitolo).
+  in sequenza gli agenti 1→2→3→4→2→6 e opzionalmente 5 (pg-png-updater a cambio capitolo).
   Produce il file dm-notes-sessione-NN.md pronto per il tavolo.
 ---
 
@@ -40,15 +40,15 @@ Tutte le informazioni dell'originale devono essere presenti — nessun dettaglio
 Leggi ed esegui le istruzioni di `ai/agents/03-session-pc-integrator.agent.md`.
 
 Input: draft IT da Step 2
-File da leggere: `campagna/party.md`, `campagna/png-incontrati.md`, `campagna/rapporti.md`,
-`campagna/fazioni.md`, `campagna/contesto.md`, `fonti/personaggi/*.md`
+File da leggere: `ai/knowledge/party.md`, `ai/knowledge/png-incontrati.md`, `ai/knowledge/rapporti.md`,
+`ai/knowledge/fazioni.md`, `ai/knowledge/contesto.md`, `fonti/personaggi/*.md`
 Output: draft con hook PG, scene spotlight opzionali, note DM riservate, atteggiamenti PNG aggiornati.
 
 ### Step 4 — Integrazione missioni fazioni
 Leggi ed esegui le istruzioni di `ai/agents/04-session-missions-integrator.agent.md`.
 
 Input: draft da Step 3
-File da leggere: `campagna/missioni-secondarie.md`, `campagna/fazioni.md` (per `folder_path` e `fonti_path`),
+File da leggere: `ai/knowledge/stato-missioni.md`, `ai/knowledge/fazioni.md` (per `folder_path` e `fonti_path`),
 file missioni nelle cartelle indicate da `fazioni.md`.
 Output: draft con max 2-3 hook missione inseriti nei momenti di respiro narrativo. Tabella thread narrativi.
 
@@ -65,14 +65,14 @@ Input: draft quasi-finale da Step 5 + ultimo `dm-notes-sessione-XX.md` giocato
 Applica direttamente le correzioni (non solo segnalarle). Genera Revision Log.
 Output: `dm-notes-sessione-NN.md` finalizzato con sezione `🔍 REVISION LOG — Agente 6`.
 
-### Step 6.5 — Briefing PNG (condizionale)
-Leggi `campagna/contesto.md` e controlla il campo `Capitolo corrente`.
+### Step 6.5 — Aggiornamento PNG nei file PG (condizionale)
+Leggi `ai/knowledge/contesto.md` e controlla il campo `Capitolo corrente`.
 Controlla il capitolo della sessione appena preparata.
 
 **Solo se il capitolo della sessione > Capitolo corrente:** esegui le istruzioni di
-`ai/agents/05-chapter-png-briefer.agent.md`.
-Output: `campagna/png-per-capitolo/capitolo-NN/[NomePG].md` per ogni PG che conosce almeno un PNG.
-Aggiorna `campagna/contesto.md` con il nuovo capitolo corrente.
+`ai/agents/05-pg-png-updater.agent.md`.
+Output: sezione "PNG Conosciuti e Incontrati" aggiornata in ogni `campagna/personaggi/PG.md`.
+Aggiorna `ai/knowledge/contesto.md` con il nuovo capitolo corrente.
 
 Se il capitolo non è cambiato: stampa `⏭ Step 6.5 saltato (nessuna transizione di capitolo)`.
 
@@ -87,7 +87,7 @@ Al termine di tutta la pipeline, stampa:
 
 File prodotti:
 - campagna/sessioni/dm-notes-sessione-NN.md
-[- campagna/png-per-capitolo/capitolo-NN/*.md  ← solo se Step 6.5 attivo]
+[- campagna/personaggi/*.md  ← sezione PNG aggiornata, solo se Step 6.5 attivo]
 
 Prossimi step manuali:
 1. Leggi e approva dm-notes-sessione-NN.md

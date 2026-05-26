@@ -189,11 +189,11 @@ Dove `NN` è il numero totale di file .md in `campagna/luoghi-visitati/`.
 
 ### Step 7 — Verifica JSON compilato
 
-Il build genera file JSON in `src/campagna/`. Verifica che il JournalEntry "Luoghi Visitati" contenga tutte le pagine:
+Il build genera file JSON in `src/luoghi-visitati/`. Verifica che il JournalEntry "Luoghi Visitati" contenga tutte le pagine:
 
 ```bash
 # Visualizza il numero di pagine generate
-Get-Content src/campagna/9bd14f4f1a5f9a82.json | Select-String '"name"' | Measure-Object
+Get-Content src/luoghi-visitati/9bd14f4f1a5f9a82.json | Select-String '"name"' | Measure-Object
 ```
 
 ### Step 8 — Prepara per commit
@@ -201,7 +201,7 @@ Get-Content src/campagna/9bd14f4f1a5f9a82.json | Select-String '"name"' | Measur
 Il compendio è aggiornato e compilato. I file sono pronti per il commit:
 
 ```bash
-git add campagna/luoghi-visitati/ packs/campagna/
+git add campagna/luoghi-visitati/ packs/luoghi-visitati/
 git commit -m "Sessione NN: Aggiornamento compendio Luoghi Visitati
 
 - Aggiunto/Aggiornato: [lista brevissima dei luoghi modificati]
