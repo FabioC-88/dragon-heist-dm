@@ -476,11 +476,11 @@ Filo nuovo aperto in S5. Risposta di Mirt in FASE 0 (uccellino origami). Decisio
 
 ## POST-SESSION CHECKLIST
 
-- [ ] Aggiornare `campagna/party.md` — livello (Lv 3), nuovi PNG, attitudini post-S6
-- [ ] Aggiornare `campagna/png-incontrati.md` — Emmek Frewn, Shard Shunners, Hammond, Justyn, Ulkoria
-- [ ] Aggiornare `campagna/rapporti.md` — attitudini post-S6
-- [ ] Aggiornare `campagna/missioni-secondarie.md` — eventuali nuove missioni avviate (es. "Indagine Emmek")
-- [ ] Aggiornare `campagna/contesto.md` — `Capitolo corrente: 2` (era stale a "1"); a fine S6 può diventare "3" se Cap. 2 chiude
+- [ ] Aggiornare `ai/knowledge/party.md` — livello (Lv 3), nuovi PNG, attitudini post-S6
+- [ ] Aggiornare `ai/knowledge/png-incontrati.md` — Emmek Frewn, Shard Shunners, Hammond, Justyn, Ulkoria
+- [ ] Aggiornare `ai/knowledge/rapporti.md` — attitudini post-S6
+- [ ] Aggiornare `ai/knowledge/stato-missioni.md` — eventuali nuove missioni avviate (es. "Indagine Emmek")
+- [ ] Aggiornare `ai/knowledge/contesto.md` — `Capitolo corrente: 2` (era stale a "1"); a fine S6 può diventare "3" se Cap. 2 chiude
 - [ ] Creare `campagna/sessioni/recaps/recap-sessione-06.md` dopo la sessione reale
 - [ ] Creare `campagna/sessioni/dm-notes-sessione-07.md` (Cap. 3 — Fireball: esplosione, scena del crimine, Renaer)
 - [ ] Commit su git

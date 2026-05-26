@@ -33,9 +33,9 @@ Apri e leggi:
 ```
 campagna/sessioni/dm-notes-sessione-XX.md    ← Ultima sessione giocata (per coerenza narrativa)
 campagna/sessioni/dm-notes-sessione-01.md    ← Template strutturale di riferimento
-campagna/party.md                            ← Livello, XP, stato PG
-campagna/png-incontrati.md                   ← Atteggiamenti PNG aggiornati
-campagna/fazioni.md                          ← Stato fazioni
+ai/knowledge/party.md                            ← Livello, XP, stato PG
+ai/knowledge/png-incontrati.md                   ← Atteggiamenti PNG aggiornati
+ai/knowledge/fazioni.md                          ← Stato fazioni
 fonti/campagna/                              ← Per verifica fedeltà testi boxed (fonte principale)
 ```
 
@@ -114,12 +114,12 @@ Per ogni stat block presente:
 
 La checklist deve includere tutti i file che **dovranno essere aggiornati** dopo questa sessione:
 
-- [ ] `campagna/party.md` (level up? nuovi XP? cambi di stato?)
-- [ ] `campagna/png-incontrati.md` (nuovi PNG incontrati? atteggiamenti cambiati?)
-- [ ] `campagna/fazioni.md` (nuovi rapporti? missioni che cambiano stato?)
-- [ ] `campagna/missioni-secondarie.md` (missioni avviate, completate, o modificate?)
-- [ ] `campagna/rapporti.md` (nuovi rapporti tra PG e PNG?)
-- [ ] `campagna/sessioni/recaps/recap-sessione-NN.md` da compilare **dopo** la sessione (usa il template in `00-recap-updater.agent.md`)
+- [ ] `ai/knowledge/party.md` (level up? nuovi XP? cambi di stato?)
+- [ ] `ai/knowledge/png-incontrati.md` (nuovi PNG incontrati? atteggiamenti cambiati?)
+- [ ] `ai/knowledge/fazioni.md` (nuovi rapporti? missioni che cambiano stato?)
+- [ ] `ai/knowledge/stato-missioni.md` (missioni avviate, completate, o modificate?)
+- [ ] `ai/knowledge/rapporti.md` (nuovi rapporti tra PG e PNG?)
+- [ ] `ai/knowledge/recaps/recap-sessione-NN.md` da compilare **dopo** la sessione (usa il template in `00-recap-updater.agent.md`)
 - [ ] Eventuale `campagna/sessioni/dm-notes-sessione-NN+1.md` da creare prima della prossima sessione
 
 ---

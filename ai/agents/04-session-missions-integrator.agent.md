@@ -30,23 +30,23 @@ Non inventi mai contenuti: tutto ciò che aggiungi deve provenire dai file di mi
 Apri e leggi:
 
 ```
-campagna/missioni-secondarie.md     ← Stato di tutte le missioni (Pianificata / In corso / Completata)
-campagna/party.md                   ← Livello attuale del party
-campagna/fazioni.md                 ← Tabella fazioni con folder_path e fonti_path per ogni fazione
-campagna/contesto.md                ← Tabella decisionale missioni per livello, PNG referenti fazione
+ai/knowledge/stato-missioni.md     ← Stato di tutte le missioni (Pianificata / In corso / Completata)
+ai/knowledge/party.md                   ← Livello attuale del party
+ai/knowledge/fazioni.md                 ← Tabella fazioni con folder_path e fonti_path per ogni fazione
+ai/knowledge/contesto.md                ← Tabella decisionale missioni per livello, PNG referenti fazione
 ```
 
 Identifica le missioni nello stato **`In corso`** — queste hanno priorità assoluta.
-Poi considera le missioni **`Pianificata`** che corrispondono al livello attuale del party (vedi tabella in `campagna/contesto.md`).
+Poi considera le missioni **`Pianificata`** che corrispondono al livello attuale del party (vedi tabella in `ai/knowledge/contesto.md`).
 
 ### Step 2 — Leggi il materiale delle missioni rilevanti
 
 Per ogni missione identificata in Step 1, leggi:
 
 1. Il file `.md` nella cartella della fazione — struttura meccanica, obiettivi, CD, ricompense.
-   *Path: leggi il campo `folder_path` da `campagna/fazioni.md` per questa fazione.*
+   *Path: leggi il campo `folder_path` da `ai/knowledge/fazioni.md` per questa fazione.*
 2. Il file `.txt` nella cartella fonti missioni — narrativa estesa, dialoghi, scene.
-   *Path: leggi il campo `fonti_path` da `campagna/fazioni.md` per questa fazione.*
+   *Path: leggi il campo `fonti_path` da `ai/knowledge/fazioni.md` per questa fazione.*
 
 Estrai da ciascuno:
 - **Hook di ingaggio:** come la fazione contatta il party? Chi li avvicina? Dove?
@@ -77,7 +77,7 @@ Per ogni hook/missione da integrare, aggiungi nel punto corretto del draft:
 
 **[NOTA DM — riservata]** Obiettivo reale della missione: [info riservate]. Ricompensa: [XP/oro/favori].
 **Dipendenze:** [missioni prerequisito se presenti]
-**File di riferimento:** *(path da campagna/fazioni.md)*
+**File di riferimento:** *(path da ai/knowledge/fazioni.md)*
 ```
 
 ### Step 5 — Sezione Thread Narrativi
@@ -95,17 +95,17 @@ Alla fine del draft, aggiorna o crea la sezione **🧩 THREAD NARRATIVI SETUP [S
 1. **Missioni `In corso`** → integra sempre, trovano spazio nella sessione.
 2. **Missioni `Pianificate` per livello attuale** → integra se c'è un punto naturale; altrimenti segnala per la sessione successiva.
 3. **Non sovraccaricare:** massimo **2-3 hook per sessione**. Se ci sono più missioni disponibili, scegli quelle più coerenti con la narrativa della sessione e rimanda le altre.
-4. **Coerenza fazione-PG:** per sapere quale PG appartiene a quale fazione, leggi `campagna/contesto.md` (sezione fazioni) o `campagna/party.md`.
+4. **Coerenza fazione-PG:** per sapere quale PG appartiene a quale fazione, leggi `ai/knowledge/contesto.md` (sezione fazioni) o `ai/knowledge/party.md`.
 
 ---
 
 ## File da Leggere
 
 ```
-campagna/missioni-secondarie.md             ← Stato missioni
-campagna/party.md                           ← Livello attuale
-campagna/fazioni.md                         ← folder_path e fonti_path per ogni fazione
-campagna/contesto.md                        ← Tabella decisionale e PNG referenti
+ai/knowledge/stato-missioni.md             ← Stato missioni
+ai/knowledge/party.md                           ← Livello attuale
+ai/knowledge/fazioni.md                         ← folder_path e fonti_path per ogni fazione
+ai/knowledge/contesto.md                        ← Tabella decisionale e PNG referenti
 missioni/{fazione}/M#-*.md                  ← Struttura meccanica (path da fazioni.md)
 fonti/missioni/{Fazione}_Missione#_*.txt    ← Narrativa estesa (path da fazioni.md)
 ```

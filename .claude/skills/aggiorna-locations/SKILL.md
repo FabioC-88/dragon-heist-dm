@@ -115,7 +115,7 @@ segnala l'errore al DM senza procedere al commit.
 Conta le pagine generate per confermare che il build sia completo:
 
 ```powershell
-Get-Content src/campagna/9bd14f4f1a5f9a82.json | Select-String '"name"' | Measure-Object
+Get-Content src/luoghi-visitati/9bd14f4f1a5f9a82.json | Select-String '"name"' | Measure-Object
 ```
 
 Il conteggio deve corrispondere al numero di file .md in `campagna/luoghi-visitati/`.
@@ -133,7 +133,7 @@ Luoghi processati:
 
 File modificati:
   campagna/luoghi-visitati/  ([N] file)
-  packs/campagna/            (pack recompilato)
+  packs/luoghi-visitati/            (pack recompilato)
 
 Messaggio commit suggerito:
   feat: sessione NN — aggiornamento compendio Luoghi Visitati

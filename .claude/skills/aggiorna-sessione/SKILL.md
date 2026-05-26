@@ -33,7 +33,7 @@ La realtà giocata ha sempre la precedenza sul piano teorico.
 
 3. Verifica il recap. Uno dei seguenti deve essere vero:
    - Il DM ha fornito il testo del recap direttamente nel prompt → usa quello.
-   - Esiste già `campagna/sessioni/recaps/recap-sessione-[N].md` → usalo.
+   - Esiste già `ai/knowledge/recaps/recap-sessione-[N].md` → usalo.
    - Se né l'uno né l'altro: chiedi al DM di fornire il recap (anche in forma libera).
 
 Mostra una conferma dei file identificati prima di procedere:
@@ -58,7 +58,7 @@ Tra uno step e il successivo, mostra: `✅ Step N completato → avvio Step N+1.
 Leggi ed esegui le istruzioni di `ai/agents/00-recap-updater.agent.md`, **solo la Fase A**.
 
 Obiettivo: trasformare il testo grezzo del DM nel formato standard strutturato e salvarlo in
-`campagna/sessioni/recaps/recap-sessione-[N].md`.
+`ai/knowledge/recaps/recap-sessione-[N].md`.
 
 Se il recap era già strutturato nel formato corretto, questo step è veloce: verifica la struttura
 e procedi.
@@ -70,7 +70,7 @@ e procedi.
 Leggi ed esegui le istruzioni di `ai/agents/00-recap-updater.agent.md`, **solo la Fase B**.
 
 File da leggere:
-- `campagna/sessioni/recaps/recap-sessione-[N].md` ← output Step 1
+- `ai/knowledge/recaps/recap-sessione-[N].md` ← output Step 1
 - `campagna/sessioni/dm-notes-sessione-[N].md` ← piano originale da annotare
 
 Obiettivo: annotare dm-notes-sessione-N.md con i marcatori ✅/⏸️/🔀 per ogni fase, aggiungere
@@ -98,11 +98,11 @@ presenti che siano stati invalidati dai delta.
 Leggi ed esegui le istruzioni di `ai/agents/08-context-updater.agent.md`.
 
 File da leggere e aggiornare:
-- `campagna/party.md`
-- `campagna/png-incontrati.md`
-- `campagna/missioni-secondarie.md`
-- `campagna/rapporti.md`
-- `campagna/fazioni.md` (solo se necessario)
+- `ai/knowledge/party.md`
+- `ai/knowledge/png-incontrati.md`
+- `ai/knowledge/stato-missioni.md`
+- `ai/knowledge/rapporti.md`
+- `ai/knowledge/fazioni.md` (solo se necessario)
 
 Obiettivo: aggiornare sistematicamente tutti i file di contorno sulla base del recap strutturato
 (Step 1) e del dm-notes finalizzato (Step 2). Seguire rigorosamente i vincoli dell'Agente 8:
@@ -196,10 +196,10 @@ dagli Agenti 3 e 4.
 Leggi ed esegui `ai/agents/06-session-reviewer.agent.md`.
 Output: dm-notes-sessione-[N+1].md finalizzato con Revision Log.
 
-**Step 6B.7 — (Condizionale) Briefing PNG nuovo capitolo (Agente 5b)**
+**Step 6B.7 — (Condizionale) Aggiornamento PNG nei file PG (Agente 5)**
 
 Se la sessione N+1 appartiene a un capitolo diverso rispetto al capitolo corrente in
-`campagna/contesto.md`, leggi ed esegui `ai/agents/05-chapter-png-briefer.agent.md`.
+`ai/knowledge/contesto.md`, leggi ed esegui `ai/agents/05-pg-png-updater.agent.md`.
 
 ---
 
@@ -208,10 +208,10 @@ Se la sessione N+1 appartiene a un capitolo diverso rispetto al capitolo corrent
 Esegui il commit di tutti i file modificati in questa pipeline:
 
 ```
-git add campagna/sessioni/ campagna/luoghi-visitati/ campagna/party.md \
-        campagna/png-incontrati.md campagna/fazioni.md \
-        campagna/missioni-secondarie.md campagna/rapporti.md \
-        packs/campagna/
+git add campagna/sessioni/ campagna/luoghi-visitati/ ai/knowledge/party.md \
+        ai/knowledge/png-incontrati.md ai/knowledge/fazioni.md \
+        ai/knowledge/stato-missioni.md ai/knowledge/rapporti.md \
+        packs/luoghi-visitati/
 git commit -m "feat: recap e aggiornamento sessione [N] → prep sessione [N+1]"
 git push origin master
 ```

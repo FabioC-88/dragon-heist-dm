@@ -27,7 +27,7 @@ Sei un assistente Dungeon Master esperto per campagne D&D 5e. Rispondi sempre in
 5. Stampa un riepilogo dei file creati e dei TODO rimasti aperti
 
 **Output finale:**
-- `campagna/contesto.md`, `campagna/party.md`, `campagna/fazioni.md`, `campagna/missioni-secondarie.md`, `campagna/png-incontrati.md`, `campagna/rapporti.md`
+- `ai/knowledge/contesto.md`, `ai/knowledge/party.md`, `ai/knowledge/fazioni.md`, `ai/knowledge/stato-missioni.md`, `ai/knowledge/png-incontrati.md`, `ai/knowledge/rapporti.md`
 - `missioni/{fazione}/M#-*.md` (uno per ogni missione)
 - `personaggi/NomePG.md` (uno per ogni PG)
 
@@ -58,9 +58,9 @@ Sei un assistente Dungeon Master esperto per campagne D&D 5e. Rispondi sempre in
 1. Chiedi: "Che cosa è successo nella sessione (breve riassunto)?"
 2. Identifica:
 	- Quale/i missioni sono state giocate (stato: `In corso` → `Completata`)
-	- Quali PNG sono stati incontrati (aggiungi a `campagna/png-incontrati.md`)
-	- Cambio di livello del party (aggiorna `campagna/party.md`)
-	- Relazione fazioni verso party (aggiorna `campagna/fazioni.md`)
+	- Quali PNG sono stati incontrati (aggiungi a `ai/knowledge/png-incontrati.md`)
+	- Cambio di livello del party (aggiorna `ai/knowledge/party.md`)
+	- Relazione fazioni verso party (aggiorna `ai/knowledge/fazioni.md`)
 3. Suggerisci le righe da modificare in ogni file
 4. Chiedi: *"Vuoi fare subito la release su Foundry, o accumulo altre modifiche prima?"* (vedi workflow release in AGENTS.md)
 
@@ -122,10 +122,10 @@ Sei un assistente Dungeon Master esperto per campagne D&D 5e. Rispondi sempre in
 - Input: output Step 5 + ultima sessione giocata `dm-notes-sessione-XX.md`
 - Output: file `dm-notes-sessione-NN.md` finale + lista modifiche applicate
 
-**STEP 6.5 — Agente PNG per Capitolo** (`05-chapter-png-briefer.agent.md`) *(condizionale)*
-- **Si attiva solo se** il capitolo della sessione preparata è diverso (successivo) rispetto al campo `Capitolo corrente` in `campagna/contesto.md`
-- Input: `dm-notes-sessione-NN.md` finalizzato + `campagna/contesto.md` + `personaggi/*.md` + `fonti/campagna/Dragon Heist.md`
-- Output: `campagna/png-per-capitolo/capitolo-NN/[NomePG].md` per ogni PG con PNG noti + `contesto.md` aggiornato
+**STEP 6.5 — Agente PG PNG Updater** (`05-pg-png-updater.agent.md`) *(condizionale)*
+- **Si attiva solo se** il capitolo della sessione preparata è diverso (successivo) rispetto al campo `Capitolo corrente` in `ai/knowledge/contesto.md`
+- Input: `ai/knowledge/png-incontrati.md` aggiornato + `campagna/personaggi/*.md`
+- Output: sezione "PNG Conosciuti e Incontrati" aggiornata in ogni file personaggio + `ai/knowledge/contesto.md` aggiornato
 - Se non c'è transizione di capitolo, l'agente stampa un messaggio e termina senza produrre file
 
 **STEP 7 — Agente Git** (`git-procedures.agent.md`)
@@ -144,7 +144,7 @@ Sei un assistente Dungeon Master esperto per campagne D&D 5e. Rispondi sempre in
 ### `/aggiorna-sessione`
 **Usa quando:** Hai appena giocato una sessione e vuoi aggiornare le note della sessione successiva in base a ciò che è realmente accaduto.
 
-**Prerequisito:** Compilare il file di recap in `campagna/sessioni/recaps/recap-sessione-XX.md` (XX = sessione appena giocata) usando il template nel file `00-recap-updater.agent.md`.
+**Prerequisito:** Compilare il file di recap in `ai/knowledge/recaps/recap-sessione-XX.md` (XX = sessione appena giocata) usando il template nel file `00-recap-updater.agent.md`.
 
 **Pipeline di Aggiornamento Sessione:**
 
@@ -193,7 +193,7 @@ Sei un assistente Dungeon Master esperto per campagne D&D 5e. Rispondi sempre in
 
 ## Context — Mondo Di Campagna
 
-Consulta il file `campagna/contesto.md` per:
+Consulta il file `ai/knowledge/contesto.md` per:
 - Party (giocatori, PG, fazioni)
 - PNG chiave
 - Fazioni (con folder_path e fonti_path per le missioni)
@@ -218,7 +218,7 @@ Consulta i file in `fonti/personaggi/` per background PG dettagliati.
 ## File di Riferimento Rapido
 
 ```
-campagna/contesto.md               ← Party, PNG, villain, fazioni, tabella missioni
+ai/knowledge/contesto.md               ← Party, PNG, villain, fazioni, tabella missioni
 campagna/
   party.md                         ← Livello, exp, PG
   png-incontrati.md                ← Registro PNG incontrati

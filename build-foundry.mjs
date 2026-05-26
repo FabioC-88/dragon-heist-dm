@@ -6,17 +6,20 @@
  * compatibili con Foundry VTT V12+.
  *
  * Flusso:
- *   1. Legge tutti i .md dalle cartelle sorgente
+ *   1. Legge tutti i .md dalle cartelle sorgente per ogni pack
  *   2. Converte Markdown → HTML con marked
  *   3. Genera oggetti JSON in formato JournalEntry (Foundry V10+)
  *   4. Salva i JSON in src/{pack-name}/
  *   5. Chiama `fvtt package pack` per compilare ogni pack in LevelDB (packs/{pack-name}/)
  *
+ * Modalità di build per pack:
+ *   flat     — un JournalEntry separato per ogni file .md
+ *   grouped  — un JournalEntry multi-pagina per ogni gruppo (es. una fazione)
+ *   multipage — un unico JournalEntry multi-pagina con tutti i file
+ *
  * Utilizzo:
  *   npm install
  *   npm run build
- *
- * Dopo il build: ricarica il World in Foundry (F5 o "Return to Setup → Launch").
  */
 
 import { readFileSync, writeFileSync, readdirSync, existsSync, mkdirSync, rmSync } from 'node:fs';
@@ -39,11 +42,11 @@ function makeId(seed) {
 function fileToTitle(filePath) {
   const name = basename(filePath, extname(filePath));
   return name
-    .replace(/([A-Z])/g, ' $1')   // CamelCase → spazi
-    .replace(/[-_]/g, ' ')         // kebab/snake → spazi
+    .replace(/([A-Z])/g, ' $1')
+    .replace(/[-_]/g, ' ')
     .replace(/\s+/g, ' ')
     .trim()
-    .replace(/\b\w/g, c => c.toUpperCase()); // Title Case
+    .replace(/\b\w/g, c => c.toUpperCase());
 }
 
 /** Estrae il numero della missione (M1, M2…) dal nome file; 0 se assente. */
@@ -65,22 +68,18 @@ function parseFrontmatter(mdContent) {
   return { content: mdContent.slice(match[0].length), data };
 }
 
-/** Ordine fisso per i file del pack Campagna. */
-const CAMPAGNA_ORDER = ['party', 'fazioni', 'rapporti', 'png-incontrati', 'missioni-secondarie'];
-function campagnaSortKey(filePath) {
-  const name = basename(filePath, extname(filePath)).toLowerCase();
-  const idx = CAMPAGNA_ORDER.indexOf(name);
-  return idx >= 0 ? idx : 99;
-}
-
-/** Raccoglie tutti i file .md in modo ricorsivo. */
-function collectMdFiles(dir) {
+/**
+ * Raccoglie tutti i file .md in modo ricorsivo.
+ * Se excludeSubdirs è valorizzato, salta le sottocartelle con quel nome.
+ */
+function collectMdFiles(dir, excludeSubdirs = []) {
   if (!existsSync(dir)) return [];
   const results = [];
   for (const entry of readdirSync(dir, { withFileTypes: true })) {
     const fullPath = join(dir, entry.name);
     if (entry.isDirectory()) {
-      results.push(...collectMdFiles(fullPath));
+      if (excludeSubdirs.includes(entry.name)) continue;
+      results.push(...collectMdFiles(fullPath, excludeSubdirs));
     } else if (entry.isFile() && entry.name.endsWith('.md')) {
       results.push(fullPath);
     }
@@ -90,11 +89,7 @@ function collectMdFiles(dir) {
 
 // ── Conversione MD → JournalEntry JSON ────────────────────────────────────
 
-/**
- * Genera un oggetto JournalEntry Foundry V10+ da un file Markdown.
- * Gli ID sono deterministici (basati sul path relativo) per garantire
- * stabilità tra build successive senza ricreate i compendi.
- */
+/** Genera un oggetto JournalEntry Foundry V10+ da un file Markdown (modalità flat). */
 function buildJournalEntry(filePath) {
   const relPath     = relative(ROOT, filePath).replace(/\\/g, '/');
   const journalId   = makeId(relPath);
@@ -208,36 +203,40 @@ function bumpVersion() {
 
 const PACKS = [
   {
-    name: 'missioni-arpisti',
-    label: 'Missioni — Arpisti',
-    dirs: ['Missioni/Arpisti']
-  },
-  {
-    name: 'missioni-forcegrey',
-    label: 'Missioni — Force Grey',
-    dirs: ['Missioni/ForceGrey']
-  },
-  {
-    name: 'missioni-zentharim',
-    label: 'Missioni — Zentharim',
-    dirs: ['Missioni/Zentharim']
-  },
-  {
-    name: 'pg-backgrounds',
-    label: 'Background PG',
-    dirs: ['fonti/personaggi', 'campagna/png-per-capitolo']
-  },
-  {
-    name: 'campagna',
-    label: 'Note Campagna',
-    dirs: ['Campagna'],
-    sessionDir: 'Campagna/sessioni',
-    locationsDir: 'campagna/luoghi-visitati'
-  },
-  {
     name: 'campagna-completa',
     label: 'Dragon Heist — Sorgente Completa',
+    mode: 'flat',
     dirs: ['fonti/campagna']
+  },
+  {
+    name: 'sessioni',
+    label: 'Sessioni',
+    mode: 'flat',
+    dirs: ['campagna/sessioni'],
+    excludeSubdirs: ['recaps']
+  },
+  {
+    name: 'missioni-secondarie',
+    label: 'Missioni Secondarie',
+    mode: 'grouped',
+    groups: [
+      { journalName: 'Arpisti', dir: 'missioni-secondarie/arpisti' },
+      { journalName: 'Force Grey', dir: 'missioni-secondarie/forcegrey' },
+      { journalName: 'Zentharim', dir: 'missioni-secondarie/zentharim' }
+    ]
+  },
+  {
+    name: 'pg-background',
+    label: 'Background PG',
+    mode: 'flat',
+    dirs: ['campagna/personaggi']
+  },
+  {
+    name: 'luoghi-visitati',
+    label: 'Luoghi Visitati',
+    mode: 'multipage',
+    journalTitle: 'Luoghi Visitati',
+    dirs: ['campagna/luoghi-visitati']
   }
 ];
 
@@ -245,13 +244,10 @@ const PACKS = [
 
 console.log('\n🎲 Dragon Heist DM — Build Foundry Packs\n');
 
-// Allow skipping the automatic version bump when environment variable
-// SKIP_BUMP=1 (useful to regenerate assets for an existing release).
 const SKIP_BUMP = process.env.SKIP_BUMP === '1' || process.env.SKIP_BUMP === 'true';
 let newVersion;
 if (SKIP_BUMP) {
-  const moduleJsonPath = join(ROOT, 'module.json');
-  const raw = readFileSync(moduleJsonPath, 'utf-8');
+  const raw = readFileSync(join(ROOT, 'module.json'), 'utf-8');
   const match = raw.match(/"version":\s*"([\d.]+)"/);
   newVersion = match ? match[1] : '0.0.0';
 } else {
@@ -263,83 +259,65 @@ let totalEntries = 0;
 const builtPacks = [];
 
 for (const pack of PACKS) {
-  // Raccoglie tutti i file .md per questo pack
-  let mdFiles = pack.dirs.flatMap(d => collectMdFiles(join(ROOT, d)));
+  console.log(`📦 Pack: ${pack.label}`);
 
-  if (mdFiles.length === 0) {
-    console.log(`⏭  ${pack.name} — nessun file .md, skip\n`);
-    continue;
-  }
-
-  console.log(`📦 Pack: ${pack.label} (${mdFiles.length} file)`);
-
-  // 1. Genera JSON sorgente in src/{pack}/
   const srcDir = join(ROOT, 'src', pack.name);
   mkdirSync(srcDir, { recursive: true });
-
-  // Rimuovi vecchi JSON per evitare residui di file rinominati
   for (const f of readdirSync(srcDir).filter(x => x.endsWith('.json'))) {
     rmSync(join(srcDir, f));
   }
 
-  // Separa i file di sessione dal resto (verranno uniti in un journal multi-pagina)
-  let sessionFiles = [];
-  if (pack.sessionDir) {
-    const sessionDirAbs = join(ROOT, pack.sessionDir);
-    sessionFiles = mdFiles.filter(f => f.startsWith(sessionDirAbs));
-    mdFiles = mdFiles.filter(f => !f.startsWith(sessionDirAbs));
+  const journals = [];
+
+  if (pack.mode === 'flat') {
+    // Un JournalEntry per file
+    let files = pack.dirs.flatMap(d => collectMdFiles(join(ROOT, d), pack.excludeSubdirs || []));
+    files.sort();
+    if (files.length === 0) {
+      console.log(`   ⏭  Nessun file .md, skip\n`);
+      continue;
+    }
+    for (const filePath of files) {
+      journals.push(buildJournalEntry(filePath));
+    }
+
+  } else if (pack.mode === 'grouped') {
+    // Un JournalEntry multi-pagina per gruppo (fazione)
+    for (const group of pack.groups) {
+      const files = collectMdFiles(join(ROOT, group.dir));
+      if (files.length === 0) {
+        console.log(`   ⚠  Gruppo "${group.journalName}": nessun file .md`);
+        continue;
+      }
+      files.sort((a, b) => missionSortKey(a) - missionSortKey(b));
+      const seedId = `grouped:${pack.name}:${group.journalName}`;
+      journals.push(buildMultiPageJournalEntry(group.journalName, seedId, files));
+    }
+
+  } else if (pack.mode === 'multipage') {
+    // Un unico JournalEntry multi-pagina con tutti i file
+    const files = pack.dirs.flatMap(d => collectMdFiles(join(ROOT, d)));
+    files.sort();
+    if (files.length === 0) {
+      console.log(`   ⏭  Nessun file .md, skip\n`);
+      continue;
+    }
+    journals.push(buildMultiPageJournalEntry(pack.journalTitle, `multipage:${pack.name}`, files));
   }
 
-  // Separa i file locations dal resto (verranno uniti in un journal multi-pagina)
-  let locationsFiles = [];
-  if (pack.locationsDir) {
-    const locationsDirAbs = join(ROOT, pack.locationsDir);
-    locationsFiles = mdFiles.filter(f => f.toLowerCase().startsWith(locationsDirAbs.toLowerCase()));
-    mdFiles = mdFiles.filter(f => !f.toLowerCase().startsWith(locationsDirAbs.toLowerCase()));
-  }
-
-  // Ordina: ordine fisso per Campagna, ordine numerico M1/M2/… per le missioni
-  if (pack.name === 'campagna') {
-    mdFiles.sort((a, b) => campagnaSortKey(a) - campagnaSortKey(b));
-  } else {
-    mdFiles.sort((a, b) => missionSortKey(a) - missionSortKey(b));
-  }
-
-  for (const filePath of mdFiles) {
-    const journal  = buildJournalEntry(filePath);
-    const outPath  = join(srcDir, `${journal._id}.json`);
+  // Salva JSON sorgente
+  for (const journal of journals) {
+    const outPath = join(srcDir, `${journal._id}.json`);
     writeFileSync(outPath, JSON.stringify(journal, null, 2), 'utf-8');
-    const relFile  = relative(ROOT, filePath).replace(/\\/g, '/');
-    console.log(`   ✓ ${journal._id}  "${journal.name}"  (${relFile})`);
+    const pageCount = journal.pages.length;
+    const pageInfo = pageCount > 1 ? ` (${pageCount} pagine)` : '';
+    console.log(`   ✓ ${journal._id}  "${journal.name}"${pageInfo}`);
     totalEntries++;
   }
 
-  // Journal multi-pagina per le note di sessione
-  if (sessionFiles.length > 0) {
-    sessionFiles.sort();
-    const sessioni = buildMultiPageJournalEntry('Sessioni', 'campagna:sessioni', sessionFiles);
-    const outPath  = join(srcDir, `${sessioni._id}.json`);
-    writeFileSync(outPath, JSON.stringify(sessioni, null, 2), 'utf-8');
-    console.log(`   ✓ ${sessioni._id}  "${sessioni.name}"  (${sessionFiles.length} pagine)`);
-    totalEntries++;
-  }
-
-  // Journal multi-pagina per i luoghi visitati
-  if (locationsFiles.length > 0) {
-    locationsFiles.sort();
-    const luoghi = buildMultiPageJournalEntry('Luoghi Visitati', 'campagna:luoghi-visitati', locationsFiles);
-    const outPath  = join(srcDir, `${luoghi._id}.json`);
-    writeFileSync(outPath, JSON.stringify(luoghi, null, 2), 'utf-8');
-    console.log(`   ✓ ${luoghi._id}  "${luoghi.name}"  (${locationsFiles.length} pagine)`);
-    totalEntries++;
-  }
-
-  // 2. Compila LevelDB con fvtt-cli
-  // Il CLI crea automaticamente una sottocartella con il nome del compendio
-  // dentro outputDirectory: packs/{pack.name}/
+  // Compila LevelDB
   const packsRootDir = join(ROOT, 'packs');
   mkdirSync(packsRootDir, { recursive: true });
-
   try {
     execSync(
       `npx fvtt package pack` +

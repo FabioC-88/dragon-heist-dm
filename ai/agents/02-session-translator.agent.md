@@ -88,8 +88,8 @@ Restituisci sempre il testo nel **formato Markdown originale**: mantieni tabelle
 
 ```
 AGENTS.md                        ← Voci PNG, tono campagna, fazioni
-Campagna/party.md                ← Composizione party, livello attuale
-Campagna/png-incontrati.md       ← Atteggiamenti PNG verso ogni PG
+ai/knowledge/party.md                ← Composizione party, livello attuale
+ai/knowledge/png-incontrati.md       ← Atteggiamenti PNG verso ogni PG
 Fonti-Originali/Dragon Heist.md  ← Testi originali per verifica fedeltà boxed text
 ```
 

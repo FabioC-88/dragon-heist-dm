@@ -55,7 +55,7 @@ ambiguities_to_clarify:
 examples:
   - Esempio: commit semplice e push su branch corrente
     - `git add .`
-    - `git commit -m "fix: corregge typo in campagna/party.md"`
+    - `git commit -m "fix: corregge typo in ai/knowledge/party.md"`
     - `git push`
 
   - Esempio: workflow di release completo (vedi AGENTS.md)
@@ -119,14 +119,14 @@ Dopo che una sessione è stata **finalizzata dal Session Reviewer (Agente 6)**, 
   2. Estrae tutti i luoghi visitati
   3. Aggiorna locations.json (nuovi + aggiornamenti)
   4. Esegue npm run build
-  5. Output: src/campagna/locations.json + packs/campagna/ recompilato ✅
+  5. Output: src/luoghi-visitati/locations.json + packs/luoghi-visitati/ recompilato ✅
 ```
 
 ### Step 3: Git Commit
 ```
 /commit-location-update NN
 → Agente Git (questo):
-  1. git add campagna/luoghi-visitati.md src/campagna/locations.json
+  1. git add campagna/luoghi-visitati.md src/luoghi-visitati/locations.json
   2. git commit -m "Sessione NN: Aggiornamento compendio Luoghi Visitati"
   3. git push origin master
 ```

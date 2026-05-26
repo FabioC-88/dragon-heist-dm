@@ -53,16 +53,16 @@ Fai **tutte queste domande in un unico messaggio**, poi aspetta le risposte prim
 Dopo le risposte del DM, esegui le istruzioni complete di `ai/agents/00-campaign-setup.agent.md`
 per generare nell'ordine:
 
-1. `campagna/contesto.md` (villain, party, fazioni, PNG chiave, tabella missioni per livello)
-2. `campagna/party.md` (stato PG: livello, XP, HP, gancio attivo)
-3. `campagna/fazioni.md` ← **includi sempre `folder_path` e `fonti_path` per ogni fazione**
-4. `campagna/missioni-secondarie.md` (tabella stato missioni)
-5. `campagna/png-incontrati.md` (template vuoto con header)
-6. `campagna/rapporti.md` (file vuoto con header)
+1. `ai/knowledge/contesto.md` (villain, party, fazioni, PNG chiave, tabella missioni per livello)
+2. `ai/knowledge/party.md` (stato PG: livello, XP, HP, gancio attivo)
+3. `ai/knowledge/fazioni.md` ← **includi sempre `folder_path` e `fonti_path` per ogni fazione**
+4. `ai/knowledge/stato-missioni.md` (tabella stato missioni)
+5. `ai/knowledge/png-incontrati.md` (template vuoto con header)
+6. `ai/knowledge/rapporti.md` (file vuoto con header)
 7. `missioni/{fazione}/M#-NomeMissione.md` per ogni missione in `fonti/missioni/`
 8. `personaggi/NomePG.md` per ogni PG in `fonti/personaggi/`
 
-Per `campagna/fazioni.md`, il `folder_path` usa il nome fazione in minuscolo senza spazi
+Per `ai/knowledge/fazioni.md`, il `folder_path` usa il nome fazione in minuscolo senza spazi
 (es. "Force Grey" → `forcegrey`, "Arpisti" → `arpisti`).
 
 ---
@@ -73,12 +73,12 @@ Stampa al termine:
 
 ```
 ✅ File generati:
-- campagna/contesto.md
-- campagna/party.md
-- campagna/fazioni.md      (con folder_path e fonti_path per N fazioni)
-- campagna/missioni-secondarie.md
-- campagna/png-incontrati.md
-- campagna/rapporti.md
+- ai/knowledge/contesto.md
+- ai/knowledge/party.md
+- ai/knowledge/fazioni.md      (con folder_path e fonti_path per N fazioni)
+- ai/knowledge/stato-missioni.md
+- ai/knowledge/png-incontrati.md
+- ai/knowledge/rapporti.md
 - missioni/{fazione}/M#-*.md   (N file totali)
 - personaggi/NomePG.md         (N file totali)
 
