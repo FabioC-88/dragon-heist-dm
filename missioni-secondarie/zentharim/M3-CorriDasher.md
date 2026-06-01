@@ -17,7 +17,7 @@
 **Protagonisti: Entrambi | Livello: 4**
 
 **Il passato di Dasher:**
-Prima della trasformazione in lupo ratto, Dasher lavorava come **scrivano per il tribunale di Vosk**. Ha copiato — inconsapevolmente — documenti altamente incriminanti che ora porta cuciti nel fodero di un giocattolo d'infanzia. Non sa cosa contengono. Non sa che qualcuno li sta cercando.
+Prima della trasformazione in lupo ratto, Dasher lavorava come **scrivano per il tribunale di Valerius Vosk**. Ha copiato — inconsapevolmente — documenti altamente incriminanti che ora porta cuciti nel fodero di un giocattolo d'infanzia. Non sa cosa contengono. Non sa che qualcuno li sta cercando.
 
 **I documenti — un fascicolo, due sezioni:**
 
@@ -222,7 +222,7 @@ Lascia che siano i PG a rispondere.
 - **Introduce:** Trasformazione in lupo ratto (Dasher) — minaccia soprannaturale nel Southern Ward
 - **Rivela:** Prove scritte sull'imboscata nella Shadowfell (Sezione A) e su Rennis/Manshoon (Sezione B)
 - **Rivela:** Conflitto diretto tra gli obiettivi di Krauser e quelli di Scintilla
-- **Arco PG:** [Arco Krauser & Scintilla](../../fonti/personaggi/Arco_Krauser_Scintilla.md) — Missione 3
+- **Arco PG:** [Arco Krauser & Scintilla](../../campagna/personaggi/Friedrich-Krauser.md) — Missione 3
 - **Fazione:** [Zhentarim](../../Campagna/fazioni.md#zhentarim)
 
 ---

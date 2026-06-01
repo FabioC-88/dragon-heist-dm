@@ -4,10 +4,11 @@
 
 ## Stato generale
 
-- **Livello attuale:** 2
-- **Sistema XP:** Milestone — prossimo level up al completamento Cap. 2
-- **Ultima sessione:** Sessione 5 (Capitolo 2: triplo rapporto M1 — Force Grey, Arpisti, Zhentarim tutte chiuse)
-- **Sede base:** Trollskull Manor, Trollskull Alley — in ristrutturazione (≈1.000 mo necessarie); Aelar ha chiesto aiuto a Mirt per la riapertura
+- **Livello attuale:** 3
+- **Sistema XP:** Milestone — Lv 3 raggiunto alla chiusura del Cap. 2; prossimo level up alla chiusura del Cap. 3
+- **Ultima sessione:** Sessione 6 (Capitolo 2 chiuso — arco Emmek/Trollskull risolto per deviazione — + apertura Cap. 3 Fireball)
+- **Sede base:** Trollskull Manor, Trollskull Alley — **ristrutturazione completata, locanda aperta al pubblico**
+- **Bottino di party recente (S6):** 5 gemme da 100 mo (500 mo totali) sottratte dal cadavere di Dalakhar alla scena della Fireball
 
 ---
 
@@ -21,7 +22,7 @@
 
 | | |
 |--|--|
-| **Livello** | 2 |
+| **Livello** | 3 |
 | **PF attuali** | — |
 | **Condizioni** | — |
 
@@ -50,6 +51,7 @@ Il mentore **Brottor Deepdelver** è scomparso durante un'indagine su un caso cl
 - [S5] Ha consegnato a Vajra le info sul carico Midnight Tears + un documento classificato relativo a Brottor (Force Grey M1 completata); è entrato ufficialmente nelle Force Grey
 - [S5] Ha recuperato un talismano magico da un cadavere di cultista — sospetto rituale di Asmodeus; ricerche in biblioteca della Torre del Bastone Nero senza esito
 - [S5] Ha partecipato alla riunione al Portale Spalancato con Davil Starsong; conosce la faida Manshoon vs Doom Raiders
+- [S6] Chiusura Cap. 2 (arco Emmek/Trollskull) e Level up a Lv 3; ha aperto l'indagine sulla Fireball (Cap. 3) esaminando la scena del crimine con Barnibus Blastwind e Saeth Cromley
 
 ---
 
@@ -61,7 +63,7 @@ Il mentore **Brottor Deepdelver** è scomparso durante un'indagine su un caso cl
 
 | | |
 |--|--|
-| **Livello** | 2 |
+| **Livello** | 3 |
 | **PF attuali** | — |
 | **Condizioni** | — |
 
@@ -85,6 +87,7 @@ Ha ricevuto dal monaco **Hlam** sul Monte Waterdeep una pergamena sigillata con 
 - [S4] Ha partecipato al raid al magazzino ai moli; trovate Lacrime di Mezzanotte — connessione al presagio
 - [S5] Force Grey M1 completata insieme a Vorador e Barney; ingresso ufficiale nelle Force Grey
 - [S5] Ha partecipato al pedinamento e all'intervento contro l'omicidio del mezzelfo; il drow è fuggito
+- [S6] Chiusura Cap. 2 e Level up a Lv 3; ha partecipato all'apertura dell'indagine sulla Fireball (Cap. 3)
 
 ---
 
@@ -96,7 +99,7 @@ Ha ricevuto dal monaco **Hlam** sul Monte Waterdeep una pergamena sigillata con 
 
 | | |
 |--|--|
-| **Livello** | 2 |
+| **Livello** | 3 |
 | **PF attuali** | — |
 | **Condizioni** | — |
 
@@ -128,6 +131,7 @@ Ha ricevuto dal monaco **Hlam** sul Monte Waterdeep una pergamena sigillata con 
 - [S5] **Arpisti M1 completata**: contatto privato con Maxeene col pretesto del ritratto; ottenute informazioni; verifica Zhentarim via Davil; chiusura con Mirt
 - [S5] Ha incontrato Remallia Haventree a Villa Ulbrinter (rapporto intermedio M1); lei ha imposto la verifica Zhentarim prima della chiusura, poi il rapporto finale è andato a Mirt
 - [S5] Ha chiesto a Mirt aiuto per la riapertura di Trollskull Manor — filo nuovo aperto
+- [S6] **Trollskull Manor riaperta** (locanda aperta al pubblico) — filo con Mirt chiuso. Ha lanciato una **campagna di voci** tramite gli Arpisti per bollare Emmek Frewn come alleato dei ratti mannari e come Zhentarim (deviazione, conseguenze attese sulle fazioni — vedi Note DM dm-notes-06). Chiusura Cap. 2 e Level up a Lv 3
 
 ---
 
@@ -140,7 +144,7 @@ Ha ricevuto dal monaco **Hlam** sul Monte Waterdeep una pergamena sigillata con 
 
 | | |
 |--|--|
-| **Livello** | 2 |
+| **Livello** | 3 |
 | **PF attuali** | — |
 | **Condizioni** | — |
 | **Armorer Unlock** | L3 |
@@ -168,6 +172,7 @@ Volothamp "Volo" Geddarm l'ha contattata in officina e l'ha invitata al Portale 
 - [S4] Ha incontrato Davil Starsong di persona; Davil ha menzionato Rennis: *"sapeva dove trovare componenti che non si trovano più. Qualcuno ha tagliato i canali."* → filo su Rennis attivo
 - [S4] Ha accettato Zentharim M1 con Friedrich; ha partecipato al raid al magazzino ai moli
 - [S5] **Zhentarim M1 completata** con Krauser: indagine sugli omicidi elfi, trovata la taverna, scoperto il nome della prossima vittima, omicidio sventato (drow Soluun Xibrindas fuggito); rapporto chiuso con Davil; ingresso ufficiale negli Zhentarim
+- [S6] Ha chiesto un favore a **Davil Starsong**, che ha rivelato informazioni sui **ratti mannari (Shard Shunners)** e sulle loro attività passate. Chiusura Cap. 2 e Level up a Lv 3
 - La questline M2-M4 potrebbe rivelare info su Manshoon e Kolat Towers
 
 ---
@@ -180,7 +185,7 @@ Volothamp "Volo" Geddarm l'ha contattata in officina e l'ha invitata al Portale 
 
 | | |
 |--|--|
-| **Livello** | 2 |
+| **Livello** | 3 |
 | **PF attuali** | — |
 | **Condizioni** | — |
 | **Voto Paladino** | Attivo (rottura prevista L3-L4) |
@@ -206,9 +211,10 @@ Le missioni Zentharim M1-M3 erodono gradualmente i principi assoluti di Friedric
 - **Aldric osserva silenziosamente** il coinvolgimento con Zhentarim; frase seminata in S4: *"La vera saggezza non è fare sempre la cosa giusta. È sapere quando le regole non si applicano a te."*
 - **Il voto rimane solido fino al L3-L4** — la rottura sarà drammatica, non repentina
 - [S4] Ha incontrato Davil Starsong di persona e accettato Zentharim M1; ha partecipato al raid al magazzino ai moli
-- [S5] **Zhentarim M1 completata** con Scintilla: indagine omicidi elfi, omicidio sventato (drow Soluun Xibrindas fuggito); rapporto chiuso con Davil; ingresso ufficiale negli Zhentarim. **Davil ha consegnato a Krauser il talismano di Edran Voss** (commilitone elfo paladino della Shadowfell) recuperato dal cadavere, come gesto di rispetto dei patti — filo Vosk aperto, prima prova fisica della continuità del complotto
+- [S5] **Zhentarim M1 completata** con Scintilla: indagine omicidi elfi, omicidio sventato (drow Soluun Xibrindas fuggito); rapporto chiuso con Davil; ingresso ufficiale negli Zhentarim. **Davil ha consegnato a Krauser il talismano di Sylrael Voss** (commilitone mezzelfo paladino della Shadowfell) recuperato dal cadavere, come gesto di rispetto dei patti — filo Vosk aperto, prima prova fisica della continuità del complotto
 - [S5] Ha tentato di chiedere info classificate al Capitano Hyustus Staget (Guardia del Porto): riconosciuto e bloccato sull'accesso. Rapporto Staget ↔ Krauser ora documentato come ostile
-- **Oggetto nuovo:** talismano di Edran Voss — simbolo sacro di Tyr, sul retro incisione elfica *"Veglia anche nell'ombra"* (origine: cadavere del commilitone, consegnato da Davil)
+- **Oggetto nuovo:** talismano di Sylrael Voss — simbolo sacro di Tyr, sul retro incisione elfica *"Veglia anche nell'ombra"* (origine: cadavere del commilitone, consegnato da Davil)
+- [S6] Chiusura Cap. 2 e Level up a Lv 3; ha partecipato all'arco Emmek/Trollskull e all'apertura dell'indagine sulla Fireball (Cap. 3)
 
 
 
@@ -222,7 +228,7 @@ Le missioni Zentharim M1-M3 erodono gradualmente i principi assoluti di Friedric
 
 | | |
 |--|--|
-| **Livello** | 2 |
+| **Livello** | 3 |
 | **Condizioni** | — |
 
 #### Gancio personale principale

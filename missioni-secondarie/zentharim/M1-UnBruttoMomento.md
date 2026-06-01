@@ -17,7 +17,7 @@
 **Protagonista principale: Friedrich Krauser | Ruolo attivo: Scintilla | Livello: 2–3**
 
 **La vittima riconosciuta:**
-Tra i tre marinai decapitati c'è **Sylrael Voss**, mezzelfo. Friedrich Krauser lo riconosce: era uno dei commilitoni inviati nella Shadowfell, creduto morto nell'imboscata. Era sopravvissuto, era fuggito con un frammento di prova contro **Vosk**, e qualcuno lo ha trovato prima che potesse parlare.
+Tra i tre marinai decapitati c'è **Sylrael Voss**, mezzelfo. Friedrich Krauser lo riconosce: era uno dei commilitoni inviati nella Shadowfell, creduto morto nell'imboscata. Era sopravvissuto, era fuggito con un frammento di prova contro **Valerius Vosk**, e qualcuno lo ha trovato prima che potesse parlare.
 
 Quando Friedrich Krauser identifica il corpo, capisce due cose in un colpo: Vosk sta ancora ripulendo le prove, e lui è probabilmente il prossimo sulla lista.
 
@@ -238,7 +238,7 @@ Non dice niente di utile. Tace, o mente. Se torturato, sputa qualcosa come:
 - **Collegate a:** [Zentharim M2](M2-TieniIlResto.md), [M3](M3-CorriDasher.md), [M4](M4-SangueDeiPatto.md)
 - **Semina:** Friedrich Krauser capisce che Vosk sta eliminando testimoni della Shadowfell — indizio dal corpo di Sylrael, non dall'assassino
 - **Rivela:** Vulnerabilità Zhentarim nel porto — qualcuno opera nel loro territorio senza che lo sappiano
-- **Arco PG:** [Arco Krauser & Scintilla](../../fonti/personaggi/Arco_Krauser_Scintilla.md) — Missione 1
+- **Arco PG:** [Arco Krauser & Scintilla](../../campagna/personaggi/Friedrich-Krauser.md) — Missione 1
 - **Fazione:** [Zhentarim](../../Campagna/fazioni.md#zhentarim)
 
 ---

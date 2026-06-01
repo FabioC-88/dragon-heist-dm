@@ -28,7 +28,7 @@ Referente: **Mirt il Cambiavalute** · Protagonista frazionale: **Aelar Moonwhis
 | # | Titolo | Livello | File Sorgente | File Wiki | Stato |
 |---|--------|---------|------|------------|-------|
 | 1 | Un Cavallo Donato | 2 | `Arpisti_Missione1_UnCavalloDonato.txt` | [📖 Leggi](../Missioni/Arpisti/M1-UnCavalloDonato.md) | `Completata` *(S5: contatto privato con Maxeene, verifica Zhentarim via Davil, chiusura con Mirt)* |
-| 2 | Disinfestazione | 3 | `Arpisti_Missione2_Disinfestazione.txt` | [📖 Leggi](../Missioni/Arpisti/M2-Disinfestazione.md) | `Pianificata` |
+| 2 | Disinfestazione | 3 | `Arpisti_Missione2_Disinfestazione.txt` | [📖 Leggi](../Missioni/Arpisti/M2-Disinfestazione.md) | `Pianificata` *(prevista ~S9-10)* |
 | 3 | Benvenuti in Famiglia | 4 | `Arpisti_Missione3_benvenuti_in_famiglia.txt` | [📖 Leggi](../Missioni/Arpisti/M3-BeneventutiInFamiglia.md) | `Pianificata` |
 | 4 | Velo Alzato | 4 | `Arpisti_Missione4_velo_alzato.txt` | [📖 Leggi](../Missioni/Arpisti/M4-VeloAlzato.md) | `Pianificata` |
 
@@ -48,7 +48,7 @@ Referente: **Vajra Safahr** · Protagonisti frazionali: **Razak Kendal**, **Vora
 | # | Titolo | Livello | File Sorgente | File Wiki | Stato |
 |---|--------|---------|------|------------|-------|
 | 1 | Il Carico del Fondatore | 2 | `ForceGrey_Missione1_IlCaricoDelFondatore.txt` | [📖 Leggi](../Missioni/ForceGrey/M1-IlCaricoDelFondatore.md) | `Completata` *(S5: info carico + documento Brottor consegnati a Vajra; Vorador/Razak/Barney Force Grey ufficiali)* |
-| 2 | Non è Tutto Oro Quel che Luccica | 3 | `ForceGrey_Missione2_NonETuttoOroQuelCheLuccica.txt` | [📖 Leggi](../Missioni/ForceGrey/M2-NonETuttoOro.md) | `Pianificata` |
+| 2 | Non è Tutto Oro Quel che Luccica | 3 | `ForceGrey_Missione2_NonETuttoOroQuelCheLuccica.txt` | [📖 Leggi](../Missioni/ForceGrey/M2-NonETuttoOro.md) | `Pianificata` *(prevista ~S9)* |
 | 3 | Crimini di Pensiero | 4 | `ForceGrey_Missione3_CriminiDiPensiero.txt` | [📖 Leggi](../Missioni/ForceGrey/M3-CriminiDiPensiero.md) | `Pianificata` |
 | 4 | Cose Terribili da Sprecare | 5 | `ForceGrey_Missione4_CoseTerribilidaSprecare.txt` | [📖 Leggi](../Missioni/ForceGrey/M4-CoseTerribili.md) | `Pianificata` |
 
@@ -68,18 +68,18 @@ Referente: **Davil Starsong**
 | # | Titolo | Livello | File Sorgente | File Wiki | Stato |
 |---|--------|---------|------|------------|-------|
 | 1 | Un Brutto Momento | 2 | `Zentharim_Missione1_un_brutto_momento.txt` | [📖 Leggi](../Missioni/Zentharim/M1-UnBruttoMomento.md) | `Completata` *(S5: omicidio sventato, drow Soluun Xibrindas fuggito; Krauser/Scintilla Zhentarim ufficiali)* |
-| 2 | Tieni il Resto | 3 | `Zentharim_Missione2_tieni_il_resto.txt` | [📖 Leggi](../Missioni/Zentharim/M2-TieniIlResto.md) | `Pianificata` |
+| 2 | Tieni il Resto | 3 | `Zentharim_Missione2_tieni_il_resto.txt` | [📖 Leggi](../Missioni/Zentharim/M2-TieniIlResto.md) | `Pianificata` *(prevista ~S8 — prima M2, apre l'arco Oathbreaker di Krauser)* |
 | 3 | Corri, Dasher! | 4 | `Zentharim_Missione3_corri_dasher.txt` | [📖 Leggi](../Missioni/Zentharim/M3-CorriDasher.md) | `Pianificata` |
 | 4 | Sangue del Patto | 5 | `Zentharim_Missione4_sangue_del_patto.txt` | [📖 Leggi](../Missioni/Zentharim/M4-SangueDeiPatto.md) | `Pianificata` |
 
 ### Note per il DM — Zentharim
 
-- **M1** si svolge nel Dock Ward (Ship Street, Muleskull Tavern) — atmosfera notturna, porto, freddo; ideale per il BG di Barnabus Reed quando Silvia è presente. **Arco Krauser & Scintilla:** tra le vittime c'è Edran Voss (commilitone di Krauser); il drow rivela: *"Vosk paga bene. Manshoon paga meglio."*
+- **M1** si svolge nel Dock Ward (Ship Street, Muleskull Tavern) — atmosfera notturna, porto, freddo; ideale per il BG di Barnabus Reed quando Silvia è presente. **Arco Krauser & Scintilla:** tra le vittime c'è Sylrael Voss (commilitone di Krauser); il drow rivela: *"Vosk paga bene. Manshoon paga meglio."*
 - **M2** introduce **Skeemo Weirdbottle** come nodo della rete Rennis/Manshoon — non eliminarlo, serve per l'arco. **Arco:** Scintilla riconosce la firma chimica di Rennis; Krauser riconosce il sigillo di Vosk sulla confezione.
 - **M3** coinvolge la famiglia **Snobeedle** (Southern Ward) — tono investigativo e umano. **Arco:** Dasher era scrivano di Vosk; porta documenti nascosti (Sezione A per Krauser: prove sulla Shadowfell; Sezione B per Scintilla: registro Rennis/Manshoon).
 - **M4** sostituisce l'assassinio di Skeemo con **"La Sentenza di Tyr"** — il processo contro Vosk, l'intervento del simulacro di Manshoon, e la porta verso le **Kolat Towers** (dungeon conclusivo dell'arco).
 - **ATTENZIONE:** Se Barnabus (Silvia) è presente alle missioni Zhentarim, è narrativamente in conflitto — gestire la tensione in modo intenzionale
-- **Arco completo:** [Arco Krauser & Scintilla](../fonti/personaggi/Arco_Krauser_Scintilla.md)
+- **Arco completo:** [Arco Krauser & Scintilla](../../campagna/personaggi/Friedrich-Krauser.md)
 
 ---
 
@@ -89,17 +89,20 @@ Referente: **Davil Starsong**
 
 | Sessione approx. | Missione | Fazione | Lv |
 |-----------------|----------|---------|---|
-| Sessione 3-4 | Un Cavallo Donato | Arpisti | 2 |
-| Sessione 3-4 | Il Carico del Fondatore | Force Grey | 2 |
-| Sessione 3-4 | Un Brutto Momento | Zentharim | 2 |
-| Sessione 6-7 | Disinfestazione | Arpisti | 3 |
-| Sessione 6-7 | Non è Tutto Oro... | Force Grey | 3 |
-| Sessione 6-7 | Tieni il Resto | Zentharim | 3 |
-| Sessione 9-10 | Benvenuti in Famiglia | Arpisti | 4 |
-| Sessione 9-10 | Crimini di Pensiero | Force Grey | 4 |
-| Sessione 9-10 | Corri, Dasher! | Zentharim | 4 |
-| Sessione 12+ | Velo Alzato | Arpisti | 4 |
-| Sessione 12+ | Cose Terribili da Sprecare | Force Grey | 5 |
-| Sessione 12+ | Sangue del Patto | Zentharim | 5 |
+| Sessione 5 *(giocata)* | Un Cavallo Donato | Arpisti | 2 |
+| Sessione 5 *(giocata)* | Il Carico del Fondatore | Force Grey | 2 |
+| Sessione 5 *(giocata)* | Un Brutto Momento | Zentharim | 2 |
+| Sessione 8 | Tieni il Resto | Zentharim | 3 |
+| Sessione 9 | Non è Tutto Oro... | Force Grey | 3 |
+| Sessione 9-10 | Disinfestazione | Arpisti | 3 |
+| **Chiusura Cap. 3** | **— Level up a Lv 4 (milestone) —** | *dopo le tre M2* | **4** |
+| Sessione 11-12 | Benvenuti in Famiglia | Arpisti | 4 |
+| Sessione 11-12 | Crimini di Pensiero | Force Grey | 4 |
+| Sessione 11-12 | Corri, Dasher! | Zentharim | 4 |
+| Sessione 13+ | Velo Alzato | Arpisti | 4 |
+| Sessione 13+ | Cose Terribili da Sprecare | Force Grey | 5 |
+| Sessione 13+ | Sangue del Patto | Zentharim | 5 |
 
 *Questo ordine è indicativo. Adatta all'effettivo livello del party e alle sessioni giocate.*
+
+**Piano M2 (≤ Lv 4) — concordato dopo S6:** le tre M2 (Lv 3) vengono **interlacciate** durante il Cap. 3, non giocate in blocco. Ordine: **Zhentarim "Tieni il Resto" per prima** (~S8), perché innesca l'arco Oathbreaker di Krauser e il setup Z-M3.5; poi **Force Grey "Non è Tutto Oro"** (~S9, missione sociale); infine **Arpisti "Disinfestazione"** (~S9-10, più standalone — ottima come B-plot/filler). Il **Level up a Lv 4** scatta alla **chiusura del Cap. 3**, dopo che tutte e tre le M2 sono state giocate. Con sessioni da ~2h, una sola M2 per sessione, eventualmente come filo serale accanto alla trama Fireball.

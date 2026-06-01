@@ -16,7 +16,7 @@
 | **PNG di contatto** | **Mirt il Cambiavalute** (referente principale) · Remallia Haventree (secondario) |
 | **Membro nel party** | Aelar Moonwhisper (Berto) |
 | **Sede operativa** | Villa di Mirt, Castle Ward |
-| **Ultimo evento** | — *(campagna non iniziata)* |
+| **Ultimo evento** | **S6:** Aelar ha riaperto Trollskull Manor (con l'aiuto di Mirt) e lanciato una campagna di voci contro Emmek Frewn |
 | **folder_path** | `missioni-secondarie/arpisti/` |
 | **fonti_path** | `fonti/missioni/Arpisti_*.txt` |
 
@@ -42,7 +42,7 @@
 | **PNG di contatto** | **Vajra Safahr** — il Bastone Nero (referente diretto) |
 | **Membri nel party** | Razak Kendal (Mirko), Vorador Thraxas (Seba) |
 | **Sede operativa** | Torre del Bastone Nero, Castle Ward |
-| **Ultimo evento** | — *(campagna non iniziata)* |
+| **Ultimo evento** | **S5:** M1 "Il Carico del Fondatore" completata — Vorador, Razak e Barney ufficiali nelle Force Grey |
 | **folder_path** | `missioni-secondarie/forcegrey/` |
 | **fonti_path** | `fonti/missioni/ForceGrey_*.txt` |
 
@@ -68,7 +68,7 @@
 | **PNG di contatto** | **Davil Starsong** (Portale Spalancato, Dock Ward) · Yagra Stonefist (braccio armato) |
 | **Membri nel party** | Friedrich Krauser (Gabri) — contatto primario; Fizzra "Scintilla" (Eric) — fuggitiva da Manshoon |
 | **Sede operativa** | Portale Spalancato *(taverna nel Dock Ward)* |
-| **Ultimo evento** | — *(campagna non iniziata)* |
+| **Ultimo evento** | **S6:** Davil ha fatto un favore a Scintilla (intel sui ratti mannari); M1 "Un Brutto Momento" completata in S5 (Scintilla/Krauser ufficiali) |
 | **folder_path** | `missioni-secondarie/zentharim/` |
 | **fonti_path** | `fonti/missioni/Zentharim_*.txt` |
 
@@ -87,6 +87,8 @@
 - Fizzra entra ignara del collegamento Rennis-Manshoon-Kolat Towers. La questline le offre opportunità di scoperta se segue i fili narrativi.
 
 **Note DM:** Skeemo Weirdbottle appare nella M2 come PNG minore e nella M4 come obiettivo. È una possibile connessione a Manshoon / Kolat Towers (filo narrativo per Fizzra). Le M2-M4 sfiorano il retroscena di Manshoon; Fizzra potrebbe scoprire informazioni su Rennis durante questi incarichi se indaga con cura.
+
+**[Aggiornamento S6 — campagna di voci di Aelar]** Aelar ha fatto diffondere dagli Arpisti la voce che Emmek Frewn sia alleato dei ratti mannari e uno Zhentarim. Conseguenze attese: **Manshoon** (ramo ostile) non gradisce essere tirato in mezzo e potrebbe reagire in modo diretto; la fazione di **Davil** (Doom Raiders) mantiene un basso profilo e potrebbe avvertire Scintilla e Krauser di tenere sotto controllo Aelar. La posizione formale verso il party resta invariata per ora — tensione in incubazione.
 
 ---
 

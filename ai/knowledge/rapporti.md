@@ -1,5 +1,5 @@
 ---
-aggiornato: Sessione 5
+aggiornato: Sessione 6
 ---
 
 # Schema Rapporti — Waterdeep: Dragon Heist
@@ -22,11 +22,11 @@ Righe = PNG. Colonne = PG. Stato al momento dell'incontro più recente.
 | **Mirt il Cambiavalute** | — | — | ✅ Referente Arpisti — M1 completata S5; chiesto aiuto per riapertura Trollskull Manor | — | — | — |
 | **Remallia Haventree** | — | — | ✅ Supervisor Arpisti — rapporto intermedio M1 a Villa Ulbrinter (S5) | — | — | — |
 | **Hlam** | — | ✅ Ha conferito il presagio | — | — | — | — |
-| **Davil Starsong** | 🤝 Incontrato S5 al Portale Spalancato — faida Manshoon vs Doom Raiders | 🤝 Incontrato S5 al Portale Spalancato — faida Manshoon vs Doom Raiders | 🤝 Incontrato S5 al Portale Spalancato — faida Manshoon vs Doom Raiders | ✅ Referente Zhentarim — M1 completata S5, Zhentarim ufficiale | ✅ Referente Zhentarim — M1 completata S5, Zhentarim ufficiale; **ha consegnato a Krauser il talismano di Edran Voss** come segno di rispetto dei patti | ❌ Capo rete Zhentarim (non sa del party) |
+| **Davil Starsong** | 🤝 Incontrato S5 al Portale Spalancato — faida Manshoon vs Doom Raiders | 🤝 Incontrato S5 al Portale Spalancato — faida Manshoon vs Doom Raiders | 🤝 Incontrato S5 al Portale Spalancato — faida Manshoon vs Doom Raiders | ✅ Referente Zhentarim — M1 completata S5, Zhentarim ufficiale; **S6:** favore a Scintilla (intel sui ratti mannari Shard Shunners) | ✅ Referente Zhentarim — M1 completata S5, Zhentarim ufficiale; **ha consegnato a Krauser il talismano di Sylrael Voss** come segno di rispetto dei patti | ❌ Capo rete Zhentarim (non sa del party) |
 | **Yagra Stonefist** | — | — | — | 🤝 Intermediaria | 🤝 Intermediaria | ❌ Zhentarim |
 | **Maxeene** | — | — | 🤝 Cavalla parlante — incontrata S5 in privato, fornite info | — | — | — |
 | **Soluun Xibrindas** (drow) | — | ❌ Affrontato S5 — fuggito | — | ❌ Affrontato S5 — fuggito | ❌ Affrontato S5 — fuggito | ❌ Affrontato S5 — fuggito |
-| **Edran Voss** (deceduto) | — | — | — | — | 🔒 Commilitone elfo paladino della Shadowfell — confermato morto S5; talismano in possesso di Krauser | — |
+| **Sylrael Voss** (deceduto) | — | — | — | — | 🔒 Commilitone mezzelfo paladino della Shadowfell — confermato morto S5; talismano in possesso di Krauser | — |
 | **Aldric** | — | — | — | — | ✅ Amico / mentore; visita al manor S4 | — |
 | **Maestro Bec** | 🤝 Familiare di Aelar | 🤝 Familiare di Aelar | ✅ Familiare personale | 🤝 Familiare di Aelar | 🤝 Familiare di Aelar | — |
 | **Trobbio** | — | — | 🔒 Patron arcifata (imprevedibile) | — | — | — |
@@ -47,6 +47,10 @@ Righe = PNG. Colonne = PG. Stato al momento dell'incontro più recente.
 | **Victoro Cassalanter** | — | — | — | — | — | — |
 | **Ammalia Cassalanter** | — | — | — | — | — | — |
 | **Manshoon** | — | — | — | ❌ 🔒 Ha Rennis prigioniero | — | — |
+| **Emmek Frewn** *(S6)* | ❌ Sabotatore identificato | ❌ Rivale | ❌ Rivale — bersaglio campagna voci | ❌ Rivale | ❌ Rivale | — |
+| **Shard Shunners (wererat)** *(S6)* | ❌ Ostili, in fuga | ❌ Ostili, in fuga | ❌ Ostili, in fuga | ❌ Ostili, in fuga | ❌ Ostili, in fuga | — |
+| **Vincent Trench** *(S6)* | 🤝 Investigatore ingaggiato | 🤝 Ingaggiato | 🤝 Ingaggiato | 🤝 Ingaggiato | 🤝 Ingaggiato | — |
+| **Istrid Horn** *(S6)* | 🤝 Nome noto (prestito a Emmek) | 🤝 Nome noto | 🤝 Nome noto | 🤝 Nome noto | 🤝 Nome noto | — |
 
 ---
 
@@ -110,6 +114,7 @@ Righe = PNG. Colonne = PG. Stato al momento dell'incontro più recente.
 | Urstul Floxin | Barnabus Reed | Fuggitivo / cacciatore | Barnabus vuole incastrare Urstul per sparizioni al porto |
 | Hyustus Staget | Barnabus Reed | Superiore / subordinato ostile | Staget ostacola l'indagine di Barnabus; interessi divergenti |
 | Mirt il Cambiavalute | Laeral Silverhand | Alleati storici | Mirt ha accesso diretto all'Open Lord; leva politica per gli Arpisti |
+| Aelar Moonwhisper | Emmek Frewn / Zhentarim | Campagna di voci *(S6)* | Aelar ha usato gli Arpisti per diffondere voci che Emmek è alleato dei ratti mannari e uno Zhentarim. Conseguenze attese: reazione diretta di Manshoon; Davil/Doom Raiders mantengono basso profilo e potrebbero avvertire Scintilla/Krauser di sorvegliare Aelar |
 
 ---
 

@@ -27,7 +27,7 @@
 ### Indomani — Chiusura missioni
 - Aelar è andato da Mirt e ha concluso la sua missione Arpisti M1.
 - Krauser e Scintilla hanno fatto rapporto a Davil Starsong, concludendo la loro missione Zhentarim M1 e iniziando ufficialmente a lavorare con gli Zhentarim.
-- Davil ha consegnato a Krauser un **talismano recuperato dal cadavere di un elfo paladino morto** (Edran Voss, commilitone di Krauser nella Shadowfell) come segno che gli Zhentarim "rispettano i patti". L'identificazione di Edran è quindi avvenuta tramite Davil, non tramite il drow.
+- Davil ha consegnato a Krauser un **talismano recuperato dal cadavere di un mezzelfo paladino morto** (Sylrael Voss, commilitone di Krauser nella Shadowfell) come segno che gli Zhentarim "rispettano i patti". L'identificazione di Sylrael è quindi avvenuta tramite Davil, non tramite il drow.
 
 ## Scene / Fasi Non Giocate
 
@@ -46,7 +46,7 @@ Motivo: il party si è concentrato per intero sul completamento delle tre missio
 | Maxeene (la cavalla) | Cooperativa una volta da sola | Ha parlato e fornito le informazioni in privato |
 | Padrone di Maxeene | Convinto (col pretesto del ritratto) | Non specificato — vedi dm-notes |
 | Remallia Haventree | Esigente | Rapporto intermedio Arpisti M1; ha imposto la verifica Zhentarim prima di considerare la missione conclusa |
-| Davil Starsong | Trasparente / collaborativo | Ha rivelato la faida interna Zhentarim; ha chiuso M1 con Krauser e Scintilla; ha consegnato a Krauser il talismano di Edran Voss come gesto di rispetto dei patti |
+| Davil Starsong | Trasparente / collaborativo | Ha rivelato la faida interna Zhentarim; ha chiuso M1 con Krauser e Scintilla; ha consegnato a Krauser il talismano di Sylrael Voss come gesto di rispetto dei patti |
 | Mirt il Cambiavalute | Soddisfatto | Chiusa Arpisti M1; Aelar gli ha chiesto aiuto per riaprire Trollskull Manor |
 | Soluun Xibrindas (drow) | Sfuggito | Omicidio sventato ma il drow è fuggito |
 
@@ -73,7 +73,7 @@ Motivo: il party si è concentrato per intero sul completamento delle tre missio
 ## Oggetti e Ricompense
 
 - Talismano magico di Asmodeus (recuperato da un cadavere di cultista in S4, ora sotto analisi di Vorador)
-- **Talismano di Edran Voss** (consegnato da Davil Starsong a Krauser come segno di rispetto dei patti)
+- **Talismano di Sylrael Voss** (consegnato da Davil Starsong a Krauser come segno di rispetto dei patti)
 - Ricompense missioni M1: **+2 Renown** per Arpisti / Force Grey / Zhentarim, più 75 mo/PG Force Grey e 50 go Zhentarim se Heldar è sopravvissuto
 
 ## Thread Narrativi Aperti
@@ -83,7 +83,7 @@ Motivo: il party si è concentrato per intero sul completamento delle tre missio
 - **Trollskull Manor**: Aelar ha chiesto aiuto a Mirt per riaprirlo. Filo nuovo.
 - **Faida interna Zhentarim**: il party sa di Manshoon vs Doom Raiders; Krauser e Scintilla lavorano per Davil (Doom Raiders).
 - **Drow sfuggito**: Soluun Xibrindas in libertà, non interrogato; le sue parole su Vosk/Manshoon non sono state pronunciate.
-- **Edran Voss / Vosk**: identificazione avvenuta in modo alternativo — Davil Starsong ha recuperato il talismano dal cadavere di Edran (elfo paladino, commilitone di Krauser nella Shadowfell) e l'ha consegnato a Krauser come segno che gli Zhentarim rispettano i patti. Il filo Vosk è aperto.
+- **Sylrael Voss / Vosk**: identificazione avvenuta in modo alternativo — Davil Starsong ha recuperato il talismano dal cadavere di Sylrael (mezzelfo paladino, commilitone di Krauser nella Shadowfell) e l'ha consegnato a Krauser come segno che gli Zhentarim rispettano i patti. Il filo Vosk è aperto.
 - **Emmek Frewn + Shard Shunners**: non comparsi, da trasferire a S6.
 - **Gilde mancanti**: Hammond, Justyn, Ulkoria da trasferire a S6.
 

@@ -1,153 +1,38 @@
 # DM Notes — Sessione 7 (In-Game)
 
-> **Fonte primaria:** `fonti/campagna/Dragon Heist.md` · Sezione *"Fireball"* (Cap. 3, righe ~1603-1846) — The Crime Scene, After the Blast, Eyewitnesses, The Watch Arrives, Nim's Secret, What Renaer Knows
-> **Contesto:** Party Lv 3 · Cap. 2 chiuso in S6 (Emmek risolto, Level Up milestone) · Trollskull Manor aperta o in fase di apertura · Tutte le missioni M1 completate · Apertura Cap. 3
-> **Obiettivo sessione:** Gestire la Fireball esplosa fuori dal manor · Investigare la scena del crimine · Raccogliere le testimonianze dei vicini · Confrontarsi con la Watch (Barnibus + Cromley) · Seguire la pista della "marionetta" fino al Tempio di Gond · Ottenere il Nimblewright Detector · Piantare il seme di Villa Gralhund per S8
-> **Durata stimata:** ~2h–2h15m
-> **XP accumulati:** Milestone — Lv 3 confermato (Cap. 2 chiuso in S6); prossimo level up al completamento di Cap. 3
+> **Fonte primaria:** `fonti/campagna/Dragon Heist.md` · Sezione *"Fireball"* (Cap. 3) — *What Renaer Knows*, *Nim's Secret* — e *"Gralhund Villa"* (righe ~1854-2130)
+> **Contesto:** Party Lv 3 · Cap. 2 chiuso in S6 (arco Emmek risolto per deviazione, Level Up milestone) · **Trollskull Manor aperta al pubblico** · Tutte le missioni M1 completate · **La Fireball è già esplosa in S6**: il party ha esaminato la scena del crimine, raccolto le testimonianze (Fala, Jezrynne, Martem) e incontrato Barnibus + Cromley; ha sottratto **500 mo in gemme** dal cadavere di Dalakhar. Cap. 3 in corso.
+> **Obiettivo sessione:** Far convergere l'indagine sulla Fireball — Renaer rivela il retroscena dello *Stone of Golorr*; la pista della "marionetta" porta al Tempio di Gond e al **Nimblewright Detector**; l'irruzione a **Villa Gralhund** (climax: Urstul Floxin, Hrabbaz, Lady Gralhund — il nimblewright fugge con la pietra, aprendo il Cap. 4). Seminare i referenti delle tre missioni **M2** per le prossime sessioni.
+> **Durata stimata:** ~2h–2h30m. **Villa Gralhund è surplus pianificato:** se Renaer + Tempio riempiono già la serata, l'irruzione scivola interamente a S8 senza problemi.
+> **XP accumulati:** Milestone — Lv 3. **Nessun level up in S7:** per il piano di campagna il **Lv 4** scatta alla **chiusura del Cap. 3**, dopo le tre missioni M2 (~S8-S10). *(Il manuale WDH assegnerebbe il Lv 4 già dopo Villa Gralhund: qui è volutamente posticipato.)*
 
 ---
 
 ## ⚠️ NOTE DI APERTURA — Stato del Mondo post-S6
 
-**[NOTA DM — riservata]** Prima di iniziare, verificare con i giocatori:
+**[NOTA DM — riservata]** Prima di iniziare, tenere a mente gli esiti reali di S6:
 
-- **Level Up Lv 3:** Completato a chiusura S6 (milestone Cap. 2). Scintilla sblocca la specializzazione **Armorer** a Lv 3.
-- **Emmek Frewn:** Risolto in S6 (tregua / escalation / vendetta — verificare l'esito al tavolo e tenerlo a mente per eventuali ricadute).
-- **Istrid Horn:** Il nome è emerso in S6 come prestatrice Zhentarim di Emmek. Questo la connette organicamente agli eventi di S7.
-- **Trollskull Manor:** Assumere che l'apertura al pubblico sia in corso o imminente — dettaglio narrativo da colorare.
+- **Level Up Lv 3:** Completato a chiusura S6 (milestone Cap. 2). Scintilla ha sbloccato la specializzazione **Armorer**.
+- **Emmek Frewn:** Risolto **per deviazione** in S6 — non confrontato direttamente. Il party ha dedotto che è il sabotatore e il suo debito con **Istrid Horn**, ha ingaggiato l'investigatore **Vincent Trench** e ha lanciato (via Aelar/Arpisti) una **campagna di voci** che bolla Emmek come alleato dei ratti mannari e Zhentarim. I due wererat sono fuggiti feriti. Il filo Emmek/Istrid resta aperto, ma **non** come scena pendente.
+- **Conseguenze attese delle voci di Aelar:** Manshoon (ramo ostile) non gradisce essere tirato in mezzo e potrebbe reagire in modo diretto; la fazione di **Davil** (Doom Raiders) tiene un basso profilo e potrebbe avvertire Scintilla e Krauser di sorvegliare Aelar.
+- **Scena del crimine già investigata:** il party ha le testimonianze dei tre testimoni e le **500 mo in gemme** di Dalakhar. La Guardia ha sigillato il vicolo; Barnibus e Cromley hanno preso in mano l'indagine e **non** hanno accettato il party come collaboratore ufficiale.
+- **Trollskull Manor:** locanda aperta al pubblico. Le macchie scure della *fireball* sono ancora sul selciato del vicolo, proprio davanti al portone.
 
 ---
 
-## 🎬 SETUP INIZIALE — La Mattina del Disastro
+## 🎬 SETUP INIZIALE — Il Giorno Dopo
 
 ### Apertura Sessione
 
-> Le finestre tremano. Un boato sordo — prima sentito che udito — scuote Trollskull Alley come una percossa nel legno e nella pietra. Poi i vetri, le grida, e la nuvola. Una nuvola nera e acre che si espande dalla strada davanti al vostro portone come fumo da una fornace esplosa. Dalla fessura delle imposte scorgete i primi lampi di quello che rimane: corpi sul selciato, ombre che si muovono in modo spezzato, il silenzio innaturale dei tre secondi successivi all'impatto.
+> Il vicolo è stato lavato, ma il selciato davanti al manor porta ancora gli aloni scuri delle fiamme — undici sagome più chiare là dove i corpi hanno schermato la pietra dall'esplosione. La Guardia ha tolto i cavalletti all'alba; restano due constables di sentinella all'imbocco di Trollskull Alley, annoiati e infreddoliti. Dentro, la locanda ha aperto comunque: pochi clienti, voci basse, e Lif che riempie i boccali con una mano che non si vede. Maestro Bec siede sul bordo del bancone e fissa la porta, come se aspettasse qualcuno.
 >
-> Qualcuno ha appena scatenato una *fireball* fuori dalla vostra porta.
+> Avete tre cose in mano: le testimonianze di ieri, una borsa di gemme che valgono più di quanto incassereste in un mese, e una domanda che non vi lascia dormire. *Chi ha lanciato una* fireball *davanti a casa vostra — e perché lo gnomo morto stava venendo proprio qui?*
 
-*[Aggiunta atmosferica]:*
-> *Lif è già al piano di sotto. Lo sapete perché la temperatura è scesa di tre gradi in un secondo — il poltergeist percepisce il caos come un vento freddo. Sul bancone è rimasta una caraffa capovolta. Maestro Bec non è visibile. Questo non è mai un buon segno.*
-
-**[NOTA DM — riservata]** Apertura: chiedere ai giocatori dove si trovano al momento dell'esplosione e come reagiscono nell'immediato. Chi vuole identificare il tipo di magia: **Intelligenza (Arcano) CD 13** — successo: è una *fireball*, lanciata da qualcuno sul tetto del vicolo. Il boato coincide con le prime ore del mattino.
+**[NOTA DM — riservata]** S7 riprende dal punto in cui S6 si è interrotta: la **Fase 4 originale (cosa sa Renaer)**. La scena del crimine, i testimoni e Barnibus/Cromley sono già stati giocati. Da qui in poi l'indagine converge: Renaer dà il contesto (e l'indirizzo di Villa Gralhund tramite gli Arpisti), il Tempio di Gond dà lo strumento (il Detector), e i due fili si chiudono a **Villa Gralhund**.
 
 ---
 
-## FASE 1: LA SCENA DEL CRIMINE (~25 min)
-
-Fuori dal manor il selciato è ancora caldo. Undici corpi giacciono tra le pietre grigie — le fiamme non hanno incendiato gli edifici, ma nessuno nel vicolo era pronto per questo.
-
-Il party ha **pochi minuti** per esaminare la scena prima che la Guardia Cittadina arrivi e sigilli ogni accesso.
-
-### I Morti
-
-- Un'anziana donna umana che camminava sola (nessuno la riconosce)
-- Due uomini umani incappucciati in armatura di cuoio con lunghe spade al fianco
-- Due donne umane e un mezzelfo in abiti semplici (servitori di famiglie benestanti del North Ward)
-- Un uomo gnomo in mantello bruciato con un pugnale stretto nel pugno
-- Due donne halfling e due uomini halfling (stavano suonando un flauto e un fiddle, e ballavano)
-
-### Prove Disponibili
-
-**Saggezza (Percezione) CD 15** — esaminare i corpi prima dell'arrivo della Guardia:
-- Uno dei due uomini umani incappucciati ha tatuato sull'avambraccio destro un **serpente alato nero** — il simbolo della Rete Nera.
-- Lo gnomo ha tracce di **fango secco di fogna** sugli stivali e sul mantello bruciato. In tasca: una borsa con **cinque gemme da 100 mo ciascuna**.
-
-**Intelligenza (Arcano) CD 13** — ricostruire la traiettoria: il punto di detonazione era circa tre metri sopra il livello del suolo. Non lanciato da terra. Qualcuno era in alto.
-
-**Intelligenza (Indagare) CD 15** — analisi più approfondita: la detonazione proveniva da un tetto a nord del vicolo. Tracce di graffi sul cornicione, come di un oggetto rotolato via.
-
-**[NOTA DM — riservata]** Lo gnomo è **Dalakhar**, spia personale di Lord Dagult Neverember. Era diretto al manor per consegnare lo *Stone of Golorr* al party — il gruppo che aveva salvato il figlio di Neverember. Il **nimblewright** di Lady Yalah Gralhund (alleata dei Cassalanters) lo ha fermato lanciando uno dei globi della *necklace of fireballs* dal tetto. Urstul Floxin — sopravvissuto ferito — ha prelevato la pietra dal cadavere dello gnomo ed è fuggito verso Villa Gralhund nel North Ward.
-
-**Acquisire la borsa delle gemme:** Destrezza (Sleight of Hand) CD 13 per sottrarla senza essere visti dagli astanti. Fallimento: il personaggio ottiene la borsa, ma un testimone lo nota. Il testimone può essere comprato con 50 mo o più.
-
-### Arrivo della Guardia Cittadina
-
-Dopo pochi minuti dall'esplosione:
-- Sei guardie presidiano ogni ingresso al vicolo — nessuno entra o esce senza permesso di un superiore.
-- Altre sei guardie (incluso un **sergente** con 18 PF) sorvegliano i cadaveri.
-- Un **cavaliere dei grifoni** sorvola il quartiere sul suo grifone, tenendo d'occhio tetti e strade.
-
-Il vicolo è sigillato. Chi non è già sulla scena non può più avvicinarsi ai corpi.
-
----
-
-## FASE 2: I TESTIMONI OCULARI (~25 min)
-
-Venti minuti dopo l'esplosione, mentre la Guardia sistema il perimetro, tre persone del vicolo hanno qualcosa da dire. Non serve nessun tiro per trovarle — sono ansiose di parlare.
-
-### Fala Lefaliir — La Corona di Corellon
-
-> *"Stavo innaffiando le piante al piano di sopra — nel giardino pensile — quando l'esplosione ha mandato i vetri in frantumi. Per fortuna non ero in piedi vicino alla finestra. Nel fumo ho visto un uomo incappucciato prendere qualcosa dal corpo dello gnomo, poi ha cominciato ad allontanarsi. Zoppicava, era malconcio. Continuava a guardarsi le spalle come se si aspettasse qualcuno alle calcagna. Si dirigeva verso il Bent Nail."*
-
-**[NOTA DM — riservata]** Fala ha visto **Urstul Floxin** fuggire con lo *Stone of Golorr*. Ha aggirato il Bent Nail per uscire dal vicolo diretto al North Ward.
-
-Con **Aelar** — dato il legame speciale (entrambi elfi) — Fala aggiunge spontaneamente: *"Aveva la corporatura di chi fa male agli altri di mestiere. Non era un ladro, era un soldato. E portava qualcosa di piccolo in mano, stretto come se valesse più della sua vita."*
-
-**[NOTA DM — Hook Barnabus]** La descrizione corrisponde esattamente a quella nei rapporti della Guardia su **Urstul Floxin** — il bersaglio personale di Barnabus. Se Barney è presente, la riconosce senza alcun tiro: *la sua preda era qui, stamattina, a tre metri dal manor. Ferita. Fuggita.*
-
----
-
-### Jezrynne Hornraven — Testimone casuale
-
-Una nobile waterdaviana stava uscendo dall'ufficio di Vincent Trench (il detective privato, area T5 del vicolo) quando ha assistito all'esplosione.
-
-> *"Vi dico che non era un uomo. Sembrava un burattino a forma d'uomo — una marionetta senza fili. Era sul tetto. Ha lanciato qualcosa nella folla quaggiù, e quello ha causato l'esplosione. Ho visto quegli halfling bruciare! Con i miei occhi!"*
-
-Jezrynne non sa cosa abbia lanciato la "marionetta" e nel caos seguente non ha potuto seguirne i movimenti.
-
-**[NOTA DM — riservata]** La "marionetta" è il **nimblewright** — un costrutto meccanico humanoide, creato da Nim al Tempio di Gond e poi fuggito a Villa Gralhund, dove Lady Yalah lo ha armato con la *necklace of fireballs*. La descrizione corrisponde ai costrutti che marciano nelle parate del Giorno delle Meraviglie — chiunque abbia vissuto a Waterdeep in autunno lo riconosce.
-
-**[NOTA DM — Hook Scintilla]** Fizzra è un'inventrice nativa di Waterdeep. Sa esattamente cosa sono i nimblewrights — li ha visti sfilare. Per lei, la connessione è immediata, senza tiro.
-
----
-
-### Martem Trec — Il bambino
-
-Un bambino di 12 anni che guardava i suoi amici halfling suonare sul selciato quando l'esplosione li ha colpiti. Non ha visto molto — ma ha trovato qualcosa di cruciale.
-
-> *"Dopo l'esplosione mi sono nascosto dietro la botte per l'acqua piovana. Poi ho sentito un 'plop' e ho trovato questo nella botte."*
-
-Martem tira fuori una **collana di fireballs** con due globi rimasti e la fibbia rotta. Mentre il nimblewright fuggiva sul tetto, si è impigliato nella collana: la fibbia si è sfilata, la collana è scivolata giù dal cornicione ed è caduta nella botte accanto a Martem.
-
-Non sa cosa sia, ma stava valutando di tenerla.
-
-**Carisma (Persuasione o Intimidazione) CD 8** — convincerlo a cederla volontariamente. Si può anche sottrarla con la forza (azione contro un bambino — conseguenze reputazionali visibili).
-
-**[NOTA DM — riservata]** Nascondere la collana alla Watch è un crimine a Waterdeep: fino a 200 mo di multa e dieci giorni di lavori forzati per ostruzione alla giustizia. Il DM può usare questa complicazione come leva narrativa con la Watch.
-
----
-
-## FASE 3: BARNIBUS E CROMLEY (~20 min)
-
-Venti minuti dopo l'esplosione, due figure familiari arrivano al cancello del vicolo.
-
-> Un uomo basso con il mantello dell'Ordine Magisti cammina davanti, passo corto e preciso. Al suo fianco, più alta di mezzo testa, la divisa grigio-blu di un sergente della Watch. Barnibus Blastwind e Saeth Cromley arrivano insieme, e i soldati della Guardia cedono il passo senza una parola. Blastwind si ferma un momento sulla soglia, esamina il selciato, poi guarda il vostro manor. Una pausa misurata. Poi avanza.
-
-**Barnibus Blastwind** prende silenziosamente il controllo dell'indagine. **Saeth Cromley** dirige un reparto di venti constables che bussano porta a porta nel vicolo.
-
-Prima di rimuovere i cadaveri, Barnibus esamina la scena e raggiunge tre conclusioni personali — che non condivide facilmente, ma potrebbe rivelare a colleghi dell'Ordine:
-
-1. Lo gnomo stava fuggendo da inseguitori armati. Ce n'erano almeno tre. Il terzo non è tra i morti.
-2. Lo gnomo e i suoi inseguitori si stavano dirigendo verso la taverna del vicolo — il manor del party.
-3. Né lo gnomo né i suoi inseguitori si aspettavano l'esplosione.
-
-### Interrogatorio al Manor
-
-**Attitudine iniziale:** Professionale, non ostile. Non ritiene plausibile che il party abbia orchestrato un'esplosione davanti al proprio locale. Non vuole far perdere loro troppo tempo.
-
-**Cosa vuole sapere:** L'identità dello gnomo. Se lo conoscevano. Cosa hanno visto o sentito prima dell'esplosione.
-
-**[NOTA DM — Hook Vorador]** Barnibus è un collega dell'Ordine Magisti. Con Vorador, il rapporto è diretto e professionale — se Vorador si identifica come Force Grey, Barnibus abbassa la guardia e condivide le tre conclusioni sopra spontaneamente, senza tiro. Con gli altri: **Carisma (Persuasione) CD 15** per ottenere i dettagli.
-
-**[NOTA DM — Hook Barnabus]** Cromley è un collega di Barnabus alla Guardia. Se Barney è presente, può ottenere aggiornamenti informali da Cromley fuori dagli occhi di Barnibus — ma nulla di nuovo rispetto a quanto già sanno. La pressione reale è che Urstul Floxin era **qui** e non è stato catturato.
-
-Barnibus e Cromley non accettano che il party si unisca all'indagine. *"Troppe variabili in un'equazione già confusa,"* dice Barnibus asciutto. Cromley aggiunge: *"Fidatevi della Watch."*
-
----
-
-## FASE 4: COSA SA RENAER (~15 min)
+## FASE 1: COSA SA RENAER (~15 min)
 
 Che sia il party a cercarlo o Renaer a bussare spontaneamente al manor, il figlio di Neverember ha informazioni che cambiano il quadro.
 
@@ -155,18 +40,18 @@ Che sia il party a cercarlo o Renaer a bussare spontaneamente al manor, il figli
 >
 > *"Ho parlato con qualche amico di Dalakhar. Evidentemente era in una missione speciale: recuperare qualcosa chiamato lo Stone of Golorr. Aveva paura che gli Zhentarim e la Gilda di Xanathar fossero vicini a prenderlo. Quando ha saputo del mio rapimento, voleva sapere di più sugli avventurieri che mi avevano salvato. Credo che stesse pianificando di pagarvi per consegnare lo Stone a mio padre a Neverwinter."*
 
-**[NOTA DM — riservata]** Se il party ha già raccolto la testimonianza di Fala su "l'uomo che zoppicava", Renaer contatta i suoi contatti Arpisti. Un giorno dopo, torna con queste informazioni aggiuntive:
+**[NOTA DM — riservata]** Poiché il party ha già raccolto la testimonianza di Fala su "l'uomo che zoppicava", Renaer contatta i suoi contatti Arpisti. Un giorno dopo, torna con queste informazioni aggiuntive:
 - L'uomo corrisponde alla descrizione di **Urstul Floxin**, sospettato membro della Rete Nera.
 - Un residente del North Ward lo ha visto entrare a **Villa Gralhund**, in Saerdoun Street. Lo ha segnalato alla Watch per il suo aspetto sospetto.
 - Due constables della Watch hanno parlato con Lord Gralhund, che ha assicurato che andava tutto bene. Senza prove per un mandato, non hanno potuto procedere.
 
 **[NOTA DM — Hook Razak]** L'esplosione ha ucciso undici civili innocenti nel mezzo del vicolo — bambini compresi. *"Sangue innocente sarà versato nel Giorno dei Fondatori."* Il presagio di Hlam non riguarda solo il Giorno dei Fondatori — questa è la macchina che si mette in moto. Razak è il PG con la visione più nitida del quadro d'insieme.
 
-**[NOTA DM — Hook Vorador / Stone of Golorr]** Lo *Stone of Golorr* è descritto da chi lo conosce come "una creatura antica trasformata in artefatto" — non è un oggetto inerte, è qualcosa che *sa*. Nella biblioteca della Torre del Bastone Nero esistono probabilmente riferimenti ad artefatti senzienti di questo tipo. Questo echeggia il lavoro classificato che stava facendo Brottor Deepdelver prima di sparire. Non rivelare ancora — seminare il dubbio.
+**[NOTA DM — Hook Vorador / Stone of Golorr]** Lo *Stone of Golorr* è descritto da chi lo conosce come "una creatura antica trasformata in artefatto" — non è un oggetto inerte, è qualcosa che *sa*. Nella biblioteca della Torre del Bastone Nero esistono probabilmente riferimenti ad artefatti senzienti di questo tipo. Questo echeggia il lavoro classificato che stava facendo Brottor Deepdelver prima di sparire. Non rivelare ancora — seminare il dubbio. *(Questo filo si riaprirà con Vajra: vedi FASE 4, semina Force Grey.)*
 
 ---
 
-## FASE 5: NIM E IL TEMPIO DI GOND (~30 min)
+## FASE 2: NIM E IL TEMPIO DI GOND (~30 min)
 
 Con la descrizione di Jezrynne in mano ("una marionetta sul tetto") e la conoscenza locale dei nimblewrights come costrutti del Giorno delle Meraviglie, il party può seguire la pista verso il Tempio di Gond nel Sea Ward.
 
@@ -222,42 +107,163 @@ Nim spiega (tramite Valetta): quando si tiene premuto il grilletto e ci si avvic
 | *Trampoli regolabili* | Aumentano l'altezza di 60–150 cm; 8 libbre per trampolo; 1 minuto per indossarli o rimuoverli |
 | *Paracadute da zaino* | Reazione per frenare una caduta superiore a 60 piedi (si apre solo con almeno 60 piedi di spazio) |
 | *Scatola abbaiante* | Cubo di 15 cm con una manovella; rileva vibrazioni entro 4,5 m per 8 ore; abbaia da piccolo o grande cane |
-| *Pipa accendibile* | Si accende da sola con pochi scintille; non ha bisogno di innesco esterno |
+| *Pipa accendibile* | Si accende da sola con poche scintille; non ha bisogno di innesco esterno |
 
-**[NOTA DM — riservata]** Il nimblewright è attualmente a **Villa Gralhund**, nel North Ward. Il Detector lo individuerà facilmente se il party si avvicina alla villa. Ma la situazione alla villa è già degenerata: Urstul Floxin (tornato ferito) ha tentato di riprendere lo Stone of Golorr a Lady Gralhund, che ha invece dato la pietra al nimblewright con istruzioni su dove consegnarla. Quando il party arriverà, sarà nel mezzo di una battaglia tra Zhentarim e guardie dei Gralhund. Questo è il filo principale di **S8**.
+**[NOTA DM — riservata]** Il nimblewright è attualmente a **Villa Gralhund**, nel North Ward. Il Detector lo individuerà facilmente man mano che il party si avvicina alla villa — ma quando l'irruzione comincerà, il costrutto fuggirà con lo *Stone of Golorr* (vedi FASE 3). Renaer (FASE 1) e il Detector convergono entrambi su Villa Gralhund: è il **climax di S7**.
 
 ---
 
-## FASE 6: FILI SERALI E PROSSIMI PASSI (~10 min)
+## FASE 3: VILLA GRALHUND (~45-60 min) — *climax / surplus*
+
+> **Quando giocarla:** se Renaer + Tempio hanno già riempito la serata, questa fase scivola interamente a S8 — è prep abbondante, non un obbligo. Se invece il party arriva ai cancelli con tempo a disposizione, qui c'è il cuore d'azione del Cap. 3.
+
+### Cosa sta succedendo dentro (riservato al DM)
+
+**[NOTA DM — riservata]** Urstul Floxin, ferito, è tornato a Villa Gralhund per chiedere conto a **Lady Yalah Gralhund** di aver mandato il nimblewright a interferire con la sua missione. Yalah ha deciso che Urstul non le serve più: approfittando delle sue ferite, gli ha strappato lo *Stone of Golorr* sotto la minaccia della spada e lo ha fatto rinchiudere. Urstul però è riuscito a uccidere i suoi due sorveglianti e a sollevare gli altri Zhent presenti nella villa: ora è una **guerra civile in casa Gralhund** — gli Zhent hanno preso il piano terra, i Gralhund tengono il piano di sopra.
+
+Mentre il caos divampa, Yalah ha dato lo *Stone of Golorr* e una mappa al suo **nimblewright** e lo ha mandato via. **Il costrutto lascia la villa proprio mentre il party arriva** — questo innesca il Cap. 4 (caccia alla pietra). Se il party usa il Detector, l'aggeggio segnala che il nimblewright **è fuggito dalla scena**, ma non in quale direzione.
+
+**Movente di Yalah (Cassalanter, riservato):** Yalah è un'adoratrice devota del culto segreto di Asmodeo guidato da Lord **Victoro Cassalanter**. Vuole consegnare lo *Stone of Golorr* ai Cassalanters come prova di fedeltà. Usava gli Zhentarim come strumento, non come alleati. Lei e il suo guardaspalle mezzorco **Hrabbaz** sono gli unici a saperlo.
+
+### Watch o irruzione? (la scelta del party)
+
+Il party non ha prove che colleghino direttamente i Gralhund all'attacco di Trollskull Alley. Due strade:
+
+- **Lasciar fare alla Watch:** il party riferisce a una stazione della Guardia nel North Ward. Più tardi Cromley passa a fare rapporto — ma il resoconto dei Gralhund è **un tessuto di bugie** (finto sequestro, finto eroismo di Lord Gralhund, finto furto della collana). Il nimblewright "è sparito". *Conseguenza meccanica:* il party **non** ottiene bottino, intel diretta né (per il piano-campagna) i presupposti del Lv 4 — la pista si raffredda.
+- **Irruzione personale:** la via d'azione. Per entrare e uscire puliti senza guai con la legge, il party deve scaricare la violenza sugli Zhent **o** entrare e uscire non visto prima che arrivi la Watch. *Furtività:* ogni PG **Destrezza (Furtività) CD 15** per non farsi notare da vicini e passanti.
+
+**[NOTA DM]** La via "irruzione" è quella che fa avanzare la trama e che il piano-campagna presuppone. Spingere gentilmente verso di essa se il party esita (Renaer, Razak o Barney possono dare la nudge narrativa: *"la Watch non avrà mai un mandato in tempo"*).
+
+### Avvicinamento e ostacoli
+
+| Area | Ostacolo | CD / Note |
+|------|----------|-----------|
+| **G1 — Cancelli** | *Arcane lock* | Forzare: **For (Atletica) CD 25**; scassinare: **Des CD 20** (attrezzi). I membri/servi/guardie dei Gralhund e il nimblewright passano liberamente |
+| **Muro di cinta** | Muro di pietra 3,6 m | **For (Atletica) CD 15** senza attrezzatura da scalata |
+| **G2 — Cortile** | **Hurv Taldred** (cult fanatic LE) + 2 **mastini** | Furtività **Des CD 13** per attraversare non visti. **Dopo il tramonto** Hurv e i cani diventano **3 shadows** fino all'alba — attaccano di giorno o di notte se scoperti |
+| **Vicini** | Rumori forti (es. *thunderwave*) → allertano la Watch | Arriva **1 mage + 6 veterans** (1 sergente + 5) in **1d6+4 minuti**. È il timer dell'irruzione |
+
+*Soffitti della magione: 6 m. Balcone G17 sopra l'ingresso: 6 m da terra, scalabile **For (Atletica) CD 15**.*
+
+### Incontri chiave (piano terra → piano di sopra)
+
+> Gli Zhent tengono il piano terra; i Gralhund resistono al piano di sopra. Cadaveri di guardie e Zhent ovunque: la casa è già un campo di battaglia quando il party entra.
+
+- **G8 — Sala Grande:** due **thugs** Zhent con mazze insanguinate presidiano la sala (attaccano a vista, anche la Watch). Dalla scala a nord-ovest si sentono rumori di combattimento (→ G13). Sui cadaveri: livrea Gralhund + cuoio nero Zhent.
+- **G13 — Atrio Superiore:** battaglia in corso — **4 veterans** Gralhund (30 PF ciascuno) contro **3 thugs** Zhent (20 PF ciascuno) che tentano di raggiungere la camera padronale (G16). Se il party non interviene, vincono i Gralhund (3 veterans vivi, Zhent morti).
+- **G15 — Suite degli Ospiti:** qui c'è **Urstul Floxin** (in G15a, il bagno), **ferito a 50 PF, niente veleno sulle armi → GS 3 (700 PX)**. Sta sfondando a calci la porta di G15b per catturare **Lord Orond Gralhund**, barricato dentro (porta: **For CD 18**), e barattarlo con la pietra. Se accerchiato prima di arrivarci, Urstul tenta la **fuga** coprendosi con gli altri Zhent. Sa quello che sa Lord Gralhund, ma **non** rivela nulla né il nome del suo padrone (**Manshoon**) se non magicamente costretto. In G15b c'è un **cerchio di teletrasporto permanente** (usato da Manshoon per le Kolat Towers) e 3 **serpenti volanti** in gabbia.
+- **G16 — Camera Padronale:** **Yalah Gralhund** (corazza + stocco) accanto al guardaspalle **Hrabbaz** (mezzorco). Il **nimblewright è già fuggito** con la pietra. Yalah e Hrabbaz fingono ignoranza su dove sia andato. Se la situazione precipita e Hrabbaz cade, Yalah si chiude nella **stanza dei bambini (G18)** per l'ultima resistenza.
+
+### Lord Orond Gralhund — l'intel (G15b)
+
+Se il party raggiunge Lord Gralhund (codardo, si arrende al primo che sfonda la barricata), può estorcergli con **Car (Intimidazione) CD 10** — *svantaggio* se Orond teme che la moglie possa sentire:
+
+1. *"Lo Stone of Golorr è una specie di creatura antica trasformata in artefatto. Conosce la posizione di un vault nascosto a Waterdeep con mezzo milione di dragoni."*
+2. *"Casa Gralhund ha finanziato le operazioni della Rete Nera a Waterdeep — incluso il rapimento di Renaer Neverember e il furto dello Stone alla spia gnomo di suo padre, Dalakhar."*
+3. *"Mia moglie era frustrata dall'incapacità degli Zhent di assicurarsi l'artefatto. Ha dato una* necklace of fireballs *al suo servo meccanico e l'ha mandato a recuperare la pietra. È stato maldestro e ha preso gli Zhent nella* fireball *per sbaglio."*
+
+### Il baule di Lady Gralhund (G16) — il filo Cassalanter
+
+**[NOTA DM — riservata]** Ai piedi del letto c'è un baule di legno chiuso (scassinare: **Des CD 15**). Sembra contenere vestiti, ma un **scomparto segreto** (rilevabile con **Sag (Percezione) CD 15** esaminando l'esterno) nasconde **due simboli sacri di Asmodeo** e **due vesti, rosse e oro**. Lord e Lady Gralhund sono membri segreti del culto di Asmodeo guidato da Lord **Victoro Cassalanter** — ma non lo confesseranno mai spontaneamente.
+
+**[NOTA DM — Hook Vorador]** Questo è il momento esplosivo. Il **talismano di Asmodeo** di Vorador è il sigillo specifico della setta Cassalanter — lo stesso che compare su questi due simboli sacri. Vorador lo **riconosce senza tiro**: il sigillo che porta addosso da S5, quello che nessun PNG accademico sapeva identificare, è qui, nel baule di una nobildonna che ha appena tentato di rubare un artefatto per mezzo milione di dragoni. Non spiegare il quadro completo — lasciare che sia Vorador a collegare i punti. *(Vedi "Quadro d'Insieme" in fondo.)*
+
+### Loot
+
+| Dove | Oggetto |
+|------|---------|
+| G3 — Rimessa (cavallo Maladar) | *Horseshoes of speed* + 2 bisacce, ciascuna con 4 lingotti d'oro da 250 mo (= **2.000 mo** in lingotti) |
+| G7 — Lavanderia (cadavere governante) | Mazzo di chiavi che apre tutte le porte e gli armadi della magione |
+| G16 — Baule di Yalah | 2 simboli sacri di Asmodeo + 2 vesti rosse e oro *(prova/filo, non vendibili senza domande)* |
+| G12 — Biblioteca *(opzionale)* | Tomo di cronaca familiare (aprire senza la chiave di Yalah → 3 **specters** per 1 minuto); rivela i patti diabolici passati dei Gralhund |
+
+### Il nimblewright fugge (innesco Cap. 4)
+
+**[NOTA DM — riservata]** Qualunque cosa faccia il party, **il nimblewright lascia la villa con lo Stone of Golorr** durante l'irruzione e nasconde l'artefatto in un luogo segreto di Waterdeep (Cap. 4 — *Dragon Season*). Il Detector segnala "fuggito" ma non la direzione. Questo è voluto: la pietra deve sfuggire al party ora, o salta tutto il Cap. 4.
+
+### Conseguenze — la Watch arriva
+
+**[NOTA DM]** La carneficina non resta nascosta a lungo: troppi servi e guardie morti. Arrivano **Barnibus Blastwind** e **Saeth Cromley** con 20 constables (**veterans**) e due **Cavalieri dei Grifoni** in volo. Chi viene visto allontanarsi dalla scena diventa **sospetto**. Se il party ha ucciso un membro della famiglia Gralhund lasciando testimoni o prove, Barnibus ordina a Cromley di **arrestarlo per omicidio di un nobile** (pena di morte). Da qui la furtività in uscita conta tanto quanto quella in entrata.
+
+**[NOTA DM — Hook Barnabus]** Urstul Floxin — il bersaglio personale di Barnabus — era **qui**. Se è sfuggito ancora una volta, è la seconda volta in due giorni che gli scivola tra le dita. Se invece il party lo cattura o lo uccide, è la chiusura (parziale) di un arco personale di Barney.
+
+### Statblock di riferimento (fonti: appendix B / `Dragon Heist.md`)
+- **Urstul Floxin** (ferito): GS 3, 50 PF, niente veleno
+- **Hrabbaz** (guardaspalle mezzorco): vedi appendix B
+- **Yalah Gralhund**: vedi appendix B (stocco, corazza)
+- **Hurv Taldred**: cult fanatic (di notte → shadow) + 2 mastini (di notte → 2 shadows)
+- **Thugs / Veterans Zhent e Gralhund**: statistiche standard, PF residui come indicato sopra
+
+---
+
+## FASE 4: FILI SERALI, ISTRID HORN E PROSSIMI PASSI (~15 min)
 
 ### Debrief
 
 Il party termina la giornata con:
-- Le testimonianze dei tre testimoni
-- Il Nimblewright Detector (probabile)
+- Le testimonianze e (probabile) il Nimblewright Detector
 - Le informazioni di Renaer su Dalakhar e Stone of Golorr
-- Eventualmente le gemme di Dalakhar (500 mo)
-- Un nome nuovo: **Villa Gralhund**, North Ward
+- Le gemme di Dalakhar (500 mo) + eventuale bottino di Villa Gralhund
+- La consapevolezza che lo *Stone of Golorr* è **sfuggito** col nimblewright → caccia aperta (Cap. 4)
+- Un sospetto pesante e ancora indimostrabile su **Casa Gralhund** (e, per Vorador, il legame col sigillo di Asmodeo)
 
-Sul selciato del vicolo restano ancora le macchie scure dell'esplosione. Lif ha collocato un fiore sul bancone — probabilmente preso dall'esterno senza che nessuno lo vedesse. Maestro Bec si è finalmente manifestato: siede sul bordo del bancone e giudica tutto in silenzio.
+Sul selciato del vicolo restano ancora le macchie scure dell'esplosione. Lif ha collocato un fiore sul bancone. Maestro Bec giudica tutto in silenzio dal bordo del bancone.
+
+### Filo aperto da S6 — Il rapporto di Vincent Trench
+
+**Trigger (leggero):** In un momento di calma, l'investigatore **Vincent Trench** (ingaggiato in S6) fa pervenire al manor il suo primo rapporto su Emmek Frewn — una nota asciutta, da detective di mestiere.
+
+> *"Frewn è in debito fino al collo: oltre a Istrid Horn, ha creditori meno pazienti. La 'protezione' che vi ha mandato addosso non era farina del suo sacco — qualcuno gliel'ha procurata. Continuo a scavare. Vi aggiorno quando avrò qualcosa che regge in tribunale."*
+
+**[NOTA DM]** Niente confronto pendente: Emmek resta un filo aperto, non una scena obbligata. Il rapporto di Trench serve a tenere caldo il thread e, all'occorrenza, a riagganciare l'arco wererat/Zhentarim più avanti. Usalo come colore o accantonalo se la serata è piena.
 
 ### Hook Fazione — Zentharim: Il Messaggio di Istrid Horn
 
-**Trigger:** La sera stessa o il giorno successivo, un piccolo serpente alato porta un messaggio scritto in Comune a Krauser e/o Scintilla.
+**Trigger:** La sera stessa o il giorno successivo (in particolare se il party è stato coinvolto a Villa Gralhund), un piccolo serpente alato porta un messaggio scritto in Comune a Krauser e/o Scintilla.
 
 > *Vorrei sapere qualcosa di più su quello che è successo a Trollskull Alley. Se riuscite a ritagliarvi del tempo, incontratemi davanti alla Statua di Ahghairon, nel Cimitero della Città, domani a mezzogiorno. Sarete compensati generosamente per il disturbo.*
 >
 > *— Istrid Horn*
 
-**[NOTA DM — riservata]** Il nome **Istrid Horn** non è nuovo: in S6 i PG hanno scoperto che aveva prestato 150 mo a Emmek Frewn. Ora Istrid ha un problema più grande: la Watch sta rastrellando ogni membro Zhentarim noto in città dopo la Fireball, incluso **Davil Starsong**, portato in caserma per interrogatorio. Istrid non era coinvolta nell'esplosione, ma teme che l'indagine della Watch esponga la sua operazione di prestiti illegali.
+**[NOTA DM — riservata]** Il nome **Istrid Horn** non è nuovo: in S6 i PG hanno scoperto che aveva prestato 150 mo a Emmek Frewn. Ora Istrid ha un problema più grande: dopo i fatti (la Fireball e, se giocata, la "Gralhund Villa Bloodbath"), la Watch sta rastrellando ogni membro Zhentarim noto in città, incluso **Davil Starsong**, portato in caserma per interrogatorio ("Bad Time to Be a Zhent"). Istrid non era coinvolta, ma teme che l'indagine esponga la sua operazione di prestiti illegali.
 
-Offre **10 pp** semplicemente per l'incontro. Se il party accetta di aiutarla a stare nascosta per un tenday: altri **40 pp** (metà alla stretta di mano, metà alla fine del periodo). Se la party la ospita al manor: usa un kit travestimento per presentarsi come "Jorn", un nano maschile, e aiuta con le faccende. La sua pazienza si esaurisce gradualmente.
+Offre **10 pp** solo per l'incontro. Se il party accetta di aiutarla a stare nascosta per un tenday: altri **40 pp** (metà alla stretta di mano, metà alla fine). Se la ospitano al manor, usa un kit travestimento per presentarsi come "**Jorn**", un nano maschile, e aiuta con le faccende — ma diventa via via più scontrosa.
 
-**Rischio se il party la tradisce o la consegna:** Istrid contatta un altro membro dei Doom Raiders, che inizia a sabotare la reputazione del manor (clienti spaventati, fornitura complicata). Non attacca direttamente — la legge di Waterdeep la vincola.
+**Rischio se la tradiscono o la consegnano:** Istrid contatta un altro membro dei Doom Raiders, che inizia a sabotare la reputazione del manor (clienti spaventati, fornitura complicata). Non attacca direttamente — la legge di Waterdeep la vincola.
 
 **Opportunità Zentharim:** Se Krauser/Scintilla la ospitano, il **Renown nella fazione aumenta di 2** a fine tenday. Davil, quando torna, potrà commentare: *"Istrid ricorda chi l'ha aiutata. Questo vale."*
 
 **[NOTA DM — Tensione Barnabus]** La Watch sta raccogliendo gli Zhentarim noti. I colleghi di Barnabus stanno portando in caserma persone che il party conosce. Se Barney è presente, sente l'attrito tra l'istinto istituzionale e i legami personali.
+
+### Hook PG — Krauser & Aldric: la prima crepa nella maschera *(seme → paga in S8)*
+
+> **[NOTA DM]** Gabri ha chiesto di portare Krauser verso l'**Oathbreaker**. Il piano concordato: **seminare qui in S7**, **far scattare la svolta in S8** sul riconoscimento del sigillo di Valerius Vosk (Zhentarim M2). Questa è solo la prima crepa — Krauser deve uscirne *turbato*, non convertito.
+
+**Trigger:** La sera, al Portale Spalancato. Soprattutto se Krauser è entrato a Villa Gralhund e ha visto i **simboli di Asmodeo** nel baule di Lady Gralhund (FASE 3): torna con una domanda che non riesce a posare. Aldric è al solito posto al bancone e gli spinge davanti una birra senza che l'abbia chiesta.
+
+> *"Brutta giornata. Nobili che pregano l'Inferno sotto i lampadari di cristallo, e una città che sceglie di non vederlo. Ti sorprende ancora?"*
+
+*Se Krauser non ha raccontato a nessuno dei simboli nel baule, la frase resta lì un attimo di troppo: Aldric non poteva sapere cosa c'era in quel baule.*
+
+> *"La giustizia che hai giurato di servire protegge gente come quella ogni giorno. La stessa che ti ha mandato a morire nell'ombra e poi ha archiviato il tuo nome. E tu lo sai chi ha firmato quell'ordine — lo sai da quando hai visto quella bilancia incisa nel sigillo."*
+
+*Poi, più piano, quasi gentile:*
+
+> *"Te l'avevo detto una volta, in un posto buio: il Male non aspetta che tu finisca di rispettare i tuoi principi. Non ti sto chiedendo niente, stasera. Ti dico solo che, quando sarai pronto a smettere di fingere, io sarò ancora qui."*
+
+**[NOTA DM — riservata]** Questo è il **seme**, non la rivelazione. Aldric (Asmodeo) lascia cadere UNA crepa: dimostra di sapere cose che un vecchio avventuriero al bancone non dovrebbe sapere (i simboli nel baule, il sigillo della bilancia di Valerius Vosk, la Shadowfell). **NON** confermare che Aldric è Asmodeo; **NON** fare ancora l'offerta esplicita. Se Gabri incalza, Aldric svicola con un calore disarmante: *"Sono solo un vecchio che ha visto troppo."* L'obiettivo è lasciare Krauser scosso, con la sensazione che l'unico che gli dice la verità sia proprio l'uomo sbagliato.
+
+**Dove paga:** La rivelazione completa + la **proposta** + la **svolta Oathbreaker** arrivano in **S8**, durante/dopo la Zhentarim **M2 "Tieni il Resto"**, quando Krauser riconosce il **sigillo di Valerius Vosk** sulle pozioni e la ferita si riapre a sangue caldo. Scena completa pronta in `missioni-secondarie/zentharim/M2-TieniIlResto.md` → sezione *"La Proposta di Asmodeo"*. Il colpo è più forte se il seme di stasera lo ha già incrinato.
+
+### Semina referenti M2 — verso le prossime sessioni
+
+> **[NOTA DM]** Tre fili leggeri da piantare ora, ciascuno verso una missione **M2** (Lv 3) delle prossime sessioni. Non sono missioni: sono solo l'aggancio del referente. Vanno bene come battute di chiusura serale o messaggi che arrivano al manor.
+
+- **Zentharim — Davil Starsong → "Tieni il Resto" (~S8, prima M2).** Quando il rastrellamento si placa e Davil esce dalla caserma, manda a Krauser/Scintilla un biglietto asciutto: *"Devo recuperare il tempo perso. Un lavoro semplice — una consegna. Passate al Portale quando potete."* È l'aggancio di "Tieni il Resto" (consegna di pozioni; introduce Skeemo Weirdbottle, nodo della rete Rennis/Manshoon). Apre l'arco Oathbreaker di Krauser. **Da giocare per prima tra le M2.**
+- **Force Grey — Vajra Safahr → "Non è Tutto Oro" (~S9).** Riprende il filo Brottor (zone sotterranee del North Ward) seminato in S6/FASE 1: Vajra convoca i membri Force Grey alla **Torre del Bastone Nero**. Un *sending* o un messo: *"Una questione al porto navale richiede mani fidate. E ho qualcosa da mostrarti sull'ufficio di Brottor."* È l'aggancio della missione "sociale" (giovane drago di bronzo nel porto — niente combattimento ottimale).
+- **Arpisti — Mirt → "Disinfestazione" (~S9-10).** Mirt fa pervenire ad Aelar (uccellino origami, come da stile Arpisti) una richiesta defilata: *"Una libreria amica nel Trades Ward — Curiosity & Satisfaction — ha un problema con un... ospite occhiuto. Discrezione, come sempre."* È l'aggancio della M2 Arpisti (Gazer di Xanathar). Più standalone — ottima come B-plot/filler. **Da giocare per ultima tra le M2.**
+
+**[NOTA DM]** Piano M2 concordato: le tre M2 sono **interlacciate** durante il Cap. 3, una per sessione (sessioni ~2h), eventualmente come filo serale accanto alla trama principale. Ordine: Zhentarim → Force Grey → Arpisti. **Level up a Lv 4** alla chiusura del Cap. 3, dopo tutte e tre.
 
 ---
 
@@ -266,11 +272,11 @@ Offre **10 pp** semplicemente per l'incontro. Se il party accetta di aiutarla a 
 **[NOTA DM — riservata]** In questa stagione (Cassalanters come villain), Lady **Yalah Gralhund** è un membro adorante del culto segreto di Asmodeo guidato da Lord Victoro Cassalanter. Il suo obiettivo è consegnare lo *Stone of Golorr* ai Cassalanters come segno di devozione — non era leale agli Zhentarim, li usava come strumento e poi li ha eliminati.
 
 **Connessioni narrative:**
-- Il **talismano di Asmodeo** di Vorador è il sigillo specifico della setta dei Cassalanters → Yalah ne avrebbe riconosciuto immediatamente il simbolo (filo inerte per ora, esplosivo quando i PG arrivano alla villa)
-- Lo *Stone of Golorr* porta alla Vault di Neverember → che i Cassalanters cercano per i 999 dragoni d'oro necessari al contratto con Asmodeo
-- **Aldric** (Friedrich) è letteralmente Asmodeo → sa già tutto, ma non interferirà direttamente
+- Il **talismano di Asmodeo** di Vorador è il sigillo specifico della setta dei Cassalanters → in **FASE 3 (baule G16)** trova il suo riscontro: due simboli sacri identici. Il filo, inerte da S5, diventa esplosivo qui.
+- Lo *Stone of Golorr* porta alla Vault di Neverember → che i Cassalanters cercano per i 999 dragoni d'oro necessari al contratto con Asmodeo.
+- **Aldric** (Friedrich) è letteralmente Asmodeo → sa già tutto, ma non interferirà direttamente. Una battuta minima e ambigua di Aldric sul "sigillo di famiglia" trovato nel baule può inquietare Krauser senza spiegare nulla.
 
-Se in S8 il party entra a Villa Gralhund e trova **due simboli di Asmodeo e due mantelli rosso e oro** nel baule di Lady Gralhund, questo è il momento in cui i fili iniziano a convergere. Non rivelare nulla direttamente — solo piantare il seme.
+Non rivelare nulla direttamente — solo piantare il seme. Se il party trova **due simboli di Asmodeo e due mantelli rosso e oro** nel baule di Lady Gralhund, è il momento in cui i fili iniziano a convergere.
 
 ---
 
@@ -278,18 +284,19 @@ Se in S8 il party entra a Villa Gralhund e trova **due simboli di Asmodeo e due 
 
 | Hook | Fazione/PG | Stato pianificato | Note |
 |------|-----------|-------------------|------|
-| La Fireball e undici morti | Tutti | **Nuovo S7** | Cap. 3 aperto; presagio di Razak riceve eco diretta |
-| Dalakhar — gnomo spia di Neverember | Tutti | **Nuovo S7** | Morto; portava lo Stone of Golorr; era diretto al manor |
-| Urstul Floxin alla scena | Barnabus | **Nuovo S7** | Il suo bersaglio era qui — è fuggito ferito con lo Stone |
-| Barnibus + Cromley all'indagine | Vorador, Barnabus | **Nuovo S7** | Vorador: accesso privilegiato come Ordine Magisti / Force Grey |
-| Fala Lefaliir testimone | Aelar, Tutti | **Nuovo S7** | Amicizia con Aelar; ha visto Urstul fuggire con oggetto stretto in mano |
-| Jezrynne — la marionetta sul tetto | Tutti | **Nuovo S7** | Pista verso il nimblewright → Tempio di Gond |
-| Martem — la collana di fireballs | Tutti | **Nuovo S7** | Prova fisica del crimine; tenerla = rischio legale |
-| Stone of Golorr — cosa è | Tutti | **Nuovo S7** | Renaer rivela: artefatto senziente, chiave del vault di Neverember |
-| Nim e il Tempio di Gond | Scintilla, Tutti | **Nuovo S7** | Nimblewright Detector ottenuto; 500 mo da Valetta per distruzione |
-| Davil arrestato / Rastrellamento Watch | Krauser, Scintilla | **Nuovo S7** | "Bad Time to Be a Zhent" — Watch stringe sugli Zhentarim |
-| Messaggio di Istrid Horn | Krauser, Scintilla | **Nuovo S7** | Conoscono già il nome da S6 (Emmek); bridge verso Zentharim M2 |
-| Villa Gralhund — prossimo passo | Tutti | **In arrivo S8** | Nimblewright là; battaglia Zhentarim vs. Gralhund in corso |
+| Stone of Golorr — cosa è | Tutti | **Da FASE 1** | Renaer rivela: artefatto senziente, chiave del vault di Neverember |
+| Indirizzo Villa Gralhund | Tutti | **Da FASE 1** | Renaer/Arpisti: un residente ha visto Urstul entrare in Saerdoun Street |
+| Nim e il Tempio di Gond | Scintilla, Tutti | **FASE 2** | Nimblewright Detector ottenuto; 500 mo da Valetta per la distruzione |
+| Irruzione a Villa Gralhund | Tutti | **FASE 3 (surplus → eventuale S8)** | Urstul Floxin, Hrabbaz, Yalah; guerra Zhent vs. Gralhund |
+| Il nimblewright fugge con la pietra | Tutti | **FASE 3** | Innesca il Cap. 4; il Detector segnala "fuggito", non la direzione |
+| Baule di Asmodeo / sigillo Cassalanter | Vorador | **FASE 3** | Vorador riconosce il sigillo del suo talismano → svolta del suo arco |
+| Urstul Floxin — il bersaglio di Barney | Barnabus | **FASE 3** | Era qui: cattura/uccisione = chiusura arco; fuga = seconda beffa |
+| Sangue innocente / presagio di Hlam | Razak | **In corso** | Gli 11 morti della Fireball sono la macchina che si mette in moto |
+| Davil arrestato / "Bad Time to Be a Zhent" | Krauser, Scintilla | **FASE 4** | La Watch stringe sugli Zhentarim dopo i fatti |
+| Messaggio di Istrid Horn | Krauser, Scintilla | **FASE 4** | Conoscono il nome da S6; rifugio al manor → +2 Renown |
+| Semina M2 — Davil (Zhentarim, ~S8) | Krauser, Scintilla | **Seminato S7** | "Tieni il Resto"; apre l'arco Oathbreaker di Krauser |
+| Semina M2 — Vajra (Force Grey, ~S9) | Vorador, Razak | **Seminato S7** | "Non è Tutto Oro" + filo Brottor (zone sotterranee North Ward) |
+| Semina M2 — Mirt (Arpisti, ~S9-10) | Aelar | **Seminato S7** | "Disinfestazione"; Gazer a Curiosity & Satisfaction |
 
 ---
 
@@ -298,49 +305,33 @@ Se in S8 il party entra a Villa Gralhund e trova **due simboli di Asmodeo e due 
 *(Da compilare dopo la sessione)*
 
 ### Cosa è successo
-- [ ] Il party ha esaminato la scena del crimine prima dell'arrivo della Guardia
-- [ ] Le gemme di Dalakhar (500 mo) — acquisite? Qualcuno è stato visto?
-- [ ] Fala ha testimoniato — Aelar era presente?
-- [ ] Jezrynne ha descritto la marionetta
-- [ ] Martem — la collana è stata consegnata? Come?
-- [ ] Barnibus + Cromley hanno interrogato il party — esito: cooperazione / tensione / Force Grey override?
-- [ ] Renaer ha rivelato il retroscena di Dalakhar e Stone of Golorr
-- [ ] Il party ha visitato il Tempio di Gond
-- [ ] Il Nimblewright Detector è stato ottenuto
-- [ ] Valetta ha offerto la ricompensa di 500 mo — accettata?
-- [ ] Il messaggio di Istrid Horn è arrivato — chi lo ha ricevuto?
-- [ ] L'incontro con Istrid è avvenuto (se sì: che accordo?)
+- [ ] Renaer ha rivelato il retroscena di Dalakhar e Stone of Golorr (+ indirizzo Villa Gralhund)
+- [ ] Il party ha visitato il Tempio di Gond — Nimblewright Detector ottenuto? Ricompensa Valetta accettata?
+- [ ] Villa Gralhund: il party è entrato? Watch o irruzione? Esito?
+- [ ] Urstul Floxin — catturato / ucciso / fuggito?
+- [ ] Lord Gralhund interrogato — quali delle 3 informazioni estorte?
+- [ ] Baule di Yalah trovato? Vorador ha collegato il sigillo di Asmodeo?
+- [ ] Il nimblewright è fuggito con lo Stone (Cap. 4 aperto)
+- [ ] Bottino: gemme 500 mo + lingotti/horseshoes of speed da Villa Gralhund?
+- [ ] Messaggio di Istrid Horn arrivato — chi l'ha ricevuto? Che accordo?
+- [ ] Semina M2: quali referenti hanno agganciato il party (Davil / Vajra / Mirt)?
 
 ### PNG Incontrati / Aggiornamento Attitudini
 
 | PNG | Personaggio | Incontro | Attitudine post-S7 |
 |-----|-------------|----------|--------------------|
-| Barnibus Blastwind | Vorador, Tutti | Interrogatorio + indagine fireball | ? |
-| Saeth Cromley | Barnabus, Tutti | Interrogatorio + pattugliamento | ? |
-| Fala Lefaliir | Aelar, Tutti | Testimonianza oculare | ? |
+| Renaer Neverember | Aelar, Vorador, Tutti | Rivela il segreto di Dalakhar e Stone of Golorr | ? |
 | Valetta | Scintilla, Tutti | Sacerdotessa di Gond — Tempio di Gond | ? |
 | Nim *(nimblewright)* | Scintilla, Tutti | Autore involontario; laboratorio nel sottotetto | ? |
-| Martem Trec *(bambino)* | Tutti | La collana di fireballs | ? |
-| Jezrynne Hornraven | Tutti | Testimone casuale — marionetta sul tetto | ? |
-| Renaer Neverember | Aelar, Vorador, Tutti | Rivela il segreto di Dalakhar e Stone of Golorr | ? |
+| Yalah Gralhund | Tutti | Camera padronale — Stone consegnato al nimblewright | ? |
+| Orond Gralhund | Tutti | Barricato; fonte delle 3 rivelazioni | ? |
+| Hrabbaz | Tutti | Guardaspalle mezzorco di Yalah | ? |
+| Urstul Floxin | Barnabus, Tutti | Suite ospiti — ferito; bersaglio di Barney | ? |
 | Istrid Horn *(incontro, opzionale)* | Krauser, Scintilla | Cimitero della Città — richiesta di rifugio | ? |
 
 ### XP / Milestone
-- **Milestone:** Lv 3 confermato da S6. Nessun level up in S7.
-- **Ricompense possibili:** 500 mo gemme di Dalakhar + eventuale 500 mo ricompensa Valetta
+- **Milestone:** Lv 3 confermato da S6. **Nessun level up in S7** (Lv 4 alla chiusura del Cap. 3, dopo le tre M2).
+- **Ricompense possibili:** 500 mo gemme di Dalakhar + 500 mo ricompensa Valetta + lingotti/horseshoes of speed da Villa Gralhund
 
 ### Thread Narrativi Aperti
 *(Da compilare dopo la sessione)*
-
----
-
-## POST-SESSION CHECKLIST
-
-- [ ] Aggiornare `ai/knowledge/party.md` — Lv 3 confermato, eventuale oro acquisito, nuovi oggetti
-- [ ] Aggiornare `ai/knowledge/png-incontrati.md` — Valetta, Nim, Martem Trec, Jezrynne Hornraven (nuovi); attitudini aggiornate per Barnibus, Cromley, Fala, Renaer, Istrid Horn (se incontrata)
-- [ ] Aggiornare `ai/knowledge/rapporti.md` — nuovi rapporti PG ↔ PNG post-S7
-- [ ] Aggiornare `ai/knowledge/stato-missioni.md` — Zentharim M2 "Tieni il Resto": avviata se Istrid contattata?
-- [ ] Aggiornare `ai/knowledge/contesto.md` — `Capitolo corrente: 3`
-- [ ] Creare `campagna/sessioni/recaps/recap-sessione-07.md` dopo la sessione reale
-- [ ] Creare `campagna/sessioni/dm-notes-sessione-08.md` (Cap. 3 cont. — Villa Gralhund: battaglia Zhentarim vs. Gralhund, Yalah, Stone of Golorr, nimblewright in fuga)
-- [ ] Commit su git

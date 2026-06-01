@@ -1,7 +1,9 @@
 # DM Notes — Sessione 6 (In-Game)
 
+> ⚠️ **File finalizzato post-sessione.** Le fasi sono annotate con ✅/⏸️/🔀 per riflettere la realtà giocata. Le fasi 1-3 di dm-notes-07 (apertura Cap. 3 — Fireball) sono state giocate nella stessa serata e sono riportate in coda nella sezione *Apertura Cap. 3 — Fireball*. Vedi *RECAP POST-SESSIONE* per il riepilogo.
+
 > **Fonte primaria:** `fonti/campagna/Dragon Heist.md` · Sezione *"Trollskull Alley — Open for Business?"* (Cap. 2, righe ~1492-1599) — Sample Guild Representatives, Business Rival: Emmek Frewn, Emmek's Plans, Level Advancement
-> **Contesto:** Party Lv 2 · Tre missioni M1 (Arpisti / Force Grey / Zhentarim) **completate** in S5 → tutti i PG sono ora ufficiali nelle rispettive fazioni · Trollskull Manor parzialmente ripulita, costi di ristrutturazione presentati da Broxley · Cargo Midnight Tears lasciato al magazzino (Vorador ha consegnato a Vajra info e documento Brottor; Vorador in possesso di un talismano di Asmodeus; Krauser in possesso del talismano di Edran Voss consegnato da Davil) · Cap. 2 ancora in chiusura
+> **Contesto:** Party Lv 2 · Tre missioni M1 (Arpisti / Force Grey / Zhentarim) **completate** in S5 → tutti i PG sono ora ufficiali nelle rispettive fazioni · Trollskull Manor parzialmente ripulita, costi di ristrutturazione presentati da Broxley · Cargo Midnight Tears lasciato al magazzino (Vorador ha consegnato a Vajra info e documento Brottor; Vorador in possesso di un talismano di Asmodeus; Krauser in possesso del talismano di Sylrael Voss consegnato da Davil) · Cap. 2 ancora in chiusura
 > **Obiettivo sessione:** Riprendere le tre fasi non giocate in S5 (Emmek Frewn, Shard Shunners, Gilde mancanti) · Sviluppare il sabotaggio di Emmek attraverso tutta la sua escalation (infestazione → voci → rat faces sulle porte → lettera alla Watch) · Vigilanza notturna e scontro con i wererats · Confronto diretto con Emmek · Chiusura del Cap. 2 con Level Advancement a Lv 3
 > **Durata stimata:** ~2h30m–2h45m
 > **XP accumulati:** Milestone — Lv 2 confermato; **Lv 3 al completamento della chiusura di Cap. 2** (gestione Emmek + transizione Fireball)
@@ -13,7 +15,7 @@
 1. ✅ **Remallia Haventree**: il rapporto **intermedio** post-Maxeene è stato dato a Remallia (Villa Ulbrinter); quello **finale** di chiusura M1 è andato a Mirt. Remallia è quindi PNG confermato incontrato in S5; resta disponibile come supervisor Arpisti ricorrente per Aelar.
 2. ✅ **Pietra di Golor**: nessun *sending* necessario. Il party è già andato di persona da Vajra in S5; nessuno deve "consegnare un invito". Il filo resta aperto: se Vorador vuole approfondire, lo farà spontaneamente cercando Vajra alla Torre.
 3. ✅ **Talismano di Asmodeo (Vorador)**: **è il simbolo specifico della setta dei Cassalanters** — un sigillo forgiato da Asmodeo per questa singola setta. Sconosciuto a tutti tranne ai Cassalanters, ai loro seguaci e ad Asmodeo stesso. Nessuna biblioteca pubblica lo identificherà mai. *Aldric, essendo Asmodeo, lo sa* — ma da "ex avventuriero" può solo suggerire che si tratta di un simbolo *nuovo*, raccontando aneddoti vaghi di "qualcosa di simile" in passato.
-4. ✅ **Talismano di Edran Voss (Krauser)**: simbolo sacro di Tyr; sul retro l'incisione in elfico *"Veglia anche nell'ombra"* — citazione religiosa breve (Tyr che vede senza occhi) carica di significato personale per la loro esperienza nella Shadowfell. Krauser la riconosce a colpo d'occhio.
+4. ✅ **Talismano di Sylrael Voss (Krauser)**: simbolo sacro di Tyr; sul retro l'incisione in elfico *"Veglia anche nell'ombra"* — citazione religiosa breve (Tyr che vede senza occhi) carica di significato personale per la loro esperienza nella Shadowfell. Krauser la riconosce a colpo d'occhio.
 
 ## ⚠️ Decisioni al tavolo (non da risolvere prima)
 
@@ -38,13 +40,13 @@
 - **Renown post-S5**: +2 per Arpisti, Force Grey, Zhentarim.
 - **Cargo Midnight Tears**: **lasciato al magazzino** — il materiale è ancora nelle mani originali. I Cassalanters non hanno motivo di reagire in S6 (a meno che il DM voglia introdurre un emissario discreto come pressione narrativa).
 - **Talismano di Asmodeo** (Vorador): recuperato in S5 da un cadavere di cultista. È il sigillo *specifico* della setta dei Cassalanters — sconosciuto a tutte le fonti pubbliche (vedi FASE 0 per dettagli).
-- **Talismano di Edran Voss** (Krauser): simbolo sacro di Tyr con incisione in elfico sul retro, immediatamente riconoscibile a Krauser. Consegnato da Davil al rapporto Zhentarim M1.
+- **Talismano di Sylrael Voss** (Krauser): simbolo sacro di Tyr con incisione in elfico sul retro, immediatamente riconoscibile a Krauser. Consegnato da Davil al rapporto Zhentarim M1.
 - **Trollskull Manor**: ancora in fase di ristrutturazione. Aelar ha chiesto aiuto a Mirt per la riapertura — la risposta arriva oggi.
 - **Pietra di Golor**: filo passivo. Il party è già andato da Vajra in S5; nessun sending in arrivo. Si riattiverà solo se Vorador prende l'iniziativa di tornare alla Torre.
 
 ---
 
-## FASE 0: FILI APERTI DA S5 — Risposte del Mondo (~15-20 min)
+## ✅ GIOCATO — FASE 0: FILI APERTI DA S5 — Risposte del Mondo (~15-20 min)
 
 Questa fase serve a chiudere o avanzare i fili lasciati aperti dalla S5, prima che il vicolo si rianimi con le visite delle gilde e l'arrivo di Emmek. Ogni filo è una scena breve e indipendente — il DM la attiva se il PG corrispondente la cerca.
 
@@ -72,11 +74,11 @@ Poi cambia argomento.
 
 ---
 
-### Krauser — Il Talismano di Edran Voss
+### Krauser — Il Talismano di Sylrael Voss
 
 **Trigger:** Krauser ha il talismano in tasca dal rapporto con Davil. Quando lo tira fuori per guardarlo da vicino, o quando un altro PG glielo chiede.
 
-**[NOTA DM — riservata]** Simbolo sacro di Tyr (martello stilizzato in metallo). Sul retro, incisione in elfico ***"Veglia anche nell'ombra"***. Krauser la legge senza tiri e sa esattamente cosa significa: è proprio per quell'incisione che ha riconosciuto il talismano come quello di Edran al primo sguardo.
+**[NOTA DM — riservata]** Simbolo sacro di Tyr (martello stilizzato in metallo). Sul retro, incisione in elfico ***"Veglia anche nell'ombra"***. Krauser la legge senza tiri e sa esattamente cosa significa: è proprio per quell'incisione che ha riconosciuto il talismano come quello di Sylrael al primo sguardo.
 
 **Funzione narrativa:** il talismano è la prova fisica che *qualcuno in città sta facendo sparire prove* su quello che è successo nella Shadowfell. Davil lo ha recuperato dal cadavere e lo ha consegnato a Krauser per fargli capire che gli Zhentarim hanno raccolto materiale che altri stanno cercando di eliminare.
 
@@ -92,7 +94,7 @@ Poi torna a versarsi il vino.
 
 ---
 
-## FASE 1: IL RIVALE — Prima Apparizione di Emmek Frewn (~20 min)
+## ✅ GIOCATO — FASE 1: IL RIVALE — Prima Apparizione di Emmek Frewn (~20 min)
 
 *[Scena trasferita verbatim da dm-notes-sessione-05.md — FASE 1]*
 
@@ -114,7 +116,9 @@ Poi torna a versarsi il vino.
 
 ---
 
-## FASE 2: I CERCATORI DI LAVORO — Shard Shunners (~20 min)
+## ✅ GIOCATO — FASE 2: I CERCATORI DI LAVORO — Shard Shunners (~20 min)
+
+> 🔀 **Realtà**: i quattro halfling sono stati **rifiutati** (non assunti). Il sabotaggio è poi arrivato dall'esterno.
 
 *[Scena trasferita verbatim da dm-notes-sessione-05.md — FASE 2]*
 
@@ -146,7 +150,7 @@ Qualche giorno dopo l'arrivo dei contatti fazione, **quattro halfling** si prese
 
 ---
 
-## FASE 3: LE GILDE MANCANTI — Hammond, Justyn, Ulkoria (~30 min)
+## ✅ GIOCATO — FASE 3: LE GILDE MANCANTI — Hammond, Justyn, Ulkoria (~30 min)
 
 *[Scena trasferita verbatim da dm-notes-sessione-05.md — FASE 3]*
 
@@ -188,7 +192,9 @@ Qualche giorno dopo l'arrivo dei contatti fazione, **quattro halfling** si prese
 
 ---
 
-## FASE 4: IL SABOTAGGIO COMINCIA — Sviluppi Emmek/Shard Shunners (~30 min)
+## ✅ GIOCATO — FASE 4: IL SABOTAGGIO COMINCIA — Sviluppi Emmek/Shard Shunners (~30 min)
+
+> 🔀 **Realtà**: il party ha **dedotto che Emmek è il sabotatore** (senza prove concrete) e che ha un debito con Istrid Horn. Ha **ingaggiato l'investigatore privato Vincent Trench** per indagare su Emmek; **Scintilla** ha ottenuto da **Davil Starsong** informazioni sui ratti mannari e sulle loro attività passate.
 
 Pochi giorni dopo le visite delle gilde e dei "lavoratori", il manor comincia a manifestare i primi segni del sabotaggio. Questa fase è progettata per accumulare indizi senza ancora confrontare apertamente Emmek — i PG dovrebbero arrivare *autonomamente* alla deduzione.
 
@@ -254,7 +260,9 @@ I wererats hanno ricevuto altri 50 mo da Emmek per aumentare la visibilità del 
 
 ---
 
-## FASE 5: VIGILANZA NOTTURNA E SCONTRO (~35-45 min)
+## ✅ GIOCATO — FASE 5: VIGILANZA NOTTURNA E SCONTRO (~35-45 min)
+
+> 🔀 **Realtà**: scontro con i **due wererat** all'esterno del manor — feriti **gravemente** e in **fuga** (non catturati). Per un po' dovrebbero stare buoni.
 
 A questo punto i PG hanno motivo di reagire attivamente. Una notte di vigilanza è la mossa più ovvia.
 
@@ -316,7 +324,9 @@ Il party può decidere:
 
 ---
 
-## FASE 6: CONFRONTO CON EMMEK (~20-25 min)
+## ⏸️ NON GIOCATO — risolto per deviazione (non trasferito) — FASE 6: CONFRONTO CON EMMEK (~20-25 min)
+
+> ⏸️ **Realtà**: il confronto diretto **non è avvenuto**. Il party ha agito **indirettamente** (campagna di voci di Aelar, investigatore privato, wererat feriti in fuga). Emmek non è stato né fermato né arrestato. Il filo Emmek/Istrid resta **aperto**, ma **non** come scena di confronto pendente — non viene trasferito alla sessione successiva.
 
 A questo punto i PG hanno abbastanza per affrontare Emmek direttamente.
 
@@ -347,7 +357,9 @@ Indipendentemente dall'esito con Emmek, **Istrid Horn** è ora un nome noto al p
 
 ---
 
-## FASE 7: CHIUSURA + LEVEL UP (~5-10 min)
+## ✅ GIOCATO — FASE 7: CHIUSURA + LEVEL UP (~5-10 min)
+
+> 🔀 **Realtà**: **Level up a Lv 3** confermato (chiusura Cap. 2). **Trollskull Manor aperta** al pubblico.
 
 > Quella notte il manor è silenzioso. Lif è da qualche parte, contento. Maestro Bec dorme sul comodino di Aelar con il papillon ancora storto. I muri non hanno più rumori. La porta non ha più incisioni.
 
@@ -356,6 +368,57 @@ Indipendentemente dall'esito con Emmek, **Istrid Horn** è ora un nome noto al p
 > Lontano, in un altro quartiere, qualcuno fa una scelta. Voi non lo sapete ancora — ma lo saprete presto.
 
 **[NOTA DM]** Apertura S7 = Fireball.
+
+---
+
+---
+
+## 🔥 APERTURA CAP. 3 — FIREBALL (fasi 1-3 di dm-notes-07, giocate in coda alla sessione)
+
+> Queste tre fasi provengono da dm-notes-sessione-07 e sono state **giocate nella stessa serata**, subito dopo la chiusura del Cap. 2. Spostate qui per riflettere la realtà. La prossima sessione riprende dalla **Fase 4** (cosa sa Renaer).
+
+### ✅ GIOCATO — Apertura: La Mattina del Disastro
+
+> Le finestre tremano. Un boato sordo — prima sentito che udito — scuote Trollskull Alley come una percossa nel legno e nella pietra. Poi i vetri, le grida, e la nuvola. Una nuvola nera e acre che si espande dalla strada davanti al vostro portone come fumo da una fornace esplosa. Dalla fessura delle imposte scorgete i primi lampi di quello che rimane: corpi sul selciato, ombre che si muovono in modo spezzato, il silenzio innaturale dei tre secondi successivi all'impatto.
+>
+> Qualcuno ha appena scatenato una *fireball* fuori dalla vostra porta.
+
+Identificazione magia: **Intelligenza (Arcano) CD 13** — è una *fireball*, lanciata da qualcuno sul tetto del vicolo.
+
+### ✅ GIOCATO — Fase 1 (S7): La Scena del Crimine
+
+> 🔀 **Realtà**: il party ha **rubato con successo le 5 gemme** (100 mo l'una, **500 mo** totali) dal cadavere dello gnomo Dalakhar.
+
+Fuori dal manor, undici corpi tra le pietre grigie. Il party ha pochi minuti prima che la Guardia sigilli il vicolo.
+
+**I morti:** un'anziana donna umana; due uomini umani incappucciati in armatura di cuoio (uno con tatuaggio di **serpente alato nero** sull'avambraccio — simbolo della Rete Nera); due donne umane e un mezzelfo (servitori del North Ward); un **gnomo** in mantello bruciato con un pugnale in pugno; due donne e due uomini halfling (musici).
+
+**Prove:** Percezione CD 15 (tatuaggio Rete Nera; fango di fogna sugli stivali dello gnomo; borsa con 5 gemme da 100 mo); Arcano CD 13 (detonazione ~3 m da terra — lanciata dall'alto); Indagare CD 15 (proveniente da un tetto a nord).
+
+**[NOTA DM — riservata]** Lo gnomo è **Dalakhar**, spia di Lord Neverember, diretto al manor per consegnare lo *Stone of Golorr* al party. Il **nimblewright** di Lady Gralhund l'ha fermato lanciando un globo della *necklace of fireballs* dal tetto. **Urstul Floxin**, ferito, ha preso la pietra dal cadavere ed è fuggito verso Villa Gralhund.
+
+Acquisire le gemme: Destrezza (Rapidità di Mano) CD 13 senza farsi notare. **→ Riuscito.**
+
+**Arrivo della Guardia:** sei guardie a ogni ingresso, sei sui cadaveri (un sergente con 18 PF), un cavaliere dei grifoni sorvola. Vicolo sigillato.
+
+### ✅ GIOCATO — Fase 2 (S7): I Testimoni Oculari
+
+Tre testimoni del vicolo, ansiosi di parlare (svolti secondo il piano):
+
+- **Fala Lefaliir** (la fioraia, amica di Aelar): ha visto un uomo incappucciato e malconcio prendere qualcosa dal corpo dello gnomo e allontanarsi zoppicando verso il Bent Nail, guardandosi le spalle. → È **Urstul Floxin** in fuga con lo Stone of Golorr. Con Aelar aggiunge: *"Aveva la corporatura di chi fa male agli altri di mestiere... portava qualcosa di piccolo in mano, stretto come se valesse più della sua vita."*
+- **Jezrynne Hornraven** (nobile, in uscita dall'ufficio di Vincent Trench): *"Non era un uomo. Sembrava un burattino a forma d'uomo — una marionetta senza fili. Era sul tetto. Ha lanciato qualcosa nella folla."* → È il **nimblewright**.
+- **Martem Trec** (bambino di 12 anni): ha trovato nella botte dell'acqua piovana una **collana di fireballs** con due globi rimasti e la fibbia rotta (sganciatasi dal nimblewright in fuga). Persuasione/Intimidazione CD 8 per farsela cedere; nasconderla alla Watch è reato a Waterdeep.
+
+### ✅ GIOCATO — Fase 3 (S7): Barnibus e Cromley
+
+> Un uomo basso con il mantello dell'Ordine Magisti cammina davanti... Al suo fianco, la divisa grigio-blu di un sergente della Watch. Barnibus Blastwind e Saeth Cromley arrivano insieme, e i soldati cedono il passo senza una parola.
+
+**Barnibus Blastwind** prende il controllo dell'indagine; **Saeth Cromley** dirige venti constables porta a porta. Tre conclusioni di Barnibus (condivise con l'Ordine / Force Grey):
+1. Lo gnomo fuggiva da inseguitori armati — almeno tre; il terzo non è tra i morti.
+2. Gnomo e inseguitori si dirigevano verso il manor del party.
+3. Né lo gnomo né gli inseguitori si aspettavano l'esplosione.
+
+Barnibus e Cromley **non** accettano che il party si unisca all'indagine (*"Troppe variabili in un'equazione già confusa"* / *"Fidatevi della Watch"*). Pressione reale: **Urstul Floxin era qui e non è stato catturato.**
 
 ---
 
@@ -375,13 +438,13 @@ Il presagio di Hlam (*"sangue innocente sarà versato nel Giorno dei Fondatori"*
 
 ### Rennis Coalsworth (Scintilla — Eric)
 
-Davil ha consegnato a Krauser il talismano di Edran in S5 — un gesto pubblico. Scintilla ha visto il momento. Davil non ha consegnato nulla a Scintilla, ma il **sottinteso** è che, se vuole, può ottenere informazioni sulla sua questline (Rennis) attraverso lo stesso canale.
+Davil ha consegnato a Krauser il talismano di Sylrael in S5 — un gesto pubblico. Scintilla ha visto il momento. Davil non ha consegnato nulla a Scintilla, ma il **sottinteso** è che, se vuole, può ottenere informazioni sulla sua questline (Rennis) attraverso lo stesso canale.
 
 *Hook attivo:* se Scintilla cerca Davil in S6 (o gli fa visita al Portale Spalancato), Davil è ricettivo. Può menzionare casualmente: *"Componenti rari… ne sentiamo parlare ancora. Qualcuno li tiene fermi. Se hai pazienza, potrai chiedermi qualcosa di specifico al momento giusto."* — promessa esplicita, senza dettagli.
 
 ### Krauser / Vosk (Friedrich — Gabri)
 
-Il filo Vosk si è aperto in S5 tramite il talismano di Edran consegnato da Davil. La funzione narrativa del talismano: dimostrare a Krauser che qualcuno in città sta facendo sparire prove su quello che è successo nella Shadowfell (Davil ha intercettato una di queste prove e gliel'ha passata).
+Il filo Vosk si è aperto in S5 tramite il talismano di Sylrael consegnato da Davil. La funzione narrativa del talismano: dimostrare a Krauser che qualcuno in città sta facendo sparire prove su quello che è successo nella Shadowfell (Davil ha intercettato una di queste prove e gliel'ha passata).
 
 *Hook attivo S6:* niente progressi maggiori — momento di digestione. La rivelazione (Toga Nera = magistrato Valerius) arriverà più avanti (FASE 3c, Cap. 2 finale o inizio Cap. 3).
 
@@ -391,15 +454,15 @@ Aldric può essere al Portale Spalancato se Krauser ci passa. Le sue battute pro
 
 ### Emmek Frewn / Shard Shunners
 
-In S6 si aprono ufficialmente. Emmek si presenta cordialmente (FASE 1), gli Shard Shunners si candidano (FASE 2), e il sabotaggio inizia (FASE 4). Il confronto diretto è S7+.
+Aperti e giocati in S6: Emmek comparso (FASE 1), Shard Shunners rifiutati al colloquio (FASE 2), arco sabotaggio svolto (FASE 4), scontro notturno coi wererat feriti in fuga (FASE 5). Il confronto diretto **non è avvenuto**: risolto per deviazione (campagna di voci di Aelar + investigatore Vincent Trench ingaggiato). Il filo Emmek/Istrid resta aperto, ma **non** come scena di confronto pendente — non trasferito a S7.
 
-Il collegamento Emmek → Shard Shunners si deduce via Istrid Horn → prestito Zhentarim → halfling sospetti.
+Il collegamento Emmek → Shard Shunners è stato dedotto dal party via Istrid Horn → prestito Zhentarim → halfling sospetti.
 
 ### Talismano di Asmodeo (Vorador)
 
 Filo nuovo aperto in S5 (oggetto in possesso di Vorador). **È il sigillo specifico della setta Cassalanter** — non esiste nei testi pubblici, nessun PNG accademico può identificarlo. L'unica via di indagine sensata è seguire *chi indossa il sigillo*, non il sigillo stesso. Vedi FASE 0 per la sinergia con Aldric (che può indirizzare la ricerca senza rivelare nulla).
 
-### Talismano di Edran Voss (Krauser)
+### Talismano di Sylrael Voss (Krauser)
 
 Filo nuovo aperto in S5. Sacro di Tyr con incisione elfica sul retro: *"Veglia anche nell'ombra"*. Vedi FASE 0 per i dettagli e la sinergia con Aldric.
 
@@ -415,7 +478,7 @@ Filo nuovo aperto in S5. Risposta di Mirt in FASE 0 (uccellino origami). Decisio
 |------|-----------|-------------------|------|
 | Risposta Mirt sulla riapertura del manor | Aelar (Arpisti) | **Nuovo S6** | Uccellino origami; sì/no ha conseguenze meccaniche |
 | Analisi talismano di Asmodeo | Vorador | **In corso** | Sigillo specifico della setta Cassalanter — nessuna fonte pubblica lo riconosce; solo Aldric può dare indizi (sigillo proprietario di una setta) |
-| Riflessione su talismano di Edran Voss | Krauser | **In corso** | Sacro di Tyr; sul retro l'incisione elfica *"Veglia anche nell'ombra"*; Aldric può commentare |
+| Riflessione su talismano di Sylrael Voss | Krauser | **In corso** | Sacro di Tyr; sul retro l'incisione elfica *"Veglia anche nell'ombra"*; Aldric può commentare |
 | Pietra di Golor | Vorador (Force Grey) | **Filo passivo** | Nessun sending da Vajra in arrivo; si riattiva solo se Vorador prende l'iniziativa |
 | Prima apparizione Emmek Frewn | Tutti | **Nuovo S6** | (Spostato da S5) |
 | Shard Shunners — colloquio | Tutti | **Nuovo S6** | (Spostato da S5) |
@@ -434,53 +497,39 @@ Filo nuovo aperto in S5. Risposta di Mirt in FASE 0 (uccellino origami). Decisio
 
 ## RECAP POST-SESSIONE
 
-*(Da compilare dopo la sessione)*
+*Dettagli completi in `ai/knowledge/recaps/recap-sessione-06.md`.*
 
 ### Cosa è successo
-- [ ] Mirt ha aiutato silenziosamente le gilde / Aelar ha notato l'intervento
-- [ ] Vorador ha avanzato sull'analisi del talismano di Asmodeo (aneddoto Aldric, sì/no)
-- [ ] Krauser ha esaminato il talismano di Edran Voss
-- [ ] Emmek Frewn è comparso per la prima volta nel vicolo
-- [ ] I quattro halfling (Shard Shunners) si sono presentati per il colloquio (assunti / rifiutati)
-- [ ] Hammond Kraddoc, Justyn Rassk, Ulkoria Stonemarrow hanno visitato il manor
-- [ ] L'infestazione di topi è stata notata
-- [ ] Le voci di Emmek sono arrivate al party
-- [ ] Rat faces sulle porte dei vicini
-- [ ] Lettera alla Watch + ispezione (esito)
-- [ ] Vigilanza notturna + esito scontro wererats (cattura / fuga / morti)
-- [ ] Confronto con Emmek (tregua / escalation / vendetta)
-- [ ] Level up Lv 3 → Cap. 2 chiuso
+- [x] Mirt / gilde e fili aperti da S5 (FASE 0) — svolti secondo il piano
+- [x] Emmek Frewn comparso nel vicolo
+- [x] Shard Shunners al colloquio → **rifiutati** (non assunti)
+- [x] Hammond, Justyn, Ulkoria hanno visitato il manor
+- [x] Infestazione di topi, voci di Emmek, rat faces, lettera alla Watch — arco sabotaggio svolto
+- [x] Vigilanza notturna → **2 wererat feriti gravemente, in fuga** (non catturati)
+- [ ] Confronto diretto con Emmek → **NON avvenuto** (risolto per deviazione: investigatore + voci di Aelar)
+- [x] **Trollskull Manor aperta** al pubblico
+- [x] **Investigatore Vincent Trench** ingaggiato; **Scintilla** ha avuto intel sui wererat da **Davil**
+- [x] **Level up a Lv 3** → Cap. 2 chiuso
+- [x] **Apertura Cap. 3 (Fireball)** giocata fino alla Fase 3 — gemme di Dalakhar (500 mo) sottratte
 
 ### PNG Incontrati / Aggiornamento Attitudini
 
 | PNG | Personaggio | Incontro | Attitudine post-S6 |
 |-----|-------------|----------|--------------------|
-| Mirt il Cambiavalute | Aelar | Intervento silenzioso sulle gilde | ? |
-| Emmek Frewn | Tutti | Prima apparizione + confronto al pub | ? |
-| Shard Shunners (×4) | Tutti | Colloquio di lavoro + scontro notturno | ? |
-| Hammond Kraddoc | Tutti | Visita al manor — alcol | ? |
-| Justyn Rassk | Tutti | Visita al manor — carne | ? |
-| Ulkoria Stonemarrow | Tutti | Visita al manor — Magisti | ? |
-| Tarus Stonebridge (Watch) | Tutti | Ispezione formale al manor | ? |
-| Aldric *(opzionale)* | Krauser, Vorador | Portale Spalancato — sui talismani | ? |
-| Istrid Horn *(menzionata)* | Krauser, Scintilla | Nome emerso nei circoli Zhentarim | — |
+| Emmek Frewn | Tutti | Rivale; identificato come sabotatore, non confrontato | Ostile (non confrontato) |
+| Shard Shunners (wererat) | Tutti | Colloquio rifiutato + scontro notturno | Ostili, in fuga (2 feriti) |
+| Istrid Horn | Krauser, Scintilla | Nome emerso (prestito a Emmek) | — (menzionata) |
+| Davil Starsong | Scintilla | Favore: intel sui ratti mannari | Collaborativo |
+| Vincent Trench | Tutti | Investigatore privato ingaggiato | Ingaggiato |
+| Dalakhar (gnomo) | Tutti | Cadavere alla scena del crimine; 500 mo gemme | Morto |
+| Fala, Jezrynne, Martem | Tutti / Aelar | Testimoni oculari della Fireball | Per piano |
+| Barnibus Blastwind, Saeth Cromley | Tutti / Vorador | Indagine sulla Fireball | Per piano |
 
 ### XP / Milestone
-- **Milestone:** Lv 3 confermato a chiusura Cap. 2 (se condizioni in FASE 5)
-- **XP tracciato:** Non applicabile
+- **Milestone:** **Lv 3** confermato (chiusura Cap. 2).
 
 ### Thread Narrativi Aperti
-*(Da compilare dopo la sessione)*
-
----
-
-## POST-SESSION CHECKLIST
-
-- [ ] Aggiornare `ai/knowledge/party.md` — livello (Lv 3), nuovi PNG, attitudini post-S6
-- [ ] Aggiornare `ai/knowledge/png-incontrati.md` — Emmek Frewn, Shard Shunners, Hammond, Justyn, Ulkoria
-- [ ] Aggiornare `ai/knowledge/rapporti.md` — attitudini post-S6
-- [ ] Aggiornare `ai/knowledge/stato-missioni.md` — eventuali nuove missioni avviate (es. "Indagine Emmek")
-- [ ] Aggiornare `ai/knowledge/contesto.md` — `Capitolo corrente: 2` (era stale a "1"); a fine S6 può diventare "3" se Cap. 2 chiude
-- [ ] Creare `campagna/sessioni/recaps/recap-sessione-06.md` dopo la sessione reale
-- [ ] Creare `campagna/sessioni/dm-notes-sessione-07.md` (Cap. 3 — Fireball: esplosione, scena del crimine, Renaer)
-- [ ] Commit su git
+- **Emmek / Istrid Horn**: filo aperto (Emmek non confrontato; wererat in fuga; debito Zhentarim noto al party).
+- **Campagna di voci di Aelar** (deviazione): Emmek bollato come alleato dei ratti mannari e come Zhentarim → conseguenze attese sulle fazioni (vedi recap, *Note DM*).
+- **Indagine Emmek via Vincent Trench**: risultati dell'investigatore in arrivo.
+- **Fireball / Stone of Golorr**: indagine Cap. 3 in corso; piste verso Renaer, il nimblewright e Urstul Floxin → da seguire in S7.

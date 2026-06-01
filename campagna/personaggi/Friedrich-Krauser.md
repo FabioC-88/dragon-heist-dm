@@ -100,7 +100,7 @@ All'inizio non eri d'accordo. Poi ci hai ripensato. Alla fine, hai smesso di ess
 | **Yagra Stonefist** | Intermediaria Zentharim | Mezza orchessa, braccio destro di Davil. Ha contattato Gabri ed Eric dopo S1. |
 | **Volothamp "Volo" Geddarm** | Committente S1 | Ha avvicinato Gabri al Portale Spalancato. |
 | **Durnan** | Presenza fissa | Proprietario del Portale Spalancato; fonte di informazioni locali. |
-| **Magistrato Valerius** *(Toga Nera)* | **Antagonista-speculare** | Alto magistrato e sacerdote di Tyr. Ha firmato l'ordine per l'imboscata nella Shadowfell. Rappresenta tutto ciò che Friedrich doveva diventare. |
+| **Magistrato Valerius Vosk** *(Toga Nera)* | **Antagonista-speculare** | Alto magistrato e sacerdote di Tyr; stemma con bilancia stilizzata. Ha firmato l'ordine per l'imboscata nella Shadowfell. Rappresenta tutto ciò che Friedrich doveva diventare. |
 | **Padre Borin** | Sacerdote di Tyr | Rappresenta la Chiesa di Tyr come istituzione. Tradisce Friedrich quando presenta le prove. |
 | **Skeemo Weirdbottle** | Alchimista gnomo | Zhentarim (copertura) / Manshoon (vero padrone). Funziona come distrattore e prova che il magistrato lo usava per coprire i suoi crimini. |
 

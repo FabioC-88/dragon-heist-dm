@@ -10,7 +10,7 @@
 
 ## 📖 Sinossi
 
-**Aldren Vosk ha i giorni contati** — ma non grazie alla giustizia ordinaria. Davil Starsong ha costruito un caso contro il magistrato corrotto e ha bisogno di un testimone credibile. Un ex paladino della Chiesa di Tyr vale più di qualsiasi spia. La trappola è elegante: gli Zhentarim usano **Krauser** per legittimare le loro prove, ottenendo la caduta di un rivale politico. Non è giustizia. È politica. Ma il risultato è lo stesso.
+**Valerius Vosk ha i giorni contati** — ma non grazie alla giustizia ordinaria. Davil Starsong ha costruito un caso contro il magistrato corrotto e ha bisogno di un testimone credibile. Un ex paladino della Chiesa di Tyr vale più di qualsiasi spia. La trappola è elegante: gli Zhentarim usano **Krauser** per legittimare le loro prove, ottenendo la caduta di un rivale politico. Non è giustizia. È politica. Ma il risultato è lo stesso.
 
 Mentre **Krauser** testimonia in aula, **Scintilla** nota qualcosa nel pubblico — un uomo con un tatuaggio che non avrebbe dovuto essere lì. Poi il caos prende forma: tutto il lavoro fatto in quattro missioni rischia di svanire in un istante, e ognuno deve scegliere cosa conta davvero.
 
@@ -41,7 +41,7 @@ Mentre **Krauser** testimonia in aula, **Scintilla** nota qualcosa nel pubblico 
 | PNG | Ruolo | Note |
 |-----|-------|------|
 | **Davil Starsong** | Architetto del processo | Usa Krauser come strumento; onesto su questo |
-| **Aldren Vosk** | Imputato / magistrato corrotto | Ancora convinto di avere ragione; fuggirà nel caos |
+| **Valerius Vosk** | Imputato / magistrato corrotto | Ancora convinto di avere ragione; fuggirà nel caos |
 | **Simulacro di Manshoon** | Agente del caos | In aula da ore come testimone silenzioso; agisce al momento giusto |
 | **L'uomo con il tatuaggio** | Agente di Manshoon / filo verso Rennis | Tatuaggio: serpente alato — lo stesso simbolo che Rennis aveva descritto |
 | **Yagra Stonefist** | Supporto Zhentarim | Presente come "pubblico", scorta discreta |
@@ -160,7 +160,7 @@ Seguire l'uomo con il tatuaggio — che porta a Rennis — significa abbandonare
 
 **Atmosfera DM:** Questa è una stanza dove tutti guardano tutti. Scintilla può usare questo — mentre l'attenzione è su Friedrich Krauser, lei può osservare il pubblico senza essere osservata a sua volta.
 
-**Aldren Vosk** *(quando Friedrich Krauser entra in aula, a voce abbastanza alta da essere sentito)*:
+**Valerius Vosk** *(quando Friedrich Krauser entra in aula, a voce abbastanza alta da essere sentito)*:
 > *"Guarda cosa sei diventato. Almeno io sono rimasto fedele a qualcosa."*
 
 La battuta è autentica — Vosk lo crede davvero.
@@ -219,7 +219,7 @@ La battuta è autentica — Vosk lo crede davvero.
 
 *Se il party riesce ad avvicinarsi a Vosk prima che sparisca completamente nel caos:*
 
-**Aldren Vosk** *(già oltre la soglia, senza voltarsi)*:
+**Valerius Vosk** *(già oltre la soglia, senza voltarsi)*:
 > *"Ho fatto quello che dovevo. Voi avete fatto quello che vi è stato detto. Non c'è differenza."*
 
 *Scompare nell'angolo. Le prove originali con lui.*
@@ -242,8 +242,8 @@ La battuta è autentica — Vosk lo crede davvero.
 - **Collegate a:** [Zentharim M1](M1-UnBruttoMomento.md), [M2](M2-TieniIlResto.md), [M3](M3-CorriDasher.md) **(FINALE ARCO — porta al dungeon conclusivo)**
 - **Introduce:** Il Simulacro di Manshoon come minaccia concreta e presente
 - **Rivela:** Vosk come asset di Manshoon, non solo magistrato corrotto autonomo
-- **Porta a:** [Dungeon Conclusivo — Le Kolat Towers](../../fonti/personaggi/Arco_Krauser_Scintilla.md#le-kolat-towers)
-- **Arco PG:** [Arco Krauser & Scintilla](../../fonti/personaggi/Arco_Krauser_Scintilla.md) — Missione 4
+- **Porta a:** [Dungeon Conclusivo — Le Kolat Towers](../../campagna/personaggi/Friedrich-Krauser.md)
+- **Arco PG:** [Arco Krauser & Scintilla](../../campagna/personaggi/Friedrich-Krauser.md) — Missione 4
 - **Fazione:** [Zhentarim](../../Campagna/fazioni.md#zhentarim)
 
 ---

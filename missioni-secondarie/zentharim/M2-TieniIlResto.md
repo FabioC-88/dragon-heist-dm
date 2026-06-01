@@ -86,7 +86,7 @@ Un **serpente volante** (magico, non biologico) deposita una pergamena:
 ### Il Sigillo di Vosk
 Sulla confezione c'è un sigillo — uno stemma nobile con una bilancia stilizzata. Krauser lo riconosce: è lo stesso sigillo sull'ordine di missione che lo mandò nella Shadowfell.
 
-**Rilevazione:** Automatica per Krauser. Per gli altri PG: Storia CD 13 per identificarlo come sigillo di Vosk, magistrato del Quartiere del Castello.
+**Rilevazione:** Automatica per Krauser. Per gli altri PG: Storia CD 13 per identificarlo come sigillo di **Valerius Vosk**, magistrato del Quartiere del Castello.
 
 Questo è il momento in cui le storie dei due PG si toccano concretamente per la prima volta.
 
@@ -188,6 +188,77 @@ Esvele le prende, verifica il sigillo, se ne va. Fine interazione.
 
 ---
 
+## 🔥 Scena Krauser — La Proposta di Asmodeo *(la sera dopo — svolta Oathbreaker)*
+
+> **Quando:** La sera stessa della missione, o la notte successiva — quando il riconoscimento del **sigillo di Valerius Vosk** (Scena 2) ha riaperto la ferita della Shadowfell a sangue caldo. Questa è la scena che il giocatore di Krauser (Gabri) ha chiesto: la rivelazione di Asmodeo e la **svolta Oathbreaker**. È un momento **uno-contro-uno** — ritaglia uno spazio in cui Krauser è solo, o porta il resto del party fuori scena per qualche minuto.
+>
+> Il **seme** è già stato piantato in S7 (Aldric, "la prima crepa nella maschera", in `dm-notes-sessione-07.md` FASE 4). Se quel beat non è stato giocato, va bene comunque: qui Asmodeo dice tutto.
+
+### Beat 1 — La maschera cade
+
+*Aldric ti trova dove ti sei rifugiato a smaltire la giornata. Si siede senza chiedere, come la prima sera al Portale. Due birre. Ne spinge una verso di te. Ma stavolta non sorride.*
+
+**Aldric:**
+> *"Quella bilancia sul sigillo. L'hai riconosciuta prima ancora di leggerne il nome. Valerius Vosk. Magistrato del Quartiere del Castello, sacerdote di Tyr, l'uomo che ha firmato l'ordine che ti ha mandato a morire nell'ombra. E sai cosa fa la sua Chiesa, adesso che lo sai? Lo protegge. Come ha sempre fatto."*
+
+*Ti guarda. E per la prima volta da quando lo conosci, lo sguardo non è quello di un vecchio avventuriero stanco.*
+
+> *"Tu mi hai già incontrato, Friedrich. Una volta. In un posto buio, mentre il tuo sangue si raffreddava sulla pietra. Ti offrii una via d'uscita. Dicesti di no — perché firmare nel buio ti sembrava irreversibile. Tornasti a casa. E mi trovasti ad aspettarti al bancone, ogni sera, da allora."*
+
+**[NOTA DM]** Questo è il reveal. Giocalo **piano**, non in grande. La cosa terrificante di Asmodeo non è il fuoco infernale: è che l'amico era reale *ed* era il diavolo, e che **non ha mai mentito**. Niente corna, niente zolfo — Aldric resta Aldric. Cambia solo il peso di ciò che dice. Lascia che sia Gabri a capire un attimo prima che tu lo dica esplicito.
+
+### Beat 2 — La verità che Tyr ti ha nascosto
+
+Asmodeo offre a Krauser ciò che la giustizia di Tyr non gli ha mai dato: **la verità intera**, senza sconti. Tutto ciò che vuole sapere su Valerius Vosk — perché ha firmato, chi copre, quanti commilitoni (come l'uomo il cui talismano Krauser porta ancora addosso) sono finiti sotto terra per tenere in piedi la sua carriera — Asmodeo glielo dice. *Senza mentire.* È questo il gancio: il Signore degli Inferi è l'unico, in tutta Waterdeep, che non lo tratta come un fascicolo archiviato.
+
+**Aldric:**
+> *"Non ti mentirò mai. È l'unica cosa che mi distingue dal tuo dio: lui ti ha lasciato credere a una favola, io ti dico come stanno le cose. Vosk vivrà ricco e vecchio sotto la protezione di Tyr — a meno che qualcuno non smetta di rispettare le regole che lo proteggono."*
+
+### Beat 3 — Lo specchio oscuro di Tyr
+
+Il cuore della proposta. Asmodeo non tenta Krauser con il vizio: lo tenta con la **giustizia**. È l'arcidiavolo della legge, dei patti, della gerarchia — lo specchio deformato del dio che Krauser serviva.
+
+**Aldric:**
+> *"Tyr ti ha dato una legge piena di porte sul retro: cavilli, immunità, perdono per chi indossa la toga giusta. Una legge che protegge Vosk. Io ti offro una legge senza porte sul retro. Senza pietà per i colpevoli. La giustizia che non si volta dall'altra parte. La conosci già — l'hai sempre voluta. Solo che il tuo dio ti ha insegnato a chiamarla peccato."*
+
+### Beat 4 — Il richiamo del rifiuto
+
+**Aldric:**
+> *"Mi rifiutasti, nella Shadowfell. Giusto così: non eri pronto. Ma guarda la strada che hai fatto da allora. Ogni compromesso grigio. Ogni lavoro sporco per gli Zhentarim. Ogni verità ingoiata per restare in piedi. Cammini verso di me da anni, un passo alla volta. Io non ti ho mai spinto. Ho aspettato. La pazienza è l'unica virtù che io e Tyr abbiamo in comune."*
+
+### Beat 5 — L'offerta (il contratto)
+
+E qui sta la trappola più elegante: **Asmodeo non chiede nulla, adesso.**
+
+**Aldric:**
+> *"Ecco cosa ti propongo. Smetti di servire un dio che ti ha abbandonato e che protegge il tuo carnefice. Servi la tua giustizia. Il potere per farlo non è mio da regalare — è già tuo. È quello che resta quando smetti di mentire a te stesso su Tyr. Io sono solo abbastanza onesto da dirtelo."*
+
+*Una pausa. Solleva il boccale di un dito — non un brindisi: un'offerta.*
+
+> *"Nessuna firma. Nessuna anima, stasera. Nessun voto a me. Prendi ciò che ti serve, fai ciò che va fatto con Vosk. Un giorno, quando il conto sarà maturo, farai una cosa per me. Non oggi. E non te la chiederò io: verrai tu. Lo fanno tutti."*
+
+**[NOTA DM — riservata]** Il **prezzo differito** è la parte più sinistra — e prepara il **patto vero** del Cap. 4-5 (e il **Cimelio** che Aldric consegnerà più avanti, vedi `campagna/personaggi/Friedrich-Krauser.md`). Asmodeo non "concede" il potere come uno zap magico: la **svolta Oathbreaker è la rinuncia di Krauser stesso a Tyr**. Asmodeo è il catalizzatore e il testimone, non il burattinaio. Questo preserva l'agency di Gabri — è *lui* a infrangere il voto; Asmodeo si limita a togliergli l'ultima scusa.
+
+### Beat 6 — La scelta di Krauser *(agency del giocatore)*
+
+Metti la decisione nelle mani di Gabri. Non forzarla — ma è la scena che ha chiesto, quindi è costruita per consegnarla.
+
+- **Krauser rinnega Tyr** → abbraccia l'**Oathbreaker** (meccaniche sotto). La svolta richiesta.
+- **Krauser rifiuta ancora** → resta Paladino del Voto, ma il seme si pianta più a fondo. Asmodeo non si arrabbia: *"Come vuoi. Sai dove trovarmi."* L'arco può riscattarsi a M3/M4. Onora il rifiuto come scelta valida.
+- **Krauser tenta una via di mezzo** ("uso il potere ma non ti devo niente") → Asmodeo sorride: *"Certo. Diciamo così."* Meccanicamente è comunque la rinuncia a Tyr; cambia solo quanto Krauser è disposto a mentirsi.
+
+### ⚙️ Meccaniche — La Svolta Oathbreaker
+
+- **Cambio sottoclasse:** Voto di Devozione → **Oathbreaker** (DMG). Giustificazione: il voto a Tyr è **infranto** (rinnegato), non sostituito da un voto formale ad Asmodeo.
+- **A Lv 3 Krauser ottiene:** gli **incantesimi da Oathbreaker** e la Channel Divinity dell'Oathbreaker — **Controllare Non Morti** e **Aspetto Tremendo**. (*Aura d'Odio* arriva a Lv 7.)
+- **Allineamento:** l'Oathbreaker non è "buono". Krauser scivola verso il **Legale Malvagio / Legale Neutrale** — resta un uomo di legge e ordine, ma una legge senza pietà. Concordalo con Gabri: il tono giusto è **anti-eroe tragico** ("giustizia senza misericordia"), non "cattivo che ride".
+- **Il Cimelio:** non serve ora per il cambio di sottoclasse. Aldric lo consegnerà più avanti come amplificatore (e amo del patto futuro). Opzioni in `Friedrich-Krauser.md`.
+- **Il prezzo:** nessuno, adesso. Annotalo: Krauser **deve un favore non specificato** al Signore degli Inferi; il debito matura nel Cap. 4-5.
+
+**[NOTA DM — il lungo gioco di Asmodeo]** I **Cassalanters** (villain principali della campagna) sono un culto di Asmodeo. Ora Asmodeo ha **due pedine** sullo stesso scacchiere: il culto dei Cassalanter *e* Krauser — non necessariamente alleate. Asmodeo è "semplicemente curioso di un'anima che si dibatte" (vedi `Friedrich-Krauser.md`). Tieni aperta la possibilità che, nel finale, Krauser e i Cassalanters scoprano di servire lo stesso padrone. Asmodeo non spiega mai il suo gioco.
+
+---
+
 ## 🏆 Ricompense
 
 - **Oro:** 200 mo forniti come "pagamento" dalla donna (se consegna completata)
@@ -202,9 +273,10 @@ Esvele le prende, verifica il sigillo, se ne va. Fine interazione.
 - **Collegate a:** [Zentharim M1](M1-UnBruttoMomento.md), [M3](M3-CorriDasher.md), [M4](M4-SangueDeiPatto.md)
 - **Introduce:** [Skeemo Weirdbottle](../../Campagna/png-incontrati.md) — nodo della rete Rennis/Manshoon; non eliminarlo ora
 - **Introduce:** [Esvele Rosznar — La Vipera Nera](../../Campagna/png-incontrati.md)
-- **Rivela:** Sigillo di Vosk sulla confezione — primo collegamento visivo tra le due questline
+- **Rivela:** Sigillo di **Valerius Vosk** sulla confezione — primo collegamento visivo tra le due questline
 - **Rivela:** Rennis Coalsworth era nella catena di distribuzione di Skeemo prima di sparire
-- **Arco PG:** [Arco Krauser & Scintilla](../../fonti/personaggi/Arco_Krauser_Scintilla.md) — Missione 2
+- **Svolta PG:** Ospita la **svolta Oathbreaker di Krauser** — vedi sezione *"La Proposta di Asmodeo"* (seme piantato in S7 / `dm-notes-sessione-07.md`, paga qui in S8)
+- **Arco PG:** [Arco Krauser & Scintilla](../../campagna/personaggi/Friedrich-Krauser.md) — Missione 2
 - **Fazione:** [Zhentarim](../../Campagna/fazioni.md#zhentarim)
 
 ---
@@ -231,5 +303,5 @@ Esvele diventa partner tattico — piano di cooperazione col party per il grande
 
 ---
 
-**Aggiornamento:** 7 Aprile 2026 | **Stato:** Non giocata
+**Aggiornamento:** 1 Giugno 2026 — aggiunta scena *"La Proposta di Asmodeo"* (svolta Oathbreaker di Krauser); nome magistrato uniformato a Valerius Vosk | **Stato:** Non giocata *(pianificata ~S8)*
 

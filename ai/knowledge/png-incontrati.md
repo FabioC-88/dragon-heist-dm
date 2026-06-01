@@ -98,7 +98,7 @@
 | **Remallia Haventree** *(S5)* | Arpisti | **Supervisor superiore** | Alleato-esigente | Incontrata da Aelar al suo palazzo (Villa Ulbrinter); rapporto intermedio M1; ha imposto la verifica Zhentarim prima di chiudere | Nobildonna elfa del sole; figura centrale Arpisti; resta supervisor ricorrente per Aelar |
 | **Lif** *(S4)* | Indipendente | **Barista poltergeist** | ✅ Alleato / Amico | Hai fatto amicizia con lui; ora collaborativo — momento centrale di S4 | Lo hai convinto che il group intende riaprire la taverna |
 | **Broxley Fairkettle** *(S4)* | Fellowship of Innkeepers | **Rappresentante gilde** | Amichevole | Ha presentato il resoconto costi ristrutturazione al manor | Halfling; genuinamente dalla parte del party |
-| **Fala Lefaliir** *(S4)* | Indipendente | **Erborista vicina** | Amichevole-particolare | La Corona di Corellon; ti ha accolto con interesse speciale (entrambi elfi); chiede di Sildëyuir | Elfo del bosco; pronomi essi/loro; pozioni disponibili |
+| **Fala Lefaliir** *(S4, S6)* | Indipendente | **Erborista vicina** | Amichevole-particolare | La Corona di Corellon; ti ha accolto con interesse speciale (entrambi elfi); chiede di Sildëyuir. **S6:** testimone oculare della Fireball | Elfo del bosco; pronomi essi/loro; pozioni disponibili |
 | **Tally Fellbranch** *(S4)* | Indipendente | **Falegname vicino** | Amichevole | Il Chiodo Storto; vende armi di legno | Lavori su commissione per il manor disponibili |
 | **Embric** *(S4)* | Indipendente | **Forgiatore vicino** | Amichevole | Vapore e Acciaio; genasi di fuoco | Armi e armature metalliche |
 | **Avi** *(S4)* | Indipendente | **Armaiola vicina** | Amichevole | Vapore e Acciaio; genasi d'acqua | Coppia con Embric |
@@ -176,6 +176,7 @@
 | **Davil Starsong** | Zhentarim | Barnabus (rapporti porto), Aelar (rete informatori) | Referente Zhentarim in città; pragmatico, non crudele; ha un codice proprio | Neutrale | Sarà incontrato formalmente Cap. 2 (Zentharim M1) |
 | **Manshoon** | Zhentarim (clone-ala Manshoon) | Vorador Thraxas, Aelar (circoli magici sofistici) | Clone malevolo del mago; opera da Kolat Towers; connesso a esperimenti arcani | Ostile *(ignoto)* | Minaccia di fondo; non ancora visibile |
 | **Skeemo Weirdbottle** | Zhentarim / Manshoon | Barnabus (rapporti porto), Vorador Thraxas (circoli arcani) | Gnomo alchimista; negozio Alchimia Weirdbottle, Trades Ward; sospettato di traffici illeciti | Neutrale → Ostile | Zentharim M2: fornitore di pozioni; M4: traditore da eliminare |
+| **Istrid Horn** *(S6)* | Zhentarim (Manshoon-leaning) | Party (deduzione su Emmek); Krauser/Scintilla (circoli Zhentarim) | Prestatrice Zhentarim; ha concesso un prestito di 150 mo a Emmek Frewn (50 usati per ingaggiare gli Shard Shunners) | Neutrale *(nome noto, non incontrata)* | **S6:** nome emerso durante l'indagine sul sabotaggio; filo Zhentarim aperto. Davil non la protegge (è Doom Raiders) |
 
 ### GILDA DI XANATHAR (Criminalità d'ombra)
 
@@ -214,7 +215,7 @@
 | PNG | Affiliazione | Contesto | Atteggiamento | Note |
 |-----|-------------|---------|---------------|------|
 | **Piergeiron the Paladinson** | Governo di Waterdeep (storico) | Leggenda storica: primo Open Lord; fondatore della stabilità di Waterdeep; figura del passato | Amichevole *(legenda)* | Citato nei racconti; sepolto nella Torre di Waterdeep |
-| **Dalakhar** | Agente di Dagult Neverember | Ladro gnomo ricercato; rapporti di furti arcani | Ostile *(ignoto)* | Cap. 3: morirà nella Fireball; minaccia contemporanea |
+| **Dalakhar** *(S6 — deceduto)* | Agente di Dagult Neverember | Ladro gnomo, spia di Neverember; cercava lo Stone of Golorr | Morto | **S6:** ucciso nella Fireball; il party ne ha esaminato il cadavere e sottratto **5 gemme (500 mo)** alla scena del crimine |
 
 ---
 
@@ -226,7 +227,7 @@
 
 | PNG | Affiliazione | Relazione | Atteggiamento | Contesto | Note |
 |-----|-------------|-----------|---------------|---------|------|
-| **Davil Starsong** *(S4-S5)* | Zhentarim | **Referente Zhentarim** | Alleato-affidabile | S5: Zhentarim M1 chiusa con rapporto; Scintilla Zhentarim ufficiale; faida interna Manshoon vs Doom Raiders rivelata in S5 | Filo Rennis aperto; faida Zhentarim rivelata |
+| **Davil Starsong** *(S4-S6)* | Zhentarim | **Referente Zhentarim** | Alleato-affidabile | S5: Zhentarim M1 chiusa; Scintilla Zhentarim ufficiale; faida Manshoon vs Doom Raiders rivelata. **S6:** ha fatto un favore a Scintilla rivelando informazioni sui ratti mannari (Shard Shunners) e le loro attività passate | Filo Rennis aperto; faida Zhentarim rivelata |
 | **Soluun Xibrindas** *(S5)* | Zhentarim (Manshoon) | **Drow assassino** | Ostile (sfuggito) | Affrontato in S5 durante intervento per sventare omicidio del mezzelfo; è fuggito | Identità rivelata dal piano della M1; le parole su Vosk/Manshoon non sono state pronunciate (drow non catturato) |
 | **Lif** *(S4)* | Indipendente | **Barista poltergeist** | Collaborativo | Poltergeist di Trollskull Manor; ora cooperativo | Il manor è la sua casa |
 | **Broxley Fairkettle** *(S4)* | Fellowship of Innkeepers | **Rappresentante gilde** | Amichevole | Ha presentato il resoconto costi ristrutturazione | Halfling; sa di Emmek Frewn |
@@ -256,7 +257,7 @@
 | PNG | Affiliazione | Relazione | Atteggiamento | Contesto | Note |
 |-----|-------------|-----------|---------------|---------|------|
 | **Aldric** *(S3/S4)* | Asmodeo *(travestito)* | **Mentore-amico** | Alleato-influente | Ex avventuriero al Portale Spalancato; è venuto a trovare Friedrich al manor in S4 con del vino | **[NOTA DM]** È Asmodeo under wraps. Ha pronunciato in S4: *"La vera saggezza non è fare sempre la cosa giusta. È sapere quando le regole non si applicano a te."* |
-| **Davil Starsong** *(S4-S5)* | Zhentarim | **Referente di fazione** | Alleato-pragmatico (rafforzato) | S5: Zhentarim M1 chiusa con rapporto; Krauser Zhentarim ufficiale; faida interna Manshoon vs Doom Raiders rivelata; **ha consegnato a Krauser il talismano di Edran Voss** (commilitone) come gesto di rispetto dei patti | *"La legge non è una spada. È uno strumento."* — primo tassello dell'erosione morale; gesto del talismano rafforza la fiducia |
+| **Davil Starsong** *(S4-S5)* | Zhentarim | **Referente di fazione** | Alleato-pragmatico (rafforzato) | S5: Zhentarim M1 chiusa con rapporto; Krauser Zhentarim ufficiale; faida interna Manshoon vs Doom Raiders rivelata; **ha consegnato a Krauser il talismano di Sylrael Voss** (commilitone) come gesto di rispetto dei patti | *"La legge non è una spada. È uno strumento."* — primo tassello dell'erosione morale; gesto del talismano rafforza la fiducia |
 | **Hyustus Staget** *(S5)* | Guardia Cittadina | **Capitano Guardia del Porto** | Ostile (verso Krauser) | S5: Krauser ha tentato di ottenere info classificate sugli omicidi elfi; Staget l'ha riconosciuto e ha negato l'accesso | Stesso PNG che ostacola Barnabus; rapporto ora ostile anche con Krauser |
 | **Soluun Xibrindas** *(S5)* | Zhentarim (Manshoon) | **Drow assassino** | Ostile (sfuggito) | Affrontato in S5 durante intervento per sventare omicidio del mezzelfo; è fuggito | Identità rivelata dal piano della M1; le parole su Vosk/Manshoon non sono state pronunciate |
 | **Yagra Stonefist** *(S1)* | Zhentarim | **Operativa di fazione** | Neutrale | Braccio armato di Davil; ha combattuto con te nel brawl | Diretta e competente; non amichevole ma professionale |
@@ -268,7 +269,7 @@
 | **Fala Lefaliir** *(S4)* | Indipendente | **Erborista vicina** | Amichevole | La Corona di Corellon, Trollskull Alley | Pozioni; pronomi essi/loro |
 | **Volothamp "Volo" Geddarm** *(S1-S3)* | Indipendente | **Reclutatore** | Amichevole | Ti ha avvicinato per primo al Portale Spalancato; ha firmato il contratto manor | Cronista; sa riconoscere potenziale |
 | **Durnan** *(S1)* | Indipendente | **Innkeeper** | Neutrale-accogliente | Proprietario Portale Spalancato; ha visto passare molte persone come te | Vide il primo dei tuoi incontri con Aldric |
-| **Magistrato Valerius** *(Toga Nera)* | Chiesa di Tyr | **Antagonista-speculare** | Ostile (dopo FASE 3c) | Alto magistrato e sacerdote di Tyr. Ha firmato l'ordine per l'imboscata nella Shadowfell. Lo riconosci dopo la FASE 3c. Rappresenta tutto ciò che Friedrich doveva diventare. | Rappresenta la corruzione istituzionale della Chiesa di Tyr. |
+| **Magistrato Valerius Vosk** *(Toga Nera)* | Chiesa di Tyr | **Antagonista-speculare** | Ostile (dopo FASE 3c) | Alto magistrato e sacerdote di Tyr; stemma con bilancia stilizzata. Ha firmato l'ordine per l'imboscata nella Shadowfell. Lo riconosci dopo la FASE 3c. Rappresenta tutto ciò che Friedrich doveva diventare. | Rappresenta la corruzione istituzionale della Chiesa di Tyr. |
 | **Padre Borin** | Chiesa di Tyr | **Traditore istituzionale** | Ostile (dopo Cap. 3) | Sacerdote di Tyr. Tradisce Friedrich quando presenta le prove contro il magistrato. | Rappresenta la Chiesa di Tyr come istituzione corrotta. |
 | **Skeemo Weirdbottle** | Zhentarim / Manshoon | **Traditore alchimista** | Ostile | Gnomo alchimista. Lavora per Manshoon, ma usa le sue pozioni per coprire i crimini del magistrato. | Funziona come distrattore e prova che il magistrato lo usava per coprire i suoi crimini. |
 
@@ -277,7 +278,7 @@
 | PNG | Affiliazione | Chi è / Cosa sai | Contesto | Note |
 |-----|-------------|------------------|---------|------|
 | **Urstul Floxin** | Zhentarim | **Sicario Zhentarim ricercato** | Conosci il nome nei circoli Zhentarim; assassino noto della Guardia Cittadina; target della Guardia | Potenziale rilevanza se Barnabus agisce mentre sei con Zhentarim |
-| **Edran Voss** *(S5 — deceduto)* | Indipendente / Ex-Shadowfell | **Commilitone deceduto** | Elfo paladino, commilitone di Krauser nella Shadowfell, creduto morto nell'imboscata di Vosk; **confermato deceduto** in S5 (vittima del drow Soluun Xibrindas) | Krauser ha ricevuto il suo talismano (simbolo di Tyr con incisione elfica *"Veglia anche nell'ombra"*) da Davil Starsong durante il rapporto di chiusura M1 |
+| **Sylrael Voss** *(S5 — deceduto)* | Indipendente / Ex-Shadowfell | **Commilitone deceduto** | Mezzelfo paladino, commilitone di Krauser nella Shadowfell, creduto morto nell'imboscata di Valerius Vosk; **confermato deceduto** in S5 (vittima del drow Soluun Xibrindas) | Krauser ha ricevuto il suo talismano (simbolo di Tyr con incisione elfica *"Veglia anche nell'ombra"*) da Davil Starsong durante il rapporto di chiusura M1 |
 | **Manshoon** | Zhentarim (ramo ostile) | **Mago-antagonista** | Mago terribile; opera dalle Kolat Towers; ha rapito Eric per una commessa fallita | M4 questione Zentharim potrebbe coinvolgerlo; arco finale campagna |
 | **Vajra Safahr** *(il Bastone Nero)* | Ordine Magisti / Force Grey | **Capo supremo** | Arcimaga di Waterdeep; coordina l'Ordine e le Mani Grigie | Non l'hai mai incontrata; la conosci come entità gerarchica |
 | **Mirt il Cambiavalute** | Arpisti | **Capo degli Arpisti a Waterdeep** | Ex avventuriero leggendario; dirige la rete Arpisti in città | Sei stato informato di lui come tuo referente; non l'hai ancora incontrato formalmente |
@@ -300,3 +301,17 @@
 |-----|-------------|---------------------------|---------------|------|
 | **Assassino Drow (identità sconosciuta)** | Zhentarim | Tre marinai elfi trovati decapitati; pattern di violenza pianificato al porto | Ostile *(ignoto)* | Zentharim M1: arci e movente rivelati |
 | **Heldar** | Indipendente | Marinaio mezzelfo, noto come eccessivamente coraggioso; vicino ai circoli portuali | Amichevole *(a rischio)* | Zentharim M1: Barnabus lo protegge; prossima vittima designata |
+
+---
+
+## ARCO TROLLSKULL ALLEY / FIREBALL — PNG del Party (S6)
+
+> PNG incontrati collettivamente dal party durante la chiusura del Cap. 2 (sabotaggio di Emmek) e l'apertura del Cap. 3 (Fireball). Rilevanti per tutti i PG presenti.
+
+| PNG | Affiliazione | Relazione | Atteggiamento | Contesto | Note |
+|-----|-------------|-----------|---------------|---------|------|
+| **Emmek Frewn** *(S6)* | Indipendente (locandiere rivale, Trollskull Alley) | **Rivale / antagonista** | Ostile *(identificato, non confrontato)* | Proprietario della locanda rivale; identificato dal party come il sabotatore di Trollskull Manor; debito di 150 mo con Istrid Horn (Zhentarim) | Né fermato né arrestato; nega tutto. Filo aperto. Bersaglio della campagna di voci di Aelar |
+| **Shard Shunners** — Kelso Fiddlewick, Danika Fiddlewick, Dasher Snobeedle, Brynn Hilltopple *(S6)* | Ingaggiati da Emmek | **Sicari mannari** | Ostili, in fuga | Gang di 4 halfling **wererat**; colloquio di lavoro rifiutato dal party (FASE 2); autori del sabotaggio notturno | 2 feriti gravemente nello scontro notturno (FASE 5) e fuggiti; per un po' dovrebbero stare buoni |
+| **Vincent Trench** *(S6)* | Indipendente (investigatore privato del quartiere) | **Contatto ingaggiato** | Ingaggiato | Investigatore privato assoldato dal party per raccogliere informazioni su Emmek Frewn | Risultati dell'indagine in arrivo |
+| **Jezrynne Hornraven** *(S6)* | Nobile | **Testimone** | Neutrale | Testimone oculare della Fireball; ha descritto "un burattino a forma d'uomo, una marionetta senza fili" sul tetto (→ nimblewright) | Vista all'uscita dall'ufficio di Vincent Trench |
+| **Martem Trec** *(S6)* | Indipendente (bambino, 12 anni) | **Testimone** | Neutrale | Bambino testimone; ha trovato una collana di fireball (2 globi, fibbia rotta) persa dal fuggitivo | Indizio sul nimblewright in fuga |

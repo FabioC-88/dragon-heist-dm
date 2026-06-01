@@ -186,7 +186,7 @@ La Torre del Bastone Nero è accademia e fortezza — Vajra offre membership nel
 
 **Messaggio a Friedrich (leggere solo a lui):**
 
-> "*So che hai dei conti in sospeso con un certo Edran Voss. Potremmo aiutarti a chiuderli. Parla con Davil Starsong al Portale Spalancato.*"
+> "*So che hai dei conti in sospeso con un certo Sylrael Voss. Potremmo aiutarti a chiuderli. Parla con Davil Starsong al Portale Spalancato.*"
 
 **Messaggio a Scintilla (leggere solo a lei):**
 
@@ -204,7 +204,7 @@ Ricompensa: +1 Renown Zentharim + [[/award 50gp]] se Heldar sopravvive.
 
 **[NOTA DM — Barnabus]:** Se Barnabus (Silvia) è presente, potrebbe essere interessato all'indagine — ma è anche in conflitto con gli Zhentarim. Potrebbe chiedere al party di condividere le informazioni con la Guardia.
 
-**[NOTA DM — Arco Krauser & Scintilla]:** Tra le tre vittime c'è **Edran Voss**, commilitone di Krauser nella Shadowfell — creduto morto nell'imboscata di Vosk, sopravvissuto con prove contro il magistrato, poi eliminato. Quando Krauser identifica il corpo capisce che Vosk sta ancora ripulendo testimoni e che lui è probabilmente il prossimo. Se il drow viene fermato, le sue parole finali: *"Vosk paga bene. Manshoon paga meglio."* — primo filo tra i due antagonisti. Scintilla è essenziale: senza i suoi contatti nel mercato nero del porto, l'assassino non viene identificato. Dettagli completi: [Arco Krauser & Scintilla](../../fonti/personaggi/Arco_Krauser_Scintilla.md).
+**[NOTA DM — Arco Krauser & Scintilla]:** Tra le tre vittime c'è **Sylrael Voss**, commilitone di Krauser nella Shadowfell — creduto morto nell'imboscata di Vosk, sopravvissuto con prove contro il magistrato, poi eliminato. Quando Krauser identifica il corpo capisce che Vosk sta ancora ripulendo testimoni e che lui è probabilmente il prossimo. Se il drow viene fermato, le sue parole finali: *"Vosk paga bene. Manshoon paga meglio."* — primo filo tra i due antagonisti. Scintilla è essenziale: senza i suoi contatti nel mercato nero del porto, l'assassino non viene identificato. Dettagli completi: [Arco Krauser & Scintilla](../personaggi/Friedrich-Krauser.md).
 
 **[NOTA DM — Hook per PG]:**
 - **Friedrich (Paladino):** Se Friedrich discute del suo voto con Davil, Davil dice "*La legge non è una spada. È uno strumento. A volte serve a tagliare, a volte a legare.*" → **Hook attivo:** prepara il terreno per il breaking point verso Oathbreaker.
@@ -279,13 +279,13 @@ Se Scintilla torna alla sua officina (non lontana dal manor), trova i segni di u
 ### Krauser / Vosk (Friedrich — Gabri)
 La questline personale di Krauser si sviluppa in parallelo all'arco Oathbreaker, intrecciandosi con tutte e quattro le missioni Zentharim:
 
-- **M1 (questa sessione):** Krauser identifica **Edran Voss** tra le vittime — commilitone della Shadowfell, creduto morto, sopravvissuto con prove contro Vosk. Il drow, se fermato, dice: *"Vosk paga bene. Manshoon paga meglio."* — primo aggancio ai due villain.
+- **M1 (questa sessione):** Krauser identifica **Sylrael Voss** tra le vittime — commilitone della Shadowfell, creduto morto, sopravvissuto con prove contro Vosk. Il drow, se fermato, dice: *"Vosk paga bene. Manshoon paga meglio."* — primo aggancio ai due villain.
 - **M2:** Krauser riconosce il sigillo di Vosk sulla confezione delle pozioni di Skeemo — primo collegamento visivo tra le due questline.
 - **M3:** Sezione A dei documenti di Dasher — prove scritte dell'imboscata nella Shadowfell, firma di Vosk come mandante. Prima volta che Krauser vede prove concrete scritte.
 - **M4:** Processo contro Vosk — Krauser testimonia in aula. La vittoria ha il sapore dell'aceto: strumento degli Zhentarim, non protagonista della propria giustizia.
 
 *Indizio in questa sessione: M1 attiva il filo. Non spingere il nome di Vosk oltre le parole del drow.*
-*Arco completo: [Arco Krauser & Scintilla](../../fonti/personaggi/Arco_Krauser_Scintilla.md)*
+*Arco completo: [Arco Krauser & Scintilla](../personaggi/Friedrich-Krauser.md)*
 
 ### Aldric / Asmodeo (Friedrich — Gabri)
 In questa sessione **Aldric passa a visitare Friedrich** al manor. Si presenta come mentore premuroso — porta del vino, fa domande sensate sulla ristrutturazione, ascolta le frustrazioni.

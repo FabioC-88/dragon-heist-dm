@@ -189,7 +189,7 @@ Vajra ha assegnato la missione in S4. Il carico sospetto ai Moli del Salgemma (r
 ---
 
 ### 🔀 DEVIAZIONE — Missione Zentharim — Magazzino ai Moli (Friedrich + Scintilla + Barney)
-> 🔀 **Realtà**: completata ma con esito parziale. Krauser e Scintilla hanno indagato, trovato la taverna e scoperto il nome della prossima vittima. Il party ha sventato l'omicidio, ma il drow Soluun Xibrindas è fuggito (non catturato/ucciso). Le sue parole su "Vosk paga bene, Manshoon paga meglio" non sono mai state pronunciate in gioco. **L'identificazione di Edran Voss è avvenuta in modo alternativo**: Davil Starsong ha recuperato un talismano dal cadavere di Edran (elfo paladino, commilitone di Krauser nella Shadowfell) e l'ha consegnato a Krauser durante il rapporto, come segno che gli Zhentarim "rispettano i patti". Rapporto chiuso con Davil Starsong, ingresso ufficiale negli Zhentarim per Krauser e Scintilla.
+> 🔀 **Realtà**: completata ma con esito parziale. Krauser e Scintilla hanno indagato, trovato la taverna e scoperto il nome della prossima vittima. Il party ha sventato l'omicidio, ma il drow Soluun Xibrindas è fuggito (non catturato/ucciso). Le sue parole su "Vosk paga bene, Manshoon paga meglio" non sono mai state pronunciate in gioco. **L'identificazione di Sylrael Voss è avvenuta in modo alternativo**: Davil Starsong ha recuperato un talismano dal cadavere di Sylrael (mezzelfo paladino, commilitone di Krauser nella Shadowfell) e l'ha consegnato a Krauser durante il rapporto, come segno che gli Zhentarim "rispettano i patti". Rapporto chiuso con Davil Starsong, ingresso ufficiale negli Zhentarim per Krauser e Scintilla.
 
 **Stato:** Da avviare — Davil ha assegnato la missione in S4. Nessuna azione operativa ancora svolta. (Il combattimento al magazzino in S4 era Force Grey M1, missione separata.)
 
@@ -199,7 +199,7 @@ Qualcuno sta uccidendo marinai elfi e mezzelfi nel Dock Ward — tre morti, deca
 **Ricompensa:** +1 Renown Zentharim + 50 go se Heldar sopravvive.
 **File completo:** `campagna/missioni/zentharim/M1-UnBruttoMomento.md`
 
-**[NOTA DM — Arco Krauser]:** Tra le vittime c'è **Edran Voss**, commilitone di Krauser nella Shadowfell — creduto morto nell'imboscata di Vosk, sopravvissuto con prove contro il magistrato, poi eliminato. Quando Krauser identifica il corpo capisce che Vosk sta ancora ripulendo testimoni. Se il drow viene fermato, le sue ultime parole: *"Vosk paga bene. Manshoon paga meglio."*
+**[NOTA DM — Arco Krauser]:** Tra le vittime c'è **Sylrael Voss**, commilitone di Krauser nella Shadowfell — creduto morto nell'imboscata di Vosk, sopravvissuto con prove contro il magistrato, poi eliminato. Quando Krauser identifica il corpo capisce che Vosk sta ancora ripulendo testimoni. Se il drow viene fermato, le sue ultime parole: *"Vosk paga bene. Manshoon paga meglio."*
 
 ---
 
@@ -229,9 +229,9 @@ Davil Starsong ha menzionato Rennis in S4: sapeva dove trovare componenti rari c
 > ⚠️ **POST-S5**: Scintilla non è tornata all'officina in S5 (concentrazione sulla Zhentarim M1). Scena ancora disponibile per S6+.
 
 ### Krauser / Vosk (Friedrich — Gabri)
-La Zentharim M1 introduce Edran Voss — il filo verso Vosk si apre in questa sessione. Prima volta che Friedrich ha prove concrete di una continuità del complotto.
+La Zentharim M1 introduce Sylrael Voss — il filo verso Vosk si apre in questa sessione. Prima volta che Friedrich ha prove concrete di una continuità del complotto.
 
-> ⚠️ **POST-S5**: la Zhentarim M1 è stata completata. Il drow Soluun Xibrindas è fuggito, quindi le sue parole "Vosk paga bene, Manshoon paga meglio" NON sono mai state pronunciate. **Tuttavia il filo Vosk si è aperto** in maniera alternativa: Davil Starsong ha recuperato un talismano dal cadavere di Edran Voss (elfo paladino, commilitone di Krauser nella Shadowfell) e l'ha consegnato a Krauser come gesto di rispetto dei patti. Krauser ora possiede un oggetto del commilitone morto: prima prova fisica della continuità del complotto Vosk. Il rapporto Davil ↔ Krauser è rafforzato.
+> ⚠️ **POST-S5**: la Zhentarim M1 è stata completata. Il drow Soluun Xibrindas è fuggito, quindi le sue parole "Vosk paga bene, Manshoon paga meglio" NON sono mai state pronunciate. **Tuttavia il filo Vosk si è aperto** in maniera alternativa: Davil Starsong ha recuperato un talismano dal cadavere di Sylrael Voss (mezzelfo paladino, commilitone di Krauser nella Shadowfell) e l'ha consegnato a Krauser come gesto di rispetto dei patti. Krauser ora possiede un oggetto del commilitone morto: prima prova fisica della continuità del complotto Vosk. Il rapporto Davil ↔ Krauser è rafforzato.
 
 ### Aldric / Asmodeo (Friedrich — Gabri)
 Aldric può fare una seconda visita, o Friedrich può cercarlo. Aldric ascolta il resoconto della missione ai moli con interesse discreto.
@@ -261,7 +261,7 @@ Prima apparizione di Emmek in questa sessione. I Shard Shunners compaiono nello 
 | Risposta Bastone Nero sulla Pietra di Golor | Vorador (Force Grey) | ✅ Risolto via *sending* | 🔀 Modificato — ricerca biblioteca a vuoto; sending non avvenuto; filo aperto |
 | Decisione cargo Midnight Tears | Barney | ✅ Risolto (distruzione) | 🔀 Lasciato al magazzino — conseguenze del piano non si applicano |
 | Maxeene — sorveglianza | Aelar (Arpisti M1) | In corso | ✅ Completata (incontro privato col pretesto del ritratto) |
-| Edran Voss / Vosk | Friedrich, Scintilla (Zhentarim M1) | **In apertura** | ✅ **Filo aperto in modo alternativo** — Davil ha consegnato a Krauser il talismano di Edran (commilitone elfo paladino) come gesto di rispetto dei patti |
+| Sylrael Voss / Vosk | Friedrich, Scintilla (Zhentarim M1) | **In apertura** | ✅ **Filo aperto in modo alternativo** — Davil ha consegnato a Krauser il talismano di Sylrael (commilitone mezzelfo paladino) come gesto di rispetto dei patti |
 | Rennis e i canali tagliati | Scintilla | Filo aperto | ⏸️ Non avanzato in S5 — Scintilla non è tornata all'officina |
 | Emmek Frewn — prima apparizione | Tutti | **Nuovo S5** | ⏸️ Non giocato → trasferito a S6 |
 | Hammond, Justyn, Ulkoria | Tutti | **Nuovo S5** | ⏸️ Non giocato → trasferito a S6 |
@@ -287,7 +287,7 @@ Prima apparizione di Emmek in questa sessione. I Shard Shunners compaiono nello 
 | 3 | Gilde mancanti (Hammond, Justyn, Ulkoria) | Visite separate al manor | Non giocate | ⏸️ |
 | 4a | Arpisti M1 — Maxeene | 3 notti sorveglianza, far parlare | Aelar contatta Maxeene direttamente (fallisce in pubblico, riesce in privato col pretesto del ritratto); rapporto intermedio a Remallia Haventree a Villa Ulbrinter; rapporto finale di chiusura a Mirt | 🔀 (Completata) |
 | 4b | Force Grey M1 — Cargo Fondatore | Ottenere lista destinatari da Orvyn | Consegnate a Vajra info carico + documento Brottor; ingresso ufficiale Force Grey per Vorador/Razak/Barney | ✅ (Completata) |
-| 4c | Zhentarim M1 — Un Brutto Momento | Identificare Soluun Xibrindas, salvare Heldar | Krauser e Scintilla indagano; party sventa omicidio; drow fuggito (non catturato); rapporto chiuso con Davil; ingresso ufficiale Zhentarim per Krauser e Scintilla. **Davil consegna a Krauser il talismano di Edran Voss** (commilitone elfo paladino) come gesto di rispetto dei patti — filo Vosk aperto in modo alternativo | 🔀 (Completata) |
+| 4c | Zhentarim M1 — Un Brutto Momento | Identificare Soluun Xibrindas, salvare Heldar | Krauser e Scintilla indagano; party sventa omicidio; drow fuggito (non catturato); rapporto chiuso con Davil; ingresso ufficiale Zhentarim per Krauser e Scintilla. **Davil consegna a Krauser il talismano di Sylrael Voss** (commilitone mezzelfo paladino) come gesto di rispetto dei patti — filo Vosk aperto in modo alternativo | 🔀 (Completata) |
 
 ### Eventi Emergenti Non Pianificati
 
@@ -307,10 +307,10 @@ Prima apparizione di Emmek in questa sessione. I Shard Shunners compaiono nello 
 - **"Rennala" nel recap**: probabilmente Remallia Haventree; confermare che il primo incontro è avvenuto e con quale tono.
 - ~~**Cargo Midnight Tears**~~ ✅ Risolto — il cargo è stato lasciato al magazzino.
 - **Pietra di Golor**: l'invito di Vajra menzionato nel piano (*"Finite il porto — poi venite da me"*) è stato consegnato al party? Se no, lo facciamo emergere in S6?
-- ~~**Edran Voss / Vosk**~~ ✅ Risolto — Davil ha recuperato il talismano dal cadavere di Edran e lo ha consegnato a Krauser durante il rapporto. Il filo Vosk è aperto via Davil, non via drow.
+- ~~**Sylrael Voss / Vosk**~~ ✅ Risolto — Davil ha recuperato il talismano dal cadavere di Sylrael e lo ha consegnato a Krauser durante il rapporto. Il filo Vosk è aperto via Davil, non via drow.
 - ~~**Ricompense missioni M1**~~ ✅ Risolto — **+2 Renown** per fazione (Arpisti / Force Grey / Zhentarim) + denaro e ricompense materiali da assegnare.
 - ~~**Talismano Asmodeo**~~ ✅ Chiarito — è il sigillo specifico della setta Cassalanter, sconosciuto a tutte le fonti pubbliche. Solo Aldric (Asmodeo travestito) può dare indizi indiretti come "ex avventuriero".
-- ~~**Talismano di Edran Voss in possesso di Krauser**~~ ✅ Chiarito — simbolo sacro di Tyr; sul retro l'incisione elfica *"Veglia anche nell'ombra"* (Tyr che vede senza occhi + memoria della Shadowfell), riconoscibile a colpo d'occhio da Krauser.
+- ~~**Talismano di Sylrael Voss in possesso di Krauser**~~ ✅ Chiarito — simbolo sacro di Tyr; sul retro l'incisione elfica *"Veglia anche nell'ombra"* (Tyr che vede senza occhi + memoria della Shadowfell), riconoscibile a colpo d'occhio da Krauser.
 
 ---
 
