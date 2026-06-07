@@ -6,9 +6,10 @@
 
 - **Livello attuale:** 3
 - **Sistema XP:** Milestone — Lv 3 raggiunto alla chiusura del Cap. 2; prossimo level up alla chiusura del Cap. 3
-- **Ultima sessione:** Sessione 6 (Capitolo 2 chiuso — arco Emmek/Trollskull risolto per deviazione — + apertura Cap. 3 Fireball)
+- **Ultima sessione:** Sessione 7 (Cap. 3 in corso — Tempio di Gond completato; Villa Gralhund irruzione in corso al piano superiore)
 - **Sede base:** Trollskull Manor, Trollskull Alley — **ristrutturazione completata, locanda aperta al pubblico**
 - **Bottino di party recente (S6):** 5 gemme da 100 mo (500 mo totali) sottratte dal cadavere di Dalakhar alla scena della Fireball
+- **Oggetto di party (S7):** Nimblewright Detector (ottenuto al Tempio di Gond — ombrello di rame che rileva nimblewright entro 500 piedi)
 
 ---
 
@@ -52,6 +53,7 @@ Il mentore **Brottor Deepdelver** è scomparso durante un'indagine su un caso cl
 - [S5] Ha recuperato un talismano magico da un cadavere di cultista — sospetto rituale di Asmodeus; ricerche in biblioteca della Torre del Bastone Nero senza esito
 - [S5] Ha partecipato alla riunione al Portale Spalancato con Davil Starsong; conosce la faida Manshoon vs Doom Raiders
 - [S6] Chiusura Cap. 2 (arco Emmek/Trollskull) e Level up a Lv 3; ha aperto l'indagine sulla Fireball (Cap. 3) esaminando la scena del crimine con Barnibus Blastwind e Saeth Cromley
+- [S7] Ha convinto Barnibus Blastwind a collaborare nelle indagini; ha preso parte al Tempio di Gond (Nimblewright Detector) e all'irruzione a Villa Gralhund (piano terra completato; sessione interrotta prima di G13)
 
 ---
 
@@ -88,6 +90,7 @@ Ha ricevuto dal monaco **Hlam** sul Monte Waterdeep una pergamena sigillata con 
 - [S5] Force Grey M1 completata insieme a Vorador e Barney; ingresso ufficiale nelle Force Grey
 - [S5] Ha partecipato al pedinamento e all'intervento contro l'omicidio del mezzelfo; il drow è fuggito
 - [S6] Chiusura Cap. 2 e Level up a Lv 3; ha partecipato all'apertura dell'indagine sulla Fireball (Cap. 3)
+- [S7] Ha partecipato al Tempio di Gond e all'irruzione a Villa Gralhund (piano terra completato)
 
 ---
 
@@ -132,6 +135,7 @@ Ha ricevuto dal monaco **Hlam** sul Monte Waterdeep una pergamena sigillata con 
 - [S5] Ha incontrato Remallia Haventree a Villa Ulbrinter (rapporto intermedio M1); lei ha imposto la verifica Zhentarim prima della chiusura, poi il rapporto finale è andato a Mirt
 - [S5] Ha chiesto a Mirt aiuto per la riapertura di Trollskull Manor — filo nuovo aperto
 - [S6] **Trollskull Manor riaperta** (locanda aperta al pubblico) — filo con Mirt chiuso. Ha lanciato una **campagna di voci** tramite gli Arpisti per bollare Emmek Frewn come alleato dei ratti mannari e come Zhentarim (deviazione, conseguenze attese sulle fazioni — vedi Note DM dm-notes-06). Chiusura Cap. 2 e Level up a Lv 3
+- [S7] Ha contattato Renaer Neverember che ha raccontato di Dalakhar e ha promesso di raccogliere informazioni (risposta attesa); ha partecipato al Tempio di Gond e all'irruzione a Villa Gralhund
 
 ---
 
@@ -173,6 +177,7 @@ Volothamp "Volo" Geddarm l'ha contattata in officina e l'ha invitata al Portale 
 - [S4] Ha accettato Zentharim M1 con Friedrich; ha partecipato al raid al magazzino ai moli
 - [S5] **Zhentarim M1 completata** con Krauser: indagine sugli omicidi elfi, trovata la taverna, scoperto il nome della prossima vittima, omicidio sventato (drow Soluun Xibrindas fuggito); rapporto chiuso con Davil; ingresso ufficiale negli Zhentarim
 - [S6] Ha chiesto un favore a **Davil Starsong**, che ha rivelato informazioni sui **ratti mannari (Shard Shunners)** e sulle loro attività passate. Chiusura Cap. 2 e Level up a Lv 3
+- [S7] Ha contattato Davil Starsong e scoperto l'identità di **Urstul Floxin** e che la base di Manshoon sono le **Kolat Towers**; ha fatto una ricognizione sul posto e osservato che le torri sono rivestite da un muro di forza. Ha preso parte al Tempio di Gond e all'irruzione a Villa Gralhund.
 - La questline M2-M4 potrebbe rivelare info su Manshoon e Kolat Towers
 
 ---
@@ -215,6 +220,7 @@ Le missioni Zentharim M1-M3 erodono gradualmente i principi assoluti di Friedric
 - [S5] Ha tentato di chiedere info classificate al Capitano Hyustus Staget (Guardia del Porto): riconosciuto e bloccato sull'accesso. Rapporto Staget ↔ Krauser ora documentato come ostile
 - **Oggetto nuovo:** talismano di Sylrael Voss — simbolo sacro di Tyr, sul retro incisione elfica *"Veglia anche nell'ombra"* (origine: cadavere del commilitone, consegnato da Davil)
 - [S6] Chiusura Cap. 2 e Level up a Lv 3; ha partecipato all'arco Emmek/Trollskull e all'apertura dell'indagine sulla Fireball (Cap. 3)
+- [S7] Ha preso parte al Tempio di Gond e all'irruzione a Villa Gralhund (piano terra completato; piano superiore da giocare in S8 — hook Aldric/Krauser rimandato)
 
 
 

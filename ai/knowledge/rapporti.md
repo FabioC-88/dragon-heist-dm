@@ -1,5 +1,5 @@
 ---
-aggiornato: Sessione 6
+aggiornato: Sessione 7
 ---
 
 # Schema Rapporti — Waterdeep: Dragon Heist
@@ -17,12 +17,12 @@ Righe = PNG. Colonne = PG. Stato al momento dell'incontro più recente.
 |-----|:-----:|:-----:|:-----:|:---------:|:---------:|:------:|
 | **Volo Geddarm** | 🤝 Committente / contratto manor | 🤝 Committente | 🤝 Committente / contratto manor | 🤝 Committente | 🤝 Committente | 🤝 Committente |
 | **Durnan** | 🤝 Oste | 🤝 Oste | 🤝 Oste | 🤝 Oste | 🤝 Oste | 🤝 Collega |
-| **Renaer Neverember** | 🤝 Salvato insieme | 🤝 Salvato insieme | 🤝 Salvato insieme | 🤝 Salvato insieme | 🤝 Salvato insieme | — |
+| **Renaer Neverember** | 🤝 Salvato insieme | 🤝 Salvato insieme | ✅ Contattato S7: ha rivelato storia di Dalakhar; promesso di raccogliere info (risposta attesa) | 🤝 Salvato insieme | 🤝 Salvato insieme | — |
 | **Vajra Safahr** | ✅ Referente Force Grey — M1 completata S5 | ✅ Referente Force Grey — M1 completata S5 | — | — | — | ✅ Referente Force Grey — M1 completata S5 |
 | **Mirt il Cambiavalute** | — | — | ✅ Referente Arpisti — M1 completata S5; chiesto aiuto per riapertura Trollskull Manor | — | — | — |
 | **Remallia Haventree** | — | — | ✅ Supervisor Arpisti — rapporto intermedio M1 a Villa Ulbrinter (S5) | — | — | — |
 | **Hlam** | — | ✅ Ha conferito il presagio | — | — | — | — |
-| **Davil Starsong** | 🤝 Incontrato S5 al Portale Spalancato — faida Manshoon vs Doom Raiders | 🤝 Incontrato S5 al Portale Spalancato — faida Manshoon vs Doom Raiders | 🤝 Incontrato S5 al Portale Spalancato — faida Manshoon vs Doom Raiders | ✅ Referente Zhentarim — M1 completata S5, Zhentarim ufficiale; **S6:** favore a Scintilla (intel sui ratti mannari Shard Shunners) | ✅ Referente Zhentarim — M1 completata S5, Zhentarim ufficiale; **ha consegnato a Krauser il talismano di Sylrael Voss** come segno di rispetto dei patti | ❌ Capo rete Zhentarim (non sa del party) |
+| **Davil Starsong** | 🤝 Incontrato S5 al Portale Spalancato — faida Manshoon vs Doom Raiders | 🤝 Incontrato S5 al Portale Spalancato — faida Manshoon vs Doom Raiders | 🤝 Incontrato S5 al Portale Spalancato — faida Manshoon vs Doom Raiders | ✅ Referente Zhentarim — M1 completata S5, Zhentarim ufficiale; **S6:** favore (intel Shard Shunners); **S7:** rivelato identità Urstul Floxin e base Manshoon (Kolat Towers) | ✅ Referente Zhentarim — M1 completata S5, Zhentarim ufficiale; ha consegnato talismano di Sylrael Voss | ❌ Capo rete Zhentarim (non sa del party) |
 | **Yagra Stonefist** | — | — | — | 🤝 Intermediaria | 🤝 Intermediaria | ❌ Zhentarim |
 | **Maxeene** | — | — | 🤝 Cavalla parlante — incontrata S5 in privato, fornite info | — | — | — |
 | **Soluun Xibrindas** (drow) | — | ❌ Affrontato S5 — fuggito | — | ❌ Affrontato S5 — fuggito | ❌ Affrontato S5 — fuggito | ❌ Affrontato S5 — fuggito |
@@ -35,7 +35,7 @@ Righe = PNG. Colonne = PG. Stato al momento dell'incontro più recente.
 | **Urstul Floxin** | — | — | — | — | — | ❌ Obiettivo personale |
 | **Hyustus Staget** | — | — | — | — | ⚠️ Incontrato S5 (accesso classificato negato) | ⚠️ Superiore / rivale |
 | **Saeth Cromley** | 🤝 Collega Ordine Magisti | — | — | — | — | 🤝 Collega guardia |
-| **Barnibus Blastwind** | 🤝 Collega Ordine Magisti | — | — | — | — | — |
+| **Barnibus Blastwind** | ✅ Collega Ordine Magisti — convinto da Thrax a collaborare nelle indagini S7 | — | — | — | — | — |
 | **Lif (poltergeist)** | 🤝 Barista manor | 🤝 Barista manor | ✅ Amicizia — Aelar lo ha convinto | 🤝 Barista manor | 🤝 Barista manor | 🤝 Barista manor |
 | **Broxley Fairkettle** | 🤝 Fellowship of Innkeepers | 🤝 Fellowship of Innkeepers | 🤝 Fellowship of Innkeepers | 🤝 Fellowship of Innkeepers | 🤝 Fellowship of Innkeepers | 🤝 Fellowship of Innkeepers |
 | **Tally Fellbranch** | 🤝 Vicino / fornitore legno | 🤝 Vicino | 🤝 Vicino | 🤝 Vicino | 🤝 Vicino | 🤝 Vicino |
@@ -51,6 +51,9 @@ Righe = PNG. Colonne = PG. Stato al momento dell'incontro più recente.
 | **Shard Shunners (wererat)** *(S6)* | ❌ Ostili, in fuga | ❌ Ostili, in fuga | ❌ Ostili, in fuga | ❌ Ostili, in fuga | ❌ Ostili, in fuga | — |
 | **Vincent Trench** *(S6)* | 🤝 Investigatore ingaggiato | 🤝 Ingaggiato | 🤝 Ingaggiato | 🤝 Ingaggiato | 🤝 Ingaggiato | — |
 | **Istrid Horn** *(S6)* | 🤝 Nome noto (prestito a Emmek) | 🤝 Nome noto | 🤝 Nome noto | 🤝 Nome noto | 🤝 Nome noto | — |
+| **Zardoz Zord** *(S7)* | 🤝 Incontrato al porto — ha scortato ispezione 3 navi, niente trovato | 🤝 Incontrato al porto | 🤝 Incontrato al porto | 🤝 Incontrato al porto | 🤝 Incontrato al porto | — |
+| **Valetta** *(S7)* | 🤝 Sacerdotessa di Gond — ha fornito Nimblewright Detector e offerto 500 mo di ricompensa | 🤝 Incontrata al Tempio di Gond | 🤝 Incontrata al Tempio di Gond | 🤝 Incontrata al Tempio di Gond | 🤝 Incontrata al Tempio di Gond | — |
+| **Nim** *(nimblewright, S7)* | 🤝 Costruttore solitario — ha ammesso di aver creato il nimblewright fuggito | 🤝 Incontrato al Tempio di Gond | 🤝 Incontrato (momento connessione) | 🤝 Incontrato al Tempio di Gond | 🤝 Incontrato al Tempio di Gond | — |
 
 ---
 

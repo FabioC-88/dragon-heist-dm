@@ -19,14 +19,14 @@
 | PNG | Affiliazione | Relazione | Atteggiamento | Contesto | Note |
 |-----|-------------|-----------|---------------|---------|------|
 | **Brottor Deepdelver** | Ordine Magisti | **Mentore-scomparso** | Alleato *(storico)* | Maestro e guida; scomparso su caso classificato | Nano esperto di culti e rituali; ricerca urgente. Obiettivo personale di Vorador Thraxas |
-| **Barnibus Blastwind** | Ordine Magisti | **Collega investigatore** | Amichevole-professionale | Collaborano su crimini magici; hanno scambiato pareri tecnici | Mago dell'Ordine; brusco ma affidabile; collabora spesso con la Guardia |
+| **Barnibus Blastwind** | Ordine Magisti | **Collega investigatore — ora collaboratore** | ✅ Amichevole-professionale *(S7: convinto da Vorador a collaborare attivamente)* | Collaborano su crimini magici; in S7 Vorador lo ha convinto a cooperare apertamente nelle indagini | Mago dell'Ordine; brusco ma affidabile; collabora spesso con la Guardia |
 | **Saeth Cromley** | Guardia Cittadina | **Contatto forze dell'ordine** | Amichevole | Sergente della Guardia; spesso in coppia con Blastwind su indagini | Veterano, pragmatico; ti rispetta per efficienza anche se il tuo aspetto da dragonide può incutere timore |
 | **Volothamp "Volo" Geddarm** | Indipendente | **Quest-giver/informatore** | Amichevole | Già contattato nel BG; ha proposto un'incarico intrigante | Scrittore eccentrico; cercatore di storie degne di cronaca |
 | **Durnan** *(S1)* | Indipendente | **Innkeeper del Portale** | Amichevole (+1) | Ha visto la tua rissa col troll; ti rispetta un po' | Ex avventuriero; conosce l'Ordine; taciturno ma efficace |
 | **Yagra Stonefist** *(S1)* | Zhentarim | **Alleata temporanea (rissa)** | Amichevole (+1) | Ha combattuto al tuo fianco contro il troll e gli Xanathar | Mezza-orchessa, cicatrizzata, professionista; futuri incontri probabili |
 | **Azzaxell** *(S1)* | Zhentarim | **Nemico-barista** | Diffidente (-1) | Barista al Skewered Dragon; ha mentito su Floon | Freddo, osservatore; sa più di quanto riveli |
 | **Old Xoblob** *(S1)* | Indipendente/Xanathar | **Informatore gentile** | Amichevole (+1) | Gnomo del negozio nel Dock Ward; sincero su Floon | Dotato di memoria photographic; non sa di essere spia Xanathar (sensore beholder in negozio) |
-| **Renaer Neverember** *(S1)* | Indipendente | **Nobile salvato** | Grato (+2) | Lo hai liberato dalla warehouse Zhentarim | Figlio di Dagult Neverember (ex Open Lord); conosce la trama del tesoro e del Stone of Golorr; alleato |
+| **Renaer Neverember** *(S1, S7)* | Indipendente | **Nobile salvato — alleato dell'indagine** | Grato (+2); **S7:** contattato da Aelar, ha rivelato la storia di Dalakhar e dello Stone of Golorr, promesso di raccogliere ulteriori info | Figlio di Dagult Neverember; ha ricevuto visita di Aelar in S7 | Risposta attesa; ha promesso info su Villa Gralhund/Urstul |
 | **Vajra Safahr** *(S4-S5)* | Ordine Magisti / Force Grey | **Referente Force Grey** | Alleato-formale | S5: consegnate info carico Midnight Tears + documento Brottor; Vorador entrato ufficialmente nelle Force Grey | Pietra di Golor: ricerca personale in biblioteca a vuoto; risposta diretta non ancora ricevuta |
 | **Rishaal il Voltapagine** *(S4)* | Ordine Magisti | **Collega dell'Ordine** | Amichevole-professionale | Incontrato nella sua libreria in Trollskull Alley; ha riconosciuto il simbolo dell'Ordine | Disponibile a fare da tramite con i registri pubblici; accesso ai file riservati non disponibile |
 | **Lif** *(S4)* | Indipendente | **Barista poltergeist** | Collaborativo | Poltergeist di Trollskull Manor; ora cooperativo dopo l'accordo con Aelar | Barista cooperativo; il manor è la sua casa |
@@ -301,6 +301,18 @@
 |-----|-------------|---------------------------|---------------|------|
 | **Assassino Drow (identità sconosciuta)** | Zhentarim | Tre marinai elfi trovati decapitati; pattern di violenza pianificato al porto | Ostile *(ignoto)* | Zentharim M1: arci e movente rivelati |
 | **Heldar** | Indipendente | Marinaio mezzelfo, noto come eccessivamente coraggioso; vicino ai circoli portuali | Amichevole *(a rischio)* | Zentharim M1: Barnabus lo protegge; prossima vittima designata |
+
+---
+
+## INDAGINE FIREBALL / CAP. 3 — PNG del Party (S7)
+
+> PNG incontrati collettivamente dal party durante l'indagine sul Cap. 3 (Fireball / Nimblewright).
+
+| PNG | Affiliazione | Relazione | Atteggiamento | Contesto | Note |
+|-----|-------------|-----------|---------------|---------|------|
+| **Valetta** *(S7)* | Tempio di Gond (sacerdotessa) | **Referente Tempio** | Amichevole — ha fornito il Detector e 500 mo di ricompensa condizionata | Dragonide di bronzo, sacerdotessa di Gond; ha ordinato la pulizia del laboratorio di Nim dopo la rivelazione | [TODO DM: verificare attitudine fine S7] |
+| **Nim** *(nimblewright, S7)* | Tempio di Gond (costruttore) | **Informatore / costruttore** | Amichevole-timido — ha ammesso di aver creato il nimblewright fuggito | Ha costruito un secondo nimblewright per alleviare la solitudine; lo ha visto fuggire un mese fa; ha fornito info sul Detector | Scintilla momento connessione (spec. da gioco) |
+| **Zardoz Zord** *(S7)* | Bregan D'aerthe *(alias Jarlaxle)* | **Capitano — incontro al porto** | Neutrale/sospettoso — ha acconsentito all'ispezione ma ha scortato personalmente | Capitano della Sea Maidens Faire; il party ha ispezionato 3 navi senza trovare niente di strano | **[NOTA DM]** Zardoz Zord è l'alias di Jarlaxle Baenre — il party non lo sa ancora. Incontro chiuso per ora, ma il filo potrebbe riaprirsi in Arpisti M4 |
 
 ---
 

@@ -10,8 +10,12 @@ Tra chi conosce la storia magica della città, le torri Kolat sono citate come e
 
 ## PNG Incontrati
 
-*(Nessuno)*
+*(Nessuno — solo osservazione esterna)*
+
+## Eventi Importanti
+
+- [S7] Il party ha investigato brevemente l'esterno delle torri. Ha confermato che le mura sono protette da un muro di forza magico — nessun accesso possibile dall'esterno.
 
 ## Note Aggiuntive
 
-Struttura storica nel Trades Ward. Apparentemente abbandonata. *Fonte: Dragon Heist Cap. 8*.
+**[NOTA DM — riservata]** Manshoon opera da queste torri. Rennis Coalsworth è prigioniero all'interno. La base è protetta da un muro di forza che rende impossibile l'accesso diretto. Struttura storica nel Trades Ward. *Fonte: Dragon Heist Cap. 8*.

@@ -1,5 +1,8 @@
 # DM Notes — Sessione 7 (In-Game)
 
+> ⚠️ **File aggiornato post-sessione.** Le fasi sono annotate con ✅/⏸️/🔀 per riflettere la realtà giocata.
+> Vedi sezione [📋 ACCADUTO IN SESSIONE](#accaduto-in-sessione) per il riepilogo dei delta.
+
 > **Fonte primaria:** `fonti/campagna/Dragon Heist.md` · Sezione *"Fireball"* (Cap. 3) — *What Renaer Knows*, *Nim's Secret* — e *"Gralhund Villa"* (righe ~1854-2130)
 > **Contesto:** Party Lv 3 · Cap. 2 chiuso in S6 (arco Emmek risolto per deviazione, Level Up milestone) · **Trollskull Manor aperta al pubblico** · Tutte le missioni M1 completate · **La Fireball è già esplosa in S6**: il party ha esaminato la scena del crimine, raccolto le testimonianze (Fala, Jezrynne, Martem) e incontrato Barnibus + Cromley; ha sottratto **500 mo in gemme** dal cadavere di Dalakhar. Cap. 3 in corso.
 > **Obiettivo sessione:** Far convergere l'indagine sulla Fireball — Renaer rivela il retroscena dello *Stone of Golorr*; la pista della "marionetta" porta al Tempio di Gond e al **Nimblewright Detector**; l'irruzione a **Villa Gralhund** (climax: Urstul Floxin, Hrabbaz, Lady Gralhund — il nimblewright fugge con la pietra, aprendo il Cap. 4). Seminare i referenti delle tre missioni **M2** per le prossime sessioni.
@@ -32,7 +35,9 @@
 
 ---
 
-## FASE 1: COSA SA RENAER (~15 min)
+## 🔀 DEVIAZIONE — FASE 1: COSA SA RENAER (~15 min)
+
+> 🔀 **Realtà**: Aelar ha contattato Renaer che ha raccontato di Dalakhar e promesso di raccogliere info (incontro avvenuto). Tuttavia l'identità di Urstul Floxin e la localizzazione alle Kolat Towers sono stati scoperti da Scintilla via Davil Starsong, non tramite Renaer. Renaer non ha ancora fornito l'indirizzo di Villa Gralhund (potrebbe arrivargli in S8 come filo aperto). L'ordine delle fasi è stato invertito: il Tempio di Gond è stato giocato per primo.
 
 Che sia il party a cercarlo o Renaer a bussare spontaneamente al manor, il figlio di Neverember ha informazioni che cambiano il quadro.
 
@@ -51,7 +56,7 @@ Che sia il party a cercarlo o Renaer a bussare spontaneamente al manor, il figli
 
 ---
 
-## FASE 2: NIM E IL TEMPIO DI GOND (~30 min)
+## ✅ GIOCATO — FASE 2: NIM E IL TEMPIO DI GOND (~30 min)
 
 Con la descrizione di Jezrynne in mano ("una marionetta sul tetto") e la conoscenza locale dei nimblewrights come costrutti del Giorno delle Meraviglie, il party può seguire la pista verso il Tempio di Gond nel Sea Ward.
 
@@ -113,7 +118,9 @@ Nim spiega (tramite Valetta): quando si tiene premuto il grilletto e ci si avvic
 
 ---
 
-## FASE 3: VILLA GRALHUND (~45-60 min) — *climax / surplus*
+## 🔀 DEVIAZIONE — FASE 3: VILLA GRALHUND (~45-60 min) — *climax / surplus*
+
+> 🔀 **Realtà**: Il party ha trovato Villa Gralhund e ha iniziato l'irruzione. Hanno sconfitto i cani nel giardino (G2) e i due thug nella sala da pranzo (G8), poi sono saliti al piano superiore. La sessione si è interrotta **prima dello scontro tra Zentharim e guardie Gralhund (G13)**. Tutta la parte al piano superiore (G13 atrio, G15 Urstul, G16 Yalah/Hrabbaz) è da giocare in S8. Nota: prima dell'irruzione il party ha cercato il Nimblewright al porto, salendo su tre navi con il capitano Zardoz Zord senza trovare nulla (questa scena non era nel piano).
 
 > **Quando giocarla:** se Renaer + Tempio hanno già riempito la serata, questa fase scivola interamente a S8 — è prep abbondante, non un obbligo. Se invece il party arriva ai cancelli con tempo a disposizione, qui c'è il cuore d'azione del Cap. 3.
 
@@ -196,7 +203,7 @@ Se il party raggiunge Lord Gralhund (codardo, si arrende al primo che sfonda la 
 
 ---
 
-## FASE 4: FILI SERALI, ISTRID HORN E PROSSIMI PASSI (~15 min)
+## ⏸️ NON GIOCATO — da spostare a S8 — FASE 4: FILI SERALI, ISTRID HORN E PROSSIMI PASSI (~15 min)
 
 ### Debrief
 
@@ -297,6 +304,48 @@ Non rivelare nulla direttamente — solo piantare il seme. Se il party trova **d
 | Semina M2 — Davil (Zhentarim, ~S8) | Krauser, Scintilla | **Seminato S7** | "Tieni il Resto"; apre l'arco Oathbreaker di Krauser |
 | Semina M2 — Vajra (Force Grey, ~S9) | Vorador, Razak | **Seminato S7** | "Non è Tutto Oro" + filo Brottor (zone sotterranee North Ward) |
 | Semina M2 — Mirt (Arpisti, ~S9-10) | Aelar | **Seminato S7** | "Disinfestazione"; Gazer a Curiosity & Satisfaction |
+
+---
+
+---
+## 📋 ACCADUTO IN SESSIONE 7 — Realtà vs Piano
+
+**Data aggiornamento:** 08 Giugno 2026
+**Basato su:** recap-sessione-07.md
+
+### Tabella Delta
+
+| # | Fase/Scena | Piano | Realtà | Tipo |
+|---|-----------|-------|--------|------|
+| 1 | FASE 2 — Tempio di Gond | Seconda fase del piano | Giocata per **prima** — completata senza deviazioni; Nimblewright Detector ottenuto | ✅ |
+| 2 | FASE 1 — Cosa sa Renaer | Renaer rivela Urstul/Villa Gralhund; è lui la fonte principale | Aelar incontra Renaer che racconta di Dalakhar e promette info; Urstul/Kolat Towers scoperti da Scintilla via Davil Starsong (non da Renaer) | 🔀 |
+| 3 | Ricerca porto (non pianificata) | — | Tre navi ispezionate con Zardoz Zord; Nimblewright non trovato; pista chiusa | 🔀 |
+| 4 | FASE 3 — Villa Gralhund (inizio) | Piano terra + piano superiore (completo) | Entrati, cani G2 sconfitti, thug G8 sconfitti, saliti al piano — sessione interrotta prima di G13 | 🔀 |
+| 5 | FASE 3 — Villa Gralhund (piano superiore) | G13 atrio, G15 Urstul, G16 Yalah/Hrabbaz | Non giocato — sessione interrotta | ⏸️ |
+| 6 | FASE 4 — Fili serali completa | Debrief, Aldric/Krauser, Istrid Horn, semina M2 | Non giocata | ⏸️ |
+
+### Scene da Trasferire a Sessione 8
+
+- **FASE 3 (piano superiore)**: G13 atrio superiore (4 veterans Gralhund vs 3 thug Zhent), G15 Urstul Floxin (ferito), G16 Yalah Gralhund + Hrabbaz, G16 baule di Asmodeo; Lord Gralhund in G15b; loot completo (G3 horseshoes of speed, G16 simboli Asmodeo)
+- **FASE 4 — Fili serali, Istrid Horn e prossimi passi** (intera sezione, verbatim)
+
+### TODO per il DM
+
+- **Renaer**: ha promesso di raccogliere informazioni su Villa Gralhund/Urstul. In S8, arriva il suo rapporto? (La villa è stata già trovata per altra via — il rapporto di Renaer potrebbe confermarlo o aggiungere dettagli sullo Stone of Golorr)
+- **Zardoz Zord**: il party lo ha incontrato al porto — vuoi sviluppare questo aggancio in futuro o resta un incontro chiuso?
+- **Kolat Towers**: Scintilla ha visto il muro di forza — il party farà altri tentativi di avvicinarsi prima del confronto con Manshoon?
+
+### Riverifica Hook PG (post-S7)
+
+| PG | Hook previsto | Stato post-S7 |
+|----|--------------|--------------|
+| Scintilla | Momento connessione con Nim al Tempio | ✅ Giocato — tempio completato come pianificato |
+| Vorador | Stone of Golorr "creatura senziente" — seminare dubbio | ✅ Parziale — Renaer ha rivelato le basi di Dalakhar; connessione Brottor/Stone non esplicitata |
+| Razak | Presagio di Hlam — 11 morti della Fireball | ✅ In corso — immutato, il filo resta aperto |
+| Barnabus | Urstul Floxin nella villa | ⏸️ Non risolto — party è al piano superiore ma scontro non iniziato; hook intatto per S8 |
+| Krauser/Aldric | Seme Oathbreaker post-baule Asmodeo | ⏸️ Non giocato — trasferito a S8 intatto |
+| Vorador | Baule Asmodeo/sigillo Cassalanter | ⏸️ Non giocato — party a piano superiore; hook valido per S8 |
+| **Nota speciale — Scintilla** | Filo riservato Rennis/Kolat Towers | **[NOTA DM]** Scintilla ha fisicamente scouted le Kolat Towers e confermato il muro di forza. Non sa ancora che Rennis è lì dentro — ma si sta avvicinando. Tenere a mente per quando il filo si apre esplicitamente. |
 
 ---
 
