@@ -63,6 +63,27 @@ Gabri | **Friedrich Krauser** | Umano Paladino (arco verso **Oathbreaker**) | Ze
 
 ---
 
+## Il Filo di Vecna — Dragon Heist
+
+> **[NOTA DM — riservata]** Filo narrativo che attraversa campagne multiple (Curse of Strahd → Dragon Heist → Shadow of Dragon Queen → Faction War → Eve of Ruin).
+> Fonte completa con tutti gli atti: `fonti/lore/filo-narrativo-multiverso.md`
+
+### I Sussurratori
+Terza parte invisibile che opera nelle ombre della guerra Xanathar/Zhentarim. Non rubano oro né potere: vogliono **segreti**. Non hanno nome pubblico — internamente si chiamano "i Sussurratori". Simbolo: **mano aperta con occhio al centro del palmo**. Non pronunciano mai il nome del loro signore — parlano solo di "il Segreto Supremo" e "Colui che Non Si Nomina".
+
+### Semi da seminare (Cap. 3 → 5)
+
+| Quando | Come inserirlo | Cosa succede |
+|--------|---------------|--------------|
+| **Cap. 3 — da S8** | Apertura di sessione / indagine di routine post-Fireball | Cadavere non rivendicato da nessuna fazione. Sulla lingua del morto è inciso un sigillo: una mano con un occhio. Il medico della città non sa spiegarlo. Nessuno lo reclama. |
+| **Cap. 4** | Un informatore che il party stava per contattare | L'informatore è sparito. L'ultima persona che lo ha visto: *"un uomo con mantello grigio e la mano bendata"*. La benda copre un tatuaggio. |
+| **Bottino** | Tra oggetti recuperati in un'indagine (qualsiasi cap.) | Piccolo libro senza titolo — pagine sembrano vuote, ma alla luce di una candela si vedono frammenti di testo in lingua sconosciuta. Non decifrabile ora. (A Sigil, qualcuno lo riconoscerà.) |
+
+### Regola d'oro
+Non rivelare mai il nome di Vecna durante Dragon Heist. Il nome arriva solo a Sigil, nelle campagne future.
+
+---
+
 ## PNG Chiave
 
 | PNG | Ruolo | Prima apparizione prevista | Affiliazione |
