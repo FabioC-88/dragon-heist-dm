@@ -36,12 +36,14 @@
 
 ### G13 — Atrio Superiore: La Battaglia Residua
 
-> Oltre la porta, la scena: quattro guardie in livrea Gralhund tengono un muro difensivo alla base della scala, scudi levati. Davanti a loro, tre figure in cuoio nero Zhentarim si gettano in avanti a ondate disordinate, più arrabbiate che organizzate. Sul pavimento tra i due schieramenti, due cadaveri — uno con la livrea, uno con il cuoio.
+> Oltre la porta, la scena: quattro guardie in livrea Gralhund tengono un muro difensivo alla base della scala, scudi levati. Davanti a loro, tre figure in cuoio nero Zhentarim si gettano in avanti a ondate disordinate, più arrabbiate che organizzate. Sul pavimento tra i due schieramenti, tre cadaveri — uno con la livrea Gralhund, uno con il cuoio Zhentarim, e un terzo che non porta né l'una né l'altra insegna: vesti ordinarie, nessun'arma, nessun segno di fazione riconoscibile.
 
 **Situazione tattica:**
 - **4 Veterans Gralhund** (CA 16, 30 PF ciascuno — già consumati dallo scontro) difendono la scala verso G16.
 - **3 Thugs Zhentarim** (CA 11, 20 PF ciascuno — ugualmente consumati) attaccano verso la scala.
 - **Nessuno dei due schieramenti nota il party** per il primo round (troppo impegnati tra loro).
+
+**[NOTA DM — riservata — Il Terzo Cadavere]** Il cadavere in vesti ordinarie non appartiene a nessuno dei due schieramenti. Non ha ferite da combattimento — è morto prima che iniziasse lo scontro. Se il party lo esamina (Medicina CD 13): sulla lingua è inciso un piccolo sigillo — una mano aperta con un occhio al centro del palmo. L'incisione è fresca, precisa, strumentale. Nessuno dei combattenti sembra averlo notato; nessuno lo reclamerà. Se la Watch arriva prima che il party esamini i cadaveri, Barnibus e Cromley passano oltre senza fermarsi su di lui — tra i morti di una mattanza di nobili e gangster, un corpo senza insegne non è una priorità. **Non spiegare il simbolo.** Lasciare che il party lo porti con sé. Il nome non esiste ancora.
 
 **[NOTA DM — riservata]** Se il party aspetta senza intervenire: dopo 2 round, 2 Veterans vincono contro i Thugs rimasti. I Gralhund salvi si rivoltano poi contro il party come intrusi. Se il party interviene con uno schieramento: i sopravvissuti dell'altro schieramento fuggono o si arrendono.
 
@@ -319,6 +321,7 @@ Un serpente volante deposita una pergamena, firmata in modo informale:
 | Hook | Fazione/PG | Stato | Note |
 |------|-----------|-------|------|
 | Villa Gralhund — piano superiore | Tutti | **FASE 1** | G13, G15 Urstul, G16 Yalah/Hrabbaz; baule Asmodeo |
+| G13 — cadavere senza fazione | Tutti | **FASE 1** | Medicina CD 13: sigillo mano+occhio sulla lingua; nessuno lo reclama; non spiegare |
 | Stone of Golorr fuggito con nimblewright | Tutti | **FASE 1** | Innesca Cap. 4 — detector si spegne |
 | Baule di Asmodeo / sigillo Cassalanter | Vorador | **FASE 1** | Vorador riconosce il sigillo del talismano |
 | Urstul Floxin — il bersaglio di Barney | Barnabus | **FASE 1** | Cattura/uccisione/fuga = chiusura arco personale |
@@ -345,6 +348,7 @@ Un serpente volante deposita una pergamena, firmata in modo informale:
 - [ ] Baule di Yalah trovato? Vorador ha collegato il sigillo?
 - [ ] Il nimblewright è fuggito con lo Stone (Cap. 4 aperto)?
 - [ ] Loot Villa Gralhund: horseshoes of speed / lingotti / simboli Asmodeo?
+- [ ] G13 — cadavere senza fazione esaminato? Sigillo mano+occhio trovato?
 - [ ] Watch arrivata — il party è uscito pulito?
 - [ ] Messaggio di Istrid Horn: chi ha ricevuto? Accordo raggiunto?
 - [ ] Seme Aldric/Krauser giocato?
