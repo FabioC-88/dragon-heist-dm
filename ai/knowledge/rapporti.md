@@ -1,5 +1,5 @@
 ---
-aggiornato: Sessione 7
+aggiornato: Sessione 8
 ---
 
 # Schema Rapporti — Waterdeep: Dragon Heist
@@ -35,7 +35,11 @@ Righe = PNG. Colonne = PG. Stato al momento dell'incontro più recente.
 | **Urstul Floxin** | — | — | — | — | — | ❌ Obiettivo personale |
 | **Hyustus Staget** | — | — | — | — | ⚠️ Incontrato S5 (accesso classificato negato) | ⚠️ Superiore / rivale |
 | **Saeth Cromley** | 🤝 Collega Ordine Magisti | — | — | — | — | 🤝 Collega guardia |
-| **Barnibus Blastwind** | ✅ Collega Ordine Magisti — convinto da Thrax a collaborare nelle indagini S7 | — | — | — | — | — |
+| **Barnibus Blastwind** | ✅ Collega Ordine Magisti — S8: tratta rilascio PG da Gralhund | 🤝 S8: crede alla versione del party | 🤝 S8: crede alla versione del party | 🤝 S8: crede alla versione del party | 🤝 S8: crede alla versione del party | 🤝 Collega guardia |
+| **Lady Yalah Gralhund** *(S8)* | ❌ Ordinato attacco S8 | ❌ Ordinato attacco S8 | ❌ Ordinato attacco S8 | ❌ Ordinato attacco S8 | ❌ Ordinato attacco S8 | — |
+| **Lord Orond Gralhund** *(S8)* | ❌ Ostile/Impaurito S8 | ❌ Ostile/Impaurito S8 | ❌ Intimidazione fallita S8 | ❌ Ostile/Impaurito S8 | ❌ Ostile/Impaurito S8 | — |
+| **Hrabbaz** *(S8)* | ❌ Combattuto S8 (sopravvissuto) | ❌ Combattuto S8 (sopravvissuto) | ❌ Combattuto S8 (sopravvissuto) | ❌ Combattuto S8 (sopravvissuto) | ❌ Combattuto S8 (sopravvissuto) | — |
+| **Urstul Floxin** | — | — | — | — | — | ❌ Fuggito ancora in S8 (beffa) |
 | **Lif (poltergeist)** | 🤝 Barista manor | 🤝 Barista manor | ✅ Amicizia — Aelar lo ha convinto | 🤝 Barista manor | 🤝 Barista manor | 🤝 Barista manor |
 | **Broxley Fairkettle** | 🤝 Fellowship of Innkeepers | 🤝 Fellowship of Innkeepers | 🤝 Fellowship of Innkeepers | 🤝 Fellowship of Innkeepers | 🤝 Fellowship of Innkeepers | 🤝 Fellowship of Innkeepers |
 | **Tally Fellbranch** | 🤝 Vicino / fornitore legno | 🤝 Vicino | 🤝 Vicino | 🤝 Vicino | 🤝 Vicino | 🤝 Vicino |

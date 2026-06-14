@@ -1,40 +1,43 @@
 # DM Notes — Sessione 9 (In-Game)
 
-> **Contesto:** Party Lv 3 · Il Capitolo 3 si è concluso (o sta per farlo) con gli eventi di Villa Gralhund. La *Pietra di Golorr* è sfuggita.
-> **Obiettivo sessione:** Gestire il fallout di Villa Gralhund (Watch, indagini), iniziare la caccia al Nimblewright (Capitolo 4) o almeno avviare le tracce, e far progredire le missioni secondarie M2 (Zhentarim, Force Grey, Arpisti).
+> **Contesto:** Party Lv 3 · Il Capitolo 3 si è concluso con gli eventi di Villa Gralhund. La *Pietra di Golorr* è sfuggita, ma il party ha trovato la mappa per il Mausoleo Cassalanter.
+> **Obiettivo sessione:** Iniziare l'esplorazione del Mausoleo Cassalanter (Capitolo 4), far progredire le missioni secondarie M2 (Zhentarim, Force Grey, Arpisti), e riprendere gli hook non giocati (Vincent Trench, Krauser/Aldric).
 > **XP accumulati:** Milestone — Lv 3. Il **Lv 4** scatta alla chiusura delle M2, prima di entrare nel vivo del Capitolo 4.
 
 ## ⚠️ NOTE DI APERTURA — Gestione degli Esiti di S8
 
 Essendo questa la sessione successiva al climax di Villa Gralhund, il mondo reagisce alle scelte del party in S8.
 
-- **Se Urstul è fuggito:** Si sta leccando le ferite in una safehouse Zhentarim o alle Kolat Towers. La Watch lo cerca.
-- **Se Urstul è stato catturato:** Barnibus lo interroga; l'ombra di Manshoon si allunga.
-- **La City Watch:** Se il party è stato arrestato o trattenuto, Barnibus Blastwind chiederà un resoconto formale. Se sono usciti puliti, Barnibus o Jalester potrebbero comunque fargli visita al Trollskull Manor.
-- **Il Nimblewright:** È ufficialmente scomparso con la Pietra.
-- **Zhentarim M2:** Se giocata in S8, passa oltre; se slittata, diventa il fulcro emotivo della S9 per Krauser e Scintilla.
+- **Urstul Floxin:** È fuggito dalla villa. Si sta leccando le ferite in una safehouse Zhentarim o alle Kolat Towers. La Watch lo cerca, ed è una beffa per Barnabus.
+- **La City Watch:** Il party è stato arrestato e rilasciato grazie alla negoziazione di Barnibus Blastwind. Jalester o Barnibus potrebbero fare una visita amichevole o formale per chiarire i patti.
+- **Il Nimblewright e la Mappa:** Il party ha già rintracciato il nimblewright e recuperato la mappa per il Mausoleo Cassalanter. Il Cap. 4 è ufficialmente iniziato.
+- **Zhentarim M2:** Posticipata in S8, diventa il fulcro emotivo della S9 per Krauser e Scintilla (con la scena della *Prima Crepa*).
+- **Il Baule di Yalah:** I simboli di Asmodeo e i mantelli Cassalanter non sono stati trovati in S8. Questo filo va riproposto, magari tramite prove scoperte da Barnibus o esplorando il Mausoleo.
 
 ---
 
 ## 🎬 SETUP INIZIALE — Il Giorno Dopo
 
-> *Il sole si alza su Trollskull Alley, illuminando i danni dell'esplosione che la città non ha ancora rimosso completamente. Siete tornati a casa, vivi. Ma la Pietra di Golorr è sfuggita, e in qualche angolo di Waterdeep, una macchina a molla sta camminando con la chiave per mezzo milione di dragoni d'oro. Il Detector, poggiato sul tavolo, resta immobile. Per ora.*
+> *Il sole si alza su Trollskull Alley, illuminando i danni dell'esplosione che la città non ha ancora rimosso completamente. Siete tornati a casa, vivi, e con la fedina penale pulita grazie a Barnibus. La Pietra di Golorr è sfuggita, ma avete in mano la mappa recuperata dal nimblewright: indica un punto preciso nella Città dei Morti, il Mausoleo della famiglia Cassalanter. La caccia è ufficialmente aperta.*
 
 ---
 
 ## FASE 1: LE SCORIE DI VILLA GRALHUND E L'INIZIO DEL CAP. 4 (~45 min)
 
 ### La Watch e le Conseguenze (Barnibus Blastwind)
-Se il party non ha già chiarito la sua posizione, Barnibus Blastwind (con Saeth Cromley) si presenta al Trollskull Manor la mattina seguente.
-- **Tono:** Professionale, freddo ma non ostile. Cerca chiarezza.
-- **Domande:** Cosa facevano a Villa Gralhund? Cosa sanno del costrutto metallico segnalato da alcuni testimoni (se non glielo hanno già detto)?
-- **Chiusura:** Ammonisce il party a non farsi giustizia da soli, ma lascia intendere (specie a Barney) che le vie ufficiali sono bloccate dall'influenza dei nobili e che un "aiuto ufficioso" da parte loro per fermare questa guerra tra fazioni potrebbe fargli comodo.
+Dopo aver mediato il rilascio, Barnibus Blastwind (con Saeth Cromley) si presenta al Trollskull Manor la mattina seguente o invita il party.
+- **Tono:** Meno formale, più da collaboratore.
+- **Il punto:** Urstul Floxin è sfuggito alla rete della Watch ancora una volta. Chiederà al party (specie a Barney) se sanno dove potrebbe essersi rifugiato (es. Kolat Towers) o prometterà di tenere gli occhi aperti.
 
-### Il Nimblewright Detector: Dove puntarlo?
-Il *Detector* ha una portata limitata. Il party deve esplorare la città per far scattare il segnale.
-- **Suggerimenti per i PG:** Possono usare la rete di Renaer (Arpisti), i topi mannari (Vincent Trench/Emmek) o semplicemente muoversi per quartieri strategici (Castle Ward, Sea Ward) usando il carretto del Manor.
-- **L'Innesco del Cap. 4:** Quando decideranno di iniziare la ricerca sistematica per i quartieri, il Detector inizierà a girare freneticamente. A seconda della catena stagionale che hai scelto (Cassalanter), li guiderà al *Temple of Gond*, oppure incroceranno la traccia in un vicolo verso il **Mausoleo Cassalanter** nella Città dei Morti (City of the Dead). 
-> *Lascia questa ricerca come traccia di fondo per la sessione, da intercalare alle M2.*
+### Verso il Mausoleo Cassalanter (Cap. 4)
+La traccia è chiara: la mappa recuperata indica il Mausoleo della famiglia Cassalanter nella Città dei Morti (City of the Dead).
+- **Suggerimenti per i PG:** Possono fare ricognizione al cimitero, magari sfruttando l'incontro con Istrid Horn che era stato fissato proprio lì.
+- **L'Innesco del Cap. 4:** Quando decideranno di indagare sul mausoleo, si scontreranno con i cultisti di Asmodeo.
+> *Lascia questa esplorazione come traccia di fondo per la sessione, da intercalare alle M2 e all'incontro con Istrid.*
+
+### Rapporto Vincent Trench (Recupero da S8)
+**Trigger (leggero):** In un momento di calma, l'investigatore **Vincent Trench** fa pervenire al manor il suo primo rapporto su Emmek Frewn.
+> *"Frewn è in debito fino al collo: oltre a Istrid Horn, ha creditori meno pazienti. La 'protezione' che vi ha mandato addosso non era farina del suo sacco — qualcuno gliel'ha procurata. Continuo a scavare."*
 
 ---
 
@@ -43,12 +46,11 @@ Il *Detector* ha una portata limitata. Il party deve esplorare la città per far
 *(Da giocare a seconda di quante ne sono rimaste in sospeso o di quale fazione i PG decidono di seguire per prima).*
 
 ### 1. Zhentarim M2: "Tieni Il Resto" (Krauser & Scintilla)
-> **[NOTA DM]** Se non giocata in S8, ha la **priorità assoluta**. Qui converge l'arco di Krauser (il Salvacondotto di Vosk) e Scintilla (i reagenti confiscati di Rennis).
-- **Aggancio:** Messaggio via serpente volante da Davil (o da Istrid se Davil è in cella).
+> **[NOTA DM]** Priorità assoluta. Qui converge l'arco di Krauser (il Salvacondotto di Vosk) e Scintilla (i reagenti confiscati di Rennis). L'aggancio è già arrivato in S8 tramite Istrid / Davil.
 - **Riassunto rapido:** Ritirare pozioni da Skeemo, consegnarle a Esvele alla Statua del Cacciatore di Dei.
 - **La Rivelazione:** Krauser nota il *Salvacondotto Giudiziario* col sigillo di Vosk; Scintilla riconosce i reagenti illegali delle confische. Vosk sta usando Skeemo per uccidere Esvele. Le loro backstories collidono.
 - **Esito:** Esvele, se avvertita, diventa alleata e svela che i Cassalanter sono protetti dalla magistratura ai piani alti (Vosk).
-- **Svolta Oathbreaker:** La sera stessa, al Portale, Aldric (Asmodeo) fa la sua mossa su Krauser offrendogli una giustizia "senza porte sul retro".
+- **La Prima Crepa e la Svolta (Recupero da S8):** La sera stessa, al Portale, Aldric (Asmodeo) fa la sua mossa su Krauser offrendogli una giustizia "senza porte sul retro".
 *(Vedi file `missioni-secondarie/zentharim/M2-TieniIlResto.md` per i dettagli completi).*
 
 ### 2. Force Grey M2: "Non è Tutto Oro" (Vorador, Razak)
@@ -77,11 +79,12 @@ Il *Detector* ha una portata limitata. Il party deve esplorare la città per far
 
 | Hook | Fazione/PG | Stato | Note |
 |------|-----------|-------|------|
-| Fallout Gralhund | Tutti | **Aperto** | Watch, Davil, Renaer. Conseguenze dirette di S8. |
-| Innesco Cap. 4 | Tutti | **Attivo** | Detector in funzione; inizio caccia al Nimblewright (City of the Dead). |
-| Zhentarim M2 | Krauser, Scintilla | **Da giocare** | Il sigillo di Vosk, i reagenti di Rennis, la svolta Oathbreaker (se slittata da S8). |
+| Fallout Gralhund | Tutti | **Aperto** | Watch collabora, Urstul fuggito. |
+| Esplorazione Mausoleo | Tutti | **Aperto** | Mappa in possesso, Cap. 4 attivo. |
+| Zhentarim M2 | Krauser, Scintilla | **Da giocare** | Il sigillo di Vosk, reagenti di Rennis, Aldric e la svolta Oathbreaker (da S8). |
 | Force Grey M2 | Vorador, Razak | **Da giocare** | Vajra Safahr, Zelifarn (Drago di Bronzo nel porto). |
 | Arpisti M2 | Aelar | **Da giocare** | Libreria, scontro col Gazer (senza distruggere i libri). |
+| Incontro Istrid | Krauser, Scintilla | **Da giocare** | Agganciata in S8, appuntamento al Cimitero. |
 
 ---
 
@@ -90,10 +93,11 @@ Il *Detector* ha una portata limitata. Il party deve esplorare la città per far
 *(Da compilare dopo la sessione)*
 
 ### Cosa è successo
-- [ ] Il party ha gestito il fallout con la Watch/Barnibus.
-- [ ] Il Detector ha puntato verso la prima location del Cap. 4 (es. Mausoleo / Temple of Gond).
+- [ ] Il party ha incontrato Barnibus per il post-Gralhund.
+- [ ] Il party ha esplorato il Mausoleo Cassalanter.
+- [ ] Il party ha incontrato Istrid Horn al cimitero.
 - [ ] Missione Zhentarim (Tieni Il Resto) completata.
-- [ ] Svolta Oathbreaker di Krauser avvenuta.
+- [ ] Svolta Oathbreaker di Krauser avvenuta (con Aldric).
 - [ ] Missione Force Grey (Non è Tutto Oro) completata.
 - [ ] Missione Arpisti (Disinfestazione) completata.
 

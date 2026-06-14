@@ -1,5 +1,8 @@
 # DM Notes — Sessione 8 (In-Game)
 
+> ⚠️ **File aggiornato post-sessione.** Le fasi sono annotate con ✅/⏸️/🔀 per riflettere la realtà giocata.
+> Vedi sezione [📋 ACCADUTO IN SESSIONE](#accaduto-in-sessione) per il riepilogo dei delta.
+
 > **Fonte primaria:** `fonti/campagna/Dragon Heist.md` · Sezione *"Gralhund Villa"* (Cap. 3, piano superiore — righe ~1900-2130) + `missioni-secondarie/zentharim/M2-TieniIlResto.md`
 > **Contesto:** Party Lv 3 · Cap. 3 in corso · **Irruzione a Villa Gralhund interrotta in S7**: party al piano superiore, prima di G13 (atrio). Cani G2 e thug G8 sconfitti. Nimblewright Detector in mano al party. Renaer ha promesso di raccogliere informazioni (risposta attesa). Scintilla ha scouted Kolat Towers (muro di forza confermato). Davil arrestato (temporaneamente) — rastrellamento Zhentarim in corso.
 > **Obiettivo sessione:** Completare Villa Gralhund (piano superiore — G13, G15, G16); gestire la Watch; chiudere i fili serali (Istrid Horn, seme Krauser/Aldric); se resta tempo, avviare Zentharim M2 "Tieni il Resto".
@@ -32,9 +35,9 @@
 
 ---
 
-## FASE 1: VILLA GRALHUND — PIANO SUPERIORE (~50 min)
+## ✅ GIOCATO — FASE 1: VILLA GRALHUND — PIANO SUPERIORE (~50 min)
 
-### G13 — Atrio Superiore: La Battaglia Residua
+### ✅ GIOCATO — G13 — Atrio Superiore: La Battaglia Residua
 
 > Oltre la porta, la scena: quattro guardie in livrea Gralhund tengono un muro difensivo alla base della scala, scudi levati. Davanti a loro, tre figure in cuoio nero Zhentarim si gettano in avanti a ondate disordinate, più arrabbiate che organizzate. Sul pavimento tra i due schieramenti, tre cadaveri — uno con la livrea Gralhund, uno con il cuoio Zhentarim, e un terzo che non porta né l'una né l'altra insegna: vesti ordinarie, nessun'arma, nessun segno di fazione riconoscibile.
 
@@ -51,7 +54,9 @@
 
 ---
 
-### G15 — Suite degli Ospiti: Urstul Floxin
+### 🔀 DEVIAZIONE — G15 — Suite degli Ospiti: Urstul Floxin
+
+> 🔀 **Realtà**: Urstul Floxin è fuggito dalla villa durante il caos. Il party non lo ha incontrato direttamente. Seconda beffa per Barnibus.
 
 > La porta di G15a è aperta sul corridoio. Dentro, il bagno privato è un disastro: una vasca rovesciata, specchi rotti. In G15a si sente — e poi si vede — un uomo enorme che scala la porta interna verso G15b a calci metodici: ogni botta fa cedere un po' il legno.
 
@@ -72,7 +77,9 @@
 
 ---
 
-### G15b — Lo Studio con il Cerchio di Teletrasporto
+### 🔀 DEVIAZIONE — G15b — Lo Studio con il Cerchio di Teletrasporto
+
+> 🔀 **Realtà**: Aelar ha tentato di intimidire Lord Orond senza successo. Orond non ha rivelato nessuna delle tre informazioni (Stone, Fireball, rapporto Zhentarim). Le rivelazioni restano ignote al party.
 
 Quando Lord Orond Gralhund apre la porta (o quando il party la sfonda, For CD 18):
 
@@ -92,7 +99,9 @@ Se pressato con Intimidazione (CD 10, svantaggio se teme che Yalah possa sentire
 
 ---
 
-### G16 — Camera Padronale: Yalah Gralhund e Hrabbaz
+### 🔀 DEVIAZIONE — G16 — Camera Padronale: Yalah Gralhund e Hrabbaz
+
+> 🔀 **Realtà**: Lady Gralhund ha ordinato a Hrabbaz e alle guardie di attaccare il party dopo troppe domande. Scontro di 10 turni. I coniugi Gralhund sono sopravvissuti con una guardia. Baule di Yalah non trovato.
 
 > La camera padronale di Villa Gralhund odora di cipria e paura. Ai piedi di un letto a baldacchino che vale più del palazzo di metà dei vostri vicini, Lady Yalah Gralhund vi aspetta con una corazza allacciata sopra l'abito da sera e uno stocco in mano. Accanto a lei, un mezzorco abbastanza grande da riempire lo stipite di una porta. Non sembra agitato.
 
@@ -106,7 +115,9 @@ Se pressato con Intimidazione (CD 10, svantaggio se teme che Yalah possa sentire
 
 ---
 
-### Il Baule di Yalah — il Filo Cassalanter
+### ⏸️ NON GIOCATO — da spostare a S9 — Il Baule di Yalah — il Filo Cassalanter
+
+> ⏸️ **Non giocato**: Il baule non è stato trovato. I simboli di Asmodeo e i mantelli cerimoniali restano nascosti. Vorador non ha collegato il sigillo del suo talismano ai Cassalanter. Questo hook dovrà essere riproposto in altra forma.
 
 **[NOTA DM — riservata]** Ai piedi del letto, un baule di legno chiuso (scassinare: Des CD 15 o chiave nell'abito di Yalah). Sembra contenere indumenti, ma uno scomparto segreto (Percezione CD 15 all'esterno) nasconde:
 - **Due simboli sacri di Asmodeo** — tondini di ossidiana con la runa di Asmodeo intarsiata in oro rosso.
@@ -129,13 +140,15 @@ Questo è il riscontro del talismano di Vorador, inerte da S5. Il sigillo che co
 
 ---
 
-### Il Nimblewright Fugge — Innesco Cap. 4
+### ✅ GIOCATO — Il Nimblewright Fugge — Innesco Cap. 4
 
 **[NOTA DM — riservata]** Quando il party si accorge che il Detector si è spento: il nimblewright ha lasciato la villa durante il caos dell'irruzione. Ha con sé lo Stone of Golorr e una mappa fornita da Yalah. Ha nascosto l'artefatto in un luogo segreto di Waterdeep. Il Detector segnala "fuggito" ma non la direzione. Questo è deliberato: la pietra deve sfuggire ora, o salta tutto il Cap. 4.
 
 ---
 
-### La Watch Arriva
+### ✅ GIOCATO — La Watch Arriva
+
+> ✅ **Realtà**: La Watch ha arrestato i PG. Barnibus ha trattato con i Gralhund per far ritirare la denuncia. I PG hanno convinto Barnibus che Lady Gralhund li aveva scambiati per Zhentarim.
 
 **[NOTA DM]** La carneficina è stata udita e segnalata. Arrivano **Barnibus Blastwind** e **Saeth Cromley** con 20 constables e due Cavalieri dei Grifoni in volo. Timer: **1d6+4 minuti** dal primo rumore di scontro all'aperto.
 
@@ -145,7 +158,9 @@ Chi viene visto allontanarsi dalla scena diventa sospetto. Se il party ha ucciso
 
 ---
 
-## FASE 2: FILI SERALI, ISTRID HORN E PROSSIMI PASSI (~25 min)
+## 🔀 DEVIAZIONE — FASE 2: FILI SERALI, ISTRID HORN E PROSSIMI PASSI (~25 min)
+
+> 🔀 **Realtà**: Fase giocata parzialmente. Istrid Horn e semina M2 giocate. Vincent Trench e seme Aldric/Krauser non giocati. I PG hanno posticipato le M2 e cercato il nimblewright (anticipo Cap. 4 non pianificato).
 
 ### Debrief
 
@@ -162,7 +177,7 @@ Sul selciato di Trollskull Alley restano ancora le macchie scure dell'esplosione
 
 ---
 
-### Filo Aperto — Il Rapporto di Vincent Trench
+### ⏸️ NON GIOCATO — da spostare a S9 — Filo Aperto — Il Rapporto di Vincent Trench
 
 **Trigger (leggero):** In un momento di calma, l'investigatore **Vincent Trench** fa pervenire al manor il suo primo rapporto su Emmek Frewn — una nota asciutta, da detective di mestiere.
 
@@ -172,7 +187,7 @@ Sul selciato di Trollskull Alley restano ancora le macchie scure dell'esplosione
 
 ---
 
-### Hook Fazione — Zentharim: Il Messaggio di Istrid Horn
+### ✅ GIOCATO — Hook Fazione — Zentharim: Il Messaggio di Istrid Horn
 
 **Trigger:** La sera stessa o il giorno successivo, un piccolo serpente alato porta un messaggio scritto in Comune a Krauser e/o Scintilla.
 
@@ -192,7 +207,7 @@ Offre **10 pp** solo per l'incontro. Se il party accetta di aiutarla a stare nas
 
 ---
 
-### Hook PG — Krauser & Aldric: la Prima Crepa nella Maschera *(seme → paga in S8-M2)*
+### ⏸️ NON GIOCATO — da spostare a S9 — Hook PG — Krauser & Aldric: la Prima Crepa nella Maschera *(seme → paga in M2)*
 
 > **[NOTA DM]** Gabri ha chiesto di portare Krauser verso l'**Oathbreaker**. Questo è il seme — la crepa che rende possibile la svolta quando il sigillo di Vosk riemerge in M2. Se M2 si gioca questa stessa sessione, la scena con Aldric avviene DOPO la consegna delle pozioni (vedi FASE 3). Se M2 scivola a S9, questa scena chiude S8 come battito narrativo di fine serata.
 
@@ -214,7 +229,9 @@ Offre **10 pp** solo per l'incontro. Se il party accetta di aiutarla a stare nas
 
 ---
 
-### Semina Referenti M2 — Verso le Prossime Sessioni
+### ✅ GIOCATO — Semina Referenti M2 — Verso le Prossime Sessioni
+
+> ✅ **Realtà**: Le tre semina M2 sono state giocate (tranne Zhentarim diretta — Scintilla/Krauser contattati da Istrid, non da Davil). I PG hanno posticipato tutte le M2.
 
 > **[NOTA DM]** Tre fili leggeri da piantare ora, ciascuno verso una missione M2 (Lv 3). Non sono missioni: sono solo l'aggancio del referente. Vanno bene come battute di chiusura serale o messaggi che arrivano al manor.
 
@@ -226,7 +243,7 @@ Offre **10 pp** solo per l'incontro. Se il party accetta di aiutarla a stare nas
 
 ---
 
-## FASE 3: ZENTHARIM M2 — "TIENI IL RESTO" (~60 min) — *surplus pianificato*
+## ⏸️ NON GIOCATO — da spostare a S9 — FASE 3: ZENTHARIM M2 — "TIENI IL RESTO" (~60 min) — *surplus pianificato*
 
 > **Quando giocarla:** Se Villa + FASE 2 hanno già riempito la serata, questa fase scivola interamente a S9 senza problemi. Se invece il party torna al manor con tempo a disposizione — qui c'è M2 pronta.
 >
@@ -334,48 +351,40 @@ Un serpente volante deposita una pergamena, firmata in modo informale:
 
 ---
 
-## RECAP POST-SESSIONE
+## 📋 ACCADUTO IN SESSIONE 8 — Realtà vs Piano
 
-*(Da compilare dopo la sessione)*
+**Data aggiornamento:** 14 Giugno 2026
+**Basato su:** recap-sessione-08.md
 
-### Cosa è successo
+### Tabella Delta
 
-- [ ] G13 — atrio superiore: come si è risolto? Gralhund vinti / Zhent vinti / party interviene?
-- [ ] Urstul Floxin: catturato / ucciso / fuggito?
-- [ ] Lord Gralhund interrogato — quali delle 3 rivelazioni?
-- [ ] Baule di Yalah trovato? Vorador ha collegato il sigillo?
-- [ ] Il nimblewright è fuggito con lo Stone (Cap. 4 aperto)?
-- [ ] Loot Villa Gralhund: horseshoes of speed / lingotti / simboli Asmodeo?
-- [ ] G13 — cadavere senza fazione esaminato? Sigillo mano+occhio trovato?
-- [ ] Watch arrivata — il party è uscito pulito?
-- [ ] Messaggio di Istrid Horn: chi ha ricevuto? Accordo raggiunto?
-- [ ] Seme Aldric/Krauser giocato?
-- [ ] Zentharim M2 giocata: fino a dove? Esvele avvertita? Krauser riconosce il sigillo di Vosk?
-- [ ] Svolta Oathbreaker di Krauser: avvenuta / rinviata?
-- [ ] Scintilla ha riconosciuto la firma di Rennis?
+| # | Fase/Scena | Piano | Realtà | Tipo |
+|---|-----------|-------|--------|------|
+| 1 | G13 — Atrio Superiore | Scontro Zhent vs Gralhund, party interviene | Party elimina Zhentarim, trova cadavere misterioso con sigillo mano+occhio | ✅ |
+| 2 | G15 — Urstul Floxin | Party affronta Urstul (cattura/uccisione/fuga) | Urstul fuggito durante il caos — party non lo incontra | 🔀 |
+| 3 | G15b — Lord Orond | Interrogatorio: 3 rivelazioni (Stone, Fireball, Zhentarim) | Aelar tenta intimidazione, fallisce. Nessuna rivelazione | 🔀 |
+| 4 | G16 — Yalah/Hrabbaz | Incontro, detector si spegne, baule Asmodeo | Detector spento, Lady ordina attacco, scontro 10 turni. Baule non trovato | 🔀 |
+| 5 | Baule di Yalah | Vorador trova sigillo Cassalanter | Non trovato. Hook Vorador mancato | ⏸️ |
+| 6 | Nimblewright fugge | Stone sfugge col nimblewright — innesco Cap. 4 | Confermato: nimblewright fuggito | ✅ |
+| 7 | Watch arriva | Arresto/gestione | Watch arresta PG. Barnibus tratta con Gralhund. PG convinti che li scambiavano per Zhent | ✅ |
+| 8 | Rapporto Vincent Trench | Nota su Emmek Frewn | Non consegnato | ⏸️ |
+| 9 | Istrid Horn | Messaggio a Krauser/Scintilla | Contatto avvenuto come da piano | ✅ |
+| 10 | Krauser/Aldric — Prima Crepa | Seme Oathbreaker al Portale | Non giocato | ⏸️ |
+| 11 | Semina M2 | 3 agganci fazioni | Seminati — PG posticipano tutte le M2 | ✅ |
+| 12 | FASE 3 — Zentharim M2 | Tieni il Resto (surplus pianificato) | Non giocata — surplus confermato | ⏸️ |
+| 13 | Caccia al Nimblewright | NON PIANIFICATO | PG trovano nimblewright, recuperano mappa per Mausoleo Cassalanter. Anticipo Cap. 4 | 🔀 |
 
-### PNG Incontrati / Aggiornamento Attitudini
+### Scene da Trasferire a Sessione N+1
 
-| PNG | Contesto S8 | Attitudine post-S8 |
-|-----|-------------|-------------------|
-| Urstul Floxin | Piano superiore Villa Gralhund | ? |
-| Lord Orond Gralhund | G15b — barricato, fonte delle 3 rivelazioni | ? |
-| Lady Yalah Gralhund | G16 — camera padronale; Stone già consegnato al nimblewright | ? |
-| Hrabbaz | Guardaspalle mezzorco | ? |
-| Barnibus Blastwind | Arriva con la Watch | ? |
-| Istrid Horn | Cimitero della Città — richiesta di rifugio | ? |
-| Skeemo Weirdbottle *(se M2 giocata)* | Alchimia Weirdbottle | ? |
-| Esvele Rosznar *(se M2 giocata)* | Statua del Cacciatore di Dei | ? |
-| Aldric | Al Portale Spalancato — seme Oathbreaker | ? |
+- **Baule di Yalah — il Filo Cassalanter**: hook Vorador non giocato. I simboli di Asmodeo e mantelli cerimoniali restano nascosti. Da riproporre in altra forma.
+- **Rapporto di Vincent Trench**: nota su Emmek Frewn. Da consegnare in S9.
+- **Krauser/Aldric — Prima Crepa nella Maschera**: seme Oathbreaker. Da giocare in concomitanza con M2 Zhentarim.
+- **FASE 3 completa — Zentharim M2 "Tieni il Resto"**: intera missione da giocare in S9.
 
-### XP / Milestone
+### TODO per il DM
 
-- **Milestone:** Lv 3 confermato. **Nessun level up in S8** (Lv 4 alla chiusura del Cap. 3, dopo le tre M2).
-- **Ricompense possibili:**
-  - 500 mo gemme Dalakhar (già in mano)
-  - 500 mo ricompensa Valetta (condizionata alla distruzione nimblewright — il costrutto è fuggito, ricompensa sospesa o rinegoziabile)
-  - 2.000 mo lingotti da Villa Gralhund (G3) + horseshoes of speed
-  - 200 mo da Esvele Rosznar se M2 giocata
-
-### Thread Narrativi Aperti
-*(Da compilare dopo la sessione)*
+- **Baule di Yalah**: il party non l'ha trovato. Vuoi che il sigillo Asmodeo/Cassalanter riemerga per altra via (es. Barnibus lo trova durante le indagini? Vincent Trench lo scopre?) o lo lasci dormire fino a Cap. 5?
+- **Urstul Floxin**: è fuggito di nuovo. Dove si nasconde? Kolat Towers o altra safehouse? Tornerà come minaccia?
+- **Lord Orond**: non ha rivelato nulla. Le tre informazioni (origine della Fireball, Stone of Golorr, rapporto Zhentarim) restano ignote al party. Vuoi che emergano per altra via?
+- **Loot di Villa Gralhund**: nessun loot raccolto. Horseshoes of speed e 2.000 mo in lingotti lasciati nella villa. Sono ancora recuperabili o la Watch ha sigillato la villa?
+- **Mappa Cassalanter**: i PG hanno anticipato il Cap. 4 trovando il nimblewright e la mappa. La S9 va aggiornata per riflettere che il Mausoleo è già stato localizzato.

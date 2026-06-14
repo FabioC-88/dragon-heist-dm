@@ -327,3 +327,19 @@
 | **Vincent Trench** *(S6)* | Indipendente (investigatore privato del quartiere) | **Contatto ingaggiato** | Ingaggiato | Investigatore privato assoldato dal party per raccogliere informazioni su Emmek Frewn | Risultati dell'indagine in arrivo |
 | **Jezrynne Hornraven** *(S6)* | Nobile | **Testimone** | Neutrale | Testimone oculare della Fireball; ha descritto "un burattino a forma d'uomo, una marionetta senza fili" sul tetto (→ nimblewright) | Vista all'uscita dall'ufficio di Vincent Trench |
 | **Martem Trec** *(S6)* | Indipendente (bambino, 12 anni) | **Testimone** | Neutrale | Bambino testimone; ha trovato una collana di fireball (2 globi, fibbia rotta) persa dal fuggitivo | Indizio sul nimblewright in fuga |
+
+---
+
+## VILLA GRALHUND / CAP. 4 — PNG del Party (S8)
+
+> PNG incontrati collettivamente dal party durante il completamento di Villa Gralhund (piano superiore) e la caccia al nimblewright (apertura Cap. 4).
+
+| PNG | Affiliazione | Relazione | Atteggiamento | Contesto | Note |
+|-----|-------------|-----------|---------------|---------|------|
+| **Lady Yalah Gralhund** *(S8)* | Nobili di Waterdeep / Cultisti di Asmodeo (segreto) | **Antagonista — combattuta** | Ostile | Ha ordinato a Hrabbaz e alle guardie di attaccare il party dopo troppe domande; scontro di 10 turni; sopravvissuta | Baule con simboli Asmodeo non trovato; il party non sa del suo legame con i Cassalanter |
+| **Lord Orond Gralhund** *(S8)* | Nobili di Waterdeep | **Antagonista passivo** | Ostile/impaurito | Aelar ha tentato di intimidirlo senza successo; non ha rivelato nessuna delle tre informazioni (Stone, Fireball, rapporto Zhentarim); sopravvissuto | Codardo, ma non ha parlato |
+| **Hrabbaz** *(S8)* | Gralhund (guardaspalle mezzorco) | **Nemico combattuto** | Ostile | Ha combattuto per 10 turni a difesa dei Gralhund; sopravvissuto | GS 4, mezzorco; si è interposto tra Yalah e il party |
+| **Urstul Floxin** *(S8)* | Zhentarim (sicario) | **Non incontrato direttamente** | Fuggito | Era a Villa Gralhund ma è fuggito durante il caos — il party non lo ha incontrato | Seconda beffa per Barnibus; si nasconde in una safehouse |
+| **Barnibus Blastwind** *(S7-S8)* | Ordine Magisti / Guardia Cittadina | **Collaboratore rafforzato** | ✅ Amichevole-collaborativo *(S8: ha trattato con i Gralhund per far rilasciare i PG; crede alla versione del party)* | Arrivato con la Watch; ha negoziato con i Gralhund per ritirare la denuncia contro i PG | Rapporto rafforzato; Urstul fuggito ancora una volta (seconda beffa) |
+| **Istrid Horn** *(S8)* | Zhentarim | **Contatto — messaggio ricevuto** | Neutrale/interessata *(S8: ha contattato Scintilla e Krauser via serpente alato per un incontro)* | Ha mandato messaggio a Krauser/Scintilla proponendo un incontro al Cimitero della Città | Esito dell'incontro da definire; possibile rifugio al manor |
+
