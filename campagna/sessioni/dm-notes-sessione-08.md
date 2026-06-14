@@ -244,25 +244,23 @@ Un serpente volante deposita una pergamena, firmata in modo informale:
 
 *Il negozio odora di zolfo, cannella e qualcosa di più difficile da identificare — forse il particolare tipo di fastidio chimico che nasce quando si combinano cose che non dovrebbero stare insieme. **Skeemo Weirdbottle** è un gnomo anziano con lenti spesse, capelli bianchi raccolti disordinatamente, e un grembiule che porta i segni di decenni di esperimenti.*
 
-**Skeemo Weirdbottle** *(avanzando le pozioni avvolte in carta cerata)*:
-> *"Eccole. Sei vialette, dosaggio standard, etichettate. Dite al vostro committente che Skeemo non sbaglia le misure — mai."*
+**Skeemo Weirdbottle** *(avanzando le pozioni avvolte in carta cerata e una pergamena ripiegata)*:
+> *"Eccole. Sei vialette, dosaggio standard. Questo salvacondotto vi eviterà noie con la City Watch lungo la strada. Dite alla signora che Skeemo non sbaglia le misure — mai."*
 
 *Una pausa, con un sorriso professionale.*
-> *"Assicuratevi che la destinataria le prenda tutte e sei. Il risultato non funziona a metà dose."*
+> *"Assicuratevi che le prenda tutte e sei. Il risultato non funziona a metà dose."*
 
-**[NOTA DM — riservata]** Skeemo lavora per Manshoon, non per Davil. Le pozioni sono velenate (morte in 2d4 ore). La frase "assicuratevi che le prenda tutte" è il momento in cui si rivela a chi presta attenzione. Se il party fa domande: risponde con vaga tecnicità. Se sente che stanno per esaminare le pozioni: attiva *Suggestione* (CD 13 Sag — "non c'è motivo di aprirle qui").
+**[NOTA DM — riservata]** Skeemo sta tradendo Davil. Esvele aveva ordinato vere pozioni telepatiche, ma il Magistrato Valerius Vosk (alleato dei Cassalanter) lo ha scoperto e ha pagato Skeemo per sostituirle con veleno. Il "salvacondotto" serve a garantire che la Watch non fermi i sicari ignari (il party). Se il party fa domande: risponde con vaga tecnicità. Se sente che stanno per esaminare le pozioni: attiva *Suggestione* (CD 13 Sag).
 
-**Rilevazione:**
-- **Scintilla (automatico):** Riconosce la firma chimica di Rennis Coalsworth. Non serve tiro. Questi componenti sono identici a materiali che Rennis ordinava tramite i suoi contatti. La commessa che lo ha fatto sparire passa attraverso questa catena.
-- **Altri PG:** Arcana CD 13 per riconoscere il veleno; Alchimia CD 14 per analizzare i componenti.
+### Scena 2 — Le Storie si Intrecciano (Krauser & Scintilla)
 
-### Scena 2 — Il Riconoscimento di Krauser
+*Fuori dal negozio, qualcuno del party esamina il pacco e il salvacondotto ufficiale.*
 
-*Fuori dal negozio, prima di raggiungere la statua, qualcuno del party esamina il pacco. Sul lato della carta da imballaggio, quasi invisibile finché non la si gira, c'è un sigillo in ceralacca verde — una bilancia stilizzata.*
+**Friedrich Krauser (automatico):** Riconosce il sigillo in ceralacca verde sul documento: una bilancia stilizzata. È il sigillo di **Valerius Vosk**, il magistrato che l'ha mandato a morire nella Shadowfell. L'uomo di legge sta coprendo questa consegna.
 
-**Friedrich Krauser (automatico):** Riconosce il sigillo immediatamente — è lo stesso stemma sull'ordine di missione che lo aveva mandato nella Shadowfell. Lo stesso di Valerius Vosk.
+**Scintilla (automatico):** Insospettita, apre una vialetta e l'annusa. Riconosce subito la composizione chimica: non è una pozione, ma un veleno sintetizzato con rari reagenti illegali confiscati dalla Watch. È l'esatto traffico che **Rennis Coalsworth** gestiva. Ora è chiaro: Vosk forniva le confische a Rennis e le fornisce a Skeemo per commissionare omicidi.
 
-**[NOTA DM]** Aspettate. Scintilla tiene la vialetta aperta. Friedrich tiene il pacco con quel sigillo visibile. Dategli il tempo di guardare entrambi allo stesso momento. La connessione tra le loro storie non ha bisogno di essere spiegata ad alta voce.
+**[NOTA DM]** Aspettate. Scintilla tiene la vialetta velenosa aperta. Friedrich tiene in mano il salvacondotto col sigillo del suo carnefice. Dategli il tempo di guardare entrambi e capire: Vosk proteggeva i traffici di Rennis e Vosk sta commissionando questo omicidio usando Skeemo. Le loro backstories si fondono qui.
 
 ### Scena 3 — Esvele Rosznar alla Statua del Cacciatore di Dei
 
@@ -278,19 +276,19 @@ Un serpente volante deposita una pergamena, firmata in modo informale:
 | Valutare Esvele alla statua | 13 | Intuizione | Capisci che non è una minaccia |
 | Consegnare le pozioni pulite | 11 | Inganno | Esvele pensa siano genuine |
 
-**Se il party la avverte:**
+**Se il party la avverte e le svela il piano di Vosk:**
 
 **Esvele** *(senza cambiare espressione)*:
-> *"Interessante. Quindi Skeemo si è schierato definitivamente. Non ero sicura."*
+> *"Interessante. Avevo ordinato queste pozioni a Davil in buona fede. Skeemo deve aver ricevuto un'offerta migliore dai protettori dei Cassalanter. Vosk, dite? Almeno so chi sta cercando di fermarmi."*
 
 *Una pausa.*
-> *"Perché mi avvisate?"*
+> *"Perché mi avvisate? Potevate intascare e tacere."*
 
 **Se il party risponde onestamente:**
-> *"Capisco. Non siete Zhentarim-Manshoon. Siete qualcos'altro."*
+> *"Capisco. Vosk non ha fatto bene i conti con i suoi corrieri."*
 
 *Guarda le pozioni senza toccarle.*
-> *"Tenete il vostro pagamento. E quando avrete bisogno di sapere qualcosa su Villa Cassalanter — trovate un modo per contattarmi. Saprò chi siete."*
+> *"Tenete il vostro pagamento. I Cassalanter sono protetti dalla magistratura, ma le loro casseforti non lo sono. Quando avrete bisogno di sapere qualcosa sulla loro Villa — trovate un modo per contattarmi. Saprò chi siete."*
 
 **[NOTA DM — riservata]** Esvele non è grata in modo dimostrativo. È pratica. Se salvata, diventa contatto per intel su nobili e Villa Cassalanter (rilevante nel Cap. 5). Non spiegare ancora il collegamento Cassalanter.
 

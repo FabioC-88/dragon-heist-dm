@@ -8,7 +8,7 @@
 
 ## 📖 Sinossi
 
-Un **serpente volante** porta un messaggio notturno: ritirare pozioni da un alchimista gnomo e consegnarle a una donna in mantello viola. Semplice. Peccato che **le pozioni siano velenate**, l'alchimista **lavori per Manshoon**, e la donna sia **Esvele Rosznar** — una leggendaria ladra-assassina che si credeva morta da un secolo. Il party si trova nel mezzo di un **intrigo tra fazioni** senza saperlo — e le scelte fatte questa notte avranno **conseguenze**.
+Un **serpente volante** porta un messaggio notturno da parte di Davil: ritirare pozioni da un alchimista gnomo e consegnarle a una donna in mantello viola. Sembra un lavoro semplice, ma è una trappola mortale. La destinataria è **Esvele Rosznar** (una leggendaria ladra che pianifica di derubare i Cassalanter). Il Magistrato **Valerius Vosk** (alleato dei Cassalanter) lo ha scoperto e ha corrotto l'alchimista, **Skeemo**, per sostituire le pozioni con un veleno letale coperto da un salvacondotto giudiziario. Il party si trova nel mezzo di un intrigo incrociato — e scoprirà che i propri fantasmi (Rennis e Vosk) sono complici nello stesso crimine.
 
 ---
 
@@ -17,10 +17,12 @@ Un **serpente volante** porta un messaggio notturno: ritirare pozioni da un alch
 **Protagonista principale: Scintilla | Ruolo attivo: Krauser | Livello: 3**
 
 **Il riconoscimento di Scintilla:**
-Quando Scintilla esamina le pozioni — è un'artificiera, i componenti chimici non le sono estranei — la firma chimica la blocca. Questi composti sono identici a materiali che **Rennis Coalsworth** ordinava periodicamente tramite i suoi contatti zhentarim. Non è una coincidenza: Rennis lavorava per Skeemo, o per chi sta sopra Skeemo. La commessa che lo ha fatto sparire passa attraverso questa catena.
+Quando Scintilla esamina le pozioni, la firma chimica la blocca. Questi non sono reagenti comuni: sono scorte sequestrate, materiali alchemici altamente illegali. Sono esattamente gli stessi composti rari che **Rennis Coalsworth** trafficava di contrabbando. Rennis non comprava dal mercato nero: rubava dai magazzini delle prove della City Watch per rivenderli a Skeemo.
 
-**Il riconoscimento di Krauser:**
-Durante il trasporto, Krauser nota il **sigillo di Vosk** sulla confezione — lo stesso stemma sull'ordine di missione che lo mandò nella Shadowfell. I due PG si guardano: le loro storie si stanno intrecciando per la prima volta.
+**Il riconoscimento di Krauser (e i piani di Vosk):**
+Sull'involucro esterno del pacco c'è un documento ripiegato con un **sigillo in ceralacca verde**: il sigillo della bilancia di **Valerius Vosk**. È un *salvacondotto giudiziario*, redatto per impedire alla Watch di ispezionare il pacco. Krauser lo riconosce: è lo stesso magistrato che l'ha mandato a morire nella Shadowfell.
+Unendo i pezzi, l'intrigo ha senso: Esvele ha ordinato vere pozioni per il suo colpo ai Cassalanter. Vosk (che protegge i Cassalanter) l'ha scoperto e ha pagato Skeemo per avvelenarle. Vosk fornisce a Skeemo i reagenti confiscati dalla Watch (lo stesso traffico di Rennis) e copre le sue consegne di veleno con l'immunità diplomatica.
+I due PG si guardano: l'uomo che ha tradito Krauser è il fornitore dei veleni illegali trafficati da Rennis. Le loro storie sono la stessa storia.
 
 **Il dilemma morale reale:**
 La destinataria non sa cosa sta ricevendo. Non esiste un'uscita pulita:
@@ -55,9 +57,9 @@ La destinataria non sa cosa sta ricevendo. Non esiste un'uscita pulita:
 
 | PNG | Ruolo | Affiliazione |
 |-----|-------|-------------|
-| **Skeemo Weirdbottle** | Alchimista gnomo | Zhentarim (copertura) / **Manshoon** (vero padrone) |
-| **Esvele Rosznar** | "La Vipera Nera" | Indipendente / ladra storica |
-| **Manshoon** | Wizard antagonista minore | Behind the scenes |
+| **Skeemo Weirdbottle** | Alchimista gnomo | Zhentarim (copertura) / Manshoon (padrone) / Corrotto da Vosk |
+| **Esvele Rosznar** | "La Vipera Nera" | Indipendente / ladra storica, bersaglio di Vosk |
+| **Valerius Vosk** | Magistrato | Alleato occulto dei Cassalanter, mandante dell'omicidio |
 
 ---
 
@@ -73,28 +75,21 @@ Un **serpente volante** (magico, non biologico) deposita una pergamena:
 - **Apparenza:** Gnomo anziano, capelli bianchi, lenti, grembiule macchiato
 - **Personalità:** Cordiale, preciso, raramente turbato
 - **Lealtà Pubblica:** Zhentarim ("vecchio amico")
-- **Lealtà Reale:** **Manshoon** — ha avvelenato le pozioni su ordine del suo vero padrone
+- **Lealtà Reale:** **Manshoon** — ma in questo caso ha accettato un contratto esterno e molto redditizio dal Magistrato **Valerius Vosk**, all'insaputa di Davil.
 - **Strategia:** Se il party sospetta, tenta Suggestione (CD 13 Wis Save)
 
-### Le Pozioni Velenate
+### Le Pozioni Velenate e i Piani di Vosk
 - **Etichetta:** "Pozioni di Lettura del Pensiero" 
-- **Realtà:** Contengono un veleno raro che induce morte dopo 2d4 ore
-- **Rilevazione (Scintilla):** Riconosce automaticamente la firma chimica di Rennis Coalsworth — non serve tiro. Sa subito che Rennis era coinvolto in questa catena.
-- **Rilevazione (altri PG):** Arcana CD 13 per riconoscere il veleno; Alchimia CD 14 per analizzare i componenti
-- **Rimedi:** Contraddio Magico, Neutralizza Veleno, o antidoto raro
-
-### Il Sigillo di Vosk
-Sulla confezione c'è un sigillo — uno stemma nobile con una bilancia stilizzata. Krauser lo riconosce: è lo stesso sigillo sull'ordine di missione che lo mandò nella Shadowfell.
-
-**Rilevazione:** Automatica per Krauser. Per gli altri PG: Storia CD 13 per identificarlo come sigillo di **Valerius Vosk**, magistrato del Quartiere del Castello.
-
-Questo è il momento in cui le storie dei due PG si toccano concretamente per la prima volta.
+- **Realtà:** Contengono un veleno raro, letale in 2d4 ore, distillato usando reagenti illegali prelevati dai sequestri della Watch.
+- **Il Salvacondotto (Krauser):** Sull'imballaggio è attaccato un salvacondotto giudiziario ufficiale recante il sigillo di **Valerius Vosk**, magistrato del Quartiere del Castello. Serve a far passare il pacco indisturbato a qualsiasi ispezione della Guardia. Per Krauser il riconoscimento è immediato: è l'uomo che l'ha mandato a morire.
+- **La Firma Chimica (Scintilla):** Analizzando il preparato (automatico per lei), Scintilla riconosce i reagenti: sono gli stessi materiali confiscati che **Rennis Coalsworth** rubava dai magazzini della Watch. 
+- **Il Quadro d'Insieme:** Vosk protegge i Cassalanter. Esvele vuole derubarli. Vosk, usando i reagenti sequestrati (il vecchio lavoro di Rennis), ha pagato Skeemo per creare il veleno e ha emesso il salvacondotto per coprire i sicari (il party).
 
 ### Esvele Rosznar — "La Vipera Nera"
-- **Leggenda:** Ladra nostra dagli inseguimenti di Waterdeep per *decenni*, creduta morta
-- **Realtà:** Ancora viva, pianifica un colpo a Villa Cassalanter
-- **Obiettivo:** Le pozioni dovevano eliminarla su ordine di Manshoon (rivale)
-- **Se Avvertita:** Esvele diventa alleata del party (riconoscenza di valore); nemico di Manshoon
+- **Leggenda:** Ladra storica sfuggita alla Watch per *decenni*, creduta morta.
+- **Realtà:** Ancora viva, pianifica un colpo a Villa Cassalanter. Aveva ordinato vere pozioni telepatiche agli Zhentarim.
+- **Obiettivo:** Valerius Vosk l'ha scoperta e vuole farla fuori prima che comprometta i Cassalanter.
+- **Se Avvertita:** Esvele comprende che i Cassalanter sono protetti in alto (Vosk) e diventa alleata del party; sa di essere nel mirino della magistratura.
 
 ---
 
@@ -116,10 +111,11 @@ Questo è il momento in cui le storie dei due PG si toccano concretamente per la
 **Tema:** Non tutti i veleni sono di Zhentarim — e non tutti i movimenti sono ciò che sembrano.
 
 **Colpi di Scena:**
-- Skeemo lavora secretamente per Manshoon, rivale degli Zhentarim
-- Esvele Rosznar è **leggenda viva** — se avvertita, diventa alleata formidabile
-- Consegnare le pozioni consapevolmente = morte di Esvele, potenziale alleata perduta
-- Non consegnare = sfidare la prima missione seria con gli Zhentarim
+- Skeemo lavora secretamente come avvelenatore per il Magistrato Vosk, tradendo la fiducia di Davil.
+- Vosk usa il suo potere giudiziario per coprire omicidi (il salvacondotto) e trafficare reagenti illegali (il giro di Rennis).
+- Esvele Rosznar è **leggenda viva** — se avvertita, diventa alleata formidabile contro i Cassalanter.
+- Consegnare le pozioni = morte di Esvele per conto di Vosk.
+- Non consegnare = salvare Esvele, ma svelare di aver aperto un pacco sigillato dalla magistratura.
 
 ---
 
@@ -148,15 +144,15 @@ Questo è il momento in cui le storie dei due PG si toccano concretamente per la
 
 *Fuori dal negozio, prima di raggiungere la statua, qualcuno del party esamina il pacco.*
 
-**Il momento di Scintilla** *(automatico, senza tiro)*: Scintilla toglie il tappo di una vialetta e annusa. Non bevendo — annusando. Conosce questa combinazione di componenti. Li ha visti nei registri di ordinazione di Rennis Coalsworth, anni prima che sparisse. Non sono pozioni di Lettura del Pensiero. Ha bisogno di qualche minuto per essere sicura, ma la firma chimica è quella.
+**Il momento di Krauser** *(automatico)*: Sul lato del pacco è spillata una pergamena ufficiale. È un salvacondotto per esentare la merce dai controlli della City Watch. In calce, un sigillo in ceralacca verde — una bilancia stilizzata. Friedrich Krauser lo riconosce immediatamente: è il sigillo di **Valerius Vosk**, il magistrato che firmò l'ordine di condannarlo alla Shadowfell. Vosk sta coprendo questa consegna.
 
-> *"Questo non è quello che dicono che sia."*
+**Il momento di Scintilla** *(automatico, senza tiro)*: Sospettando del salvacondotto, Scintilla toglie il tappo di una vialetta e annusa. Conosce questa precisa e illegale combinazione di componenti. Sono sostanze sequestrate dalla Watch. Le stesse che **Rennis Coalsworth** trafficava fuori dai magazzini delle prove per venderle al mercato nero. Ora capisce da chi Rennis riceveva l'autorizzazione a rubare: Vosk.
 
-**Il momento di Friedrich Krauser** *(automatico)*: Sul lato della carta da imballaggio, quasi invisibile finché non la si gira, c'è un sigillo in ceralacca verde — una bilancia stilizzata. Friedrich Krauser lo riconosce immediatamente: è lo stesso stemma che compariva sull'ordine di missione che lo aveva mandato nella Shadowfell.
+> *"Queste non sono pozioni di Lettura del Pensiero. Sono un veleno da sicario. E so da dove vengono i materiali."*
 
 *Se nessuno dei due parla per primo:*
 
-**Atmosfera DM:** Aspettate. Scintilla tiene la vialetta aperta. Friedrich Krauser tiene il pacco in mano con quel sigillo visibile. Dategli il tempo di guardare entrambi allo stesso momento. La connessione tra le loro storie in questo momento non ha bisogno di essere spiegata ad alta voce.
+**Atmosfera DM:** Aspettate. Scintilla tiene la vialetta avvelenata aperta. Friedrich Krauser tiene in mano il salvacondotto col sigillo di Vosk. Dategli il tempo di guardare entrambi e collegare i pezzi: Vosk proteggeva i traffici di Rennis e Vosk sta commissionando un omicidio a Skeemo. Le loro storie sono esattamente lo stesso complotto.
 
 ---
 
@@ -170,19 +166,19 @@ Questo è il momento in cui le storie dei due PG si toccano concretamente per la
 **Se il party le consegna senza avvertirla:**
 Esvele le prende, verifica il sigillo, se ne va. Fine interazione.
 
-**Se il party la avverte:**
+**Se il party la avverte (e menziona Vosk o il veleno):**
 
 **Esvele** *(senza cambiare espressione)*:
-> *"Interessante. Quindi Skeemo si è schierato definitivamente. Non ero sicura."*
+> *"Interessante. Avevo ordinato queste pozioni a Davil in buona fede. Skeemo deve aver ricevuto un'offerta migliore dai protettori dei Cassalanter. Vosk, dite? Bene. Almeno so da dove guardare."*
 
 *Una pausa.*
-> *"Perché mi avvisate?"*
+> *"Perché mi avvisate? Potevate voltarvi dall'altra parte."*
 
-**Se il party risponde onestamente:**
-> *"Capisco. Non siete Zhentarim-Manshoon. Siete qualcos'altro."*
+**Se il party risponde onestamente (e si smarcano da Vosk):**
+> *"Capisco. Vosk non ha fatto bene i suoi conti con i fattorini, a quanto pare."*
 
 *Guarda le pozioni senza toccarle.*
-> *"Tenete il vostro pagamento. E quando avrete bisogno di sapere qualcosa su Villa Cassalanter — trovate un modo per contattarmi. Saprò chi siete."*
+> *"Tenete il vostro pagamento. I Cassalanter sono protetti dai tribunali fino alla cima, ma le loro casseforti non lo sono. Quando avrete bisogno di sapere qualcosa su Villa Cassalanter — trovate un modo per contattarmi. Saprò chi siete."*
 
 **Atmosfera DM:** Esvele non è grata in modo dimostrativo. È pratica. Questo è il massimo del calore che "La Vipera Nera" esprime — e va benissimo così.
 
