@@ -1,206 +1,211 @@
 # Missione 3 — Benvenuti in Famiglia
 
 **Fazione:** [Arpisti](../../Campagna/fazioni.md#arpisti) | **Livello:** 4 | **Durata:** 2–3 ore  
-**Referente:** [Mirt il Cambiavalute](../../Campagna/png-incontrati.md#mirt-il-cambiavalute)  
-**Fonte Completa:** `Arpisti_Missione3_benvenuti_in_famiglia.txt`
+**Referente:** [Mattrim "Tre Corde" Mereg](../../Campagna/png-incontrati.md#mattrim-mereg)  
+**Fonte Completa:** `fonti/missioni/Arpisti_Missione3_benvenuti_in_famiglia.md`
 
 ---
 
-## 📖 Sinossi
+## Sinossi
 
-Gli Arpisti hanno individuato una **banda di doppelganger** operante nelle ombre di Waterdeep. **Mattrim "Tre Corde" Mereg** crede che alcuni di loro possano diventare alleati. Il gruppo viene incaricato di incontrarli, valutarli e riferire i risultati. **Non tutto quel che luccica è oro — e non tutto ciò che mente è nemico.** Una missione di valutazione e negoziazione, non di combattimento.
+Gli Arpisti hanno individuato una **banda di doppelganger** operante nelle ombre di Waterdeep. **Mattrim "Tre Corde" Mereg** crede che alcuni di loro possano diventare preziosi alleati. Il gruppo viene incaricato di incontrarli, valutarli e riferire i risultati. Non tutto quel che luccica è oro — e non tutto ciò che mente è nemico.
 
 ---
 
-## 🎯 Obiettivi
+## Obiettivi
 
 1. **Incontrare Mattrim Mereg** ("Tre Corde") al Portale Spalancato
-2. **Farsi presentare la banda di doppelganger** — I Mutaforma
-3. **Valutare l'affidabilità dei doppelganger**, in particolare **Bonnie** (leader)
-4. **Riferire le scoperte** a Mattrim (o contatto Arpista)
-5. **Decidere se reclutarli** come alleati della fazione
+2. **Farsi presentare i doppelganger** da Mattrim — in particolare Bonnie
+3. **Incontrare gli altri membri della banda** (richiede coordinazione con Bonnie)
+4. **Valutare l'affidabilità del gruppo**, in particolare Bonnie come leader
+5. **Riferire le scoperte** a Mattrim o a un contatto Arpista
 
 ---
 
-## 🗺️ Ambientazione
+## Ambientazione
 
-- **Portale Spalancato** — locanda viva, piena di gente (incontro iniziale)
-- **Magazzino nel Trades Ward** — semi-abbandonato, copertura da fabbrica di candele (incontro doppelganger)
+**Portale Spalancato** — locanda centrale di Waterdeep. Mattrim alloggia qui. È anche il luogo del primo incontro con Bonnie. Durnan gestisce il bancone.
 
----
-
-## 👥 PNG Chiave
-
-| PNG | Ruolo | Note |
-|------|---------|---------|
-| **Mattrim "Tre Corde" Mereg** | Trovatore Arpista | Tres corde extra sul liuto; allegro, diretto |
-| **Bonnie** | Leader doppelganger (I Mutaforma) | Intelligente, carismatica, potenzialmente alleabile |
-| **Slane** | Doppelganger instabile | Precedenti di violenza; diffida di chiunque. Nell'ultimo mese ha sogni ricorrenti di un luogo che non ha mai visitato — ne parla poco e malvolentieri |
-| **Voss** | Doppelganger | Misterioso, pochi dettagli |
+Gli altri doppelganger si incontrano **separatamente**, nei luoghi dove vivono le loro identità, con preavviso da concordare tramite Bonnie.
 
 ---
 
-## 💡 Meccaniche Chiave
+## PNG Chiave
 
-### Il Messaggio Arpista
+| PNG | Ruolo | Nota |
+|-----|-------|------|
+| **Mattrim "Tre Corde" Mereg** | Trovatore Arpista | Tre corde extra sul liuto; allegro, diretto. È innamorato di Bonnie — lo sa, lo nasconde male |
+| **Bonnie** | Leader doppelganger | Lavora al Portale Spalancato. Unica della banda genuinamente interessata a una vita onesta. Conosce già uno dei PG (non sa che lei è un doppelganger) |
+| **Durnan** | Barista del Portale Spalancato | Non sapeva che Bonnie fosse un doppelganger — non gliene importa. Lei non ha mai abusato della sua fiducia |
+| **Willifort Crowelle** | Doppelganger | Tiefling anziano in abito scuro, occhiali sottili. Servo personale dei Cassalanter. I Cassalanter sanno chi è. Disponibile con 2 giorni di preavviso |
+| **Naneatha Lharilstar** | Doppelganger | Nobildonna elegante. Vive "onestamente — quanto si può, come nobile in questa città". Durnan capisce subito che ha rimpiazzato qualcuno: la caccia con rabbia, senza colpirla. Disponibile solo la sera |
+| **Cecil Weiss** | Doppelganger | Bardo umano. Vuole diventare leggenda: musicista, attore, drammaturgo. Evita le accuse di impersonare rivali. Disponibile con 1 giorno di preavviso |
+| **Vaniel Shortwick** | Doppelganger | Halfling barista al Hole in the Wall. Paranoico — si difende prima ancora di essere accusato. Frequenta il locale degli uomini-ratto alleati dello Xanathar |
+
+---
+
+## Il Messaggio degli Arpisti
+
 Arriva tramite **uccellino di carta origami** — vola magicamente, si apre da solo, recita:
-> "Mattrim Mereg, forse lo conoscete come 'Tre Corde', si è alleato con una banda di doppelganger e crede che potrebbero unirsi a noi. Parlate con loro, cercate di inquadrarli e capite se ci si può fidare. Riferite le vostre scoperte a Mattrim."
 
-**Nota:** L'uccellino è animato da semplice Prestidigitazione — non torna a Mirt.
-
-### Valutazione dei Doppelganger
-Il gruppo deve usare **Intuizione** e **Investigazione** per capire:
-- Bonnie è sincera nelle sue intenzioni? (Intuizione CD 13)
-- Slane è realmente violento o solo diffidente? (Intuizione CD 14)
-- I Mutaforma possono essere controllati? (Investigazione CD 12)
-
-### Non è un Combattimento
-Se il party tira **Spada/Magia**, i doppelganger svaniscono — missione fallisce. Mirt rimane deluso.
+> *"Mattrim Mereg, forse lo conoscete come 'Tre Corde', si è alleato con una banda di doppelganger e crede che potrebbero unirsi a noi. Parlate con loro, cercate di inquadrarli e capite se ci si può fidare. Riferite le vostre scoperte a Mattrim."*
 
 ---
 
-## ⚙️ Tiri e Prove
+## Meccaniche Chiave
 
-| Azione | CD | Caratteristica | Risultato |
-|--------|-----|-----------|-----------|
-| Riconoscere Mattrim al Portale | 11 | Percezione | Uomo dai capelli scuri, liuto con tre corde extra |
-| Convincere Bonnie che siete onesti | 13 | Persuasione/Inganno | I doppelganger vi aprono le porte |
-| Valutare stabilità emotiva di Slane | 14 | Intuizione | Capite il suo grado di pericolosità |
-| Convincere Bonnie a unirsi agli Arpisti | 15 | Persuasione | Alleanza formale se successo |
+### Incontro con Bonnie
+
+Bonnie può già essere nota a uno dei PG (senza che loro sappiano cosa sia). Se scoperta al Portale Spalancato, Mattrim interviene per guadagnare tempo — ma Bonnie interrompe lei stessa, ammette chi è, e propone di parlare.
+
+Racconta: cinque doppelganger arrivati a Waterdeep tre anni fa per costruire una vita vera — "per quanto assurdo possa sembrare". Ha tenuto il gruppo sotto controllo. È disposta a presentare gli altri, ma le agende sono complicate.
+
+**Prova chiave:** Persuasione/Intimidazione CD 15 (almeno una volta nell'incontro).
+
+### Incontro con gli altri doppelganger
+
+Bonnie organizza gli incontri individuali con preavviso. Ogni incontro ha la sua dinamica:
+
+- **Willifort** — collaborativo, evasivo sui dettagli del lavoro coi Cassalanter. Non mente sulla loro conoscenza della sua natura
+- **Naneatha** — elegante e composta; Durnan perde la testa se la vede al Portale (ha rimpiazzato una sua vecchia amica)
+- **Cecil** — esuberante, aggira con stile le domande scomode sulle imitazioni
+- **Vaniel** — si difende in anticipo, il che rivela più di quanto voglia
+
+**Valutazione:** La sola Bonnie è genuinamente affidabile. Gli Arpisti vogliono reclutare chi possono fidarsi — Bonnie da sola vale l'intera missione.
+
+### Relazione Mattrim / Bonnie
+
+Mattrim è innamorato di Bonnie. Sa che è un doppelganger — e lo trova affascinante. Un tiro di Intuizione CD 14 rivela questo. Non lo ammette apertamente, ma risponde di lei a chiunque faccia domande.
 
 ---
 
-## 🎭 Trama Narrativa
-
-**Tema:** Non tutti i creatori di doppelganger sono nemici — Bonnie e il suo gruppo potrebbero diventare alleati di valore.
-
-**Colpo di Scena:** Mattrim ha una simpatia personale per Bonnie (Intuizione CD 14 rivela questo).
-
-**Morale:** La missione è un esame di carattere del party — quanto bene riescono a giudicare quando stare con i "mostri"?
-
----
-
-## 🎬 Scene Chiave
+## Scene Chiave
 
 ### Scena 1 — Mattrim "Tre Corde" al Portale Spalancato
 
-*C'è un trovatore che suona in un angolo del Portale Spalancato — niente di insolito. Insolito è il liuto: tre corde in più rispetto al normale, attorcigliate attorno al manico come serpenti addormentati. L'uomo è giovane-medio, capelli scuri, l'aria di chi è sempre a metà tra una battuta e una cosa seria.*
+*Un trovatore suona in un angolo del Portale Spalancato. Niente di insolito — tranne il liuto: tre corde in più rispetto al normale, attorcigliate attorno al manico come serpenti addormentati. L'uomo è giovane-medio, capelli scuri, l'aria di chi è sempre a metà tra una battuta e una cosa seria.*
 
-**Mattrim Mereg** *(quando il party si avvicina, senza smettere di suonare)*:
-> *"Eccovi. Bene. Sedetevi, ordinate qualcosa — l'incontro che devo farvi fare è in un posto che non serve alcol. Conviene farne scorta adesso."*
+**Mattrim** *(quando il party si avvicina, senza smettere di suonare)*:
+> *"Eccovi. Bene. Sedetevi, ordinate qualcosa — vi presento qualcuno che lavora qui. Si chiama Bonnie. Non chiedetele subito cosa è. Prima conoscetela."*
 
-Quando il party chiede dei doppelganger:
+Se chiedono della banda:
 > *"Cercano di sopravvivere in una città che li ammazzerebbe se scoprisse cosa sono. Bonnie tiene tutto insieme. È intelligente, è pratica, e — cosa rara per chiunque in questa città — mantiene la parola. Gli Arpisti hanno bisogno di persone così. Anche se non sembrano persone."*
 
-Se chiedono di Slane:
-> *"Slane è... complicato. Ha fatto cose, in passato. Ma Bonnie risponde di lui. Per ora, rispondo anch'io."*
+---
+
+### Scena 2 — Bonnie al Portale Spalancato
+
+Bonnie può già essere nota a uno dei PG come semplice conoscente — lei conosce la loro vera identità, loro no. Se il party la confronta direttamente o fa capire di sapere, interviene Mattrim per guadagnare tempo — ma **Bonnie lo interrompe lei stessa**, ammette la sua natura, e propone di sedersi a parlare.
+
+**Bonnie** *(tranquilla, diretta)*:
+> *"Sì, sono un doppelganger. No, non sono qui per farvi del male — sono qui da tre anni e Durnan non si è mai lamentato. Se volete sapere della banda, parliamone. Se volete chiamare le guardie, fatelo pure — ma sarà un peccato."*
+
+Se il party chiede degli altri:
+> *"Ognuno ha la sua vita. Non si riuniscono su mio comando — ci vuole tempo. Se volete incontrarli, posso organizzare. Ma ho bisogno di sapere che non li metterete in pericolo."*
+
+**Durnan** *(se presente o interpellato)*:
+> *"Non lo sapevo. Non me ne frega niente. Non ha mai toccato nulla che non fosse suo."*
+
+**CD 15 Persuasione** per convincere Bonnie a organizzare gli incontri con gli altri.
 
 ---
 
-### Scena 2 — Il magazzino dei Mutaforma
+### Scena 3 — Willifort Crowelle
 
-*Il magazzino sa di cera e stoppino — effettivamente una candleria abbandonata. Dentro, l'aria è ferma. Bonnie vi aspetta seduta su un bancone rovesciato, in forma di donna umana, capelli rossi, trent'anni circa. Slane sta in piedi vicino alla finestra, di spalle. Voss è da qualche parte nell'ombra — solo quando ci fate caso, notate che era lì dall'inizio.*
+*Un tiefling anziano in abito scuro, occhiali sottili, voce misurata. Disponibile con due giorni di preavviso — riceve il party in un locale discreto del Sea Ward.*
 
-**Atmosfera DM:** I Mutaforma non sono minacciosi — sono valutatori. Stanno guardando il party esattamente come il party sta guardando loro. Bonnie ha già fatto la scelta di incontrare degli Arpisti. Sta solo decidendo se ne valeva la pena.
+**Willifort** *(educato, collaborativo)*:
+> *"I Cassalanter sanno cosa sono. Lo hanno sempre saputo. Ho firmato un accordo di riservatezza — non posso discutere i dettagli del mio lavoro. Ma posso dirvi che non intendo fare loro del male. E questo è sincero."*
 
-**Bonnie** *(direttamente, senza preamboli)*:
-> *"Mattrim dice che siete affidabili. Io non lo so ancora. Ma sono qui, quindi qualcosa mi ha convinto a provarci. Ditemi perché dovrei fidarmi di voi."*
+Se pressato sui dettagli del lavoro:
+> *"Accordo di riservatezza, appunto."*
 
-**Se il party risponde in modo onesto (anche ammettendo dubbi):**
-> *"Bene. L'onestà è sottovalutata in questa città. I bugiardi ci siamo noi, in teoria — eppure siete voi gli umani a mentirvi continuamente tra di voi."*
-
-**Se il party risponde in modo politico o calcolato:**
-Bonnie sorride — non è un sorriso caldo.
-> *"Già, capito. Lasciamo stare le presentazioni formali. Ditemi invece cosa volete da noi, concretamente."*
+**Nota DM:** Il sorriso è genuino; le bugie sull'NDA sono pretestuose ma difficili da smontare. Non è malvagio verso i Cassalanter — è malvagio in senso più generale. Intuizione CD 14 rivela che c'è qualcosa sotto, ma niente di urgente per la missione.
 
 ---
 
-### Scena 3 — Slane e i sogni (solo se il party costruisce fiducia)
+### Scena 4 — Naneatha Lharilstar
 
-*Slane non si muove dalla finestra per tutta la riunione. Se qualcuno gli parla direttamente — e in modo non aggressivo — si gira lentamente. Ha il viso di chi ha smesso di dormire bene da qualche tempo.*
+*Una nobildonna elegante — bella, cortese, abituata a essere guardata. Disponibile solo la sera. Se l'incontro avviene al Portale Spalancato, Durnan la vede entrare e riconosce qualcosa di sbagliato.*
 
-**Slane** *(secco, come se stesse concedendo qualcosa che preferisce tenere)*:
-> *"Un posto. Alberi di vetro scuro. Cielo senza colore. E qualcosa si rompe — sento il rumore, non lo vedo. Non so dove sia. Non so perché ci sogno."*
+**Durnan** *(con rabbia improvvisa, alzandosi)*:
+> *"Fuori. Fuori da questo locale. Non so chi sei, ma non sei lei — e lo sai."*
 
-Poi, se Aelar mostra di riconoscere qualcosa:
-> *"Tu sai cos'è?"*
+Non la colpisce — è pur sempre una "nobildonna" in questa città. Ma non la lascia parlare.
 
-Non aspetta risposta — si gira di nuovo verso la finestra.
-> *"I sogni sono iniziati dopo che abbiamo incontrato un tipo. Voleva che localizzassimo qualcuno per lui. Non ci ha spiegato perché non poteva farlo da solo. Quando abbiamo chiesto, si è messo a ridere — non da nervoso. Da divertito. Come se la domanda fosse sbagliata nel modo sbagliato. Abbiamo detto no."*
+**Naneatha** *(se incontrata altrove, composta)*:
+> *"Vivo onestamente — quanto si può, come nobile in questa città. Che è tutto dire."*
 
----
-
-### Scena 4 — Bonnie racconta il cliente rifiutato
-
-*Bonnie aspetta che Slane finisca di parlare, poi aggiunge — a bassa voce, come se stesse mettendo in ordine qualcosa:*
-
-**Bonnie:**
-> *"La notte dopo quell'incontro, Slane ha cominciato a sognare. Non è una coincidenza, ma non so cosa significhi. Il tipo era... di difficile descrizione. Non sembrava pericoloso — sembrava divertito da tutto, incluso il fatto di chiederci qualcosa. Questo mi ha preoccupato più di qualsiasi minaccia."*
-
-Se il party chiede chi fosse:
-> *"Non ha dato un nome. Si è presentato come qualcuno con un interesse particolare per certi collegamenti planari. E rideva, soprattutto, ogni volta che qualcuno faceva una domanda seria."*
-
-**Nota DM:** Bec, se presente, gira lentamente la testa verso Aelar e dice: *"Meeep."* Tono piatto. È la prima volta che lo dice così.
+**Nota DM:** Non spiega chi ha rimpiazzato o che fine ha fatto. Non è necessario che il party lo scopra ora.
 
 ---
 
-## 🌟 Gancio Aelar — Slane, i Sogni e il Cliente Rifiutato
+### Scena 5 — Cecil Weiss
 
-Se il party costruisce abbastanza fiducia con i Mutaforma prima del tiro di Persuasione su Bonnie, Aelar può chiedere a Slane dei sogni. Slane descrive, a fatica:
+*Un bardo umano, entusiasta, che parla come se stesse già scrivendo la propria biografia. Disponibile con un giorno di preavviso.*
 
-> *"Un posto che non conosco. Alberi che sembrano fatti di vetro scuro. Un cielo senza colore. E qualcosa che si rompe, non so cosa — sento il rumore più che vederlo."*
+**Cecil:**
+> *"Musicista, attore, drammaturgo — se trovo il tempo per tutti e tre. Waterdeep è la città giusta. Tutto quello che serve è pubblico e un po' di talento. Il fatto che io cambi faccia di tanto in tanto è un dettaglio tecnico."*
 
-Aelar riconosce Sildëyuir. Nessun altro al tavolo potrebbe saperlo.
+Se accusato di impersonare rivali:
+> *"'Impersonare' è una parola grossa. Preferisco dire che offro una prospettiva alternativa sul loro lavoro."*
 
-I sogni sono iniziati dopo un incontro avvenuto qualche mese fa. Se il party approfondisce, Bonnie racconta:
-
-> *"Un tipo si è presentato. Voleva che trovassimo qualcuno a Waterdeep — dovevamo localizzarlo, capire le sue abitudini, poi portarlo a un 'incontro'. Non ci ha detto con chi. Non ci ha spiegato perché non poteva parlare lui stesso con questa persona. Quando abbiamo fatto domande, si è messo a ridere. Non in modo nervoso — in modo divertito, come se la domanda fosse ovviamente sbagliata. Slane ha cominciato ad avere quei sogni la notte dopo che lo aveva incontrato. Abbiamo detto no."*
-
-**Nota DM:**
-
-> Non nominare Trobbio. Non confermare né smentire nulla — lasciare che Berto colleghi i puntini da solo: rifiuto delle domande dirette, divertimento evasivo, sogni di Sildëyuir che partono dopo il contatto, incarico di localizzare qualcuno. È più che sufficiente.
->
-> Bec, se presente nella scena, gira lentamente la testa verso Aelar e dice: *"Meeep."* Tono piatto. È la prima volta che lo dice così.
+**Nota DM:** Evita le accuse con stile, non con rabbia. Non è pericoloso — è ambizioso. CD 12 Intuizione rivela che crede davvero nelle sue parole.
 
 ---
 
-## 🏆 Ricompense
+### Scena 6 — Vaniel Shortwick
 
-- **Oro:** 50 mo per membro
-- **Fama Arpisti:** +2 (se reclutate Bonnie); +1 (se solo valutate)
-- **Alleanza Doppelganger:** Se successo, i Mutaforma diventano informatori Arpisti (possono diventare nemici se traditi)
+*Un halfling barista al Hole in the Wall — un ostello tranquillo frequentato quasi solo da halfling. Disponibile quasi sempre, ma nervoso dalla prima stretta di mano.*
+
+**Vaniel** *(prima ancora che il party parli)*:
+> *"Non ho fatto niente. Servo da bere, pulisco i bicchieri, vado a casa. Niente di strano. Perché siete qui?"*
+
+Se il party chiede del locale:
+> *"È un posto tranquillo. Clienti tranquilli. Nessuno chiede niente di nessuno."*
+
+**Nota DM:** Il locale è lo stesso citato a p. 31 di WDH — frequentato da uomini-ratto alleati dello Xanathar. Vaniel lo sa. Fa finta di non saperlo. CD 13 Investigazione o CD 11 Percezione rivela la connessione — ma non è pericolosa per la missione, solo scomoda.
 
 ---
 
-## 🔗 Connessioni
+## Gancio Aelar — Il Cliente Rifiutato
+
+*Questo elemento emerge solo se il party costruisce fiducia con Bonnie prima del tiro finale di Persuasione.*
+
+Bonnie menziona un episodio recente: qualche mese fa si è presentato un uomo che voleva che la banda **localizzasse qualcuno a Waterdeep** — abitudini, routine, poi un "incontro". Non ha spiegato perché non potesse parlare direttamente con la persona. Quando hanno fatto domande, si è messo a ridere — non nervoso, **divertito**, come se la domanda fosse sbagliata nel modo sbagliato. Hanno rifiutato.
+
+Da allora uno dei membri della banda — il più instabile — ha cominciato ad avere **sogni ricorrenti**: un luogo che non ha mai visitato. Alberi che sembrano fatti di vetro scuro. Un cielo senza colore. Qualcosa che si rompe, senza che lui lo veda — sente solo il rumore.
+
+**Se Aelar approfondisce:** riconosce Sildëyuir. Nessun altro al tavolo potrebbe saperlo.
+
+**Nota DM:** Non nominare Trobbio. Non confermare né smentire — lasciare che Berto colleghi i puntini da solo: rifiuto delle domande dirette, ilarità evasiva, sogni di Sildëyuir partiti dopo il contatto, incarico di localizzare qualcuno. Bec, se presente, gira lentamente la testa verso Aelar e dice: *"Meeep."* Tono piatto.
+
+---
+
+## Ricompense
+
+- **50 mo** per membro del gruppo
+- **+2 fama Arpisti** per ogni membro Arpista (se missione completata)
+- **Alleanza doppelganger** — se reclutata Bonnie, la banda diventa informatori Arpisti
+
+---
+
+## Connessioni
 
 - **Collegate a:** [Arpisti M1](M1-UnCavalloDonato.md) e [M2](M2-Disinfestazione.md) (progressione arco)
-- **Introduce:** [I Mutaforma](../../Campagna/png-incontrati.md) (banda doppelganger alleata)
+- **Introduce:** Bonnie e la banda come risorsa Arpista ricorrente
 - **Fazione:** [Arpisti](../../Campagna/fazioni.md#arpisti)
 
 ---
 
-## 📝 Note per il DM
+## Note per il DM
 
-- **Terza missione** — aumenta difficoltà sociale e morale
-- **Mattrim è caloroso ma diretto** — non gira intorno ai problemi
-- Se il party combatte subito: Mattrim li interrompe ("No, NON è questo il punto!"). Possibilità di redemption: negoziare dopo.
-- **Bonnie è un PNG ricorrente** — se reclutata, può tornare in future missioni come risorsa Arpista
-
----
-
-## 📚 Varianti e Personalizzazioni
-
-### Se il party fallisce a convincere i doppelganger
-Mattrim non è arrabbiato, ma deluso. Gli Arpisti credevano che il party potesse capire la sfumatura — fama leggermente penalizzata.
-
-### Se il party tradisce i doppelganger dopo averli reclutati
-Conseguenze a lungo termine severe — Bonnie diventa nemica personale. Possibile conflitto futuro.
-
-### Se il party vuole integrarsi prima nei Mutaforma come spie double-agent
-Interessante variante — Persuasione CD 16. Mattrim apprezza l'iniziativa.
+- Mattrim è caloroso ma diretto — non gira intorno ai problemi
+- Se il party aggredisce subito: Mattrim interviene ("No, NON è questo il punto!"). C'è possibilità di recupero — negoziare dopo l'interruzione
+- **Bonnie è un PNG ricorrente** — se reclutata, torna in future missioni come risorsa Arpista
+- Naneatha è l'incontro più esplosivo se avviene al Portale Spalancato (Durnan)
+- Vaniel è l'incontro più rivelatore — si autoaccusa prima ancora di essere interrogato
 
 ---
 
-**Aggiornamento:** 7 Aprile 2026 | **Stato:** Non giocata
-
+**Aggiornamento:** 28 Giugno 2026 | **Stato:** Non giocata

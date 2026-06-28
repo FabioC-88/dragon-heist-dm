@@ -2,228 +2,153 @@
 
 **Fazione:** [Force Grey](../../Campagna/fazioni.md#force-grey) | **Livello:** 4 | **Durata:** 3–5 sessioni (10 giorni in-game)  
 **Referente:** [Vajra Safahr](../../Campagna/png-incontrati.md#vajra-safahr-il-bastone-nero)  
-**Fonte Completa:** `ForceGrey_Missione3_CriminiDiPensiero.txt`
+**Fonte Completa:** `fonti/missioni/ForceGrey_Missione3_CriminiDiPensiero.md`
 
 ---
 
-## 📖 Sinossi
+## Sinossi
 
-**Meloon Wardragon**, alleato fidato di Force Grey, si comporta stranamente. Qualcosa ha preso dimora nella sua testa — un **Divoratore di Intelletto**. Le Mani Grigie devono sorvegliare Meloon per **10 giorni consecutivi**, dedurre le prove del possesso, e poi **decidere: salvare l'uomo o fermare la creatura?** Missione lunga e sottile — niente combattimento immediato, pura sorveglianza psicologica.
+**Meloon Wardragon**, alleato fidato di Force Grey, si comporta stranamente. Qualcosa ha preso dimora nella sua testa — un **Divoratore di Intelletto**. Le Mani Grigie devono sorvegliarlo per **10 giorni consecutivi**, capire cosa non va, e poi decidere: salvare l'uomo o fermare la creatura? Missione lunga e sottile — niente combattimento immediato, pura sorveglianza e deduzione.
 
 ---
 
-## 🎯 Obiettivi
+## Obiettivi
 
-1. **Ricevere incarico da Vajra** (Sending incompleto e misterioso)
+1. **Ricevere l'incarico da Vajra** (Sending durante un'altra missione)
 2. **Osservare Meloon** al Portale Spalancato per 10 giorni consecutivi
-3. **Identificare il Divoratore di Intelletto** senza farsi notare
-4. **Decifra il rituale all'alba** — scopri cosa fa la creatura di notte
-5. **Recluta informazioni** da contatti Portale, baristi, amici Meloon
-6. **Confrontarsi con Meloon e il Divoratore** — decisione finale
-7. **Riferire a Vajra** cos'hai scoperto
+3. **Scoprire il rituale notturno** — la battaglia di Meloon con Azuredge
+4. **Identificare il Divoratore di Intelletto** senza farsi scoprire
+5. **Riferire a Vajra** le conclusioni
 
 ---
 
-## 🗺️ Ambientazione
+## Ambientazione
 
-- **Portale Spalancato** — locanda viva, teatro della sorveglianza
-- **Strade di Waterdeep** — Meloon si muove, il party lo segue
-- **Covo Xanathar** — location di origine del Divoratore (M4)
+**Portale Spalancato** — Meloon alloggia qui. Passa le giornate a bere e conversare con gli avventurieri che entrano. Va a letto presto la sera — per una ragione precisa.
 
 ---
 
-## 👥 PNG Chiave
+## PNG Chiave
 
 | PNG | Ruolo | Note |
 |-----|-------|------|
-| **Meloon Wardragon** | Alleato Force Grey; posseduto | Combattente forte, ma non è più lui |
+| **Meloon Wardragon** | Alleato Force Grey; posseduto | Uomo grande, di solito espansivo. Adesso scontroso, chiuso, meccanico |
 | **Divoratore di Intelletto** | Creatura parassita | Invisibile, parassita mentale, prodotto di Nihiloor |
-| **Barkeeper et al.** | PNG secondari | Osservatori minori di Meloon |
+| **Durnan** | Barista del Portale Spalancato | Osservatore secondario — nota anche lui che Meloon non è lo stesso |
 
 ---
 
-## 💡 Meccaniche Chiave
+## Meccaniche Chiave
 
-### La Sorveglianza — 10 Giorni Strutturati
+### Il Sending di Vajra
 
-**Fase 1 (Giorni 1–3): Osservazione Passiva**
-- Meloon frequenta il Portale, beve, parla poco
-- Comportamento: più scontroso del solito, ripetitivo
-- **Prove:** Percezione CD 12 per notare anomalie
-- **Fallimento:** Non vedi niente di particolare — accumulano sospetti
+Arriva mentre il party è impegnato in un'altra missione. La voce è compressa in 25 parole, e si sente che ne avrebbe volute di più:
 
-**Fase 2 (Giorni 4–7): Approfondimento**
-- Il rituale all'alba: Meloon si sveglia di colpo, parla in lingue strane (Deep Speech), scrive simboli strani
-- Il Divoratore tenta di "controllare" Meloon ma Meloon resiste
-- **Prove:** Arcana CD 13 per riconoscere Deep Speech; Intuizione CD 14 per capire il conflitto interno
-- **Scoperta Cruciale:** Meloon non è completamente posseduto — esiste ancora dentro di lui
-- **[Vorador — Il Riconoscimento]** Quando Vorador sente le cadenze del Deep Speech, le riconosce. Sono le stesse che Brottor gli aveva trascritto nel quaderno da campo (se recuperato in M2) — o, anche senza il quaderno, pattern che Brottor gli aveva descritto verbalmente durante la formazione: *"Le creature che rubano pensieri parlano così."* Con Arcana CD 13, Vorador capisce che il Divoratore in Meloon è dello stesso tipo che il suo maestro stava investigando prima di scomparire.
+> *"Meloon Wardragon. Membro fidato della Forza, si sta comportando in modo strano, cupo, frequenta il Portale Spalancato. Osservate per dieci giorni, poi riferite."*
 
-**Fase 3 (Giorni 8–10): Decisione**
-- Il Divoratore realizza di essere stato scoperto (se il party è careless)
-- O il party tenta contatto diretto "buonasera Meloon"
-- Finale: Combattimento, negoziazione, o sorpresa (Meloon combatte il Divoratore da solo)
+I dieci giorni devono essere **consecutivi**. Se interrotti, si ricomincia da zero. Il party può coordinarsi con Vajra per i dettagli, ma lei è irritata se perdono tempo a chiederle invece di investigare.
 
-**[Vorador — La Confessione di Vajra]** Quando il party riferisce a Vajra le prove del Divoratore in Meloon, Vorador può confrontarla con il documento trovato in M1 e il quaderno di Brottor (M2). Vajra non può più negare.
+### Meloon di Giorno — La Versione Ufficiale
 
-> *Vajra appoggia lo Staff of Power e tace per un lungo momento.* "Brottor mi ha inviato il suo ultimo rapporto tre settimane prima di scomparire. Identificava un'entità aberrante che operava nelle acque sottostanti il porto. Ho classificato il caso perché il rapporto citava Dendar — e sapevo che l'Ordine avrebbe sollevato domande su di te, Vorador, se il nome della Divoratrice fosse circolato nelle stanze sbagliate. Ho pensato di proteggervi entrambi tenendo i fili nelle mie mani. Mi sbagliavo."
+Meloon passa le giornate al Portale Spalancato: beve lentamente, chiacchiera con avventurieri di passaggio, risponde quando viene coinvolto. Se qualcuno gli chiede come sta:
 
-Vajra rivela che l'ultima posizione nota di Brottor era il Dock Ward. Non sa se sia vivo. Sa che l'entità è quasi certamente Nihiloor — ed è una delle ragioni per cui ha accelerato questa missione.
+**Meloon:**
+> *"Sto bene. Sono solo stanco. Ho passato mesi ad accompagnare eroi nell'Undermountain — cercare di tenerli vivi. Il dungeon è diventato più vorace, più pericoloso. Negli ultimi tre mesi ho visto più morti che nei dieci anni precedenti. Troppo rischioso. Durnan dovrebbe chiuderlo, se vuoi sapere la mia opinione."*
 
-> **Nota DM:** Questa scena trasforma M4 in una missione personale per Vorador, non solo di fazione. Vajra non sa che Brottor è nel covo — solo il party lo scoprirà.
+**CD 16 Intuizione** rivela che è una bugia — ma non ancora il perché.
 
-### Meloon Wardragon — Statistiche
-**Combattente Esperto di Lv 4:**
-- **AC:** 16 (armatura)
-- **PF:** 52
-- **Attacchi:** Spada lunga + Scudo
-- **Personalità:** Forte ma terrorizzato dalla creatura nella sua testa
+### Il Rituale all'Alba — Il Cuore della Missione
 
-### Il Divoratore di Intelletto (Hosted in Meloon)
-**Mind Flayer Tadpole (giovane):**
-- **AC:** 15
-- **PF:** 22
-- **Attacchi psichici:** Telepatia, tentativi di controllo
-- **Obiettivo:** Raccogliere intel su Force Grey da dentro
-- **Vulnerabilità:** Se separato da Meloon, muore in 1d6 ore
+Meloon va a letto insolitamente presto. Il motivo: il **Divoratore di Intelletto** — che ha completamente sostituito Meloon — si sveglia prima dell'alba per impugnare **Azuredge** (l'ascia magica senziente di Meloon) e ingaggiare una **battaglia psichica di volontà** con l'arma stessa. Azuredge resiste al nuovo padrone: sa che qualcosa non va, e non si lascia controllare facilmente. Il Divoratore deve compiere questo rituale ogni notte per mantenere il dominio sull'arma — e non farsi smascherare da lei.
+
+Chi sorveglia di notte lo vede: il corpo di Meloon seduto sul bordo del letto, ascia stretta tra le mani, immobile, in silenzio assoluto. Non dorme. Non si muove. Poi si rialza come se niente fosse.
+
+**CD 15 Intuizione** (chi ha osservato il rituale) per capire cosa sta succedendo.
+
+**Gancio Vorador:** Se Vorador è presente e supera l'Arcana CD 13, riconosce nei pattern qualcosa che Brottor gli aveva descritto durante la formazione: *"Le creature che rubano pensieri devono lavorare di notte per consolidare il controllo — su tutto ciò che appartiene all'ospite, comprese le armi senzienti."* Con o senza il quaderno di M2, è abbastanza.
 
 ---
 
-## ⚙️ Tiri e Prove
+## Scene Chiave
 
-| Azione | CD | Caratteristica | Risultato |
-|--------|-----|-----------|-----------|
-| Notare comportamento strano di Meloon | 12 | Percezione | Primi sospetti emersi |
-| Riconoscere Deep Speech al rituale | 13 | Arcana | Capire la creatura non-umana |
-| Capire il conflitto interno Meloon | 14 | Intuizione | "Meloon esiste ancora dentro" |
-| Localizzare il Divoratore (non visibile) | 13 | Arcana/Percezione Magia | Individua firma psichica |
-| Confrontarsi senza allarmare il Divoratore | 15 | Inganno | Dialogo riuscito |
-| Decidere se salvare o uccidere Meloon | / | Morale | Conseguenze narrative |
+### Scena 1 — Meloon al Portale Spalancato (Giorni 1–3)
 
----
+*Meloon Wardragon è un uomo grande, il tipo che di solito riempie una stanza senza cercarlo — capelli castani, cicatrice sul mento, una risata che si sentiva da due tavoli di distanza. Adesso è seduto da solo. Beve lentamente. Risponde ai saluti con il minimo indispensabile.*
 
-## 🎭 Trama Narrativa
+**Atmosfera DM:** I primi giorni sembrano niente. Il party accumula sensazioni, non prove. Meloon non fa nulla di esplicitamente strano — fa meno di quello che farebbe di solito. Non ride. Non cerca compagnia. Non guarda l'ingresso quando qualcuno entra. Guarda il tavolo.
 
-**Tema:** La sorveglianza ha un costo — guardare qualcuno per 10 giorni significa conoscerlo intimamente.
-
-**Colpi di Scena:**
-- Meloon è **consapevole** del Divoratore dentro di lui — combatte da solo ogni notte
-- Il Divoratore è il **prodotto di Nihiloor** — connection diretta a Force Grey M4
-- Meloon chiede al party: "Per favore, uccideteli entrambi" oppure "Aiutatemi a scacciarlo"
-
----
-
-## 🎬 Scene Chiave
-
-### Scena 1 — Briefing di Vajra (Sending)
-
-*Un messaggio arriva tramite Sending a chi nel party è il contatto primario con Force Grey. La voce di Vajra è compressa in 25 parole, e si sente che ne avrebbe volute usare cento:*
-
-**Vajra** *(tramite Sending)*:
-> *"Meloon Wardragon. Portale Spalancato. Dieci giorni di sorveglianza — discreta, senza avvicinarlo. Vedrete perché. Riferite solo a me. Non parlate con nessun altro nell'organizzazione di questa missione."*
-
-*Poi l'incontro diretto, dopo la risposta:*
-> *"Meloon è un alleato di lunga data. È anche qualcuno che ho sottovalutato. Non voglio che muoia prima di capire cosa gli è successo. Dieci giorni — osservate, raccogliete, non agite. La vostra opinione sulle conclusioni mi interessa."*
-
----
-
-### Scena 2 — Giorni 1–3: Meloon al Portale Spalancato
-
-*Meloon Wardragon è un uomo grande, il tipo che riempie una stanza senza cercarlo — capelli castani, cicatrice sul mento, una risata che di solito si sente da due tavoli di distanza. Adesso è seduto da solo, beve lentamente, e risponde ai saluti dei conoscenti con il minimo indispensabile.*
-
-**Atmosfera DM:** Il primo giorno sembra niente. Il secondo anche. Il terzo, il party comincia a notare — non cosa fa di strano, ma cosa non fa: non ride, non cerca compagnia, non guarda verso l'ingresso quando qualcuno entra. Guarda il tavolo.
-
-*Se qualcuno ci parla casualmente (senza far emergere la missione):*
+*Se il party gli parla casualmente:*
 
 **Meloon** *(distante, meccanico)*:
 > *"Sto bene. Sono solo stanco. Il lavoro."*
 
-*Poi torna a guardare il tavolo. Fine della conversazione.*
+Poi torna a guardare il tavolo.
 
 ---
 
-### Scena 3 — Giorni 4–7: Il rituale dell'alba
+### Scena 2 — Il Rituale (Giorni 4–7)
 
-*Il quarto giorno, qualcuno che veglia la notte nota qualcosa. Meloon si sveglia di colpo — non come uno che ha fatto un brutto sogno, ma come uno che ha sentito un ordine — e per un lungo momento rimane seduto sul bordo del letto a fissare la parete.*
+*Chi veglia la notte nota che Meloon si ritira presto. Poi, prima dell'alba, lo sente muoversi. Se lo spia: è seduto sul bordo del letto, l'ascia in grembo, le mani che la stringono forte. Immobile. Silenzioso. Per quasi un'ora.*
 
-*Poi comincia a mormorare.*
+**Atmosfera DM:** Non parla. Non si muove. Poi si rialza, si lava la faccia, e torna in sala come se niente fosse. Non è Meloon che combatte il Divoratore — Meloon non c'è più. È il Divoratore che combatte Azuredge: l'arma senziente resiste al nuovo padrone, e lui deve domarla ogni notte per non essere smascherato dall'arma stessa.
 
-**Atmosfera DM:** È Deep Speech. Le cadenze sono irregolari, come se stesse lottando con le parole — o come se ci fossero due voci che cercano di parlare dalla stessa bocca. Meloon scrive qualcosa sul tavolo con l'unghia — simboli che si cancellano quasi subito. Poi si rialza, si lava la faccia, e torna al Portale come se niente fosse.
-
-**Gancio Vorador:** Chi ha ascoltato e supera Arcana CD 13 riconosce le cadenze del Deep Speech — e Vorador in particolare le riconosce da qualcosa che Brottor gli aveva descritto: *"Le creature che rubano pensieri parlano così."* Con o senza il quaderno di M2, è abbastanza per capire.
+**CD 15 Intuizione** per capire cosa sta succedendo.
 
 ---
 
-### Scena 4 — Giorni 8–10: Il confronto / la richiesta
+### Scena 3 — Il Confronto (Giorni 8–10)
 
-*Al decimo giorno, Meloon non torna al Portale. È seduto in un vicolo poco frequentato, la schiena al muro, e quando vi vede arrivare non è sorpreso. Come se lo aspettasse.*
+Il party può scegliere quando e come agire: confronto diretto con Meloon, tentativo di rimuovere il Divoratore, o semplicemente completare i dieci giorni e riferire a Vajra.
 
-**Meloon** *(con fatica — ogni parola sembra costare qualcosa)*:
-> *"Sapevo che Vajra avrebbe mandato qualcuno. Sapevo anche che avrei continuato a fare quello che fa — finché non lo dico io, finché non lo chiedo io. Ecco. Lo sto chiedendo."*
+*Se il party avvicina Meloon direttamente, il Divoratore capisce di essere stato scoperto e cerca di gestire la situazione:*
 
-*Pausa.*
-> *"C'è qualcosa nella mia testa che non sono io. Non so da quando — un mese, forse due. Sa tutto quello che so. Ogni notte prova a convincermi che è normale. Ogni mattina ricomincio a capire che non lo è."*
+**"Meloon"** *(cordiale, quasi troppo)*:
+> *"Vajra vi ha mandato a controllare come sto? Apprezzo. Sono solo stanco — l'Undermountain, già ve l'ho detto. Non c'è niente di cui preoccuparsi."*
 
-*Si guarda le mani.*
-> *"Non posso ucciderlo da solo. Ma non posso lasciarlo nemmeno. Quindi: aiutatemi. O uccidetemi. Non c'è una terza opzione."*
+**CD 16 Intuizione** per cogliere la recita. Se il party preme o rivela di aver osservato il rituale notturno, il Divoratore può scegliere: combattere, fuggire, o cercare di negoziare la propria sopravvivenza.
 
-**Atmosfera DM:** Questo è il momento più silenzioso della missione. Non c'è un'azione giusta da fare — solo una risposta da dare.
+**Atmosfera DM:** Meloon non c'è più — non c'è nessuno da salvare dentro. La domanda morale è un'altra: cosa si fa di un corpo che era un alleato, ora occupato da una creatura nemica che ha accesso a tutto ciò che Meloon sapeva?
 
 ---
 
-### Scena 5 — La confessione di Vajra (dopo il decimo giorno)
+### Scena 4 — La Confessione di Vajra
 
-*Vajra riceve il rapporto del party in silenzio. Poi appoggia lo Staff of Power sul tavolo — un gesto che non le avete mai visto fare — e rimane ferma per un momento.*
+*Vajra riceve il rapporto in silenzio. Appoggia lo Staff of Power sul tavolo — un gesto che non le avete mai visto fare — e rimane ferma un momento.*
 
 **Vajra Safahr:**
 > *"Brottor mi ha inviato il suo ultimo rapporto tre settimane prima di scomparire. Identificava un'entità aberrante operante nelle acque sottostanti il porto. Ho classificato il caso perché il rapporto citava Dendar — e sapevo che l'Ordine avrebbe sollevato domande su di te, Vorador, se quel nome fosse circolato nelle stanze sbagliate. Ho pensato di proteggervi entrambi tenendo i fili nelle mie mani."*
 
-*Una pausa.*
-> *"Mi sbagliavo. L'ultima posizione nota di Brottor era il Dock Ward. Non so se sia vivo. So che l'entità che sta operando è quasi certamente Nihiloor — ed è una delle ragioni per cui ho accelerato questa missione."*
+*Pausa.*
+> *"Mi sbagliavo. L'ultima posizione nota di Brottor era il Dock Ward. Non so se sia vivo. So che l'entità che opera qui è quasi certamente Nihiloor — ed è una delle ragioni per cui ho accelerato questa missione."*
 
-*Non chiede scusa. Dice quello che sa e quello che non sa, con la stessa voce.*
-
----
-
-## 🏆 Ricompense
-
-- **Oro:** 50 mo per membro
-- **Fama Force Grey:** +2 (se Meloon salvato); +1 (se ucciso per pietà); -1 (se tradito)
-- **Knowledge Intelligence:** Scoperta che Vivithor produce Divoratori di Intelletto
-- **Alleanza Meloon:** Se salvato, diventa contatto permanente Force Grey
+**Nota DM:** Questa scena trasforma M4 in una missione personale per Vorador, non solo di fazione. Vajra non sa che Brottor è nel covo — solo il party lo scoprirà.
 
 ---
 
-## 🔗 Connessioni
+## Ricompense
+
+- **+2 fama Force Grey** per ogni membro della Forza (se missione completata e riferita a Vajra)
+- **Bacchetta dei Segreti** — se il party riesce a liberare Meloon dal Divoratore
+- **Meloon come alleato** — se salvato, rimane contatto permanente Force Grey
+
+---
+
+## Connessioni
 
 - **Collegate a:** [Force Grey M1](M1-IlCaricoDelFondatore.md), [M2](M2-NonETuttoOro.md), [M4](M4-CoseTerribili.md)
-- **Introduce:** [Divoratori di Intelletto](../../Campagna/fazioni.md#gilda-di-xanathar) come minaccia
-- **Collega a:** [Force Grey M4 — Nihiloor](M4-CoseTerribili.md) (boss finale)
+- **Introduce:** Divoratori di Intelletto come minaccia; connessione diretta a Nihiloor
 - **Fazione:** [Force Grey](../../Campagna/fazioni.md#force-grey)
 
 ---
 
-## 📝 Note per il DM
+## Note per il DM
 
-- **Missione lunga, consapevolmente tedious** — il passare dei giorni è meccanico ma importante
-- **Non c'è fretta:** 10 giorni consecutivi. Se il party le interrompe, ricominciano da 0
-- **Meloon è un PNG ricorrente** — se muore, gli alleati in future missioni piangono sinceramente
-- **Questo è il "incidente classico" della campagna** — il momento in cui il party capisce che Waterdeep non è sicura
-
----
-
-## 📚 Varianti e Personalizzazioni
-
-### Se il party vuole uccidere Meloon subito
-Permettete il combattimento — ma Meloon combatte da herói, cercando di proteggere il party da sé stesso. Momento tragico.
-
-### Se il party vuole salvare Meloon magicamente prima del giorno 10
-Non è possibile — il Divoratore è troppo profondamente radicato. Devono aspettare, o cercare Nihiloor per una soluzione permanente.
-
-### Se il party cattura il Divoratore vivo
-Interrogarlo: rivela l'esistenza di Nihiloor e il covo di Xanathar. Link diretto a Force Grey M4.
+- I dieci giorni devono essere consecutivi — se interrotti, si ricomincia. Questo è meccanico ma narrativamente importante
+- **Azuredge è il cuore della missione** — senza la scena del rituale notturno, il party non ha abbastanza prove per capire cosa succede
+- Se il party uccide il Divoratore senza salvare Meloon: Vajra rimane delusa, ma riconosce lo sforzo
+- **Meloon è un PNG ricorrente** — se muore, gli alleati nelle missioni successive reagiscono
+- Se il party cattura il Divoratore vivo e lo interroga: rivela l'esistenza di Nihiloor e il covo. Link diretto a M4
 
 ---
 
-**Aggiornamento:** 7 Aprile 2026 | **Stato:** Non giocata
-
+**Aggiornamento:** 28 Giugno 2026 | **Stato:** Non giocata
