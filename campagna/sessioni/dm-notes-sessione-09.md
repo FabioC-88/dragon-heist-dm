@@ -1,5 +1,8 @@
 # DM Notes — Sessione 9 (In-Game)
 
+> ⚠️ **File aggiornato post-sessione.** Le fasi sono annotate con ✅/⏸️/🔀 per riflettere la realtà giocata.
+> Vedi sezione [📋 ACCADUTO IN SESSIONE](#accaduto-in-sessione) per il riepilogo dei delta.
+
 > **Fonte primaria:** `missioni-secondarie/zentharim/M2-TieniIlResto.md` · `missioni-secondarie/forcegrey/M2-NonETuttoOro.md` · `missioni-secondarie/arpisti/M2-Disinfestazione.md`
 > **Contesto:** Party Lv 3 · Cap. 4 aperto · La mappa per il Mausoleo Cassalanter è in mano al party. Le missioni M2 sono state seminate ma posticipate in S8. Istrid Horn ha proposto un incontro. Davil Starsong è uscito dalla caserma.
 > **Obiettivo sessione:** Giocare Zentharim M2 "Tieni il Resto" (priorità assoluta — innesca l'arco Oathbreaker di Krauser); gestire il fallout di Villa Gralhund (Barnibus, Istrid Horn, Vincent Trench); seminare/avviare le M2 Force Grey e Arpisti.
@@ -33,7 +36,7 @@
 
 ## FASE 1: FALLOUT DI VILLA GRALHUND (~35 min)
 
-### Barnibus Blastwind — Il Giorno Dopo
+### ⏸️ NON GIOCATO — da spostare a S10 — Barnibus Blastwind — Il Giorno Dopo
 
 Il mattino seguente, **Barnibus Blastwind** (con Saeth Cromley) si presenta al manor in modo informale — non come ufficiale in servizio, come qualcuno che vuole aggiornare chi lo ha aiutato.
 
@@ -52,7 +55,7 @@ Il mattino seguente, **Barnibus Blastwind** (con Saeth Cromley) si presenta al m
 
 ---
 
-### Il Rapporto di Vincent Trench [da S8]
+### ⏸️ NON GIOCATO — da spostare a S10 — Il Rapporto di Vincent Trench [da S8]
 
 **Trigger (leggero):** In un momento di calma, l'investigatore **Vincent Trench** fa pervenire al manor il suo primo rapporto su Emmek Frewn — una nota asciutta, da detective di mestiere.
 
@@ -62,7 +65,9 @@ Il mattino seguente, **Barnibus Blastwind** (con Saeth Cromley) si presenta al m
 
 ---
 
-### Istrid Horn — Alla Statua di Ahghairon [da S8]
+### 🔀 DEVIAZIONE — Istrid Horn — Alla Statua di Ahghairon [da S8]
+
+> 🔀 **Realtà**: Scintilla ha incontrato Istrid Horn e le ha offerto rifugio direttamente, portandola a Trollskull Manor e presentandola agli altri come cameriera. L'esito pianificato (proposta del rifugio + decisione) si è risolto in modo immediato e compatto, senza la scena al cimitero come descritto. Non è chiaro se l'incontro sia avvenuto alla Statua di Ahghairon o altrove.
 
 **Krauser** e **Scintilla** hanno ricevuto in S8 il seguente messaggio:
 
@@ -105,7 +110,7 @@ Il mattino seguente, **Barnibus Blastwind** (con Saeth Cromley) si presenta al m
 
 ---
 
-## FASE 2: ZENTHARIM M2 — "TIENI IL RESTO" (~60 min)
+## ⏸️ NON GIOCATO — da spostare a S10 — FASE 2: ZENTHARIM M2 — "TIENI IL RESTO" (~60 min)
 
 > **[NOTA DM]** Priorità assoluta della serata. Qui convergono l'arco di Krauser (riconoscimento del sigillo di Vosk) e Scintilla (firma chimica di Rennis sulle pozioni). L'aggancio è già arrivato in S8 tramite Davil/Istrid.
 >
@@ -180,7 +185,9 @@ Un serpente volante deposita una pergamena, firmata in modo informale:
 
 ---
 
-### La Prima Crepa — Krauser & Aldric [da S8]
+### 🔀 DEVIAZIONE MASSIVA — La Prima Crepa — Krauser & Aldric [da S8]
+
+> 🔀 **Realtà**: Questa scena era pianificata come un SEME (solo la prima crepa — Aldric lascia un'ombra, NON fa la proposta esplicita). In realtà, Aldric si è rivelato come entità soprannaturale in grado di aiutare Krauser là dove il suo giuramento non arriva, Krauser ha accettato di firmare un contratto, e **ora è ufficialmente un Oathbreaker**. La rivelazione completa + il contratto erano previsti durante/dopo la M3 Zentharim "Corri, Dasher!" — qui si sono invece risolti in S9, saltando l'intera catena narrativa Skeemo/Vosk/Esvele (M2 Zentharim) che doveva alimentare il momento del cedimento.
 
 **[NOTA DM]** Questa scena si gioca **la sera stessa di M2**, quando il riconoscimento del sigillo di Vosk ha riaperto la ferita a sangue caldo. È una scena uno-contro-uno — ritaglia uno spazio separato per Gabri. La sera, al Portale Spalancato.
 
@@ -200,15 +207,17 @@ Un serpente volante deposita una pergamena, firmata in modo informale:
 
 **Dove paga:** La rivelazione completa + la proposta + la svolta Oathbreaker arrivano **durante/dopo la Zentharim M3 "Corri, Dasher!"**, quando Krauser riconosce il sigillo di Valerius Vosk sui documenti di Dasher e la ferita si riapre a sangue caldo. Scena completa in `missioni-secondarie/zentharim/M3-CorriDasher.md`.
 
-**⚙️ Se Krauser abbraccia l'Oathbreaker:** Cambio sottoclasse Voto di Devozione → Oathbreaker. A Lv 3: *Controllare Non Morti* e *Aspetto Tremendo* come Channel Divinity. Concorda con Gabri il tono anti-eroe tragico, non villain che ride.
+**⚙️ [AVVENUTO IN S9] Se Krauser abbraccia l'Oathbreaker:** Cambio sottoclasse Voto di Devozione → Oathbreaker. A Lv 3: *Controllare Non Morti* e *Aspetto Tremendo* come Channel Divinity. Concorda con Gabri il tono anti-eroe tragico, non villain che ride. **→ Confermato attivo dopo S9: Krauser ha firmato il contratto con Aldric.**
 
 ---
 
-## FASE 3 (SURPLUS): M2 RIMANENTI (~surplus)
+## ✅ GIOCATO (come surplus) — FASE 3: M2 RIMANENTI (~surplus)
 
 > **Quando giocarle:** Se FASE 1 + FASE 2 hanno già riempito la serata, queste fasi slittano a S10 senza problemi.
 
-### Force Grey M2 — "Non è Tutto Oro Quel che Luccica" (Vorador, Razak)
+### 🔀 DEVIAZIONE — Force Grey M2 — "Non è Tutto Oro Quel che Luccica" (Vorador, Razak)
+
+> 🔀 **Realtà**: Giocata e completata. Il party è sopravvissuto a Obliteros grazie all'intervento di Zelifarn. Deviazione finale: Aelar si è offerto di mettere in contatto Zelifarn con gli Arpisti per aiutarlo a presenziare al festival; Rennala (identità da verificare — forse Remallia Haventree?) ha deciso di aiutarlo. Hook non pianificato aperto: Zelifarn + festival Arpisti.
 
 **Aggancio:** Un *Sending* da Vajra Safahr o un messo alla Torre del Bastone Nero.
 
@@ -224,7 +233,7 @@ Un serpente volante deposita una pergamena, firmata in modo informale:
 | **Obliteros** | Squalo gigante | Controllato da teschio dorato Xanathar; CA 14, 52 PF, morso 3d8+5 |
 | **Marinai di Mistshore** | Testimoni | Forniscono info iniziali |
 
-**[NOTA DM — riservata — Gancio Vorador]** Nel relitto (Camera 2 — zona letture di Zelifarn): una borsa impermeabile in cuoio grezzo con rune naneschi incise attorno alla chiusura. Dentro:
+**[NOTA DM — riservata — Gancio Vorador]** ⚠️ *Post-S9: il recap non conferma esplicitamente il ritrovamento della borsa — verificare con il DM se è stata trovata o mancata.* Nel relitto (Camera 2 — zona letture di Zelifarn): una borsa impermeabile in cuoio grezzo con rune naneschi incise attorno alla chiusura. Dentro:
 - Quaderno di campo parzialmente danneggiato dall'acqua (leggibile al 60%)
 - Schizzo incompiuto di una silhouette con tentacoli (riconoscibile come Mind Flayer, Arcana CD 14)
 - Nota in nano: *"Non è un culto. È una rete. La creatura non prende — prende IN PRESTITO. Torna a prendere."*
@@ -243,7 +252,7 @@ Consegnate la borsa a Vorador senza commenti. Non spiegate il contenuto — lasc
 
 ---
 
-### Arpisti M2 — "Disinfestazione" (Aelar)
+### ✅ GIOCATO — Arpisti M2 — "Disinfestazione" (Aelar)
 
 **Aggancio:** Un uccellino origami di Mirt plana al manor.
 
@@ -258,7 +267,7 @@ Consegnate la borsa a Vorador senza commenti. Non spiegate il contenuto — lasc
 
 **Ambiente:** Libreria su 3 piani, scaffali alti, scala a chiocciola. Combattimento tridimensionale. Ogni attacco ad area rischia di bruciare libri (penalità ricompensa).
 
-**[NOTA DM — riservata — Gancio Aelar]** Al terzo piano (scala a chiocciola dietro uno scaffale girevole): un tomo raro intitolato *"Sigilli del Vuoto: Tecniche di Contenimento per Piani Minacciati"*, compilato da un sapiente di Sildëyuir. Il Gazer lo stava consumando — le ultime 20 pagine sono corrose dall'interno. Se Aelar lo vede per primo, tiro Saggezza CD 12: se fallisce, riconosce la vibrazione planare — la stessa sensazione del giorno in cui i Nilshai passarono attraverso il sigillo a Sildëyuir e perde la prima azione. Se supera, la riconosce ma mantiene la lucidità. Non forzare la reazione — lascia che sia Berto a gestirla. Il capitolo ancora leggibile: *"Brecce auto-amplificanti: perché un sigillo rotto tende ad allargarsi."*
+**[NOTA DM — riservata — Gancio Aelar]** ⚠️ *Post-S9: il recap non conferma esplicitamente che il tomo sia stato trovato — verificare con il DM se l'hook Sildëyuir si è attivato.* Al terzo piano (scala a chiocciola dietro uno scaffale girevole): un tomo raro intitolato *"Sigilli del Vuoto: Tecniche di Contenimento per Piani Minacciati"*, compilato da un sapiente di Sildëyuir. Il Gazer lo stava consumando — le ultime 20 pagine sono corrose dall'interno. Se Aelar lo vede per primo, tiro Saggezza CD 12: se fallisce, riconosce la vibrazione planare — la stessa sensazione del giorno in cui i Nilshai passarono attraverso il sigillo a Sildëyuir e perde la prima azione. Se supera, la riconosce ma mantiene la lucidità. Non forzare la reazione — lascia che sia Berto a gestirla. Il capitolo ancora leggibile: *"Brecce auto-amplificanti: perché un sigillo rotto tende ad allargarsi."*
 
 *→ Vedi `missioni-secondarie/arpisti/M2-Disinfestazione.md` per scene complete.*
 
@@ -292,3 +301,38 @@ Consegnate la borsa a Vorador senza commenti. Non spiegate il contenuto — lasc
 | Arpisti M2 — "Disinfestazione" | Aelar | **Surplus S9/S10** | Uza, Fillipa, Gazer; gancio Sildëyuir |
 | Istrid ospite al manor (opzionale) | Krauser, Scintilla | **Opzionale** | "Jorn" il nano; +2 Renown Zentharim a fine tenday |
 | Baule di Yalah | Vorador | **TODO DM** | Scegliere come riproporre il hook Cassalanter/Asmodeo |
+
+---
+
+## 📋 ACCADUTO IN SESSIONE 9 — Realtà vs Piano
+
+**Data aggiornamento:** 2026-06-28
+**Basato su:** recap-sessione-09.md
+
+### Tabella Delta
+
+| # | Fase/Scena | Piano | Realtà | Tipo |
+|---|-----------|-------|--------|------|
+| 1 | Barnibus Blastwind — il giorno dopo | Incontro mattutino, update su Urstul e Villa Gralhund | Non giocato | ⏸️ |
+| 2 | Rapporto Vincent Trench | Nota asciutta su Emmek Frewn consegnata al manor | Non giocato | ⏸️ |
+| 3 | Istrid Horn al Cimitero | Incontro alla Statua di Ahghairon, proposta rifugio con scelta del party | Scintilla ha accettato subito; Istrid ospitata al manor come cameriera | 🔀 |
+| 4 | Zentharim M2 "Tieni il Resto" (intera FASE 2) | Priorità assoluta: Skeemo/veleno, sigillo Vosk, Esvele Rosznar | Non recapitata — completamente saltata | ⏸️ |
+| 5 | La Prima Crepa — Krauser & Aldric | Solo seme: Aldric lascia una crepa, NO rivelazione esplicita, NO contratto | Aldric si è rivelato, Krauser ha firmato il contratto → **Krauser è ora Oathbreaker** | 🔀 |
+| 6 | Force Grey M2 "Non è Tutto Oro" (surplus) | Zelifarn diplomazia, Obliteros combattimento, borsa di Brottor | Giocata e completata; hook aggiuntivo: Zelifarn vuole andare al festival Arpisti | 🔀 |
+| 7 | Arpisti M2 "Disinfestazione" (surplus) | Gazer, Fillipa, Uza, libro | Giocata e completata secondo piano | ✅ |
+| 8 | Mausoleo Cassalanter (non pianificato) | Solo traccia di fondo: vedibile da fuori durante incontro Istrid | Esplorato in pieno giorno: trovati cadaveri + ragazza viva; ragazza inganna il party e rivela Converted Windmill | 🔀 |
+| 9 | Arrivo al Converted Windmill (non pianificato) | Non previsto in S9 | Sessione conclusa con il party davanti al Converted Windmill | 🔀 |
+
+### Scene da Trasferire a Sessione 10
+
+- **⏸️ FASE 1 — Barnibus Blastwind — Il Giorno Dopo** (con contenuto integrale della scena)
+- **⏸️ FASE 1 — Il Rapporto di Vincent Trench** (con contenuto integrale della scena)
+- **⏸️ FASE 2 — ZENTHARIM M2 "TIENI IL RESTO"** (con tutte le sotto-scene: Skeemo, Le Storie si Intrecciano, Esvele Rosznar) — ⚠️ ATTENZIONE: ora Krauser è già Oathbreaker; la scena narrativa che avrebbe dovuto alimentare il cedimento (sigillo Vosk sul salvacondotto) salta. Decidere con il DM come riadattare il contenuto di questa missione alla nuova realtà.
+
+### TODO per il DM
+
+- **Krauser Oathbreaker accelerato**: la svolta è avvenuta in S9 senza il percorso narrativo pianificato (M2 Zentharim con Skeemo/Vosk/Esvele). Come si integra la M2 Zentharim adesso che Krauser è già Oathbreaker? La missione ha ancora senso narrativamente? Considerate di giocarla lo stesso per rivelare il subplot Vosk/Rennis a Scintilla, anche senza il peso dell'Oathbreaker per Krauser.
+- **Rennala identificazione**: nel recap il DM menziona "Rennala" che decide di aiutare Zelifarn. Chi è? Potrebbe essere Remallia Haventree (Arpisti) o un personaggio nuovo — da confermare.
+- **Ragazza del Mausoleo**: non ha nome nel recap. Cultista Cassalanter? Testimone innocente reale? Da decidere prima di S10 se ritorna come PNG.
+- **Zelifarn al festival Arpisti**: hook improvvisato — va inserito in S10 o S11 come scena breve o colore.
+- **Baule di Yalah**: ancora non risolto — scegliere come/quando riproporre il hook Cassalanter/Asmodeo (vedi opzioni nella NOTA DM sopra).

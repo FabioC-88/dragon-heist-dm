@@ -330,6 +330,17 @@
 
 ---
 
+## SESSIONE 9 — PNG del Party (S9)
+
+> PNG incontrati collettivamente dal party durante le missioni M2 e l'esplorazione del Mausoleo Cassalanter.
+
+| PNG | Affiliazione | Relazione | Atteggiamento | Contesto | Note |
+|-----|-------------|-----------|---------------|---------|------|
+| **Zelifarn** *(S9)* | Indipendente (drago di bronzo) | **Alleato — salvatore** | Alleato *(S9: è intervenuto per sconfiggere Obliteros; Aelar si è offerto di aiutarlo a presenziare al festival Arpisti)* | Giovane drago di bronzo insediato nelle profondità del porto navale (relitto Neverluster); in fuga da Xanathar; ha salvato il party da Obliteros durante Force Grey M2 | Hook aperto: Aelar e Rennala/Remallia si sono impegnati ad aiutarlo per il festival Arpisti |
+| **Ragazza del Mausoleo** *(S9)* | Ignota (possibile cultista Cassalanter) | **Testimone ingannevole — fuggita** | Neutrale-ingannevole *(ha trattato il party con innocenza, poi è fuggita)* | Trovata viva nel Mausoleo Cassalanter tra i cadaveri; sosteneva di non sapere nulla, di aver solo seguito il fidanzato credendo fosse solo divertimento; ha rivelato la posizione del Converted Windmill, poi è uscita con il party dal mausoleo ed è fuggita da Waterdeep | Nome sconosciuto; [TODO DM: cultista vera o vittima innocente?]; ha rivelato Converted Windmill |
+
+---
+
 ## VILLA GRALHUND / CAP. 4 — PNG del Party (S8)
 
 > PNG incontrati collettivamente dal party durante il completamento di Villa Gralhund (piano superiore) e la caccia al nimblewright (apertura Cap. 4).
@@ -341,5 +352,5 @@
 | **Hrabbaz** *(S8)* | Gralhund (guardaspalle mezzorco) | **Nemico combattuto** | Ostile | Ha combattuto per 10 turni a difesa dei Gralhund; sopravvissuto | GS 4, mezzorco; si è interposto tra Yalah e il party |
 | **Urstul Floxin** *(S8)* | Zhentarim (sicario) | **Non incontrato direttamente** | Fuggito | Era a Villa Gralhund ma è fuggito durante il caos — il party non lo ha incontrato | Seconda beffa per Barnibus; si nasconde in una safehouse |
 | **Barnibus Blastwind** *(S7-S8)* | Ordine Magisti / Guardia Cittadina | **Collaboratore rafforzato** | ✅ Amichevole-collaborativo *(S8: ha trattato con i Gralhund per far rilasciare i PG; crede alla versione del party)* | Arrivato con la Watch; ha negoziato con i Gralhund per ritirare la denuncia contro i PG | Rapporto rafforzato; Urstul fuggito ancora una volta (seconda beffa) |
-| **Istrid Horn** *(S8)* | Zhentarim | **Contatto — messaggio ricevuto** | Neutrale/interessata *(S8: ha contattato Scintilla e Krauser via serpente alato per un incontro)* | Ha mandato messaggio a Krauser/Scintilla proponendo un incontro al Cimitero della Città | Esito dell'incontro da definire; possibile rifugio al manor |
+| **Istrid Horn** *(S8/S9)* | Zhentarim | **Ospite nascosta al manor** | Amichevole-dipendente *(S9: Scintilla le ha offerto rifugio; ora a Trollskull Manor come "cameriera")* | Si è presentata via serpente alato in S8; in S9 Scintilla le ha offerto rifugio al manor presentandola agli altri come cameriera (identità reale nascosta) | Filo aperto: durata rifugio (un tenday?); potenziale +2 Renown Zentharim per Krauser/Scintilla a fine tenday |
 
