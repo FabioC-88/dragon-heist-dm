@@ -1,5 +1,8 @@
 # DM Notes — Sessione 10 (In-Game)
 
+> ⚠️ **File aggiornato post-sessione.** Le fasi sono annotate con ✅/⏸️/🔀 per riflettere la realtà giocata.
+> Vedi sezione [📋 ACCADUTO IN SESSIONE](#accaduto-in-sessione-10-realta-vs-piano) per il riepilogo dei delta.
+
 > **Fonte primaria:** Dragon Heist — Encounter 10 "Converted Windmill (Summer)" · Encounter 5 "Rooftop Chase" · Encounter 1 "Alley (Summer)" · `missioni-secondarie/zentharim/M2-TieniIlResto.md`
 > **Contesto:** Party Lv 3 · Cap. 4 · La sessione inizia direttamente all'ingresso del Converted Windmill, Southern Ward — dove S9 si è conclusa. Krauser è ora Oathbreaker. Istrid Horn è al manor come "cameriera". M2 Zentharim non ancora recapitata.
 > **Obiettivo sessione:** Esplorare il Converted Windmill (Encounter 10 Summer) e fare i conti con Arn Xalrondar + Seffia Naelryke; inseguire i diavoli con lo Stone of Golorr (Encounter 5 Rooftop Chase). Surplus prioritario: Encounter 1 Alley + M2 Zentharim "Tieni il Resto" (segue naturalmente dopo il Windmill — intatta narrativamente e urgente per Scintilla).
@@ -29,7 +32,7 @@
 
 ---
 
-## FASE 0: FILI APERTI [⏸️ da S9 — opzionale, ~15 min]
+## ⏸️ NON GIOCATO — da spostare a S11 — FASE 0: FILI APERTI [⏸️ da S9 — opzionale, ~15 min]
 
 *Se il DM vuole un'apertura più morbida prima del mulino, queste due scene funzionano come flashback al mattino, al manor, prima che il party esca.*
 
@@ -51,7 +54,7 @@
 
 ---
 
-## FASE 1: IL MULINO — Esplorazione (~35–40 min)
+## ✅ GIOCATO — FASE 1: IL MULINO — Esplorazione (~35–40 min)
 
 ### W2 — Gli Squatter
 
@@ -127,7 +130,7 @@ Dietro la porta ovest in W7. Arn e Seffia hanno liberato i detriti e tracciato u
 
 ---
 
-## FASE 2: L'ARRIVO DEI DIAVOLI (~40–50 min)
+## ✅ GIOCATO — FASE 2: L'ARRIVO DEI DIAVOLI (~40–50 min)
 
 ### Il Timer — Quando arrivano
 
@@ -141,7 +144,7 @@ Seffia apre la finestra senza stupore. Arn prende la pietra dall'armadio — o d
 
 *Uno stringe la pietra nella zampa, e tutti e tre scivolano fuori nel cielo.*
 
-**[NOTA DM — riservata — Stone of Golorr]** Lo Stone of Golorr è un'aberrazione compressa in forma di roccia vetrosa, verde-nera. Chi lo tocca e si attuna può apprendere: la posizione del Vault of Dragons e le tre chiavi per aprirlo (custodito da Aurinax, drago d'oro adulto). I diavoli lo portano ai Cassalanter.
+**[NOTA DM — riservata — Stone of Golorr]** Lo Stone of Golorr è un'aberrazione compressa in forma di roccia vetrosa, verde-nera. I diavoli lo portano ai Cassalanter. *(Vedi 🔀 più sotto in FASE 5 — "Cosa rivela l'attunement" per cosa è stato effettivamente rivelato in S10: non Vault of Dragons/Aurinax, ma l'esistenza della cripta di Dagult Neverember.)*
 
 ---
 
@@ -178,7 +181,9 @@ INCANTESIMI (CD 12, +4 a colpire) — Concentrazione: solo uno alla volta
 
 ---
 
-## FASE 3: INSEGUIMENTO SUI TETTI — Encounter 5 "Rooftop Chase" (~30 min)
+## ✅ GIOCATO — FASE 3: INSEGUIMENTO SUI TETTI — Encounter 5 "Rooftop Chase" (~30 min)
+
+> 🔀 **Realtà**: i diavoli sono sfuggiti sui tetti verso il Castle Ward — si procede con la Fase 4.
 
 Se il party esce rapidamente dalla finestra di W7, può inseguire i diavoli attraverso i tetti del Southern Ward.
 
@@ -248,7 +253,9 @@ MULTIATTACCO: Due attacchi con Forca + uno con Spina
 
 ---
 
-## FASE 4 (SURPLUS): IL VICOLO — Encounter 1 "Alley (Summer)" (~40 min)
+## ✅ GIOCATO — FASE 4 (SURPLUS): IL VICOLO — Encounter 1 "Alley (Summer)" (~40 min)
+
+> 🔀 **Realtà**: nessuno è stato ucciso nello scontro. Willifort, il diavolo barbuto e i 3 imp sono tutti fuggiti — si procede con l'Inseguimento per le Strade.
 
 *[Giocare se il party segue i diavoli fino al punto di consegna. Il party inizia sui tetti che si affacciano sul vicolo — o a un'estremità se qualcuno è sceso durante l'inseguimento.]*
 
@@ -344,7 +351,9 @@ Pungiglione (solo in forma vera): +5 a colpire, 1d4+3 perforante + 3d6 veleno
 
 ---
 
-### Inseguimento per le Strade — Encounter 3 "Street Chase" (~20 min)
+### ✅ GIOCATO — Inseguimento per le Strade — Encounter 3 "Street Chase" (~20 min)
+
+> 🔀 **Realtà**: la folla blocca il passaggio come previsto; Willifort si perde/fugge nella folla mentre il party cerca di recuperare la pietra. I tre ragazzini di strada sottraggono lo Stone of Golorr e fuggono nelle fognature — il party li segue.
 
 *[Se Willifort scappa dal vicolo con la pietra.]*
 
@@ -368,7 +377,7 @@ Un personaggio può usare un'azione per cercare nella folla (Percezione CD 17). 
 
 ---
 
-## FASE 5 (SURPLUS AGGIUNTIVO): LE FOGNATURE — Encounter 9 "Cellar Complex" (~40 min)
+## ✅ GIOCATO — FASE 5 (SURPLUS AGGIUNTIVO): LE FOGNATURE — Encounter 9 "Cellar Complex" (~40 min)
 
 *[Giocare se il party segue i ragazzini nella grata. Surplus denso ma autocontenuto — si chiude con il recupero della pietra.]*
 
@@ -451,9 +460,11 @@ MORSO: +5 a colpire, portata 1,5m — 1d8+3 perforante + 1d8 acido
 
 ---
 
-### Lo Stone of Golorr — Cosa rivela l'attunement
+### 🔀 DEVIAZIONE — Lo Stone of Golorr — Cosa rivela l'attunement
 
-Chi si attuna allo Stone of Golorr apprende:
+> 🔀 **Realtà**: l'attunement (in sequenza: Razak, Vorador, poi Aelar come portatore attuale) ha messo il party in contatto con **Golor**, l'aboleth intrappolato nella pietra. Golor ha rivelato la propria natura e di sapere dove si trova la **cripta di Dagult Neverember** — ma non ha rivelato la posizione esatta, né menzionato Aurinax o il Vault of Dragons. Ha detto che lo rivelerà "a tempo debito". Il contenuto sotto (Vault of Dragons / Pink Flumph / Aurinax) **non è stato rivelato in S10** — resta materiale per una rivelazione futura, da riadattare attorno al nuovo hook della cripta di Dagult Neverember.
+
+Piano originale — chi si attuna allo Stone of Golorr apprende:
 - Il **Vault of Dragons** si trova sotto un teatro nel Castle Ward chiamato **Pink Flumph**.
 - Tre chiavi sono necessarie per aprirlo (i dettagli delle chiavi si sbloccano progressivamente).
 - Il vault è custodito da **Aurinax**, un drago d'oro adulto.
@@ -470,7 +481,7 @@ Con la pietra recuperata, il party ha tutto quello che serve per individuare il 
 
 ---
 
-## SURPLUS SECONDARIO: M2 ZENTHARIM — "TIENI IL RESTO" [da S9]
+## ⏸️ NON GIOCATO — da spostare a S11 — SURPLUS SECONDARIO: M2 ZENTHARIM — "TIENI IL RESTO" [da S9]
 
 *[Giocare se rimane tempo — altrimenti apertura di S11. Durata: ~60–90 min. Ha senso cronologicamente nei giorni dopo il Windmill.]*
 
@@ -516,52 +527,80 @@ Con la pietra recuperata, il party ha tutto quello che serve per individuare il 
 
 ## 📋 RECAP POST-SESSIONE
 
-*[Da compilare dopo la sessione — non leggere al tavolo]*
-
 ### Cosa è successo
 
-- [ ] Esplorazione Converted Windmill — squatter, W4 instabile, W7, W8 pentagramma
-- [ ] Incontro Arn Xalrondar + Seffia Naelryke (cultisti di Asmodeo)
-- [ ] Stone of Golorr preso dai spined devils e consegnato
-- [ ] Inseguimento sui tetti — recovered / lost Stone
-- [ ] Incontro al Vicolo — Willifort Crowelle + Bearded Devil + Imps
-- [ ] Inseguimento per le strade — Street Chase con folla + ragazzini
-- [ ] Fognature — Cellar Complex, mimic in B7, Stone recuperato
-- [ ] M2 Zentharim giocata / rinviata a S11
+- [x] Esplorazione Converted Windmill — squatter, W4 instabile, W7, W8 pentagramma
+- [x] Incontro Arn Xalrondar + Seffia Naelryke (cultisti di Asmodeo) — sconfitti
+- [x] Stone of Golorr preso dai spined devils e consegnato a Willifort
+- [x] Inseguimento sui tetti — Stone perso (i diavoli sfuggono verso il Castle Ward)
+- [x] Incontro al Vicolo — Willifort Crowelle + Bearded Devil + Imps — tutti fuggiti, nessuna vittima
+- [x] Inseguimento per le strade — Street Chase con folla + ragazzini: Willifort si perde nella folla, i ragazzini sottraggono la pietra
+- [x] Fognature — Cellar Complex, mimic in B7 sconfitto, Stone recuperato
+- [ ] M2 Zentharim — rinviata a S11
 
 ### XP Sessione 10
 
-| Incontro | XP |
-|----------|----|
-| Arn + Seffia (cult fanatic ×2) | 900 |
-| 3 Spined Devils (inseguimento tetti) | 1.350 |
-| Alley: Willifort + Bearded Devil + 3 Imp | 2.000 |
-| Mimic (Cellar Complex B7) | 450 |
-| M2 Zentharim (se giocata) | narrativo/milestone |
-| **Totale scenario completo** | **~4.700** |
+| Incontro | XP | Esito |
+|----------|----|----|
+| Arn + Seffia (cult fanatic ×2) | 900 | Sconfitti |
+| 3 Spined Devils (inseguimento tetti) | — | Sfuggiti, nessun XP |
+| Alley: Willifort + Bearded Devil + 3 Imp | — | Tutti fuggiti, nessun XP |
+| Mimic (Cellar Complex B7) | 450 | Sconfitto |
+| M2 Zentharim | — | Rinviata a S11 |
+| **Totale sessione** | **1.350** | |
 
 ### Aggiornamento PNG
 
-- **Arn Xalrondar + Seffia Naelryke** → aggiungere a png-incontrati.md (ostili, cultisti Asmodeo/Cassalanter)
-- **Willifort Crowelle** → aggiungere se incontrato (doppelganger, agente Cassalanter)
-- **Esvele Rosznar** → aggiungere se M2 Zentharim giocata (indipendente, potenziale alleata)
-- **Vaelle Lurval** → identità confermata come cultista (se Arn/Seffia l'hanno menzionata)
+- **Arn Xalrondar + Seffia Naelryke** → aggiungere a png-incontrati.md (sconfitti — cultisti Asmodeo/Cassalanter)
+- **Willifort Crowelle** → aggiungere a png-incontrati.md (fuggito — ostile, doppelganger, agente Cassalanter)
+- **Esvele Rosznar** → non incontrata (M2 Zentharim non giocata)
+- **Vaelle Lurval** → nessuna menzione da Arn/Seffia nel recap — identità resta come confermata in S9
 
 ### Missioni
 
-- Zentharim M2 → `Completata` se giocata / rimane `Pianificata` se rimandata
-- Se M2 Zentharim completata: Cap. 3 chiude → **Level 4 milestone**
+- Zentharim M2 → rimane `Pianificata`, rinviata a S11
+- Level 4 milestone → non raggiunta (richiede tutte e tre le M2; Zentharim ancora mancante)
+
+---
+
+## 📋 ACCADUTO IN SESSIONE 10 — Realtà vs Piano
+
+**Data aggiornamento:** 2026-06-29
+**Basato su:** recap-sessione-10.md
+
+### Tabella Delta
+
+| # | Fase/Scena | Piano | Realtà | Tipo |
+|---|-----------|-------|--------|------|
+| 1 | FASE 0 — Fili Aperti da S9 (Barnibus, Vincent Trench) | Apertura opzionale, flashback al mattino | Non giocata | ⏸️ |
+| 2 | FASE 1 — Il Mulino | Esplorazione W2-W8, scontro Arn+Seffia | Giocata come previsto | ✅ |
+| 3 | FASE 2 — Arrivo dei Diavoli | Diavoli prendono la pietra e si disperdono | Giocata come previsto | ✅ |
+| 4 | FASE 3 — Inseguimento sui Tetti | Party insegue, può recuperare o perdere la pietra | I diavoli sfuggono verso il Castle Ward | ✅ |
+| 5 | FASE 4 — Il Vicolo | Scontro con Willifort + scorta; se Willifort scappa → street chase | Nessuna vittima: Willifort, diavolo barbuto e i 3 imp fuggono tutti | ✅ |
+| 6 | Street Chase | Folla blocca la strada, ragazzini rubano la pietra | Giocata come previsto — Willifort si perde nella folla | ✅ |
+| 7 | FASE 5 — Le Fognature | Mimic in B7, recupero pietra, attunement rivela Vault of Dragons/Aurinax | Mimic sconfitto, pietra recuperata; l'attunement (Razak→Vorador→Aelar) rivela invece Golor come aboleth e l'esistenza della cripta di Dagult Neverember — posizione e Aurinax non menzionati | 🔀 |
+| 8 | SURPLUS — M2 Zentharim "Tieni il Resto" | Da giocare se resta tempo | Non recapitata | ⏸️ |
+
+### Scene da Trasferire a Sessione 11
+
+- **⏸️ FASE 0 — Barnibus Blastwind — Il Giorno Dopo** (con contenuto integrale della scena)
+- **⏸️ FASE 0 — Rapporto di Vincent Trench** (con contenuto integrale della scena)
+- **⏸️ SURPLUS SECONDARIO — M2 ZENTHARIM "TIENI IL RESTO"** (con tutte le sotto-scene: Skeemo, Il Riconoscimento, Esvele Rosznar)
+
+### TODO per il DM
+
+Nessun TODO aperto — i punti di ambiguità del recap (esito vicolo, rivelazione di Golor, portatore della pietra) sono stati chiariti col DM e integrati direttamente nelle annotazioni sopra.
 
 ---
 
 ## ✅ POST-SESSION CHECKLIST
 
-- [ ] `ai/knowledge/recaps/recap-sessione-10.md` — compilare dopo la sessione
-- [ ] `ai/knowledge/party.md` — aggiornare XP; level up a Lv 4 se milestone raggiunta
-- [ ] `ai/knowledge/png-incontrati.md` — aggiungere Arn+Seffia, Willifort, Esvele (se incontrati); aggiornare Vaelle
-- [ ] `ai/knowledge/stato-missioni.md` — M2 Zentharim: aggiornare stato
-- [ ] `ai/knowledge/rapporti.md` — aggiornare se M2 Zentharim giocata (Krauser/Vosk; Scintilla/Rennis)
-- [ ] `campagna/luoghi-visitati/27-converted-windmill.md` — espandere con dettagli W7, pentagramma, cultisti incontrati
-- [ ] `campagna/luoghi-visitati/` — creare 28-vicolo-alley.md se Fase 4 giocata
-- [ ] `campagna/luoghi-visitati/` — creare 29-fognature-cellar-complex.md se Fase 5 giocata
-- [ ] `campagna/sessioni/dm-notes-sessione-11.md` — creare prima della prossima sessione
+- [x] `ai/knowledge/recaps/recap-sessione-10.md` — compilato
+- [x] `ai/knowledge/party.md` — aggiornato (note S10 per PG, oggetto Stone of Golorr); nessun level up — M2 Zentharim ancora mancante
+- [x] `ai/knowledge/png-incontrati.md` — aggiunti Arn+Seffia, Willifort, ragazzini; Esvele non incontrata (M2 non giocata)
+- [x] `ai/knowledge/stato-missioni.md` — M2 Zentharim: rinviata a S11
+- [x] `ai/knowledge/rapporti.md` — aggiornato (nuovi PNG S10, segreto Stone of Golorr)
+- [x] `campagna/luoghi-visitati/27-converted-windmill.md` — espanso con dettagli W7, pentagramma, cultisti incontrati
+- [x] `campagna/luoghi-visitati/28-vicolo-castle-ward.md` — creato
+- [x] `campagna/luoghi-visitati/29-fognature-dock-ward.md` — creato
+- [ ] `campagna/sessioni/dm-notes-sessione-11.md` — da creare

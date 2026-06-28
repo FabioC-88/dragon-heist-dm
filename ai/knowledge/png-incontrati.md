@@ -151,7 +151,7 @@
 | **Laeral Silverhand** | Governo di Waterdeep | Tutti (pubblica) | Open Lord della città; figura distante, immensamente potente | Amichevole *(lontana)* | One of the Seven Sisters; decreti sulla magia noti a pubblici ufficiali |
 | **Vajra Safahr** *(il Bastone Nero)* | Ordine Magisti / Force Grey | Razak (citato da Hlam come "Bastone Nero") | Arcimaga di Waterdeep; Razak ne conosce il titolo ma non l'identità personale | Amichevole *(da incontrare)* | Razak arriverà da lei Cap. 2 (Force Grey M1) |
 | **Umbero Zastro** | Magistri (Toga Nera) | Vorador Thraxas (rapporti procedurali) | Magistro di spicco; processi magici pubblici | Neutrale-formale | Sconosciuto di persona; noto di fama professionale |
-| **Dagult Neverember** | Ex-governo (ex Open Lord) | Tutti *(voci celebrità)* | Ex Open Lord destituto; ritenuto corrotto; suo figlio è Renaer; suo covo di draghi è la base della ricerca attuale | Ostile *(assente)* | Background di tutta la ricerca del tesoro; personaggio assente ma influente |
+| **Dagult Neverember** | Ex-governo (ex Open Lord) | Tutti *(voci celebrità)* | Ex Open Lord destituto; ritenuto corrotto; suo figlio è Renaer; suo covo di draghi è la base della ricerca attuale | Ostile *(assente)* | Background di tutta la ricerca del tesoro; personaggio assente ma influente. **S10:** Golor (l'aboleth nello Stone of Golorr) ha rivelato di sapere dove si trova la **cripta di Dagult Neverember** — posizione non ancora svelata, "a tempo debito" |
 | **Renaer Neverember** | Indipendente | Tutti *(voci cittadino)* | Figlio di Dagult Neverember (ex Open Lord); dicono sia onesto, a differenza del padre | Amichevole *(da incontrare)* | Sarà salvato da Volo in Cap. 1 |
 | **Floon Blagmaar** | Indipendente | Dei circoli porto e taverne | Compagno di Renaer; descritto come "gentile ma ingenuo" | Amichevole *(da incontrare)* | Sarà salvato dalla quest iniziale di Volo |
 
@@ -353,4 +353,17 @@
 | **Urstul Floxin** *(S8)* | Zhentarim (sicario) | **Non incontrato direttamente** | Fuggito | Era a Villa Gralhund ma è fuggito durante il caos — il party non lo ha incontrato | Seconda beffa per Barnibus; si nasconde in una safehouse |
 | **Barnibus Blastwind** *(S7-S8)* | Ordine Magisti / Guardia Cittadina | **Collaboratore rafforzato** | ✅ Amichevole-collaborativo *(S8: ha trattato con i Gralhund per far rilasciare i PG; crede alla versione del party)* | Arrivato con la Watch; ha negoziato con i Gralhund per ritirare la denuncia contro i PG | Rapporto rafforzato; Urstul fuggito ancora una volta (seconda beffa) |
 | **Istrid Horn** *(S8/S9)* | Zhentarim | **Ospite nascosta al manor** | Amichevole-dipendente *(S9: Scintilla le ha offerto rifugio; ora a Trollskull Manor come "cameriera")* | Si è presentata via serpente alato in S8; in S9 Scintilla le ha offerto rifugio al manor presentandola agli altri come cameriera (identità reale nascosta) | Filo aperto: durata rifugio (un tenday?); potenziale +2 Renown Zentharim per Krauser/Scintilla a fine tenday |
+
+---
+
+## SESSIONE 10 — PNG del Party (S10)
+
+> PNG incontrati collettivamente dal party durante l'esplorazione del Converted Windmill, l'inseguimento dei diavoli e le fognature.
+
+| PNG | Affiliazione | Relazione | Atteggiamento | Contesto | Note |
+|-----|-------------|-----------|---------------|---------|------|
+| **Arn Xalrondar** *(S10)* | Cultisti di Asmodeo (Cassalanter) | **Antagonista — combattuto** | Morto | Cult fanatic; insieme a Seffia ha recuperato lo Stone of Golorr dal Mausoleo Cassalanter per conto dei Cassalanter; sconfitto dal party nell'appartamento W7 del Converted Windmill | Reagiva con irritazione se si menzionava Vaelle Lurval — dettaglio ora chiuso |
+| **Seffia Naelryke** *(S10)* | Cultisti di Asmodeo (Cassalanter) | **Antagonista — combattuta** | Morta | Cult fanatic; insieme ad Arn ha recuperato lo Stone of Golorr dal Mausoleo Cassalanter; sconfitta dal party nell'appartamento W7 | Stessa nota di Arn |
+| **Willifort Crowelle** *(S10)* | Cassalanter (valletto doppelganger) | **Antagonista — fuggito** | Ostile, in fuga | Travestito da anziano tiefling, ha ricevuto lo Stone of Golorr dai diavoli in un vicolo del Castle Ward; ha ordinato l'attacco al party con diavolo barbuto + 3 imp, poi è fuggito a piedi nella folla durante l'inseguimento per le strade, perdendosi insieme alla sua scorta | Sa che il party contende la pietra ai Cassalanter — probabile ritorno futuro come agente Cassalanter |
+| **Nat, Jenks, Squiddly** *(S10)* | Indipendenti (ragazzini di strada, Dock Ward) | **Testimoni/ladruncoli occasionali** | Neutrale/amichevole | Hanno sottratto lo Stone of Golorr a Willifort/ai diavoli nella confusione della folla; Nat (sorda, leader, linguaggio dei segni inventato) l'ha toccata, ha avuto un contatto terrificante con Golor e l'ha abbandonata nel loro nascondiglio (B7, fognature), dove l'ha trovata il mimic | Possibili contatti futuri nel Dock Ward; conoscono bene le fognature sotto il quartiere |
 

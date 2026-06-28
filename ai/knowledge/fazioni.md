@@ -140,9 +140,9 @@ Queste fazioni esistono a Waterdeep e possono essere usate come contatti occasio
 | **PNG chiave** | Victoro Cassalanter · Ammalia Cassalanter · Hrabbaz (guardia del corpo) |
 | **Sede** | Villa Cassalanter, Sea Ward + tempio segreto di Asmodeo |
 | **Stato del piano** | Cercano 99 anime innocenti + 999 dragoni d'oro entro l'estate |
-| **Ultimo evento** | — |
+| **Ultimo evento** | S10: il party ha sconfitto i loro agenti Arn Xalrondar e Seffia Naelryke (cultisti di Asmodeo) al Converted Windmill e affrontato (senza vittime) il loro agente Willifort Crowelle (doppelganger) nel vicolo — il party ha conteso e infine recuperato lo Stone of Golorr, ma non ha ancora collegato questi nemici al nome "Cassalanter" |
 
-**[NOTA DM — riservata]** I Cassalanters sono dietro al veleno Midnight Tears del Giorno dei Fondatori (Force Grey M1). Cercano lo Stone of Golorr per ottenere i 999 dragoni. Sono mondani, cortesi e pericolosissimi. Non si rivelano mai direttamente nelle prime sessioni.
+**[NOTA DM — riservata]** I Cassalanters sono dietro al veleno Midnight Tears del Giorno dei Fondatori (Force Grey M1). Cercano lo Stone of Golorr per ottenere i 999 dragoni. Sono mondani, cortesi e pericolosissimi. Non si rivelano mai direttamente nelle prime sessioni. **S10:** hanno perso lo Stone of Golorr — il party l'ha recuperato dalle fognature dopo che i tre ragazzini di strada l'avevano sottratta a Willifort durante la sua fuga.
 
 ---
 

@@ -6,12 +6,13 @@
 
 - **Livello attuale:** 3
 - **Sistema XP:** Milestone — Lv 3 raggiunto alla chiusura del Cap. 2; prossimo level up alla chiusura del Cap. 3
-- **Ultima sessione:** Sessione 9 (Istrid Horn ospitata al manor come cameriera; Krauser diventa Oathbreaker; M2 Arpisti + Force Grey completate; Mausoleo Cassalanter esplorato; Converted Windmill localizzato)
+- **Ultima sessione:** Sessione 10 (Converted Windmill esplorato, Arn Xalrondar + Seffia Naelryke sconfitti, Stone of Golorr conteso con i diavoli/Willifort Crowelle e recuperato nelle fognature dopo l'inseguimento; M2 Zentharim ancora non recapitata)
 - **Sede base:** Trollskull Manor, Trollskull Alley — **ristrutturazione completata, locanda aperta al pubblico**
 - **Bottino di party recente (S6):** 5 gemme da 100 mo (500 mo totali) sottratte dal cadavere di Dalakhar alla scena della Fireball
 - **Oggetto di party (S7):** Nimblewright Detector (ottenuto al Tempio di Gond — ombrello di rame che rileva nimblewright entro 500 piedi)
 - **Oggetto di party (S8):** Mappa per il Mausoleo dei Cassalanter (recuperata dal nimblewright)
 - **Informazione di party (S9):** Posizione del **Converted Windmill** — rivelata dalla ragazza trovata viva nel Mausoleo Cassalanter
+- **Oggetto di party (S10):** **Stone of Golorr** — recuperato nelle fognature del Dock Ward; attunato in sequenza a Razak, poi Vorador, ora portato da Aelar. Golor (l'aboleth nella pietra) sa dove si trova la cripta di Dagult Neverember, ma non l'ha ancora rivelato
 
 ---
 
@@ -58,6 +59,7 @@ Il mentore **Brottor Deepdelver** è scomparso durante un'indagine su un caso cl
 - [S7] Ha convinto Barnibus Blastwind a collaborare nelle indagini; ha preso parte al Tempio di Gond (Nimblewright Detector) e all'irruzione a Villa Gralhund (piano terra completato; sessione interrotta prima di G13)
 - [S8] Ha partecipato allo scontro a Villa Gralhund (piano superiore): Zhentarim eliminati in G13, trovato cadavere misterioso con sigillo mano+occhio sulla lingua. Lady Gralhund ha ordinato l'attacco — scontro di 10 turni. Arrestato dalla Watch; Barnibus ha trattato il rilascio. Baule di Yalah non trovato. Nimblewright rintracciato il giorno successivo — mappa per Mausoleo Cassalanter recuperata (Cap. 4 aperto)
 - [S9] Force Grey M2 "Non è Tutto Oro" completata: Obliteros sconfitto grazie all'intervento di Zelifarn. [TODO DM: verificare se la borsa di Brottor nel relitto è stata trovata — non confermato nel recap]. Esplorato il Mausoleo Cassalanter: trovati cadaveri + ragazza viva → rivelata posizione Converted Windmill. S10 inizia dall'esplorazione del Converted Windmill.
+- [S10] Ha esplorato il Converted Windmill e partecipato alla sconfitta di Arn Xalrondar e Seffia Naelryke; ha inseguito i diavoli sui tetti e nel vicolo (Willifort Crowelle fuggito con la sua scorta), poi seguito i ragazzini di strada nelle fognature, sconfitto il mimic e recuperato lo Stone of Golorr. Si è attunato alla pietra come secondo portatore (dopo Razak, prima che passasse ad Aelar): ha percepito Golor, l'aboleth intrappolato nella pietra, che ha rivelato di sapere dove si trova la cripta di Dagult Neverember senza svelarne la posizione.
 
 ---
 
@@ -97,6 +99,7 @@ Ha ricevuto dal monaco **Hlam** sul Monte Waterdeep una pergamena sigillata con 
 - [S7] Ha partecipato al Tempio di Gond e all'irruzione a Villa Gralhund (piano terra completato)
 - [S8] Ha partecipato allo scontro a Villa Gralhund (piano superiore) e alla cattura/rilascio da parte della Watch. Ha cercato il nimblewright col Detector e recuperato la mappa per il Mausoleo Cassalanter
 - [S9] Force Grey M2 "Non è Tutto Oro" completata: Obliteros sconfitto grazie a Zelifarn. Mausoleo Cassalanter esplorato con il party → ragazza viva → posizione Converted Windmill.
+- [S10] Ha esplorato il Converted Windmill e partecipato alla sconfitta di Arn Xalrondar e Seffia Naelryke; ha inseguito i diavoli sui tetti e nel vicolo (Willifort Crowelle fuggito con la sua scorta), poi seguito i ragazzini di strada nelle fognature, sconfitto il mimic e recuperato lo Stone of Golorr. È stato il **primo** ad attunarsi alla pietra: ha percepito Golor, l'aboleth intrappolato nella pietra, che ha rivelato di sapere dove si trova la cripta di Dagult Neverember senza svelarne la posizione. L'attunement è poi passato a Vorador, infine ad Aelar (attuale portatore).
 
 ---
 
@@ -144,6 +147,7 @@ Ha ricevuto dal monaco **Hlam** sul Monte Waterdeep una pergamena sigillata con 
 - [S7] Ha contattato Renaer Neverember che ha raccontato di Dalakhar e ha promesso di raccogliere informazioni (risposta attesa); ha partecipato al Tempio di Gond e all'irruzione a Villa Gralhund
 - [S8] Ha tentato di intimidire Lord Orond Gralhund senza successo (nessuna rivelazione ottenuta). Lady Gralhund ha ordinato l'attacco — scontro di 10 turni. Arrestato dalla Watch; Barnibus ha trattato il rilascio. Ha partecipato alla caccia al nimblewright e al recupero della mappa per il Mausoleo Cassalanter
 - [S9] **Arpisti M2 "Disinfestazione" completata**: Gazer ucciso, gatta Fillipa liberata, libro recuperato per Uza. Hook aperto: Aelar si è offerto di mettere in contatto Zelifarn con gli Arpisti per il festival; Rennala (Remallia?) ha deciso di aiutarlo. Mausoleo Cassalanter esplorato → ragazza viva → posizione Converted Windmill.
+- [S10] Ha esplorato il Converted Windmill e partecipato alla sconfitta di Arn Xalrondar e Seffia Naelryke; ha inseguito i diavoli sui tetti e nel vicolo (Willifort Crowelle fuggito con la sua scorta), poi seguito i ragazzini di strada nelle fognature, sconfitto il mimic e recuperato lo Stone of Golorr. **È ora il portatore ufficiale dello Stone of Golorr** (attunement passato da Razak a Vorador a lui); ha percepito Golor, l'aboleth nella pietra, che ha rivelato di sapere dove si trova la cripta di Dagult Neverember senza svelarne la posizione.
 
 ---
 
@@ -188,6 +192,7 @@ Volothamp "Volo" Geddarm l'ha contattata in officina e l'ha invitata al Portale 
 - [S7] Ha contattato Davil Starsong e scoperto l'identità di **Urstul Floxin** e che la base di Manshoon sono le **Kolat Towers**; ha fatto una ricognizione sul posto e osservato che le torri sono rivestite da un muro di forza. Ha preso parte al Tempio di Gond e all'irruzione a Villa Gralhund.
 - [S8] Ha partecipato allo scontro a Villa Gralhund (piano superiore). Contattata da **Istrid Horn** via serpente alato (incontro proposto). Arrestata dalla Watch; Barnibus ha trattato il rilascio. Ha ricevuto la semina M2 delle fazioni (posticipata). Ha partecipato alla caccia al nimblewright
 - [S9] Ha incontrato Istrid Horn e le ha offerto rifugio a Trollskull Manor presentandola agli altri come cameriera. M2 Zentharim "Tieni il Resto" non recapitata in S9 — slitta a S10. Mausoleo Cassalanter esplorato → ragazza viva → posizione Converted Windmill.
+- [S10] Ha esplorato il Converted Windmill e partecipato alla sconfitta di Arn Xalrondar e Seffia Naelryke; ha inseguito i diavoli sui tetti e nel vicolo (Willifort Crowelle fuggito con la sua scorta), poi seguito i ragazzini di strada nelle fognature, sconfitto il mimic e recuperato lo Stone of Golorr. M2 Zentharim "Tieni il Resto" di nuovo non recapitata — slitta a S11.
 - La questline M2-M4 potrebbe rivelare info su Manshoon e Kolat Towers
 
 ---
@@ -233,6 +238,7 @@ Ha incontrato **Aldric** al Portale Spalancato poco dopo il suo arrivo. Aldric �
 - [S7] Ha preso parte al Tempio di Gond e all'irruzione a Villa Gralhund (piano terra completato; piano superiore da giocare in S8 — hook Aldric/Krauser rimandato)
 - [S8] Ha partecipato allo scontro a Villa Gralhund (piano superiore). Contattato da **Istrid Horn** via serpente alato (incontro proposto). Arrestato dalla Watch; Barnibus ha trattato il rilascio. Ha ricevuto la semina M2 delle fazioni (posticipata). Seme Aldric/Krauser (Prima Crepa) non giocato — slitta a concomitanza con M2 Zhentarim
 - [S9] **OATHBREAKER**: Aldric si è rivelato come entità soprannaturale; Krauser ha accettato il contratto → sottoclasse cambiata da Voto di Devozione a Oathbreaker. Mausoleo Cassalanter esplorato → ragazza viva → posizione Converted Windmill.
+- [S10] Ha esplorato il Converted Windmill e partecipato alla sconfitta di Arn Xalrondar e Seffia Naelryke; ha inseguito i diavoli sui tetti e nel vicolo (Willifort Crowelle fuggito con la sua scorta), poi seguito i ragazzini di strada nelle fognature, sconfitto il mimic e recuperato lo Stone of Golorr. M2 Zentharim "Tieni il Resto" di nuovo non recapitata — slitta a S11 (sigillo di Vosk ancora da riconoscere).
 
 
 

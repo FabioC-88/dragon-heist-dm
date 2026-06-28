@@ -1,5 +1,5 @@
 ---
-aggiornato: Sessione 9
+aggiornato: Sessione 10
 ---
 
 # Schema Rapporti — Waterdeep: Dragon Heist
@@ -60,6 +60,9 @@ Righe = PNG. Colonne = PG. Stato al momento dell'incontro più recente.
 | **Nim** *(nimblewright, S7)* | 🤝 Costruttore solitario — ha ammesso di aver creato il nimblewright fuggito | 🤝 Incontrato al Tempio di Gond | 🤝 Incontrato (momento connessione) | 🤝 Incontrato al Tempio di Gond | 🤝 Incontrato al Tempio di Gond | — |
 | **Zelifarn** *(S9)* | 🤝 Alleato — ha partecipato a Force Grey M2 | 🤝 Alleato — Force Grey M2 | ✅ S9: si è offerto di metterlo in contatto con gli Arpisti per il festival | — | — | — |
 | **Ragazza del Mausoleo** *(S9)* | 🤝 Incontrata nel mausoleo — fuggita | 🤝 Incontrata nel mausoleo | 🤝 Incontrata nel mausoleo | 🤝 Incontrata nel mausoleo | 🤝 Incontrata nel mausoleo | — |
+| **Arn Xalrondar / Seffia Naelryke** *(S10)* | ❌ Combattuti e sconfitti nel Windmill | ❌ Combattuti e sconfitti | ❌ Combattuti e sconfitti | ❌ Combattuti e sconfitti | ❌ Combattuti e sconfitti | — |
+| **Willifort Crowelle** *(S10)* | ❌ Scontro nel vicolo — fuggito | ❌ Scontro nel vicolo — fuggito | ❌ Scontro nel vicolo — fuggito | ❌ Scontro nel vicolo — fuggito | ❌ Scontro nel vicolo — fuggito | — |
+| **Nat, Jenks, Squiddly** *(S10)* | 🤝 Incontrati nelle fognature | 🤝 Incontrati nelle fognature | 🤝 Incontrati nelle fognature | 🤝 Incontrati nelle fognature | 🤝 Incontrati nelle fognature | — |
 
 ---
 
@@ -140,4 +143,4 @@ Righe = PNG. Colonne = PG. Stato al momento dell'incontro più recente.
 - **Brottor Deepdelver scomparso** — Il mentore di Thrax è scomparso mentre indagava su un caso classificato dell'Ordine Magisti. Il filo narrativo è aperto.
 - **Skeemo Weirdbottle = traditore** — Alchimista che appare in Zentharim M2; ha tradito Manshoon. Bersaglio di M4 (breaking point per Friedrich verso Oathbreaker).
 - **Manshoon / Kolat Towers** — Manshoon controlla una rete parallela all'interno degli Zhentarim. Fizzra (Scintilla) attraversa la sua questline ignara di essere su un percorso di collisione con lui.
-- **Stone of Golorr** — MacGuffin principale. I Cassalanters lo cercano in competizione con Xanathar, Jarlaxle e Manshoon.
+- **Stone of Golorr** — MacGuffin principale. I Cassalanters lo cercano in competizione con Xanathar, Jarlaxle e Manshoon. **S10:** recuperato dal party (portatore attuale: Aelar). Golor, l'aboleth nella pietra, ha rivelato al party (in sequenza a Razak, Vorador, Aelar) di sapere dove si trova la cripta di Dagult Neverember — ma non l'ha rivelata, "a tempo debito". Vault of Dragons/Aurinax non ancora menzionati al party.

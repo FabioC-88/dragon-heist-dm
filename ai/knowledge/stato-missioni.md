@@ -68,7 +68,7 @@ Referente: **Davil Starsong**
 | # | Titolo | Livello | File Sorgente | File Wiki | Stato |
 |---|--------|---------|------|------------|-------|
 | 1 | Un Brutto Momento | 2 | `Zentharim_Missione1_un_brutto_momento.txt` | [📖 Leggi](../Missioni/Zentharim/M1-UnBruttoMomento.md) | `Completata` *(S5: omicidio sventato, drow Soluun Xibrindas fuggito; Krauser/Scintilla Zhentarim ufficiali)* |
-| 2 | Tieni il Resto | 3 | `Zentharim_Missione2_tieni_il_resto.txt` | [📖 Leggi](../Missioni/Zentharim/M2-TieniIlResto.md) | `Pianificata` *(S9: non recapitata, slitta a S10 — arco Oathbreaker Krauser già avvenuto in S9 senza questa missione; va giocata per il subplot Skeemo/Vosk/Esvele/Scintilla)* |
+| 2 | Tieni il Resto | 3 | `Zentharim_Missione2_tieni_il_resto.txt` | [📖 Leggi](../Missioni/Zentharim/M2-TieniIlResto.md) | `Pianificata` *(S9: non recapitata, slitta a S10; S10: di nuovo non recapitata — il party si è fermato dopo le fognature — slitta a S11. Arco Oathbreaker Krauser già avvenuto in S9 senza questa missione; va giocata per il subplot Skeemo/Vosk/Esvele/Scintilla)* |
 | 3 | Corri, Dasher! | 4 | `Zentharim_Missione3_corri_dasher.txt` | [📖 Leggi](../Missioni/Zentharim/M3-CorriDasher.md) | `Pianificata` |
 | 4 | Sangue del Patto | 5 | `Zentharim_Missione4_sangue_del_patto.txt` | [📖 Leggi](../Missioni/Zentharim/M4-SangueDeiPatto.md) | `Pianificata` |
 

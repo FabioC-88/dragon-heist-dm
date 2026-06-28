@@ -11,9 +11,9 @@
 - **Villain/Stagione:** Cassalanters (Estate)
 - **Livello di partenza:** 1
 - **Party:** 5 giocatori fissi + Silvia (PG ospite, presente raramente — max 6 giocatori)
-- **Stato:** In corso — Cap. 3 aperto (S7: Fireball — indagine sull'esplosione)
+- **Stato:** In corso — Cap. 4 aperto (S8: caccia al nimblewright → Stone of Golorr)
 - **Durata Media Sessioni:** 2 Ore
-- **Capitolo corrente:** 3
+- **Capitolo corrente:** 4
 
 ---
 
