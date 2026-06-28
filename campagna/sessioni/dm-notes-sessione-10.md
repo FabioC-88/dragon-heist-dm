@@ -137,10 +137,9 @@ Mentre il party esplora W7 (o cerca di aprirne la porta), arriva il suono che as
 
 Seffia apre la finestra senza stupore. Arn prende la pietra dall'armadio — o da dove la teneva addosso — e la passa al diavolo più grande.
 
-**Arn** *(voce piatta, efficiente)*:
-> *"Prendila. Alle Kolat Towers. Lord Cassalanter sa già del ritardo."*
+**Arn** *(senza una parola — si limita a passare la pietra al diavolo più grande)*
 
-*I diavoli non rispondono. Uno stringe la pietra nella zampa, e tutti e tre scivolano fuori nel cielo.*
+*Uno stringe la pietra nella zampa, e tutti e tre scivolano fuori nel cielo.*
 
 **[NOTA DM — riservata — Stone of Golorr]** Lo Stone of Golorr è un'aberrazione compressa in forma di roccia vetrosa, verde-nera. Chi lo tocca e si attuna può apprendere: la posizione del Vault of Dragons e le tre chiavi per aprirlo (custodito da Aurinax, drago d'oro adulto). I diavoli lo portano ai Cassalanter.
 
@@ -251,13 +250,13 @@ MULTIATTACCO: Due attacchi con Forca + uno con Spina
 
 ## FASE 4 (SURPLUS): IL VICOLO — Encounter 1 "Alley (Summer)" (~40 min)
 
-*[Giocare se il party segue i diavoli fino al punto di consegna — o se lo Stone è ancora nelle mani dei Cassalanter e il party ne segue la pista]*
+*[Giocare se il party segue i diavoli fino al punto di consegna. Il party inizia sui tetti che si affacciano sul vicolo — o a un'estremità se qualcuno è sceso durante l'inseguimento.]*
 
 ---
 
-> *Il vicolo è stretto, fiancheggiato da muri senza finestre che salgono tre piani senza interruzioni. In fondo, una carrozza da nolo aspetta con i cavalli fermi — stranamente tranquilli per un vicolo che non è un posto in cui sostare. L'auriga con il cappello piumato non si muove. Fuori dalla carrozza, un uomo in mantello scuro e tesa larga è in piedi accanto allo sportello, braccia conserte. I tre diavoli planano sul tetto della carrozza e passano qualcosa attraverso il finestrino. Poi si disperdono.*
+> *Sotto di voi, parcheggiata nel mezzo del vicolo, c'è una carrozza da nolo trainata da due cavalli da tiro — stranamente ferma in un posto che non è pensato per sostare. L'auriga con il cappello piumato siede immobile sul cassetto. Dal finestrino dello scompartimento passeggeri sporge la sagoma di un anziano tiefling. I tre spined devil planano sul tetto della carrozza, passano qualcosa attraverso il finestrino, e si disperdono. L'anziano tiefling alza lo sguardo verso di voi.*
 
-**[NOTA DM — riservata]** Willifort Crowelle è un doppelganger al servizio di Lord Victoro Cassalanter — il suo valletto operativo, travestito da anziano tiefling. Riceve lo Stone of Golorr dai diavoli e deve portarlo ai Cassalanter. Il diavolo barbuto (travestito da guardia in mantello) è la sua protezione diretta. Tre imp invisibili sono appollaiati sulla carrozza.
+**[NOTA DM — riservata]** Willifort Crowelle è il valletto doppelganger di Lord Victoro Cassalanter, travestito da anziano tiefling. Ha appena ricevuto lo Stone of Golorr. Appena vede il party, senza una parola, ordina agli imp e agli spined devil superstiti di attaccare. Non negozia.
 
 ---
 
@@ -282,15 +281,7 @@ MULTIATTACCO: Due attacchi con Slam
 
 **Sede:** Dentro la carrozza (mezza copertura — CA +2, TS Destrezza con vantaggio).
 
-**Comportamento:** Willifort non attacca per primo. Aspetta, osserva. Se il party si avvicina, usa *Leggi Pensieri* per capire quanto sanno — poi decide se trattare o eliminare.
-
-**Willifort** *(quando vede il party, voce di anziano tiefling, pacata)*:
-> *"Testimoni o cacciatori? La risposta cambia sensibilmente quello che succede adesso."*
-
-*Se il party menziona Cassalanter:*
-> *"Vedo che avete fatto i compiti. Il Lord Cassalanter è un uomo molto attento a chi conosce il suo nome. Come posso rassicurarvi che questa conversazione resti privata?"*
-
-**[NOTA DM — riservata]** Se Willifort capisce (via Leggi Pensieri) che il party sa troppo per essere lasciato andare, ordina l'attacco senza ulteriori indugi. Se c'è ancora margine, tratta — cercando di capire chi ha mandato il party e se può essere pagato per dimenticare.
+**Comportamento:** Willifort non parla — ordina l'attacco immediatamente. Se la pietra rischia di essere recuperata, ordina all'auriga di muovere la carrozza fuori dal vicolo. Se l'auriga è fuori combattimento, il diavolo barbuto prende le redini. Se anche il diavolo è giù, Willifort prende lui stesso le redini. Se la carrozza viene distrutta o i cavalli non possono muoversi, **Willifort fugge a piedi** → procedere con l'inseguimento per le strade.
 
 ---
 
@@ -339,20 +330,143 @@ Pungiglione (solo in forma vera): +5 a colpire, 1d4+3 perforante + 3d6 veleno
 
 **La Carrozza:** CA 14 | 45 PF | Immunità: veleno, psichico.
 
-**L'Auriga — Haru Hamatori** (LG umano commoner): conducente ignaro, non si batte. Se minacciato, abbandona il posto. Se incapacitato, il diavolo barbuto prende le redini; se anche il diavolo è giù, Willifort sale sul cassetto e tenta la fuga a piedi se la carrozza viene distrutta.
+**L'Auriga — Haru Hamatori** (LG umano commoner): conducente ignaro, non combatte. Se minacciato, abbandona il posto.
 
 ---
 
-### Sviluppo Tattico dell'Incontro
+### Sviluppo Tattico
 
-1. Willifort usa *Leggi Pensieri* nel primo round (azione bonus narrativa mentre parla).
-2. Imps: attaccano da invisibili chi usa magie di supporto o concentrazione.
-3. Diavolo barbuto: aggancia chi tenta di raggiungere la carrozza.
-4. Se la pietra è in pericolo: Willifort ordina a Haru di muovere la carrozza; se Haru è fuori, il diavolo prende le redini.
+1. **Round 1:** Willifort ordina l'attacco — imps e spined devil superstiti si lanciano sul party. Il diavolo barbuto aggancia chiunque tenti di raggiungere la carrozza.
+2. **Se la pietra è in pericolo:** Willifort ordina a Haru di muovere la carrozza. Haru → diavolo barbuto → Willifort, in ordine.
+3. **Se Willifort scappa:** procedere con l'inseguimento per le strade (vedi sotto).
 
-**Ricompense:** Willifort non ha tesori visibili — il doppelganger porta solo la pietra. Sul diavolo barbuto: niente. Negli imps: niente. **La pietra, se recuperata, è lo Stone of Golorr.**
+**XP totale vicolo:** 700 (Willifort) + 700 (Diavolo barbuto) + 600 (3 Imp) = **2.000 XP**
 
-**XP totale (scenario completo):** 700 (Willifort) + 700 (Diavolo barbuto) + 600 (3 Imp) = **2.000 XP**
+---
+
+### Inseguimento per le Strade — Encounter 3 "Street Chase" (~20 min)
+
+*[Se Willifort scappa dal vicolo con la pietra.]*
+
+Il party insegue Willifort per le strade affollate del Castle Ward, davanti a spettatori sgomenti.
+
+**Distanza iniziale:** 120 piedi se in carrozza, 60 piedi se a piedi.
+**Carrozza:** iniziativa +0; chi è dentro non tira sulle complicazioni urbane.
+
+**Round 3 — La Folla Blocca la Strada:**
+Una folla numerosa ostruisce il percorso — la carrozza si ferma. Willifort scende e prosegue a piedi tra la gente. Qualsiasi creatura nella folla ha mezza copertura; un attacco che manca per via della copertura colpisce un civile innocente.
+
+**Se Willifort viene incapacitato:**
+Un corvo piomba giù e afferra la pietra — è un imp mutaforma al servizio di Lady Ammalia Cassalanter. Vola via con la pietra.
+
+**I Tre Ragazzi di Strada:**
+La caccia si chiude quando tre ragazzini rubano la pietra — borseggiando Willifort, o colpendo il corvo con un dardo giocattolo e facendogliela cadere. Appena ce l'hanno, spariscono nella folla. Willifort, se ancora in piedi, si dilegua convinto di avere ancora la pietra. L'imp, se presente, si rende invisibile e vola in cerchio inutilmente.
+
+Un personaggio può usare un'azione per cercare nella folla (Percezione CD 17). Con successo: individua una grata di ferro nel selciato non chiusa bene. Sotto c'è una scala — 3 metri giù nelle fognature. Si sentono acqua e voci di bambini in lontananza.
+
+**Ricompense:** Lo Stone of Golorr, se il party riesce a recuperarlo dai ragazzini o da Willifort prima della fine dell'inseguimento.
+
+---
+
+## FASE 5 (SURPLUS AGGIUNTIVO): LE FOGNATURE — Encounter 9 "Cellar Complex" (~40 min)
+
+*[Giocare se il party segue i ragazzini nella grata. Surplus denso ma autocontenuto — si chiude con il recupero della pietra.]*
+
+---
+
+### I Tre Ragazzi di Strada
+
+> *Tre ragazzini. Scappano come gatti scottati, senza guardarsi indietro.*
+
+| Nome | Età | Aspetto | Carattere |
+|------|-----|---------|-----------|
+| **Nat** | 10 | Illuskan, sorda, spada giocattolo di legno | Leader. Comunica con un linguaggio dei segni inventato da lei e insegnato agli altri due. |
+| **Jenks** | 9 | Turami, robusto, bacchetta giocattolo + "famiglio" orsowibero imbottito | Timido con gli estranei, coraggioso per i suoi amici. |
+| **Squiddly** | 9 | Tiefling, benda sull'occhio, arco giocattolo + faretra di frecce finte | Parla prima di pensare. Agisce prima di pensare. |
+
+Non sono ostili. Se il party li raggiunge e non li minaccia, Jenks e Squiddly traducono per Nat.
+
+---
+
+### L'Entrata — Grata e Fognature
+
+La grata nel selciato porta a una scala di ferro — 3 metri giù. Le fognature sotto il Dock Ward.
+
+> *L'odore arriva prima di qualsiasi altra cosa. Caldo, denso, organico — peggio del solito, perché è estate e l'aria non si muove. Il tunnel si apre su un camminamento di pietra che affianca un canale di scarico profondo un metro. L'acqua che scorre fa rumori che non vuoi identificare. In lontananza: voci di bambini.*
+
+**Effetto dell'odore (estate):** Ogni personaggio che non si copra il naso con una sciarpa profumata o simile diventa avvelenato. L'effetto dura finché rimane nelle fognature. I ragazzini e le creature che ci abitano sono immuni.
+
+---
+
+### Mappa del Complesso
+
+```
+[B1] Accesso fognature — porta di legno con bordi in ferro (CD 17 scassinare / CD 20 sfondare)
+[B2] Fognature — camminamento + canale (3 piedi, malattia delle fogne se immersi 1 min — TS Cos CD 11)
+[B3] Porte segrete — Percezione passiva 15 o CD 15 — una verso B7, una verso B10
+[B4] Porta di ferro arrugginita — serratura corrosa (nessuna prova), cigola forte quando aperta
+[B5] Muro con feritoie — copertura 3/4 per chi è dietro
+[B6] Ripostiglio — porta in legno non chiusa a chiave, vuoto
+[B7] Cantina di detriti ⭐ — clubhouse dei ragazzini; porta segreta verso B3 visibile da questo lato senza prova
+[B8] Cantina rialzata — porta di ferro verso ripostiglio vuoto; scale verso porta con lucchetto (CD 15 / CD 20, apre su vicolo)
+[B9b] Cantina dei ratti — mobili in deposito; 25% probabilità mimic (ma in questa variante Summer il mimic È in B7)
+[B10] Cantina della vecchia taverna — pilastri; porta segreta verso B3 visibile senza prova
+[B11] Cantine sul retro — B11a (rastrelliere marce, bottiglie rotte); B11b (polvere, ragnatele)
+```
+
+**Percorso dei ragazzini:** B2 → B3 (porta segreta) → B7 (clubhouse).
+**Percorso più diretto per il party:** B4 → B5 → B6 → B7.
+
+---
+
+### B7 — Il Clubhouse (scena centrale)
+
+Il party apre la porta in B4 — i ragazzini, dall'altra parte, urlano a squarciagola per lo spavento.
+
+Una volta che si calmano (qualche secondo di caos), Jenks e Squiddly traducono per Nat: lei ha preso la pietra in mano, ha visto qualcosa, ha urlato e l'ha mollata. "È viva. Non la voglio più." Nessuno dei tre vuole tornare in B7.
+
+> *La cantina puzza di ratti e polvere vecchia. Una parete è crollata, allargando lo spazio in modo irregolare. Sul pavimento: macerie, detriti, escrementi di ratto. Al centro della stanza, quasi fuori posto, c'è una sedia a dondolo in legno grezzo. Sotto la sedia: qualcosa di opaco, verde-nero, che non riflette la luce nel modo giusto.*
+
+**[NOTA DM — riservata]** La sedia a dondolo è il **mimic** dal deposito (B9b). Ha sentito le urla dei ragazzini e si è spostato, sperando in un pasto facile. Sembra un mobile qualsiasi finché qualcuno tocca la pietra o lo danneggia — a quel punto attacca.
+
+---
+
+#### 🪑 Mimic — CR 2 (450 XP)
+
+```
+Mimic — CR 2 (450 XP)
+CA 12 (naturale) | PF 58 (9d8+18) | Velocità 4,5m
+FOR 17 | DES 12 | COS 15 | INT 5 | SAG 13 | CAR 8
+Abilità: Furtività +5
+Immunità ai danni: acido | Immunità alle condizioni: prono
+Sensi: Scurovisione 18m, Percezione passiva 11
+
+Falsa Apparenza: finché immobile, indistinguibile da un oggetto normale.
+Adesivo: chi tocca il mimic o viene colpito dal Morso viene afferrato (CD Forza 13 per liberarsi).
+
+MORSO: +5 a colpire, portata 1,5m — 1d8+3 perforante + 1d8 acido
+```
+
+**Tattiche:** rimane immobile finché qualcuno non raggiunge la pietra o lo colpisce. Poi il morso — e chiunque sia adesivo viene trascinato mentre tenta di prendere la pietra.
+
+---
+
+### Lo Stone of Golorr — Cosa rivela l'attunement
+
+Chi si attuna allo Stone of Golorr apprende:
+- Il **Vault of Dragons** si trova sotto un teatro nel Castle Ward chiamato **Pink Flumph**.
+- Tre chiavi sono necessarie per aprirlo (i dettagli delle chiavi si sbloccano progressivamente).
+- Il vault è custodito da **Aurinax**, un drago d'oro adulto.
+
+**[NOTA DM — riservata]** L'attunement mette in contatto brevemente con l'aboleth intrappolato nella pietra. È un momento di terrore puro — non violento, solo la consapevolezza di una mente antica e aliena che osserva. Nat lo sa già.
+
+---
+
+### Esito e Hook per S11
+
+Con la pietra recuperata, il party ha tutto quello che serve per individuare il Vault of Dragons. Il passo successivo nel modulo originale è l'Encounter 8 "Courthouse" (recuperare le tre chiavi) — da giocare in S11.
+
+**XP:** 450 (mimic) + narrativo per i ragazzini.
 
 ---
 
@@ -411,6 +525,8 @@ Pungiglione (solo in forma vera): +5 a colpire, 1d4+3 perforante + 3d6 veleno
 - [ ] Stone of Golorr preso dai spined devils e consegnato
 - [ ] Inseguimento sui tetti — recovered / lost Stone
 - [ ] Incontro al Vicolo — Willifort Crowelle + Bearded Devil + Imps
+- [ ] Inseguimento per le strade — Street Chase con folla + ragazzini
+- [ ] Fognature — Cellar Complex, mimic in B7, Stone recuperato
 - [ ] M2 Zentharim giocata / rinviata a S11
 
 ### XP Sessione 10
@@ -418,10 +534,11 @@ Pungiglione (solo in forma vera): +5 a colpire, 1d4+3 perforante + 3d6 veleno
 | Incontro | XP |
 |----------|----|
 | Arn + Seffia (cult fanatic ×2) | 900 |
-| 3 Spined Devils (inseguimento) | 1.350 |
+| 3 Spined Devils (inseguimento tetti) | 1.350 |
 | Alley: Willifort + Bearded Devil + 3 Imp | 2.000 |
+| Mimic (Cellar Complex B7) | 450 |
 | M2 Zentharim (se giocata) | narrativo/milestone |
-| **Totale scenario completo** | **~4.250** |
+| **Totale scenario completo** | **~4.700** |
 
 ### Aggiornamento PNG
 
@@ -446,4 +563,5 @@ Pungiglione (solo in forma vera): +5 a colpire, 1d4+3 perforante + 3d6 veleno
 - [ ] `ai/knowledge/rapporti.md` — aggiornare se M2 Zentharim giocata (Krauser/Vosk; Scintilla/Rennis)
 - [ ] `campagna/luoghi-visitati/27-converted-windmill.md` — espandere con dettagli W7, pentagramma, cultisti incontrati
 - [ ] `campagna/luoghi-visitati/` — creare 28-vicolo-alley.md se Fase 4 giocata
+- [ ] `campagna/luoghi-visitati/` — creare 29-fognature-cellar-complex.md se Fase 5 giocata
 - [ ] `campagna/sessioni/dm-notes-sessione-11.md` — creare prima della prossima sessione
