@@ -1,7 +1,7 @@
 # Trollskull Manor
 
 **Quartiere/Zona**: North Ward, Trollskull Alley, Waterdeep
-**Sessioni Visitate**: S3, S4, S6
+**Sessioni Visitate**: S3, S4, S6, S9
 **Descrizione**: Townhouse a quattro piani con torretta, situata a Trollskull Alley nel North Ward. Assegnata al party da Volo Geddarm come compenso per aver ritrovato Floon Blagmaar. Chiusa da tre anni, porta i segni dell'abbandono ma la struttura è solida. Abitata dal poltergeist Lif, spirito del precedente proprietario.
 
 ## PNG Incontrati
@@ -20,6 +20,8 @@
 - [S6] Durante una veglia notturna il party intercetta due ratti mannari nel vicolo sul retro del manor: scontro breve, i due fuggono feriti
 - [S6] I rappresentanti delle gilde si presentano al manor per le licenze e si rivelano accomodanti; completata la ristrutturazione, il party inaugura la locanda aprendola al pubblico
 - [S6] Un'esplosione di *fireball* devasta la strada del vicolo proprio davanti al manor, appena dopo l'inaugurazione (vedi [Scena del Crimine — Fireball](20-scena-crimine-fireball.md))
+
+- [S9] Istrid Horn, prestatrice Zhentarim ricercata dalla Watch dopo il rastrellamento post-Villa Gralhund, è stata ospitata al manor presentata agli altri come cameriera (identità reale nascosta). Il manor funziona ora anche come rifugio temporaneo per un membro Zhentarim.
 
 ## Note Aggiuntive
 

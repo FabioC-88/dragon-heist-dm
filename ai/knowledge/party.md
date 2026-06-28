@@ -6,11 +6,12 @@
 
 - **Livello attuale:** 3
 - **Sistema XP:** Milestone — Lv 3 raggiunto alla chiusura del Cap. 2; prossimo level up alla chiusura del Cap. 3
-- **Ultima sessione:** Sessione 8 (Cap. 3 completato — Villa Gralhund piano superiore; Watch arresta e rilascia PG; nimblewright trovato, mappa Mausoleo Cassalanter recuperata; Cap. 4 aperto)
+- **Ultima sessione:** Sessione 9 (Istrid Horn ospitata al manor come cameriera; Krauser diventa Oathbreaker; M2 Arpisti + Force Grey completate; Mausoleo Cassalanter esplorato; Converted Windmill localizzato)
 - **Sede base:** Trollskull Manor, Trollskull Alley — **ristrutturazione completata, locanda aperta al pubblico**
 - **Bottino di party recente (S6):** 5 gemme da 100 mo (500 mo totali) sottratte dal cadavere di Dalakhar alla scena della Fireball
 - **Oggetto di party (S7):** Nimblewright Detector (ottenuto al Tempio di Gond — ombrello di rame che rileva nimblewright entro 500 piedi)
 - **Oggetto di party (S8):** Mappa per il Mausoleo dei Cassalanter (recuperata dal nimblewright)
+- **Informazione di party (S9):** Posizione del **Converted Windmill** — rivelata dalla ragazza trovata viva nel Mausoleo Cassalanter
 
 ---
 
@@ -56,6 +57,7 @@ Il mentore **Brottor Deepdelver** è scomparso durante un'indagine su un caso cl
 - [S6] Chiusura Cap. 2 (arco Emmek/Trollskull) e Level up a Lv 3; ha aperto l'indagine sulla Fireball (Cap. 3) esaminando la scena del crimine con Barnibus Blastwind e Saeth Cromley
 - [S7] Ha convinto Barnibus Blastwind a collaborare nelle indagini; ha preso parte al Tempio di Gond (Nimblewright Detector) e all'irruzione a Villa Gralhund (piano terra completato; sessione interrotta prima di G13)
 - [S8] Ha partecipato allo scontro a Villa Gralhund (piano superiore): Zhentarim eliminati in G13, trovato cadavere misterioso con sigillo mano+occhio sulla lingua. Lady Gralhund ha ordinato l'attacco — scontro di 10 turni. Arrestato dalla Watch; Barnibus ha trattato il rilascio. Baule di Yalah non trovato. Nimblewright rintracciato il giorno successivo — mappa per Mausoleo Cassalanter recuperata (Cap. 4 aperto)
+- [S9] Force Grey M2 "Non è Tutto Oro" completata: Obliteros sconfitto grazie all'intervento di Zelifarn. [TODO DM: verificare se la borsa di Brottor nel relitto è stata trovata — non confermato nel recap]. Esplorato il Mausoleo Cassalanter: trovati cadaveri + ragazza viva → rivelata posizione Converted Windmill. S10 inizia dall'esplorazione del Converted Windmill.
 
 ---
 
@@ -94,6 +96,7 @@ Ha ricevuto dal monaco **Hlam** sul Monte Waterdeep una pergamena sigillata con 
 - [S6] Chiusura Cap. 2 e Level up a Lv 3; ha partecipato all'apertura dell'indagine sulla Fireball (Cap. 3)
 - [S7] Ha partecipato al Tempio di Gond e all'irruzione a Villa Gralhund (piano terra completato)
 - [S8] Ha partecipato allo scontro a Villa Gralhund (piano superiore) e alla cattura/rilascio da parte della Watch. Ha cercato il nimblewright col Detector e recuperato la mappa per il Mausoleo Cassalanter
+- [S9] Force Grey M2 "Non è Tutto Oro" completata: Obliteros sconfitto grazie a Zelifarn. Mausoleo Cassalanter esplorato con il party → ragazza viva → posizione Converted Windmill.
 
 ---
 
@@ -140,6 +143,7 @@ Ha ricevuto dal monaco **Hlam** sul Monte Waterdeep una pergamena sigillata con 
 - [S6] **Trollskull Manor riaperta** (locanda aperta al pubblico) — filo con Mirt chiuso. Ha lanciato una **campagna di voci** tramite gli Arpisti per bollare Emmek Frewn come alleato dei ratti mannari e come Zhentarim (deviazione, conseguenze attese sulle fazioni — vedi Note DM dm-notes-06). Chiusura Cap. 2 e Level up a Lv 3
 - [S7] Ha contattato Renaer Neverember che ha raccontato di Dalakhar e ha promesso di raccogliere informazioni (risposta attesa); ha partecipato al Tempio di Gond e all'irruzione a Villa Gralhund
 - [S8] Ha tentato di intimidire Lord Orond Gralhund senza successo (nessuna rivelazione ottenuta). Lady Gralhund ha ordinato l'attacco — scontro di 10 turni. Arrestato dalla Watch; Barnibus ha trattato il rilascio. Ha partecipato alla caccia al nimblewright e al recupero della mappa per il Mausoleo Cassalanter
+- [S9] **Arpisti M2 "Disinfestazione" completata**: Gazer ucciso, gatta Fillipa liberata, libro recuperato per Uza. Hook aperto: Aelar si è offerto di mettere in contatto Zelifarn con gli Arpisti per il festival; Rennala (Remallia?) ha deciso di aiutarlo. Mausoleo Cassalanter esplorato → ragazza viva → posizione Converted Windmill.
 
 ---
 
@@ -183,29 +187,30 @@ Volothamp "Volo" Geddarm l'ha contattata in officina e l'ha invitata al Portale 
 - [S6] Ha chiesto un favore a **Davil Starsong**, che ha rivelato informazioni sui **ratti mannari (Shard Shunners)** e sulle loro attività passate. Chiusura Cap. 2 e Level up a Lv 3
 - [S7] Ha contattato Davil Starsong e scoperto l'identità di **Urstul Floxin** e che la base di Manshoon sono le **Kolat Towers**; ha fatto una ricognizione sul posto e osservato che le torri sono rivestite da un muro di forza. Ha preso parte al Tempio di Gond e all'irruzione a Villa Gralhund.
 - [S8] Ha partecipato allo scontro a Villa Gralhund (piano superiore). Contattata da **Istrid Horn** via serpente alato (incontro proposto). Arrestata dalla Watch; Barnibus ha trattato il rilascio. Ha ricevuto la semina M2 delle fazioni (posticipata). Ha partecipato alla caccia al nimblewright
+- [S9] Ha incontrato Istrid Horn e le ha offerto rifugio a Trollskull Manor presentandola agli altri come cameriera. M2 Zentharim "Tieni il Resto" non recapitata in S9 — slitta a S10. Mausoleo Cassalanter esplorato → ragazza viva → posizione Converted Windmill.
 - La questline M2-M4 potrebbe rivelare info su Manshoon e Kolat Towers
 
 ---
 
 ### Friedrich Krauser
 **Giocatore:** Gabri
-**Razza / Classe:** Umano · Paladino (arco verso Oathbreaker)
+**Razza / Classe:** Umano · Paladino → **OATHBREAKER (S9)**
 **Background:** Arrivato a Waterdeep in fuga dal suo passato; disillusionato sui "bene assoluto"
-**Fazione:** Zentharim (contatto primario: Davil Starsong; arco narrativo verso moral erosion)
+**Fazione:** Zentharim (contatto primario: Davil Starsong; contratto con Aldric/Asmodeo firmato in S9)
 
 | | |
 |--|--|
 | **Livello** | 3 |
 | **PF attuali** | — |
 | **Condizioni** | — |
-| **Voto Paladino** | Attivo (rottura prevista L3-L4) |
+| **Voto Paladino** | ~~Attivo~~ **ROTTO IN S9 — OATHBREAKER** · Channel Divinity attivi: Controllare Non Morti + Aspetto Tremendo |
 
 #### Gancio personale principale
 Ha incontrato **Aldric** al Portale Spalancato poco dopo il suo arrivo. Aldric è diventato il suo punto di riferimento emotivo — un ex-avventuriero che "capisce" i suoi dubbi meglio di qualunque prete.
 
-**[NOTA DM]** Aldric *è Asmodeo sotto forma mortale*. Mantiene il pretesto di mentore umano. Osserva silenziosamente la rottura morale di Friedrich attraverso la pragmatica Zentharim, e sottilmente la incoraggia.
+**[NOTA DM]** Aldric *è Asmodeo sotto forma mortale*. In S9 ha rivelato la propria natura soprannaturale (senza dichiarare di essere Asmodeo) e ha proposto un contratto a Krauser. Krauser ha accettato: ora è ufficialmente un Oathbreaker. Il contratto prevede i poteri di Aldric in cambio di "una futura chiamata in aiuto".
 
-Le missioni Zentharim M1-M3 erodono gradualmente i principi assoluti di Friedrich. M4 (assassinio di Skeemo Weirdbottle) è il breaking point dove il voto si spezza, portandolo verso il sottoclass Oathbreaker tra i L3-L4.
+**[NOTA DM — arco narrativo]** La catena originale (M2 Zentharim/Skeemo/Vosk come alimentatori del cedimento) è stata saltata: la rottura è avvenuta in S9 senza quei passaggi. M2 Zentharim va ancora giocata per il subplot Skeemo/Vosk/Esvele/Scintilla, ma senza più il peso dell'Oathbreaker per Krauser. Concordare con Gabri il tono anti-eroe tragico, non villain che ride.
 
 #### PNG collegati
 - **Aldric** *(S3/S4)* — amico/mentore; è venuto a trovare Friedrich al manor in S4; **segretamente Asmodeo travestito**
@@ -218,8 +223,8 @@ Le missioni Zentharim M1-M3 erodono gradualmente i principi assoluti di Friedric
 - **Renaer Neverember** *(S1)* — nobile salvato; grato (+2)
 
 #### Note
-- **Aldric osserva silenziosamente** il coinvolgimento con Zhentarim; frase seminata in S4: *"La vera saggezza non è fare sempre la cosa giusta. È sapere quando le regole non si applicano a te."*
-- **Il voto rimane solido fino al L3-L4** — la rottura sarà drammatica, non repentina
+- **Aldric — patto firmato in S9**: si è rivelato come entità soprannaturale; Krauser ha firmato il contratto → **Oathbreaker attivo**. Frase seminata in S4: *"La vera saggezza non è fare sempre la cosa giusta. È sapere quando le regole non si applicano a te."*
+- ~~**Il voto rimane solido fino al L3-L4**~~ **ROTTURA AVVENUTA IN S9** — la svolta è stata accelerata rispetto al piano originale
 - [S4] Ha incontrato Davil Starsong di persona e accettato Zentharim M1; ha partecipato al raid al magazzino ai moli
 - [S5] **Zhentarim M1 completata** con Scintilla: indagine omicidi elfi, omicidio sventato (drow Soluun Xibrindas fuggito); rapporto chiuso con Davil; ingresso ufficiale negli Zhentarim. **Davil ha consegnato a Krauser il talismano di Sylrael Voss** (commilitone mezzelfo paladino della Shadowfell) recuperato dal cadavere, come gesto di rispetto dei patti — filo Vosk aperto, prima prova fisica della continuità del complotto
 - [S5] Ha tentato di chiedere info classificate al Capitano Hyustus Staget (Guardia del Porto): riconosciuto e bloccato sull'accesso. Rapporto Staget ↔ Krauser ora documentato come ostile
@@ -227,6 +232,7 @@ Le missioni Zentharim M1-M3 erodono gradualmente i principi assoluti di Friedric
 - [S6] Chiusura Cap. 2 e Level up a Lv 3; ha partecipato all'arco Emmek/Trollskull e all'apertura dell'indagine sulla Fireball (Cap. 3)
 - [S7] Ha preso parte al Tempio di Gond e all'irruzione a Villa Gralhund (piano terra completato; piano superiore da giocare in S8 — hook Aldric/Krauser rimandato)
 - [S8] Ha partecipato allo scontro a Villa Gralhund (piano superiore). Contattato da **Istrid Horn** via serpente alato (incontro proposto). Arrestato dalla Watch; Barnibus ha trattato il rilascio. Ha ricevuto la semina M2 delle fazioni (posticipata). Seme Aldric/Krauser (Prima Crepa) non giocato — slitta a concomitanza con M2 Zhentarim
+- [S9] **OATHBREAKER**: Aldric si è rivelato come entità soprannaturale; Krauser ha accettato il contratto → sottoclasse cambiata da Voto di Devozione a Oathbreaker. Mausoleo Cassalanter esplorato → ragazza viva → posizione Converted Windmill.
 
 
 

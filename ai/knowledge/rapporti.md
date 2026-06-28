@@ -1,5 +1,5 @@
 ---
-aggiornato: Sessione 8
+aggiornato: Sessione 9
 ---
 
 # Schema Rapporti — Waterdeep: Dragon Heist
@@ -27,7 +27,7 @@ Righe = PNG. Colonne = PG. Stato al momento dell'incontro più recente.
 | **Maxeene** | — | — | 🤝 Cavalla parlante — incontrata S5 in privato, fornite info | — | — | — |
 | **Soluun Xibrindas** (drow) | — | ❌ Affrontato S5 — fuggito | — | ❌ Affrontato S5 — fuggito | ❌ Affrontato S5 — fuggito | ❌ Affrontato S5 — fuggito |
 | **Sylrael Voss** (deceduto) | — | — | — | — | 🔒 Commilitone mezzelfo paladino della Shadowfell — confermato morto S5; talismano in possesso di Krauser | — |
-| **Aldric** | — | — | — | — | ✅ Amico / mentore; visita al manor S4 | — |
+| **Aldric** | — | — | — | — | ✅ 🔒 Patto firmato S9: si è rivelato entità soprannaturale; Krauser ora Oathbreaker per contratto | — |
 | **Maestro Bec** | 🤝 Familiare di Aelar | 🤝 Familiare di Aelar | ✅ Familiare personale | 🤝 Familiare di Aelar | 🤝 Familiare di Aelar | — |
 | **Trobbio** | — | — | 🔒 Patron arcifata (imprevedibile) | — | — | — |
 | **Brottor Deepdelver** | 🔒 Mentore scomparso | — | — | — | — | — |
@@ -54,10 +54,12 @@ Righe = PNG. Colonne = PG. Stato al momento dell'incontro più recente.
 | **Emmek Frewn** *(S6)* | ❌ Sabotatore identificato | ❌ Rivale | ❌ Rivale — bersaglio campagna voci | ❌ Rivale | ❌ Rivale | — |
 | **Shard Shunners (wererat)** *(S6)* | ❌ Ostili, in fuga | ❌ Ostili, in fuga | ❌ Ostili, in fuga | ❌ Ostili, in fuga | ❌ Ostili, in fuga | — |
 | **Vincent Trench** *(S6)* | 🤝 Investigatore ingaggiato | 🤝 Ingaggiato | 🤝 Ingaggiato | 🤝 Ingaggiato | 🤝 Ingaggiato | — |
-| **Istrid Horn** *(S6)* | 🤝 Nome noto (prestito a Emmek) | 🤝 Nome noto | 🤝 Nome noto | 🤝 Nome noto | 🤝 Nome noto | — |
+| **Istrid Horn** *(S6/S9)* | 🤝 Nome noto | 🤝 Nome noto | 🤝 Nome noto | ✅ S9: le ha offerto rifugio al manor — ospite come "cameriera" | ✅ S9: presente all'incontro con Scintilla | — |
 | **Zardoz Zord** *(S7)* | 🤝 Incontrato al porto — ha scortato ispezione 3 navi, niente trovato | 🤝 Incontrato al porto | 🤝 Incontrato al porto | 🤝 Incontrato al porto | 🤝 Incontrato al porto | — |
 | **Valetta** *(S7)* | 🤝 Sacerdotessa di Gond — ha fornito Nimblewright Detector e offerto 500 mo di ricompensa | 🤝 Incontrata al Tempio di Gond | 🤝 Incontrata al Tempio di Gond | 🤝 Incontrata al Tempio di Gond | 🤝 Incontrata al Tempio di Gond | — |
 | **Nim** *(nimblewright, S7)* | 🤝 Costruttore solitario — ha ammesso di aver creato il nimblewright fuggito | 🤝 Incontrato al Tempio di Gond | 🤝 Incontrato (momento connessione) | 🤝 Incontrato al Tempio di Gond | 🤝 Incontrato al Tempio di Gond | — |
+| **Zelifarn** *(S9)* | 🤝 Alleato — ha partecipato a Force Grey M2 | 🤝 Alleato — Force Grey M2 | ✅ S9: si è offerto di metterlo in contatto con gli Arpisti per il festival | — | — | — |
+| **Ragazza del Mausoleo** *(S9)* | 🤝 Incontrata nel mausoleo — fuggita | 🤝 Incontrata nel mausoleo | 🤝 Incontrata nel mausoleo | 🤝 Incontrata nel mausoleo | 🤝 Incontrata nel mausoleo | — |
 
 ---
 
@@ -73,6 +75,8 @@ Righe = PNG. Colonne = PG. Stato al momento dell'incontro più recente.
 | Remallia Haventree | Arpisti | Supervisor di livello superiore, gerarchia Arpisti | ✅ Incontrata da Aelar in S5 (rapporto intermedio Arpisti M1); ha richiesto la verifica Zhentarim per chiudere |
 | Hlam | Indipendente | Monaco oracolo | 🤝 Profetico, distante |
 | Davil Starsong | Zhentarim | Referente Zhentarim; pragmatico | ✅ Referente diretto Scintilla & Friedrich — M1 completata S5; Zhentarim ufficiali. Ha rivelato a tutto il party la faida Manshoon vs Doom Raiders |
+| Zelifarn | Indipendente (drago di bronzo) | Alleato del party post-Force Grey M2 | ✅ Alleato — ha salvato il party da Obliteros; hook aperto col festival Arpisti |
+| Istrid Horn | Zhentarim (Manshoon-leaning) | Ospite al manor come "cameriera" (S9) | ✅ Amichevole-dipendente verso Scintilla/Krauser; identità nascosta al resto del party |
 | Lif | Indipendente | Poltergeist barista del manor | ✅ Collaborativo — Aelar ha costruito fiducia in S4 |
 | Broxley Fairkettle | Fellowship of Innkeepers | Rappresentante gilde tavernieri | 🤝 Amichevole verso tutto il party (incontrato S4) |
 | Yagra Stonefist | Zhentarim | Braccio destro di Davil | 🤝 Intermediaria |
@@ -112,7 +116,7 @@ Righe = PNG. Colonne = PG. Stato al momento dell'incontro più recente.
 | Manshoon | Rennis Coalsworth | Carceriere / prigioniero | Rennis è alle Kolat Towers; Fizzra non lo sa ancora |
 | Victoro Cassalanter | Ammalia Cassalanter | Co-villain / coniugi | Operano in perfetta sinergia; mai sporcano le mani direttamente |
 | Aldric | Asmodeo | 🔒 Identità segreta | Aldric È Asmodeo in forma mortale |
-| Aldric | Friedrich Krauser | Mentore / discepolo | Aldric guida Friedrich verso il breaking point (Oathbreaker) |
+| Aldric | Friedrich Krauser | Entità / Oathbreaker *(S9: patto firmato)* | Aldric si è rivelato come entità soprannaturale in S9; Krauser ha firmato il contratto e ora è Oathbreaker. L'arco originale (erosione graduale tramite M2-M3) è stato accelerato |
 | Victoro Cassalanter | Asmodeo (indiretto) | Devoto / padrone | I Cassalanters hanno venduto le anime dei figli; il contratto scade questa estate |
 | Vajra Safahr | Nihiloor | Bersaglio / antagonista | Vajra incarica Force Grey di eliminare Nihiloor (M4) |
 | Hlam | Razak Kendal | Oracolo / portatore | Hlam ha trasmesso il presagio; il suo ruolo narrativo è concluso per ora |
