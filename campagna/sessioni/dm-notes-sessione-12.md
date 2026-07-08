@@ -28,7 +28,7 @@
 *[Aggiunta atmosferica]:*
 > *Broxley Fairkettle passa con un vassoio di boccali, si ferma un istante troppo a lungo accanto al vostro tavolo, poi tira dritto fingendo di non aver notato il panno che avvolge qualcosa. La discrezione della Fellowship of Innkeepers ha i suoi limiti.*
 
-**[NOTA DM — riservata]** Questo è un momento naturale per lasciare che il party pianifichi la propria mossa. Non forzare l'ordine delle scene: se qualcuno propone di andare prima da Esvele alla torre, o prima a caccia delle chiavi, segui il tavolo. La struttura sotto è pensata come sequenza consigliata, non obbligatoria.
+**[NOTA DM — riservata]** Questo è un momento naturale per lasciare che il party pianifichi la propria mossa. **Un vincolo di logica narrativa:** il party scopre *quali* tre chiavi servono solo alla Vecchia Torre, quando Golor completa la rivelazione davanti alle porte del Vault (vedi FASE 1). Quindi la FASE 1 (o almeno la discesa alle porte) va giocata **prima** della caccia alle chiavi — altrimenti il party non sa cosa cercare. Una volta note le tre chiavi, invece, le tre scene della FASE 2 possono essere affrontate in qualsiasi ordine. Se il tuo tavolo ha già risolto Old Tower in S11, la rivelazione delle chiavi è comunque avvenuta lì: parti direttamente dalla FASE 2.
 
 ---
 
@@ -73,12 +73,23 @@ All'interno, **Esvele Rosznar** è in riunione con tre rappresentanti di gilda �
 
 Esvele conduce il party alla stanza O5 della torre — un locale vuoto un tempo adibito a cerchio di teletrasporto, ora sigillato. Sulla parete nord, una porta segreta (già individuata e disinnescata da Esvele) conduce a una scala polverosa che scende per circa 30 metri fino a un corridoio largo 6 metri. In fondo al corridoio: le porte del Vault, ancora chiuse.
 
-> *La scala geme sotto i vostri passi, un'eco che rimbalza in un silenzio troppo perfetto per essere naturale. In fondo al corridoio, due enormi battenti di pietra adamantina — incisi con rune runiche nane — sbarrano il passo. Non hanno né maniglie né cardini visibili. Un'iscrizione, incisa in profondità, recita: "LE TRE CHIAVI. PORTATELE QUI."*
+> *La scala geme sotto i vostri passi, un'eco che rimbalza in un silenzio troppo perfetto per essere naturale. In fondo al corridoio, due enormi battenti d'adamantio — incisi con rune naniche — sbarrano il passo. Non hanno né maniglie né cardini visibili. Un'iscrizione, incisa in profondità, recita: "LE TRE CHIAVI. PORTATELE QUI."*
 
 *[Aggiunta atmosferica]:*
 > *Accanto alla soglia, una fessura naturale nella roccia porta ancora i segni di un covo animale abbandonato — Esvele segue il vostro sguardo. "Un grick," dice senza enfasi. "Non più un problema." Non aggiunge altro, e voi decidete di non chiedere.*
 
-**[NOTA DM — riservata]** Questo è il momento in cui il "servono tre chiavi" smette di essere un concetto astratto e diventa un ostacolo fisico e concreto — le porte non si aprono con la forza, la magia, o l'inganno. Serve procurarsi le chiavi vere. Non aprire le porte in questa sessione: è il gancio perfetto per la FASE 2 e il cliffhanger di chiusura (vedi FASE 4).
+### La Rivelazione delle Chiavi
+
+**[NOTA DM — riservata]** Questo è il momento in cui Golor mantiene la seconda metà della promessa fatta in S10-S11: la posizione l'aveva già data, ma i dettagli sulle chiavi "si sarebbero sbloccati sul posto". Eccolo. Il canale è il portatore attuale (Aelar), ma la visione è psichica e interna — Aelar decide se e quanto condividerne i dettagli con Esvele (vedi nota sotto).
+
+> *Davanti all'iscrizione, la pietra che Aelar porta con sé si desta un'ultima volta. Golor non parla con parole, ma con tre immagini che si depositano nella mente come sedimento. Una **scaglia di drago**, che riverbera di riflessi bronzei. Una **creatura senz'anima** che si muove come fosse viva — un costrutto d'ingranaggi e volontà altrui. E un **martello da guerra**, la cui testa luccica di un lucore argenteo che l'acciaio comune non conosce.*
+
+*[Aggiunta atmosferica]:*
+> *"Le tre chiavi," sussurra la sensazione, prima di dissolversi. "Portatele qui, e ciò che è sigillato si aprirà."*
+
+**[NOTA DM — riservata]** Ecco le tre chiavi che il Vault richiede in questa campagna: **scaglia di drago di bronzo**, **costrutto animato**, **martello da guerra argentato** (vedi tabella "Vault Keys" del modulo). Da qui in avanti il "servono tre chiavi" non è più un concetto astratto: è una lista precisa e un ostacolo fisico — le porte non cedono a forza, magia o inganno. Non aprire le porte in questa sessione: è il gancio perfetto per la FASE 2 e il cliffhanger di chiusura (vedi FASE 4).
+
+**[NOTA DM — riservata]** **Esvele e la pietra:** se Aelar riceve la visione apertamente (occhi che si velano, un istante di trance), Esvele lo nota — è troppo acuta per non farlo. Non commenta, ma archivia l'informazione: il party possiede un artefatto che "sa" cose. Decidi se lasciare che questo diventi un seme (Esvele curiosa dello Stone of Golorr) o se Aelar riesce a mascherare il momento (Inganno CD 13).
 
 ---
 
@@ -90,7 +101,9 @@ Esvele conduce il party alla stanza O5 della torre — un locale vuoto un tempo 
 |--------|-------|----------------------|
 | **Scaglia di drago di bronzo** | Zelifarn | Alleato dal Force Grey M2 (S9) |
 | **Costrutto animato** | Nim, il nimblewright | Tempio di Gond, Valetta (S7) |
-| **Martello da guerra silverato** | Fabbricazione | Embric & Avi, Vapore e Acciaio (Trollskull Alley) |
+| **Martello da guerra argentato** | Fabbricazione | Embric & Avi, Vapore e Acciaio (Trollskull Alley) |
+
+*(Nota regole: nel modulo le tre chiavi si scelgono liberamente — "chosen by you" — o si tirano una per colonna sulla tabella. Non serve che appartengano a colonne diverse: queste tre sono selezionate apposta perché il party ha già un aggancio a ciascuna. Sia la scaglia di drago di bronzo sia il costrutto animato — Nim — sono peraltro esplicitamente suggeriti dal modulo come chiavi ottenibili tramite Zelifarn e Valetta.)*
 
 Il party può visitare le tre scene in qualsiasi ordine. Ognuna è pensata per durare 20–25 minuti e avere un tono narrativo diverso: la prima ha un prezzo da negoziare, la seconda è calda e nostalgica, la terza è quasi comica e a costo zero.
 
@@ -99,7 +112,7 @@ Il party può visitare le tre scene in qualsiasi ordine. Ognuna è pensata per d
 > *Il relitto della Neverluster giace ancora dov'era l'ultima volta, la sua ossatura di legno marcio incrostata di alghe e ruggine nelle acque scure del porto. Non avete bisogno di cercare a lungo: Zelifarn vi ha sentiti arrivare molto prima che voi vediate lui. Il giovane drago di bronzo emerge dal relitto con un ondeggiare quasi pigro, gli occhi che scintillano di un riconoscimento immediato.*
 
 **Zelifarn** *(con il tono di chi accoglie vecchi conoscenti, non estranei)*:
-> *"Voi. I distruttori di Obliteros. Sono felice di vedere che siete ancora tutti interi — è più di quanto si possa dire per la maggior parte di chi disturba il mio relitto."*
+> *"Voi. I miei alleati contro Obliteros. Sono felice di vedere che siete ancora tutti interi — è più di quanto si possa dire per la maggior parte di chi disturba il mio relitto."*
 
 **[NOTA DM — riservata]** Zelifarn è alleato, non un ostacolo: ricorda che è stato lui a salvare il party da Obliteros durante Force Grey M2 (S9). Quando il party spiega di aver bisogno di una sua scaglia per aprire un antico caveau nanico, Zelifarn è genuinamente incuriosito — i draghi hanno un debole per i tesori altrui.
 
@@ -121,7 +134,7 @@ Il party può visitare le tre scene in qualsiasi ordine. Ognuna è pensata per d
 **Valetta:**
 > *"Tornate per il Detector? O per qualcos'altro?"*
 
-Quando il party spiega di aver bisogno di un costrutto per aprire un caveau antico, Valetta chiama Nim — il nimblewright timido e solitario che il party aveva già incontrato durante l'irruzione a Villa Gralhund.
+Quando il party spiega di aver bisogno di un costrutto per aprire un caveau antico, Valetta chiama Nim — il nimblewright timido e solitario che il party aveva già incontrato qui al Tempio di Gond (S7), quando ammise di aver costruito il nimblewright poi fuggito.
 
 > *Nim si materializza dall'ombra di un corridoio laterale, i suoi arti d'orologeria che si muovono con una grazia innaturale. Vi osserva per un istante prima di parlare, la voce metallica ma stranamente esitante.*
 
@@ -137,17 +150,17 @@ Quando il party spiega di aver bisogno di un costrutto per aprire un caveau anti
 
 ---
 
-### 2C — Il Martello da Guerra Silverato (Trollskull Alley)
+### 2C — Il Martello da Guerra Argentato (Trollskull Alley)
 
 > *Vapore e Acciaio è a due porte dal manor — non serve nemmeno uscire dal vicolo. Il calore della forgia di Embric vi investe ancora prima di varcare la soglia; Avi è china su un'incudine, il vapore che sale a nuvole regolari a ogni immersione del metallo incandescente nell'acqua.*
 
 **Embric** *(senza alzare lo sguardo dalla forgia)*:
-> *"Se siete qui per altre armi da bambini di legno, sbagliato negozio — quello è di Tally. Se siete qui per qualcosa che scotta davvero, siete nel posto giusto."*
+> *"Se siete qui per altre armi da bambini di legno, avete sbagliato negozio — quello è di Tally. Se siete qui per qualcosa che scotta davvero, siete nel posto giusto."*
 
-Quando il party spiega di aver bisogno di un martello da guerra silverato per un antico rituale nanico, Avi solleva lo sguardo, visibilmente intrigata.
+Quando il party spiega di aver bisogno di un martello da guerra argentato per un antico meccanismo nanico, Avi solleva lo sguardo, visibilmente intrigata.
 
 **Avi:**
-> *"Silverato, dite? Abbiamo una barra d'argento buona in magazzino — ci vorranno un paio d'ore, non di più. Embric, tira fuori lo stampo grande."*
+> *"Argentato, dite? Abbiamo una barra d'argento buona in magazzino — ci vorranno un paio d'ore, non di più. Embric, tira fuori lo stampo grande."*
 
 **[NOTA DM — riservata]** Nessun tiro richiesto — Embric e Avi sono vicini di casa amichevoli da S4, e la richiesta è nelle loro corde (fabbricano armi e armature metalliche di mestiere). Il martello richiede circa 2 ore di lavoro — tempo che il party può passare in una scena di decompressione al manor, oppure saltare con un'ellissi narrativa. Se preferite un costo simbolico, una barra d'argento (115 mo circa) o materiali equivalenti recuperati durante la campagna coprono la richiesta senza discussioni.
 
@@ -188,7 +201,7 @@ Quando il party spiega di aver bisogno di un martello da guerra silverato per un
 
 *[Gioca questa scena solo se le tre chiavi sono state raccolte E il party sceglie di tornare subito alla torre. Altrimenti, lascia le chiavi in tasca come setup per l'apertura di S13.]*
 
-Se il party torna alla Vecchia Torre con le tre chiavi (scaglia di Zelifarn, Nim, martello silverato) e le porta entro un metro e mezzo dalle porte del Vault:
+Se il party torna alla Vecchia Torre con le tre chiavi (scaglia di Zelifarn, Nim, martello argentato) e le porta entro un metro e mezzo dalle porte del Vault:
 
 > *Le porte di adamantio fremono. Un suono sordo, come pietra che respira, attraversa il corridoio mentre i battenti scivolano lentamente nelle pareti, senza che nessuno li tocchi. Oltre la soglia, buio — e un silenzio diverso da quello della scala. Non vuoto. In attesa.*
 
@@ -231,7 +244,7 @@ Esvele (se presente) trattiene il fiato accanto a voi — per la prima volta da 
 - [ ] Percorso verso il Vault esplorato — porte V1 individuate
 - [ ] Chiave 1 — Scaglia di Zelifarn ottenuta (prezzo negoziato: ___%)
 - [ ] Chiave 2 — Nim preso in prestito da Valetta
-- [ ] Chiave 3 — Martello silverato forgiato da Embric & Avi
+- [ ] Chiave 3 — Martello argentato forgiato da Embric & Avi
 - [ ] M2 Zentharim giocata / rinviata ancora a S13
 - [ ] Cliffhanger FASE 4 giocato (porte del Vault aperte) — sì/no
 
