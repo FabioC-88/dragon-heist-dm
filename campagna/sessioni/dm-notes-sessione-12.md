@@ -1,7 +1,7 @@
 # DM Notes — Sessione 12 (In-Game)
 
 > **Fonte primaria:** Dragon Heist — "Vault Keys" (Le Tre Chiavi) · Encounter 7 "Old Tower" (Summer, carryover da S11) · `missioni-secondarie/zentharim/M2-TieniIlResto.md` (carryover da S11)
-> **Contesto:** Party Lv 3 · Cap. 4 · Il party è uscito dal Tribunale del Dock Ward, ha saputo da Golor (aboleth nello Stone of Golorr) che il Vault of Dragons si nasconde sotto una vecchia torre nel Sea Ward. Willifort Crowelle resta a piede libero. M2 Zentharim ("Tieni il Resto") rinviata per la terza volta.
+> **Contesto:** Party **Lv 4** · 5 PG (6 con Barnabus ospite) · Cap. 4 · Il party è uscito dal Tribunale del Dock Ward, ha saputo da Golor (aboleth nello Stone of Golorr) che il Vault of Dragons si nasconde sotto una vecchia torre nel Sea Ward. Willifort Crowelle resta a piede libero. M2 Zentharim ("Tieni il Resto") rinviata per la terza volta.
 > **Obiettivo sessione:** Chiudere il filo di Old Tower/Esvele Rosznar (carryover S11) e avviare la caccia alle **Tre Chiavi** del Vault — tre chiavi da tre colonne diverse della tabella "Vault Keys", tutte difficili da procurare: la scaglia di Zelifarn (alleato), un occhio di beholderkin (territorio Xanathar) e il dono di Laeral Silverhand (accesso politico + prezzo morale). La caccia trascina il party in rotta di collisione con i Cassalanter, che tendono un agguato per riprendersi lo Stone (scontro 2D, guidato da Willifort Crowelle).
 > **Durata stimata:** ~2h45m–3h. Old Tower/Esvele apre la sessione. La caccia alle chiavi è il corpo centrale, con un set-piece di combattimento (l'agguato Cassalanter). Realisticamente il party chiude una o due chiavi e avvia la terza — l'apertura del Vault slitta a S13. M2 Zentharim resta surplus, da giocare solo se avanza tempo.
 
@@ -238,7 +238,12 @@ Diavolo Spinato (alternativa) — CA 13 | PF 22 (5d6+5) | Volo 12 m
   Forcone: +3, 1d6+1 · Coda: +3, 1d8+1 · Spine di fuoco (a distanza): +3, 1d6+1 + 3 fuoco
 ```
 
-**Bilanciamento (party Lv 3, 5-6 PG):** scontro **impegnativo/mortale**. Se il tavolo è piccolo o poco ottimizzato, togli 1 imp e 1 cultista. Willifort **non muore per vincere**: se ridotto a ~1/4 dei PF o smascherato pubblicamente, tenta la fuga usando Cangiante per confondersi tra i cultisti o la folla.
+**Bilanciamento (party Lv 4, 5 PG — 6 con Barnabus):** questa composizione (Willifort CR3 + 2 imp + 3 cultisti + 1 fanatico) vale ~4.000 XP corretti — un incontro **Difficile** per 5 PG di 4° livello (soglie: Difficile ~3.750, Mortale ~5.500). Buon set-piece impegnativo ma non punitivo.
+- **Per spingerlo a Mortale** (tavolo ottimizzato o se vuoi un vero climax): aggiungi un 2° fanatico del culto, oppure sostituisci il fanatico con **2 diavoli spinati** tenendo comunque gli imp.
+- **Per alleggerirlo** (se sono in 4, o poco ottimizzati): togli 1 imp e 1 cultista.
+- **Se Barnabus è al tavolo** (6 PG): tieni la composizione piena o aggiungi il 2° fanatico — il suo obiettivo personale è proprio catturare agenti sporchi, ottimo aggancio.
+
+Willifort **non muore per vincere**: se ridotto a ~1/4 dei PF o smascherato pubblicamente, tenta la fuga usando Cangiante per confondersi tra i cultisti o la folla.
 
 **Esiti:**
 - **Willifort catturato/ucciso:** alla morte torna alla forma reale di doppelganger. Il filo aperto da S10 si chiude; un vero shapechanger morto sarebbe, tra l'altro, una chiave valida (5ª riga, 3ª colonna della tabella) se il party avesse voluto imboccare quella strada. I Cassalanter perdono il loro miglior agente sul campo.
@@ -312,7 +317,7 @@ Esvele (se presente) trattiene il fiato accanto a voi — per la prima volta da 
 | Barnibus — Urstul Floxin | Barnabus Reed | Aperto | ⏸️ Da S9/S11, ancora non rigiocato |
 | Vincent Trench — Emmek Frewn | Aelar | Aperto | ⏸️ Da S9/S11, ancora non rigiocato |
 | Istrid Horn al manor | Scintilla, Krauser | Attivo | Rimane in copertura come "cameriera" |
-| **Level 4 Milestone** | Tutto il party | Condizionale | Scatta dopo M2 Zentharim + chiusura Cap. 3 |
+| M2 Zentharim — chiusura filo Cap. 3 | Krauser, Scintilla | Aperto | Il party è già al Lv 4; M2 resta da chiudere come filo narrativo (non più come trigger di livello) |
 
 ---
 
@@ -339,8 +344,8 @@ Esvele (se presente) trattiene il fiato accanto a voi — per la prima volta da 
 | Caccia alle chiavi (Zelifarn, Old Xoblob, Laeral) | narrativo |
 | **Agguato Cassalanter 2D** (Willifort doppelganger 700 + 2 imp 400 + 3 cultisti 75 + fanatico 450) | ~1625 (grezzo) |
 | Scontro Xanathar 2B (se giocata reazione dura: 2 bugbear + gazer) | ~500 (grezzo) |
-| M2 Zentharim (se giocata) | narrativo/milestone |
-| **Nota** | Milestone: il level up a Lv 4 resta legato alla chiusura del Cap. 3 (dopo M2 Zentharim), non ai singoli XP |
+| M2 Zentharim (se giocata) | narrativo |
+| **Nota** | Il party è **già al Lv 4**: il sistema è a milestone, gli XP grezzi sono solo indicativi del peso degli scontri |
 
 ### Aggiornamento PNG
 
@@ -354,14 +359,14 @@ Esvele (se presente) trattiene il fiato accanto a voi — per la prima volta da 
 ### Missioni
 
 - Zentharim M2 → `Completata` se giocata / rimane `Pianificata` se rimandata ancora (quarta volta)
-- Se M2 Zentharim completata: Cap. 3 chiude → **Level 4 milestone**
+- Se M2 Zentharim completata: chiude il filo narrativo del Cap. 3 (il party è già al Lv 4)
 
 ---
 
 ## ✅ POST-SESSION CHECKLIST
 
 - [ ] `ai/knowledge/recaps/recap-sessione-12.md` — compilare dopo la sessione
-- [ ] `ai/knowledge/party.md` — aggiornare XP; level up a Lv 4 se milestone raggiunta; annotare le tre chiavi ottenute
+- [ ] `ai/knowledge/party.md` — **allineare il livello a Lv 4** (il file dice ancora Lv 3); aggiornare stato; annotare le chiavi ottenute
 - [ ] `ai/knowledge/png-incontrati.md` — aggiungere/aggiornare Esvele, Zelifarn (quota), Laeral, Old Xoblob, Willifort, Skeemo (se M2 giocata)
 - [ ] `ai/knowledge/stato-missioni.md` — M2 Zentharim: aggiornare stato
 - [ ] `ai/knowledge/rapporti.md` — aggiornare se M2 Zentharim giocata (Krauser/Vosk; Scintilla/Rennis); aggiornare rapporto con Esvele e Zelifarn
