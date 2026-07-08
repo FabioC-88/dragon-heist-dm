@@ -41,7 +41,7 @@
 *[Aggiunta atmosferica]:*
 > *Una delle guardie regge un ombrello contro un sole che non sta piovendo — un gesto puramente decorativo, come tutto in questa scena. Casa Rosznar non fa nulla senza stile, nemmeno annoiarsi.*
 
-**[NOTA DM — riservata]** Le quattro **guardie** in livrea di Casa Rosznar non sono ostili a meno che il party non tenti la forza. Chiedono garbatamente le generalità e, se il party menziona di essere lì "per affari", li lasciano passare con un'alzata di spalle — non è la prima visita imprevista che la loro padrona riceve.
+**[NOTA DM — riservata]** Le quattro **guardie** in livrea di Casa Rosznar non sono ostili, ma nemmeno permissive: sbarrano l'ingresso, chiedono nome e motivo della visita, e non lasciano entrare nessuno senza autorizzazione. Uno di loro va ad annunciare il party alla padrona. **È Esvele a decidere di riceverli** — non per cortesia, ma per curiosità e cautela: cinque (o sei) forestieri armati che si presentano proprio alla sua torre sono una cosa che vuole tenere d'occhio da vicino, non lasciare fuori dalla porta. Se il party tenta la forza sulle guardie, l'incontro con Esvele parte in salita (o non avviene affatto).
 
 ### Dentro la Torre
 
@@ -51,17 +51,35 @@ All'interno, **Esvele Rosznar** è in riunione con tre rappresentanti di gilda �
 - **Pynt Oomtrowl** (gnoma delle rocce, Gilda dei Cantinieri e Idraulici)
 - **Jarbokken Frostbeard** (nano scudo, Gilda degli Scalpellini, Muratori, Vasai e Piastrellisti)
 
-> *Esvele Rosznar è più giovane di quanto la sua reputazione lasci immaginare — sulla trentina, elegante senza ostentazione, con lo sguardo di chi ha già calcolato tre mosse più avanti di chiunque altro nella stanza. Ai tre rappresentanti di gilda risponde con un sorriso professionale e frasi vaghe sui costi di ristrutturazione. Quando vi vede, qualcosa nel suo sguardo si affila.*
+**[NOTA DM — riservata]** **Non giocare questa scena come un'accoglienza a braccia aperte.** Il cuore dell'incontro è che *entrambe le parti hanno qualcosa da nascondere*: il party vuole il Vault, ma esporlo significa scoprirsi; Esvele sa cosa c'è sotto il pavimento, ma non lo ammetterà **mai** davanti ai rappresentanti di gilda — l'intero scopo della sua messinscena è che le gilde *non* sappiano. Gioca il primo contatto come un braccio di ferro cortese, non come un patto immediato. La proposta d'affari arriva **solo dopo** che è diventato chiaro a entrambi cosa cercano, e **solo dopo** che i rappresentanti di gilda hanno lasciato la stanza.
 
-**Esvele Rosznar** *(congedando educatamente i rappresentanti delle gilde, poi rivolta al party)*:
-> *"Interessante. Non capita tutti i giorni che degli sconosciuti bussino alla mia porta sapendo esattamente cosa c'è sotto i miei piedi."*
+#### Beat 1 — Il primo contatto (cauta, nulla sul Vault)
+
+> *Esvele Rosznar è più giovane di quanto la sua reputazione lasci immaginare — sulla trentina, elegante senza ostentazione, con lo sguardo di chi ha già calcolato tre mosse più avanti di chiunque altro nella stanza. Quando vi vede varcare la soglia, il sorriso professionale che stava offrendo ai rappresentanti di gilda non si spegne — ma qualcosa dietro gli occhi si affila.*
+
+**Esvele Rosznar** *(cordiale, misurata, senza alzarsi)*:
+> *"Non aspettavo altre visite, oggi. Se venite da parte di una gilda, temo di avere già la sala piena. Se venite per altro... ditemi pure di che si tratta, e vediamo se posso esservi utile."*
+
+**[NOTA DM — riservata]** Qui Esvele **non menziona il Vault**, né lascia intendere di sapere cosa c'è sotto la torre. Sta sondando, e osserva con attenzione come reagisce il party. Finché i tre rappresentanti di gilda sono nella stanza, non dirà nulla di compromettente. Lascia che sia il tavolo a decidere quanto scoprirsi:
+> - **Se il party è vago o mente sul motivo** (Inganno contro Intuizione CD 14 di Esvele): lei non ci crede, ma sta al gioco — la tensione sale, e capisce che nascondono qualcosa.
+> - **Se il party fa domande sospette** (le fondamenta, la cantina, "cosa c'era qui prima", qualunque cosa di nanico): Esvele unisce i puntini in un istante. È troppo acuta per non farlo.
+> - **Se il party tira fuori apertamente il Vault davanti alle gilde:** errore grosso ma recuperabile — Esvele congeda all'istante i rappresentanti con una scusa e chiude la porta prima che abbiano sentito troppo, poi affronta il party con più freddezza.
+>
+> Un personaggio che studia Esvele (Intuizione CD 13) coglie che il suo interesse non è quello di una padrona di casa infastidita: è quello di chi ha appena riconosciuto un potenziale rivale — o un potenziale socio.
+
+#### Beat 2 — Le carte sul tavolo (congedate le gilde)
+
+*Non appena diventa chiaro a entrambe le parti che state cercando la stessa cosa, Esvele liquida i rappresentanti di gilda con poche parole efficienti e aspetta che la porta si chiuda alle loro spalle. Solo allora il tono cambia.*
+
+**Esvele Rosznar** *(ora diretta, senza più il sorriso di circostanza)*:
+> *"Bene. Togliamoci di torno le formalità. Non capita tutti i giorni che degli sconosciuti bussino alla mia porta sapendo esattamente cosa c'è sotto i miei piedi — e voi lo sapete, altrimenti non sareste qui."*
 
 *Vi studia con calma professionale, senza un filo di allarme.*
-> *"Propongo un accordo semplice: io vi do accesso al Vault — preferibilmente quando questi gentiluomini delle gilde non sono nei dintorni — voi mi date una quota equa di quel che troviamo. Nessuno dei due può permettersi di tradire l'altro: io non posso farvi arrestare per furto senza che le autorità scoprano il Vault e lo sequestrino; voi non potete permettervi di negarmi quello che voglio, o farò sapere alle autorità dove si trova, in cambio di una ricompensa."*
+> *"Allora facciamo così: io vi do accesso al Vault — preferibilmente quando quei gentiluomini delle gilde non sono nei paraggi — e voi mi date una quota equa di quel che troviamo. Pensateci un attimo: nessuno dei due può permettersi di tradire l'altro. Io non posso farvi arrestare per furto senza che le autorità scoprano il Vault e me lo sequestrino. E voi non potete permettervi di negarmi quel che voglio, o sarò io a dire alle autorità dov'è — in cambio di una ricompensa. Siamo l'uno la garanzia dell'altro. Una base solida, per un affare."*
 
 **[NOTA DM — riservata]** Esvele è **la Vipera Nera** sotto mentite spoglie — non lo rivela qui, e cerca di mantenere il segreto il più a lungo possibile. Ha scoperto l'ingresso del Vault tramite la sua rete di spie (l'amicizia tra Lord Neverember e il vecchio proprietario della torre), ma non sa quali chiavi servano per aprirlo né cosa contenga davvero. Offre di aiutare il party a procurarsi le chiavi e insiste per accompagnarli alla prima incursione, sostenendo (correttamente) di sapersi badare da sola. Usa i thieves' tools per la porta sigillata della torre — non ha mai avuto bisogno di una chiave.
 
-**Se il party ha già incontrato Esvele alla Statua del Cacciatore di Dei (M2 Zentharim, se giocata prima in questa sessione o in precedenza):** vi riconosce immediatamente — *"Ci risiamo. Iniziate a sembrarmi una costante nella mia vita."* — il rapporto pregresso, se onesto e collaborativo, le dà motivo per fidarsi più in fretta e il tiro di Persuasione/Intuizione sotto ha vantaggio.
+**Se il party ha già incontrato Esvele alla Statua del Cacciatore di Dei (M2 Zentharim, se giocata prima in questa sessione o in precedenza):** il braccio di ferro del Beat 1 si accorcia parecchio — vi riconosce appena vi vede — *"Ci risiamo. Iniziate a sembrarmi una costante nella mia vita."* — congeda le gilde con più naturalezza e passa prima al Beat 2. Il rapporto pregresso, se onesto e collaborativo, le dà motivo per fidarsi più in fretta e il tiro di Persuasione/Intuizione sotto ha vantaggio.
 
 **Meccaniche:**
 - Convincere Esvele a rivelare più informazioni di quelle che offre spontaneamente: Persuasione CD 13.
