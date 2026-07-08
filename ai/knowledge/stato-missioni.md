@@ -68,7 +68,7 @@ Referente: **Davil Starsong**
 | # | Titolo | Livello | File Sorgente | File Wiki | Stato |
 |---|--------|---------|------|------------|-------|
 | 1 | Un Brutto Momento | 2 | `Zentharim_Missione1_un_brutto_momento.txt` | [📖 Leggi](../Missioni/Zentharim/M1-UnBruttoMomento.md) | `Completata` *(S5: omicidio sventato, drow Soluun Xibrindas fuggito; Krauser/Scintilla Zhentarim ufficiali)* |
-| 2 | Tieni il Resto | 3 | `Zentharim_Missione2_tieni_il_resto.txt` | [📖 Leggi](../Missioni/Zentharim/M2-TieniIlResto.md) | `Pianificata` *(S9: non recapitata, slitta a S10; S10: di nuovo non recapitata — il party si è fermato dopo le fognature — slitta a S11. Arco Oathbreaker Krauser già avvenuto in S9 senza questa missione; va giocata per il subplot Skeemo/Vosk/Esvele/Scintilla)* |
+| 2 | Tieni il Resto | 3 | `Zentharim_Missione2_tieni_il_resto.txt` | [📖 Leggi](../Missioni/Zentharim/M2-TieniIlResto.md) | `Pianificata` *(rinviata 4 volte S9-S12; ora **contenuto principale della finestra caccia-chiavi in S13** — vedi dm-notes-sessione-13. Subplot Skeemo/Vosk/Esvele/Rennis. **Adattamenti:** niente scena Oathbreaker (Krauser già Oathbreaker da S9); Esvele probabilmente già alleata da S12 → la scena diventa una rivelazione, non un primo incontro)* |
 | 3 | Corri, Dasher! | 4 | `Zentharim_Missione3_corri_dasher.txt` | [📖 Leggi](../Missioni/Zentharim/M3-CorriDasher.md) | `Pianificata` |
 | 4 | Sangue del Patto | 5 | `Zentharim_Missione4_sangue_del_patto.txt` | [📖 Leggi](../Missioni/Zentharim/M4-SangueDeiPatto.md) | `Pianificata` |
 
@@ -92,19 +92,16 @@ Referente: **Davil Starsong**
 | Sessione 5 *(giocata)* | Un Cavallo Donato | Arpisti | 2 |
 | Sessione 5 *(giocata)* | Il Carico del Fondatore | Force Grey | 2 |
 | Sessione 5 *(giocata)* | Un Brutto Momento | Zentharim | 2 |
-| Sessione 8 | Tieni il Resto | Zentharim | 3 |
 | Sessione 9 | Non è Tutto Oro... | Force Grey | 3 |
 | Sessione 9-10 | Disinfestazione | Arpisti | 3 |
-| **Chiusura Cap. 3** | **— Level up a Lv 4 (milestone, RAGGIUNTO seguendo la trama principale) —** | *M2 Zentharim ancora da giocare* | **4** |
-| Sessione 11-12 | Benvenuti in Famiglia | Arpisti | 4 |
-| Sessione 11-12 | Crimini di Pensiero | Force Grey | 4 |
-| Sessione 11-12 | Corri, Dasher! | Zentharim | 4 |
-| Sessione 13+ | Velo Alzato | Arpisti | 4 |
-| Sessione 13+ | Cose Terribili da Sprecare | Force Grey | 5 |
-| Sessione 13+ | Sangue del Patto | Zentharim | 5 |
+| **Chiusura Cap. 3** | **— Level up a Lv 4 (milestone, RAGGIUNTO seguendo la trama principale) —** | | **4** |
+| Sessione 11-12 | Old Tower / Esvele + **caccia alle tre chiavi** (avvio) | Trama principale (Cap. 4) | 4 |
+| **Sessione 13+ — FINESTRA CACCIA-CHIAVI (Lv 4)** | **Tieni il Resto (M2)** · Benvenuti in Famiglia (M3) · Crimini di Pensiero (M3, lunga) · Corri, Dasher! (M3) | Zhentarim / Arpisti / Force Grey | **4** |
+| **Vault of Dragons** *(S14 ideale)* | **— Chiusura Cap. 4 → Level up a Lv 5 (milestone) —** | Trama principale | **4→5** |
+| Dopo il Vault *(∥ Villa Cassalanter)* | Velo Alzato (M4) · Cose Terribili (M4) · Sangue del Patto (M4) | Arpisti / Force Grey / Zhentarim | 5 |
 
 *Questo ordine è indicativo. Adatta all'effettivo livello del party e alle sessioni giocate.*
 
-**Piano M2 (≤ Lv 4) — concordato dopo S6:** le tre M2 (Lv 3) vengono **interlacciate** durante il Cap. 3, non giocate in blocco. Ordine: **Zhentarim "Tieni il Resto" per prima** (~S8), perché innesca l'arco Oathbreaker di Krauser e il setup Z-M3.5; poi **Force Grey "Non è Tutto Oro"** (~S9, missione sociale); infine **Arpisti "Disinfestazione"** (~S9-10, più standalone — ottima come B-plot/filler). Con sessioni da ~2h, una sola M2 per sessione, eventualmente come filo serale accanto alla trama principale.
+**[AGGIORNAMENTO — cadenza missioni riallineata (durante prep S13)]** Le missioni fazione **M2/M3 in sospeso** (tutte Lv 3-4) vanno giocate **durante la finestra della caccia alle chiavi** (Lv 4, da S13), *prima* del Vault — la caccia richiede giorni di legwork in città ed è la cornice narrativa naturale per farle emergere. Le missioni ancora aperte in questa finestra: **Zhentarim M2 "Tieni il Resto"** (contenuto principale di S13, rinviata 4 volte), **Arpisti M3 "Benvenuti in Famiglia"**, **Force Grey M3 "Crimini di Pensiero"** (lunga, 3-5 sessioni — solo da avviare), **Zhentarim M3 "Corri, Dasher!"**. Il **Vault** (idealmente S14) chiude il Cap. 4 → **Lv 5**. Le **M4** (Lv 5) si giocano **dopo** il Vault, **in parallelo con Villa Cassalanter** (Cap. 6). Motivo del riallineamento: giocare le M2/M3 dopo il Vault le renderebbe sottolivello e slegate.
 
-**[AGGIORNAMENTO — party già al Lv 4]** Il party è salito a **Lv 4 seguendo la trama principale alla chiusura del Cap. 3**, senza attendere il completamento di tutte e tre le M2. Force Grey M2 e Arpisti M2 sono state giocate (S9); **Zhentarim M2 "Tieni il Resto" resta ancora da giocare** ma è ora **scollegata dal level up** — va chiusa come filo narrativo (subplot Skeemo/Vosk/Esvele/Rennis), non più come prerequisito di livello. Prossimo scatto: **Lv 5 alla chiusura del Cap. 4** (apertura del Vault of Dragons).
+**Piano M2 (≤ Lv 4) — concordato dopo S6:** le tre M2 (Lv 3) sono state **interlacciate** durante il Cap. 3. Force Grey M2 e Arpisti M2 sono state giocate (S9); **Zhentarim M2 "Tieni il Resto"** — rinviata 4 volte — è ora **scollegata dal level up** (l'arco Oathbreaker di Krauser è già avvenuto in S9 senza di essa) e va chiusa come filo narrativo nella finestra caccia-chiavi di S13.
