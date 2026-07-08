@@ -11,9 +11,10 @@
 - **Villain/Stagione:** Cassalanters (Estate)
 - **Livello di partenza:** 1
 - **Party:** 5 giocatori fissi + Silvia (PG ospite, presente raramente — max 6 giocatori)
-- **Stato:** In corso — Cap. 4 aperto (S8: caccia al nimblewright → Stone of Golorr)
+- **Stato:** In corso — Cap. 4 (caccia allo Stone of Golorr → Vault of Dragons; S12: caccia alle tre chiavi)
 - **Durata Media Sessioni:** 2 Ore
 - **Capitolo corrente:** 4
+- **Livello party:** 4 *(raggiunto alla chiusura del Cap. 3; prossimo Lv 5 alla chiusura del Cap. 4)*
 
 ---
 
@@ -60,6 +61,39 @@ Gabri | **Friedrich Krauser** | Umano Paladino (arco verso **Oathbreaker**) | Ze
 **Victoro e Ammalia Cassalanter** — nobili stimati di Waterdeep, adoratori segreti di Asmodeo. Anni fa hanno venduto le anime dei loro tre figli al Diavolo in cambio di potere e ricchezza. Il contratto scade entro l'estate: devono consegnare **99 anime innocenti** e **999 dragoni d'oro** per riscattarle. La loro villa nel Sea Ward nasconde un tempio segreto di Asmodeo. In pubblico sono irreprensibili. Non si sporcano mai le mani direttamente.
 
 **[NOTA DM]** I Cassalanters sono anche in caccia allo Stone of Golorr per ottenere i 999 dragoni dalla Vault of Dragons di Dagult Neverember. Questo li mette in competizione con Xanathar, Jarlaxle e Manshoon (anche se questi non compaiono come villain principali in questo arco).
+
+---
+
+## Road to Villa Cassalanter — Come e Quando (pianificazione)
+
+> **[NOTA DM — pianificazione strategica]** Sintesi dalla campagna principale (Dragon Heist.md, Cap. 6 "Hell of a Summer") su come e quando il party deve arrivare alla resa dei conti a Villa Cassalanter. Il capitolo della villa **non** si gioca ora: viene **dopo** il Vault of Dragons.
+
+### Quando (timing e livello)
+- **Sequenza:** Cap. 4 (Vault of Dragons, attuale, Lv 4) → level up a **Lv 5** alla chiusura del Cap. 4 → **Cap. 6 = Villa Cassalanter** (climax dell'arco estivo), giocato a **Lv 5**.
+- **Scadenza hard:** il **Giorno dei Fondatori** (Flamerule 1). I Cassalanter devono pagare ad Asmodeo, nello stesso momento e a mezzanotte, **sia i 999 dragoni d'oro** (dal Vault) **sia le 99 anime innocenti** (il banchetto avvelenato con Midnight Tears). La villa è il punto d'arrivo *contro il tempo*: il climax cade **su o poco prima del Giorno dei Fondatori**.
+- **La corsa all'oro è il fulcro:** chi apre il Vault per primo decide il ramo.
+  - Se **il party** tiene l'oro fuori dalle mani dei Cassalanter → i Cassalanter non possono completare il pagamento; ma i gemelli (Terenzio ed Elzerina) sono comunque condannati (anime forfeite 10 giorni dopo i Fondatori) *a meno che* il party non trovi un altro modo di salvarli. Movente per assaltare la villa.
+  - Se **i Cassalanter** ottengono l'oro (Victoro si finge Neverember e inganna Aurinax) → parte il "Giorno dei Dannati": il banchetto avvelenato. Il party deve infiltrarsi e sabotarlo (distruggere le Midnight Tears in area C22, interrompere il rituale nel tempio, impedire l'avvelenamento) **prima di mezzanotte**.
+
+### Come (il party ci arriva così)
+- **Movente investigativo:** il modulo dice che il party arriva alla villa se la caccia allo Stone/Vault "va in stallo" — l'ufficio di Victoro (area C6) contiene le sue informazioni sulla ricerca del Vault. Ma nel nostro caso i fili sono già fittissimi (sotto).
+- **Movente morale (il vero motore):** una volta collegati i Cassalanter al piano delle Midnight Tears del Giorno dei Fondatori, il party ha motivo di fermare la strage delle 99 anime **e** di salvare i due gemelli innocenti.
+- **Modi di entrare nella villa:**
+  1. **Festa del Giorno dei Fondatori** — Ammalia ospita un grande ricevimento; la villa è piena di ospiti mascherati: il party può mimetizzarsi. È lo scenario del climax ("Day of the Damned").
+  2. **Furtività** — irruzione (le guardie danno l'allarme → City Watch, arresto più che morte). I **gemelli**, se il party fa amicizia, aiutano a girare per la villa di nascosto.
+  3. **Forza aperta** — sconsigliata: scontro diretto coi Cassalanter = sconfitta probabile o arresto per aggressione a nobili.
+
+### Ganci già seminati in questa campagna (usarli per condurre alla villa)
+- **Razak / presagio di Hlam:** *"sangue innocente sarà versato nel Giorno dei Fondatori"* = il banchetto avvelenato. **È il climax personale di Razak** — il motivo per cui è a Waterdeep.
+- **Force Grey M1:** carico di Midnight Tears + lista Cassalanter — prima pista concreta verso il villain.
+- **Krauser / Asmodeo:** i Cassalanter sono un culto di Asmodeo; Krauser (Oathbreaker legato ad Asmodeo) può scoprire di servire lo stesso padrone — Asmodeo ha "due pedine sullo stesso scacchiere".
+- **Esvele Rosznar:** alla festa del Giorno dei Fondatori è presente **anche lei**, come Vipera Nera, per svaligiare i Cassalanter (canonico). L'alleanza stretta in S12 diventa una carta giocabile *dentro* la villa.
+- **Willifort Crowelle:** è il maggiordomo doppelganger dei Cassalanter (area C1). Se sopravvive alla S12, lo si ritrova qui.
+- **Vault gold + promessa a Laeral:** se il party promette a Laeral di restituire l'oro alla città (chiave S12), tenere l'oro lontano dai Cassalanter diventa doppiamente vincolante.
+- **Ragazza del Mausoleo / Arn & Seffia / Gralhund:** tutti cultisti/agenti Cassalanter già incrociati — la rete di indizi che porta il nome "Cassalanter" al centro.
+
+### In una frase
+Il party arriva a Villa Cassalanter **a Lv 5, subito dopo il Vault of Dragons, con la scadenza del Giorno dei Fondatori come conto alla rovescia**, spinto dal bisogno di fermare la strage delle Midnight Tears (presagio di Hlam) e salvare i gemelli — entrando alla festa, di nascosto, o entrambe le cose.
 
 ---
 

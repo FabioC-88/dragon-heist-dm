@@ -4,8 +4,8 @@
 
 ## Stato generale
 
-- **Livello attuale:** 3
-- **Sistema XP:** Milestone — Lv 3 raggiunto alla chiusura del Cap. 2; prossimo level up alla chiusura del Cap. 3
+- **Livello attuale:** 4
+- **Sistema XP:** Milestone — Lv 3 raggiunto alla chiusura del Cap. 2; **Lv 4 raggiunto alla chiusura del Cap. 3** (seguendo la trama principale); prossimo level up (Lv 5) previsto alla chiusura del Cap. 4 (apertura del Vault of Dragons)
 - **Ultima sessione:** Sessione 10 (Converted Windmill esplorato, Arn Xalrondar + Seffia Naelryke sconfitti, Stone of Golorr conteso con i diavoli/Willifort Crowelle e recuperato nelle fognature dopo l'inseguimento; M2 Zentharim ancora non recapitata)
 - **Sede base:** Trollskull Manor, Trollskull Alley — **ristrutturazione completata, locanda aperta al pubblico**
 - **Bottino di party recente (S6):** 5 gemme da 100 mo (500 mo totali) sottratte dal cadavere di Dalakhar alla scena della Fireball
@@ -26,7 +26,7 @@
 
 | | |
 |--|--|
-| **Livello** | 3 |
+| **Livello** | 4 |
 | **PF attuali** | — |
 | **Condizioni** | — |
 
@@ -71,7 +71,7 @@ Il mentore **Brottor Deepdelver** è scomparso durante un'indagine su un caso cl
 
 | | |
 |--|--|
-| **Livello** | 3 |
+| **Livello** | 4 |
 | **PF attuali** | — |
 | **Condizioni** | — |
 
@@ -111,7 +111,7 @@ Ha ricevuto dal monaco **Hlam** sul Monte Waterdeep una pergamena sigillata con 
 
 | | |
 |--|--|
-| **Livello** | 3 |
+| **Livello** | 4 |
 | **PF attuali** | — |
 | **Condizioni** | — |
 
@@ -160,7 +160,7 @@ Ha ricevuto dal monaco **Hlam** sul Monte Waterdeep una pergamena sigillata con 
 
 | | |
 |--|--|
-| **Livello** | 3 |
+| **Livello** | 4 |
 | **PF attuali** | — |
 | **Condizioni** | — |
 | **Armorer Unlock** | L3 |
@@ -205,7 +205,7 @@ Volothamp "Volo" Geddarm l'ha contattata in officina e l'ha invitata al Portale 
 
 | | |
 |--|--|
-| **Livello** | 3 |
+| **Livello** | 4 |
 | **PF attuali** | — |
 | **Condizioni** | — |
 | **Voto Paladino** | ~~Attivo~~ **ROTTO IN S9 — OATHBREAKER** · Channel Divinity attivi: Controllare Non Morti + Aspetto Tremendo |
@@ -252,7 +252,7 @@ Ha incontrato **Aldric** al Portale Spalancato poco dopo il suo arrivo. Aldric �
 
 | | |
 |--|--|
-| **Livello** | 3 |
+| **Livello** | 4 |
 | **Condizioni** | — |
 
 #### Gancio personale principale
