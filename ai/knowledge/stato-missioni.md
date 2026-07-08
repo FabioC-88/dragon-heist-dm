@@ -95,7 +95,7 @@ Referente: **Davil Starsong**
 | Sessione 8 | Tieni il Resto | Zentharim | 3 |
 | Sessione 9 | Non è Tutto Oro... | Force Grey | 3 |
 | Sessione 9-10 | Disinfestazione | Arpisti | 3 |
-| **Chiusura Cap. 3** | **— Level up a Lv 4 (milestone) —** | *dopo le tre M2* | **4** |
+| **Chiusura Cap. 3** | **— Level up a Lv 4 (milestone, RAGGIUNTO seguendo la trama principale) —** | *M2 Zentharim ancora da giocare* | **4** |
 | Sessione 11-12 | Benvenuti in Famiglia | Arpisti | 4 |
 | Sessione 11-12 | Crimini di Pensiero | Force Grey | 4 |
 | Sessione 11-12 | Corri, Dasher! | Zentharim | 4 |
@@ -105,4 +105,6 @@ Referente: **Davil Starsong**
 
 *Questo ordine è indicativo. Adatta all'effettivo livello del party e alle sessioni giocate.*
 
-**Piano M2 (≤ Lv 4) — concordato dopo S6:** le tre M2 (Lv 3) vengono **interlacciate** durante il Cap. 3, non giocate in blocco. Ordine: **Zhentarim "Tieni il Resto" per prima** (~S8), perché innesca l'arco Oathbreaker di Krauser e il setup Z-M3.5; poi **Force Grey "Non è Tutto Oro"** (~S9, missione sociale); infine **Arpisti "Disinfestazione"** (~S9-10, più standalone — ottima come B-plot/filler). Il **Level up a Lv 4** scatta alla **chiusura del Cap. 3**, dopo che tutte e tre le M2 sono state giocate. Con sessioni da ~2h, una sola M2 per sessione, eventualmente come filo serale accanto alla trama Fireball.
+**Piano M2 (≤ Lv 4) — concordato dopo S6:** le tre M2 (Lv 3) vengono **interlacciate** durante il Cap. 3, non giocate in blocco. Ordine: **Zhentarim "Tieni il Resto" per prima** (~S8), perché innesca l'arco Oathbreaker di Krauser e il setup Z-M3.5; poi **Force Grey "Non è Tutto Oro"** (~S9, missione sociale); infine **Arpisti "Disinfestazione"** (~S9-10, più standalone — ottima come B-plot/filler). Con sessioni da ~2h, una sola M2 per sessione, eventualmente come filo serale accanto alla trama principale.
+
+**[AGGIORNAMENTO — party già al Lv 4]** Il party è salito a **Lv 4 seguendo la trama principale alla chiusura del Cap. 3**, senza attendere il completamento di tutte e tre le M2. Force Grey M2 e Arpisti M2 sono state giocate (S9); **Zhentarim M2 "Tieni il Resto" resta ancora da giocare** ma è ora **scollegata dal level up** — va chiusa come filo narrativo (subplot Skeemo/Vosk/Esvele/Rennis), non più come prerequisito di livello. Prossimo scatto: **Lv 5 alla chiusura del Cap. 4** (apertura del Vault of Dragons).
