@@ -11,7 +11,7 @@
 - **Villain/Stagione:** Cassalanters (Estate)
 - **Livello di partenza:** 1
 - **Party:** 5 giocatori fissi + Silvia (PG ospite, presente raramente — max 6 giocatori)
-- **Stato:** In corso — Cap. 4 (caccia allo Stone of Golorr → Vault of Dragons; S12: caccia alle tre chiavi)
+- **Stato:** In corso — Cap. 4 (caccia allo Stone of Golorr → Vault of Dragons). S12: Old Tower/Esvele + avvio caccia alle tre chiavi. **S13: finestra caccia-chiavi (Lv 4)** — si giocano le missioni fazione M2/M3 in sospeso (Zent M2 principale) prima del Vault. **Vault → S14** (chiude Cap. 4 → Lv 5). Le M4 e Villa Cassalanter vengono dopo, in parallelo.
 - **Durata Media Sessioni:** 2 Ore
 - **Capitolo corrente:** 4
 - **Livello party:** 4 *(raggiunto alla chiusura del Cap. 3; prossimo Lv 5 alla chiusura del Cap. 4)*
@@ -70,6 +70,7 @@ Gabri | **Friedrich Krauser** | Umano Paladino (arco verso **Oathbreaker**) | Ze
 
 ### Quando (timing e livello)
 - **Sequenza:** Cap. 4 (Vault of Dragons, attuale, Lv 4) → level up a **Lv 5** alla chiusura del Cap. 4 → **Cap. 6 = Villa Cassalanter** (climax dell'arco estivo), giocato a **Lv 5**.
+- **Cadenza missioni fazione (riallineata durante prep S13):** le **M2/M3 in sospeso** (Lv 3-4) si giocano **durante la finestra della caccia alle chiavi** (Lv 4, da S13), *prima* del Vault — la caccia dà giorni di legwork in città, cornice ideale. Missioni della finestra: Zhentarim M2 "Tieni il Resto" (principale), Arpisti M3, Force Grey M3 (lunga), Zhentarim M3. Il **Vault** (S14) chiude il Cap. 4 → Lv 5. Le **M4** (Lv 5) vengono **dopo** il Vault, **in parallelo con Villa Cassalanter**. Motivo: giocare le M2/M3 dopo il Vault le renderebbe sottolivello e slegate.
 - **Scadenza hard:** il **Giorno dei Fondatori** (Flamerule 1). I Cassalanter devono pagare ad Asmodeo, nello stesso momento e a mezzanotte, **sia i 999 dragoni d'oro** (dal Vault) **sia le 99 anime innocenti** (il banchetto avvelenato con Midnight Tears). La villa è il punto d'arrivo *contro il tempo*: il climax cade **su o poco prima del Giorno dei Fondatori**.
 - **La corsa all'oro è il fulcro:** chi apre il Vault per primo decide il ramo.
   - Se **il party** tiene l'oro fuori dalle mani dei Cassalanter → i Cassalanter non possono completare il pagamento; ma i gemelli (Terenzio ed Elzerina) sono comunque condannati (anime forfeite 10 giorni dopo i Fondatori) *a meno che* il party non trovi un altro modo di salvarli. Movente per assaltare la villa.
