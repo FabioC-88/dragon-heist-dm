@@ -2,8 +2,8 @@
 
 > **Fonte primaria:** Dragon Heist — "Vault Keys" (Le Tre Chiavi) · Encounter 7 "Old Tower" (Summer, carryover da S11) · `missioni-secondarie/zentharim/M2-TieniIlResto.md` (carryover da S11)
 > **Contesto:** Party Lv 3 · Cap. 4 · Il party è uscito dal Tribunale del Dock Ward, ha saputo da Golor (aboleth nello Stone of Golorr) che il Vault of Dragons si nasconde sotto una vecchia torre nel Sea Ward. Willifort Crowelle resta a piede libero. M2 Zentharim ("Tieni il Resto") rinviata per la terza volta.
-> **Obiettivo sessione:** Chiudere i fili sospesi lasciati aperti da S11 (Old Tower/Esvele Rosznar, M2 Zentharim) e avviare la caccia alle **Tre Chiavi** necessarie per aprire il Vault, sfruttando alleanze che il party ha già costruito in sessioni precedenti — Zelifarn, Nim il nimblewright, Embric e Avi.
-> **Durata stimata:** ~2h45m. Old Tower/Esvele è materiale quasi obbligatorio (chiude un thread aperto due volte). La caccia alle chiavi è il cuore pulsante della sessione — tre scene brevi, a bassa tensione, ciascuna con un sapore diverso. M2 Zentharim resta surplus, da giocare se resta tempo.
+> **Obiettivo sessione:** Chiudere il filo di Old Tower/Esvele Rosznar (carryover S11) e avviare la caccia alle **Tre Chiavi** del Vault — tre chiavi da tre colonne diverse della tabella "Vault Keys", tutte difficili da procurare: la scaglia di Zelifarn (alleato), un occhio di beholderkin (territorio Xanathar) e il dono di Laeral Silverhand (accesso politico + prezzo morale). La caccia trascina il party in rotta di collisione con i Cassalanter, che tendono un agguato per riprendersi lo Stone (scontro 2D, guidato da Willifort Crowelle).
+> **Durata stimata:** ~2h45m–3h. Old Tower/Esvele apre la sessione. La caccia alle chiavi è il corpo centrale, con un set-piece di combattimento (l'agguato Cassalanter). Realisticamente il party chiude una o due chiavi e avvia la terza — l'apertura del Vault slitta a S13. M2 Zentharim resta surplus, da giocare solo se avanza tempo.
 
 ---
 
@@ -15,7 +15,7 @@
 - **Assunzione di questa sessione:** i due contenuti "surplus" di S11 — l'incontro con Esvele Rosznar alla Vecchia Torre (Encounter 7 "Old Tower") e la M2 Zentharim "Tieni il Resto" — sono stati esplicitamente segnalati come rinviabili senza perdita narrativa. Questa sessione **12** parte dal presupposto che **non siano ancora stati giocati**. Se il tuo tavolo li ha invece completati in S11, salta direttamente alla FASE 2 (Caccia alle Tre Chiavi) — è il cuore di questa sessione e resta valido in ogni caso.
 - **Willifort Crowelle:** ancora a piede libero (salvo che il tuo tavolo l'abbia catturato o ucciso in S11). Non compare in questa sessione, ma resta un thread aperto per Cap. 5/6.
 - **Stone of Golorr:** portato da Aelar. Golor tace di nuovo — l'aboleth ha detto ciò che doveva dire; non menziona ancora Aurinax né il drago.
-- **M2 Zentharim:** non recapitata per la terza volta consecutiva (S9, S10, S11). Se il tuo tavolo ha tempo e voglia di chiuderla, è FASE 4 di questa sessione.
+- **M2 Zentharim:** non recapitata per la terza volta consecutiva (S9, S10, S11). Se il tuo tavolo ha tempo e voglia di chiuderla, è FASE 3 (surplus) di questa sessione — ma con l'aggiunta dello scontro 2D è più probabile che slitti a S13.
 
 ---
 
@@ -100,30 +100,40 @@ Esvele conduce il party alla stanza O5 della torre — un locale vuoto un tempo 
 
 **[NOTA DM — riservata]** Questo è il momento in cui Golor mantiene la seconda metà della promessa fatta in S10-S11: la posizione l'aveva già data, ma i dettagli sulle chiavi "si sarebbero sbloccati sul posto". Eccolo. Il canale è il portatore attuale (Aelar), ma la visione è psichica e interna — Aelar decide se e quanto condividerne i dettagli con Esvele (vedi nota sotto).
 
-> *Davanti all'iscrizione, la pietra che Aelar porta con sé si desta un'ultima volta. Golor non parla con parole, ma con tre immagini che si depositano nella mente come sedimento. Una **scaglia di drago**, che riverbera di riflessi bronzei. Una **creatura senz'anima** che si muove come fosse viva — un costrutto d'ingranaggi e volontà altrui. E un **martello da guerra**, la cui testa luccica di un lucore argenteo che l'acciaio comune non conosce.*
+> *Davanti all'iscrizione, la pietra che Aelar porta con sé si desta un'ultima volta. Golor non parla con parole, ma con tre immagini che si depositano nella mente come sedimento. Una **scaglia di drago**, che riverbera di riflessi bronzei. Un **occhio solitario** in cima a un peduncolo che si contorce nel buio — non un occhio umano, ma quello, freddo e antico, di una creatura aberrante. E infine, più sfuggente delle altre, un **dono posto in una mano coronata** — l'immagine di un regalo offerto da chi porta una corona, il cui significato vi resta oscuro.*
 
 *[Aggiunta atmosferica]:*
-> *"Le tre chiavi," sussurra la sensazione, prima di dissolversi. "Portatele qui, e ciò che è sigillato si aprirà."*
+> *"Le tre chiavi," sussurra la sensazione, prima di dissolversi. "Dove trovarle, la pietra non lo dice. Quello dovrete scoprirlo voi."*
 
-**[NOTA DM — riservata]** Ecco le tre chiavi che il Vault richiede in questa campagna: **scaglia di drago di bronzo**, **costrutto animato**, **martello da guerra argentato** (vedi tabella "Vault Keys" del modulo). Da qui in avanti il "servono tre chiavi" non è più un concetto astratto: è una lista precisa e un ostacolo fisico — le porte non cedono a forza, magia o inganno. Non aprire le porte in questa sessione: è il gancio perfetto per la FASE 2 e il cliffhanger di chiusura (vedi FASE 4).
+**[NOTA DM — riservata]** Ecco le tre chiavi che il Vault richiede in questa campagna — una per ciascuna colonna della tabella "Vault Keys" del modulo, scelte apposta perché **difficili da procurare** e capaci di portare il party in rotta di collisione con le fazioni della città:
+
+| Chiave | Colonna | Cosa comporta procurarla |
+|--------|---------|--------------------------|
+| **Scaglia di drago di bronzo** | 2ª | Negoziare con Zelifarn (alleato, ma esige la sua quota) |
+| **Occhio di beholderkin** *(eyestalk)* | 1ª | Territorio della Gilda di Xanathar — nessun modo pulito |
+| **Dono di una regina** | 3ª | Un'udienza con Laeral Silverhand, l'Open Lord — e un prezzo morale |
+
+Golor rivela **cosa** servono, non **dove** trovarle: la localizzazione è un lavoro d'indagine (vedi FASE 2), e ogni ricerca rischia di attirare l'attenzione dei Cassalanter. Da qui in avanti il "servono tre chiavi" non è più un concetto astratto: è una lista precisa e un ostacolo difficile. Non aprire le porte in questa sessione — è materiale per S13.
 
 **[NOTA DM — riservata]** **Esvele e la pietra:** se Aelar riceve la visione apertamente (occhi che si velano, un istante di trance), Esvele lo nota — è troppo acuta per non farlo. Non commenta, ma archivia l'informazione: il party possiede un artefatto che "sa" cose. Decidi se lasciare che questo diventi un seme (Esvele curiosa dello Stone of Golorr) o se Aelar riesce a mascherare il momento (Inganno CD 13).
 
 ---
 
-## FASE 2: LA CACCIA ALLE TRE CHIAVI (~70–90 min)
+## FASE 2: LA CACCIA ALLE TRE CHIAVI (~90–110 min)
 
-**[NOTA DM — riservata]** Le porte del Vault richiedono tre chiavi specifiche (vedi tabella "Vault Keys" del modulo). Piuttosto che tirare a caso o inventare da zero, questa sessione sfrutta tre alleanze che il party ha già costruito in sessioni precedenti — la caccia diventa un momento di raccolta dei frutti seminati, non un fetch quest generico:
+**[NOTA DM — riservata]** Le tre chiavi rivelate da Golor appartengono a **tre colonne diverse** della tabella "Vault Keys" e sono state scelte perché **nessuna è facile da procurare**: ognuna trascina il party nel raggio d'azione di una fazione della città. Golor ha detto *cosa* servono, non *dove* stanno — trovare ciascuna richiede legwork.
 
-| Chiave | Fonte | Alleato già stabilito |
-|--------|-------|----------------------|
-| **Scaglia di drago di bronzo** | Zelifarn | Alleato dal Force Grey M2 (S9) |
-| **Costrutto animato** | Nim, il nimblewright | Tempio di Gond, Valetta (S7) |
-| **Martello da guerra argentato** | Fabbricazione | Embric & Avi, Vapore e Acciaio (Trollskull Alley) |
+| Chiave | Colonna | Dove porta | Difficoltà |
+|--------|---------|-----------|-----------|
+| **Scaglia di drago di bronzo** | 2ª | Zelifarn, nel relitto in porto | Media — alleato, ma vuole la sua quota |
+| **Occhio di beholderkin** *(eyestalk)* | 1ª | Gilda di Xanathar (Old Xoblob / un gazer) | Alta — nessuna via pulita |
+| **Dono di una regina** | 3ª | Laeral Silverhand, l'Open Lord | Alta — accesso politico + prezzo morale |
 
-*(Nota regole: nel modulo le tre chiavi si scelgono liberamente — "chosen by you" — o si tirano una per colonna sulla tabella. Non serve che appartengano a colonne diverse: queste tre sono selezionate apposta perché il party ha già un aggancio a ciascuna. Sia la scaglia di drago di bronzo sia il costrutto animato — Nim — sono peraltro esplicitamente suggeriti dal modulo come chiavi ottenibili tramite Zelifarn e Valetta.)*
+**Localizzare una chiave** (per chi non ha già un aggancio diretto): 1 giornata e 5 mo di ricerche + prova di Indagare CD 15. Se la prova **fallisce di 5 o più**, i Cassalanter — villain principale, anch'essi a caccia del Vault — fiutano il movimento e mandano un plotone di sicari (vedi **2D: L'Agguato dei Cassalanter**, che puoi comunque far scattare nel momento narrativamente più teso, a prescindere dai tiri).
 
-Il party può visitare le tre scene in qualsiasi ordine. Ognuna è pensata per durare 20–25 minuti e avere un tono narrativo diverso: la prima ha un prezzo da negoziare, la seconda è calda e nostalgica, la terza è quasi comica e a costo zero.
+Le tre scene chiave (2A, 2B, 2C) possono essere affrontate in qualsiasi ordine; l'agguato (**2D**) è il set-piece di combattimento della sessione e va incastrato quando il party è più esposto.
+
+**[NOTA DM — riservata]** **Realismo di tempo:** procurarsi tutte e tre le chiavi in una sola sessione è improbabile — ed è voluto. Punta a chiuderne una o due e ad avviare la terza; l'apertura del Vault slitta a S13. Se il tavolo corre, la FASE 4 (cliffhanger) resta comunque disponibile.
 
 ### 2A — La Scaglia di Zelifarn (Deepwater Harbor)
 
@@ -145,47 +155,99 @@ Il party può visitare le tre scene in qualsiasi ordine. Ognuna è pensata per d
 
 ---
 
-### 2B — Nim, il Nimblewright in Prestito (Tempio di Gond)
+### 2B — L'Occhio di Beholderkin (territorio Gilda di Xanathar)
 
-> *Il Tempio di Gond profuma ancora di metallo caldo e olio per ingranaggi, lo stesso odore che vi accolse mesi fa quando cercavate il Nimblewright Detector. Valetta, la sacerdotessa dragonide di bronzo, vi riconosce dall'ingresso e vi accoglie con un cenno cordiale — non ha dimenticato chi ha ripulito il pasticcio del laboratorio di Nim.*
+**[NOTA DM — riservata]** Questa è la chiave più sporca. L'occhio non deve venire per forza da un beholder vero: va bene l'eyestalk di un **gazer** (beholderkin minore) — e il party ne ha già ucciso uno in Arpisti M2 (S9), quindi sa cosa sono. Due piste realistiche, entrambe nel territorio della Gilda di Xanathar:
+> - **Old Xoblob Shop (Dock Ward):** il vecchio gnomo Xoblob (incontrato in S1, amichevole) tiene appeso in vetrina un **beholder impagliato**. Un eyestalk secco funziona lo stesso. **La trappola:** il negozio nasconde un sensore-occhio della Gilda di Xanathar — Xoblob stesso non lo sa. Manomettere o comprare il trofeo mette il party sul radar di Xanathar.
+> - **Cacciare un gazer:** i gazer infestano fogne e nascondigli Xanathar del Dock Ward. Trovarne uno è un lavoro d'indagine (Indagare CD 15) seguito da un piccolo scontro.
 
-**Valetta:**
-> *"Tornate per il Detector? O per qualcos'altro?"*
+> *La facciata viola del negozio di Old Xoblob non è cambiata di una sfumatura dall'ultima volta. Dentro, la solita nube di fumo alla lavanda e gli scaffali di cianfrusaglie tinte di porpora — e, appeso al soffitto come sempre, il beholder impagliato, i suoi peduncoli oculari immobili nella polvere. Old Xoblob solleva la pipa in segno di saluto: "Toh, di nuovo voi. Ancora a caccia di risposte scomode?"*
 
-Quando il party spiega di aver bisogno di un costrutto per aprire un caveau antico, Valetta chiama Nim — il nimblewright timido e solitario che il party aveva già incontrato qui al Tempio di Gond (S7), quando ammise di aver costruito il nimblewright poi fuggito.
+**[NOTA DM — riservata]** Xoblob è disposto a **vendere** un eyestalk del beholder impagliato (100–150 mo, contrattabile con Persuasione CD 13) o a farsene convincere. Ma nel momento in cui l'occhio vero — il sensore Xanathar — "vede" il party staccare un peduncolo dal trofeo, la Gilda reagisce. Scegli il registro:
+> - **Reazione soft (consigliata se tieni un solo scontro grosso, cioè 2D):** nessuna aggressione immediata, ma da ora la Gilda di Xanathar sa che il party raccoglie parti di beholder — un seme che matura in un capitolo futuro.
+> - **Reazione dura:** mentre escono, **2 bugbear** e un **gazer** della Gilda gli tagliano la strada in un vicolo (statistiche sotto). Usala solo se NON giochi 2D nella stessa serata — due combattimenti pesanti sfondano il tempo.
 
-> *Nim si materializza dall'ombra di un corridoio laterale, i suoi arti d'orologeria che si muovono con una grazia innaturale. Vi osserva per un istante prima di parlare, la voce metallica ma stranamente esitante.*
+**[NOTA DM — riservata — spotlight Scintilla / Vorador]** L'anatomia di un occhio aberrante è pane per l'artefice (Scintilla) e per l'investigatore di crimini arcani (Vorador): entrambi possono spiegare perché un eyestalk, anche secco, conservi una traccia della magia del beholder — il dettaglio che lo rende una chiave "vera" per le porte del Vault. Arcano/Storia CD 12 per la chicca.
 
-**Nim:**
-> *"Voi. Quelli che... non hanno urlato, quando mi hanno visto. Valetta dice che avete bisogno di prendermi in prestito."*
-
-**Valetta** *(rivolta al party, con affetto quasi materno)*:
-> *"Nim può accompagnarvi finché vi serve — a patto che torni qui una volta chiuso l'affare. È l'unico della sua specie che conosco personalmente, e non ho intenzione di perderlo per un caveau nanico, per quanto dorato possa essere."*
-
-**[NOTA DM — riservata]** Nessun tiro necessario — Valetta e Nim sono già amichevoli verso il party (vedi rapporti.md). Nim accompagna il party come costrutto-chiave finché non ha più bisogno di essere presente al Vault, poi torna al Tempio. Se il party tratta Nim con gentilezza durante il viaggio, aggiungi una piccola nota in `png-incontrati.md` — la sua attitudine può salire da "Amichevole-timido" ad "Alleato".
-
-**[NOTA DM — riservata — spotlight Scintilla]** Come artefice, Scintilla può fare conversazione tecnica con Nim sul suo meccanismo interno — un piccolo momento di connessione artigiano-costrutto che richiama il suo background da inventrice. Nessuna meccanica necessaria: è puro colore, ma un buon momento per farla brillare.
+```
+Gazer — CA 13 | PF 13 (3d4+6) | Velocità 0 m, volo 9 m (fluttua)
+  Morso: +4, 1d4 perforante
+  Raggi oculari (2/turno): Tramortente (TS Cos CD 12 o stordito) · Paura (TS Sag CD 12)
+Bugbear — CA 16 | PF 27 (5d8+5) | Velocità 9 m
+  Mazza chiodata: +4, 2d8+2 contundente | Giavellotto a distanza: +4, 2d6+2
+  Assalto Brutale: +2d6 danni se coglie di sorpresa
+```
 
 ---
 
-### 2C — Il Martello da Guerra Argentato (Trollskull Alley)
+### 2C — Il Dono di una Regina (Laeral Silverhand, l'Open Lord)
 
-> *Vapore e Acciaio è a due porte dal manor — non serve nemmeno uscire dal vicolo. Il calore della forgia di Embric vi investe ancora prima di varcare la soglia; Avi è china su un'incudine, il vapore che sale a nuvole regolari a ogni immersione del metallo incandescente nell'acqua.*
+**[NOTA DM — riservata]** "Dono di una regina": Laeral Silverhand, oggi Open Lord di Waterdeep, fu secoli fa regina dell'antico regno di Stornanter. Un oggetto donato **da** lei conta come chiave. Lei possiede — e può regalare — una **penna d'oca** ricevuta in dono dall'arcimago Elminster in persona. Ma la concede a una sola condizione: che il party **prometta di restituire alla città l'oro sottratto** custodito nel Vault.
 
-**Embric** *(senza alzare lo sguardo dalla forgia)*:
-> *"Se siete qui per altre armi da bambini di legno, avete sbagliato negozio — quello è di Tally. Se siete qui per qualcosa che scotta davvero, siete nel posto giusto."*
+**Come arrivare a Laeral** (serve un intermediario di rango):
+> - **Aelar → Mirt il Cambiavalute** (Arpisti): la via maestra. Mirt ha accesso diretto all'Open Lord ed è già referente di Aelar. **Spotlight forte per Aelar.**
+> - **Vorador/Razak → Vajra Safahr** (Force Grey): il Bastone Nero può presentare il party a Laeral.
+> - **Renaer Neverember:** conosce le persone giuste e deve un favore al party.
+>
+> Con un mediatore di peso (Mirt o Vajra), l'udienza si ottiene; senza, serve un lavoro d'indagine e diversi giorni. Ricorda che il party deve prima capire *cosa* significhi "dono di una regina" — l'immagine di Golor è un enigma (Storia CD 20, o l'aiuto di Mirt/Vajra/Renaer, per collegare Laeral all'antica regina di Stornanter).
 
-Quando il party spiega di aver bisogno di un martello da guerra argentato per un antico meccanismo nanico, Avi solleva lo sguardo, visibilmente intrigata.
+> *La sala delle udienze private dell'Open Lord non ha il fasto che vi aspettavate. Laeral Silverhand vi riceve in piedi, senza guardie ostentate, con la calma di chi non ha bisogno di dimostrare il proprio potere perché lo È. Vi ascolta fino in fondo prima di parlare, e quando lo fa la sua voce è quieta come una lama riposta nel fodero.*
 
-**Avi:**
-> *"Argentato, dite? Abbiamo una barra d'argento buona in magazzino — ci vorranno un paio d'ore, non di più. Embric, tira fuori lo stampo grande."*
+**Laeral Silverhand** *(dopo aver ascoltato la richiesta)*:
+> *"Dunque avete trovato la cripta di Dagult. E le sue chiavi. Sapete cosa custodisce, immagino: oro che quell'uomo ha sottratto alla mia città, moneta dopo moneta, mentre sedeva sullo scranno che ora è mio. Vi darò ciò che vi serve — la penna che Elminster donò a me. Ma a una condizione che non è negoziabile: quell'oro torna a Waterdeep. Non nelle vostre tasche — e nemmeno in quelle della ladra con cui vi siete messi in affari. Alla città. Datemi la vostra parola, e la penna è vostra."*
 
-**[NOTA DM — riservata]** Nessun tiro richiesto — Embric e Avi sono vicini di casa amichevoli da S4, e la richiesta è nelle loro corde (fabbricano armi e armature metalliche di mestiere). Il martello richiede circa 2 ore di lavoro — tempo che il party può passare in una scena di decompressione al manor, oppure saltare con un'ellissi narrativa. Se preferite un costo simbolico, una barra d'argento (115 mo circa) o materiali equivalenti recuperati durante la campagna coprono la richiesta senza discussioni.
+**[NOTA DM — riservata]** La frase sulla "ladra" è un colpo calibrato: **Laeral sa già di Esvele Rosznar** (o di chiunque abbia stretto l'accordo sulla torre) senza che il party le abbia detto nulla — è una delle Sette Sorelle, la sua rete informativa è capillare. Giocalo come un momento che spiazza il party ("come fa a saperlo?") e stabilisce quanto è pericoloso mentirle. Esvele **non è presente** all'udienza: nessun ladro ricercato si presenterebbe davanti all'Open Lord.
 
-*[Aggiunta atmosferica]:*
-> *Mentre il martello prende forma sull'incudine, Avi intona un canto ritmico in un dialetto genasico che nessuno del party riconosce — non sembra rivolto a voi, ma al metallo stesso, come se lo stesse convincendo gentilmente a diventare quello che serve.*
+**[NOTA DM — riservata]** Questo è il **prezzo morale** della chiave, e pesa sul finale della campagna: il Vault contiene 500.000 mo. Se il party promette e poi tradisce, si fa un nemico dell'Open Lord (e degli Arpisti / Force Grey che l'hanno presentato). Se promette sinceramente, il rapporto con le fazioni lecite si consolida — ma addio bottino. **Non risolvere il dilemma per loro:** lascia che se lo giochino, ed Esvele (che vuole la sua quota) rema volentieri nella direzione opposta. L'udienza ha vantaggio se mediata da Mirt o Vajra; Laeral è più disponibile con chi professa culto di Bahamut o porta con sé un ufficiale della città.
 
-**[NOTA DM — riservata — spotlight Razak]** Il ritmo del martello sull'incudine, la disciplina quasi meditativa di Embric e Avi al lavoro, può essere un piccolo momento di quiete per Razak — un riflesso della disciplina monastica che porta con sé. Non serve una scena dedicata: basta un accenno del DM se il giocatore sembra ricettivo ("Il ritmo ti ricorda qualcosa del Monastero della Rosa Gialla — la stessa cadenza paziente di chi ha ripetuto lo stesso gesto diecimila volte").
+**[NOTA DM — riservata — spotlight Krauser]** Per un Oathbreaker che ha rinnegato la giustizia "con le porte sul retro" di Tyr, sentirsi chiedere la parola d'onore dall'autorità suprema di Waterdeep è un momento carico. Krauser può mantenere la promessa (una giustizia in cui, a modo suo, ancora crede) o mentirle in faccia con la freddezza del nuovo sé — entrambe le scelte dicono qualcosa. Ottimo beat per Gabri.
+
+---
+
+### 2D — L'Agguato dei Cassalanter (SCONTRO — set-piece della sessione)
+
+**[NOTA DM — riservata]** I Cassalanter hanno perso lo Stone of Golorr nelle fognature (S10-S11) e sanno che il party lo detiene e si muove verso il Vault. Mentre il party gira per la città a caccia di chiavi — esposto, lontano dal riparo del manor — mandano un plotone a riprendersi la pietra. **A guidarlo è Willifort Crowelle**, il valletto doppelganger sfuggito in S10-S11: è canonico (nel modulo Willifort guida gli sgherri Cassalanter al Vault) e chiude il filo lasciato aperto.
+
+**Trigger:** scegli il momento più teso — all'uscita da Old Xoblob, mentre attraversano un quartiere isolato tra un'ambasciata e l'altra, o su un tiro d'indagine fallito di 5+ (vedi intro FASE 2). Willifort punta ad **afferrare lo Stone of Golorr** (portato da Aelar), non a sterminare il party: combatte per il bottino e la fuga.
+
+> *La strada si svuota troppo in fretta. Un carretto rovesciato blocca un'estremità del vicolo; dall'altra, tre figure incappucciate avanzano senza fretta, e sopra di voi due corvi si staccano da un cornicione con un gracchio che non ha nulla di naturale. In mezzo alla strada, un volto che credevate di non rivedere così presto — o meglio, un volto che Willifort Crowelle ha deciso di indossare oggi.*
+
+**Willifort Crowelle** *(con la calma di chi crede di aver già vinto)*:
+> *"La pietra. Consegnatela, e questa resta una brutta serata invece dell'ultima. I miei padroni sono pazienti — io un po' meno."*
+
+**Composizione dell'agguato** (plotone canonico dei Cassalanter):
+- **Willifort Crowelle** — doppelganger (leader)
+- **2 imp** in forma di corvo
+- **3 cultisti** di Asmodeo
+- **1 fanatico del culto** *(oppure, per un fronte più infernale, sostituiscilo con 2 diavoli spinati)*
+
+```
+Willifort Crowelle (Doppelganger) — CA 14 | PF 52 (8d8+16) | Velocità 9 m
+  MULTIATTACCO: due colpi | Colpo: +6, 2d6+4 contundente
+  Attacco di Sorpresa: +3d6 se coglie impreparato un bersaglio nel 1° turno
+  Leggere nel Pensiero · Mutaforma (usa Cangiante per confondersi tra i cultisti)
+Imp — CA 13 | PF 10 (3d4+3) | Velocità 6 m, volo 12 m
+  Pungiglione (forma diavolo): +5, 1d4+3 + 3d6 veleno (TS Cos CD 11 dimezza)
+  Invisibilità a volontà · Resistenza magica · forma corvo/ratto/ragno
+Cultista — CA 12 | PF 9 (2d8) | Velocità 9 m
+  Scimitarra: +3, 1d6+1 tagliente
+Fanatico del Culto — CA 13 | PF 33 (6d8+6) | Velocità 9 m
+  MULTIATTACCO: due pugnali (+3, 1d4+1)
+  Incantesimi: comando, scudo della fede, arma spirituale, trattenere persone, infliggi ferite
+Diavolo Spinato (alternativa) — CA 13 | PF 22 (5d6+5) | Volo 12 m
+  Forcone: +3, 1d6+1 · Coda: +3, 1d8+1 · Spine di fuoco (a distanza): +3, 1d6+1 + 3 fuoco
+```
+
+**Bilanciamento (party Lv 3, 5-6 PG):** scontro **impegnativo/mortale**. Se il tavolo è piccolo o poco ottimizzato, togli 1 imp e 1 cultista. Willifort **non muore per vincere**: se ridotto a ~1/4 dei PF o smascherato pubblicamente, tenta la fuga usando Cangiante per confondersi tra i cultisti o la folla.
+
+**Esiti:**
+- **Willifort catturato/ucciso:** alla morte torna alla forma reale di doppelganger. Il filo aperto da S10 si chiude; un vero shapechanger morto sarebbe, tra l'altro, una chiave valida (5ª riga, 3ª colonna della tabella) se il party avesse voluto imboccare quella strada. I Cassalanter perdono il loro miglior agente sul campo.
+- **Willifort fugge di nuovo:** resta thread aperto per Cap. 5/6 (recuperabile a Villa Cassalanter).
+- **Willifort ottiene lo Stone:** lo consegna ai Cassalanter — colpo di scena pesante che rimette in gioco l'intera caccia. Usalo solo se il party gioca malissimo; è un finale amaro, non gratuito.
+
+**[NOTA DM — riservata — spotlight Razak & Krauser]** Doppio richiamo tematico in questo scontro:
+> - **Razak:** i **cultisti di Asmodeo** sono la mano operativa dei Cassalanter, gli stessi dietro alle Midnight Tears del Giorno dei Fondatori — il cuore del presagio di Hlam ("sangue innocente sarà versato"). Razak sta finalmente incrociando le lame con la minaccia che lo ha portato a Waterdeep, anche se non conosce ancora il nome dei mandanti.
+> - **Krauser:** c'è un'ironia tagliente nel far affrontare a un Oathbreaker legato ad Asmodeo un plotone di cultisti **di Asmodeo** che non sospettano di servire lo stesso principe. Non serve dirlo ad alta voce: il DM lo sa, e Gabri lo sente.
 
 ---
 
@@ -217,9 +279,9 @@ Quando il party spiega di aver bisogno di un martello da guerra argentato per un
 
 ## FASE 4 (OPZIONALE, CLIFFHANGER DI CHIUSURA, ~5–10 min)
 
-*[Gioca questa scena solo se le tre chiavi sono state raccolte E il party sceglie di tornare subito alla torre. Altrimenti, lascia le chiavi in tasca come setup per l'apertura di S13.]*
+*[Improbabile in questa sessione — le tre chiavi sono difficili da procurare tutte in una serata. Gioca questa scena solo se il party le ha davvero raccolte tutte e tre E sceglie di tornare subito alla torre. Altrimenti, le chiavi ottenute restano in tasca come setup per l'apertura di S13.]*
 
-Se il party torna alla Vecchia Torre con le tre chiavi (scaglia di Zelifarn, Nim, martello argentato) e le porta entro un metro e mezzo dalle porte del Vault:
+Se il party torna alla Vecchia Torre con le tre chiavi (scaglia di Zelifarn, occhio di beholderkin, dono di Laeral) e le porta entro un metro e mezzo dalle porte del Vault:
 
 > *Le porte di adamantio fremono. Un suono sordo, come pietra che respira, attraversa il corridoio mentre i battenti scivolano lentamente nelle pareti, senza che nessuno li tocchi. Oltre la soglia, buio — e un silenzio diverso da quello della scala. Non vuoto. In attesa.*
 
@@ -240,8 +302,10 @@ Esvele (se presente) trattiene il fiato accanto a voi — per la prima volta da 
 | Esvele Rosznar — La Vipera Nera | Tutto il party | Alleata (condizionale) | Accompagna il party alla prima incursione se l'accordo tiene |
 | Zelifarn — quota del 10% (o 5%) sul tesoro del Vault | Aelar, party | Attivo | Promessa da onorare quando il tesoro sarà diviso |
 | Zelifarn al festival Arpisti | Aelar | Aperto | Hook da S9, richiamato in FASE 2A — verificare se onorato |
-| Nim — da restituire al Tempio di Gond | Scintilla, party | Attivo | Prestito temporaneo; Valetta si aspetta il suo ritorno |
-| Willifort Crowelle — agente Cassalanter | Tutto il party | Aperto | A piede libero; possibile ritorno Cap. 5/6 |
+| Promessa a Laeral — restituire l'oro alla città | Tutto il party | Condizionale | Se il party ha ottenuto il dono; pesa sul finale (bottino vs. fazioni lecite) |
+| Gilda di Xanathar — il party raccoglie parti di beholder | Tutto il party | Seminato | Se giocata la reazione "soft" a Old Xoblob; matura in un capitolo futuro |
+| Willifort Crowelle — agente Cassalanter | Tutto il party | Aperto/Chiuso | Esito 2D: catturato/ucciso (filo chiuso) o fuggito di nuovo (Cap. 5/6) |
+| Cassalanter — primo contatto ostile diretto | Tutto il party | Attivo | Il party ha affrontato i loro sicari, ma non conosce ancora il nome del mandante |
 | Sigillo di Vosk (M2 Zentharim) | Krauser | Condizionale | Conferma (non più breaking point) se M2 giocata |
 | Firma di Rennis (M2 Zentharim) | Scintilla | Condizionale | Prima info concreta su Rennis, se M2 giocata |
 | Indizio Brottor Deepdelver — nome a margine nel registro dell'Ordine | Vorador | Seminato | Non ancora sviluppato — seme per una futura sessione dedicata |
@@ -259,10 +323,11 @@ Esvele (se presente) trattiene il fiato accanto a voi — per la prima volta da 
 ### Cosa è successo
 
 - [ ] Old Tower / Esvele Rosznar — incontrata, accordo raggiunto?
-- [ ] Percorso verso il Vault esplorato — porte V1 individuate
+- [ ] Percorso verso il Vault esplorato — porte V1 individuate + rivelazione chiavi di Golor
 - [ ] Chiave 1 — Scaglia di Zelifarn ottenuta (prezzo negoziato: ___%)
-- [ ] Chiave 2 — Nim preso in prestito da Valetta
-- [ ] Chiave 3 — Martello argentato forgiato da Embric & Avi
+- [ ] Chiave 2 — Occhio di beholderkin ottenuto (Old Xoblob / gazer) — Xanathar allertato? sì/no
+- [ ] Chiave 3 — Dono di Laeral ottenuto — promessa di restituire l'oro data? sì/no
+- [ ] Scontro 2D — Agguato Cassalanter: Willifort catturato / ucciso / fuggito / ha preso lo Stone
 - [ ] M2 Zentharim giocata / rinviata ancora a S13
 - [ ] Cliffhanger FASE 4 giocato (porte del Vault aperte) — sì/no
 
@@ -270,16 +335,20 @@ Esvele (se presente) trattiene il fiato accanto a voi — per la prima volta da 
 
 | Incontro | XP |
 |----------|----|
-| Old Tower / Esvele (nessun combattimento) | narrativo |
-| Caccia alle Tre Chiavi (nessun combattimento) | narrativo/milestone |
+| Old Tower / Esvele (sociale) | narrativo |
+| Caccia alle chiavi (Zelifarn, Old Xoblob, Laeral) | narrativo |
+| **Agguato Cassalanter 2D** (Willifort doppelganger 700 + 2 imp 400 + 3 cultisti 75 + fanatico 450) | ~1625 (grezzo) |
+| Scontro Xanathar 2B (se giocata reazione dura: 2 bugbear + gazer) | ~500 (grezzo) |
 | M2 Zentharim (se giocata) | narrativo/milestone |
-| **Nota** | Sessione quasi interamente investigativa/sociale — XP principalmente narrativo |
+| **Nota** | Milestone: il level up a Lv 4 resta legato alla chiusura del Cap. 3 (dopo M2 Zentharim), non ai singoli XP |
 
 ### Aggiornamento PNG
 
 - **Esvele Rosznar** → aggiungere/aggiornare in png-incontrati.md con l'esito dell'accordo
 - **Zelifarn** → aggiornare con la quota concordata sul tesoro del Vault
-- **Nim** → aggiornare attitudine se il party lo ha trattato con cura
+- **Laeral Silverhand** → se incontrata, spostare a "Conoscenti Diretti"; registrare la promessa sull'oro
+- **Old Xoblob** → nota se il party ha preso l'eyestalk (e se Xanathar è stato allertato)
+- **Willifort Crowelle** → aggiornare stato (catturato/ucciso/fuggito di nuovo/ha lo Stone)
 - **Skeemo Weirdbottle** → aggiornare se M2 Zentharim giocata
 
 ### Missioni
@@ -293,7 +362,7 @@ Esvele (se presente) trattiene il fiato accanto a voi — per la prima volta da 
 
 - [ ] `ai/knowledge/recaps/recap-sessione-12.md` — compilare dopo la sessione
 - [ ] `ai/knowledge/party.md` — aggiornare XP; level up a Lv 4 se milestone raggiunta; annotare le tre chiavi ottenute
-- [ ] `ai/knowledge/png-incontrati.md` — aggiungere/aggiornare Esvele, Zelifarn (quota), Nim, Skeemo (se M2 giocata)
+- [ ] `ai/knowledge/png-incontrati.md` — aggiungere/aggiornare Esvele, Zelifarn (quota), Laeral, Old Xoblob, Willifort, Skeemo (se M2 giocata)
 - [ ] `ai/knowledge/stato-missioni.md` — M2 Zentharim: aggiornare stato
 - [ ] `ai/knowledge/rapporti.md` — aggiornare se M2 Zentharim giocata (Krauser/Vosk; Scintilla/Rennis); aggiornare rapporto con Esvele e Zelifarn
 - [ ] `campagna/luoghi-visitati/` — creare/aggiornare voce per la Vecchia Torre (Sea Ward) e il Vault of Dragons (ingresso)
