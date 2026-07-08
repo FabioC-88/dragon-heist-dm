@@ -13,7 +13,7 @@
 
 - **Assunzione base di questa sessione:** in S12 il party ha ottenuto **tutte e tre le chiavi**, ha stretto (o mantenuto) l'accordo con **Esvele Rosznar**, ed è tornato alla Vecchia Torre nel Sea Ward. Al termine di S12 (FASE 4) le porte d'adamantio si sono aperte sul buio. **Questa sessione parte da lì**, con il party sulla soglia del Vault.
 - **Se manca ancora una chiave:** apri S13 chiudendo quella pista (vedi FASE 2A/2B/2C di dm-notes-12 — Zelifarn, Old Xoblob/gazer, o l'udienza con Laeral) come scena breve d'apertura, poi torna alla torre. Non dilatarla: il cuore di S13 è dentro il Vault.
-- **Se l'agguato Cassalanter (scontro 2D) NON è stato giocato in S12:** perfetto — diventa la scena **"Uscire dal Vault"** (FASE 4 di questa sessione), esattamente dove il modulo la colloca. Willifort Crowelle guida gli sgherri all'uscita del caveau. Vedi FASE 4 per lo stat block completo.
+- **Se l'agguato Cassalanter (scontro 2D) NON è stato giocato in S12:** perfetto — diventa la scena **"Uscire dal Vault"** (FASE 4 di questa sessione), esattamente dove il modulo la colloca. Willifort Crowelle guida gli sgherri all'uscita del caveau. Vedi FASE 4 per lo stat block completo. *(Nota: i Cassalanter non conoscono la posizione del Vault — solo lo Stone la rivela, e ce l'ha il party. Il loro vantaggio è il **pedinamento** del party, non la conoscenza del caveau: vedi la NOTA DM in FASE 4.)*
 - **Se l'agguato 2D È già stato giocato in S12** (Willifort catturato/ucciso/fuggito): la forza ostile all'uscita è più leggera o assente (vedi FASE 4, variante "agguato già consumato"). Se Willifort è **morto** in S12, un doppelganger morto è di per sé una chiave valida — nota di colore, non ci serve.
 - **Stone of Golorr:** portato da Aelar. Golor tace: ha già detto tutto (posizione + tre chiavi in S10-S12). Non menziona ancora Aurinax né il drago — quel nome il party lo scoprirà **qui**, di persona.
 - **M2 Zentharim "Tieni il Resto":** rinviata quattro volte (S9-S12). Resta **surplus** — giocala solo se avanza tempo o come apertura di S14. Non forzarla dentro una sessione già piena.
@@ -257,7 +257,14 @@ AURINAX — Drago d'Oro Adulto — GS 17 (18.000 XP)
 
 ### Variante 1 — L'agguato 2D NON è stato giocato in S12 (scontro pieno)
 
-I Cassalanter hanno perso lo Stone e sanno che il party si muove verso il Vault. Mentre il party emerge dal caveau, colpiscono. **Willifort punta ad afferrare lo Stone of Golorr** (portato da Aelar) e, se possibile, l'oro — non a sterminare il party.
+I Cassalanter hanno perso lo Stone e seguono il party fino alla Vecchia Torre. Mentre il party emerge dal caveau, colpiscono. **Willifort punta ad afferrare lo Stone of Golorr** (portato da Aelar) e, se possibile, l'oro — non a sterminare il party.
+
+**[NOTA DM — riservata — come fanno i Cassalanter a essere qui]** Chiarimento importante di logica narrativa, se il tavolo (giustamente) se lo chiede: **i Cassalanter NON sanno dove si trovi il Vault.** Solo lo *Stone of Golorr* ne rivela la posizione, e la pietra ce l'ha il party dalla S10 (i Cassalanter l'hanno *persa* proprio allora). Non localizzano il caveau: **pedinano il party.** Hanno gli strumenti giusti per farlo:
+> - **Willifort Crowelle** — doppelganger, è sulle tracce della pietra *di persona* fin dalla S10 (era lui a riceverla dai diavoli nella carrozza, prima che i ragazzini di strada gliela sottraessero). Sa che ce l'ha il party.
+> - **Imp invisibili in forma di corvo** — spie di Lady Cassalanter, capaci di seguire il party senza farsi notare (i due "corvi" dell'agguato sono proprio loro).
+> - La **rete di cultisti e informatori** della casata, e la sua portata di banchieri (sanno gli affari di mezza città).
+>
+> **La scia è la caccia alle chiavi di S12:** negoziare con Zelifarn in porto, comprare l'occhio da Old Xoblob, chiedere un'udienza all'Open Lord — tutto vistoso, pubblico, impossibile da nascondere (dm-notes-12 già segnala che la caccia «rischia di attirare l'attenzione dei Cassalanter»). I Cassalanter risalgono così alla Vecchia Torre e **aspettano l'uscita**, quando il party è carico d'oro e provato da Aurinax — il momento peggiore per essere aggrediti, il migliore per loro. In sintesi: non è il tesoro che hanno trovato, è il party che ha fatto il lavoro per loro.
 
 **Posizionamento:** se le porte del Vault sono state **lasciate aperte**, i nemici aggrediscono dentro **V2** (il foyer coi ponti fatiscenti — pericolo ambientale!); se il party ha **richiuso** le porte (parola "Azaam" appresa da Aurinax), i nemici li aspettano **fuori**, in cima alla scala della torre.
 
