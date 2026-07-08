@@ -48,17 +48,22 @@
 
 **Obiettivo della fase:** trasformare mesi di indizi sparsi nel nome **Cassalanter**, e capire *cosa* sta per succedere al Giorno dei Fondatori. È una fase di dialogo, deduzione e legwork. Ogni PG ha un filo in mano.
 
-### I fili già in tavola (riepilogo per il DM)
+### I fili già in tavola (riepilogo per il DM) — *cosa il party sa DAVVERO*
 
-- **S8 — Villa Gralhund:** cadavere con sigillo mano+occhio (Sussurratori, altro filo); ma soprattutto **Lady Yalah Gralhund**, cultista, e il baule con simboli di Asmodeo. Nel diario di Victoro (FASE 4) compare la nota *"Il mausoleo dei Cassalanter. Informare Y. G."* → **Y. G. = Yalah Gralhund**. Il ponte tra le due casate.
-- **S9 — Mausoleo Cassalanter:** il party ci è già stato. Il **nome era già sulla porta.** La ragazza trovata viva parlava di aver "seguito il fidanzato" a un rito.
-- **S9 — Force Grey M1 (retroattivo) / presagio di Hlam:** carico di **Lacrime di Mezzanotte** + lista con il nome Cassalanter. Vajra: *"Giorno dei Fondatori. Midnight Tears. Stesso punto di arrivo."*
-- **S10 — Converted Windmill + Willifort:** Arn e Seffia (cultisti di Asmodeo) e **Willifort Crowelle** lavoravano per recuperare lo Stone *per i Cassalanter*.
-- **S14 — il Vault:** l'agguato all'uscita era guidato da Willifort, **valletto dei Cassalanter**. Se catturato, ha parlato (o il suo corpo/equipaggiamento porta la livrea di Casa Cassalanter).
+**[NOTA DM — riservata]** Attenzione a **non regalare** collegamenti che i giocatori non hanno mai guadagnato in gioco. Ecco l'inventario onesto di ciò che hanno realmente in mano:
+
+- **S9 — Mausoleo Cassalanter:** ci sono già stati (mappa recuperata in S8, esplorato in S9). **Il nome "Cassalanter" era letteralmente sul mausoleo** — è l'aggancio più solido e concreto al nome. Là dentro: cadaveri, un rito, e la ragazza trovata viva che parlava di aver "seguito il fidanzato" a una cerimonia.
+- **S10 — Converted Windmill + Willifort:** Arn e Seffia erano **cultisti di Asmodeo** a caccia dello Stone; **Willifort Crowelle** (travestito) ricevette lo Stone dai diavoli. ⚠️ **I cultisti NON hanno mai pronunciato il nome "Cassalanter" davanti al party.** Ciò che i PG sanno è: "cultisti di Asmodeo, collegati al Mausoleo Cassalanter, cacciavano lo Stone".
+- **Willifort e le insegne:** durante la fuga/l'agguato, i PG **hanno visto le insegne di Casa Cassalanter** addosso agli uomini di Willifort. È l'**indizio visivo** che lega Willifort (e quindi la caccia allo Stone) alla casata.
+- **S8 — Villa Gralhund:** i PG hanno affrontato **Lady Yalah Gralhund** — una nobile che ha ordinato di attaccarli — e trovato un cadavere col sigillo **mano+occhio** (filo dei Sussurratori/Vecna, *tutt'altra pista*). ⚠️ **NON** hanno trovato il baule con mantello/simboli di Asmodeo, **né** collegato i Gralhund ad Asmodeo o ai Cassalanter. Per il party, oggi, Gralhund è solo "una casata che ci ha aggrediti".
+- **S4/S5 — presagio di Hlam + Lacrime di Mezzanotte:** sanno che un veleno (le **Lacrime di Mezzanotte**) è legato al **Giorno dei Fondatori** — Vajra: *"Giorno dei Fondatori. Midnight Tears. Stesso punto di arrivo."* — e il presagio di Razak: *"sangue innocente sarà versato nel Giorno dei Fondatori."* Sanno che **qualcosa di terribile** accadrà, non ancora **dove** né **per mano di chi**. *(Se in Force Grey M1 il nome "Cassalanter" comparve su una lista del carico, verificalo col tuo storico di gioco prima di darlo per acquisito — non è confermato nei recap.)*
+- **S14 — il Vault (se giocato):** l'agguato all'uscita era guidato da Willifort in livrea Cassalanter. **Solo se il party lo ha catturato**, Willifort può confermare *a parole* il legame; altrimenti resta l'indizio visivo delle insegne, nient'altro.
 
 ### Meccanica — Mettere insieme il quadro
 
-- **Nessun tiro necessario** se il party ragiona ad alta voce: hanno *tutti* i pezzi. Guidali a fare la connessione. Se sono bloccati, un contatto di fazione può darla (vedi Hook sotto), o un **Intelligenza (Indagare) CD 12** rilegge gli appunti delle indagini passate.
+- Il party **NON** ha tutti i pezzi già cuciti. Ha invece abbastanza per fare **una** deduzione da solo, se ci ragiona: *cultisti di Asmodeo + Mausoleo Cassalanter + insegne Cassalanter su Willifort → i Cassalanter sono un culto di Asmodeo, e sono loro dietro la caccia allo Stone/al Vault.* Guidali a questa sintesi con domande, non con rivelazioni.
+- **La seconda deduzione** — la più importante — è incrociare *Cassalanter (villain)* con *Lacrime di Mezzanotte al Giorno dei Fondatori (presagio)*: **la strage che Hlam ha predetto è opera dei Cassalanter, ed è imminente.** Questo è il **cuore della FASE 1**. Se ci arrivano da soli, dà loro il brivido pieno; se sono bloccati, un contatto di fazione (Hook sotto) o **Intelligenza (Indagare) CD 12** rileggendo gli appunti li aiuta a chiudere il cerchio.
+- **Cosa resta ANCORA ignoto** (non anticiparlo): il legame Gralhund↔Cassalanter (lo scopriranno dal diario, FASE 4), la sorte di Osvaldo, i gemelli condannati, il tempio sotto la villa, il fatto che il bersaglio siano *cento poveri a una festa pubblica*.
 - **Cassalanter Lore** *(chi frequenta i circoli nobiliari o consulta i registri — Vorador via Ordine, Aelar via Arpisti, chiunque **Intelligenza (Storia) CD 15**):*
 
 > *La casata Cassalanter è tra le più rispettate di Waterdeep. Banchieri e prestatori, caddero in disgrazia qualche anno fa e risalirono la china con una rapidità che qualcuno definì miracolosa. Il primogenito, Osvaldo, scomparve tre anni or sono, quando la famiglia era sull'orlo della rovina; restano due gemelli, Terenzio ed Elzerina. Lord **Victoro** è l'unico erede vivente del defunto Caladorn Cassalanter, già Lord Mascherato ed eroe del Nord. Negli anni i Cassalanter hanno fondato società filantropiche e donato con generosità ai templi degli dèi buoni. Si dice venerino **Siamorphe**, la semidea del diritto e del dovere della nobiltà di governare.*
@@ -218,7 +223,8 @@ Metti sul tavolo, tramite i contatti o il ragionamento, **tre vie** (dal modulo)
 
 **[NOTA DM — riservata — la prova che chiude il cerchio]** Questo diario **inchioda** i Cassalanter e li salda a *tutti* i fili del party:
 > - *"I draghi di Neverember"* = il Vault (i 500.000 dragoni). Confermano che erano loro a caccia dell'oro.
-> - *"Y. G." = Yalah Gralhund* → il cadavere/il baule di Asmodeo di S8, la casata alleata.
+> - *"Il mausoleo dei Cassalanter"* = il luogo che il party ha esplorato in S9. Il diario conferma la connessione, dalla penna di Victoro stesso.
+> - *"Y. G." = Yalah Gralhund* → è **qui, e solo qui**, che il party può collegare Lady Gralhund (la nobile che li ha aggrediti in S8) ai Cassalanter: le due casate sono in combutta. È una **deduzione nuova**, non qualcosa che già sapevano — i PG non hanno mai trovato prove del culto a Villa Gralhund (il baule non fu recuperato). Se non arrivano a "Y.G. = Gralhund" da soli, va benissimo: è un filo bonus, non essenziale alla sessione.
 > - *"Golorr è un aboleth"* = lo Stone of Golorr che il party ha strappato loro in S10.
 >
 > Fai gustare la scoperta: mesi di indagini che collassano in tre righe. **Spotlight investigativo per Vorador (il Magistro) e per chiunque abbia tenuto il filo Gralhund.**
