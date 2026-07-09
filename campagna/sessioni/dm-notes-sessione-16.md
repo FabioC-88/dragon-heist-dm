@@ -31,10 +31,12 @@
 ### Se il party ha trovato la porta segreta (C28 → C29 → scala verso il tempio)
 
 *[Continuazione diretta]:*
-> *La parete di pietra scivola di lato senza un suono, e il fiato gelido che sale dal buio non è più immaginazione. Davanti a voi, il vault segreto della famiglia Cassalanter: pile di sacca di tela ammucchiate contro le pareti, e in fondo, dove le lanterne non arrivano più, una scala di pietra che scende, scende, scende. Il canto che avete sentito da lontano ora ha parole — o quasi parole, sillabe che si piegano in una lingua che il vostro orecchio rifiuta di riconoscere del tutto, pur riconoscendola. Da qualche parte sopra le vostre teste, la festa continua: violini, risate, il tintinnio dei calici. Qui sotto, il tempo scorre in un'altra direzione.*
+> *La parete di pietra scivola di lato senza un suono, e il fiato gelido che sale dal buio non è più immaginazione. Davanti a voi, il vault segreto della famiglia Cassalanter, e in fondo — dove le lanterne non arrivano più — una scala di pietra che scende, scende, scende. Il canto che avete sentito da lontano ora ha parole — o quasi parole, sillabe che si piegano in una lingua che il vostro orecchio rifiuta di riconoscere del tutto, pur riconoscendola. Da qualche parte sopra le vostre teste, la festa continua: violini, risate, il tintinnio dei calici. Qui sotto, il tempo scorre in un'altra direzione.*
 
 *[Aggiunta atmosferica]:*
 > *Sul gradino più alto, qualcuno ha lasciato cadere — o forse posato con cura — un petalo di rosa bianca, già annerito ai bordi come se il calore da sotto lo stesse lentamente arrostendo. Nessuno dei presenti ricorda di averlo visto un attimo prima.*
+
+**[NOTA DM — riservata — cosa c'è nel vault C29, dipende dal ramo]** Descrivi il tesoro solo secondo il ramo effettivo: **Ramo A** — venti lingotti d'argento (25 mo l'uno) accatastati in un angolo per le emergenze, nient'altro. **Ramo B** — oltre all'argento, file e file di sacca di tela gonfie d'oro (fino a cinquecento sacca da 1.000 mo, o il doppio se hanno saccheggiato anche il Vault dei Draghi), ammucchiate contro le pareti in attesa di essere gettate nella coppa sacrificale a mezzanotte.
 
 ### Se il party ha seguito il sentore del banchetto (il prato, Leva B)
 
@@ -85,7 +87,7 @@ La scala a chiocciola da A1 termina in questa camera.
 
 Dodici sarcofagi di pietra riempiono nicchie profonde nelle pareti. Ogni coperchio in stucco è scolpito a immagine di un nobile che stringe un calice recante il simbolo del sole.
 
-**[NOTA DM — riservata — il *mace of disruption*]** Gli spiriti di più Cassalanter defunti sono legati a questa cripta: tre **spettri** e uno **spettro maggiore** (usa le statistiche di un **ghost**) che assume le sembianze di un uomo in armatura, di aspetto nobile e cavalleresco. Attaccano ogni creatura vivente, ma **non possono lasciare la cripta né avvicinarsi a 5 piedi da chi indossa un simbolo sacro di Asmodeo**. Il fantasma è ciò che resta di **Caladorn Cassalanter**, ex Lord Mascherato ed eroe di Waterdeep (nonno di Victoro — vedi Cassalanter Lore, S15). **Se un PG mostra o indossa un simbolo sacro di Siamorphe** (i calici d'argento dell'atrio C1 ne sono pieni — un PG previdente potrebbe averne preso uno in S15), il fantasma **cessa l'attacco**, richiama gli spettri, e guida i personaggi alla propria cripta personale (A4a).
+**[NOTA DM — riservata — il *mace of disruption*]** Gli spiriti di più Cassalanter defunti sono legati a questa cripta: tre **spettri** e uno **spettro maggiore** (usa le statistiche di un **ghost**) che assume le sembianze di un uomo in armatura, di aspetto nobile e cavalleresco. Attaccano ogni creatura vivente, ma **non possono lasciare la cripta né avvicinarsi a 5 piedi da chi indossa un simbolo sacro di Asmodeo**. Il fantasma è ciò che resta di **Caladorn Cassalanter**, ex Lord Mascherato ed eroe di Waterdeep — l'avo di cui Victoro è l'unico erede vivente (vedi Cassalanter Lore, S15). **Se un PG mostra o indossa un simbolo sacro di Siamorphe** (i calici d'argento dell'atrio C1 ne sono pieni — un PG previdente potrebbe averne preso uno in S15), il fantasma **cessa l'attacco**, richiama gli spettri, e guida i personaggi alla propria cripta personale (A4a).
 
 ```
 Spettro × 3 — CA 12 | PF 22 (5d8) | Vol. 50 (librazione) | GS 1 (200 XP)
@@ -134,7 +136,7 @@ Un soffitto a volta di trenta piedi e una coppia di balconi (A2) a venti piedi d
 
 **Porta segreta:** verso A6, **Saggezza (Percezione) CD 13**. **Ruscello:** scorre dietro la statua, entrando ed uscendo da piccoli culverti ad arco.
 
-**Chi c'è stasera:** i tre cultisti in preghiera sono presenti sempre. **Victoro e/o Ammalia** possono essere qui **solo** se il party arriva dopo che il rituale di mezzanotte è iniziato (vedi FASE 4) — altrimenti sono ancora sopra, alla festa o nello studio/ufficio. **Willifort, Tissina Khyret, Laiba Rosse e Jandar Chergoba** (i quattro servitori-cultisti — vedi "Servitori Capo" sotto) compaiono qui solo durante il rituale pieno di mezzanotte.
+**Chi c'è stasera:** i tre cultisti in preghiera sono presenti sempre. **Victoro e/o Ammalia** possono essere qui **solo** se il party arriva dopo che il rituale di mezzanotte è iniziato (vedi FASE 4) — altrimenti sono ancora sopra, alla festa o nello studio/ufficio. **Willifort, Tissina Khyret, Laiba Rosse e Jandar Chergoba** (i quattro servitori-cultisti — vedi il riquadro "Servitori Capo" in FASE 4) compaiono qui solo durante il rituale pieno di mezzanotte.
 
 ```
 Cultista × 3 — CA 12 | PF 9 (2d8) | GS 1/8 (25 XP)
@@ -246,6 +248,14 @@ Se non sono già con il party (da S15), possono trovarsi in C18 (camera loro), C
 
 **[NOTA DM — riservata — struttura del climax]** Questa fase non è un singolo combattimento: è una **sequenza di conseguenze**. Segui questa logica, adattandola a quanto il party ha effettivamente impedito:
 
+**[NOTA DM — riservata — Servitori Capo (i quattro cultisti di casa)]** Durante il rituale pieno di mezzanotte, quattro servitori-cultisti stanno attorno al perimetro di A7 per tenere in riga gli altri cultisti. Tutti appaiono tiefling (tranne uno):
+- **Willifort Crowelle** — maggiordomo capo, in realtà un **doppelganger** (GS 3). Presente solo se vivo (da S14/S15); cerca lo scontro solo se messo alle strette, altrimenti manovra e mente.
+- **Tissina Khyret** — dama di compagnia di Ammalia, tiefling, **cult fanatic** (GS 2). Fredda, tassativa; è lei che a mezzanotte porta a Victoro la conferma che "è fatto".
+- **Laiba "Nana" Rosse** — istitutrice dei gemelli, tiefling, **cult fanatic** (GS 2). Se Terenzio ed Elzerina sono col party, è il volto del rimorso: gioca la sua esitazione tra fedeltà al culto e affetto per i bambini.
+- **Jandar Chergoba** — capocuoco, tiefling, **cult fanatic** (GS 2). Se già affrontato al banchetto (FASE 2), non è qui.
+
+Non sono la minaccia principale della scena: sono cornice, pressione e testimoni, non un boss fight. Usali per popolare il tempio e dare volti al culto, non per sommergere il party di stat block.
+
 ### Se il party ha fermato sia il veleno sia il trasferimento dell'oro (o non c'era oro da trasferire, Ramo A)
 
 Victoro fa scendere comunque i cultisti in A7 per il rito di mezzanotte, sperando in un **pagamento parziale**: getta nella coppa ciò che ha (gioielli di famiglia, l'argento del vault C29, qualsiasi oro recuperabile) mentre Ammalia, disperata, intona la formula. Un **diavolo barbuto** viene evocato davanti alla statua. In infernale, dichiara il pagamento **"insufficiente"**: le anime di Terenzio ed Elzerina **non sono salve**, ma il devil concede — con crudeltà burocratica — che "il debito residuo matura comunque nei termini pattuiti": **dieci giorni**, non stanotte. Poi svanisce. Victoro e Ammalia, disperati e senza più carte da giocare, o si arrendono alla disperazione (negoziano, implorano, offrono qualunque cosa al party in cambio di aiuto — persino la propria resa alla Guardia, pur di guadagnare tempo per i figli) oppure tentano la fuga verso A9.
@@ -258,7 +268,7 @@ A mezzanotte, se il party non è intervenuto, il veleno fa il suo corso sul prat
 
 > *Il rintocco di mezzanotte arriva dalle torri del Sea Ward, e sotto i padiglioni la festa si spegne tutta insieme, come una candela colta da una folata. Non c'è agonia teatrale: le Lacrime di Mezzanotte lavorano in fretta e senza pietà. Un respiro tagliato a metà, un boccale che rotola sull'erba, un bambino che scuote la manica di un padre che non si sveglia più. Cento persone che un'ora prima ridevano per un pasto gratuito giacciono ora sotto le lanterne di carta, e le guardie che dovevano "mantenere l'ordine" restano immobili ai loro posti, come se il silenzio improvviso fosse esattamente il risultato atteso. In pochi istanti sul prato non resta che il vento tra i tavoli imbanditi, e i bardi assunti per la festa che non sanno più che musica suonare.*
 
-Victoro ordina ai cultisti di scaraventare i sacchi d'oro nella coppa sacrificale; **Tessina Khyret** conferma ad Ammalia che "è fatto"; Victoro evoca un **diavolo barbuto**, che dichiara il pagamento **"soddisfacente"**: le anime di Terenzio ed Elzerina **non saranno prese**. Il diavolo svanisce. **I Cassalanter hanno vinto — e lo sanno.** Nelle ore buie del mattino, i cadaveri verranno gettati nella coppa ardente di A7, senza lasciare prove. Questo è il finale più amaro possibile e dovrebbe accadere solo se il tavolo ha davvero, ripetutamente, scelto di non intervenire — è una conseguenza meccanica del countdown, non una "lezione" da forzare a tavolino. Se il party interviene anche solo parzialmente (salva metà della folla, distrugge parte dell'oro), sposta l'esito verso il ramo "pagamento parziale" sopra.
+Victoro ordina ai cultisti di scaraventare i sacchi d'oro nella coppa sacrificale; **Tissina Khyret** conferma ad Ammalia che "è fatto"; Victoro evoca un **diavolo barbuto**, che dichiara il pagamento **"soddisfacente"**: le anime di Terenzio ed Elzerina **non saranno prese**. Il diavolo svanisce. **I Cassalanter hanno vinto — e lo sanno.** Nelle ore buie del mattino, i cadaveri verranno gettati nella coppa ardente di A7, senza lasciare prove. Questo è il finale più amaro possibile e dovrebbe accadere solo se il tavolo ha davvero, ripetutamente, scelto di non intervenire — è una conseguenza meccanica del countdown, non una "lezione" da forzare a tavolino. Se il party interviene anche solo parzialmente (salva metà della folla, distrugge parte dell'oro), sposta l'esito verso il ramo "pagamento parziale" sopra.
 
 ### Se il party distrugge la statua (mazza dirompente, A4a)
 
