@@ -62,6 +62,16 @@ Gabri | **Friedrich Krauser** | Umano Paladino (arco verso **Oathbreaker**) | Ze
 
 **[NOTA DM]** I Cassalanters sono anche in caccia allo Stone of Golorr per ottenere i 999 dragoni dalla Vault of Dragons di Dagult Neverember. Questo li mette in competizione con Xanathar, Jarlaxle e Manshoon (anche se questi non compaiono come villain principali in questo arco).
 
+### L'inganno di Asmodeo e la pedina Krauser *(segreto DM — motore dell'arco Cassalanter)*
+
+**[NOTA DM — riservata]** Asmodeo è legato ai propri contratti: violarli distruggerebbe la fonte del suo potere. Il contratto Cassalanter ha una via d'uscita (999.999 mo + 99 anime → i gemelli Terenzio ed Elzerina tornano liberi). Ma quelle due anime — **innocenti e del sangue eroico di Caladorn Cassalanter** (Lord Mascherato, eroe di Waterdeep) — sono il premio che Asmodeo ha sempre voluto (Osvaldo, primogenito reso diavolo delle catene, è la prova del metodo). Perciò Asmodeo **vuole che i Cassalanter falliscano**: così le anime dei gemelli restano forfeit (diventano lemuri 10 giorni dopo il Giorno dei Fondatori) e sono sue.
+
+**L'ironia motrice:** se il party ferma i Cassalanter — salvando i cento poveri del banchetto — **danna i gemelli**. Gli eroi consegnano ad Asmodeo il premio con le loro stesse mani.
+
+**Il ruolo di Krauser (Gabri):** Aldric/Asmodeo non ha reso Krauser un Oathbreaker per caso. Krauser è (a) lo strumento *deniable* che spinge il party ad agire, e (b) **l'unica porta** attraverso cui i gemelli potranno essere strappati al contratto — l'unico al tavolo con un filo diretto verso Asmodeo. La pedina è stata piantata anni prima proprio per questo momento.
+
+**L'endgame (S17+):** per salvare i gemelli il party deve rinegoziare con Asmodeo via Krauser. Il prezzo **non** è l'anima di Krauser, ma un **debito su tutto il party** — un "servizio futuro" dovuto da tutti, di cui Krauser è garante (paga per primo se il gruppo si sfila). Due bambini salvi, sei eroi ipotecati all'Inferno: la compassione degli eroi come guinzaglio. Cosa sarà la "chiamata" futura resta aperto (candidati: il filo di Vecna / i Sussurratori). Dettagli operativi in `campagna/personaggi/Friedrich-Krauser.md` e `campagna/sessioni/dm-notes-sessione-16.md`.
+
 ---
 
 ## Road to Villa Cassalanter — Come e Quando (pianificazione)

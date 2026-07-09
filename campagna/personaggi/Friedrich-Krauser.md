@@ -146,6 +146,30 @@ All'inizio non eri d'accordo. Poi ci hai ripensato. Alla fine, hai smesso di ess
 
 ---
 
+## Arco Narrativo — Il Prezzo dei Gemelli (Cap. 6, S16→S17+)
+
+> **[NOTA DM — riservata: il vero motivo per cui Asmodeo ha reclutato Krauser]**
+>
+> Krauser non è stato scelto per curiosità: è una **pedina piantata anni prima** in vista dell'affare Cassalanter. Asmodeo è legato ai propri contratti (violarli distruggerebbe la fonte del suo potere). Il contratto Cassalanter prevede una via d'uscita — 999.999 mo + 99 anime innocenti e le anime dei gemelli **Terenzio ed Elzerina** tornano libere. Ma quelle due anime — **innocenti e del sangue eroico di Caladorn Cassalanter** (Lord Mascherato, eroe di Waterdeep) — sono esattamente ciò che Asmodeo vuole collezionare (Osvaldo, il primogenito reso diavolo delle catene, è la prova che il metodo funziona). Perciò Asmodeo **vuole che i Cassalanter falliscano**: così le anime dei gemelli restano forfeit e sono sue.
+>
+> **L'ironia che regge tutto:** se il party ferma i Cassalanter (salvando i cento poveri del banchetto), **danna i gemelli**. Gli eroi consegnano ad Asmodeo il premio con le loro stesse mani. E Krauser è (a) lo strumento *deniable* che spinge il gruppo ad agire senza che la mano di Asmodeo si veda, e (b) **l'unica porta** attraverso cui i gemelli potranno essere strappati al contratto — perché è l'unico al tavolo con un filo diretto verso Asmodeo.
+
+### L'offerta (S16 = seme, S17+ = trattativa)
+
+Quando il party, salvati i poveri, scoprirà che i gemelli sono comunque condannati (forfeit dieci giorni dopo il Giorno dei Fondatori), l'unica via di salvezza passerà da Krauser. Asmodeo, tramite Aldric, offrirà:
+
+> *«Libero le due anime. In cambio, un giorno vi chiamerò — tutti voi, non solo Friedrich — per un solo servizio, e voi non rifiuterete.»*
+
+- **Il prezzo non è l'anima di Krauser:** è un **debito su tutto il party**, vago, legale e vincolante. Due bambini salvi, sei eroi ipotecati all'Inferno.
+- **Krauser è il garante.** Avendo già firmato in S9, è lui a rispondere per primo se il gruppo un giorno tentasse di sottrarsi. Questo lo rende il co-firmatario del guinzaglio di tutti.
+- **Cosa sarà la "chiamata" futura resta aperto** — candidati: il filo di Vecna / i Sussurratori, o un arco di campagna successiva. Non deciderlo finché non serve.
+
+### Il beat tragico-redentivo (per Gabri)
+
+L'ex paladino, che si è dannato per debolezza, alla fine sceglie di legarsi (e legare i compagni) ad Asmodeo **per salvare due innocenti**: una redenzione compiuta *attraverso* la dannazione — lo specchio esatto di Osvaldo (innocente reso diavolo) e il rovescio della propria caduta. Asmodeo lo assapora: un eroe che baratta consapevolmente è la sua tessera più bella. Gioca il peso della scelta, non una punizione: Krauser non "perde", *paga* — ed è questo a renderlo tragico.
+
+---
+
 ## Gancio Personale
 
 **Fuga da un passato che torna** — l'imboscata nella Shadowfell non è mai stata spiegata. Qualcuno nella Chiesa di Tyr sapeva. Qualcuno ha firmato quell'ordine di missione.
