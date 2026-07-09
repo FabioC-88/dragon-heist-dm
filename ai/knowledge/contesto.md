@@ -11,10 +11,10 @@
 - **Villain/Stagione:** Cassalanters (Estate)
 - **Livello di partenza:** 1
 - **Party:** 5 giocatori fissi + Silvia (PG ospite, presente raramente — max 6 giocatori)
-- **Stato:** In corso — Cap. 4 (caccia allo Stone of Golorr → Vault of Dragons). S12: Old Tower/Esvele + avvio caccia alle tre chiavi. **S13: finestra caccia-chiavi (Lv 4)** — si giocano le missioni fazione M2/M3 in sospeso (Zent M2 principale) prima del Vault. **Vault → S14** (chiude Cap. 4 → Lv 5). Le M4 e Villa Cassalanter vengono dopo, in parallelo.
+- **Stato:** In corso — Cap. 6 (M4 faction missions + Cassalanter climax). **Vault of Dragons chiuso (S14+)** — party ora Lv 5. S16: climax Cassalanter (Temple of Asmodeus, twins, Day of the Damned). **S17+: M4 faction missions** (post-Cap-4, concurrent with Cap. 6 resolution).
 - **Durata Media Sessioni:** 2 Ore
-- **Capitolo corrente:** 4
-- **Livello party:** 4 *(raggiunto alla chiusura del Cap. 3; prossimo Lv 5 alla chiusura del Cap. 4)*
+- **Capitolo corrente:** 6
+- **Livello party:** 5 *(raggiunto alla chiusura del Cap. 4/Vault of Dragons; S17 giocata a Lv 5)*
 
 ---
 
