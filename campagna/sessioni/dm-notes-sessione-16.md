@@ -77,7 +77,7 @@ La scala a chiocciola da A1 termina in questa camera.
 *[Aggiunta atmosferica]:*
 > *È un ritratto dipinto con amore ossessivo — ogni piega della veste, ogni riflesso del rubino reso con la cura di chi ha ritratto un dio, non un mostro. Ed è proprio questo, più delle corna, a gelare il sangue: qualcuno, qui sotto, **lo adora davvero**.*
 
-**[NOTA DM — riservata — spotlight Krauser ⭐]** Questo è il momento per un **indizio sottile, mai una rivelazione**, sul segreto di Friedrich Krauser. Fagli fare (o offrigli spontaneamente) un tiro di **Saggezza (Intuizione) CD 16**: non riconosce Aldric nel ritratto in modo esplicito — è un dipinto formale, non un ritratto fedele — ma qualcosa nella posa, nella cortesia gelida della bocca dipinta, nel modo in cui il pittore ha reso "la voglia di essere ammirato", gli restituisce un'eco fisica del suo mentore. Un brivido, non una prova. Non confermare né smentire in gioco: lascialo con il dubbio che lo accompagnerà fino alla rivelazione finale (fuori da questa sessione).
+**[NOTA DM — riservata — spotlight Krauser ⭐]** Krauser **sa già** che Aldric è Asmodeo (rivelazione avvenuta in S9 col patto). Questo ritratto non è quindi un indizio da scoprire, ma un **pugno nello stomaco per un giocatore già informato**: è la prima volta che vede il suo mentore/padrone ritratto nella sua forma "ufficiale" di signore dei Nove Inferi, venerato da una casata che ha appena visto insanguinarsi le mani. Lascia che il giocatore reagisca in-character senza bisogno di tiri — è un momento di roleplay puro, non di scoperta. Possibile domanda interiore per Gabri: *i Cassalanter sanno di lui? È "uno di loro" agli occhi del culto, oppure un patto privato e separato?* Non dare una risposta definitiva — è terreno per un arco personale futuro, non per questa sessione.
 
 **[NOTA DM — riservata]** *Cult Gathering* (non attivo stasera, ma tienilo a mente): durante un raduno completo, due **diavoli barbuti** sorvegliano le porte di A7. Stasera il tempio è presidiato solo dai cultisti "di servizio" (vedi A7) — l'assenza dei diavoli barbuti qui è un respiro di sollievo per il party, sfruttalo per bilanciare la tensione della fase.
 
@@ -308,7 +308,7 @@ Non aprirle in questa sessione: bastano una riga o due a testa come promemoria p
 | Osvaldo Cassalanter | Tutto il party | Rivelato | Diavolo delle catene in soffitta; non liberato (verosimilmente) |
 | Statua di Asmodeo / *mace of disruption* | Chi ha esplorato A4/A4a | Facoltativo | Se usata, è la leva narrativa più pulita della sessione |
 | Victoro e Ammalia Cassalanter | Tutto il party | Dipende dall'esito | Sconfitti/fuggiti/arresi/vittoriosi — annotare con cura per fazioni.md |
-| Krauser / Aldric = Asmodeo | Krauser (Gabri) | **Seminato — indizio sottile in A3** | Non rivelato; presagio accumulato per una futura resa dei conti personale |
+| Krauser / Aldric = Asmodeo | Krauser (Gabri) | **Già noto al PG (da S9)** | Il ritratto in A3 è un momento di roleplay/reazione, non una scoperta; resta aperta la domanda se i Cassalanter sappiano di lui |
 | M4 di fazione (Velo Alzato / Cose Terribili / Sangue del Patto) | Aelar / Razak-Vorador / Krauser-Scintilla | Disponibili — da riaprire | Riprendere nella prossima finestra di legwork |
 | Il Filo di Vecna (Sussurratori) | Tutto il party | Silenzioso questa sessione | Riprendere in una sessione più leggera |
 | Esvele Rosznar — La Vipera Nera | Tutto il party | Dipende da S15/S16 | Annotare se ha aiutato/complicato nella villa |
@@ -329,7 +329,7 @@ Non aprirle in questa sessione: bastano una riga o due a testa come promemoria p
 - [ ] Osvaldo (C24) — scoperto? Liberato (improbabile)? Lasciato?
 - [ ] Victoro e/o Ammalia — sconfitti, fuggiti, arrestati, o vittoriosi?
 - [ ] Willifort Crowelle — esito finale?
-- [ ] Krauser ha avuto l'indizio su Aldric/Asmodeo in A3? Come ha reagito il giocatore?
+- [ ] Krauser davanti al ritratto di Asmodeo in A3 — come ha reagito il giocatore (sa già che è Aldric)?
 - [ ] Esvele Rosznar — ruolo giocato nella resa dei conti?
 - [ ] Allarme scattato? Conseguenze con la City Watch?
 - [ ] Il Cap. 6 si considera chiuso? Level up deciso dal DM?
