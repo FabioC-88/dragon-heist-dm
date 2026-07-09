@@ -1,40 +1,61 @@
-# SESSION TRANSLATOR OUTPUT — Sessione 17 (Missioni M4)
+# DM Notes — Sessione 17 (In-Game)
 
-**Agente 2 — Session Translator**
-**Status:** Traduzione ed elevazione stilistica completate
-**Fonte:** Output grezzo di Agente 1 (session-17-extractor-output.md)
-**Fonte primaria originale:** Dragon Heist.md (Cap. 5 "Hell of a Summer" + Cap. 7 "Sea of Swords") + Missioni strutturate `missioni-secondarie/{forcegrey,zentharim,arpisti}/M4-*.md`
-
----
-
-## Metadati
-
-- **Sessione:** 17 (segue S16 — climax Cassalanter — non ancora giocata)
-- **Fonte primaria:**
-  - Dragon Heist.md (capitoli 5 "Hell of a Summer" + 7 "Sea of Swords")
-  - Missioni strutturate: `missioni-secondarie/{forcegrey,zentharim,arpisti}/M4-*.md`
-- **Sessione precedente:** S16 (Tempio di Asmodeo, climax Cassalanter, apertura del Vault of Dragons, party Lv 5)
-- **Livello party:** 5 (post-Vault, fase di risoluzione del Cap. 4)
-- **Durata stimata:** 6-10 ore totali (tre missioni parallele, circa 2h30m ciascuna)
-- **Timing narrativo:** post-Cap. 4, in parallelo al climax Cassalanter (fili aperti a Villa Cassalanter)
+> **Quando si gioca questa sessione:** dopo il **Vault of Dragons** (S14) e dopo la Parte I dell'infiltrazione a Villa Cassalanter (S15) — party **Lv 5**, Cap. 6 aperto, nome "Cassalanter" ormai noto. Questa sessione **non presuppone un esito specifico** del climax Cassalanter (S16, "Il Giorno dei Dannati"): può essere giocata prima, dopo, o attorno ad esso — le tre missioni M4 di fazione sono contenutisticamente indipendenti da come si risolverà la villa. Le note segnalate come "se S16 è già stata giocata" vanno usate solo se è davvero così al tuo tavolo; altrimenti usa la versione "in attesa" indicata accanto.
+>
+> **Fonte primaria:** *Waterdeep: Dragon Heist* — Cap. 5 "Spring Madness" (Xanathar's Lair, Nihiloor — per la Force Grey M4) e Cap. 7 "Maestro's Fall" (Sea Maidens Faire / *Eyecatcher* / Jarlaxle — per la Arpisti M4) · Missioni strutturate `missioni-secondarie/{forcegrey,zentharim,arpisti}/M4-*.md` (la Zentharim M4 è una riscrittura integrale della missione canonica, documentata in `ai/knowledge/contesto.md`).
+> **Contesto:** Party **Lv 5** · 5 PG (6 con Barnabus ospite) · Cap. 6 aperto, Vault of Dragons chiuso dalla S14. Sistema a **milestone**: nessun XP numerico da tracciare; il prossimo level up resta legato alla chiusura dell'arco Cassalanter, non a questa sessione.
+> **Obiettivo sessione:** presentare al tavolo un **menu di tre missioni M4 di fazione**, complete e indipendenti tra loro — **Force Grey** (eliminare Nihiloor nel covo di Xanathar), **Zentharim** (il processo al magistrato Vosk), **Arpisti** (infiltrazione sull'*Eyecatcher* di Jarlaxle) — e giocarne **una sola**, scelta in base a chi è presente al tavolo e al tono che si preferisce quella sera.
+> **Durata stimata:** variabile in base alla missione scelta — Force Grey 4-6h, Zentharim 2-3h, Arpisti 3-4h. Meglio non giocarne più di una per serata: sono dense, e ciascuna merita di respirare.
 
 ---
 
-## Marker di Partenza
+## ⚠️ NOTE DI APERTURA — Come scegliere la missione
 
-**Condizione iniziale S17:**
-- Party Lv 5, controllo del Vault of Dragons confermato (Cap. 4 chiuso)
-- Le missioni M4 di fazione sono disponibili in parallelo alla risoluzione finale a Villa Cassalanter
-- Tre fazioni convergono su tre obiettivi critici:
-  - **Force Grey:** Nihiloor (Mind Flayer)
-  - **Zentharim:** il Magistrato Valerius Vosk (confronto in tribunale)
-  - **Arpisti:** Jarlaxle Baenre (infiltrazione sull'Eyecatcher durante il Giorno delle Meraviglie)
-- **Nessun incontro propedeutico richiesto** — le M4 sono missioni autonome di alto livello
-- **Finestra temporale:** prima o dopo la risoluzione Cassalanter. Non può essere rimandata all'infinito.
+**[NOTA DM — riservata]** Questa sessione non ha una struttura a fasi lineari: è un **menu di tre missioni complete e indipendenti**, ciascuna già rifinita nei minimi dettagli (PNG, testi boxed, stat block, hook per i PG). Il tavolo ne giocherà **una sola** — non forzare la convergenza tra le tre né provare a comprimerle in un'unica serata.
+
+**Condizione iniziale:** party Lv 5, controllo del Vault of Dragons confermato (Cap. 4 chiuso, S14). Le missioni M4 sono disponibili in parallelo alla risoluzione finale a Villa Cassalanter. **Nessun incontro propedeutico richiesto** — sono missioni autonome di alto livello, pensate per essere giocate in qualunque ordine tra loro e rispetto al climax Cassalanter. Detto questo, non vanno rimandate all'infinito: sono contenuto di fine-arco fazione e il tavolo se le merita a breve.
+
+**Le tre missioni in breve:**
+
+| Missione | Fazione | Protagonisti PG | Tono | Durata |
+|----------|---------|-----------------|------|--------|
+| **"Cose Terribili da Sprecare"** | Force Grey (Vajra Safahr) | Vorador Thraxas, Razak Kendal | Azione/tattica — combattimento contro un boss | 4-6 ore |
+| **"Sangue del Patto"** | Zentharim (Davil Starsong) | Friedrich Krauser, Fizzra "Scintilla" | Politica/moralità grigia — roleplay in tribunale | 2-3 ore |
+| **"Velo Alzato"** | Arpisti (Mirt il Cambiavalute, Remallia Haventree) | Aelar Moonwhisper | Intrigo/rivelazione — infiltrazione notturna | 3-4 ore |
+
+**Come scegliere:** la soluzione più naturale è lasciare la scelta al tavolo, in base a chi è presente e a cosa si ha voglia di giocare quella sera — nessuna delle tre è "quella giusta". Qualche criterio pratico:
+- Se manca uno dei PG protagonisti di una missione (es. Vorador o Razak assenti), le altre due restano ugualmente complete e giocabili.
+- Se il tavolo vuole un combattimento serio e un boss fight, **Force Grey** è la scelta naturale.
+- Se il tavolo vuole una sessione più breve e dialogica, **Zentharim** è la più compatta.
+- Se il tavolo vuole intrigo/esplorazione senza combattimento diretto, **Arpisti** è l'opzione.
+- Nessuna missione ha prerequisiti dalle altre due: possono essere giocate in qualsiasi ordine nelle sessioni successive.
+
+**Riepilogo spotlight per missione (a colpo d'occhio):**
+- **Force Grey M4:** Vorador Thraxas (risoluzione parziale del gancio Brottor Deepdelver — non solo un indizio, un vero avanzamento), Razak Kendal (spotlight legato al training monastico; se il presagio di Hlam è già stato risolto nel climax di Villa Cassalanter, questa missione lo mostra libero da quel peso — se S16 non è ancora stata giocata, il presagio resta comunque sullo sfondo, senza bisogno di risolverlo qui).
+- **Zentharim M4:** Friedrich Krauser (confronto diretto col magistrato Vosk — cuore del suo arco Oathbreaker; eco sottile, mai esplicita, del rapporto con Aldric), Fizzra "Scintilla" (filo diretto ma non risolutivo verso Rennis Coalsworth/Torri Kolat). Micro-hook opzionale per Barnabus "Barney" Reed se presente.
+- **Arpisti M4:** Aelar Moonwhisper (arco completo: Sildëyuir, i Nilshai, il patto di Trobbio — qui Aelar è lo spotlight, senza bisogno di hook aggiuntivi per bilanciare).
+
+Nessun combattimento nuovo oltre a quelli già presenti nelle missioni: tutte le integrazioni di background sono note DM, scene opzionali di roleplay/esplorazione, o righe di attitudine PNG. Tutti i file di background PG (`campagna/personaggi/*.md`) sono stati consultati in fase di preparazione — nessun gancio PG lasciato scoperto.
 
 ---
 
-## Chunk Narrativo Estratto — Missioni M4
+## 🎬 SETUP INIZIALE — Tre chiamate, una scelta
+
+> *Trollskull Manor, una sera qualunque dopo il Vault. La città non si è fermata mentre eravate altrove — anzi, sembra essersi mossa più in fretta. Sul tavolo comune si accumulano tre messaggi arrivati a poche ore di distanza l'uno dall'altro: un sigillo di ceralacca scura con l'emblema delle Mani Grigie, un uccellino di carta piegato con cura da mani esperte, e un biglietto lasciato sotto la porta, scritto in una calligrafia che sa di fretta e di rischio calcolato. Tre fazioni, nello stesso momento, hanno bisogno di voi.*
+
+*[Aggiunta atmosferica]:*
+> *Il Maestro Bec si posa sul bordo del tavolo, guarda i tre messaggi uno dopo l'altro come se stesse valutando merce al mercato, poi fissa Aelar con un'aria che assomiglia sospettosamente a un giudizio. Non fa "Meeep". Aspetta.*
+
+**[NOTA DM — riservata]** Questa apertura è deliberatamente generica: funziona a prescindere da quale missione scegliete di giocare, e a prescindere da come si sia concluso (o non ancora concluso) il climax a Villa Cassalanter. Leggila, poi lascia che il tavolo scelga quale messaggio aprire per primo, e salta direttamente alla sezione della missione corrispondente:
+- Sigillo delle Mani Grigie → **MISSIONE 1: Force Grey M4** (sotto)
+- Uccellino di carta → **MISSIONE 3: Arpisti M4** (sotto)
+- Biglietto anonimo → **MISSIONE 2: Zentharim M4** (sotto)
+
+Se il tavolo ha già le idee chiare su quale missione vuole giocare, accorcia pure questa apertura e vai dritto alla scena d'apertura specifica della missione scelta (ognuna ha già il proprio incipit).
+
+---
+
+## Chunk Narrativo — Missioni M4
 
 ### MISSIONE 1: Force Grey M4 — "Cose Terribili da Sprecare" (Assalto al Covo di Xanathar)
 
@@ -46,7 +67,7 @@
 
 #### Sinossi Narrativa
 
-Nihiloor — il Mind Flayer annidato nel covo di Xanathar, sotto il porto — ha orchestrato ogni cosa a partire da quattro missioni distinte:
+Nihiloor — il Mind Flayer annidato nel covo di Xanathar, sotto il porto — ha orchestrato ogni cosa a partire da tre missioni distinte:
 - M1 (Force Grey): il veleno Midnight Tears (legame coi Cassalanter)
 - M2 (Force Grey): il teschio dorato che ridestava le bestie
 - M3 (Force Grey): l'infiltrazione di Divoratori d'Intelletto nei ranghi delle Force Grey
@@ -60,6 +81,12 @@ Nihiloor — il Mind Flayer annidato nel covo di Xanathar, sotto il porto — ha
 
 Questa missione chiude il ciclo Force Grey — è il punto di non ritorno.
 
+**[NOTA DM — riservata] Hook per Vorador Thraxas:** questa missione **risolve parzialmente** il suo gancio personale principale (Brottor Deepdelver scomparso) — non è un semplice indizio, è un vero avanzamento narrativo. Vedi Incontro 3 per la scena dedicata: il dialogo di Brottor (BT-F2) riprende già testualmente dettagli del suo background — lo ha classificato come caso "protetto" per tenere lontano da lui il nome di Dendar (un bersaglio politico dentro l'Ordine), e ha resistito alle interviste psichiche di Nihiloor fornendo depistaggi (incluso il riferimento a "Dendar" nel testo boxed, già coerente col patto di Vorador). Dopo la missione, Brottor resta disponibile come PNG ricorrente — mentore, ma cambiato.
+
+**[NOTA DM — riservata] Hook per Razak Kendal:** il presagio di Hlam ("che le imprese siano buone o malvagie, sangue innocente sarà versato nel Giorno dei Fondatori") troverà risposta nel climax di Villa Cassalanter (S16). **Se S16 è già stata giocata** al tuo tavolo, questa missione non porta più il peso di quella profezia per Razak: è la prima occasione per mostrarlo come Mano Grigia a pieno titolo, senza l'ombra dell'oracolo addosso — un breve momento di sollievo, o di spiazzamento per la libertà nuova, è un buon spotlight in apertura o durante il tragitto verso il covo. **Se S16 non è ancora stata giocata**, il presagio pesa ancora su di lui: usalo come tensione di sottofondo (la sensazione che il conto alla rovescia stia per scadere altrove, mentre lui è impegnato qui), senza risolverlo — la risoluzione resta materiale esclusivo di S16.
+
+**[NOTA DM — riservata — continuità missioni]** La Sinossi sopra elenca la M3 Force Grey ("l'infiltrazione di Divoratori d'Intelletto nei ranghi delle Force Grey") tra i fili che Nihiloor ha già tessuto prima di questa missione. In `ai/knowledge/stato-missioni.md`, **Force Grey M3 "Crimini di Pensiero" risulta ancora `Pianificata`** (non risulta confermata come giocata a tavolo, anche se la "Cronologia consigliata" nello stesso file la collocava prima del Vault, S13+). Non serve recuperarla retroattivamente per rendere coerente questa M4: tratta l'infiltrazione dei Divoratori come già scoperta offscreen, coerentemente con quanto la Sinossi già presume. Il filo resta comunque disponibile come sessione a sé per il futuro — vedi Thread Narrativi in fondo al documento.
+
 #### Ambientazione Principale
 
 **Luogo:** Covo di Xanathar — grotta sommersa nelle acque profonde del porto di Waterdeep
@@ -71,7 +98,7 @@ Questa missione chiude il ciclo Force Grey — è il punto di non ritorno.
 - Camera di Detenzione (grata di ferro, prigioniero Brottor Deepdelver, 12/45 PF)
 - Camera dei Divoratori (la sua distruzione è condizione critica per il successo della missione)
 
-**Nota importante:** il layout esatto è tratto dal capitolo 6 di *Waterdeep: Dragon Heist* (sezioni della X-zone).
+**Nota importante:** il layout esatto è tratto dal **capitolo 5 "Spring Madness"** di *Waterdeep: Dragon Heist* (sezione "Xanathar's Lair", aree con prefisso X).
 
 #### PNG Chiave
 
@@ -82,6 +109,11 @@ Questa missione chiude il ciclo Force Grey — è il punto di non ritorno.
 | **Xanathar** | Beholder, signore del crimine | Gilda (assente durante la missione) | Non presente sul posto |
 | **Brottor Deepdelver** | Prigioniero liberabile | Ordine dei Magisti / Force Grey | Mentore di Vorador, 12/45 PF (non combatte) |
 | **Zelifarn** | Drago di bronzo alleato | Indipendente / semi-alleato | Legame con la M2: può rivelare la posizione del covo |
+
+**Attitudine PNG rilevanti per questa sessione (da `ai/knowledge/png-incontrati.md` e `rapporti.md`):**
+- **Zelifarn** — Attitudine verso Vorador: ✅ Alleato (salvatore in Force Grey M2). Verso Razak: ✅ Alleato (stesso evento). Nessun cambiamento d'atteggiamento previsto in questa missione, ma la sua reticenza a entrare nel covo (BT-F1) è una buona occasione perché entrambi mostrino gratitudine o rispetto verso di lui prima che resti fuori.
+- **Brottor Deepdelver** — Attitudine verso Vorador: 🔒 Mentore/alleato storico, da riconfermare dopo undici giorni di prigionia. Vedi Incontro 3 per la scena dedicata.
+- **Vajra Safahr** — non presente fisicamente in questa missione, ma referente a cui riportare l'esito (Obiettivo 7): Attitudine verso Vorador e Razak: ✅ Alleato-formale (Force Grey ufficiali dal S5).
 
 #### Obiettivi Missione
 
@@ -114,6 +146,8 @@ Questa missione chiude il ciclo Force Grey — è il punto di non ritorno.
 - Informazioni su Nihiloor
 - Un filo diretto verso il covo
 
+**[NOTA DM — riservata] Spotlight Razak Kendal:** l'addestramento monastico ("la sofferenza è una prova e la forza risiede nella capacità di sopportare e proteggere") può emergere qui in una riga di colore — è lui a reggere per primo il contatto mentale del Divoratore, lasciando che gli altri intervengano un istante dopo. Non serve una meccanica dedicata: basta descriverlo.
+
 ---
 
 **INCONTRO 2: Ingresso al covo (tre approcci, il party ne sceglie uno)**
@@ -130,6 +164,8 @@ Questa missione chiude il ciclo Force Grey — è il punto di non ritorno.
 > *La sua voce, di solito calma come pietra levigata dall'acqua, si incrina appena su "menti." Anche un drago che ha sopravvissuto a Xanathar in persona preferisce restare fuori da questa porta.*
 
 - Vantaggio: scorciatoia diretta, evita le trappole maggiori
+
+**[NOTA DM — riservata]** Se il party sceglie questa via, è un buon momento per un piccolo scambio tra Zelifarn e i suoi due alleati Force Grey (Razak, Vorador) — un cenno di rispetto reciproco maturato da Force Grey M2, prima che il drago si fermi sulla soglia (BT-F1).
 
 **Via degli Informatori (standard):**
 - Magazzino abbandonato, Dock Ward
@@ -161,6 +197,8 @@ Questa missione chiude il ciclo Force Grey — è il punto di non ritorno.
 **Meccanica apertura grata:**
 - **Forza CD 15** oppure
 - **Investigazione CD 13** (meccanismo nascosto nel muro)
+
+**[NOTA DM — riservata] Hook Vorador — risoluzione parziale del gancio personale:** questo è il momento in cui il filo narrativo di Vorador (mentore scomparso) trova una risposta concreta, non solo un indizio. Lascia che il giocatore reagisca senza fretta: Brottor è vivo, ha resistito, ma è cambiato. Il dialogo sotto (BT-F2) già risponde direttamente al "perché" — se Vorador lo chiede comunque a voce alta, lascia che Brottor lo ripeta con parole sue. Dopo la scena, valuta con Seba se Vorador preferisce restare accanto a Brottor per il resto della missione o accettare che venga messo al sicuro subito: nessuna delle due è la scelta "sbagliata".
 
 **Dialogo di Brottor (al riconoscere Vorador):**
 
@@ -212,6 +250,8 @@ Questa missione chiude il ciclo Force Grey — è il punto di non ritorno.
 - Controllo telepatico su una creatura indebolita (Salvezza su Saggezza CD 13)
 - Muro di muco (accesso controllato alla camera)
 
+**[NOTA DM — riservata] Hook Vorador — patto con Dendar:** Nihiloor stesso è una fonte di terrore puro (Tentacoli Psichici, Mindblast — entrambi possono terrorizzare). Se emergono condizioni di "terrorizzato" su nemici o alleati durante lo scontro, considera se possano saziare — almeno in parte — la fame di Dendar. Non serve una meccanica dedicata: è un possibile momento di quiete interiore per Vorador (un attimo senza incubi in vista), che il giocatore può notare da solo se il DM lo lascia emergere in narrazione, senza sottolinearlo esplicitamente.
+
 **Dialogo di Nihiloor (telepatico — nessun suono):**
 
 [BOXED TEXT — ID: BT-F3]
@@ -232,6 +272,8 @@ Questa missione chiude il ciclo Force Grey — è il punto di non ritorno.
 > *"Avete imparato in fretta. Chi vi ha addestrato?"*
 >
 > *Non aspetta risposta — è una domanda retorica. Poi convoca i Divoratori rimasti.*
+
+**[NOTA DM — riservata] Spotlight Razak Kendal:** il Raggio Mindblast e i Tentacoli Psichici mettono alla prova esattamente il tipo di sofferenza che il Monastero della Rosa Gialla gli ha insegnato a sopportare. Se Razak supera un tiro salvezza contro un effetto psichico con margine, è un buon momento per una riga di colore: la disciplina del monastero contro la mente aliena di un illithid — due modi opposti di intendere il controllo di sé.
 
 **Alla sconfitta:**
 
@@ -268,6 +310,8 @@ Questa missione chiude il ciclo Force Grey — è il punto di non ritorno.
 - **Conseguenza narrativa:** il covo di Xanathar è compromesso — implicazioni politiche enormi
 - **Bonus (Brottor liberato):** +50 mo a testa, +1 Fama Force Grey aggiuntiva, Brottor disponibile come PNG dopo la missione
 
+**[NOTA DM — riservata]** Il bonus "Brottor liberato" non è solo meccanico: è la chiusura (parziale) del gancio personale di Vorador aperto fin dall'inizio della campagna. Se il party lascia Brottor indietro, vedi la variante corrispondente più sotto (conseguenza emotiva diretta per Vorador).
+
 ---
 
 ### MISSIONE 2: Zentharim M4 — "Sangue del Patto" (Confronto col Magistrato)
@@ -288,6 +332,12 @@ Questa missione chiude il ciclo Force Grey — è il punto di non ritorno.
 
 **Il colpo di scena:** quando la condanna sembra ormai inevitabile, in aula si rivela un **simulacro di Manshoon**. Il caos che ne segue è chirurgico, calcolato al secondo. Vosk fugge portando con sé le prove originali. La finestra verso Rennis — il prigioniero di Manshoon, mentore di Scintilla — si apre e si richiude in pochi istanti.
 
+**[NOTA DM — riservata] Hook per Friedrich Krauser:** questa è la scena di "regolamento di conti" del suo arco — l'incontro diretto col magistrato che firmò l'ordine per l'imboscata nella Shadowfell. Non è solo una missione di fazione: è il confronto che l'intero arco Zentharim di Friedrich ha costruito dal Cap. 2 (Seme del Dubbio → Breaking Point → Oathbreaker in S9). Non serve rivelare Aldric — ma la retorica pragmatica di Davil ("Non ti sto chiedendo di fare la cosa giusta. Ti sto chiedendo di fare la cosa utile", vedi BT-Z1/BT-Z2) è quasi un'eco diretta di quanto Aldric gli ha già detto in passato ("Il problema del Bene assoluto è che funziona benissimo nelle parabole. Nella realtà, il Male raramente aspetta che tu abbia finito di rispettare i tuoi principi."). Se Gabri nota l'eco da solo, lascialo dire — non sottolinearlo tu. È un indizio sottile, non una rivelazione: Aldric = Asmodeo resta un segreto DM.
+
+**[NOTA DM — riservata] Hook per Fizzra "Scintilla":** l'uomo dal tatuaggio (serpente alato) è un filo diretto — ma **non ancora una rivelazione** — verso Rennis Coalsworth, prigioniero di Manshoon alle Kolat Towers. Scintilla non deve scoprire questo fatto oggi: il massimo che può ottenere è la conferma che il simbolo corrisponde a quanto Rennis aveva descritto nei suoi registri (già presente in BT-Z4) e un accesso più profondo alle Torri Kolat (vedi Scena 5 e Ricompense). Trattalo come un presagio, non come una soluzione.
+
+**[NOTA DM — riservata — continuità missioni]** La Sinossi sopra presume che Davil abbia già "le prove" dell'imboscata nella Shadowfell contro Vosk. Secondo `ai/knowledge/contesto.md`, è proprio la **Zentharim M3 "Corri, Dasher!"** a produrre quel dossier (Sezione A per Krauser: prove sulla Shadowfell; Sezione B per Scintilla: registro Rennis/Manshoon) — ma in `ai/knowledge/stato-missioni.md` risulta ancora `Pianificata`. Se "Corri, Dasher!" non è stata giocata a tavolo, tratta le prove come già raccolte da Davil per altra via: non serve recuperarla prima di questa sessione. Resta un filo papabile per una sessione futura indipendente — vedi Thread Narrativi in fondo al documento.
+
 #### Ambientazione Principale
 
 **Luoghi:**
@@ -304,6 +354,11 @@ Questa missione chiude il ciclo Force Grey — è il punto di non ritorno.
 | **Simulacro di Manshoon** | Agente del caos | Zhentarim (Manshoon) | Si rivela in aula, copre la fuga |
 | **Uomo dal tatuaggio** | Agente di Manshoon | Zhentarim | Serpente alato — filo diretto verso Rennis/Torri Kolat |
 | **Yagra Stonefist** | Supporto Zhentarim | Zhentarim | Si mescola al "pubblico," scorta discreta |
+
+**Attitudine PNG rilevanti per questa sessione (da `ai/knowledge/png-incontrati.md` e `rapporti.md`):**
+- **Davil Starsong** — Attitudine verso Friedrich: ✅ Alleato-pragmatico (rafforzato dal talismano di Sylrael Voss, S5). Verso Scintilla: ✅ Alleato-affidabile. Nessun cambiamento previsto in questa scena, ma la sua onestà spietata sui propri motivi (BT-Z1/BT-Z2) è coerente col rapporto già consolidato — non sta chiedendo altro credito, sta solo incassando quello che ha.
+- **Valerius Vosk** — Attitudine verso Friedrich: ❌ Ostile/antagonista-speculare — primo incontro di persona in questa scena, dopo mesi in cui era solo un nome e un simbolo (il talismano di Sylrael Voss). La sua battuta (BT-Z3) è scritta per colpire proprio l'identità di Oathbreaker di Friedrich.
+- **Yagra Stonefist** — Attitudine verso entrambi: 🤝 Neutrale/intermediaria, presenza discreta in sala; nessuna interazione diretta prevista salvo iniziativa dei giocatori.
 
 #### Obiettivi Missione
 
@@ -343,6 +398,8 @@ Questa missione chiude il ciclo Force Grey — è il punto di non ritorno.
 
 **Meccanica:** Davil non dice mai che sia la cosa giusta. Lascia che sia Krauser a decidere se questo importa.
 
+**[NOTA DM — riservata]** Se Gabri fa il collegamento con Aldric da solo, lascialo dire — non forzarlo tu. Il parallelo vive nella scrittura della scena (la stessa freddezza pragmatica), non in una battuta esplicita di Davil.
+
 **Se Krauser rifiuta:** la missione collassa. Davil resta freddo: *"Era la tua unica occasione. Ora Vosk è intoccabile."* Le Torri Kolat restano l'unica via, senza il supporto degli Zhentarim.
 
 ---
@@ -360,6 +417,21 @@ Questa missione chiude il ciclo Force Grey — è il punto di non ritorno.
 
 **Dialogo autentico — Vosk ci crede davvero.**
 
+**[NOTA DM — riservata]** Vosk sta toccando, senza saperlo con precisione, la ferita legata allo status di Oathbreaker di Friedrich — non conosce Aldric né il patto, ma intuisce che qualcosa in lui si è rotto. Lascia che sia il giocatore a scegliere come reagire: negazione, rabbia trattenuta, silenzio. Non serve una meccanica; basta lo spazio per giocarla.
+
+**Durante la testimonianza di Krauser (Persuasione/Intimidazione CD 14):**
+
+[BOXED TEXT — ID: BT-Z3B]
+> **Valerius Vosk** *(incrociando le braccia, rivolto al giudice dopo la deposizione)*:
+>
+> *"Questo uomo ha rotto il suo voto sacro a Tyr. Ha venduto la sua anima a un lord degli Inferi. E voi prendete la sua parola?"*
+>
+> *Il giudice esita. La stanza esita. Ma le prove sono scritte, non solo parlate.*
+
+**Meccanica:** **Successo** — le prove hanno peso, la condanna si avvicina, la sala sente tutto. **Fallimento** — Vosk mette in dubbio la credibilità di un Oathbreaker, l'aula tentenna, ma le prove restano comunque valide.
+
+**Micro-hook Barnabus "Barney" Reed (se presente):** la Guardia Cittadina fornisce sempre un cordone di sicurezza per i processi pubblici di alto profilo nel Quartiere del Castello. Barney potrebbe essere di turno qui — non per scelta, ma perché Staget gli assegna sempre gli incarichi più ingrati e umilianti. Un cenno o una battuta a distanza con Friedrich/Scintilla basta: Barney non sa (ancora) che lavorano con gli Zhentarim, ma nota che i due sono coinvolti in qualcosa di più grande di un controllo di routine. Nessuna rivelazione — solo tensione ambientale in sottofondo, coerente col fatto che Barnabus non deve scoprire il legame Zhentarim troppo presto.
+
 ---
 
 **SCENA 3: Scintilla e l'uomo dal tatuaggio**
@@ -374,6 +446,8 @@ Questa missione chiude il ciclo Force Grey — è il punto di non ritorno.
 - **CD 15 Percezione aggiuntiva:** nota anche che ha una borsa ai piedi, parzialmente aperta — pronto a muoversi
 
 **Se Scintilla fallisce:** lo nota solo quando si alza — troppo tardi per anticipare.
+
+**[NOTA DM — riservata]** Attitudine dell'uomo dal tatuaggio verso Scintilla: sconosciuto/ostile di default (agente di Manshoon, non la percepisce come minaccia finché lei non agisce). Questo è il primo contatto visivo diretto del filone narrativo di Rennis: trattalo come un presagio, non come un'informazione risolutiva. Eric non deve arrivare a collegare esplicitamente il tatuaggio a Rennis prigioniero — deve solo notare che il simbolo è lo stesso descritto da Rennis, il che è già abbastanza per costruire tensione senza svelare il segreto.
 
 ---
 
@@ -416,6 +490,8 @@ Questa missione chiude il ciclo Force Grey — è il punto di non ritorno.
 > *Nel caos dell'aula, Scintilla vede l'uomo dal tatuaggio uscire dall'ingresso laterale. Non sta fuggendo — sta guidando Vosk. Se lo segue adesso, potrebbe seguirlo fino alle Torri Kolat. Se resta, Friedrich Krauser affronta il simulacro senza di lei.*
 >
 > *Non c'è una risposta giusta. Non è un test di fedeltà — è una domanda su cosa conta di più. E non esiste una risposta universale.*
+
+**[NOTA DM — riservata] Hook Fizzra "Scintilla":** questa è la scelta più importante della sua sessione. Nessuna opzione deve sembrare "quella giusta" nella narrazione — il testo lo dice già esplicitamente. Se resta, il momento con Krauser dopo ("Potevi seguirlo." / "Lo so.") è lo spotlight della sua lealtà di gruppo. Se segue, guadagna terreno verso Rennis ma paga con l'assenza nel momento critico — entrambe le strade alimentano il suo arco, nessuna lo chiude.
 
 **Esiti:**
 
@@ -463,6 +539,8 @@ Questa missione chiude il ciclo Force Grey — è il punto di non ritorno.
 - **Debito di Davil:** supporto logistico disponibile per le Torri Kolat
 - **Conseguenza narrativa:** via diretta verso le Torri Kolat (Rennis, Manshoon, conclusione dell'arco M4)
 
+**[NOTA DM — riservata]** Le "Informazioni Torri Kolat" ottenute qui sono il primo vero avvicinamento del filone narrativo di Scintilla al filo di Rennis — ma restano un indizio, non la scoperta. Il "non era lì quando serviva" (se segue) o il debito emotivo con Krauser (se resta) sono entrambi materiale per sessioni future, non da chiudere qui.
+
 ---
 
 ### MISSIONE 3: Arpisti M4 — "Velo Alzato" (Infiltrazione sull'Eyecatcher)
@@ -487,10 +565,12 @@ Gli Arpisti sospettano che la nave **Eyecatcher** e il suo misterioso capitano, 
 **Infiltrazione tattica, non combattimento diretto.**
 
 **Colpo di scena:** nel baule di Jarlaxle, due documenti rivelano:
-- Una mappa planare con un punto di instabilità su Sildëyuir — la patria di Aelar
+- Una mappa planare con un punto di instabilità sul Mar del Nord, nella posizione approssimativa di Sildëyuir — la patria di Aelar
 - Una lettera in alto elfico, firmata "T." (Trobbio), indirizzata a Jarlaxle: il patto tra l'arcifata e il drow è reale
 
 **Apparizione di Trobbio:** nel sommergibile Scarlet Marpenoth, mentre Aelar tiene ancora in mano il documento, Trobbio appare per dieci secondi. Conferma di sapere tutto. Un patto mai firmato può comunque diventare reale.
+
+**[NOTA DM — riservata] Hook per Aelar Moonwhisper:** l'intera missione converge sul suo arco personale (Sildëyuir, i Nilshai, il patto non richiesto di Trobbio) — è la missione con il legame più diretto e ininterrotto a un singolo PG di tutta la sessione. Non servono hook aggiuntivi per bilanciare lo spotlight: qui Aelar È lo spotlight. L'unica cura richiesta è non affrettare le Scene 4 (documenti) e 5 (Trobbio) — sono il cuore emotivo della missione, il ritmo lento è intenzionale.
 
 #### Ambientazione Principale
 
@@ -499,6 +579,8 @@ Gli Arpisti sospettano che la nave **Eyecatcher** e il suo misterioso capitano, 
 - **Nave Eyecatcher** — la corsara di Jarlaxle, ormeggiata al molo principale, tre ponti
 - **Scarlet Marpenoth** — sommergibile ancorato sotto l'Eyecatcher
 - **Giorno delle Meraviglie** — evento pubblico, Jarlaxle assente per quattro-sei ore
+
+**Nota importante:** la nave e il capitano compaiono nel **capitolo 7 "Maestro's Fall"** di *Waterdeep: Dragon Heist* (sezione "Sea Maidens Faire").
 
 #### PNG Chiave
 
@@ -509,6 +591,12 @@ Gli Arpisti sospettano che la nave **Eyecatcher** e il suo misterioso capitano, 
 | **Mirt il Cambiavalute** | Chi assegna il briefing | Arpisti | Ex avventuriero leggendario |
 | **Remallia Haventree** | Comando Arpisti (forse) | Arpisti | Briefing privato sul background planare di Aelar |
 | **Trobbio** | Arcifata patrono | Feywild | Apparizione di 10 secondi, conferma il patto |
+
+**Attitudine PNG rilevanti per questa sessione (da `ai/knowledge/png-incontrati.md` e `rapporti.md`):**
+- **Remallia Haventree** — Attitudine verso Aelar: ✅ Alleato-esigente (supervisor diretta da Villa Ulbrinter, M1). Questa missione rafforza il rapporto se Aelar si apre almeno in parte nel briefing privato.
+- **Mirt il Cambiavalute** — Attitudine verso Aelar: ✅ Alleato-affidabile (referente storico dalla M1). Il suo tono meno formale (BT-A3) è coerente con la fiducia già consolidata.
+- **Jarlaxle Baenre / "Zardoz Zord"** — Attitudine verso il party: 🤝 Neutrale-sospettoso (già incontrato in S7 al porto come Zardoz Zord — ha scortato di persona l'ispezione di tre navi senza che nulla emergesse; l'identità Jarlaxle non è ancora nota al party). Questa missione non richiede un incontro diretto (è assente per il Festival), ma ricorda che tecnicamente si sono già "conosciuti" se il filo si riapre in futuro.
+- **Zelifarn** — Attitudine verso il party (in particolare Aelar): ✅ Alleato (S9 — salvatore da Obliteros, hook aperto sul festival Arpisti). La sua presenza nella Via Subacquea è la chiusura naturale di quell'hook.
 
 #### Obiettivi Missione
 
@@ -535,6 +623,8 @@ Gli Arpisti sospettano che la nave **Eyecatcher** e il suo misterioso capitano, 
 > *Remallia sceglie le parole con la cura di chi ha già indovinato la risposta e sta solo lasciando ad Aelar lo spazio per confermarla — o per continuare a tacere.*
 
 **Nota DM:** cosa rivela Aelar è una scelta del giocatore. Nessuna conseguenza immediata in una direzione o nell'altra — ma conta per il finale.
+
+**[NOTA DM — riservata] Per il DM:** Remallia non sa dei Nilshai né della crepa nel sigillo di Sildëyuir — sta solo notando che Aelar reagisce in modo diverso a certi termini planari. Qualunque cosa Aelar scelga di rivelare non deve necessariamente collegarsi subito a Trobbio o al patto: può restare una confessione parziale, coerente col suo tratto di carattere già stabilito nel background ("ho smesso di fare domande dopo che la terza risposta possibile mi sembrò più inquietante delle prime due").
 
 ---
 
@@ -576,10 +666,10 @@ Gli Arpisti sospettano che la nave **Eyecatcher** e il suo misterioso capitano, 
 
 **Documento A — Mappa planare parziale:**
 
-Una mappa di Faerûn segnata da punti d'inchiostro dorato — *"Instabilità planari confermate."* Uno dei punti cade sulla posizione approssimativa di Sildëyuir, rispetto al piano materiale. Accanto al punto: *"Fonte: T. Verifica: in corso."*
+Una mappa di Faerûn segnata da punti d'inchiostro dorato — *"Instabilità planari confermate."* Uno dei punti cade nel Mar del Nord, sulla posizione approssimativa di Sildëyuir, rispetto al piano materiale. Accanto al punto: *"Fonte: T. Verifica: in corso."*
 
 [BOXED TEXT — ID: BT-A6]
-> *Documento A — Mappa planare parziale: una mappa di Faerûn segnata da punti d'inchiostro dorato — "Instabilità planari confermate." Uno dei punti cade sulla posizione di Sildëyuir. Accanto: "Fonte: T. Verifica: in corso."*
+> *Documento A — Mappa planare parziale: una mappa di Faerûn segnata da punti d'inchiostro dorato — "Instabilità planari confermate." Uno dei punti cade nel Mar del Nord, sulla posizione di Sildëyuir. Accanto: "Fonte: T. Verifica: in corso."*
 
 **Documento B — Lettera in alto elfico, firmata "T.":**
 
@@ -589,6 +679,8 @@ Una mappa di Faerûn segnata da punti d'inchiostro dorato — *"Instabilità pla
 > *"Caro capitano, il soggetto si avvicina a voi più in fretta di quanto avessi previsto — è tanto puntuale quanto inconsapevole. La breccia che porta con sé è reale e documentabile. Usatela pure come leva: non è mia, appartiene a lui. Io mi limito a osservare. — T."*
 
 **Nota DM:** solo Aelar può leggerla senza ricorrere alla magia. Consegnatela piegata. Trobbio ha usato la colpa di Aelar come moneta di scambio con Jarlaxle. Il patto, mai firmato, era già in corso — all'insaputa di Aelar.
+
+**[NOTA DM — riservata]** La macchia di instabilità su Sildëyuir tocca direttamente il senso di colpa che Aelar porta da apprendista — la crepa nel sigillo che lui stesso potrebbe aver contribuito a causare, da giovane, quando un Nilshai riuscì a passare attraverso le difese indebolite. Non serve dirlo esplicitamente: la mappa parla da sola. Lascia che sia il giocatore a collegare i puntini.
 
 ---
 
@@ -613,6 +705,8 @@ Una mappa di Faerûn segnata da punti d'inchiostro dorato — *"Instabilità pla
 **Atmosfera DM:** dieci secondi precisi. Nessuna minaccia, nessuna negoziazione, nessuna spiegazione. Se il party ha visto Trobbio, ha visto solo un lampo di rosa prima ancora di poter reagire.
 
 **Nota critica:** il Maestro Bec non dice nulla — per la prima volta dall'inizio della campagna in un momento in cui avrebbe potuto parlare.
+
+**[NOTA DM — riservata]** Il silenzio di Bec qui è voluto proprio perché eccezionale: di norma "giudica tutto" con un "Meeep" sibillino, persino nei momenti più concitati. Il fatto che taccia davanti a Trobbio — l'unico PNG di cui il familiare non si fida apertamente, per stessa ammissione del background di Aelar — è un dato che il giocatore può notare da solo, senza che nessun altro al tavolo debba sottolinearlo.
 
 **Nota DM:** non è un combattimento, non è negoziabile. È la conferma che Trobbio sa tutto — e ora Aelar sa che Trobbio sa. Il patto mai firmato può diventare reale quando lo decide il giocatore. Trobbio possiede già ogni informazione.
 
@@ -691,7 +785,8 @@ Una mappa di Faerûn segnata da punti d'inchiostro dorato — *"Instabilità pla
 | **BT-F5** | Force Grey M4 | Sconfitta di Nihiloor | "...questo non era previsto." | Dialogo Telepatico (Boss, finale) |
 | **BT-Z1** | Zentharim M4 | Briefing di Davil | "Krauser. Hai le prove..." | Dialogo PNG |
 | **BT-Z2** | Zentharim M4 | Briefing di Davil (seguito) | "Vosk è un magistrato..." | Dialogo PNG |
-| **BT-Z3** | Zentharim M4 | Aula del Tribunale | "Guarda cosa sei diventato..." | Dialogo Antagonista (Vosk) |
+| **BT-Z3** | Zentharim M4 | Aula del Tribunale (ingresso) | "Guarda cosa sei diventato..." | Dialogo Antagonista (Vosk) |
+| **BT-Z3B** | Zentharim M4 | Aula del Tribunale (testimonianza) | "Questo uomo ha rotto il suo voto..." | Dialogo Antagonista (Vosk) |
 | **BT-Z4** | Zentharim M4 | Scintilla osserva il pubblico | "Mentre tutti guardano..." | Descrizione Narrativa |
 | **BT-Z5** | Zentharim M4 | Apparizione del Simulacro | "L'uomo in quinta fila..." | Descrizione Narrativa (Climax) |
 | **BT-Z6** | Zentharim M4 | Dialogo del Simulacro | "Non siete l'obiettivo..." | Dialogo Boss (Simulacro) |
@@ -727,6 +822,8 @@ Una mappa di Faerûn segnata da punti d'inchiostro dorato — *"Instabilità pla
 **Se Brottor Deepdelver viene lasciato indietro:**
 - Brottor muore nel covo durante il collasso
 - Vorador perde il proprio filo narrativo personale — conseguenza emotiva
+
+**[NOTA DM — riservata]** Questa variante è l'unico esito realmente negativo per l'arco personale di Vorador in questa sessione. Se il tavolo sembra andare in questa direzione per motivi tattici (tempo, risorse), considera di dare un ultimo avviso narrativo esplicito prima che sia irreversibile — il gancio è troppo centrale per essere perso per una svista tattica al tavolo.
 
 ---
 
@@ -769,6 +866,8 @@ Una mappa di Faerûn segnata da punti d'inchiostro dorato — *"Instabilità pla
 - Conseguenza: Jarlaxle nasconde la nave, scompare al Cap. 5
 - Vantaggio strategico ma perdita di informazioni
 - Trobbio non appare (il documento B non è stato trovato)
+
+**[NOTA DM — riservata]** Se Trobbio non appare in questa sessione (documento B non trovato), il suo hook con Aelar resta aperto per una sessione futura — non forzare l'apparizione altrove solo per "recuperarla".
 
 **Se il party non scopre l'oggetto sotto la chiglia:**
 - Gli Arpisti hanno comunque prove del traffico drow
@@ -868,48 +967,120 @@ Una mappa di Faerûn segnata da punti d'inchiostro dorato — *"Instabilità pla
    - Force Grey: 4-6 ore (a densità di combattimento)
    - Zentharim: 2-3 ore (a densità di roleplay)
    - Arpisti: 3-4 ore (a densità di esplorazione, dipendente dal tempismo)
-   - **Totale S17:** fino a 9-13 ore se giocate tutte di fila. Valutare uno split su due sessioni.
+   - **Se giocate più di una nella stessa serata:** fino a 9-13 ore totali. Valutare uno split su più sessioni.
+6. **Spotlight per PG:** qualunque missione scegliate, ogni PG presente ha almeno un momento dedicato — vedi le note `[NOTA DM — riservata]` disseminate nel testo di ciascuna missione. Barnabus "Barney" Reed non ha un aggancio di fazione diretto in nessuna delle tre missioni (Guardia Cittadina indipendente); se presente, usare il micro-hook opzionale nella Zentharim M4 (Scena 2, cordone di sicurezza in aula) — non forzare oltre.
 
 ---
 
 ## Aggiornamenti DM Critici
 
-**Completamento S16:**
-- Esito del climax Cassalanter determinato (assalto al tempio, gemelli salvati o meno)
-- Vault aperto, party Lv 5 confermato
-- Vorador attunato allo Stone of Golorr (ultimo portatore confermato)
+**Già vero indipendentemente da S16 (stabilito da S14/S15):**
+- Vault of Dragons chiuso, party Lv 5 confermato
+- Attunement allo Stone of Golorr passato ad Aelar (ultimo portatore confermato in S10); Vorador ne è stato un portatore precedente
+- Villa Cassalanter, Parte I (infiltrazione, S15) giocata: il party conosce il nome "Cassalanter", ha raccolto prove, conosce i gemelli Terenzio ed Elzerina
 
-**Preparazione S17:**
+**Se S16 (il climax — tempio, banchetto, confronto coi Cassalanter) è già stata giocata al tuo tavolo:**
+- L'esito del climax (gemelli salvati o meno, sorte di Victoro/Ammalia) è determinato — usalo per calibrare il tono delle note legate al presagio di Hlam per Razak (vedi hook nella Force Grey M4)
+- Il debito di Krauser verso Asmodeo (rinegoziazione per i gemelli, se tentata) è già in corso o risolto — coordina con `campagna/personaggi/Friedrich-Krauser.md`
+
+**Se S16 non è ancora stata giocata (le M4 arrivano prima):**
+- Il presagio di Hlam resta ancora un peso non risolto per Razak — non anticipare l'esito della villa, ma è legittimo lasciare che il giocatore lo senta sullo sfondo
+- Non rivelare dettagli del tempio, del banchetto avvelenato o della sorte dei gemelli: restano materiale esclusivo di S16
+
+**Preparazione S17 (valida in entrambi i casi):**
 - Le tre missioni M4 sono disponibili in modo indipendente
 - Nessun prerequisito oltre "party Lv 5, post-Vault"
-- Tempistica: possono essere giocate in qualunque ordine, ma la narrazione suggerirebbe Force Grey > Zentharim > Arpisti (per crescendo drammatico)
-- Pianificazione delle vittime: se il party fallisce in una missione, le altre restano disponibili
+- Tempistica: possono essere giocate in qualunque ordine tra loro; rispetto a S16 possono precederla o seguirla
+- Se il party fallisce in una missione, le altre restano disponibili
 
-**Dopo S17:**
-- Le conclusioni delle M4 portano all'endgame finale Cassalanter (Villa, gemelli, negoziazione con Asmodeo tramite Krauser)
+**Dopo tutte e tre le M4 (indipendentemente da quando si gioca S16):**
+- Le conclusioni delle M4 confluiscono nell'endgame Cassalanter (villa, gemelli, eventuale negoziazione con Asmodeo tramite Krauser)
 - Le Torri Kolat diventano un possibile dungeon per il Cap. 5+ (salvataggio di Rennis, confronto con Manshoon)
-- Il patto di Trobbio diventa un debito esigibile nelle campagne future
+- Il patto di Trobbio diventa un debito esigibile nelle sessioni future
 
 ---
 
-**File Generato:** 2026-07-09
-**Status:** Traduzione ed elevazione stilistica completate — pronto per Agente 3 (PC Integrator)
-**Prossimo passo:** integrazione con i personaggi giocanti (Step 3), poi formattazione finale in dm-notes-sessione-17.md
+## 🧩 THREAD NARRATIVI — Setup per Sessioni Future
+
+| Hook | Fazione | PG coinvolti | Stato | File |
+|------|---------|--------------|-------|------|
+| M3 "Crimini di Pensiero" — infiltrazione Divoratori d'Intelletto nei ranghi Force Grey (già presunta risolta nella Sinossi M4) | Force Grey | Razak Kendal, Vorador Thraxas | Pianificata *(da chiarire: giocata offscreen o thread reale ancora aperto — recupero facoltativo in sessione futura)* | `missioni-secondarie/forcegrey/M3-CriminiDiPensiero.md` |
+| M3 "Corri, Dasher!" — dossier Snobeedle/Vosk (fonte presunta delle "prove" già in mano a Davil nella M4) | Zentharim | Friedrich Krauser, Fizzra "Scintilla" | Pianificata *(da chiarire: giocata offscreen o thread reale ancora aperto — recupero facoltativo in sessione futura)* | `missioni-secondarie/zentharim/M3-CorriDasher.md` |
+| M3 "Benvenuti in Famiglia" — banda di doppelganger, contatto Mattrim "Tre Corde" Mereg (nessun legame testuale con la M4 Arpisti) | Arpisti | Aelar Moonwhisper | Pianificata *(thread indipendente, non collegato a S17 — da recuperare in una sessione dedicata futura)* | `missioni-secondarie/arpisti/M3-BeneventutiInFamiglia.md` |
+| Rennis Coalsworth / Torri Kolat — filo dell'uomo dal tatuaggio (presagio, non rivelazione) | Zentharim | Fizzra "Scintilla", Friedrich Krauser | Piantato in M4 (BT-Z4/BT-Z7) — In attesa di sviluppo | `missioni-secondarie/zentharim/M4-SangueDeiPatto.md` |
+| Patto di Trobbio / instabilità planare su Sildëyuir | Arpisti | Aelar Moonwhisper | Attivo — rivelato parzialmente in M4 (BT-A6/BT-A7/BT-A8), conseguenze future aperte | `missioni-secondarie/arpisti/M4-VeloAlzato.md` |
+| Brottor Deepdelver liberato — mentore ricorrente, "cambiato" | Force Grey | Vorador Thraxas | Attivo *(se liberato in M4)* — PNG disponibile per archi futuri | `missioni-secondarie/forcegrey/M4-CoseTerribili.md` |
+| Covo di Xanathar compromesso / Xanathar minaccia secondaria Cap. 5 | Force Grey / Gilda di Xanathar | Tutto il party | In attesa — dipende dall'esito M4 | `missioni-secondarie/forcegrey/M4-CoseTerribili.md` |
+| Manshoon come minaccia principale post-Cap.5 (simulacro, Torri Kolat) | Zentharim | Friedrich Krauser, Fizzra "Scintilla" | In attesa — endgame Cap. 5+ | `missioni-secondarie/zentharim/M4-SangueDeiPatto.md` |
 
 ---
 
-## Nota dell'Editor — Agente 2
+## 📋 RECAP POST-SESSIONE
 
-**Scelte stilistiche principali:**
-- Corretti i calchi e gli errori grammaticali più evidenti dell'estrazione grezza: "orquestrato" → "orchestrato", "compromiso" → "compromesso", "secundario" → "secondario", e varie strutture sintattiche anglicizzanti ("ha impiegato più tempo del previsto" invece di costruzioni calcate, verbi più specifici come "riverberare," "scorgere," "annidato" al posto di "essere" e "vedere" generici).
-- Adottato consistentemente il passato remoto per le azioni narrate e l'imperfetto per le descrizioni d'ambiente, in linea con la regola sui tempi verbali.
-- Per i testi boxed più asciutti (dialoghi telepatici di Nihiloor, battute finali di Vosk, righe secche del simulacro) non ho forzato aggiunte atmosferiche: la loro forza sta nella brevità, e un'espansione avrebbe indebolito l'effetto — ho invece aggiunto blockquote atmosferici separati dove la scena beneficiava di maggiore respiro (ingresso al covo, camera di Brottor, scontro con Nihiloor, caos in aula, apparizione di Trobbio).
-- Tutte le aggiunte atmosferiche sono marcate `*[Aggiunta atmosferica]*` e collocate dopo il blockquote originale, mai fuse con esso; nessun dettaglio informativo dell'originale (nomi, CD, PF, simboli, oggetti) è stato omesso.
-- Ho tradotto in italiano corrente le sezioni di note DM che nell'estrazione erano rimaste in un misto italiano/inglese (es. "Connessioni Narrative," "Note Importanti," "Aggiornamenti DM Critici"), mantenendo però i nomi propri e la terminologia D&D secondo le tabelle di riferimento fornite da Agente 1.
+*[Da compilare DOPO aver scelto e giocato una delle tre missioni — non leggere al tavolo]*
 
-**Correzioni di continuity applicate:**
-- Nella tabella "Indice Encounter Completo," la voce "Grata ferro ceva" (probabile refuso) è stata normalizzata in "Grata di ferro."
-- Uniformato "Bec" a "il Maestro Bec" nella Scena 4 dell'Arpisti M4, per coerenza con il nome canonico del familiare di Aelar in `ai/knowledge/party.md`.
-- Verificato che le voci PNG per Nihiloor (glaciale, essenziale, mai emotivo) rispettino la voce canonica indicata nelle istruzioni agente; i suoi dialoghi restano deliberatamente privi di enfasi o retorica.
-- Nessuna incongruenza spaziale o temporale rilevata rispetto a `ai/knowledge/party.md` e `ai/knowledge/png-incontrati.md`: i riferimenti a Brottor Deepdelver (mentore di Vorador), Rennis Coalsworth (legato a Scintilla/Manshoon) e Trobbio (patrono di Aelar) sono coerenti con i fili aperti già presenti nelle schede party.
-- Le tre missioni sono state mantenute integralmente e indipendenti, come richiesto: nessun taglio di contenuto, nessuna fusione forzata delle trame di fazione.
+### Quale missione è stata giocata?
+
+- [ ] Force Grey M4 — "Cose Terribili da Sprecare"
+- [ ] Zentharim M4 — "Sangue del Patto"
+- [ ] Arpisti M4 — "Velo Alzato"
+- [ ] Nessuna (sessione rimandata / tempo insufficiente) — le tre restano disponibili per la prossima sessione
+
+### Se è stata giocata Force Grey M4 ("Cose Terribili da Sprecare")
+
+- [ ] Come è stato localizzato il covo? (Zelifarn / informatori / via arcana)
+- [ ] Nihiloor: ucciso, catturato, o fuggito?
+- [ ] Brottor Deepdelver liberato? (impatta il gancio personale di Vorador — vedi variante se lasciato indietro)
+- [ ] Camera dei Divoratori distrutta?
+- [ ] Allarme/collasso del covo: come si è conclusa la fuga?
+- [ ] Bottino raccolto (oro, oggetti magici)
+- [ ] Fama Force Grey guadagnata (+5 base, +1 se Brottor liberato)
+
+### Se è stata giocata Zentharim M4 ("Sangue del Patto")
+
+- [ ] Krauser ha testimoniato? Esito della prova (CD 14)?
+- [ ] Scintilla ha individuato l'uomo dal tatuaggio prima del caos?
+- [ ] Il simulacro di Manshoon è stato affrontato o ha semplicemente coperto la fuga?
+- [ ] Scelta di Scintilla: è rimasta col party o ha seguito l'uomo dal tatuaggio?
+- [ ] Vosk è fuggito con le prove originali? Quali informazioni sulle Torri Kolat sono state raccolte?
+- [ ] Fama Zhentarim guadagnata (+2 base, +1 se tatuaggio individuato prima del caos)
+
+### Se è stata giocata Arpisti M4 ("Velo Alzato")
+
+- [ ] Approccio di infiltrazione scelto: subacqueo / dal molo / diplomatico?
+- [ ] Documenti nel baule di Jarlaxle trovati e letti (mappa planare + lettera di Trobbio)?
+- [ ] Trobbio è apparso? Cosa ha rivelato Aelar a Remallia nel briefing privato?
+- [ ] La nave è stata scoperta durante l'infiltrazione? Conseguenze?
+- [ ] Oggetto sotto la chiglia identificato?
+- [ ] Fama Arpisti guadagnata (+3)
+
+### Progressione
+
+| Missione giocata | Esito | Note |
+|---|---|---|
+| *(compilare)* | *(compilare)* | Sistema a **milestone** — questa sessione non dà level up di per sé; il prossimo milestone resta legato alla chiusura dell'arco Cassalanter |
+
+### Aggiornamento PNG (in base alla missione giocata)
+
+- **Se Force Grey:** aggiornare Nihiloor (esito), Brottor Deepdelver (liberato/perso — mentore "cambiato" se liberato), Zelifarn (annotare la scena, nessun cambiamento di atteggiamento atteso), Vajra Safahr (riporto esito)
+- **Se Zentharim:** aggiornare Valerius Vosk (fuggito/status), Davil Starsong (debito riconosciuto), l'uomo dal tatuaggio (primo contatto — presagio Rennis), Barnabus (se presente, micro-hook giocato o no)
+- **Se Arpisti:** aggiornare Jarlaxle/Zardoz Zord (esito infiltrazione, scoperto o no), Remallia Haventree (rafforzata se Aelar si è aperto nel briefing privato), Mirt, Trobbio (se apparso — patto ora esplicito per Aelar)
+
+### Missioni
+
+- **La M4 giocata** → `Completata` in `ai/knowledge/stato-missioni.md`
+- **Le altre due M4** → restano `Pianificata`, disponibili per sessioni future
+- **Trama principale Cap. 6 (Villa Cassalanter)** → invariata da questa sessione (thread parallelo, non toccato)
+
+---
+
+## ✅ POST-SESSION CHECKLIST
+
+- [ ] `ai/knowledge/recaps/recap-sessione-17.md` — compilare dopo la sessione (template in `00-recap-updater.agent.md`), specificando quale missione M4 è stata giocata
+- [ ] `ai/knowledge/party.md` — aggiornare "Ultima sessione"; annotare oro/oggetti ottenuti dalla missione giocata; nessun level up atteso
+- [ ] `ai/knowledge/png-incontrati.md` — aggiornare i PNG della missione giocata (vedi Recap sopra per l'elenco specifico)
+- [ ] `ai/knowledge/stato-missioni.md` — la M4 giocata → `Completata`; le altre due M4 restano `Pianificata`
+- [ ] `ai/knowledge/fazioni.md` — aggiornare Fama/posizione della fazione della missione giocata
+- [ ] `ai/knowledge/rapporti.md` — aggiungere/aggiornare i PNG rilevanti della missione giocata; annotare eventuali beat emotivi per i PG coinvolti (es. Vorador/Brottor, Krauser/Vosk, Scintilla/scelta, Aelar/Trobbio)
+- [ ] `campagna/luoghi-visitati/` — creare/aggiornare voce per la location della missione giocata (Covo di Xanathar / Aula del Tribunale / Eyecatcher-Scarlet Marpenoth)
+- [ ] `campagna/sessioni/dm-notes-sessione-18.md` — creare prima della prossima sessione: se restano M4 non giocate, valutare se riproporle come menu ridotto (le due rimanenti), oppure procedere con S16 (climax Cassalanter) se non ancora giocata
