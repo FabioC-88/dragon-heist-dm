@@ -22,6 +22,14 @@
 
 **[NOTA DM — riservata — l'orologio è la vera posta in gioco]** Vincere un combattimento contro Victoro o Ammalia **è possibile**, ma non è gratis: sono spellcaster navigati (CR ~10 ciascuno), protetti da ricchezza e status — se il party li affronta e vince, restano comunque da gestire le conseguenze legali e sociali di aver aggredito/ucciso due nobili di Waterdeep in casa loro, oltre al fatto che ogni round speso a combattere è un round che il veleno sul prato e il rituale nel tempio continuano a correre verso mezzanotte. Se il party sceglie di forzare lo scontro, gioca Victoro e Ammalia per vincere, non per perdere con grazia: se le cose si mettono male per loro, la loro prima mossa è salvare sé stessi (fuga, teletrasporto, negoziato disperato), non sacrificarsi. Il successo della sessione si misura in **cosa il party riesce a impedire prima di mezzanotte** — un combattimento vinto contro i Cassalanter è un successo tattico, non necessariamente un successo per l'arco dei gemelli o del banchetto, se nel frattempo l'orologio ha vinto altrove.
 
+**[NOTA DM — riservata — L'INGANNO DI ASMODEO: cosa c'è davvero in gioco]** Il segreto che dà senso morale all'intera sessione — tienilo nascosto ai giocatori finché non lo guadagnano al tavolo.
+
+Asmodeo è legato ai propri contratti: violarli distruggerebbe la fonte stessa del suo potere. Il contratto Cassalanter ha una via d'uscita (999.999 mo + 99 anime → i gemelli salvi). **Se i Cassalanter pagano, Asmodeo è costretto a liberare le anime di Terenzio ed Elzerina** — e non vuole: quelle due anime, **innocenti e del sangue eroico di Caladorn**, sono il premio che ha sempre cercato (Osvaldo, già diavolo delle catene, è la prova che la sua "collezione di eroi corrotti" funziona). Perciò l'esito che Asmodeo **preferisce** è che i Cassalanter **falliscano**: allora le anime dei gemelli sono forfeit e diventano lemuri dieci giorni dopo il Giorno dei Fondatori (regola del modulo).
+
+**La conseguenza vertiginosa:** fermare i Cassalanter — salvare i cento poveri — **danna i gemelli.** Gli eroi, facendo la cosa giusta, consegnano ad Asmodeo esattamente ciò che voleva, per mano loro. Non rivelarlo: lascia che lo scoprano quando cercheranno di salvare i bambini e sbatteranno contro il muro del contratto (vedi FASE 4, "Salvare i gemelli").
+
+**Perché Krauser.** Aldric/Asmodeo non ha reso Krauser un Oathbreaker per caso. Krauser è (a) lo strumento *deniable* che spinge gli eroi ad agire senza che la mano di Asmodeo si veda, e (b) **l'unica porta** attraverso cui i gemelli potranno essere strappati al contratto — perché l'unico al tavolo con un filo diretto verso Asmodeo è lui. Questa pedina è stata piantata anni prima proprio per stanotte.
+
 ---
 
 ## 🎬 SETUP INIZIALE — Riprendi da dove vi siete fermati
@@ -79,7 +87,7 @@ La scala a chiocciola da A1 termina in questa camera.
 *[Aggiunta atmosferica]:*
 > *È un ritratto dipinto con amore ossessivo — ogni piega della veste, ogni riflesso del rubino reso con la cura di chi ha ritratto un dio, non un mostro. Ed è proprio questo, più delle corna, a gelare il sangue: qualcuno, qui sotto, **lo adora davvero**.*
 
-**[NOTA DM — riservata — spotlight Krauser ⭐]** Krauser **sa già** che Aldric è Asmodeo (rivelazione avvenuta in S9 col patto). Questo ritratto non è quindi un indizio da scoprire, ma un **pugno nello stomaco per un giocatore già informato**: è la prima volta che vede il suo mentore/padrone ritratto nella sua forma "ufficiale" di signore dei Nove Inferi, venerato da una casata che ha appena visto insanguinarsi le mani. Lascia che il giocatore reagisca in-character senza bisogno di tiri — è un momento di roleplay puro, non di scoperta. Possibile domanda interiore per Gabri: *i Cassalanter sanno di lui? È "uno di loro" agli occhi del culto, oppure un patto privato e separato?* Non dare una risposta definitiva — è terreno per un arco personale futuro, non per questa sessione.
+**[NOTA DM — riservata — spotlight Krauser ⭐]** Krauser **sa già** che Aldric è Asmodeo (rivelazione avvenuta in S9 col patto). Questo ritratto non è quindi un indizio da scoprire, ma un **pugno nello stomaco per un giocatore già informato**: è la prima volta che vede il suo mentore/padrone ritratto nella sua forma "ufficiale" di signore dei Nove Inferi, venerato da una casata che ha appena visto insanguinarsi le mani. Lascia che il giocatore reagisca in-character senza bisogno di tiri — è un momento di roleplay puro, non di scoperta. Possibile domanda interiore per Gabri: *i Cassalanter sanno di lui? È "uno di loro" agli occhi del culto, oppure un patto privato e separato?* Non dare una risposta definitiva — è terreno per un arco personale futuro, non per questa sessione. **Semina soltanto:** davanti al ritratto, Krauser può cogliere per un istante — un profumo di vino, una piega familiare del sorriso dipinto — la sensazione che Aldric *stia guardando questa notte con interesse*, come se avesse un posto riservato al tavolo. (Il perché diventa chiaro in FASE 4, "Salvare i gemelli".)
 
 **[NOTA DM — riservata]** *Cult Gathering* (non attivo stasera, ma tienilo a mente): durante un raduno completo, due **diavoli barbuti** sorvegliano le porte di A7. Stasera il tempio è presidiato solo dai cultisti "di servizio" (vedi A7) — l'assenza dei diavoli barbuti qui è un respiro di sollievo per il party, sfruttalo per bilanciare la tensione della fase.
 
@@ -282,6 +290,16 @@ Indipendentemente da quale dei rami sopra sia in corso, la distruzione della sta
 
 **[NOTA DM — riservata — spotlight Barnabus, se presente]** Se Silvia è al tavolo: Barnabus si trova nel paradosso della sua carriera — nobili colpevoli di stragi, protetti da status e oro, mentre lui ha passato mesi a scontrarsi con un Capitano che lo ostacola per molto meno. Lascia che senta il peso dell'ingiustizia sistemica, in contrasto netto con l'azione diretta che il party può permettersi come "outsider" della legge.
 
+### Salvare i gemelli — Il patto *(seme per S17+, da NON risolvere stanotte)*
+
+**[NOTA DM — riservata]** Se il party, sventato il veleno e/o fermato l'oro, chiede *come* si salvano davvero i bambini: **non c'è via pulita.** Le anime sono forfeit, il contratto con Asmodeo è ferreo (vedi "L'inganno di Asmodeo" nelle Note di Apertura). L'unica strada è **rinegoziare con Asmodeo stesso**, e l'unico canale al tavolo è il patto di Krauser. In S16 questo si **semina soltanto**: al rintocco di mezzanotte, se i Cassalanter falliscono, parte il conto alla rovescia dei **dieci giorni** (i gemelli diventano lemuri dieci giorni dopo il Giorno dei Fondatori).
+
+**Come seminarlo stanotte:** nel finale o nell'epilogo, Aldric si fa vivo attraverso il filo che lo lega a Krauser — un biglietto sul bancone del Portale, un'ombra ai margini, o solo la sua voce nella testa di Friedrich. Il messaggio, in sostanza: *"C'è un modo. C'è sempre un modo. Ma non stanotte. Ne parleremo — tutti quanti."* Nessuna trattativa ora: solo la porta socchiusa e l'orologio che parte.
+
+**Il prezzo (quando arriverà, S17+):** Asmodeo **non** chiederà l'anima di Krauser. Chiederà un **debito su tutto il party**: *"Libero le due anime. In cambio, un giorno vi chiamerò — tutti voi, non solo Friedrich — per un solo servizio, e voi non rifiuterete."* Vago, legale, vincolante. **Krauser è il garante** (ha già firmato in S9): se un giorno il gruppo tentasse di sfilarsi, paga lui per primo. Così due bambini si salvano e sei eroi ipotecano sé stessi all'Inferno — il vero capolavoro di Asmodeo, in cui la compassione degli eroi diventa il guinzaglio. Tieni **aperto** cosa sarà la "chiamata" futura (candidati: il filo di Vecna/Sussurratori, o un arco di campagna successiva) — non deciderlo ora.
+
+**[NOTA DM — riservata]** Se il party **non** cerca di salvare i gemelli (accetta la loro sorte, o non collega il forfeit alla loro condanna): nessun debito viene contratto, i gemelli si dannano fra dieci giorni, e Asmodeo vince in silenzio. **Non forzare l'offerta** — dev'essere il party a cercarla. Krauser, però, *sente* comunque il richiamo di Aldric: usa quel filo per invogliare Gabri a spingere il gruppo verso la trattativa, se vuoi tenere vivo l'arco.
+
 ---
 
 ## 🕯️ EPILOGO — L'Alba dopo il Giorno dei Fondatori (~15 min)
@@ -292,6 +310,12 @@ Indipendentemente da quale dei rami sopra sia in corso, la distruzione della sta
 
 *[Aggiunta atmosferica]:*
 > *Il Maestro Bec vi aspetta sul davanzale, immobile come una statua tutta sua. Non fa "Meeep". Quando Aelar gli si avvicina, la beccaccia inclina la testa — un gesto che, per la prima volta da quando lo conoscete, sembra non giudizio, ma qualcosa di più vicino al lutto.*
+
+**[NOTA DM — riservata — il richiamo di Aldric, spotlight Krauser ⭐]** Se i gemelli restano forfeit (party ha fermato i Cassalanter, o il pagamento parziale è fallito), chiudi la notte con un beat privato per Gabri. Mentre gli altri dormono o bevono, Krauser trova — sul bancone, in tasca, o solo nella propria mente — poche parole di Aldric:
+
+> *«Due bambini. Dieci giorni. Sai già che non li lascerai andare così — non è nella tua natura, nemmeno adesso che l'hai rinnegata. Quando sarai pronto a parlarne, sai dove trovarmi. E porta gli altri: certe cose si firmano in più di uno.»*
+
+Non aggiungere altro. È l'amo per l'arco S17+: la salvezza dei gemelli **esiste**, ma passa da un tavolo dove siede Asmodeo, e il conto lo firma tutto il party. Lascia Gabri con il peso della scelta, e il resto del gruppo ancora ignaro di cosa stia per essere chiesto anche a loro.
 
 ### Hook Fazione — Semi per l'arco successivo *(momento di respiro, non innescare ora)*
 
@@ -318,11 +342,12 @@ Non aprirle in questa sessione: bastano una riga o due a testa come promemoria p
 | Hook | Fazione / PG | Stato | Note |
 |------|-------------|-------|------|
 | Villa Cassalanter — resa dei conti | Tutto il party | **Chiuso (esito dipende dal tavolo)** | Vedi FASE 4 per il ramo effettivamente giocato |
-| Terenzio ed Elzerina — i gemelli | Razak (spotlight), Krauser, party | Dipende dall'esito | Salvi / condannati fra 10 giorni / esito misto — annotare per l'epilogo |
+| Terenzio ed Elzerina — i gemelli | Razak (spotlight), Krauser, party | **Forfeit se i Cassalanter falliscono** | Se il party ferma i Cassalanter, i gemelli si dannano fra 10 giorni → **arco di salvataggio S17+** via il patto di Krauser |
+| **Il patto per i gemelli — debito su tutto il party** | Krauser (garante), tutto il party | **Seme piantato per S17+** | Aldric offre di liberare le due anime in cambio di un "servizio futuro" dovuto da TUTTI; Krauser paga per primo se il gruppo si sfila. La compassione come guinzaglio |
 | Osvaldo Cassalanter | Tutto il party | Rivelato | Diavolo delle catene in soffitta; non liberato (verosimilmente) |
 | Statua di Asmodeo / *mace of disruption* | Chi ha esplorato A4/A4a | Facoltativo | Se usata, è la leva narrativa più pulita della sessione |
 | Victoro e Ammalia Cassalanter | Tutto il party | Dipende dall'esito | Sconfitti/fuggiti/arresi/vittoriosi — annotare con cura per fazioni.md |
-| Krauser / Aldric = Asmodeo | Krauser (Gabri) | **Già noto al PG (da S9)** | Il ritratto in A3 è un momento di roleplay/reazione, non una scoperta; resta aperta la domanda se i Cassalanter sappiano di lui |
+| L'inganno di Asmodeo (fermarli danna i gemelli) | Tutto il party | **Segreto DM — da guadagnare** | Il vero disegno dietro l'intero capitolo; si svela solo quando il party cerca di salvare i bambini |
 | M4 di fazione (Velo Alzato / Cose Terribili / Sangue del Patto) | Aelar / Razak-Vorador / Krauser-Scintilla | Disponibili — da riaprire | Riprendere nella prossima finestra di legwork |
 | Il Filo di Vecna (Sussurratori) | Tutto il party | Silenzioso questa sessione | Riprendere in una sessione più leggera |
 | Esvele Rosznar — La Vipera Nera | Tutto il party | Dipende da S15/S16 | Annotare se ha aiutato/complicato nella villa |
@@ -339,7 +364,9 @@ Non aprirle in questa sessione: bastano una riga o due a testa come promemoria p
 - [ ] Le fiale di Lacrime di Mezzanotte (C22) sottratte/distrutte?
 - [ ] Il party ha trovato ed eventualmente usato la *mace of disruption* (A4a)?
 - [ ] La statua di Asmodeo (A7) è stata distrutta?
-- [ ] Terenzio ed Elzerina — esito: salvi / condannati fra 10 giorni / altro?
+- [ ] Terenzio ed Elzerina — esito: salvi / forfeit fra 10 giorni / altro?
+- [ ] Il party ha capito che fermare i Cassalanter **danna** i gemelli (l'inganno di Asmodeo)? Come/quando?
+- [ ] Aldric si è fatto vivo con Krauser (seme del patto per S17)? Il party ha cercato la trattativa?
 - [ ] Osvaldo (C24) — scoperto? Liberato (improbabile)? Lasciato?
 - [ ] Victoro e/o Ammalia — sconfitti, fuggiti, arrestati, o vittoriosi?
 - [ ] Willifort Crowelle — esito finale?
@@ -385,4 +412,5 @@ Non aprirle in questa sessione: bastano una riga o due a testa come promemoria p
 - [ ] `ai/knowledge/rapporti.md` — aggiungere/aggiornare tutti i PNG di questa sessione
 - [ ] `ai/knowledge/contesto.md` — **URGENTE:** aggiornare "Capitolo corrente" (attualmente fermo a 4; la narrativa è già al Cap. 6) e "Livello party" (attualmente 4; dovrebbe essere 5) non appena l'esito reale delle S11-S16 è confermato
 - [ ] `campagna/luoghi-visitati/` — aggiornare la voce Villa Cassalanter con tempio (A1-A9) esplorato
-- [ ] `campagna/sessioni/dm-notes-sessione-17.md` — creare prima della prossima sessione (apertura post-Cassalanter: M4 di fazione, epilogo dei gemelli se in sospeso)
+- [ ] `campagna/personaggi/Friedrich-Krauser.md` — aggiornare l'arco con il patto per i gemelli (debito sul party, Krauser garante) se giocato/seminato
+- [ ] `campagna/sessioni/dm-notes-sessione-17.md` — creare prima della prossima sessione. Se i gemelli sono forfeit: **arco centrale = la trattativa con Asmodeo (via Krauser) per salvarli entro i 10 giorni**, prezzo = debito su tutto il party. Più: M4 di fazione, epilogo Cassalanter
