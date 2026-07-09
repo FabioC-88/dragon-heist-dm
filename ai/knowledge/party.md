@@ -4,7 +4,7 @@
 
 ## Stato generale
 
-- **Livello attuale:** 4
+- **Livello attuale:** 5
 - **Sistema XP:** Milestone — Lv 3 raggiunto alla chiusura del Cap. 2; **Lv 4 raggiunto alla chiusura del Cap. 3** (seguendo la trama principale); prossimo level up (Lv 5) previsto alla chiusura del Cap. 4 (apertura del Vault of Dragons)
 - **Ultima sessione:** Sessione 10 (Converted Windmill esplorato, Arn Xalrondar + Seffia Naelryke sconfitti, Stone of Golorr conteso con i diavoli/Willifort Crowelle e recuperato nelle fognature dopo l'inseguimento; M2 Zentharim ancora non recapitata)
 - **Sede base:** Trollskull Manor, Trollskull Alley — **ristrutturazione completata, locanda aperta al pubblico**
