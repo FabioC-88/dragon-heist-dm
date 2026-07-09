@@ -1,0 +1,374 @@
+# DM Notes — Sessione 16 (In-Game)
+
+> **Quando si gioca questa sessione:** la **stessa notte** della S15, senza soluzione di continuità — il party è già dentro Villa Cassalanter, la festa del **Giorno dei Fondatori** infuria ai piani superiori, e l'orologio corre verso **mezzanotte**. Con il party a **Lv 5**, questa è la **Parte II — il climax** del Cap. 6 "Hell of a Summer": il tempio di Asmodeo, il banchetto avvelenato, i gemelli, e la resa dei conti (o l'elusione) con Victoro e Ammalia Cassalanter. Chiude l'arco dei Cassalanter aperto fin dalla S9.
+>
+> **Fonte primaria:** Dragon Heist — Cap. 6, "Temple of Asmodeus" (aree **A1–A9**), "Special Events" ("Getting the Gold" / "Day of the Damned"), "Head Servants" (Willifort, Tissina Khyret, Laiba "Nana" Rosse, Jandar Chergoba) · aree **C22** (studio privato di Ammalia), **C23–C24** (soffitta, prigione di Osvaldo), **C25** (giardino delle farfalle), **C28–C29** (cantina del vino → vault segreto, già scoperti in S15) · Appendice B (Victoro Cassalanter, Ammalia Cassalanter, Osvaldo Cassalanter).
+> **Contesto:** Party **Lv 5** · Cap. 6, Parte II. Il party ha (presumibilmente) esplorato il piano terra della villa in S15: diario di Victoro letto, gemelli conosciuti, Esvele ritrovata, porta segreta C28→C29 e/o banchetto sul prato individuati. Questa sessione **non riparte da zero**: riprende esattamente da dove si è fermato il tavolo.
+> **Obiettivo sessione:** impedire che le **Lacrime di Mezzanotte** uccidano i cento poveri sotto i padiglioni, **salvare Terenzio ed Elzerina** (o quantomeno lottare per farlo), scendere nel **Tempio di Asmodeo** e arrivare alla mezzanotte con in mano il destino dell'arco — chiudendo il Cap. 6. **Nessuno scontro letale "equo" con Victoro o Ammalia è previsto dal modulo:** sono pensati per sfuggire, negoziare o far arrestare il party, non per morire in un duello bilanciato. Il vero avversario di questa sessione è **l'orologio**.
+> **Durata stimata:** ~2h30m–2h45m. Sessione a **doppio countdown** (mezzanotte + il tempo che il party impiega a esplorare): tieni il ritmo serrato, salta le stanze di puro colore (A4/A4a, A8) se il tavolo corre dritto al punto.
+
+---
+
+## ⚠️ NOTE DI APERTURA — Fissa i rami prima di iniziare
+
+**[NOTA DM — riservata]** Questa sessione eredita **tutte** le variabili aperte in S14/S15. Prima di sedersi al tavolo, fissa mentalmente:
+
+1. **L'oro (da S14):**
+   - **Ramo A — il party ha tenuto l'oro fuori dalle mani dei Cassalanter.** I Cassalanter **non possono completare il pagamento pieno**. Ammalia porta comunque avanti il banchetto avvelenato — le 99 anime sono comunque metà del contratto, e con l'oro perduto è **l'unica leva che le resta**. Gioca Ammalia come una donna che sa di giocarsi il tutto per tutto: userà il veleno sperando in un pagamento parziale, o in tempo guadagnato. Vedi FASE 4, "Pagamento parziale".
+   - **Ramo B — i Cassalanter hanno ottenuto l'oro dal Vault** (Victoro ha ingannato Aurinax con *disguise self*). Le cinquecento sacca da 1.000 mo (500.000 mo) sono già in **C29**, pronte per essere gettate nella coppa sacrificale. Questa è la sessione del **"Giorno dei Dannati"** per intero: oro e anime pagati insieme a mezzanotte. Vedi FASE 4, "Pagamento pieno".
+2. **Willifort Crowelle:** se vivo (da S14/S15), è alla festa e **riconosce il party**. Se catturato/morto, il suo posto ai servizi cerimoniali è vuoto o coperto da un sostituto nervoso.
+3. **Esvele Rosznar (Vipera Nera):** se ritrovata in S15 (area C2), è un'alleata **dentro** la villa — può comparire in un momento di difficoltà per dare una mano (o complicare le cose con la sua agenda di furto).
+4. **Cosa hanno già in mano dal S15:** il diario di Victoro (draghi/Y.G./Golorr), eventualmente il simbolo d'oro di Asmodeo dall'ufficio C6, l'amicizia dei gemelli, la porta segreta C28→C29 scoperta e/o il banchetto sul prato fiutato. **Se il tavolo non ha ancora trovato la porta segreta o non ha ancora fiutato il banchetto**, questa sessione si apre lì — vedi "Setup Iniziale" sotto per entrambi i casi.
+
+**[NOTA DM — riservata — il vero avversario è l'orologio]** Non esiste, in questo capitolo, un modo "pulito" di vincere un combattimento contro Victoro o Ammalia: sono spellcaster navigati, protetti da ricchezza e status, e il modulo è esplicito — *"Un confronto diretto porterà probabilmente alla sconfitta dei personaggi o, se sopravvivono, al loro arresto per aggressione a un nobile."* Il successo di questa sessione si misura in **cosa il party riesce a impedire prima di mezzanotte**, non in quanti nemici abbatte. Comunicalo implicitamente attraverso la tensione, non dichiarandolo ai giocatori.
+
+---
+
+## 🎬 SETUP INIZIALE — Riprendi da dove vi siete fermati
+
+**[NOTA DM — riservata]** Usa la variante che corrisponde a come si è chiusa la S15.
+
+### Se il party ha trovato la porta segreta (C28 → C29 → scala verso il tempio)
+
+*[Continuazione diretta]:*
+> *La parete di pietra scivola di lato senza un suono, e il fiato gelido che sale dal buio non è più immaginazione. Davanti a voi, il vault segreto della famiglia Cassalanter: pile di sacca di tela ammucchiate contro le pareti, e in fondo, dove le lanterne non arrivano più, una scala di pietra che scende, scende, scende. Il canto che avete sentito da lontano ora ha parole — o quasi parole, sillabe che si piegano in una lingua che il vostro orecchio rifiuta di riconoscere del tutto, pur riconoscendola. Da qualche parte sopra le vostre teste, la festa continua: violini, risate, il tintinnio dei calici. Qui sotto, il tempo scorre in un'altra direzione.*
+
+*[Aggiunta atmosferica]:*
+> *Sul gradino più alto, qualcuno ha lasciato cadere — o forse posato con cura — un petalo di rosa bianca, già annerito ai bordi come se il calore da sotto lo stesse lentamente arrostendo. Nessuno dei presenti ricorda di averlo visto un attimo prima.*
+
+### Se il party ha seguito il sentore del banchetto (il prato, Leva B)
+
+*[Continuazione diretta]:*
+> *Sul prato, sotto i padiglioni di tela bianca, la festa del popolino prosegue con la sua allegria sorvegliata: piatti di legno pieni fino all'orlo, birra leggera versata da barili senza fondo, bambini che rincorrono attori vestiti da fondatori di Waterdeep tra gambe e sedie pieghevoli. Jandar Chergoba — capocuoco, tiefling dalla pelle color terracotta e le corna limate per apparire meno inquietanti — controlla ogni vassoio con l'attenzione ossessiva di chi non vuole errori. Non sa che voi lo state osservando. O forse, a giudicare dallo sguardo che vi lancia per una frazione di secondo, lo sa fin troppo bene.*
+
+**[NOTA DM — riservata]** Se il tavolo ha chiuso S15 **senza** aver trovato né la porta segreta né aver fiutato il banchetto (possibile se la sessione è corsa altrove), apri comunque da qui: i gemelli, se amici, possono ora condurli spontaneamente verso la cantina proibita ("Vi facciamo vedere una cosa, ma non ditelo a nessuno!"), oppure Bonnie/Esvele possono segnalare movimento sospetto verso il prato. Non serve reintrodurre tutta la villa: bastano due frasi di raccordo e si riparte da qui.
+
+**[NOTA DM — riservata — la mezzanotte]** Da questo momento la sessione corre su un **doppio binario**: il party può scegliere di scendere nel tempio prima, o intervenire sul banchetto prima. Entrambe le fasi (1 e 2 sotto) sono scritte per essere giocate in **qualsiasi ordine**, o alternate. Tieni un conto alla rovescia esplicito al tavolo ("il sole è tramontato da un'ora", "mancano forse due ore a mezzanotte...") — è il vero motore di tensione della sessione.
+
+---
+
+## FASE 1: IL TEMPIO DI ASMODEO (~40 min)
+
+**Obiettivo della fase:** scendere attraverso il tempio, raccogliere le ultime prove/risorse (facoltative), ed arrivare alla Sala Cerimoniale (A7) — il cuore del complotto — prima o dopo aver gestito il banchetto.
+
+**[NOTA DM — riservata]** Il tempio **non** va giocato stanza per stanza come un dungeon crawl classico: il party ha fretta, e ogni minuto speso qui è un minuto che manca altrove. Presenta A1, A3, A7 come tappe quasi obbligate; A2, A4/A4a, A5/A6, A8, A9 come **diramazioni facoltative** — utili, rischiose, mai necessarie.
+
+### A1 — Il Corridoio dei Dannati
+
+> Al centro della sala una scala a chiocciola scende ancora, di venti piedi, verso il livello inferiore. Da un corridoio a nordovest arriva, debole ma inequivocabile, il suono di un canto. A sud, tre celle dalle porte in legno rinforzate di ferro fissano il corridoio come bocche chiuse: ognuna ha un piccolo spioncino sbarrato all'altezza degli occhi di un uomo. Le porte guardano un pilastro di pietra a cui è appeso, a un gancio, un anello di chiavi.
+
+*[Aggiunta atmosferica]:*
+> *Le celle sono vuote — per ora. Ma il legno delle porte porta incise iniziali, date, piccole croci contate una per una: qualcuno, prima di voi, ha segnato qui il tempo che gli restava.*
+
+**[NOTA DM — riservata]** Le celle sono attualmente vuote (nessun prigioniero questa notte — i sacrificati di stasera sono già al banchetto, sul prato). Il canto proviene da A7. Le chiavi sul pilastro aprono anche il vault C29 e la scrivania di Victoro, se serve un collegamento a ritroso.
+
+### A2 — I Balconi *(facoltativa, scorciatoia rischiosa)*
+
+Due balconi scrostati con balaustre di pietra si affacciano sulla sala cerimoniale sottostante (A7), venti piedi più in basso.
+
+**[NOTA DM — riservata]** Il pavimento è marcio: chiunque (Medio o più grande) metta piede su un riquadro marcato deve superare **Destrezza CD 15** o sfondare, cadendo 20 piedi (prona, tra le macerie, in mezzo alla sala A7 — dritto davanti a Victoro/Ammalia/i cultisti, nel peggiore/migliore dei momenti). Il crollo si sente in tutto il tempio: **allarme immediato**. Usa questa stanza se il party cerca di "sbirciare prima" o di calarsi con corde per un ingresso a sorpresa — è un'arma a doppio taglio narrativamente perfetta: infiltrazione o disastro rumoroso, a scelta dei dadi.
+
+### A3 — L'Anticamera
+
+La scala a chiocciola da A1 termina in questa camera.
+
+> Sulla parete di fondo, in una nicchia, un ritratto alto diciotto piedi e largo nove, in una cornice dorata, domina lo sguardo: un uomo splendidamente vestito, barba curata, due piccoli corni che spuntano dalla fronte. Impugna un bastone dalla punta di rubino. **Intelligenza (Religione) CD 10** per riconoscere la figura: **Asmodeo**.
+
+*[Aggiunta atmosferica]:*
+> *È un ritratto dipinto con amore ossessivo — ogni piega della veste, ogni riflesso del rubino reso con la cura di chi ha ritratto un dio, non un mostro. Ed è proprio questo, più delle corna, a gelare il sangue: qualcuno, qui sotto, **lo adora davvero**.*
+
+**[NOTA DM — riservata — spotlight Krauser ⭐]** Questo è il momento per un **indizio sottile, mai una rivelazione**, sul segreto di Friedrich Krauser. Fagli fare (o offrigli spontaneamente) un tiro di **Saggezza (Intuizione) CD 16**: non riconosce Aldric nel ritratto in modo esplicito — è un dipinto formale, non un ritratto fedele — ma qualcosa nella posa, nella cortesia gelida della bocca dipinta, nel modo in cui il pittore ha reso "la voglia di essere ammirato", gli restituisce un'eco fisica del suo mentore. Un brivido, non una prova. Non confermare né smentire in gioco: lascialo con il dubbio che lo accompagnerà fino alla rivelazione finale (fuori da questa sessione).
+
+**[NOTA DM — riservata]** *Cult Gathering* (non attivo stasera, ma tienilo a mente): durante un raduno completo, due **diavoli barbuti** sorvegliano le porte di A7. Stasera il tempio è presidiato solo dai cultisti "di servizio" (vedi A7) — l'assenza dei diavoli barbuti qui è un respiro di sollievo per il party, sfruttalo per bilanciare la tensione della fase.
+
+### A4 — La Cripta di Famiglia *(facoltativa — utile per la resa dei conti finale)*
+
+Dodici sarcofagi di pietra riempiono nicchie profonde nelle pareti. Ogni coperchio in stucco è scolpito a immagine di un nobile che stringe un calice recante il simbolo del sole.
+
+**[NOTA DM — riservata — il *mace of disruption*]** Gli spiriti di più Cassalanter defunti sono legati a questa cripta: tre **spettri** e uno **spettro maggiore** (usa le statistiche di un **ghost**) che assume le sembianze di un uomo in armatura, di aspetto nobile e cavalleresco. Attaccano ogni creatura vivente, ma **non possono lasciare la cripta né avvicinarsi a 5 piedi da chi indossa un simbolo sacro di Asmodeo**. Il fantasma è ciò che resta di **Caladorn Cassalanter**, ex Lord Mascherato ed eroe di Waterdeep (nonno di Victoro — vedi Cassalanter Lore, S15). **Se un PG mostra o indossa un simbolo sacro di Siamorphe** (i calici d'argento dell'atrio C1 ne sono pieni — un PG previdente potrebbe averne preso uno in S15), il fantasma **cessa l'attacco**, richiama gli spettri, e guida i personaggi alla propria cripta personale (A4a).
+
+```
+Spettro × 3 — CA 12 | PF 22 (5d8) | Vol. 50 (librazione) | GS 1 (200 XP)
+  Incorporeo, invisibile alla luce intensa; immune a veleno/necrotico/prono/afferrato
+  Assorbimento Vitale: +4, 3d6 necrotico; bersaglio massimo PF ridotto pari al danno
+
+Caladorn Cassalanter (Spettro Maggiore / ghost) — CA 11 | PF 45 (10d8) | Vol. 40 (librazione) | GS 4 (1.100 XP)
+  Incorporeo; Tocco Corruttore +5, 4d6+3 necrotico (bersaglio ridotto a metà PF max per 1h)
+  Visione Orripilante: ogni creatura in un cono di 60 piedi, TS Saggezza CD 13 o spaventata 1 min
+  Possessione: (facoltativa, usala solo per colore — non contro i PG di questa campagna)
+  Si ferma e chiama a raccolta gli spettri se mostrato un simbolo di Siamorphe
+```
+
+#### A4a — La Cripta di Caladorn *(se il fantasma viene placato)*
+
+> Un sarcofago di pietra impolverato occupa questa cripta, il coperchio in stucco scolpito a immagine di un nobile bello e ben rasato, che stringe un calice inciso col simbolo del sole. Il volto somiglia, innegabilmente, allo spettro che vi ha condotti qui.
+
+**[NOTA DM — riservata — tesoro chiave per il finale]** Le ossa di Caladorn sono ormai polvere, ma restano la sua **armatura +1 di piastre** e una **mazza dirompente (*mace of disruption*)**. Se il fantasma è presente quando gli oggetti vengono presi, chiede: *"Giurate di usare questi oggetti per sconfiggere le forze dell'oscurità?"* Una risposta affermativa è sufficiente a farlo riposare in pace. Prima di svanire per sempre, dice: *"Usate la mazza per distruggere l'effigie del male incarnato. Ponete fine alla corruzione, per restituire l'onore alla mia famiglia."* **(L'"effigie" è la statua di Asmodeo in A7.)** — Questa è la **leva narrativa più pulita** che il modulo offre per intaccare davvero l'operazione Cassalanter senza uno scontro letale con Victoro/Ammalia: distruggere la statua interrompe il rituale (vedi A7, sotto) e infligge danno psichico a ogni cultista presente. Segnalala al tavolo con enfasi se la trovano — è un vero "asso nella manica".
+
+### A5 — Camerata dei Cultisti *(facoltativa)*
+
+Sei brande di legno contro le pareti nord e sud. La parete ovest porta scolpiti quattro bassorilievi di diavoli maggiori.
+
+**[NOTA DM — riservata]** Vuota stasera (i cultisti "residenti" sono tutti in servizio altrove per il Giorno dei Fondatori). **Porta segreta:** dietro uno dei bassorilievi, **Saggezza (Percezione) CD 13** o spingendo la scultura, si apre verso A6.
+
+### A6 — Sagrestia Segreta *(facoltativa — travestimento disponibile)*
+
+Nascosta dietro due porte segrete non mascherate dall'interno (maniglie a pomello di pietra).
+
+> Contro la parete sud, due guardaroba neri con stelle a nove punte scolpite sulle ante. Un paio di specchi alti e sottili, incorniciati di pietra scolpita a serpenti, sono montati sulla parete ovest. Al centro della stanza, impilate, sei botti di vino per le celebrazioni del culto.
+
+**[NOTA DM — riservata — travestimento gratuito]** Ogni guardaroba contiene **cinque completi di regalia del culto** (taglia umana adulta): tonache rosse, maschere da diavolo, amuleti di legno a forma di simbolo di Asmodeo. **Se il party li indossa**, ottiene un travestimento perfetto per muoversi in A7 senza dare nell'occhio finché non agisce in modo sospetto o non si avvicina troppo a Victoro/Ammalia (che riconoscerebbero i volti). Ottima soluzione per chi vuole entrare in A7 senza combattere subito.
+
+### A7 — La Sala Cerimoniale ⭐ *(climax dell'esplorazione del tempio)*
+
+Un soffitto a volta di trenta piedi e una coppia di balconi (A2) a venti piedi d'altezza sovrastano questa sala.
+
+> File di candele tremolanti in candelieri di ferro battuto formano un sentiero fino a una statua di pietra alta trenta piedi, all'estremità ovest della sala. La statua raffigura un uomo barbuto dal sorriso affabile e dai tratti diabolici, piccole corna sulla fronte e zoccoli fessi al posto dei piedi. Alla base, stretta in un artiglio di pietra che erompe dal pavimento, una coppa di pietra profonda tre piedi e larga nove, colma di fiamme crepitanti. Tre **cultisti umani** in tonaca rossa, maschera da diavolo e amuleto sacro di legno si inginocchiano davanti alla statua, cantando febbrilmente un inno infernale. Le pareti attorno alla statua sono coperte da grandi arazzi che raffigurano scene di dissolutezza umana.
+
+*[Aggiunta atmosferica]:*
+> *Il calore che sale dalla coppa non è quello, onesto, di un fuoco da camino: è un calore che sembra guardarti, valutarti, decidere se sei carne che vale la pena bruciare. Dietro l'arazzo a nord, un passaggio scavato rozzamente si perde nel buio — un soffio d'aria umida ne esce, portando odore di fiume sotterraneo.*
+
+**[NOTA DM — riservata]** La statua era in origine un'immagine di **Siamorphe**: i Cassalanter l'hanno rimodellata con incantesimi di *forma della pietra* in Asmodeo. Anche la coppa è opera di *forma della pietra*, e irradia una forte aura di magia di evocazione (*individua magie*). Le fiamme magiche bruciano finché la coppa resta intatta: ogni creatura che vi entra o inizia il turno nelle fiamme subisce **4d10 danni da fuoco** (una creatura ridotta a 0 PF da questo danno diventa cenere). Oggetti non magici gettati nelle fiamme sono distrutti.
+
+**[NOTA DM — riservata — la mazza dirompente]** Se la statua viene colpita da una **mazza dirompente** (*mace of disruption*, da A4a), si incrina e cade a pezzi, frantumando la coppa nella caduta. **Ogni membro del culto presente che assiste alla distruzione della statua subisce 11 (2d10) danni psichici.** Questo è il colpo più devastante che il party possa infliggere all'operazione senza spargere sangue nobile: interrompe fisicamente il rituale del pagamento (vedi FASE 4).
+
+**Porta segreta:** verso A6, **Saggezza (Percezione) CD 13**. **Ruscello:** scorre dietro la statua, entrando ed uscendo da piccoli culverti ad arco.
+
+**Chi c'è stasera:** i tre cultisti in preghiera sono presenti sempre. **Victoro e/o Ammalia** possono essere qui **solo** se il party arriva dopo che il rituale di mezzanotte è iniziato (vedi FASE 4) — altrimenti sono ancora sopra, alla festa o nello studio/ufficio. **Willifort, Tissina Khyret, Laiba Rosse e Jandar Chergoba** (i quattro servitori-cultisti — vedi "Servitori Capo" sotto) compaiono qui solo durante il rituale pieno di mezzanotte.
+
+```
+Cultista × 3 — CA 12 | PF 9 (2d8) | GS 1/8 (25 XP)
+  Scimitarra: +3, 1d6+1 tagliente
+
+(Durante il rituale di mezzanotte, se il party interviene tardi: fino a 30 cultisti umani,
+metà nobili, metà popolino — statistiche identiche; usali come sfondo scenico/ostacolo di massa,
+non come minaccia tattica individuale)
+```
+
+**[NOTA DM — riservata — spotlight Scintilla]** Un artefice che esamina la statua/coppa con *individua magie* o **Intelligenza (Arcana) CD 15** riconosce la firma di *forma della pietra* — e nota, con disagio professionale, quanta cura tecnica ci sia voluta per nascondere un simbolo sacro sotto un altro. "Non è improvvisato. Questo l'hanno costruito apposta, pezzo per pezzo." Buon gancio per un momento di analisi tecnica in mezzo all'orrore.
+
+### A8 — Ripostiglio *(facoltativa, puro colore)*
+
+Contro la parete di fondo, una credenza sbloccata con un tappeto nero disteso davanti. Contiene una caraffa dorata (125 mo) e mensole con calici di legno da vino.
+
+### A9 — Ruscello e Pozza *(via di fuga)*
+
+Un ruscello sotterraneo scorre attraverso il lato ovest del tempio e confluisce in una pozza profonda cinque piedi, prima di serpeggiare a nordovest e sfociare nelle Paludi di Fango a nordovest di Waterdeep.
+
+**[NOTA DM — riservata]** Questa è l'**unica via di fuga dal tempio che non passa dalla villa**. Utile se il party (o Victoro/Ammalia, se le cose vanno storte per loro) ha bisogno di sparire senza attraversare di nuovo la festa. Tienila a mente per un finale rocambolesco.
+
+---
+
+## FASE 2: IL GIORNO DEI DANNATI — Il Banchetto sul Prato (~35 min)
+
+**Obiettivo della fase:** impedire che il veleno uccida i cento poveri, prima o durante il rituale nel tempio.
+
+> Sotto i padiglioni di tela bianca sul prato, cento facce affamate del Field Ward ridono e mangiano, grate di un pasto che ai signori non costa nulla. Attori vestiti da fondatori di Waterdeep sfilano tra i tavoli; i bardi suonano melodie allegre. È una scena di pura, calorosa generosità nobiliare — e nessuno, tra i poveri, sospetta che il cibo nei padiglioni sia stato intriso di **Lacrime di Mezzanotte**, il veleno che li ucciderà tutti al rintocco di mezzanotte.
+
+*[Aggiunta atmosferica]:*
+> *Ammalia è immune al veleno, e per questo mangia liberamente del cibo delizioso, ridendo con i suoi ospiti poveri come se fossero vecchi amici. Gli ospiti facoltosi restano invece asserragliati nella villa, mangiando e bevendo a tavoli separati — risparmiati da una fine atroce di cui la maggior parte di loro non sospetta nulla.*
+
+**[NOTA DM — riservata — meccanica del countdown]** Un'ora prima di mezzanotte, gli intrattenitori si disperdono mentre Ammalia inizia a fare brindisi ai suoi ospiti facoltosi, rendendoli complici inconsapevoli — e quindi silenziosi — solo per la loro presenza. Nel frattempo, le **guardie di casa impediscono a chiunque tra il popolino di andarsene**, trattenendo con la forza chiunque tenti di fuggire. **A meno che il party non impedisca ai poveri di mangiare il cibo avvelenato, gli invitati consumano il veleno e periscono al rintocco di mezzanotte.**
+
+### Come si può fermare il veleno
+
+- **Sabotare la cucina/i padiglioni prima che il cibo sia servito:** se il party interviene *prima* che il pasto sia distribuito (early in questa fase), può semplicemente sostituire o distruggere le portate avvelenate — Jandar Chergoba (**cult fanatic**, capocuoco) tenta di fermarli e, se crede che siano una minaccia, grida "*For'zaal*", facendo levitare dieci coltelli magici (**spade volanti**, 4 [1d6+1] danni taglienti a colpo) contro di loro.
+- **Avvertire la folla dopo che il pasto è servito:** convincere cento persone affamate e felici a non mangiare un pasto gratuito è arduo — **Carisma (Persuasione o Intimidazione) CD 15**, con vantaggio se un PG ha già un legame con la povera gente di Waterdeep (background, fama cittadina). Un fallimento non è la fine: significa che *parte* della folla ha già mangiato, alzando la tensione dell'orologio.
+- **Le dieci fiale in C22:** se il party ha già sottratto o distrutto le fiale di Lacrime di Mezzanotte dallo studio privato di Ammalia (vedi sotto), **il cibo di stasera non può essere ulteriormente avvelenato** — ma se il pasto è già stato preparato con una fiala usata in anticipo, il pericolo resta comunque presente nei piatti già serviti. Usa questo per dare valore retroattivo a chi ha esplorato C22.
+- **Guardie di casa:** dodici **guardie** in livrea Cassalanter pattugliano il prato durante l'evento, con l'ordine di impedire al popolino di allontanarsi. Se il party cerca di far evacuare la folla, le guardie intervengono — non per uccidere, ma per "mantenere l'ordine": è un ostacolo sociale/di controllo folla più che uno scontro letale.
+
+```
+Guardia × 12 (prato) — CA 16 | PF 11 (2d8+2) | GS 1/8 (25 XP)
+  Lancia: +3, 1d6+1 perforante
+
+Jandar Chergoba (cult fanatic) — CA 13 | PF 33 (6d8+6) | GS 2 (450 XP)
+  Multiattacco: 2 pugnalate, +4, 1d4+2 perforante
+  Lanciaincantesimi (chierico lv 4): comando, protezione dal bene/male, arma spirituale, ecc.
+  Comanda: "For'zaal" → 10 spade volanti (4 [1d6+1] taglienti ciascuna) se sente minacciata la cucina
+```
+
+### C22 — Lo Studio Privato di Ammalia *(se non ancora visitato)*
+
+La porta è chiusa a chiave.
+
+> Le pareti sono rivestite di scaffali colmi di tomi spessi. Un grimorio dalla copertina in cuoio rosso siede su una scrivania di quercia scura. Una scala a pioli conduce a una botola nel soffitto.
+
+- **Scrivania:** oltre al grimorio, contiene una candela d'oro (125 mo), un calamaio d'oro (25 mo), una penna d'oca piumata (15 mo). Il cassetto contiene un sigillo di ceralacca col blasone Cassalanter, il **libro degli incantesimi di Ammalia**, e **dieci fiale di veleno nero come la pece: le Lacrime di Mezzanotte**. ⭐ **Distruggerle o sottrarle qui, prima che vengano usate, è uno dei modi più diretti per intaccare il piano.**
+- **Grimorio Rosso:** dettaglia il rituale diabolico con cui Ammalia e Victoro contattarono per la prima volta Asmodeo. Aprendolo si vedono solo pagine bianche con poche gocce di sangue secco — se una goccia di sangue umanoide viene versata su una pagina, il testo infernale diventa leggibile finché il libro resta aperto. **[NOTA DM]** Non necessario per questa sessione; è un gancio per approfondimenti futuri (chi ha Fondere Rituali può un giorno padroneggiarlo).
+- **Botola:** conduce alla soffitta (C23).
+
+---
+
+## FASE 3: I GEMELLI E OSVALDO — Il Cuore Morale (~30 min)
+
+**Obiettivo della fase:** dare al party la scelta più difficile e più umana della sessione. Questa fase può intrecciarsi liberamente con le Fasi 1 e 2.
+
+**[NOTA DM — riservata]** Se i gemelli sono stati amicati in S15, questa è la fase in cui quell'investimento paga. Se non lo sono stati, il party li incontra comunque qui — spaventati, consapevoli (per la prima volta) che qualcosa di terribile sta per accadere ai piani sotto casa loro.
+
+### C23 — Pianerottolo della Soffitta
+
+Un forte odore di zolfo pervade la soffitta. L'unica illuminazione è un raggio di luce che filtra debolmente da una finestra con le persiane chiuse a ovest.
+
+**[NOTA DM — riservata]** Questa soffitta è insonorizzata finché nessuna porta è aperta. L'ululato di Osvaldo si sente all'esterno solo se la botola verso C22 e la porta verso C24 sono aperte contemporaneamente. Terenzio ed Elzerina hanno sentito questo ululato due o tre volte in vita loro, e ne sono terrorizzati e curiosi in egual misura.
+
+### C24 — La Prigione di Osvaldo ⭐
+
+Se Ammalia o Victoro (o entrambi) sono presenti, la porta è sbloccata ma chiusa. Altrimenti è chiusa a chiave — solo loro due possiedono le chiavi.
+
+> Un'ondata di ululati incoerenti vi accoglie, come se aprire la porta avesse rotto una diga che tratteneva le urla di un folle.
+
+**[NOTA DM — riservata — l'orrore centrale della villa]** **Osvaldo Cassalanter**, il primogenito "a scuola in una città lontana", è in realtà un **guscio senz'anima**: la sua anima fu presa immediatamente dal contratto, e ciò che resta del suo corpo è stato trasformato in un **diavolo delle catene**, imprigionato dai genitori con le proprie stesse catene. Un pentagramma di dieci piedi di diametro è bruciato nel pavimento attorno a lui: irradia una potente aura di abiurazione (*individua magie*). Due **imp in forma di ragno** sorvegliano la stanza, agli ordini di Lord Cassalanter — uccidono uccelli, **ratti** e altri parassiti che si intrufolano in soffitta, e attaccano chiunque tenti di liberare Osvaldo o minacci un membro della famiglia.
+
+Le catene di Osvaldo sono avvolte attorno alle travi che intelaiano la stanza. Non può danneggiare la casa né spezzare le proprie catene: può solo ululare, impotente, la propria miseria. **Intelligenza (Arcana) CD 15** rivela che il pentagramma gli impedisce di manipolare le catene, e che l'effetto cessa se un'altra creatura entra nell'area racchiusa dal simbolo. La magia del pentagramma può anche essere dissolta (*dissolvi magie*, CD 15). **Se liberato, Osvaldo riprende il controllo delle catene e attacca indiscriminatamente.** Se ridotto a 0 PF, il diavolo delle catene grida per sua madre prima di sciogliersi in una pozza di ichor nero e nauseabondo. È completamente folle: non può essere ragionato con lui.
+
+```
+Osvaldo Cassalanter (chain devil) — CA 16 | PF 85 (10d8+40) | Vol. 9 m | GS 8 (3.900 XP)
+  FOR +3 DES +3 COS +4 INT +0 SAG +1 CAR +2 | Resiste danni non magici; immune al fuoco/veleno
+  Multiattacco: 2 attacchi di catena, +6, 2d6+3 perforante + 2d6 necrotico se il bersaglio è
+    avvolto e la creatura sceglie di infliggere danno extra
+  Animare Catene: fino a 4 catene animate entro 30 piedi (afferrano, avviluppano, danneggiano)
+  Maschera Snervante: TS Saggezza CD 12 o spaventato 1 minuto
+```
+
+**[NOTA DM — riservata — IL CUORE DELLA SESSIONE, spotlight Razak e Krauser ⭐⭐]** Non è previsto che il party liberi Osvaldo (sarebbe uno scontro GS 8 letale a Lv 5, e comunque non "salverebbe" nulla — la sua anima è già persa, per sempre). Il punto di questa scena è **guardare in faccia ciò che aspetta Terenzio ed Elzerina se il party fallisce**: non la morte, ma *questo*. Se i gemelli sono presenti (li hanno portati qui loro stessi, curiosi della "stanza proibita"), è un momento straziante — allontanali prima che la porta si apra del tutto, se possibile, o lascia che vedano e capiscano, a seconda del tono che il tavolo vuole. **Per Razak**, è il presagio di Hlam reso carne: *"sangue innocente sarà versato"* — non è metafora, è biologia contorta dalla magia diabolica. **Per Krauser**, è lo specchio più crudo di cosa significa vendersi ad Asmodeo: ha firmato un contratto con la stessa entità che ha fatto *questo* a un bambino. Non serve un discorso — basta il silenzio del giocatore mentre elabora cosa vede.
+
+### Ritrovare i gemelli
+
+Se non sono già con il party (da S15), possono trovarsi in C18 (camera loro), C3 (biblioteca) o C25 (giardino, a caccia di farfalle). Se hanno assistito o sentito parlare di quanto accaduto sopra, sono spaventati e cercano il party per aiuto — è un'ottima leva per farli guidare direttamente alla cantina/al tempio (via che conoscono, essendo "vietata" e quindi esplorata di nascosto).
+
+**[NOTA DM — riservata]** Se il party promette ai gemelli che li salverà, **non promettere loro come DM che ci riuscirà davvero** — tieni aperta la tensione fino alla FASE 4. Ma dai loro, se cercano, la leva della **mazza dirompente** (A4a) come una vera possibilità concreta, non un vicolo cieco.
+
+---
+
+## FASE 4: MEZZANOTTE — Il Pagamento (~35 min)
+
+**Obiettivo della fase:** il climax. Tutto ciò che il party ha fatto (o non ha fatto) nelle Fasi 1–3 converge qui.
+
+**[NOTA DM — riservata — struttura del climax]** Questa fase non è un singolo combattimento: è una **sequenza di conseguenze**. Segui questa logica, adattandola a quanto il party ha effettivamente impedito:
+
+### Se il party ha fermato sia il veleno sia il trasferimento dell'oro (o non c'era oro da trasferire, Ramo A)
+
+Victoro fa scendere comunque i cultisti in A7 per il rito di mezzanotte, sperando in un **pagamento parziale**: getta nella coppa ciò che ha (gioielli di famiglia, l'argento del vault C29, qualsiasi oro recuperabile) mentre Ammalia, disperata, intona la formula. Un **diavolo barbuto** viene evocato davanti alla statua. In infernale, dichiara il pagamento **"insufficiente"**: le anime di Terenzio ed Elzerina **non sono salve**, ma il devil concede — con crudeltà burocratica — che "il debito residuo matura comunque nei termini pattuiti": **dieci giorni**, non stanotte. Poi svanisce. Victoro e Ammalia, disperati e senza più carte da giocare, o si arrendono alla disperazione (negoziano, implorano, offrono qualunque cosa al party in cambio di aiuto — persino la propria resa alla Guardia, pur di guadagnare tempo per i figli) oppure tentano la fuga verso A9.
+
+**[NOTA DM — riservata]** Questo ramo lascia il destino dei gemelli **aperto e narrativamente carico** per un epilogo/arco successivo (i dieci giorni residui) — è deliberato. Non è previsto un final boss in questa sessione: è previsto un padre e una madre che, per la prima volta, sono senza potere.
+
+### Se il party NON ha fermato il veleno E i Cassalanter hanno l'oro (Ramo B pieno)
+
+A mezzanotte, se il party non è intervenuto, il veleno fa il suo corso sul prato — una scena che nessun DM dovrebbe giocare "a schermo intero": tienila fuori campo o accennata (grida lontane, il silenzio innaturale che segue), e lascia che sia il **senso di colpa**, non la descrizione grafica, a colpire il tavolo. Victoro ordina ai cultisti di scaraventare i sacchi d'oro nella coppa sacrificale; **Tessina Khyret** conferma ad Ammalia che "è fatto"; Victoro evoca un **diavolo barbuto**, che dichiara il pagamento **"soddisfacente"**: le anime di Terenzio ed Elzerina **non saranno prese**. Il diavolo svanisce. **I Cassalanter hanno vinto — e lo sanno.** Questo è il finale più amaro possibile e dovrebbe accadere solo se il tavolo ha davvero, ripetutamente, scelto di non intervenire: **non forzarlo per "insegnare una lezione"**. Se il party interviene anche solo parzialmente (salva metà della folla, distrugge parte dell'oro), sposta l'esito verso il ramo "pagamento parziale" sopra.
+
+### Se il party distrugge la statua (mazza dirompente, A4a)
+
+Indipendentemente da quale dei rami sopra sia in corso, la distruzione della statua **interrompe fisicamente il rito**: la coppa si frantuma cadendo, le fiamme si spengono, ogni cultista presente subisce 11 (2d10) danni psichici, e — narrativamente — **il canale verso Asmodeo si chiude di netto**, qualunque cosa fosse in corso in quel momento. È l'unica azione della sessione capace di **garantire** che il pagamento (in qualunque forma) non vada a segno questa notte. Usala come la vera "arma segreta" della sessione se il party l'ha trovata e ha avuto la lungimiranza di portarla con sé.
+
+### Il confronto con Victoro e Ammalia
+
+**[NOTA DM — riservata]** Se il party li affronta direttamente: sono **spellcaster formidabili e devoti l'uno all'altra** — se uno viene assalito nella villa, l'altro arriva il prima possibile. Ammalia tenta *charm person* (slot di 5° livello, fino a cinque bersagli entro 9 m, TS Saggezza) per guadagnare tempo o disinnescare la minaccia; Victoro tenta *dominate person* (slot di 8° livello, durata estesa a 8 ore) su un PG per piazzare una spia. **Non cercano di uccidere:** dividono e sottomettono con la magia, evitando danni gravi. **Se Ammalia scende a 30 PF o meno e Victoro è presente**, lui la teletrasporta al sicuro per qualche istante mentre continua a combattere. **Se uno dei due scende a 30 PF o meno da solo**, tenta di negoziare o corrompere gli assalitori. Non temono l'arresto — hanno fede che ricchezza, reputazione e contatti li tireranno fuori di prigione — **temono solo l'orologio**: implorano il party di lasciarli portare a termine il piano, se non altro per salvare Terenzio ed Elzerina.
+
+**[NOTA DM — riservata]** Uccidere o ferire gravemente i Cassalanter ha **gravi conseguenze legali** (sono nobili di Waterdeep). Il modo in cui il modulo prevede di "vincere" è **ostacolare l'operazione**: distruggere o sottrarre le Lacrime di Mezzanotte (C22), distruggere la statua di Asmodeo (A7), o tenere l'oro di Neverember fuori dalle loro grinfie (già deciso in S14). Il party può farlo senza mai incrociare la spada con loro.
+
+**[NOTA DM — riservata — spotlight Barnabus, se presente]** Se Silvia è al tavolo: Barnabus si trova nel paradosso della sua carriera — nobili colpevoli di stragi, protetti da status e oro, mentre lui ha passato mesi a scontrarsi con un Capitano che lo ostacola per molto meno. Lascia che senta il peso dell'ingiustizia sistemica, in contrasto netto con l'azione diretta che il party può permettersi come "outsider" della legge.
+
+---
+
+## 🕯️ EPILOGO — L'Alba dopo il Giorno dei Fondatori (~15 min)
+
+**[NOTA DM — riservata]** Chiudi il capitolo con calma, qualunque sia stato l'esito. Questo è il momento di respiro per riconnettersi ai PG e seminare, con leggerezza, l'arco successivo.
+
+> *Il cielo sopra il Sea Ward si scolora dal nero al grigio perla, e da qualche parte, ostinati, i primi uccelli cantano come se nulla fosse successo — perché, per loro, è vero. Trollskull Manor vi accoglie con la stessa luce di sempre, la stessa birra stantia, lo stesso Lif che riordina i boccali. Ma voi non siete più le stesse persone che sono uscite di qui ieri sera. Avete visto cosa si nasconde sotto l'oca di pietra nutrita per l'eternità. E ora sapete — nel modo più duro possibile — cosa significa davvero "sangue innocente".*
+
+*[Aggiunta atmosferica]:*
+> *Il Maestro Bec vi aspetta sul davanzale, immobile come una statua tutta sua. Non fa "Meeep". Quando Aelar gli si avvicina, la beccaccia inclina la testa — un gesto che, per la prima volta da quando lo conoscete, sembra non giudizio, ma qualcosa di più vicino al lutto.*
+
+### Hook Fazione — Semi per l'arco successivo *(momento di respiro, non innescare ora)*
+
+**[NOTA DM — riservata]** Il Cap. 6 si chiude qui (nella misura in cui il tavolo ha risolto il nodo Cassalanter). Le **M4 di fazione**, tenute in sospeso da S13/S15, tornano ora in primo piano come **thread paralleli** per le prossime sessioni:
+
+- **Arpisti M4 "Velo Alzato"** — Mirt può ora far sapere ad Aelar che Jarlaxle/*Eyecatcher* è ancora interessato al *dragonstaff of Ahghairon* di Aurinax: con la villa alle spalle, è il momento naturale per riaprire questo filo.
+- **Force Grey M4 "Cose Terribili"** — Vajra Safahr, informata dell'esito della notte, può ora rivolgere l'attenzione di Razak/Vorador verso il covo di Xanathar e Nihiloor.
+- **Zentharim M4 "Sangue del Patto"** — Davil Starsong, se contattato, può far riemergere il filo Skeemo/Vosk/Manshoon per Krauser e Scintilla — con un possibile aggancio al destino di Rennis.
+
+Non aprirle in questa sessione: bastano una riga o due a testa come promemoria per il DM, da innescare nella prossima finestra di legwork cittadino.
+
+**[NOTA DM — riservata — livello e chiusura]** Nessun level up meccanico previsto in questa sessione (il party resta **Lv 5**): la chiusura del Cap. 6 è un **milestone narrativo**, non un salto di livello. Se il DM vuole marcare la fine dell'arco dei Cassalanter con un level up simbolico a Lv 6, è una scelta legittima da fare **dopo** aver visto come si è chiusa la sessione al tavolo — non è richiesto dal modulo.
+
+---
+
+## 🧵 SEMI E HOOK DI FAZIONE/LORE — continuità
+
+**[NOTA DM — riservata]** Il **Filo di Vecna** (Sussurratori, sigillo mano+occhio) resta silenzioso questa sessione — è troppo piena. Riprendilo in una sessione di legwork cittadino successiva, quando il tavolo avrà smaltito l'intensità di questa notte.
+
+---
+
+## 🧩 THREAD NARRATIVI — Stato a fine Cap. 6
+
+| Hook | Fazione / PG | Stato | Note |
+|------|-------------|-------|------|
+| Villa Cassalanter — resa dei conti | Tutto il party | **Chiuso (esito dipende dal tavolo)** | Vedi FASE 4 per il ramo effettivamente giocato |
+| Terenzio ed Elzerina — i gemelli | Razak (spotlight), Krauser, party | Dipende dall'esito | Salvi / condannati fra 10 giorni / esito misto — annotare per l'epilogo |
+| Osvaldo Cassalanter | Tutto il party | Rivelato | Diavolo delle catene in soffitta; non liberato (verosimilmente) |
+| Statua di Asmodeo / *mace of disruption* | Chi ha esplorato A4/A4a | Facoltativo | Se usata, è la leva narrativa più pulita della sessione |
+| Victoro e Ammalia Cassalanter | Tutto il party | Dipende dall'esito | Sconfitti/fuggiti/arresi/vittoriosi — annotare con cura per fazioni.md |
+| Krauser / Aldric = Asmodeo | Krauser (Gabri) | **Seminato — indizio sottile in A3** | Non rivelato; presagio accumulato per una futura resa dei conti personale |
+| M4 di fazione (Velo Alzato / Cose Terribili / Sangue del Patto) | Aelar / Razak-Vorador / Krauser-Scintilla | Disponibili — da riaprire | Riprendere nella prossima finestra di legwork |
+| Il Filo di Vecna (Sussurratori) | Tutto il party | Silenzioso questa sessione | Riprendere in una sessione più leggera |
+| Esvele Rosznar — La Vipera Nera | Tutto il party | Dipende da S15/S16 | Annotare se ha aiutato/complicato nella villa |
+
+---
+
+## 📋 RECAP POST-SESSIONE
+
+*[Da compilare dopo la sessione — non leggere al tavolo]*
+
+### Cosa è successo
+
+- [ ] Il veleno sul prato è stato fermato? Del tutto / in parte / per niente?
+- [ ] Le fiale di Lacrime di Mezzanotte (C22) sottratte/distrutte?
+- [ ] Il party ha trovato ed eventualmente usato la *mace of disruption* (A4a)?
+- [ ] La statua di Asmodeo (A7) è stata distrutta?
+- [ ] Terenzio ed Elzerina — esito: salvi / condannati fra 10 giorni / altro?
+- [ ] Osvaldo (C24) — scoperto? Liberato (improbabile)? Lasciato?
+- [ ] Victoro e/o Ammalia — sconfitti, fuggiti, arrestati, o vittoriosi?
+- [ ] Willifort Crowelle — esito finale?
+- [ ] Krauser ha avuto l'indizio su Aldric/Asmodeo in A3? Come ha reagito il giocatore?
+- [ ] Esvele Rosznar — ruolo giocato nella resa dei conti?
+- [ ] Allarme scattato? Conseguenze con la City Watch?
+- [ ] Il Cap. 6 si considera chiuso? Level up deciso dal DM?
+
+### XP Sessione 16
+
+| Incontro | XP |
+|----------|----|
+| Spettri × 3 + Caladorn (ghost) (A4, facoltativo) | 3 × 200 + 1.100 = 1.700 |
+| Cultisti vari (A7, se combattuti) | 25 XP cad. |
+| Jandar Chergoba (cult fanatic, se combattuto) | 450 |
+| Guardie del prato (se combattute) | 25 XP cad. |
+| Osvaldo (chain devil, GS 8 — solo se liberato/combattuto) | 3.900 |
+| **Nota** | Sistema a **milestone**: nessun level up meccanico automatico. Valuta un level up narrativo a Lv 6 se il DM ritiene chiuso l'arco Cassalanter |
+
+### Aggiornamento PNG
+
+- **Victoro / Ammalia Cassalanter** → aggiornare esito finale (sconfitti/fuggiti/arrestati/vittoriosi) in png-incontrati.md, rapporti.md, fazioni.md
+- **Terenzio ed Elzerina** → aggiornare destino finale — cruciale per l'arco morale di Razak/Krauser
+- **Osvaldo Cassalanter** → aggiungere come PNG (rivelato, tragico, non "salvabile")
+- **Willifort Crowelle** → aggiornare stato finale
+- **Esvele Rosznar** → aggiornare ruolo giocato nella resa dei conti
+- **Jandar Chergoba / Tissina Khyret / Laiba Rosse** → aggiungere se incontrati/combattuti
+
+### Missioni
+
+- **Trama principale Cap. 6 (Villa Cassalanter)** → **Completata** (con esito da annotare)
+- **M4 di fazione** → passano da `Pianificate` a candidate per la prossima sessione di legwork
+
+---
+
+## ✅ POST-SESSION CHECKLIST
+
+- [ ] `ai/knowledge/recaps/recap-sessione-16.md` — compilare dopo la sessione
+- [ ] `ai/knowledge/party.md` — **URGENTE:** il file risulta fermo alla Sessione 10 (Lv 4). Aggiornare con tutto il percorso S11→S16 (Lv 5, Vault, Villa Cassalanter) prima di proseguire la pipeline, idealmente eseguendo `/aggiorna-sessione` retroattivamente per S11-S15 se non è già stato fatto
+- [ ] `ai/knowledge/png-incontrati.md` — aggiungere Victoro, Ammalia, Osvaldo, servitori capo; aggiornare Esvele, Willifort, gemelli
+- [ ] `ai/knowledge/stato-missioni.md` — trama principale Cap. 6 → `Completata`; valutare riapertura M4
+- [ ] `ai/knowledge/fazioni.md` — aggiornare scheda **Cassalanters** con l'esito finale della resa dei conti
+- [ ] `ai/knowledge/rapporti.md` — aggiungere/aggiornare tutti i PNG di questa sessione
+- [ ] `ai/knowledge/contesto.md` — **URGENTE:** aggiornare "Capitolo corrente" (attualmente fermo a 4; la narrativa è già al Cap. 6) e "Livello party" (attualmente 4; dovrebbe essere 5) non appena l'esito reale delle S11-S16 è confermato
+- [ ] `campagna/luoghi-visitati/` — aggiornare la voce Villa Cassalanter con tempio (A1-A9) esplorato
+- [ ] `campagna/sessioni/dm-notes-sessione-17.md` — creare prima della prossima sessione (apertura post-Cassalanter: M4 di fazione, epilogo dei gemelli se in sospeso)
