@@ -366,7 +366,7 @@ Esvele (se presente) trattiene il fiato accanto a voi — per la prima volta da 
 ## ✅ POST-SESSION CHECKLIST
 
 - [ ] `ai/knowledge/recaps/recap-sessione-12.md` — compilare dopo la sessione
-- [ ] `ai/knowledge/party.md` — **allineare il livello a Lv 4** (il file dice ancora Lv 3); aggiornare stato; annotare le chiavi ottenute
+- [ ] `ai/knowledge/party.md` — livello **Lv 4** (già allineato); aggiornare stato; annotare le chiavi ottenute. Ricorda: il livello sale solo sulla trama principale (Lv 5 subito prima di Villa Cassalanter)
 - [ ] `ai/knowledge/png-incontrati.md` — aggiungere/aggiornare Esvele, Zelifarn (quota), Laeral, Old Xoblob, Willifort, Skeemo (se M2 giocata)
 - [ ] `ai/knowledge/stato-missioni.md` — M2 Zentharim: aggiornare stato
 - [ ] `ai/knowledge/rapporti.md` — aggiornare se M2 Zentharim giocata (Krauser/Vosk; Scintilla/Rennis); aggiornare rapporto con Esvele e Zelifarn

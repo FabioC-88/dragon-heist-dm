@@ -222,7 +222,7 @@ All'interno, Esvele è in riunione con tre rappresentanti di gilda (corporazioni
 | Barnibus — Urstul Floxin | Barnabus Reed | Aperto | ⏸️ Da S9, riproposto FASE 3 |
 | Vincent Trench — Emmek Frewn | Aelar | Aperto | ⏸️ Da S9, riproposto FASE 3 |
 | Istrid Horn al manor | Scintilla, Krauser | Attivo | Rimane in copertura come "cameriera" |
-| **Level 4 Milestone** | Tutto il party | Condizionale | Scatta dopo M2 Zentharim + chiusura Cap. 3 |
+| **Livello party** | Tutto il party | **Lv 3 → Lv 4** | Il livello sale **solo sulla trama principale**, mai sulle M2/M3 di fazione. Lv 4 al beat di trama principale (recupero Stone + rivelazione del Vault). Prossimo: **Lv 5 subito prima di Villa Cassalanter** |
 
 ---
 
@@ -260,7 +260,7 @@ All'interno, Esvele è in riunione con tre rappresentanti di gilda (corporazioni
 ### Missioni
 
 - Zentharim M2 → `Completata` se giocata / rimane `Pianificata` se rimandata ancora
-- Se M2 Zentharim completata: Cap. 3 chiude → **Level 4 milestone**
+- **Nessun level up da questa missione:** i livelli salgono solo sulla trama principale. Il party è **Lv 4**; il **Lv 5 scatta subito prima di Villa Cassalanter**
 
 ---
 

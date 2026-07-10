@@ -1,9 +1,9 @@
 # DM Notes — Sessione 17 (In-Game)
 
-> **Quando si gioca questa sessione:** dopo il **Vault of Dragons** (S14) e dopo la Parte I dell'infiltrazione a Villa Cassalanter (S15) — party **Lv 5**, Cap. 6 aperto, nome "Cassalanter" ormai noto. Questa sessione **non presuppone un esito specifico** del climax Cassalanter (S16, "Il Giorno dei Dannati"): può essere giocata prima, dopo, o attorno ad esso — le tre missioni M4 di fazione sono contenutisticamente indipendenti da come si risolverà la villa. Le note segnalate come "se S16 è già stata giocata" vanno usate solo se è davvero così al tuo tavolo; altrimenti usa la versione "in attesa" indicata accanto.
+> **Quando si gioca questa sessione:** **nei 10 giorni successivi a Villa Cassalanter / Giorno dei Fondatori** (S15-S16), a **Lv 5**. Le M4 si giocano **dopo** il climax Cassalanter (S16, "Il Giorno dei Dannati") — mai prima né durante: sono la finestra in cui il party chiude gli archi di fazione mentre corre a salvare i gemelli (se forfeit). L'esito della villa è quindi **già determinato** quando si gioca questa sessione; usa quel risultato per calibrare il tono (vedi "Aggiornamenti DM Critici").
 >
 > **Fonte primaria:** *Waterdeep: Dragon Heist* — Cap. 5 "Spring Madness" (Xanathar's Lair, Nihiloor — per la Force Grey M4) e Cap. 7 "Maestro's Fall" (Sea Maidens Faire / *Eyecatcher* / Jarlaxle — per la Arpisti M4) · Missioni strutturate `missioni-secondarie/{forcegrey,zentharim,arpisti}/M4-*.md` (la Zentharim M4 è una riscrittura integrale della missione canonica, documentata in `ai/knowledge/contesto.md`).
-> **Contesto:** Party **Lv 5** · 5 PG (6 con Barnabus ospite) · Cap. 6 aperto, Vault of Dragons chiuso dalla S14. Sistema a **milestone**: nessun XP numerico da tracciare; il prossimo level up resta legato alla chiusura dell'arco Cassalanter, non a questa sessione.
+> **Contesto:** Party **Lv 5** (salito subito prima di Villa Cassalanter, sulla trama principale) · 5 PG (6 con Barnabus ospite) · **Villa Cassalanter già risolta (S16)**; siamo nei 10 giorni successivi. Sistema a **milestone**: i level up scattano solo sulla trama principale, non su queste missioni di fazione.
 > **Obiettivo sessione:** presentare al tavolo un **menu di tre missioni M4 di fazione**, complete e indipendenti tra loro — **Force Grey** (eliminare Nihiloor nel covo di Xanathar), **Zentharim** (il processo al magistrato Vosk), **Arpisti** (infiltrazione sull'*Eyecatcher* di Jarlaxle) — e giocarne **una sola**, scelta in base a chi è presente al tavolo e al tono che si preferisce quella sera.
 > **Durata stimata:** variabile in base alla missione scelta — Force Grey 4-6h, Zentharim 2-3h, Arpisti 3-4h. Meglio non giocarne più di una per serata: sono dense, e ciascuna merita di respirare.
 
@@ -13,7 +13,7 @@
 
 **[NOTA DM — riservata]** Questa sessione non ha una struttura a fasi lineari: è un **menu di tre missioni complete e indipendenti**, ciascuna già rifinita nei minimi dettagli (PNG, testi boxed, stat block, hook per i PG). Il tavolo ne giocherà **una sola** — non forzare la convergenza tra le tre né provare a comprimerle in un'unica serata.
 
-**Condizione iniziale:** party Lv 5, controllo del Vault of Dragons confermato (Cap. 4 chiuso, S14). Le missioni M4 sono disponibili in parallelo alla risoluzione finale a Villa Cassalanter. **Nessun incontro propedeutico richiesto** — sono missioni autonome di alto livello, pensate per essere giocate in qualunque ordine tra loro e rispetto al climax Cassalanter. Detto questo, non vanno rimandate all'infinito: sono contenuto di fine-arco fazione e il tavolo se le merita a breve.
+**Condizione iniziale:** party Lv 5, Vault of Dragons alle spalle e **Villa Cassalanter già risolta (S16)**. Le M4 si giocano tutte **nei 10 giorni successivi a Villa Cassalanter / Giorno dei Fondatori** — la finestra in cui, se i gemelli sono forfeit, sono ancora salvabili. **Nessun incontro propedeutico richiesto** — sono missioni autonome di alto livello, giocabili in qualunque ordine **tra loro**, ma tutte dentro questa finestra post-villa. Non rimandarle all'infinito: sono il contenuto di fine-arco fazione, e i 10 giorni scorrono.
 
 **Le tre missioni in breve:**
 
@@ -31,7 +31,7 @@
 - Nessuna missione ha prerequisiti dalle altre due: possono essere giocate in qualsiasi ordine nelle sessioni successive.
 
 **Riepilogo spotlight per missione (a colpo d'occhio):**
-- **Force Grey M4:** Vorador Thraxas (risoluzione parziale del gancio Brottor Deepdelver — non solo un indizio, un vero avanzamento), Razak Kendal (spotlight legato al training monastico; se il presagio di Hlam è già stato risolto nel climax di Villa Cassalanter, questa missione lo mostra libero da quel peso — se S16 non è ancora stata giocata, il presagio resta comunque sullo sfondo, senza bisogno di risolverlo qui).
+- **Force Grey M4:** Vorador Thraxas (risoluzione parziale del gancio Brottor Deepdelver — non solo un indizio, un vero avanzamento), Razak Kendal (spotlight legato al training monastico; il presagio di Hlam è già stato risolto nel climax di Villa Cassalanter — S16 è alle spalle — quindi questa missione lo mostra libero da quel peso, un momento di sollievo o di spiazzamento per la libertà nuova).
 - **Zentharim M4:** Friedrich Krauser (confronto diretto col magistrato Vosk — cuore del suo arco Oathbreaker; eco sottile, mai esplicita, del rapporto con Aldric), Fizzra "Scintilla" (filo diretto ma non risolutivo verso Rennis Coalsworth/Torri Kolat). Micro-hook opzionale per Barnabus "Barney" Reed se presente.
 - **Arpisti M4:** Aelar Moonwhisper (arco completo: Sildëyuir, i Nilshai, il patto di Trobbio — qui Aelar è lo spotlight, senza bisogno di hook aggiuntivi per bilanciare).
 
@@ -83,7 +83,7 @@ Questa missione chiude il ciclo Force Grey — è il punto di non ritorno.
 
 **[NOTA DM — riservata] Hook per Vorador Thraxas:** questa missione **risolve parzialmente** il suo gancio personale principale (Brottor Deepdelver scomparso) — non è un semplice indizio, è un vero avanzamento narrativo. Vedi Incontro 3 per la scena dedicata: il dialogo di Brottor (BT-F2) riprende già testualmente dettagli del suo background — lo ha classificato come caso "protetto" per tenere lontano da lui il nome di Dendar (un bersaglio politico dentro l'Ordine), e ha resistito alle interviste psichiche di Nihiloor fornendo depistaggi (incluso il riferimento a "Dendar" nel testo boxed, già coerente col patto di Vorador). Dopo la missione, Brottor resta disponibile come PNG ricorrente — mentore, ma cambiato.
 
-**[NOTA DM — riservata] Hook per Razak Kendal:** il presagio di Hlam ("che le imprese siano buone o malvagie, sangue innocente sarà versato nel Giorno dei Fondatori") troverà risposta nel climax di Villa Cassalanter (S16). **Se S16 è già stata giocata** al tuo tavolo, questa missione non porta più il peso di quella profezia per Razak: è la prima occasione per mostrarlo come Mano Grigia a pieno titolo, senza l'ombra dell'oracolo addosso — un breve momento di sollievo, o di spiazzamento per la libertà nuova, è un buon spotlight in apertura o durante il tragitto verso il covo. **Se S16 non è ancora stata giocata**, il presagio pesa ancora su di lui: usalo come tensione di sottofondo (la sensazione che il conto alla rovescia stia per scadere altrove, mentre lui è impegnato qui), senza risolverlo — la risoluzione resta materiale esclusivo di S16.
+**[NOTA DM — riservata] Hook per Razak Kendal:** il presagio di Hlam ("che le imprese siano buone o malvagie, sangue innocente sarà versato nel Giorno dei Fondatori") ha **già** trovato risposta nel climax di Villa Cassalanter (S16, alle spalle). Questa missione non porta più il peso di quella profezia per Razak: è la prima occasione per mostrarlo come Mano Grigia a pieno titolo, senza l'ombra dell'oracolo addosso — un breve momento di sollievo, o di spiazzamento per la libertà nuova, è un buon spotlight in apertura o durante il tragitto verso il covo. *(Se al tavolo i gemelli sono forfeit, ricorda che questi 10 giorni sono anche la corsa per salvarli: il peso di Razak non è sparito, si è solo spostato dal "cosa succederà" al "come rimediare".)*
 
 **[NOTA DM — riservata — continuità missioni]** La Sinossi sopra elenca la M3 Force Grey ("l'infiltrazione di Divoratori d'Intelletto nei ranghi delle Force Grey") tra i fili che Nihiloor ha già tessuto prima di questa missione. In `ai/knowledge/stato-missioni.md`, **Force Grey M3 "Crimini di Pensiero" risulta ancora `Pianificata`** (non risulta confermata come giocata a tavolo, anche se la "Cronologia consigliata" nello stesso file la collocava prima del Vault, S13+). Non serve recuperarla retroattivamente per rendere coerente questa M4: tratta l'infiltrazione dei Divoratori come già scoperta offscreen, coerentemente con quanto la Sinossi già presume. Il filo resta comunque disponibile come sessione a sé per il futuro — vedi Thread Narrativi in fondo al documento.
 
@@ -950,8 +950,8 @@ Una mappa di Faerûn segnata da punti d'inchiostro dorato — *"Instabilità pla
 - Il filo di Vecna emerge sullo sfondo
 
 **Convergenza tra fazioni:**
-- Le tre M4 procedono in parallelo
-- Tutte convergono verso il climax a Villa Cassalanter
+- Le tre M4 procedono in parallelo tra loro, tutte nella finestra dei 10 giorni **dopo** Villa Cassalanter
+- Chiudono gli archi di fazione mentre corre il conto alla rovescia dei gemelli (se forfeit) — non precedono la villa, la seguono
 - Zelifarn (Force Grey M2) ricompare nella M4 Arpisti
 - Manshoon (sfondo Zentharim) emerge già nella M3 Force Grey (Divoratori d'Intelletto)
 
@@ -974,26 +974,23 @@ Una mappa di Faerûn segnata da punti d'inchiostro dorato — *"Instabilità pla
 
 ## Aggiornamenti DM Critici
 
-**Già vero indipendentemente da S16 (stabilito da S14/S15):**
-- Vault of Dragons chiuso, party Lv 5 confermato
+**Stato di partenza (stabilito da S14-S16):**
+- Vault of Dragons chiuso; party salito a **Lv 5** subito prima di Villa Cassalanter (trama principale)
 - Attunement allo Stone of Golorr passato ad Aelar (ultimo portatore confermato in S10); Vorador ne è stato un portatore precedente
-- Villa Cassalanter, Parte I (infiltrazione, S15) giocata: il party conosce il nome "Cassalanter", ha raccolto prove, conosce i gemelli Terenzio ed Elzerina
+- **Villa Cassalanter risolta (S15-S16):** siamo **nei 10 giorni successivi** al Giorno dei Fondatori. L'esito del climax (gemelli salvati o forfeit, sorte di Victoro/Ammalia) è **già determinato**
 
-**Se S16 (il climax — tempio, banchetto, confronto coi Cassalanter) è già stata giocata al tuo tavolo:**
-- L'esito del climax (gemelli salvati o meno, sorte di Victoro/Ammalia) è determinato — usalo per calibrare il tono delle note legate al presagio di Hlam per Razak (vedi hook nella Force Grey M4)
+**Conseguenze dell'esito di S16 (usarle per calibrare il tono):**
+- L'esito del climax determina il tono delle note legate al presagio di Hlam per Razak (vedi hook nella Force Grey M4): il presagio è comunque **già risolto**
 - Il debito di Krauser verso Asmodeo (rinegoziazione per i gemelli, se tentata) è già in corso o risolto — coordina con `campagna/personaggi/Friedrich-Krauser.md`
+- Se i gemelli sono **forfeit**, questi 10 giorni sono anche la corsa per salvarli: le M4 si intrecciano con quella tensione di sottofondo
 
-**Se S16 non è ancora stata giocata (le M4 arrivano prima):**
-- Il presagio di Hlam resta ancora un peso non risolto per Razak — non anticipare l'esito della villa, ma è legittimo lasciare che il giocatore lo senta sullo sfondo
-- Non rivelare dettagli del tempio, del banchetto avvelenato o della sorte dei gemelli: restano materiale esclusivo di S16
-
-**Preparazione S17 (valida in entrambi i casi):**
-- Le tre missioni M4 sono disponibili in modo indipendente
-- Nessun prerequisito oltre "party Lv 5, post-Vault"
-- Tempistica: possono essere giocate in qualunque ordine tra loro; rispetto a S16 possono precederla o seguirla
+**Preparazione S17:**
+- Le tre missioni M4 sono disponibili in modo indipendente, tutte **dentro la finestra dei 10 giorni post-villa**
+- Nessun prerequisito oltre "party Lv 5, Villa Cassalanter risolta"
+- Tempistica: giocabili in qualunque ordine **tra loro**; sempre **dopo** S16, mai prima
 - Se il party fallisce in una missione, le altre restano disponibili
 
-**Dopo tutte e tre le M4 (indipendentemente da quando si gioca S16):**
+**Dopo tutte e tre le M4:**
 - Le conclusioni delle M4 confluiscono nell'endgame Cassalanter (villa, gemelli, eventuale negoziazione con Asmodeo tramite Krauser)
 - Le Torri Kolat diventano un possibile dungeon per il Cap. 5+ (salvataggio di Rennis, confronto con Manshoon)
 - Il patto di Trobbio diventa un debito esigibile nelle sessioni future

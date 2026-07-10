@@ -94,14 +94,18 @@ Referente: **Davil Starsong**
 | Sessione 5 *(giocata)* | Un Brutto Momento | Zentharim | 2 |
 | Sessione 9 | Non è Tutto Oro... | Force Grey | 3 |
 | Sessione 9-10 | Disinfestazione | Arpisti | 3 |
-| **Chiusura Cap. 3** | **— Level up a Lv 4 (milestone, RAGGIUNTO seguendo la trama principale) —** | | **4** |
-| Sessione 11-12 | Old Tower / Esvele + **caccia alle tre chiavi** (avvio) | Trama principale (Cap. 4) | 4 |
+| Party **Lv 4** | *(livello attuale — salito solo su trama principale, mai sulle missioni di fazione)* | | **4** |
+| Sessione 11-12 | Old Tower / Esvele + **caccia alle tre chiavi** (avvio) | Trama principale | 4 |
 | **Sessione 13+ — FINESTRA CACCIA-CHIAVI (Lv 4)** | **Tieni il Resto (M2)** · Benvenuti in Famiglia (M3) · Crimini di Pensiero (M3, lunga) · Corri, Dasher! (M3) | Zhentarim / Arpisti / Force Grey | **4** |
-| **Vault of Dragons** *(S14 ideale)* | **— Chiusura Cap. 4 → Level up a Lv 5 (milestone) —** | Trama principale | **4→5** |
-| Dopo il Vault *(∥ Villa Cassalanter)* | Velo Alzato (M4) · Cose Terribili (M4) · Sangue del Patto (M4) | Arpisti / Force Grey / Zhentarim | 5 |
+| **Vault of Dragons** *(S14 ideale)* | Caccia allo Stone conclusa | Trama principale | 4 |
+| **Subito prima di Villa Cassalanter** | **— Level up a Lv 5 (milestone di trama principale) —** | Trama principale | **4→5** |
+| Villa Cassalanter *(S15-16)* | Infiltrazione + climax (Giorno dei Dannati) | Trama principale | 5 |
+| **Nei 10 giorni dopo Villa / Giorno dei Fondatori** | Velo Alzato (M4) · Cose Terribili (M4) · Sangue del Patto (M4) | Arpisti / Force Grey / Zhentarim | 5 |
 
 *Questo ordine è indicativo. Adatta all'effettivo livello del party e alle sessioni giocate.*
 
-**[AGGIORNAMENTO — cadenza missioni riallineata (durante prep S13)]** Le missioni fazione **M2/M3 in sospeso** (tutte Lv 3-4) vanno giocate **durante la finestra della caccia alle chiavi** (Lv 4, da S13), *prima* del Vault — la caccia richiede giorni di legwork in città ed è la cornice narrativa naturale per farle emergere. Le missioni ancora aperte in questa finestra: **Zhentarim M2 "Tieni il Resto"** (contenuto principale di S13, rinviata 4 volte), **Arpisti M3 "Benvenuti in Famiglia"**, **Force Grey M3 "Crimini di Pensiero"** (lunga, 3-5 sessioni — solo da avviare), **Zhentarim M3 "Corri, Dasher!"**. Il **Vault** (idealmente S14) chiude il Cap. 4 → **Lv 5**. Le **M4** (Lv 5) si giocano **dopo** il Vault, **in parallelo con Villa Cassalanter** (Cap. 6). Motivo del riallineamento: giocare le M2/M3 dopo il Vault le renderebbe sottolivello e slegate.
+**[REGOLA LIVELLI]** I level up scattano **solo sulla trama principale**, mai sulle missioni di fazione. Il party è a **Lv 4**; il **Lv 5 scatta subito prima di Villa Cassalanter**.
+
+**[CADENZA MISSIONI]** Le missioni fazione **M2/M3 in sospeso** (tutte Lv 3-4) vanno giocate **durante la finestra della caccia alle chiavi** (Lv 4, da S13), *prima* del Vault — la caccia richiede giorni di legwork in città ed è la cornice narrativa naturale per farle emergere. Le missioni ancora aperte in questa finestra: **Zhentarim M2 "Tieni il Resto"** (contenuto principale di S13, rinviata 4 volte), **Arpisti M3 "Benvenuti in Famiglia"**, **Force Grey M3 "Crimini di Pensiero"** (lunga, 3-5 sessioni — solo da avviare), **Zhentarim M3 "Corri, Dasher!"**. Le **M4** (Lv 5) si giocano **nei 10 giorni successivi a Villa Cassalanter / Giorno dei Fondatori** — la finestra in cui i gemelli sono ancora salvabili. Motivo: giocare le M2/M3 dopo il Vault le renderebbe sottolivello e slegate.
 
 **Piano M2 (≤ Lv 4) — concordato dopo S6:** le tre M2 (Lv 3) sono state **interlacciate** durante il Cap. 3. Force Grey M2 e Arpisti M2 sono state giocate (S9); **Zhentarim M2 "Tieni il Resto"** — rinviata 4 volte — è ora **scollegata dal level up** (l'arco Oathbreaker di Krauser è già avvenuto in S9 senza di essa) e va chiusa come filo narrativo nella finestra caccia-chiavi di S13.

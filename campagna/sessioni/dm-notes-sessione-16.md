@@ -319,13 +319,13 @@ Non aggiungere altro. È l'amo per l'arco S17+: la salvezza dei gemelli **esiste
 
 ### Hook Fazione — Semi per l'arco successivo *(momento di respiro, non innescare ora)*
 
-**[NOTA DM — riservata]** Il Cap. 6 si chiude qui (nella misura in cui il tavolo ha risolto il nodo Cassalanter). Le **M4 di fazione**, tenute in sospeso da S13/S15, tornano ora in primo piano come **thread paralleli** per le prossime sessioni:
+**[NOTA DM — riservata]** Il Cap. 6 si chiude qui (nella misura in cui il tavolo ha risolto il nodo Cassalanter). Le **M4 di fazione** si giocano **nei 10 giorni successivi a Villa Cassalanter / Giorno dei Fondatori** — la stessa finestra in cui i gemelli (se forfeit) sono ancora salvabili: gli archi di fazione e la corsa a salvare Terenzio ed Elzerina corrono insieme. Da innescare **dopo** questa notte, non ora:
 
 - **Arpisti M4 "Velo Alzato"** — Mirt può ora far sapere ad Aelar che Jarlaxle/*Eyecatcher* è ancora interessato al *dragonstaff of Ahghairon* di Aurinax: con la villa alle spalle, è il momento naturale per riaprire questo filo.
 - **Force Grey M4 "Cose Terribili"** — Vajra Safahr, informata dell'esito della notte, può ora rivolgere l'attenzione di Razak/Vorador verso il covo di Xanathar e Nihiloor.
 - **Zentharim M4 "Sangue del Patto"** — Davil Starsong, se contattato, può far riemergere il filo Skeemo/Vosk/Manshoon per Krauser e Scintilla — con un possibile aggancio al destino di Rennis.
 
-Non aprirle in questa sessione: bastano una riga o due a testa come promemoria per il DM, da innescare nella prossima finestra di legwork cittadino.
+Non aprirle in questa sessione: bastano una riga o due a testa come promemoria per il DM, da innescare nella finestra dei 10 giorni post-villa.
 
 **[NOTA DM — riservata — livello e chiusura]** Nessun level up meccanico previsto in questa sessione (il party resta **Lv 5**): la chiusura del Cap. 6 è un **milestone narrativo**, non un salto di livello. Se il DM vuole marcare la fine dell'arco dei Cassalanter con un level up simbolico a Lv 6, è una scelta legittima da fare **dopo** aver visto come si è chiusa la sessione al tavolo — non è richiesto dal modulo.
 
@@ -348,7 +348,7 @@ Non aprirle in questa sessione: bastano una riga o due a testa come promemoria p
 | Statua di Asmodeo / *mace of disruption* | Chi ha esplorato A4/A4a | Facoltativo | Se usata, è la leva narrativa più pulita della sessione |
 | Victoro e Ammalia Cassalanter | Tutto il party | Dipende dall'esito | Sconfitti/fuggiti/arresi/vittoriosi — annotare con cura per fazioni.md |
 | L'inganno di Asmodeo (fermarli danna i gemelli) | Tutto il party | **Segreto DM — da guadagnare** | Il vero disegno dietro l'intero capitolo; si svela solo quando il party cerca di salvare i bambini |
-| M4 di fazione (Velo Alzato / Cose Terribili / Sangue del Patto) | Aelar / Razak-Vorador / Krauser-Scintilla | Disponibili — da riaprire | Riprendere nella prossima finestra di legwork |
+| M4 di fazione (Velo Alzato / Cose Terribili / Sangue del Patto) | Aelar / Razak-Vorador / Krauser-Scintilla | Disponibili — da riaprire | Nei 10 giorni dopo Villa Cassalanter / Giorno dei Fondatori (finestra salvataggio gemelli) |
 | Il Filo di Vecna (Sussurratori) | Tutto il party | Silenzioso questa sessione | Riprendere in una sessione più leggera |
 | Esvele Rosznar — La Vipera Nera | Tutto il party | Dipende da S15/S16 | Annotare se ha aiutato/complicato nella villa |
 

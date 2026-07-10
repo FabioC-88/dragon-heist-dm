@@ -1,7 +1,7 @@
 # DM Notes — Sessione 13 (In-Game)
 
 > **Fonte primaria:** Missioni secondarie delle fazioni (finestra Lv 4), giocate nella cornice della **caccia alle tre chiavi** avviata in S12. Contenuto principale sviluppato: **Zentharim M2 "Tieni il Resto"** (`missioni-secondarie/zentharim/M2-TieniIlResto.md`) — il filo rinviato quattro volte (S9-S12). Missioni disponibili in alternativa/parallelo: **Arpisti M3 "Benvenuti in Famiglia"**, **Force Grey M3 "Crimini di Pensiero"**, **Zentharim M3 "Corri, Dasher!"**.
-> **Contesto:** Party **Lv 4** · 5 PG (6 con Barnabus ospite) · Cap. 4 · Il party sta procurando le tre chiavi del Vault (scaglia di Zelifarn, occhio di beholderkin, dono di Laeral). Ogni chiave richiede giorni di legwork in città (1 giornata + ricerche per chiave — vedi dm-notes-12): è la **finestra perfetta** per chiudere le missioni fazione ancora in sospeso, tutte tarate su Lv 3-4. Le missioni Lv 5 (M4) verranno **dopo** il Vault, in parallelo con Villa Cassalanter.
+> **Contesto:** Party **Lv 4** · 5 PG (6 con Barnabus ospite) · Cap. 4 · Il party sta procurando le tre chiavi del Vault (scaglia di Zelifarn, occhio di beholderkin, dono di Laeral). Ogni chiave richiede giorni di legwork in città (1 giornata + ricerche per chiave — vedi dm-notes-12): è la **finestra perfetta** per chiudere le missioni fazione ancora in sospeso, tutte tarate su Lv 3-4. Le missioni Lv 5 (M4) verranno **dopo** Villa Cassalanter, nella finestra dei 10 giorni successivi al Giorno dei Fondatori.
 > **Obiettivo sessione:** Sfruttare il downtime della caccia alle chiavi per far avanzare/chiudere le missioni fazione della finestra Lv 4. Il **contenuto garantito** è Zentharim M2 (chiude il subplot Skeemo/Vosk/Rennis e cementa l'alleanza con Esvele); le altre tre missioni sono a disposizione secondo cosa sceglie il party. **Il Vault resta raggiungibile in ogni momento**: se il party decide di ignorare le missioni e scendere subito con le tre chiavi, si passa a `dm-notes-sessione-14.md`.
 > **Durata stimata:** ~2h30m–3h. Una missione "piena" (Zentharim M2) sta comodamente in una serata da ~2h30m; se il tavolo corre, si avvia una seconda missione o si getta un ponte verso il Vault (S14).
 
@@ -138,7 +138,7 @@
 **Pitch:**
 > *Gli Arpisti hanno individuato una banda di **doppelganger** che opera nelle ombre di Waterdeep. Mattrim crede che alcuni di loro possano diventare alleati preziosi — non tutto ciò che mente è nemico. Il compito: incontrarli, valutarli, riferire.*
 
-**[NOTA DM — riservata]** Perfetta **subito dopo** (o durante) la caccia, e tematicamente specchiata a Willifort Crowelle: qui i doppelganger sono potenziali *amici*. **Bonnie** (leader, lavora al bancone del Portale, unica genuinamente interessata a una vita onesta) **conosce già uno dei PG** senza che lui sappia che è un doppelganger — ottimo gancio relazionale. **Attenzione continuità:** tra i doppelganger della banda il file elenca **Willifort Crowelle** stesso (servo dei Cassalanter) — se in S12 è morto/catturato, adattare. Contatto e spotlight: **Aelar** (Arpista). File completo: `missioni-secondarie/arpisti/M3-BeneventutiInFamiglia.md`.
+**[NOTA DM — riservata]** Perfetta **subito dopo** (o durante) la caccia, e tematicamente specchiata a Willifort Crowelle: qui i doppelganger sono potenziali *amici*, non nemici. **Bonnie** (leader, lavora al bancone del Portale, unica genuinamente interessata a una vita onesta) **conosce già uno dei PG** senza che lui sappia che è un doppelganger — ottimo gancio relazionale. **Nota continuità:** la banda di Bonnie è composta da doppelganger neutri/innocui (gente di Durnan) — **Willifort Crowelle NON ne fa parte** (è l'agente ostile dei Cassalanter, filo separato). Contatto e spotlight: **Aelar** (Arpista). File completo: `missioni-secondarie/arpisti/M3-BeneventutiInFamiglia.md`.
 
 ### 2B — Force Grey M3: "Crimini di Pensiero" (Razak, Vorador) · ⚠️ LUNGA: 3–5 sessioni
 
@@ -203,7 +203,7 @@
 |----------|----|
 | Zentharim M2 (sociale/investigativa) | narrativo |
 | Eventuali altre missioni | narrativo |
-| **Nota** | Sistema a **milestone**: il party resta a **Lv 4** in questa finestra; il salto a Lv 5 è alla chiusura del Cap. 4 (Vault, S14) |
+| **Nota** | Sistema a **milestone** (solo trama principale): il party resta a **Lv 4** in questa finestra; il salto a Lv 5 avviene **subito prima di Villa Cassalanter**, alla conclusione del Vault |
 
 ### Aggiornamento PNG
 - **Skeemo Weirdbottle** → aggiungere a png-incontrati.md (incontrato di persona); nota traditore/nodo Manshoon; vivo

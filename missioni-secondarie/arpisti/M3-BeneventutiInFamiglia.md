@@ -37,7 +37,7 @@ Gli altri doppelganger si incontrano **separatamente**, nei luoghi dove vivono l
 | **Mattrim "Tre Corde" Mereg** | Trovatore Arpista | Tre corde extra sul liuto; allegro, diretto. È innamorato di Bonnie — lo sa, lo nasconde male |
 | **Bonnie** | Leader doppelganger | Lavora al Portale Spalancato. Unica della banda genuinamente interessata a una vita onesta. Conosce già uno dei PG (non sa che lei è un doppelganger) |
 | **Durnan** | Barista del Portale Spalancato | Non sapeva che Bonnie fosse un doppelganger — non gliene importa. Lei non ha mai abusato della sua fiducia |
-| **Willifort Crowelle** | Doppelganger | Tiefling anziano in abito scuro, occhiali sottili. Servo personale dei Cassalanter. I Cassalanter sanno chi è. Disponibile con 2 giorni di preavviso |
+| **Renwick Dorr** | Doppelganger | Corriere privato del Sea Ward. Trasporta messaggi e pacchi per clienti facoltosi; evasivo per "riservatezza professionale", non per malizia. Disponibile con 2 giorni di preavviso |
 | **Naneatha Lharilstar** | Doppelganger | Nobildonna elegante. Vive "onestamente — quanto si può, come nobile in questa città". Durnan capisce subito che ha rimpiazzato qualcuno: la caccia con rabbia, senza colpirla. Disponibile solo la sera |
 | **Cecil Weiss** | Doppelganger | Bardo umano. Vuole diventare leggenda: musicista, attore, drammaturgo. Evita le accuse di impersonare rivali. Disponibile con 1 giorno di preavviso |
 | **Vaniel Shortwick** | Doppelganger | Halfling barista al Hole in the Wall. Paranoico — si difende prima ancora di essere accusato. Frequenta il locale degli uomini-ratto alleati dello Xanathar |
@@ -66,7 +66,7 @@ Racconta: cinque doppelganger arrivati a Waterdeep tre anni fa per costruire una
 
 Bonnie organizza gli incontri individuali con preavviso. Ogni incontro ha la sua dinamica:
 
-- **Willifort** — collaborativo, evasivo sui dettagli del lavoro coi Cassalanter. Non mente sulla loro conoscenza della sua natura
+- **Renwick** — collaborativo, evasivo sui clienti del suo lavoro di corriere (riservatezza professionale). Non è ostile
 - **Naneatha** — elegante e composta; Durnan perde la testa se la vede al Portale (ha rimpiazzato una sua vecchia amica)
 - **Cecil** — esuberante, aggira con stile le domande scomode sulle imitazioni
 - **Vaniel** — si difende in anticipo, il che rivela più di quanto voglia
@@ -110,17 +110,17 @@ Se il party chiede degli altri:
 
 ---
 
-### Scena 3 — Willifort Crowelle
+### Scena 3 — Renwick Dorr
 
-*Un tiefling anziano in abito scuro, occhiali sottili, voce misurata. Disponibile con due giorni di preavviso — riceve il party in un locale discreto del Sea Ward.*
+*Un umano dai lineamenti anonimi, abito pratico da corriere, una borsa a tracolla sempre chiusa. Disponibile con due giorni di preavviso — riceve il party in un locale discreto del Sea Ward.*
 
-**Willifort** *(educato, collaborativo)*:
-> *"I Cassalanter sanno cosa sono. Lo hanno sempre saputo. Ho firmato un accordo di riservatezza — non posso discutere i dettagli del mio lavoro. Ma posso dirvi che non intendo fare loro del male. E questo è sincero."*
+**Renwick** *(educato, misurato)*:
+> *"Faccio il corriere. Porto pacchi e messaggi per chi paga bene e non fa domande — e io ricambio non facendone. Non posso dirvi per chi lavoro. Ma posso dirvi che non ho mai fatto del male a nessuno per un incarico. E questo è sincero."*
 
-Se pressato sui dettagli del lavoro:
-> *"Accordo di riservatezza, appunto."*
+Se pressato sui clienti:
+> *"Riservatezza. È tutto ciò che vendo, in fondo."*
 
-**Nota DM:** Il sorriso è genuino; le bugie sull'NDA sono pretestuose ma difficili da smontare. Non è malvagio verso i Cassalanter — è malvagio in senso più generale. Intuizione CD 14 rivela che c'è qualcosa sotto, ma niente di urgente per la missione.
+**Nota DM:** Il sorriso è genuino; la reticenza è professionale, non sospetta — non è legato ad alcun villain. Intuizione CD 14 rivela solo che è abituato a mentire per mestiere, niente di rilevante per la missione.
 
 ---
 

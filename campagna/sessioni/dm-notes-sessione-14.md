@@ -336,7 +336,7 @@ Fanatico del Culto — CA 13 | PF 33 (6d8+6) | Vel. 9 m | GS 2
 *[Aggiunta atmosferica]:*
 > *Esvele Rosznar si ferma sulla soglia, si volta un'ultima volta verso il buio da cui siete usciti. "Un drago," dice, quasi tra sé. "Ho passato mesi a studiare questa torre, e c'era un drago." Scuote la testa, e per un istante il calcolo cede al puro stupore. Poi il sorriso torna. "Direi che ce lo siamo guadagnati. Qualunque cosa 'ce lo' sia stato."*
 
-**[NOTA DM — riservata — LEVEL UP]** La chiusura del Cap. 4 (apertura e risoluzione del Vault of Dragons) porta il party a **Lv 5** (milestone). Comunicalo al tavolo come conquista. Il prossimo arco è **Villa Cassalanter** (Cap. 6, climax estivo), giocato a Lv 5, con la scadenza del **Giorno dei Fondatori** come conto alla rovescia.
+**[NOTA DM — riservata — LEVEL UP]** Il party ha affrontato il Vault a **Lv 4**. La sua risoluzione è il beat di **trama principale** che porta al **Lv 5**: è il level up **subito prima di Villa Cassalanter** (i livelli salgono solo sulla trama principale, mai sulle missioni di fazione). Comunicalo al tavolo come conquista. Il prossimo arco è **Villa Cassalanter** (climax estivo), giocato a Lv 5, con la scadenza del **Giorno dei Fondatori** come conto alla rovescia.
 
 **[NOTA DM — riservata — CLIFFHANGER verso Villa Cassalanter]** Chiudi la sessione seminando la corsa contro il tempo. Un'idea: mentre il party esce, un **origami-uccellino di Mirt** (o un messaggero della fazione più vicina) recapita una nota urgente — la festa del **Giorno dei Fondatori** a Villa Cassalanter è imminente, e voci parlano di un grande ricevimento. Oppure gioca il **seme di Vecna del Cap. 4** (vedi sotto). Non aprire la villa in questa sessione: è il prossimo grande capitolo.
 
@@ -355,7 +355,7 @@ Fanatico del Culto — CA 13 | PF 33 (6d8+6) | Vel. 9 m | GS 2
 **[NOTA DM — riservata — missioni fazione]** Le missioni della finestra Lv 4 (Zentharim M2, Arpisti M3, Force Grey M3, Zentharim M3) appartengono a **S13**, non a questa sessione — vedi `dm-notes-sessione-13.md`. Se il party è sceso nel Vault senza chiuderle, restano da giocare dopo (o come B-plot serale). Non aprirle qui: la sessione del Vault è già piena.
 
 ### Note post-Vault (per S15+)
-Con il party a **Lv 5** e il Cap. 4 chiuso, la **priorità narrativa è Villa Cassalanter** (Cap. 6), incalzata dal Giorno dei Fondatori. In parallelo si aprono le **M4** (Lv 5): Arpisti **M4 "Velo Alzato"** (Jarlaxle/Eyecatcher), Force Grey **M4 "Cose Terribili"** (covo di Xanathar, Nihiloor), Zentharim **M4 "Sangue del Patto"** (resa dei conti Vosk/Skeemo/Manshoon). Le eventuali M2/M3 rimaste in sospeso vanno chiuse prima o intorno alla villa. Vedi contesto.md, "Road to Villa Cassalanter".
+Con il party a **Lv 5** e il Vault alle spalle, la **priorità narrativa è Villa Cassalanter**, incalzata dal Giorno dei Fondatori. Le **M4** (Lv 5) **non** si aprono ora: si giocano **nei 10 giorni successivi a Villa Cassalanter / Giorno dei Fondatori** — Arpisti **M4 "Velo Alzato"** (Jarlaxle/Eyecatcher), Force Grey **M4 "Cose Terribili"** (covo di Xanathar, Nihiloor), Zentharim **M4 "Sangue del Patto"** (resa dei conti Vosk/Skeemo/Manshoon). Le eventuali M2/M3 rimaste in sospeso vanno chiuse **prima** della villa (finestra caccia-chiavi). Vedi contesto.md, "Road to Villa Cassalanter".
 
 ---
 

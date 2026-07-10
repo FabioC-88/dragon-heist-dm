@@ -11,10 +11,10 @@
 - **Villain/Stagione:** Cassalanters (Estate)
 - **Livello di partenza:** 1
 - **Party:** 5 giocatori fissi + Silvia (PG ospite, presente raramente — max 6 giocatori)
-- **Stato:** In corso — Cap. 6 (M4 faction missions + Cassalanter climax). **Vault of Dragons chiuso (S14+)** — party ora Lv 5. S16: climax Cassalanter (Temple of Asmodeus, twins, Day of the Damned). **S17+: M4 faction missions** (post-Cap-4, concurrent with Cap. 6 resolution).
+- **Stato:** In corso — Vault of Dragons (caccia alle chiavi) verso il climax Cassalanter. Party a **Lv 4**; **Lv 5 subito prima di Villa Cassalanter**. S15-16: infiltrazione + climax Cassalanter (Temple of Asmodeus, twins, Day of the Damned), a Lv 5. **Le M4 di fazione si giocano nei 10 giorni successivi a Villa Cassalanter / Giorno dei Fondatori** (finestra di salvataggio dei gemelli).
 - **Durata Media Sessioni:** 2 Ore
-- **Capitolo corrente:** 6
-- **Livello party:** 5 *(raggiunto alla chiusura del Cap. 4/Vault of Dragons; S17 giocata a Lv 5)*
+- **Capitolo corrente:** Vault of Dragons → Villa Cassalanter
+- **Livello party:** 4 *(level up **solo sulla trama principale**; Lv 5 scatta subito prima di Villa Cassalanter — le missioni secondarie non danno livelli)*
 
 ---
 
@@ -79,8 +79,8 @@ Gabri | **Friedrich Krauser** | Umano Paladino (arco verso **Oathbreaker**) | Ze
 > **[NOTA DM — pianificazione strategica]** Sintesi dalla campagna principale (Dragon Heist.md, Cap. 6 "Hell of a Summer") su come e quando il party deve arrivare alla resa dei conti a Villa Cassalanter. Il capitolo della villa **non** si gioca ora: viene **dopo** il Vault of Dragons.
 
 ### Quando (timing e livello)
-- **Sequenza:** Cap. 4 (Vault of Dragons, attuale, Lv 4) → level up a **Lv 5** alla chiusura del Cap. 4 → **Cap. 6 = Villa Cassalanter** (climax dell'arco estivo), giocato a **Lv 5**.
-- **Cadenza missioni fazione (riallineata durante prep S13):** le **M2/M3 in sospeso** (Lv 3-4) si giocano **durante la finestra della caccia alle chiavi** (Lv 4, da S13), *prima* del Vault — la caccia dà giorni di legwork in città, cornice ideale. Missioni della finestra: Zhentarim M2 "Tieni il Resto" (principale), Arpisti M3, Force Grey M3 (lunga), Zhentarim M3. Il **Vault** (S14) chiude il Cap. 4 → Lv 5. Le **M4** (Lv 5) vengono **dopo** il Vault, **in parallelo con Villa Cassalanter**. Motivo: giocare le M2/M3 dopo il Vault le renderebbe sottolivello e slegate.
+- **Sequenza:** Vault of Dragons (attuale, **Lv 4**) → **level up a Lv 5 subito prima di Villa Cassalanter** → **Villa Cassalanter** (climax dell'arco estivo), giocato a **Lv 5**. Il level up dipende **solo dalla trama principale**, mai dalle missioni di fazione.
+- **Cadenza missioni fazione:** le **M2/M3 in sospeso** (Lv 3-4) si giocano **durante la finestra della caccia alle chiavi** (Lv 4, da S13), *prima* del Vault — la caccia dà giorni di legwork in città, cornice ideale. Missioni della finestra: Zhentarim M2 "Tieni il Resto" (principale), Arpisti M3, Force Grey M3 (lunga), Zhentarim M3. Le **M4** (Lv 5) si giocano **nei 10 giorni successivi a Villa Cassalanter / Giorno dei Fondatori** — la finestra in cui i gemelli sono ancora salvabili. Motivo: giocare le M2/M3 dopo il Vault le renderebbe sottolivello e slegate; le M4 chiudono gli archi di fazione dentro la corsa contro il tempo del post-villa.
 - **Scadenza hard:** il **Giorno dei Fondatori** (Flamerule 1). I Cassalanter devono pagare ad Asmodeo, nello stesso momento e a mezzanotte, **sia i 999 dragoni d'oro** (dal Vault) **sia le 99 anime innocenti** (il banchetto avvelenato con Midnight Tears). La villa è il punto d'arrivo *contro il tempo*: il climax cade **su o poco prima del Giorno dei Fondatori**.
 - **La corsa all'oro è il fulcro:** chi apre il Vault per primo decide il ramo.
   - Se **il party** tiene l'oro fuori dalle mani dei Cassalanter → i Cassalanter non possono completare il pagamento; ma i gemelli (Terenzio ed Elzerina) sono comunque condannati (anime forfeite 10 giorni dopo i Fondatori) *a meno che* il party non trovi un altro modo di salvarli. Movente per assaltare la villa.

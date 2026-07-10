@@ -315,12 +315,12 @@ Se il party indaga il **padiglione delle cucine sul prato** (dove **Jandar**, il
 
 **[NOTA DM — riservata]** Seme dei **Sussurratori** (contesto.md, "Il Filo di Vecna"). Stesso sigillo (mano+occhio) del cadavere di Villa Gralhund (S8). **Non** svilupparlo: è un brivido di sottofondo. Non pronunciare **mai** il nome di Vecna.
 
-### Missioni Fazione Lv 5 (M4) — thread paralleli, NON in questa sessione
-**[NOTA DM — riservata]** Con il party a Lv 5 si aprono le **M4**, ma la priorità narrativa **assoluta** è Villa Cassalanter (il tempo stringe). Tienile come **thread paralleli da giocare dopo/intorno alla villa**, non da innescare dentro questa sessione già piena:
-- **Arpisti M4 "Velo Alzato"** (Jarlaxle/*Eyecatcher*): il collegamento più caldo, perché **Jarlaxle vuole anche lui l'oro del Vault e il *dragonstaff of Ahghairon*** (che Aurinax possiede). Se il party ha sentito parlare di Zardoz Zord (S7), Mirt può accennarvi in preparazione — ma **non** aprirla ora. *(Aelar.)*
-- **Force Grey M4 "Cose Terribili"** (covo di Xanathar, Nihiloor): parallela, slegata dalla villa. *(Razak, Vorador.)*
-- **Zentharim M4 "Sangue del Patto"** (resa dei conti Vosk/Skeemo/Manshoon → Kolat Towers): parallela; l'arco personale di Krauser e il filo Rennis di Scintilla. *(Krauser, Scintilla.)*
-- **Missioni Lv 4 eventualmente rimaste in sospeso** (Zent M2 "Tieni il Resto", Arp M3, FG M3, Zent M3): da chiudere prima o intorno alla villa se saltate nella finestra S13.
+### Missioni Fazione Lv 5 (M4) — DOPO la villa, NON in questa sessione
+**[NOTA DM — riservata]** Le **M4** si giocano tutte **nei 10 giorni successivi a Villa Cassalanter / Giorno dei Fondatori** — la finestra in cui i gemelli sono ancora salvabili. Non innescarle qui né durante il climax (S16): la priorità **assoluta** ora è la villa. Semine leggere in preparazione sono ok, ma le missioni vere partono dopo:
+- **Arpisti M4 "Velo Alzato"** (Jarlaxle/*Eyecatcher*): il collegamento più caldo, perché **Jarlaxle vuole anche lui l'oro del Vault e il *dragonstaff of Ahghairon*** (che Aurinax possiede). Se il party ha sentito parlare di Zardoz Zord (S7), Mirt può accennarvi — ma **non** aprirla prima della villa. *(Aelar.)*
+- **Force Grey M4 "Cose Terribili"** (covo di Xanathar, Nihiloor): post-villa. *(Razak, Vorador.)*
+- **Zentharim M4 "Sangue del Patto"** (resa dei conti Vosk/Skeemo/Manshoon → Kolat Towers): post-villa; l'arco personale di Krauser e il filo Rennis di Scintilla. *(Krauser, Scintilla.)*
+- **Missioni Lv 4 eventualmente rimaste in sospeso** (Zent M2 "Tieni il Resto", Arp M3, FG M3, Zent M3): da chiudere **prima** della villa (finestra caccia-chiavi S13); se saltate, si recuperano nella finestra dei 10 giorni insieme alle M4.
 
 **File di riferimento:** `ai/knowledge/stato-missioni.md`, `missioni-secondarie/{fazione}/M4-*.md`, `fonti/missioni/{Fazione}_Missione4_*.txt`.
 
@@ -342,7 +342,7 @@ Se il party indaga il **padiglione delle cucine sul prato** (dove **Jandar**, il
 | Osvaldo / la soffitta | Tutto il party | Seminato | Primogenito "a scuola" = diavolo delle catene imprigionato (C24) — rivelazione S16 |
 | Il *dragonstaff of Ahghairon* / Aurinax | Tutto il party | Attivo (da S14) | Se Aurinax è alleato: carta enorme; Jarlaxle lo vuole (→ Arp M4) |
 | Seme dei Sussurratori (Vecna) | Tutto il party | Seminato | Informatore sparito, "uomo col mantello grigio e la mano bendata"; sigillo mano+occhio |
-| M4 fazione (Velo Alzato, Cose Terribili, Sangue del Patto) | Aelar / Razak-Vorador / Krauser-Scintilla | Disponibili (paralleli) | Da giocare dopo/intorno alla villa; non innescate in S15 |
+| M4 fazione (Velo Alzato, Cose Terribili, Sangue del Patto) | Aelar / Razak-Vorador / Krauser-Scintilla | Disponibili (post-villa) | Da giocare nei 10 giorni dopo Villa Cassalanter / Giorno dei Fondatori; non innescate in S15/S16 |
 | Barnibus — Urstul Floxin | Barnabus Reed | ⏸️ Aperto | Da S9/S11, ancora non rigiocato |
 | Indizio Brottor Deepdelver | Vorador | ⏸️ Seminato | Non sviluppato; seme per una futura sessione dedicata |
 
@@ -387,7 +387,7 @@ Se il party indaga il **padiglione delle cucine sul prato** (dove **Jandar**, il
 ### Missioni
 
 - **Trama principale Cap. 6 (Villa Cassalanter)** → **In corso** (Parte I: infiltrazione) → prosegue in S16 (Giorno dei Dannati)
-- **M4 fazione** → restano `Pianificate` (paralleli, da giocare dopo/intorno alla villa)
+- **M4 fazione** → restano `Pianificate` (da giocare nei 10 giorni dopo Villa Cassalanter / Giorno dei Fondatori)
 
 ---
 

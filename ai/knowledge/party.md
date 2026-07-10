@@ -4,8 +4,8 @@
 
 ## Stato generale
 
-- **Livello attuale:** 5
-- **Sistema XP:** Milestone — Lv 3 raggiunto alla chiusura del Cap. 2; **Lv 4 raggiunto alla chiusura del Cap. 3** (seguendo la trama principale); prossimo level up (Lv 5) previsto alla chiusura del Cap. 4 (apertura del Vault of Dragons)
+- **Livello attuale:** 4
+- **Sistema XP:** Milestone **solo sulla trama principale** — le missioni secondarie di fazione NON fanno scattare alcun level up. Lv 3 alla chiusura del Cap. 2; **Lv 4 attuale**; **Lv 5 subito prima di Villa Cassalanter** (chiusura dell'arco che precede la villa)
 - **Ultima sessione:** Sessione 10 (Converted Windmill esplorato, Arn Xalrondar + Seffia Naelryke sconfitti, Stone of Golorr conteso con i diavoli/Willifort Crowelle e recuperato nelle fognature dopo l'inseguimento; M2 Zentharim ancora non recapitata)
 - **Sede base:** Trollskull Manor, Trollskull Alley — **ristrutturazione completata, locanda aperta al pubblico**
 - **Bottino di party recente (S6):** 5 gemme da 100 mo (500 mo totali) sottratte dal cadavere di Dalakhar alla scena della Fireball
