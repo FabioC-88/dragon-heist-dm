@@ -11,13 +11,18 @@
 
 ## Legenda livelli / capitoli
 
-| Lv party | Cap. WDH | Evento principale |
-|---------|--------|-------------------|
-| 1 | Cap. 1 | Portale Spalancato — salvare Floon |
-| 1-2 | Cap. 2 | Trollskull Alley — taverna, vicinato, reclutamento fazioni |
-| 2-3 | Cap. 3 | Fireball — indagine sull'esplosione |
-| 3-4 | Cap. 4 | Dragon Season — caccia allo Stone of Golorr |
-| 5 | Cap. 5/6 | Villa Cassalanter — resa dei conti |
+> **Ordine di gioco della campagna:** Cap. 4 → Cap. 6 (Villa Cassalanter) → Cap. 5, 7, 8 (le tre M4) nella sequenza scelta dai PG. Level up **solo sulla trama principale**: **Lv 5 alla conclusione del Vault, subito prima di Villa Cassalanter**.
+
+| Lv party | Cap. WDH | Evento principale | Nella nostra campagna |
+|---------|--------|-------------------|-----------------------|
+| 1 | Cap. 1 | Portale Spalancato — salvare Floon | Trama principale |
+| 1-2 | Cap. 2 | Trollskull Alley — taverna, vicinato, reclutamento fazioni | Trama principale |
+| 2-3 | Cap. 3 | Fireball — indagine sull'esplosione | Trama principale |
+| **4** | Cap. 4 | Dragon Season — caccia allo Stone / Vault of Dragons | Trama principale (**Lv 5 alla fine**) |
+| 5 | Cap. 6 | Hell of a Summer — Villa Cassalanter | Climax villain (subito dopo il Cap. 4) |
+| 5 | Cap. 5 | Spring Madness — covo di Xanathar | **Force Grey M4** (post-villa) |
+| 5 | Cap. 7 | Maestro's Fall — Bregan D'aerthe | **Arpisti M4** (post-villa) |
+| 5 | Cap. 8 | Manshoon | **Zentharim M4** (post-villa) |
 
 ---
 

@@ -11,10 +11,22 @@
 - **Villain/Stagione:** Cassalanters (Estate)
 - **Livello di partenza:** 1
 - **Party:** 5 giocatori fissi + Silvia (PG ospite, presente raramente — max 6 giocatori)
-- **Stato:** In corso — Vault of Dragons (caccia alle chiavi) verso il climax Cassalanter. Party a **Lv 4**; **Lv 5 subito prima di Villa Cassalanter**. S15-16: infiltrazione + climax Cassalanter (Temple of Asmodeus, twins, Day of the Damned), a Lv 5. **Le M4 di fazione si giocano nei 10 giorni successivi a Villa Cassalanter / Giorno dei Fondatori** (finestra di salvataggio dei gemelli).
+- **Stato:** In corso — **appena conclusa la S10** (mimic nelle fogne, Stone of Golorr recuperato); si sta per giocare la **S11**. Party a **Lv 4**, dentro il **Cap. 4 (Dragon Season)**: caccia allo Stone → Vault of Dragons. Prossimi passi previsti: rivelazione della posizione del Vault (S11) → caccia alle tre chiavi (S12-13) → apertura del Vault (S14) → **Lv 5 alla conclusione del Vault, subito prima di Villa Cassalanter (Cap. 6)** → M4 di fazione (Cap. 5/7/8) nei 10 giorni successivi.
 - **Durata Media Sessioni:** 2 Ore
-- **Capitolo corrente:** Vault of Dragons → Villa Cassalanter
-- **Livello party:** 4 *(level up **solo sulla trama principale**; Lv 5 scatta subito prima di Villa Cassalanter — le missioni secondarie non danno livelli)*
+- **Capitolo corrente:** **Cap. 4 — Dragon Season** (caccia allo Stone of Golorr / Vault of Dragons)
+- **Livello party:** 4 *(level up **solo sulla trama principale**; Lv 5 alla conclusione del Vault, subito prima di Villa Cassalanter — le missioni secondarie non danno livelli)*
+
+### Mappatura capitoli avventura → campagna
+
+| Cap. WDH | Contenuto | Nella nostra campagna | Quando |
+|----------|-----------|-----------------------|--------|
+| **4** | Dragon Season / Vault of Dragons | Trama principale (attuale) | ora (S11→S14); **Lv 5 alla fine** |
+| **6** | Hell of a Summer — Villa Cassalanter | Climax dei villain (Cassalanter) | **subito dopo il Cap. 4** (S15-16), a Lv 5 |
+| **5** | Spring Madness — covo di Xanathar | **Force Grey M4 "Cose Terribili"** (Nihiloor) | dopo il Cap. 6, nei 10 giorni post-villa |
+| **7** | Maestro's Fall — Bregan D'aerthe | **Arpisti M4 "Velo Alzato"** (Jarlaxle/Eyecatcher) | dopo il Cap. 6, nei 10 giorni post-villa |
+| **8** | Manshoon | **Zentharim M4 "Sangue del Patto"** (Vosk/Manshoon → Torri Kolat) | dopo il Cap. 6, nei 10 giorni post-villa |
+
+> **Ordine di gioco:** Cap. 4 → **Cap. 6 (Villa Cassalanter)** → Cap. 5, 7, 8 (le tre M4) **nella sequenza scelta dai PG**, tutte nella finestra dei 10 giorni successivi al Giorno dei Fondatori.
 
 ---
 
