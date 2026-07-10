@@ -164,7 +164,7 @@
 
 ## FASE 3: RAMO ALTERNATIVO — Il party vuole scendere subito nel Vault
 
-**[NOTA DM — riservata]** Se il party ha le tre chiavi e decide di **ignorare le missioni** per scendere nel Vault, è una scelta pienamente legittima. Passa a **`dm-notes-sessione-14.md`** (Vault of Dragons + Aurinax). Le missioni fazione non giocate restano in sospeso: si potranno chiudere dopo il Vault o intorno a Villa Cassalanter (anche se, essendo Lv 3-4, il momento migliore è *adesso*, prima del salto a Lv 5). Ricorda al tavolo, in modo diegetico, che alcune faccende (Davil che aspetta da mesi, Vajra che ha bisogno di occhi su Meloon) non resteranno aperte per sempre — ma **non** forzare la mano: la scelta è loro.
+**[NOTA DM — riservata]** Se il party ha le tre chiavi e decide di **ignorare le missioni** per scendere nel Vault, è una scelta pienamente legittima. Passa a **`dm-notes-sessione-14.md`** (Vault of Dragons + Aurinax). Le missioni fazione M2/M3 non giocate restano in sospeso: essendo contenuto Lv 3-4, il momento migliore per chiuderle è *adesso*, nella finestra caccia-chiavi, **prima** del Vault e del salto a Lv 5 (le M4, invece, sono Cap. 5/7/8 e vanno **dopo** Villa Cassalanter). Ricorda al tavolo, in modo diegetico, che alcune faccende (Davil che aspetta da mesi, Vajra che ha bisogno di occhi su Meloon) non resteranno aperte per sempre — ma **non** forzare la mano: la scelta è loro.
 
 ---
 

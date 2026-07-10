@@ -11,7 +11,9 @@
 
 ## Legenda livelli / capitoli
 
-> **Ordine di gioco della campagna:** Cap. 4 → Cap. 6 (Villa Cassalanter) → Cap. 5, 7, 8 (le tre M4) nella sequenza scelta dai PG. Level up **solo sulla trama principale**: **Lv 5 alla conclusione del Vault, subito prima di Villa Cassalanter**.
+> **Ordine di gioco della campagna:** Cap. 4 → Cap. 6 (Villa Cassalanter) → Cap. 5, 7, 8 (le tre M4) nella sequenza scelta dai PG.
+>
+> **Livelli — solo trama principale, un livello per capitolo fino al 5:** Lv 1 iniziale · fine Cap. 1 → Lv 2 · fine Cap. 2 → Lv 3 · fine Cap. 3 → Lv 4 · fine Cap. 4 (Vault) → **Lv 5**. Da lì il party resta **Lv 5** (Cap. 6/5/7/8). Le missioni secondarie **non** danno level up. *(Attuale: Lv 4 — Cap. 3 concluso, Cap. 4 in corso.)*
 
 | Lv party | Cap. WDH | Evento principale | Nella nostra campagna |
 |---------|--------|-------------------|-----------------------|

@@ -14,7 +14,7 @@
 - **Stato:** In corso — **appena conclusa la S10** (mimic nelle fogne, Stone of Golorr recuperato); si sta per giocare la **S11**. Party a **Lv 4**, dentro il **Cap. 4 (Dragon Season)**: caccia allo Stone → Vault of Dragons. Prossimi passi previsti: rivelazione della posizione del Vault (S11) → caccia alle tre chiavi (S12-13) → apertura del Vault (S14) → **Lv 5 alla conclusione del Vault, subito prima di Villa Cassalanter (Cap. 6)** → M4 di fazione (Cap. 5/7/8) nei 10 giorni successivi.
 - **Durata Media Sessioni:** 2 Ore
 - **Capitolo corrente:** **Cap. 4 — Dragon Season** (caccia allo Stone of Golorr / Vault of Dragons)
-- **Livello party:** 4 *(level up **solo sulla trama principale**; Lv 5 alla conclusione del Vault, subito prima di Villa Cassalanter — le missioni secondarie non danno livelli)*
+- **Livello party:** 4 *(**un livello per capitolo, solo trama principale:** Cap.1→Lv2, Cap.2→Lv3, Cap.3→Lv4, Cap.4/Vault→Lv5; poi resta Lv 5 per Cap. 6/5/7/8. Le missioni secondarie non danno livelli)*
 
 ### Mappatura capitoli avventura → campagna
 

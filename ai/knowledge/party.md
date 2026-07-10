@@ -4,8 +4,8 @@
 
 ## Stato generale
 
-- **Livello attuale:** 4
-- **Sistema XP:** Milestone **solo sulla trama principale** — le missioni secondarie di fazione NON fanno scattare alcun level up. Lv 3 alla chiusura del Cap. 2; **Lv 4 attuale**; **Lv 5 subito prima di Villa Cassalanter** (chiusura dell'arco che precede la villa)
+- **Livello attuale:** 4 *(Cap. 3 concluso; Cap. 4 in corso)*
+- **Sistema XP:** Milestone **solo sulla trama principale** — le missioni secondarie di fazione NON fanno scattare alcun level up. **Un livello per capitolo, fino al Lv 5:** Lv 1 iniziale · fine Cap. 1 → **Lv 2** · fine Cap. 2 → **Lv 3** · fine Cap. 3 → **Lv 4** · fine Cap. 4 (Vault of Dragons) → **Lv 5**. Da lì il party resta **Lv 5** per Villa Cassalanter (Cap. 6) e per le M4 (Cap. 5/7/8)
 - **Ultima sessione:** Sessione 10 (Converted Windmill esplorato, Arn Xalrondar + Seffia Naelryke sconfitti, Stone of Golorr conteso con i diavoli/Willifort Crowelle e recuperato nelle fognature dopo l'inseguimento; M2 Zentharim ancora non recapitata)
 - **Sede base:** Trollskull Manor, Trollskull Alley — **ristrutturazione completata, locanda aperta al pubblico**
 - **Bottino di party recente (S6):** 5 gemme da 100 mo (500 mo totali) sottratte dal cadavere di Dalakhar alla scena della Fireball

@@ -1,7 +1,7 @@
 # DM Notes — Sessione 11 (In-Game)
 
 > **Fonte primaria:** Dragon Heist — Encounter 8 "Courthouse" (Summer) · Encounter 7 "Old Tower" (Summer) · `missioni-secondarie/zentharim/M2-TieniIlResto.md`
-> **Contesto:** Party Lv 3 · Cap. 4 · Il party esce dalle fognature del Dock Ward con lo Stone of Golorr in mano (portatore: Aelar). Krauser è Oathbreaker. Istrid Horn è al manor come "cameriera". M2 Zentharim non ancora recapitata (rinviata da S9 e S10). Willifort Crowelle (doppelganger, agente Cassalanter) è fuggito nella folla con la sua scorta — ancora a piede libero.
+> **Contesto:** Party **Lv 4** · Cap. 4 · Il party esce dalle fognature del Dock Ward con lo Stone of Golorr in mano (portatore: Aelar). *(Schema livelli: un livello per capitolo — Lv 4 = fine Cap. 3; il prossimo, Lv 5, alla conclusione del Cap. 4/Vault.)* Krauser è Oathbreaker. Istrid Horn è al manor come "cameriera". M2 Zentharim non ancora recapitata (rinviata da S9 e S10). Willifort Crowelle (doppelganger, agente Cassalanter) è fuggito nella folla con la sua scorta — ancora a piede libero.
 > **Obiettivo sessione:** Giocare l'arresto e il processo al Tribunale del Dock Ward (Encounter 8 "Courthouse"), inclusa la sottotrama del Falso Capitano — Willifort tenta di riprendersi la pietra travestito da Hyustus Staget. Rivelare, tramite l'attunement allo Stone of Golorr, la posizione del Vault of Dragons (una vecchia torre nel Sea Ward). Surplus: Encounter 7 "Old Tower" (incontro con Esvele Rosznar) + fili aperti da S9/S10 (Barnibus, Vincent Trench) + M2 Zentharim "Tieni il Resto".
 > **Durata stimata:** ~3h. Arresto + processo riempiono la prima metà ed è materiale obbligatorio (il party viene arrestato comunque, non è opzionale). La rivelazione del Vault chiude il nucleo della sessione. Surplus denso: Old Tower, fili S9/S10, M2 Zentharim — prep abbondante, gestisci in base al tempo rimasto.
 
@@ -222,7 +222,7 @@ All'interno, Esvele è in riunione con tre rappresentanti di gilda (corporazioni
 | Barnibus — Urstul Floxin | Barnabus Reed | Aperto | ⏸️ Da S9, riproposto FASE 3 |
 | Vincent Trench — Emmek Frewn | Aelar | Aperto | ⏸️ Da S9, riproposto FASE 3 |
 | Istrid Horn al manor | Scintilla, Krauser | Attivo | Rimane in copertura come "cameriera" |
-| **Livello party** | Tutto il party | **Lv 3 → Lv 4** | Il livello sale **solo sulla trama principale**, mai sulle M2/M3 di fazione. Lv 4 al beat di trama principale (recupero Stone + rivelazione del Vault). Prossimo: **Lv 5 subito prima di Villa Cassalanter** |
+| **Livello party** | Tutto il party | **Lv 4** | Un livello per capitolo, **solo trama principale** (mai le M2/M3). Il party è già Lv 4 (fine Cap. 3). Prossimo: **Lv 5 alla conclusione del Cap. 4 / Vault**, subito prima di Villa Cassalanter |
 
 ---
 
