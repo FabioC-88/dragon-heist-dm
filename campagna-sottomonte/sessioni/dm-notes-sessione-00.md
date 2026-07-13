@@ -188,17 +188,20 @@
 
 ## 🔮 GANCI PER LA SESSIONE 1 (Livello 1 — Dungeon Level)
 
-**[NOTA DM — riservata]** Non dettagliare qui: è materiale della prossima prep. Promemoria di ciò che attende:
-- Il **Dungeon Level (Liv. 1)** è progettato per Lv 5 — perfetto per il party. Primi abitanti: Xanathar Guild in avanscoperta, goblin di Yek, Rizzeryl e i wererat legati agli Zhentarim (aggancio Fizzra/Vorador che porta verso Skullport).
-- I fili che si accendono per primi puntano tutti verso il **Livello 3 (Skullport)**: la meta a medio termine dei ganci di Vorador e Fizzra.
-- Prevedi una possibile **prima apparizione di Halaster** (casuale) per innescare il filo di Razak fin da subito.
+**[NOTA DM — riservata]** Il capitolo del Livello 1 è ora pronto: `campagna-sottomonte/capitoli/livello-01-dungeon-level.md` (+ read-aloud in `campagna-sottomonte/read-aloud/livello-01-dungeon-level.md`). Sintesi:
+- Il **Dungeon Level (Liv. 1)** è progettato per Lv 5 — perfetto per il party. Primi abitanti: gli **Undertakers** (banditi umani travestiti da vampiri, capi Uktarl e Harria con un golem di carne) e avamposti della **Gilda di Xanathar** (bugbear con intellect devourer impiantati, goblin).
+- **Nessun gancio principale si risolve qui** — è la soglia. Ma tre segnali indipendenti puntano già verso il **Livello 3 (Skullport)**: il pattern intellect devourer sui bugbear (eco di Nihiloor, seme per Vorador), la spia wererat Sylvia Featherstone (che mente su Skullport), e la mappa a 23 livelli nella Map Room (area 37) col pulsante "Skullport" al terzo livello.
+- **Prima apparizione di Halaster** già presente: il messaggio in elfico nella stanza d'arrivo, gli occhi scrutatori fluttuanti (aree 16/29), e — se il party trova la maschera di bronzo (area 21) — un demipiano con un simulacro di Halaster in persona (area 27) che risponde a tre domande. Filo-spina per Razak.
 
 ---
 
 ## 🔗 RIFERIMENTI INCROCIATI
 
+- `campagna-sottomonte/capitoli/livello-01-dungeon-level.md` — il capitolo del Livello 1 (pronto per il tavolo).
+- `campagna-sottomonte/read-aloud/livello-01-dungeon-level.md` — read-aloud brevi per le aree non-snodo del Livello 1.
 - `campagna-sottomonte/transizione-mad-mage.md` — i 5 semi, il motore condiviso, la mappatura completa ai livelli.
-- `campagna-sottomonte/contesto-sottomonte.md` — contesto della nuova campagna, PNG-ponte, disposizione di Trollskull Manor.
+- `campagna-sottomonte/contesto-sottomonte.md` — contesto della nuova campagna, PNG-ponte, disposizione di Trollskull Manor, Livello dungeon corrente.
+- `campagna-sottomonte/stato-missioni-sottomonte.md` — quest-pool con lo stato aggiornato di ogni gancio/quest.
 - `campagna/sessioni/dm-notes-sessione-16.md` — dove nasce il debito con Asmodeo (gancio Friedrich/party).
 - `campagna/sessioni/dm-notes-sessione-17.md` — dove sono seminati i ganci di Vorador (Brottor), Razak (Hlam), Aelar (nodo planare), Fizzra (Rennis).
 - `ai/knowledge/party.md` — da aggiornare (gancio personale di ciascun PG) quando i semi vengono giocati.

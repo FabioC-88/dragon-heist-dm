@@ -12,6 +12,7 @@
 - **Avventura:** Waterdeep: Dungeon of the Mad Mage (Sottomonte / Undermountain)
 - **Campagna precedente:** Waterdeep: Dragon Heist (conclusa — vedi `ai/knowledge/`)
 - **Villain di sfondo:** Halaster Blackcloak, il Mago Folle
+- **Livello dungeon corrente:** 1 — Dungeon Level *(appena iniziato: capitolo preparato, non ancora giocato)*
 - **Livello di partenza:** 5 (il party arriva a Lv 5 dalla chiusura dell'arco Cassalanter)
 - **Party:** gli stessi 5 PG fissi + Barnabus (ospite, Silvia — presente raramente)
 - **Ingresso:** il pozzo del **Portale Spalancato** (Castle Ward) — casa del party dalla S1 di DH
