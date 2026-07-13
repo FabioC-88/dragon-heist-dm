@@ -26,16 +26,32 @@ La coerenza narrativa dipende interamente da quanto questi file riflettono fedel
 
 ---
 
+## Risoluzione campagna attiva (PRIMA di tutto)
+
+Leggi `ai/knowledge/campagne.md`, determina la **campagna attiva** e prendi: `modello_prep`,
+`recaps_path`, `sessioni_path`, `capitoli_path`, `stato_missioni_path`, `fazioni_path`, `contesto_path`.
+Usa questi al posto dei path cablati sotto. I **file condivisi** (`party.md`, `png-incontrati.md`,
+`rapporti.md`) sono uguali per tutte le campagne.
+
+**Ramo `capitoli-dungeon` (es. Sottomonte):** l'unità giocata è un **livello di dungeon**, non una
+sessione. Il recap è **story-focused** (quali ganci sono avanzati, PNG chiave), non stanza-per-stanza.
+`fazioni_path = n/d` → **salta lo Step 6**; lo Step 4 aggiorna il **quest-pool** in `{stato_missioni_path}`
+(ganci personali + quest DotMM) e lo stato del file capitolo/livello; aggiorna "Livello dungeon corrente"
+in `{contesto_path}`.
+
+---
+
 ## File da Leggere
 
 ```
-ai/knowledge/recaps/recap-sessione-N.md     ← Fonte primaria (realtà giocata)
-campagna/sessioni/dm-notes-sessione-N.md         ← Fonte secondaria (note DM finalizzate)
-ai/knowledge/party.md                                ← Da aggiornare
-ai/knowledge/png-incontrati.md                       ← Da aggiornare
-ai/knowledge/fazioni.md                              ← Da aggiornare (se necessario)
-ai/knowledge/stato-missioni.md                  ← Da aggiornare
-ai/knowledge/rapporti.md                             ← Da aggiornare
+{recaps_path}recap-<unità>-N.md              ← Fonte primaria (realtà giocata; sessione N o livello N)
+{sessioni_path|capitoli_path}<unità>-N.md    ← Fonte secondaria (note DM finalizzate)
+ai/knowledge/party.md                        ← [condiviso] Da aggiornare
+ai/knowledge/png-incontrati.md               ← [condiviso] Da aggiornare
+{stato_missioni_path}                        ← Da aggiornare (missioni fazione OPPURE quest-pool)
+ai/knowledge/rapporti.md                     ← [condiviso] Da aggiornare
+{fazioni_path}                               ← Da aggiornare se valorizzato (n/d → salta)
+{contesto_path}                              ← Progressione (Capitolo/Livello dungeon corrente)
 ```
 
 ---
@@ -93,9 +109,11 @@ Per ogni PNG menzionato nella sezione "PNG Incontrati / Atteggiamenti Finali" de
 
 ---
 
-### Step 4 — Aggiorna `ai/knowledge/stato-missioni.md`
+### Step 4 — Aggiorna `{stato_missioni_path}`
 
-Per ogni missione menzionata nella sezione "Missioni" del recap:
+*(Modalità fazioni: missioni M1-M4. Modalità quest-pool/Sottomonte: i 5 ganci personali + le quest DotMM, con la loro colonna livello.)*
+
+Per ogni missione/quest menzionata nella sezione "Missioni/Quest" del recap:
 
 | Stato recap | Azione |
 |-------------|--------|
@@ -124,9 +142,11 @@ Se il recap o il dm-notes menziona variazioni esplicite nei rapporti tra party e
 
 ---
 
-### Step 6 — Aggiorna `ai/knowledge/fazioni.md` (solo se necessario)
+### Step 6 — Aggiorna `{fazioni_path}` (solo se necessario) — SALTA se `fazioni_path = n/d`
 
-Modifica `fazioni.md` SOLO se il recap riporta cambiamenti strutturali espliciti alla fazione:
+*(Sottomonte non ha fazioni M1-M4: `fazioni_path = n/d` → salta interamente questo step.)*
+
+Modifica il file fazioni SOLO se il recap riporta cambiamenti strutturali espliciti alla fazione:
 - Cambio di referente/contatto per il party
 - Nuova informazione su struttura/obiettivi emersa in sessione
 - Cambio di standing formale

@@ -32,7 +32,17 @@ Non ti limiti a segnalare: **aggiorni il compendio e compili il pack**.
 
 ---
 
-## Istruzioni Operative
+## Risoluzione campagna attiva (PRIMA di tutto)
+
+Leggi `ai/knowledge/campagne.md`, determina la **campagna attiva** e prendi: `modello_prep`,
+`sessioni_path`, `capitoli_path`, `luoghi_path`, `pack_luoghi`. Usa `{luoghi_path}` al posto del path
+cablato `{luoghi_path}` qui sotto, e leggi l'unità finalizzata da `{sessioni_path}` (sessioni-lineari)
+o `{capitoli_path}` (capitoli-dungeon).
+
+> **Ramo `capitoli-dungeon` (Sottomonte):** registra **solo i luoghi rilevanti per la storia** (una
+> camera-snodo, Skullport, Dweomercore, ecc.) — **non** ogni stanza keyed del livello. Se `pack_luoghi = n/d`,
+> genera comunque i file markdown in `{luoghi_path}` ma **salta** il build/commit del pack finché il pack
+> non è registrato in `build-foundry.mjs`/`module.json`.
 
 **⚠️ TIMING CRITICO**: Questo agente si invoca **DOPO** che la sessione è stata completata e il Reviewer (Agente 6) ha finalizzato il dm-notes-sessione-NN.md. 
 
@@ -51,11 +61,11 @@ Non ti limiti a segnalare: **aggiorni il compendio e compili il pack**.
 Apri e leggi:
 
 ```
-campagna/luoghi-visitati/*.md          ← File markdown separati (uno per luogo)
-dm-notes-sessione-NN.md                ← Sessione appena finalizzata
+{luoghi_path}*.md                                 ← File markdown separati (uno per luogo)
+{sessioni_path|capitoli_path}<unità>-NN.md        ← Unità appena finalizzata (sessione o capitolo-livello)
 ```
 
-**Struttura**: Ogni luogo è un file markdown separato in `campagna/luoghi-visitati/`, es:
+**Struttura**: Ogni luogo è un file markdown separato in `{luoghi_path}`, es:
 - `01-portale-spalancato.md`
 - `02-scena-crimine.md`
 - ecc.
@@ -80,19 +90,19 @@ Per ogni luogo, registra:
 
 ### Step 3 — Verifica esistenza del file
 
-Per ogni luogo estratto, verifica se esiste un file corrispondente in `campagna/luoghi-visitati/`:
+Per ogni luogo estratto, verifica se esiste un file corrispondente in `{luoghi_path}`:
 
 **Naming convention**: `NN-nome-luogo-slug.md`
 - Esempio: `01-portale-spalancato.md`, `02-scena-crimine.md`, `09-trollskull-alley.md`
 
-Dove `NN` è il numero sequenziale (001, 002, ... 019 per max 19 luoghi).
+Dove `NN` è il numero sequenziale progressivo (01, 02, 03, …), senza limite fisso.
 
 - **Se NUOVO**: Procedi a Step 4A (Crea nuovo file luogo)
 - **Se ESISTENTE**: Procedi a Step 4B (Aggiorna evento nel file)
 
 ### Step 4A — Crea nuovo file luogo
 
-Se il luogo è nuovo, crea un nuovo file markdown in `campagna/luoghi-visitati/`:
+Se il luogo è nuovo, crea un nuovo file markdown in `{luoghi_path}`:
 
 **Template**:
 ```markdown
@@ -138,13 +148,13 @@ Note storiche, referenze, o contesto.
 Luogo cardine della campagna. *Fonte: Dragon Heist Cap. 1*.
 ```
 
-**Salva come**: `campagna/luoghi-visitati/NN-nome-slug.md` (sostituisci NN con il numero sequenziale)
+**Salva come**: `{luoghi_path}NN-nome-slug.md` (sostituisci NN con il numero sequenziale)
 
 ### Step 4B — Aggiorna evento luogo esistente
 
 Se il luogo esiste già, aggiungi la nuova riga dell'evento nella sezione **Eventi Importanti**:
 
-1. Apri `campagna/luoghi-visitati/NN-nome-slug.md`
+1. Apri `{luoghi_path}NN-nome-slug.md`
 2. Vai a `## Eventi Importanti`
 3. Aggiungi una nuova linea:
    ```markdown
@@ -185,7 +195,7 @@ L'output dovrebbe contenere:
 ✓ 9bd14f4f1a5f9a82  "Luoghi Visitati"  (NN pagine)
 ```
 
-Dove `NN` è il numero totale di file .md in `campagna/luoghi-visitati/`.
+Dove `NN` è il numero totale di file .md in `{luoghi_path}`.
 
 ### Step 7 — Verifica JSON compilato
 
@@ -201,12 +211,12 @@ Get-Content src/luoghi-visitati/9bd14f4f1a5f9a82.json | Select-String '"name"' |
 Il compendio è aggiornato e compilato. I file sono pronti per il commit:
 
 ```bash
-git add campagna/luoghi-visitati/ packs/luoghi-visitati/
+git add {luoghi_path} packs/{pack_luoghi}/   # salta packs/ se pack_luoghi = n/d
 git commit -m "Sessione NN: Aggiornamento compendio Luoghi Visitati
 
 - Aggiunto/Aggiornato: [lista brevissima dei luoghi modificati]
 - Pack campagna recompilato
-- Struttura: NN file markdown in campagna/luoghi-visitati/"
+- Struttura: NN file markdown in {luoghi_path}"
 ```
 
 ---

@@ -32,6 +32,27 @@ Lavora con precisione: non inventare informazioni che non sono nelle fonti. Quan
 
 ---
 
+## ⚠️ Modello multi-campagna — NON distruttivo
+
+Questo repo ospita **più campagne in parallelo** (vedi `ai/knowledge/campagne.md`). Avviare una nuova
+campagna **non** cancella né sovrascrive le altre. Perciò:
+
+1. **Registra la nuova campagna** nel registro `ai/knowledge/campagne.md`: aggiungi una scheda con
+   tutti i campi (`titolo`, `stato`, `modello_prep`, `libro_fonte`, `sessioni_path`/`capitoli_path`,
+   `luoghi_path`, `personaggi_path`, `contesto_path`, `stato_missioni_path`, `fazioni_path`,
+   `progressione`, pack). Scegli uno **slug** breve (es. `sottomonte`).
+2. **Crea una cartella dedicata** `campagna-<slug>/` con le sottocartelle previste dal `modello_prep`
+   scelto (`sessioni-lineari` → `sessioni/`; `capitoli-dungeon` → `sessioni/` per il ponte, `capitoli/`,
+   `read-aloud/`).
+3. **I file di conoscenza** vanno **nella cartella della campagna** (`contesto`, `stato-missioni`), **non**
+   in `ai/knowledge/` (che ospita i file DH-storici + quelli **condivisi** `party.md`/`png-incontrati.md`/
+   `rapporti.md`). I file condivisi **si riusano** se il party continua da una campagna precedente:
+   in tal caso **non** rigenerarli, ereditali.
+4. **Scegli il `modello_prep`** con il DM (vedi Step 2): determina se la prep è sessione-lineare
+   (~2h30m, chunk) o capitolo-per-livello (megadungeon non lineare).
+
+---
+
 ## Istruzioni Operative
 
 ### Step 1 — Analisi dei materiali disponibili
@@ -53,19 +74,29 @@ Se una cartella è vuota o mancante, segnalalo e chiedi al DM cosa fornire prima
 
 Fai queste domande al DM. Puoi farle tutte insieme in un unico messaggio:
 
-1. **Titolo campagna:** come si chiama la campagna?
-2. **Villain/antagonista principale:** chi è, qual è il suo obiettivo, cosa non sa il party?
-3. **Party:** quanti giocatori fissi? Ci sono ospiti occasionali? Per ogni giocatore: nome giocatore, nome PG, razza/classe, fazione di appartenenza.
-4. **Fazioni:** quali fazioni secondarie sono presenti? Per ogni fazione: nome, referente PNG, stile operativo, quante missioni secondarie ha.
-5. **Durata media sessioni:** quanto durano le sessioni di solito?
-6. **Livello di partenza:** da che livello parte il party?
-7. **Fonte principale:** qual è il file principale in `fonti/campagna/` da cui estrarre il materiale sessione per sessione?
+1. **Titolo campagna + slug:** come si chiama e con quale slug breve la registriamo (es. `sottomonte`)?
+2. **Modello di prep:** `sessioni-lineari` (trama guidata, chunk ~2h30m, progressione a capitoli) o
+   `capitoli-dungeon` (megadungeon non lineare, un file per livello, progressione a livelli)?
+3. **Party:** è lo **stesso party** di una campagna precedente (→ eredita i file condivisi
+   `party.md`/`png-incontrati.md`/`rapporti.md`) o nuovo? Per ogni giocatore: nome giocatore, PG,
+   razza/classe, fazione.
+4. **Villain/antagonista principale:** chi è, obiettivo, cosa non sa il party?
+5. **Fazioni:** presenti sì/no. Se sì: nome, referente PNG, stile, numero missioni (solo
+   `sessioni-lineari`). Se no (tipico dei megadungeon): `fazioni_path = n/d`, le quest vanno nel
+   quest-pool di `stato-missioni`.
+6. **Durata media sessioni** *(solo `sessioni-lineari`)* e **livello di partenza**.
+7. **Fonte principale:** qual è il file `libro_fonte` in `fonti/campagna/`?
 
 ---
 
-### Step 3 — Genera ai/knowledge/contesto.md
+### Step 3 — Genera il file contesto (`{contesto_path}` della nuova campagna)
 
-Sulla base della risposta del DM e del libro in `fonti/campagna/`, genera `ai/knowledge/contesto.md` con:
+> Il contesto va nel path della campagna registrato al passo 3 del blocco multi-campagna
+> (es. `campagna-<slug>/contesto-<slug>.md`), **non** in `ai/knowledge/contesto.md` (che è di Dragon Heist).
+> Il campo di progressione dipende dal `modello_prep`: `Capitolo corrente: 0` (sessioni-lineari)
+> **oppure** `Livello dungeon corrente: —` (capitoli-dungeon).
+
+Sulla base della risposta del DM e del `libro_fonte`, genera il file contesto con:
 
 ```markdown
 # Contesto Campagna — [Titolo]

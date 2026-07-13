@@ -14,6 +14,11 @@ description: >
 Sei l'agente di setup per una nuova campagna D&D 5e. Il tuo compito è leggere i materiali grezzi
 e generare tutti i file strutturati che gli altri agenti useranno durante tutta la campagna.
 
+> **⚠️ NON distruttivo:** il repo ospita **più campagne in parallelo** (registro `ai/knowledge/campagne.md`).
+> Questo setup **aggiunge** una campagna, non sostituisce le altre. Crea una cartella dedicata
+> `campagna-<slug>/`, **registra** la campagna nel registro, e — se il party continua da una campagna
+> precedente — **eredita** i file condivisi (`party.md`, `png-incontrati.md`, `rapporti.md`) senza rigenerarli.
+
 **Regola fondamentale:** non inventare informazioni non presenti nelle fonti. Usa `[TODO: da compilare]`
 per i gap e vai avanti — è meglio un file incompleto onesto che uno inventato.
 
@@ -38,52 +43,51 @@ Se una cartella essenziale è vuota o mancante, segnalalo prima di procedere.
 
 Fai **tutte queste domande in un unico messaggio**, poi aspetta le risposte prima di generare i file:
 
-1. **Titolo campagna:** come si chiama?
-2. **Villain/antagonista principale:** chi è, qual è il suo obiettivo, cosa non sa il party?
-3. **Party:** quanti giocatori fissi? Ospiti occasionali? Per ogni giocatore: nome giocatore, nome PG, razza/classe, fazione di appartenenza.
-4. **Fazioni:** quali fazioni secondarie sono presenti? Per ognuna: nome, referente PNG, stile operativo, quante missioni ha.
-5. **Durata media sessioni:** quanto durano di solito?
-6. **Livello di partenza:** da che livello parte il party?
-7. **Fonte principale:** qual è il file principale in `fonti/campagna/`?
+1. **Titolo campagna + slug:** come si chiama e con quale slug breve (es. `sottomonte`)?
+2. **Modello di prep:** `sessioni-lineari` (trama guidata, chunk ~2h30m, progressione a capitoli) o
+   `capitoli-dungeon` (megadungeon non lineare, un file per livello, progressione a livelli)?
+3. **Party:** è lo **stesso party** di una campagna precedente (→ eredita i file condivisi) o nuovo?
+   Per ogni giocatore: nome giocatore, PG, razza/classe, fazione.
+4. **Villain/antagonista principale:** chi è, obiettivo, cosa non sa il party?
+5. **Fazioni:** presenti sì/no. Se sì: nome, referente PNG, stile, numero missioni. Se no (megadungeon):
+   `fazioni_path = n/d`, le quest vanno nel quest-pool di `stato-missioni`.
+6. **Durata media sessioni** *(solo `sessioni-lineari`)* e **livello di partenza**.
+7. **Fonte principale (`libro_fonte`):** qual è il file in `fonti/campagna/`?
 
 ---
 
-## Step 3 — Genera i file strutturati
+## Step 3 — Registra e genera i file (non distruttivo)
 
-Dopo le risposte del DM, esegui le istruzioni complete di `ai/agents/00-campaign-setup.agent.md`
-per generare nell'ordine:
+Dopo le risposte del DM, esegui le istruzioni complete di `ai/agents/00-campaign-setup.agent.md`:
 
-1. `ai/knowledge/contesto.md` (villain, party, fazioni, PNG chiave, tabella missioni per livello)
-2. `ai/knowledge/party.md` (stato PG: livello, XP, HP, gancio attivo)
-3. `ai/knowledge/fazioni.md` ← **includi sempre `folder_path` e `fonti_path` per ogni fazione**
-4. `ai/knowledge/stato-missioni.md` (tabella stato missioni)
-5. `ai/knowledge/png-incontrati.md` (template vuoto con header)
-6. `ai/knowledge/rapporti.md` (file vuoto con header)
-7. `missioni/{fazione}/M#-NomeMissione.md` per ogni missione in `fonti/missioni/`
-8. `personaggi/NomePG.md` per ogni PG in `fonti/personaggi/`
-
-Per `ai/knowledge/fazioni.md`, il `folder_path` usa il nome fazione in minuscolo senza spazi
-(es. "Force Grey" → `forcegrey`, "Arpisti" → `arpisti`).
+1. **Registra la campagna** nel registro `ai/knowledge/campagne.md` (scheda con tutti i campi + slug).
+2. **Crea la cartella** `campagna-<slug>/` con le sottocartelle del `modello_prep` scelto.
+3. Genera nella cartella della campagna: il **contesto** (`contesto-<slug>.md`, con il campo di
+   progressione adatto: Capitolo corrente **o** Livello dungeon corrente) e lo **stato-missioni/quest**.
+4. Se `modello_prep = sessioni-lineari` e ci sono fazioni: genera `fazioni.md` (con `folder_path`/`fonti_path`)
+   e i file `missioni-secondarie/{fazione}/M#-*.md`. Se megadungeon: popola il **quest-pool** in stato-missioni.
+5. **File condivisi** (`party.md`, `png-incontrati.md`, `rapporti.md`): **eredita** se il party continua;
+   genera da zero solo se è un party nuovo.
+6. Genera/aggiorna `{personaggi_path}NomePG.md` per ogni PG (condiviso se stesso party).
+7. (Se va su Foundry) registra i pack in `build-foundry.mjs` + `module.json`.
 
 ---
 
 ## Riepilogo finale
 
-Stampa al termine:
+Stampa al termine (adattando i path allo slug scelto):
 
 ```
-✅ File generati:
-- ai/knowledge/contesto.md
-- ai/knowledge/party.md
-- ai/knowledge/fazioni.md      (con folder_path e fonti_path per N fazioni)
-- ai/knowledge/stato-missioni.md
-- ai/knowledge/png-incontrati.md
-- ai/knowledge/rapporti.md
-- missioni/{fazione}/M#-*.md   (N file totali)
-- personaggi/NomePG.md         (N file totali)
+✅ Campagna <slug> registrata in ai/knowledge/campagne.md e file generati:
+- campagna-<slug>/contesto-<slug>.md
+- campagna-<slug>/stato-missioni-<slug>.md  (quest-pool o missioni fazione)
+- [campagna-<slug>/... sottocartelle del modello_prep]
+- [fazioni.md + missioni-secondarie/ se sessioni-lineari con fazioni]
+- File condivisi: ereditati / creati (party.md, png-incontrati.md, rapporti.md)
+- {personaggi_path}NomePG.md (N file)
 
 ⚠️ TODO da completare manualmente:
 [lista campi [TODO] aperti]
 
-Prossimo passo: /prep-sessione per preparare la prima sessione.
+Prossimo passo: /prep-sessione <slug> per preparare la prima unità.
 ```

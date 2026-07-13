@@ -86,11 +86,13 @@ Restituisci sempre il testo nel **formato Markdown originale**: mantieni tabelle
 
 ## File di Riferimento
 
+> Risolvi `{libro_fonte}` da `ai/knowledge/campagne.md` (campagna attiva). I file party/png sono condivisi.
+
 ```
-AGENTS.md                        ← Voci PNG, tono campagna, fazioni
-ai/knowledge/party.md                ← Composizione party, livello attuale
-ai/knowledge/png-incontrati.md       ← Atteggiamenti PNG verso ogni PG
-Fonti-Originali/Dragon Heist.md  ← Testi originali per verifica fedeltà boxed text
+ai/agents/AGENTS.md              ← Voci PNG, tono campagna, fazioni
+ai/knowledge/party.md            ← [condiviso] Composizione party, livello attuale
+ai/knowledge/png-incontrati.md   ← [condiviso] Atteggiamenti PNG verso ogni PG
+{libro_fonte}                    ← Testi originali per verifica fedeltà boxed text (campagna attiva)
 ```
 
 ---

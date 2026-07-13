@@ -25,13 +25,18 @@ Sei un archivista di campagna D&D 5e. Il tuo compito è **mantenere le sezioni P
 
 Non modificare nulla al di fuori della sezione "PNG Conosciuti e Incontrati" di ogni file PG.
 
+> **Nota multi-campagna:** sia `png-incontrati.md` sia la cartella personaggi (`{personaggi_path}`) sono
+> **condivisi** tra le campagne (stesso party). Questo agente quindi funziona identico per Dragon Heist
+> e Sottomonte. Il **trigger condizionale** (cambio capitolo / cambio livello di dungeon) è gestito
+> dalla skill orchestratrice in base al campo `progressione` della campagna attiva, non qui.
+
 ---
 
 ## File da Leggere
 
 ```
-ai/knowledge/png-incontrati.md   ← Fonte di verità: tutte le relazioni aggiornate per PG
-campagna/personaggi/*.md         ← File destinazione: uno per ogni PG (fonte del pack Foundry pg-background)
+ai/knowledge/png-incontrati.md   ← [condiviso] Fonte di verità: relazioni aggiornate per PG
+{personaggi_path}*.md            ← [condiviso] File destinazione: uno per ogni PG (fonte pack pg-background)
 ```
 
 ---
