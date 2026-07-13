@@ -24,19 +24,31 @@ Non ti limiti a segnalare problemi: **li risolvi**.
 
 ---
 
+## Risoluzione campagna attiva (PRIMA di tutto)
+
+Leggi `ai/knowledge/campagne.md`, determina la **campagna attiva** e prendi: `modello_prep`,
+`sessioni_path`, `capitoli_path`, `libro_fonte`, `fazioni_path`. Usa questi al posto dei path cablati.
+
+- **`sessioni-lineari`** (Dragon Heist): rivedi un `dm-notes-sessione-NN.md` con la struttura a fasi
+  (~2h30m), template di riferimento `{sessioni_path}dm-notes-sessione-01.md`.
+- **`capitoli-dungeon`** (Sottomonte): rivedi un **file capitolo-livello** `{capitoli_path}livello-NN-<slug>.md`.
+  **Non** applicare la struttura a fasi/2h30m: verifica invece che il capitolo copra la **rilevanza per
+  la campagna** del livello (PNG chiave, snodi, ganci/quest che atterrano lì) senza walkthrough
+  stanza-per-stanza, e che sia coerente coi read-aloud (`{read_aloud_path}`) e col `{contesto_path}`.
+
 ## Istruzioni Operative
 
 ### Step 1 — Leggi i file di riferimento
 
-Apri e leggi:
+Apri e leggi (path risolti dal registro):
 
 ```
-campagna/sessioni/dm-notes-sessione-XX.md    ← Ultima sessione giocata (per coerenza narrativa)
-campagna/sessioni/dm-notes-sessione-01.md    ← Template strutturale di riferimento
-ai/knowledge/party.md                            ← Livello, XP, stato PG
-ai/knowledge/png-incontrati.md                   ← Atteggiamenti PNG aggiornati
-ai/knowledge/fazioni.md                          ← Stato fazioni
-fonti/campagna/                              ← Per verifica fedeltà testi boxed (fonte principale)
+{sessioni_path|capitoli_path}<ultima unità>.md   ← Unità precedente (per coerenza narrativa)
+{sessioni_path}dm-notes-sessione-01.md           ← [solo sessioni-lineari] Template strutturale
+ai/knowledge/party.md                            ← [condiviso] Livello, stato PG
+ai/knowledge/png-incontrati.md                   ← [condiviso] Atteggiamenti PNG aggiornati
+{fazioni_path}                                   ← Stato fazioni (n/d → salta)
+{libro_fonte}                                    ← Per verifica fedeltà testi boxed (fonte principale)
 ```
 
 ### Step 2 — Checklist di Revisione
@@ -49,7 +61,7 @@ Esegui ogni controllo nell'ordine indicato. Per ogni problema trovato, **applica
 
 Il file deve avere esattamente questa struttura:
 
-- [ ] Header con: fonte primaria, sezione Dragon Heist.md, livello party, XP accumulati, obiettivo sessione, durata stimata
+- [ ] Header con: fonte primaria (sezione/livello di `{libro_fonte}`), livello party, obiettivo, durata stimata *(la durata non si applica al ramo capitoli-dungeon)*
 - [ ] Sezione `🎬 SETUP INIZIALE` con apertura in-character
 - [ ] Fasi numerate con durata stimata (totale: ~2h30m)
 - [ ] Ogni fase con: titolo, descrizione, meccaniche (CD, tiri), stat block per encounter
@@ -78,7 +90,7 @@ Confronta con dm-notes-sessione-XX.md (ultima sessione):
 
 Per ogni blockquote `>` che corrisponde a un testo read-aloud originale:
 
-1. Individua il testo originale corrispondente nella fonte principale in `fonti/campagna/`.
+1. Individua il testo originale corrispondente nella fonte principale `{libro_fonte}`.
 2. Verifica che **tutte le informazioni chiave** siano presenti nella versione italiana:
    - Descrizioni di creature (aspetto, comportamento)
    - Simboli, oggetti, caratteristiche dell'ambiente
@@ -104,7 +116,7 @@ Per ogni PNG presente nella sessione:
 
 Per ogni stat block presente:
 
-- [ ] I valori sono coerenti con Dragon Heist.md o con le fonti D&D 5e standard?
+- [ ] I valori sono coerenti con `{libro_fonte}` o con le fonti D&D 5e standard?
 - [ ] CR e XP sono indicati?
 - [ ] Le azioni speciali sono descritte in modo utilizzabile al tavolo?
 
@@ -114,13 +126,13 @@ Per ogni stat block presente:
 
 La checklist deve includere tutti i file che **dovranno essere aggiornati** dopo questa sessione:
 
-- [ ] `ai/knowledge/party.md` (level up? nuovi XP? cambi di stato?)
-- [ ] `ai/knowledge/png-incontrati.md` (nuovi PNG incontrati? atteggiamenti cambiati?)
-- [ ] `ai/knowledge/fazioni.md` (nuovi rapporti? missioni che cambiano stato?)
-- [ ] `ai/knowledge/stato-missioni.md` (missioni avviate, completate, o modificate?)
-- [ ] `ai/knowledge/rapporti.md` (nuovi rapporti tra PG e PNG?)
-- [ ] `ai/knowledge/recaps/recap-sessione-NN.md` da compilare **dopo** la sessione (usa il template in `00-recap-updater.agent.md`)
-- [ ] Eventuale `campagna/sessioni/dm-notes-sessione-NN+1.md` da creare prima della prossima sessione
+- [ ] `ai/knowledge/party.md` (level up? nuovi XP? cambi di stato?) *(condiviso)*
+- [ ] `ai/knowledge/png-incontrati.md` (nuovi PNG incontrati? atteggiamenti cambiati?) *(condiviso)*
+- [ ] `{fazioni_path}` (nuovi rapporti? missioni che cambiano stato?) *(n/d → salta)*
+- [ ] `{stato_missioni_path}` (missioni/quest avviate, completate, o modificate?)
+- [ ] `ai/knowledge/rapporti.md` (nuovi rapporti tra PG e PNG?) *(condiviso)*
+- [ ] `{recaps_path}recap-<unità>-NN.md` da compilare **dopo** la sessione (template in `00-recap-updater.agent.md`)
+- [ ] Prossima unità da creare: `sessioni-lineari` → `{sessioni_path}dm-notes-sessione-NN+1.md`; `capitoli-dungeon` → il capitolo del livello successivo quando il party ci arriva
 
 ---
 

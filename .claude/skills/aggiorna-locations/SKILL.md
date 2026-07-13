@@ -1,12 +1,13 @@
 ---
 name: aggiorna-locations
 description: >
-  Aggiorna il compendio "Luoghi Visitati" dopo una sessione completata. Legge
-  dm-notes-sessione-NN.md finalizzato dall'Agente 6, crea/aggiorna i file markdown
-  in campagna/luoghi-visitati/, esegue npm run build e prepara il commit Git.
-  Usa questa skill dopo ogni sessione giocata: "/aggiorna-locations NN",
+  Aggiorna il compendio "Luoghi Visitati" della campagna attiva (Dragon Heist o Sottomonte) dopo
+  un'unità completata. Risolve i path dal registro ai/knowledge/campagne.md, legge le note finalizzate
+  dall'Agente 6, crea/aggiorna i file markdown nella cartella luoghi della campagna, e (se il pack è
+  registrato) esegue npm run build e prepara il commit Git.
+  Usa questa skill dopo ogni sessione/livello giocato: "/aggiorna-locations [campagna] NN",
   "aggiorna i luoghi della sessione N", "update locations sessione N".
-  NON usare mentre prepari una sessione — i luoghi devono essere già stati visitati.
+  NON usare mentre prepari — i luoghi devono essere già stati visitati.
 ---
 
 # Aggiornamento Luoghi Visitati — /aggiorna-locations
@@ -25,12 +26,15 @@ dm-notes-sessione-NN.md è stato finalizzato dall'Agente 6. Mai durante la prepa
 
 ---
 
-## Step 0 — Verifica prerequisiti
+## Step 0 — Risolvi campagna attiva + verifica prerequisiti
 
-1. Determina il numero sessione NN. Se non specificato, chiedi al DM.
-2. Verifica che esista `campagna/sessioni/dm-notes-sessione-NN.md`.
-3. Controlla che il file contenga la sezione `## Revision Log` — marker che conferma la
-   finalizzazione da parte dell'Agente 6.
+0. **Risolvi la campagna attiva** da `ai/knowledge/campagne.md` (token esplicito → default → chiedi).
+   Carica `modello_prep`, `sessioni_path`/`capitoli_path`, `luoghi_path`, `pack_luoghi`.
+   **Ramo capitoli-dungeon (Sottomonte):** registra **solo i luoghi story-relevant** (non ogni stanza);
+   se `pack_luoghi = n/d`, genera i markdown ma **salta build/commit del pack**.
+1. Determina il numero NN dell'unità. Se non specificato, chiedi al DM.
+2. Verifica che esista `{sessioni_path|capitoli_path}<unità>-NN.md`.
+3. Controlla che il file contenga la sezione `## Revision Log` — marker di finalizzazione (Agente 6).
 
 **Se il file non esiste o manca il Revision Log**, fermati e avvisa:
 
@@ -50,8 +54,8 @@ Tra uno step e il successivo, mostra: `✅ Step N completato → avvio Step N+1.
 Leggi ed esegui le istruzioni di `ai/agents/07-location-updater.agent.md` (Step 1 e 2).
 
 File da leggere:
-- `campagna/sessioni/dm-notes-sessione-NN.md` ← input principale
-- `campagna/luoghi-visitati/*.md` ← stato attuale del compendio
+- `{sessioni_path|capitoli_path}<unità>-NN.md` ← input principale
+- `{luoghi_path}*.md` ← stato attuale del compendio
 
 Scansiona tutte le sezioni FASE e le sottosezioni Tappa. Per ogni luogo con interazione fisica:
 - Registra nome del luogo, quartiere/zona, evento accaduto, PNG incontrati
@@ -66,7 +70,7 @@ Leggi ed esegui le istruzioni di `ai/agents/07-location-updater.agent.md` (Step 
 
 Per ogni luogo estratto:
 
-**Se NUOVO** — crea `campagna/luoghi-visitati/NN-nome-slug.md` con la struttura:
+**Se NUOVO** — crea `{luoghi_path}NN-nome-slug.md` con la struttura:
 ```markdown
 # Nome del Luogo
 
@@ -92,9 +96,9 @@ Note storiche, referenze, o contesto.
 - [SX] Il party ha [azione generica]
 ```
 
-Numerazione file: sequenziale da `01-` fino a `19-` (max 19 luoghi totali).
+Numerazione file: sequenziale progressiva (`01-`, `02-`, …), senza limite fisso.
 
-### Step 3 — Build compendio
+### Step 3 — Build compendio *(salta se `pack_luoghi = n/d`)*
 
 ```bash
 npm run build
@@ -105,7 +109,7 @@ Verifica che l'output contenga:
 ✓ 9bd14f4f1a5f9a82  "Luoghi Visitati"  (NN pagine)
 ```
 
-Dove NN corrisponde al numero totale di file .md in `campagna/luoghi-visitati/`.
+Dove NN corrisponde al numero totale di file .md in `{luoghi_path}`.
 
 **⚠️ Nota**: `npm run build` richiede Node.js installato localmente. Se il build fallisce,
 segnala l'errore al DM senza procedere al commit.
@@ -118,7 +122,7 @@ Conta le pagine generate per confermare che il build sia completo:
 Get-Content src/luoghi-visitati/9bd14f4f1a5f9a82.json | Select-String '"name"' | Measure-Object
 ```
 
-Il conteggio deve corrispondere al numero di file .md in `campagna/luoghi-visitati/`.
+Il conteggio deve corrispondere al numero di file .md in `{luoghi_path}`.
 
 ---
 
@@ -132,8 +136,8 @@ Luoghi processati:
   Aggiornati: [lista nomi luoghi esistenti con nuovo evento]
 
 File modificati:
-  campagna/luoghi-visitati/  ([N] file)
-  packs/luoghi-visitati/            (pack recompilato)
+  {luoghi_path}  ([N] file)
+  packs/{pack_luoghi}/              (pack recompilato; assente se pack_luoghi = n/d)
 
 Messaggio commit suggerito:
   feat: sessione NN — aggiornamento compendio Luoghi Visitati

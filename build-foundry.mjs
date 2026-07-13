@@ -216,6 +216,13 @@ const PACKS = [
     excludeSubdirs: ['recaps']
   },
   {
+    name: 'sottomonte-sessioni',
+    label: 'Sottomonte — Sessioni',
+    mode: 'flat',
+    dirs: ['campagna-sottomonte/sessioni'],
+    excludeSubdirs: ['recaps']
+  },
+  {
     name: 'missioni-secondarie',
     label: 'Missioni Secondarie',
     mode: 'grouped',

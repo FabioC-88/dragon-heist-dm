@@ -1,17 +1,19 @@
 ---
 name: git-release
 description: >
-  Workflow completo di release per il modulo Foundry VTT Dragon Heist DM: build → aggiorna
-  campo download in module.json → commit → tag → GitHub Release con zip + module.json separato.
-  Usa questa skill ogni volta che vuoi pubblicare una nuova versione: "/git-release", "/git-release v1.0.6",
-  "fai la release", "pubblica la versione su GitHub", "crea il tag e la release". Richiede conferma
-  esplicita del DM prima di ogni operazione che modifica lo stato remoto (push, tag, release).
+  Workflow completo di release per il modulo Foundry VTT (unico modulo che contiene TUTTE le campagne
+  del repo: Dragon Heist + Sottomonte): build → aggiorna campo download in module.json → commit → tag →
+  GitHub Release con zip + module.json separato. Usa questa skill ogni volta che vuoi pubblicare una
+  nuova versione: "/git-release", "/git-release v1.0.6", "fai la release", "pubblica la versione su GitHub".
+  Richiede conferma esplicita del DM prima di ogni operazione che modifica lo stato remoto (push, tag, release).
   NON usare per semplici commit/push senza release — per quelli usa git direttamente.
 ---
 
 # Workflow Release Foundry VTT — /git-release
 
-Gestisci la release completa del modulo Dragon Heist DM su GitHub e Foundry VTT.
+Gestisci la release completa del modulo Foundry VTT su GitHub. **Il modulo è unico** e include i pack
+di **tutte le campagne** del repo (Dragon Heist + Sottomonte): il build compila tutti i pack registrati
+in `build-foundry.mjs`/`module.json`, quindi questa skill è agnostica rispetto alla campagna attiva.
 Ogni operazione che modifica lo stato remoto (push, tag, GitHub Release) richiede conferma esplicita.
 Se qualcosa va storto tra Step 5 e Step 9, fermati e segnala l'errore senza procedere oltre.
 

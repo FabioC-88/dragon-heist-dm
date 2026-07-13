@@ -63,6 +63,16 @@
         "PLAYER": "NONE",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "sottomonte-sessioni",
+      "label": "Sottomonte — Sessioni",
+      "path": "./packs/sottomonte-sessioni",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "packFolders": [
@@ -75,6 +85,13 @@
         "missioni-secondarie",
         "pg-background",
         "luoghi-visitati"
+      ]
+    },
+    {
+      "name": "Sottomonte — Mad Mage",
+      "sorting": "m",
+      "packs": [
+        "sottomonte-sessioni"
       ]
     }
   ],

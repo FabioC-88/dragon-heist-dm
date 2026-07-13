@@ -85,6 +85,8 @@ Questa missione chiude il ciclo Force Grey — è il punto di non ritorno.
 
 **[NOTA DM — riservata] Hook per Razak Kendal:** il presagio di Hlam ("che le imprese siano buone o malvagie, sangue innocente sarà versato nel Giorno dei Fondatori") troverà risposta nel climax di Villa Cassalanter (S16). **Se S16 è già stata giocata** al tuo tavolo, questa missione non porta più il peso di quella profezia per Razak: è la prima occasione per mostrarlo come Mano Grigia a pieno titolo, senza l'ombra dell'oracolo addosso — un breve momento di sollievo, o di spiazzamento per la libertà nuova, è un buon spotlight in apertura o durante il tragitto verso il covo. **Se S16 non è ancora stata giocata**, il presagio pesa ancora su di lui: usalo come tensione di sottofondo (la sensazione che il conto alla rovescia stia per scadere altrove, mentre lui è impegnato qui), senza risolverlo — la risoluzione resta materiale esclusivo di S16.
 
+**[NOTA DM — riservata — seme per la transizione a Sottomonte, da giocare DOPO che S16 è confermata risolta]** Quando il presagio si è compiuto (coi gemelli salvi o forfeit, non importa quale), fai in modo che Razak torni una ultima volta da **Hlam** sul Monte Waterdeep per chiudere il cerchio. Hlam conferma che la visione si è avverata — ma aggiunge una chiosa che il monaco stesso non capisce fino in fondo: *"La strofa che conoscevi è finita. Ce n'è un'altra, più sommessa, che continuo a sognare da quando il vostro patto è stato spezzato: sotto la città dorme una follia più antica di qualunque contratto voi abbiate firmato o infranto."* Nessuna spiegazione ulteriore — Razak sente che il presagio non è del tutto esaurito, solo la prima strofa. Vedi `campagna-sottomonte/transizione-mad-mage.md`.
+
 **[NOTA DM — riservata — continuità missioni]** La Sinossi sopra elenca la M3 Force Grey ("l'infiltrazione di Divoratori d'Intelletto nei ranghi delle Force Grey") tra i fili che Nihiloor ha già tessuto prima di questa missione. In `ai/knowledge/stato-missioni.md`, **Force Grey M3 "Crimini di Pensiero" risulta ancora `Pianificata`** (non risulta confermata come giocata a tavolo, anche se la "Cronologia consigliata" nello stesso file la collocava prima del Vault, S13+). Non serve recuperarla retroattivamente per rendere coerente questa M4: tratta l'infiltrazione dei Divoratori come già scoperta offscreen, coerentemente con quanto la Sinossi già presume. Il filo resta comunque disponibile come sessione a sé per il futuro — vedi Thread Narrativi in fondo al documento.
 
 #### Ambientazione Principale
@@ -217,6 +219,8 @@ Questa missione chiude il ciclo Force Grey — è il punto di non ritorno.
 > *La voce di Brottor trema meno di quanto ci si aspetterebbe da chi ha passato undici giorni a mentire a un mostro dentro la propria testa. È l'abitudine di un vecchio insegnante: anche affamato, anche spezzato nel corpo, continua a correggere la forma del sigillo di Vorador come se fossero ancora in aula, alla Torre dell'Ordine.*
 
 **Nota post-missione:** Brottor è vivo, ma cambiato. Più silenzioso, più cauto. Le "interviste" psichiche hanno lasciato tracce. Non è spezzato — ma non è più del tutto quello di prima. Materiale per archi narrativi futuri.
+
+**[NOTA DM — riservata — seme per la transizione a Sottomonte]** Se il tavolo chiede a Brottor da dove venissero gli ordini di Nihiloor, o se Vorador indaga sul "chi" c'è sopra un singolo Mind Flayer di un covo di gilda, Brottor può aggiungere, prima di essere portato al sicuro: *"Nihiloor riceveva istruzioni. Non ho mai capito da chi — ma erano istruzioni di qualcosa più vecchio e più in profondità di questa città. Più in profondità di quanto io stesso oggi riesca a immaginare."* Non è una rivelazione risolta: è un filo che l'Ordine dei Magisti, una volta ricevuto il rapporto di Vorador, decide di aprire come dossier separato — una possibile colonia illithid più grande, sotto Waterdeep, con legami verso Sottomonte (il livello del Sargauth/Downshadow). Vedi `campagna-sottomonte/transizione-mad-mage.md`.
 
 ---
 
@@ -449,6 +453,8 @@ Questa missione chiude il ciclo Force Grey — è il punto di non ritorno.
 
 **[NOTA DM — riservata]** Attitudine dell'uomo dal tatuaggio verso Scintilla: sconosciuto/ostile di default (agente di Manshoon, non la percepisce come minaccia finché lei non agisce). Questo è il primo contatto visivo diretto del filone narrativo di Rennis: trattalo come un presagio, non come un'informazione risolutiva. Eric non deve arrivare a collegare esplicitamente il tatuaggio a Rennis prigioniero — deve solo notare che il simbolo è lo stesso descritto da Rennis, il che è già abbastanza per costruire tensione senza svelare il segreto.
 
+**[NOTA DM — riservata — seme per la transizione a Sottomonte]** Quando il filo di Rennis verrà infine chiuso (Torri Kolat, sessione futura), prepara questo sviluppo: Manshoon, sentendo la pressione di Force Grey/Zhentarim/Arpisti che si stringe, avrà già spostato i prigionieri "di valore" fuori dalle Torri Kolat, verso un nascondiglio più difficile da raggiungere — un accesso segreto che scende a **Sottomonte**, sfruttato da tempo dagli Zhentarim come via di contrabbando. Rennis, quando trovato, confermerà di essere stato trasferito lì "settimane fa". Non seminarlo ancora in questa sessione: resta materiale per quando il party arriverà davvero alle Torri Kolat. Vedi `campagna-sottomonte/transizione-mad-mage.md`.
+
 ---
 
 **SCENA 4: Il caos — il Simulacro di Manshoon**
@@ -679,6 +685,8 @@ Una mappa di Faerûn segnata da punti d'inchiostro dorato — *"Instabilità pla
 > *"Caro capitano, il soggetto si avvicina a voi più in fretta di quanto avessi previsto — è tanto puntuale quanto inconsapevole. La breccia che porta con sé è reale e documentabile. Usatela pure come leva: non è mia, appartiene a lui. Io mi limito a osservare. — T."*
 
 **Nota DM:** solo Aelar può leggerla senza ricorrere alla magia. Consegnatela piegata. Trobbio ha usato la colpa di Aelar come moneta di scambio con Jarlaxle. Il patto, mai firmato, era già in corso — all'insaputa di Aelar.
+
+**[NOTA DM — riservata — seme per la transizione a Sottomonte]** Il Documento A ha un secondo punto d'inchiostro dorato, più piccolo e più recente degli altri, annotato a margine: *"Nodo instabile — sotto Waterdeep stessa. Origine ignota. Priorità bassa."* A differenza del punto su Sildëyuir (personale, carico di colpa), questo secondo nodo è puramente professionale — ma è proprio quello che, una volta riportato agli Arpisti, Remallia Haventree deciderà di assegnare formalmente ad Aelar come prossima indagine: *"Sildëyuir resta tua battaglia privata. Questo nodo sotto la città, invece, è lavoro per un Arpista — e sei l'unico che sa leggere una mappa planare come si deve."* Nessun dettaglio ulteriore ora: il nodo è semplicemente "sotto Waterdeep" — la sua vera natura (Sottomonte) emerge solo quando il party inizia a indagare. Vedi `campagna-sottomonte/transizione-mad-mage.md`.
 
 **[NOTA DM — riservata]** La macchia di instabilità su Sildëyuir tocca direttamente il senso di colpa che Aelar porta da apprendista — la crepa nel sigillo che lui stesso potrebbe aver contribuito a causare, da giovane, quando un Nilshai riuscì a passare attraverso le difese indebolite. Non serve dirlo esplicitamente: la mappa parla da sola. Lascia che sia il giocatore a collegare i puntini.
 
@@ -1012,6 +1020,7 @@ Una mappa di Faerûn segnata da punti d'inchiostro dorato — *"Instabilità pla
 | Brottor Deepdelver liberato — mentore ricorrente, "cambiato" | Force Grey | Vorador Thraxas | Attivo *(se liberato in M4)* — PNG disponibile per archi futuri | `missioni-secondarie/forcegrey/M4-CoseTerribili.md` |
 | Covo di Xanathar compromesso / Xanathar minaccia secondaria Cap. 5 | Force Grey / Gilda di Xanathar | Tutto il party | In attesa — dipende dall'esito M4 | `missioni-secondarie/forcegrey/M4-CoseTerribili.md` |
 | Manshoon come minaccia principale post-Cap.5 (simulacro, Torri Kolat) | Zentharim | Friedrich Krauser, Fizzra "Scintilla" | In attesa — endgame Cap. 5+ | `missioni-secondarie/zentharim/M4-SangueDeiPatto.md` |
+| **[Transizione campagna] Cinque semi verso Sottomonte** — Brottor/colonia illithid (Vorador), coda di Hlam (Razak), nodo planare sotto Waterdeep (Aelar), nascondiglio di Rennis (Fizzra), debito con Asmodeo (Friedrich/party) | Tutte | Tutto il party | Seminati in S16-S17, da innescare a fine campagna | `campagna-sottomonte/transizione-mad-mage.md` |
 
 ---
 

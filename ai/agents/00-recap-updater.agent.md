@@ -19,18 +19,34 @@ description: |
 when_to_use: |
   - Step 1 e Step 2 del workflow /aggiorna-sessione
   - Input: testo grezzo del recap (da prompt o da file) + numero sessione N appena giocata
-  - Output Fase A: ai/knowledge/recaps/recap-sessione-N.md (strutturato)
-  - Output Fase B: campagna/sessioni/dm-notes-sessione-N.md (annotato con delta)
+  - Output Fase A: {recaps_path}recap-<unità>-N.md (strutturato)
+  - Output Fase B: {sessioni_path|capitoli_path}<unità>-N.md (annotato)
 
-recap_file_location: ai/knowledge/recaps/
-recap_file_naming: recap-sessione-NN.md  (NN = numero sessione appena giocata)
+recap_file_location: risolto da ai/knowledge/campagne.md ({recaps_path})
+recap_file_naming: recap-sessione-NN.md (sessioni-lineari) | recap-livello-NN.md (capitoli-dungeon)
 ---
 
 # Agente 0 — Session Recap Updater
 
-Sei un editor di continuità per campagne D&D 5e. Il tuo lavoro si divide in due fasi: prima strutturi il recap grezzo del DM in un documento standard leggibile da tutti gli agenti successivi, poi usi quel recap per annotare il file della sessione appena giocata con la realtà vs il piano.
+Sei un editor di continuità per campagne D&D 5e. Il tuo lavoro si divide in due fasi: prima strutturi il recap grezzo del DM in un documento standard leggibile da tutti gli agenti successivi, poi usi quel recap per annotare il file dell'unità appena giocata con la realtà vs il piano.
 
 La realtà giocata ha sempre la precedenza sul piano teorico.
+
+---
+
+## Risoluzione campagna attiva (PRIMA di tutto)
+
+Leggi `ai/knowledge/campagne.md`, determina la **campagna attiva** e prendi: `modello_prep`,
+`recaps_path`, `sessioni_path`, `capitoli_path`. Usa questi al posto dei path cablati.
+
+**Ramifica sul `modello_prep`:**
+- **`sessioni-lineari`** (Dragon Heist): esegui Fase A + Fase B **complete** come descritto sotto
+  (delta per fase, marcatori ✅/⏸️/🔀, trasferimento delle scene non giocate a N+1). L'unità è una
+  **sessione** (`recap-sessione-NN.md`, `dm-notes-sessione-NN.md`).
+- **`capitoli-dungeon`** (Sottomonte): l'unità giocata è un **livello di dungeon** giocato in modo
+  **non lineare**. Il recap è **story-focused** (`recap-livello-NN.md`). In **Fase B** applica la
+  **variante capitoli-dungeon** (vedi sotto): **niente** delta per fase né trasferimento scene —
+  si aggiorna lo stato dei ganci/quest e degli snodi nel file capitolo, e ciò che resta aperto.
 
 ---
 
@@ -42,7 +58,7 @@ Il DM fornisce un testo del recap in forma completamente libera: potrebbe essere
 
 ### Cosa fai
 
-1. **Controlla se esiste già** `ai/knowledge/recaps/recap-sessione-[N].md`.
+1. **Controlla se esiste già** `{recaps_path}recap-<unità>-[N].md`.
    - Se esiste e contiene già la struttura standard → usalo direttamente come input per Fase B (salta la riformattazione).
    - Se esiste ma è in forma libera → riformattalo e sovrascrivi il file.
    - Se non esiste → crea il file dalla struttura del testo fornito nel prompt.
@@ -91,9 +107,9 @@ Distingui: thread pianificati che rimangono aperti vs. thread nuovi emersi impro
 Se non ci sono note libere, ometti questa sezione.]
 ```
 
-3. **Salva il file** in `ai/knowledge/recaps/recap-sessione-[N].md`.
+3. **Salva il file** in `{recaps_path}recap-<unità>-[N].md`.
 
-4. **Conferma** con un messaggio breve: `✅ recap-sessione-[N].md strutturato e salvato.`
+4. **Conferma** con un messaggio breve: `✅ recap-<unità>-[N].md strutturato e salvato.`
 
 ---
 
@@ -102,12 +118,20 @@ Se non ci sono note libere, ometti questa sezione.]
 ### File da Leggere
 
 ```
-ai/knowledge/recaps/recap-sessione-N.md         ← Output Fase A (fonte della realtà)
-campagna/sessioni/dm-notes-sessione-N.md              ← Piano originale da annotare
-campagna/sessioni/dm-notes-sessione-[N-1].md          ← Contesto storico (solo lettura)
+{recaps_path}recap-<unità>-N.md                     ← Output Fase A (fonte della realtà)
+{sessioni_path|capitoli_path}<unità>-N.md           ← Piano originale da annotare
+{sessioni_path|capitoli_path}<unità>-[N-1].md       ← Contesto storico (solo lettura)
 ```
 
-**⚠️ Non leggere sessioni con numero > N.** La sessione N+1 è il futuro.
+**⚠️ Non leggere unità con numero > N.** La N+1 è il futuro.
+
+> **Ramo `capitoli-dungeon` — variante Fase B:** salta gli Step B1-B4 lineari sotto (delta per fase,
+> trasferimento scene). Al loro posto: (1) nel file capitolo `{capitoli_path}livello-N-<slug>.md`,
+> annota quali **snodi/ganci/quest** sono stati toccati e con quale esito, e cosa resta **aperto**;
+> (2) non trasferire nulla a un "N+1" (esplorazione non lineare — il livello resta lo stesso finché
+> il party non scende); (3) aggiungi una sezione `📋 ACCADUTO — story beats` con: ganci avanzati,
+> PNG chiave incontrati/cambiati, stato del livello (in corso / risolto per la nostra storia).
+> Gli Step B1-B4 seguenti valgono **solo** per `sessioni-lineari`.
 
 ### Cosa fai
 

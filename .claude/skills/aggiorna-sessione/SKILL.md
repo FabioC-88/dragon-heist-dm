@@ -1,14 +1,15 @@
 ---
 name: aggiorna-sessione
 description: >
-  Workflow completo post-sessione. Il DM ha appena giocato la sessione N e fornisce un recap
-  in forma libera (come testo nel prompt o come file già salvato). La skill gestisce tutto:
-  riformatta il recap in struttura standard, finalizza dm-notes-sessione-N con la realtà
-  giocata, aggiorna tutti i file di contorno (party, PNG, fazioni, missioni, rapporti),
-  aggiorna i luoghi visitati, prepara la sessione N+1 (aggiornandola se esiste già, creandola
-  da zero altrimenti), e chiede conferma per la release.
-  Uso: "/aggiorna-sessione N" dove N è il numero della sessione APPENA GIOCATA.
-  Alias: "abbiamo giocato la sessione N", "recap della sessione N", "aggiorna dopo sessione N".
+  Workflow completo post-sessione per la campagna ATTIVA (Dragon Heist o Sottomonte, risolta dal
+  registro ai/knowledge/campagne.md). Il DM ha appena giocato l'unità N (una sessione per Dragon
+  Heist, un livello di dungeon per Sottomonte) e fornisce un recap in forma libera. La skill
+  riformatta il recap, finalizza le note con la realtà giocata, aggiorna i file di contorno
+  (party/PNG/rapporti condivisi + quest-pool/fazioni), aggiorna i luoghi story-relevant, e — solo
+  per sessioni-lineari — prepara la N+1. Ramo capitoli-dungeon: recap story-focused, niente
+  trasferimento scene, niente prep automatica del livello successivo.
+  Uso: "/aggiorna-sessione [campagna] N". Alias: "abbiamo giocato la sessione/il livello N",
+  "recap della sessione N", "aggiorna dopo sessione N".
 ---
 
 # Workflow Post-Sessione — /aggiorna-sessione
@@ -22,27 +23,38 @@ La realtà giocata ha sempre la precedenza sul piano teorico.
 
 ---
 
-## Step 0 — Verifica prerequisiti
+## Step 0 — Risolvi campagna attiva + verifica prerequisiti
 
-1. Identifica il numero **N** della sessione appena giocata.
-   - Se specificato nel comando (es. `/aggiorna-sessione 4`) → usa quel numero.
-   - Se non specificato → chiedi al DM: "Quale sessione hai appena giocato?"
+0. **Risolvi la campagna attiva** leggendo `ai/knowledge/campagne.md`: token esplicito
+   (es. `/aggiorna-sessione sottomonte 3`) → `attiva_default` → in dubbio **chiedi al DM**. Carica i
+   path e il **`modello_prep`**. Da qui in poi usa `{sessioni_path}`/`{capitoli_path}`, `{recaps_path}`,
+   `{stato_missioni_path}`, `{contesto_path}`, `{luoghi_path}`, `{fazioni_path}`, `{pack_luoghi}` risolti.
 
-2. Verifica che esista `campagna/sessioni/dm-notes-sessione-[N].md`.
-   - Se non esiste: fermati e avvisa il DM — non si può aggiornare una sessione mai preparata.
+   **Ramo `capitoli-dungeon` (Sottomonte):** l'unità è un **livello di dungeon**, il recap è
+   **story-focused** e **non lineare** → nel **Percorso B** più sotto usa la variante capitoli-dungeon:
+   niente trasferimento di "scene non giocate", niente prep di "N+1"; si aggiorna lo stato dei
+   ganci/quest e del file capitolo. Il "Step 6 — Prepara N+1" diventa "prepara il capitolo del
+   livello successivo **solo quando il party ci scende**" (di norma si salta subito dopo il recap).
+
+1. Identifica il numero **N** dell'unità appena giocata (sessione o livello).
+   - Se specificato nel comando → usa quel numero.
+   - Se non specificato → chiedi al DM.
+
+2. Verifica che esista `{sessioni_path|capitoli_path}<unità>-[N].md`.
+   - Se non esiste: fermati e avvisa il DM — non si può aggiornare un'unità mai preparata.
 
 3. Verifica il recap. Uno dei seguenti deve essere vero:
    - Il DM ha fornito il testo del recap direttamente nel prompt → usa quello.
-   - Esiste già `ai/knowledge/recaps/recap-sessione-[N].md` → usalo.
+   - Esiste già `{recaps_path}recap-<unità>-[N].md` → usalo.
    - Se né l'uno né l'altro: chiedi al DM di fornire il recap (anche in forma libera).
 
 Mostra una conferma dei file identificati prima di procedere:
 ```
-📋 Sessione [N] identificata.
-   dm-notes: campagna/sessioni/dm-notes-sessione-[N].md ✅
+📋 [Sessione | Livello] [N] identificato — campagna: [attiva].
+   note: {sessioni_path|capitoli_path}<unità>-[N].md ✅
    recap: [da prompt / da file] ✅
-   
-Avvio pipeline post-sessione...
+
+Avvio pipeline post-[sessione|livello]...
 ```
 
 ---
@@ -70,10 +82,10 @@ e procedi.
 Leggi ed esegui le istruzioni di `ai/agents/00-recap-updater.agent.md`, **solo la Fase B**.
 
 File da leggere:
-- `ai/knowledge/recaps/recap-sessione-[N].md` ← output Step 1
-- `campagna/sessioni/dm-notes-sessione-[N].md` ← piano originale da annotare
+- `{recaps_path}recap-<unità>-[N].md` ← output Step 1
+- `{sessioni_path|capitoli_path}<unità>-[N].md` ← piano originale da annotare
 
-Obiettivo: annotare dm-notes-sessione-N.md con i marcatori ✅/⏸️/🔀 per ogni fase, aggiungere
+Obiettivo *(ramo sessioni-lineari)*: annotare le note con i marcatori ✅/⏸️/🔀 per ogni fase, aggiungere
 la sezione `📋 ACCADUTO IN SESSIONE` con tabella delta e lista delle scene non giocate da
 trasferire a N+1.
 
@@ -98,15 +110,15 @@ presenti che siano stati invalidati dai delta.
 Leggi ed esegui le istruzioni di `ai/agents/08-context-updater.agent.md`.
 
 File da leggere e aggiornare:
-- `ai/knowledge/party.md`
-- `ai/knowledge/png-incontrati.md`
-- `ai/knowledge/stato-missioni.md`
-- `ai/knowledge/rapporti.md`
-- `ai/knowledge/fazioni.md` (solo se necessario)
+- `ai/knowledge/party.md`, `ai/knowledge/png-incontrati.md`, `ai/knowledge/rapporti.md` (condivisi)
+- `{stato_missioni_path}` (missioni fazione OPPURE quest-pool)
+- `{fazioni_path}` (solo se valorizzato; `n/d` → salta)
+- `{contesto_path}` (progressione: Capitolo / Livello dungeon corrente)
 
-Obiettivo: aggiornare sistematicamente tutti i file di contorno sulla base del recap strutturato
-(Step 1) e del dm-notes finalizzato (Step 2). Seguire rigorosamente i vincoli dell'Agente 8:
-aggiornare solo ciò che è esplicitamente citato nel recap.
+Obiettivo: aggiornare sistematicamente i file di contorno sulla base del recap strutturato
+(Step 1) e delle note finalizzate (Step 2). Vincoli dell'Agente 8: aggiornare solo ciò che è
+esplicitamente citato nel recap. **Ramo capitoli-dungeon:** recap story-focused (ganci avanzati,
+PNG chiave), aggiorna il quest-pool e lo stato nel file capitolo-livello.
 
 ---
 
@@ -115,20 +127,24 @@ aggiornare solo ciò che è esplicitamente citato nel recap.
 Leggi ed esegui le istruzioni di `ai/agents/07-location-updater.agent.md`.
 
 File da leggere:
-- `campagna/sessioni/dm-notes-sessione-[N].md` ← input principale
-- `campagna/luoghi-visitati/*.md` ← stato attuale del compendio
+- `{sessioni_path|capitoli_path}<unità>-[N].md` ← input principale
+- `{luoghi_path}*.md` ← stato attuale del compendio
 
 Esegui l'intero flusso dell'Agente 7:
-1. Estrai luoghi con interazione fisica dalle fasi del dm-notes-N
-2. Crea o aggiorna i file markdown in `campagna/luoghi-visitati/`
-3. Esegui `npm run build` e verifica output
+1. Estrai i luoghi con interazione fisica (ramo capitoli-dungeon: **solo luoghi story-relevant**)
+2. Crea o aggiorna i file markdown in `{luoghi_path}`
+3. Se `{pack_luoghi}` è valorizzato, esegui `npm run build` e verifica; se `n/d`, salta build/commit del pack
 4. Segnala eventuali errori di build senza procedere al commit
 
 ---
 
-### Step 6 — Prepara sessione N+1
+### Step 6 — Prepara la prossima unità
 
-Verifica se esiste `campagna/sessioni/dm-notes-sessione-[N+1].md`.
+**Ramo `capitoli-dungeon` (Sottomonte):** di norma **salta** questo step subito dopo il recap — il
+livello successivo si prepara **solo quando il party ci scende** (esplorazione non lineare). Non
+trasferire "scene non giocate".
+
+**Ramo `sessioni-lineari` (Dragon Heist):** verifica se esiste `{sessioni_path}dm-notes-sessione-[N+1].md`.
 
 ---
 
@@ -199,7 +215,7 @@ Output: dm-notes-sessione-[N+1].md finalizzato con Revision Log.
 **Step 6B.7 — (Condizionale) Aggiornamento PNG nei file PG (Agente 5)**
 
 Se la sessione N+1 appartiene a un capitolo diverso rispetto al capitolo corrente in
-`ai/knowledge/contesto.md`, leggi ed esegui `ai/agents/05-pg-png-updater.agent.md`.
+`{contesto_path}`, leggi ed esegui `ai/agents/05-pg-png-updater.agent.md`.
 
 ---
 
@@ -208,11 +224,14 @@ Se la sessione N+1 appartiene a un capitolo diverso rispetto al capitolo corrent
 Esegui il commit di tutti i file modificati in questa pipeline:
 
 ```
-git add campagna/sessioni/ campagna/luoghi-visitati/ ai/knowledge/party.md \
-        ai/knowledge/png-incontrati.md ai/knowledge/fazioni.md \
-        ai/knowledge/stato-missioni.md ai/knowledge/rapporti.md \
-        packs/luoghi-visitati/
-git commit -m "feat: recap e aggiornamento sessione [N] → prep sessione [N+1]"
+# Path risolti dal registro per la campagna attiva (aggiungi solo ciò che esiste):
+git add {sessioni_path} {capitoli_path} {read_aloud_path} {luoghi_path} \
+        {contesto_path} {stato_missioni_path} \
+        ai/knowledge/party.md ai/knowledge/png-incontrati.md ai/knowledge/rapporti.md \
+        {fazioni_path} \
+        {recaps_path} \
+        packs/{pack_luoghi}/          # salta se pack_luoghi = n/d
+git commit -m "feat: recap e aggiornamento [sessione|livello] [N] (campagna: [attiva])"
 git push origin master
 ```
 
