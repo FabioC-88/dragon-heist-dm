@@ -55,6 +55,41 @@ Megadungeon **non lineare**: l'unità è un **livello di dungeon**, non una sess
 (aggiorna quest-pool + file condivisi, salta fazioni) → `07-location-updater` (solo luoghi story-relevant).
 Nessun trasferimento di "scene non giocate" (non lineare).
 
+#### Standard di scrittura per `capitoli-dungeon`: gli snodi sono SCENE GIOCABILI
+
+> **Regola d'oro (autorevole per gli agenti 1/3/4/6/9 in Modalità capitoli-dungeon).** In un
+> megadungeon è giusto **non** scrivere le stanze di solo colore/combattimento (quelle → read-aloud
+> breve nell'agente 9). Ma **ogni area che porta trama o missione — uno "snodo" — va scritta come
+> scena giocabile completa nel capitolo**, alla profondità delle note-sessione lineari di Dragon
+> Heist. Uno snodo **non** può restare un semplice `[NOTA DM — riservata]` in prosa: quello è il
+> difetto da evitare.
+
+**Cos'è uno "snodo":** un'area dove atterra un **gancio personale**, una **quest DotMM**, un **PNG
+chiave**, o una **dinamica di fazione** rilevante per la nostra storia (vedi `{stato_missioni_path}`).
+Nella tabella "Elenco Aree Keyed" gli snodi sono marcati `**Sì**`.
+
+**Template "Scena Snodo / Missione"** (usa solo i blocchi pertinenti; esempi reali in
+`campagna-sottomonte/capitoli/livello-01-dungeon-level.md` e `livello-02-arcane-chambers.md`):
+
+```markdown
+### Snodo — <Titolo> (Area NN)
+**[BOXED TEXT — ID: BT-Lnn-N]**
+> read-aloud d'ingresso (2ª persona presente; battute PNG in **grassetto**; regia in *(corsivo)*)
+
+**Chi c'è / cosa vuole:** personalità PNG in-carattere (bullet)
+**Dialogo:** tabella `| Quesito | Risposta di <PNG> |` (interrogatori)  OPPURE  `Nome, <cue>:` "battuta"
+**Meccaniche:** CD inline `Caratteristica (Abilità) CD X`; se combattimento → tabella
+  `| Nemico | Posizione | Note |` + `**Tattiche di <X>:**` (PF/rigenerazione/abilità speciali come
+  one-liner; **niente stat block completo** — resta al manuale)
+**Rami:** `**Ramo attivo se:** … / **Ramo alternativo se:** …`  o  `**Punto di scelta del party:**`
+**Ricompensa:** token Foundry `[[/award Xgp each]]` + oggetti magici + XP
+**[NOTA DM — riservata]** collante narrativo, semi, continuità
+```
+
+**Convenzioni:** i read-aloud degli snodi usano gli ID progressivi `BT-Lnn-N` (livello NN) e vivono
+**nel capitolo**, non nel file read-aloud (che li rimanda per evitare duplicazione). Le ricompense
+usano la sintassi macro Foundry `[[/award …]]` come nelle note-sessione di Dragon Heist.
+
 ---
 
 ## Mappa Cartelle

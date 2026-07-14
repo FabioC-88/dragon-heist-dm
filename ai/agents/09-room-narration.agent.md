@@ -55,10 +55,14 @@ cosa contiene la stanza.
 
 ### Step 3 — Filtra: quali aree meritano un read-aloud generato
 
-- **SALTA** le aree già coperte come **snodo importante** nel capitolo-livello (hanno già i loro
-  boxed text curati nel capitolo — non duplicarli qui). Elencale come "già nel capitolo".
-- **GENERA** un read-aloud per **tutte le altre** aree keyed (le stanze "non importanti" per la nostra
-  storia, ma in cui il party può comunque entrare).
+- **SALTA** le aree marcate **snodo** (`**Sì**` nell'"Elenco Aree Keyed") — hanno già il loro
+  read-aloud d'ingresso `[BOXED TEXT — ID: BT-Lnn-N]` **dentro la scena giocabile del capitolo**.
+  **Non duplicarli qui.** Vanno invece elencati in fondo al file read-aloud come **cross-reference**
+  (vedi Step 5), con l'ID del boxed text e una riga di che cos'è.
+- **GENERA** un read-aloud per **tutte le altre** aree keyed: le stanze non-snodo (solo colore/
+  combattimento) **e** le stanze **adiacenti** a uno snodo che non ne sono il cuore (es. l'ingresso
+  laterale del bazar, i corridoi/caserme di un avamposto) — il party può comunque entrarci e serve
+  il testo d'ingresso.
 
 ### Step 4 — Genera i read-aloud
 
@@ -89,8 +93,11 @@ Scrivi/aggiorna `{read_aloud_path}livello-NN-<slug>.md` con questa struttura:
 
 ...
 
-## Aree snodo (read-aloud nel capitolo)
-- Area X, Area Y — vedi `{capitoli_path}livello-NN-<slug>.md`
+## Aree snodo (read-aloud + scena completa nel capitolo)
+Queste aree hanno il read-aloud d'ingresso (`[BOXED TEXT — ID: BT-Lnn-N]`) dentro la scena giocabile
+nel capitolo `{capitoli_path}livello-NN-<slug>.md` — non duplicate qui:
+- **Area X** — <cosa/chi> (`BT-Lnn-N`)
+- **Area Y** — <cosa/chi> (`BT-Lnn-M`)
 ```
 
 ---

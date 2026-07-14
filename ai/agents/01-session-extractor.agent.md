@@ -100,8 +100,16 @@ Dal `{libro_fonte}`, per quel livello, estrai:
   quali fili toccano questo livello).
 - Il **ruolo del livello** negli archi in corso.
 
-**NON** estrarre: il walkthrough stanza-per-stanza, i combattimenti non influenti, i dettagli meccanici
-di ogni trappola. Quelli li gestisce il DM col manuale originale.
+**Per ogni snodo, estrai il materiale che serve a scriverne una SCENA GIOCABILE** (non solo la
+sintesi): il **boxed text originale** dell'area (per il read-aloud d'ingresso `BT-Lnn-N`), i
+**dialoghi/comportamenti PNG**, le **meccaniche che contano** (CD, tratti speciali, tattiche, PF
+rilevanti), i **rami di risoluzione** e le **ricompense** (oro/oggetti/XP). Questo alimenta gli
+agenti 2-6, che scrivono lo snodo col template "Scena Snodo / Missione" (vedi `ai/agents/AGENTS.md`
+→ "Standard di scrittura per capitoli-dungeon"). Marca gli snodi con `**Sì**` nell'indice.
+
+**NON** estrarre: il walkthrough stanza-per-stanza delle aree **non**-snodo, i combattimenti non
+influenti, i dettagli meccanici di ogni trappola minore. Quelli li gestisce il DM col manuale
+originale (e le stanze non-snodo ricevono solo un read-aloud breve dall'agente 9).
 
 ### Step B3 — Elenca TUTTE le aree keyed del livello (per i read-aloud)
 Separatamente, estrai l'**elenco completo delle aree keyed** del livello (es. area 1, 2, 3a, …) con,
