@@ -30,7 +30,7 @@
 
 | Quest | Quest-giver | Dove atterra | Stato | Note |
 |-------|-------------|--------------|-------|------|
-| Trova Kressando Rosznar (anello di famiglia) | Esvele Rosznar *(già alleata DH)* | livelli superiori | Pianificata | Ponte con DH: volto amico al Portale prima della discesa |
+| Trova Kressando Rosznar (anello di famiglia) | Esvele Rosznar *(già alleata DH)* | L3 — Azrok's Hold, area 21n (il warlord hobgoblin Azrok tiene l'anello come trofeo; Kressando è morto, divorato dall'otyugh di area 17e) | Pianificata | Ponte con DH: volto amico al Portale prima della discesa. Nessun indizio a L1 — il filo resta silenzioso finché il party non arriva a L3 |
 | Consegna a Cal'al Claddani (Flagon and the Dragon) | Mattrim "Tre Corde" Mereg *(Arpista, già contatto DH)* | L3 — Skullport | Pianificata | Indica il rifugio Arpista Dalagor's Fortress (Skullport alto). Comodo per collegare Aelar/Vorador/Fizzra a L3 |
 | Recupera oggetti magici per Wakanga O'tamu | Obaya Uday (sacerdotessa di Waukeen) | variabile | Pianificata | Gancio opzionale "quest board" |
 | Frammento di Runestone per Laeral | Jalester (agente di Laeral Silverhand) | L20 — Runestone Caverns | Pianificata | Filo lungo; lega la campagna a un'autorità già nota. Da seminare presto, riprendere in profondità |
