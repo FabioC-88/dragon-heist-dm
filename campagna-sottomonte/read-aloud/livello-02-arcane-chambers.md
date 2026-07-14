@@ -1,10 +1,12 @@
 # Read-aloud — Livello 2: Arcane Chambers (Camere Arcane)
 
-> Testi brevi da leggere ai PG all'ingresso delle aree di questo livello. Le aree con un vero snodo
-> narrativo hanno il loro contesto nel capitolo: `campagna-sottomonte/capitoli/livello-02-arcane-chambers.md`.
-> Qui sotto trovi la **descrizione sensoriale d'ingresso** di tutte le aree keyed, comprese quelle
-> strategicamente rilevanti (marcate *vedi capitolo*) per cui il capitolo dà il contesto ma non il
-> testo d'atmosfera. Meccaniche, trappole, PNG e scontri: manuale originale alla mano.
+> Testi brevi da leggere ai PG all'ingresso delle aree di questo livello. Le aree **snodo**
+> (1c, 1d, 1e, 2d, 3, 4, 7c, 9b, 11b, 13g, 14a, 20b) hanno il loro read-aloud d'ingresso
+> (`[BOXED TEXT — ID: BT-L2-N]`) **nel capitolo** come scena completa:
+> `campagna-sottomonte/capitoli/livello-02-arcane-chambers.md` — non sono duplicate qui (vedi
+> l'elenco in fondo). Qui sotto trovi la **descrizione sensoriale d'ingresso** di tutte le altre aree
+> keyed, comprese le stanze adiacenti agli snodi (l'ingresso laterale del bazar, i corridoi degli
+> avamposti, le caserme). Meccaniche, trappole, PNG e scontri: manuale originale alla mano.
 
 ---
 
@@ -15,15 +17,6 @@
 
 ### Area 1b — Sala delle Aste
 > *Una camera dal soffitto altissimo, venti piedi buoni. Contro la parete nord, sette goblin stanno inchiodando assi tarlate a un palco ancora scheletrico, usando martelli di pietra; altri si passano una pergamena con uno schizzo rozzo di un palco più grande. In un angolo, una catasta di mobilio distrutto. Nessuno di loro vi degna di uno sguardo.*
-
-### Area 1c — Gabbie e Sugo *(seme Skullport — vedi capitolo)*
-> *Quattro gabbie di ferro pendono da catene agganciate a un soffitto basso. Tre sono vuote; nella quarta, una goblin magra e sporca si aggrappa alle sbarre e comincia a implorare in comune non appena vi vede — parla di cibo, di libertà, di cose che sa e che è pronta a barattare.*
-
-### Area 1d — Sala del Mercato
-> *Una sala dal soffitto vertiginoso, sessanta piedi, retto da due file di pilastri. Otto bancarelle occupano il centro: sedici goblin mercanti gridano prezzi su merce rubata, mentre coppie di guardie sorvegliano le uscite. Contro la parete nord, su una pedana di pietra, un trono di granito drappeggiato di pelli e adorno di teschi e cianfrusaglie legate col fil di ferro.*
-
-### Area 1e — Yek il Tall *(snodo goblin + Fine Fellows — vedi capitolo)*
-> *Torce tremolanti in bracieri di ferro illuminano la sala. Nei quattro angoli, altrettanti bugbear immobili. Su un cumulo di cuscini, al centro, un uomo bello e ben fatto con un cerchietto d'oro sulla fronte sgranocchia una mela, circondato da una decina di goblin sdraiati. Contro la parete sud, incatenato e imbavagliato, un nano dalla capigliatura ramata — la barba rasata di netto — vi fissa con occhi furiosi.*
 
 ### Area 1f — Tesoro di Yek
 > *Un diorama grottesco domina la stanza: i corpi impagliati di un beholder e sei goblin, congelati in pose di battaglia e ricoperti di gioielli da quattro soldi. Accanto, una scacchiera d'avorio su un tavolino, un baule di legno cerchiato di ferro, e un enorme ritratto di Yek in versione umana e regale, il cerchietto d'oro sulla fronte.*
@@ -41,19 +34,6 @@
 ### Area 2c — Cucina del Mago
 > *Una cucina decrepita: un fornello, un lavatoio, un focolare con una pentola coperta, e mensole ingombre di pentole, padelle e utensili anneriti. Il coperchio della pentola sul fuoco è chiuso — e per un istante sembra vibrare appena, come se dentro qualcosa trattenesse il fiato.*
 
-### Area 2d — Camera di Kalabash *(snodo Razak — vedi capitolo)*
-> *Sulla porta, un cartello in comune: "Stanza di Kalabash. Non entrare a meno che tu non ti chiami Halaster." Dentro, un letto polveroso, un baule chiuso ai suoi piedi, una scrivania carica di tomi ammuffiti. Al centro del pavimento, un vecchio tappeto intessuto di simboli arcani — e sotto il bordo sollevato si intravede il gesso di un cerchio disegnato sulla pietra.*
-
----
-
-## Area 3 — Il Burattino di Halaster *(snodo Razak — vedi capitolo)*
-> *Le porte cedono a fatica: mobili accatastati le bloccano da dentro. Oltre la barricata, un pupazzo di legno e tela a grandezza d'uomo, avvolto in un mantello grigio malandato costellato di decine di occhi di stoffa cuciti, si affaccenda su un tavolo di alambicchi impolverati. Appena vi muovete, scatta verso di voi e strilla con una voce acuta e stridula: "Morte magica terribile e dolorosa! Palle di fuoco e fulmini! Sparite!"*
-
----
-
-## Area 4 — Campo Abbandonato *(seme Vorador — vedi capitolo)*
-> *I resti di un accampamento saccheggiato: provviste marce, un focolare spento, coperte strappate. Ammucchiati nell'angolo nord-est, tre cadaveri di bugbear — e in mezzo a loro, molle e grigiastro, il corpo raggrinzito di una piccola creatura simile a un cervello dotato di zampe.*
-
 ---
 
 ## Area 5 — Arch Gate al Livello 4 *(curiosità — non praticabile ora, vedi capitolo)*
@@ -68,14 +48,14 @@
 
 ## Scoperte Folgoranti — Trenzia (Area 7)
 
+> Le stanze 7a/7b/7e (frammenti di diario) e la 7c (Trenzia flameskull + golem) sono lo snodo di
+> Razak: read-aloud e scena nel capitolo. Qui sotto solo le stanze adiacenti.
+
 ### Area 7a — Studio di Trenzia
 > *Uno studiolo tenuto sorprendentemente in ordine, che puzza di carne marcia e ozono. Sui tavoli, strani strumenti metallici per misurare l'elettricità e fogli sparsi coperti di appunti: "tasso di decadimento", "accumulo di carica". Un frammento di diario spunta tra le carte.*
 
 ### Area 7b — Barili dei Ghoul
 > *Dodici barili di legno sigillati, coperti di polvere, sono addossati alle pareti. Un'amaca carica di coperte pende da ganci sulla parete nord. Nell'angolo sud-est, una porta rivestita di rame emana un lieve ronzio quando vi avvicinate.*
-
-### Area 7c — Laboratorio di Trenzia *(snodo Razak — vedi capitolo)*
-> *Il pavimento è lastricato di piastrelle di rame. Nell'aria danza un teschio di mezz'elfa rivestito di metallo, che crepita e scarica saette sul pavimento facendolo scintillare. Al centro, immobile tra tavoli sfasciati e vetri rotti, una massa di carne ricucita — un golem — attende. Nell'angolo sud-est, uno scivolo si tuffa nel buio verso il basso.*
 
 ### Area 7d — Guai Minerari
 > *Una stanza mineraria in rovina: picconi e martelli sparsi, e a terra ossa rosicchiate, brandelli di una veste nera e un paio di stivali di gomma appartenuti a una maga mezz'elfa. Del suo cranio, nessuna traccia. (Tre ghast attendono in agguato dietro la porta.)*
@@ -94,9 +74,6 @@
 
 ### Area 9a — Corridoio Trappolato
 > *Un lungo corridoio che si restringe a dieci piedi verso est, dove due bugbear montano la guardia. Uno vi intima l'alt, l'altro grida una domanda: "Quanti occhi ha Xanathar?" — e attende la risposta con la balestra pronta.*
-
-### Area 9b — La Banda di Shunn *(snodo Xanathar + seme Vorador — vedi capitolo)*
-> *Lanterne a olio ammaccate, poggiate su blocchi di pietra rovesciati, rischiarano una sala in parte crollata. Casse, barili e sette brande lungo le pareti. Attorno a un fuoco, un gruppo di uomini d'arme e, tra loro, una figura dalla grazia inquietante: pelle scura, otto occhi rossi da ragno, zanne e setole nere che spuntano dalle membra sottili. Due dei suoi uomini vi fissano con uno sguardo troppo vuoto, troppo attento.*
 
 ### Area 9c — Tesoro della Banda
 > *Rastrelliere di pietra reggono barili così marci e vecchi da sfaldarsi al tocco. Al centro, un tavolo di pietra drappeggiato di ragnatele, e sopra, un baule di legno cerchiato d'argento.*
@@ -127,9 +104,6 @@
 ### Area 11a — Corridoio della Degenerazione
 > *Le pareti di questo passaggio sono dipinte con immagini di maghi che sprofondano nella follia e si trasformano in nothic. Una in particolare è vivida oltre il tollerabile: raggi di luce verde e malata esplodono da un grimorio e mutano uno stregone in una gibbering mouther.*
 
-### Area 11b — Il Maestro dell'Invisibile *(snodo Fine Fellows — vedi capitolo)*
-> *Luce di torcia magica e immobile riempie una camera a volta. Su una poltrona imbottita, al centro, una donna si fa servire da presenze invisibili che si muovono nell'aria: al collo porta due simboli sacri, una moneta d'oro e un disco nero orlato di viola. Contro la parete sud, una tavola imbandita di cibo fresco e vino su vassoi di rame, e sopra, un ritratto di Halaster che sorride.*
-
 ---
 
 ## Area 12 — Utensili Nanici / Arch Gate al Livello 5 *(curiosità — spotlight Aelar, vedi capitolo)*
@@ -154,15 +128,9 @@
 ### Area 13f — Miniera Farfugliante
 > *Un tratto di miniera in parte crollato, le pareti striate di vene di rame. Tre masse gorgoglianti di bocche e occhi cominciano a farfugliare all'unisono man mano che vi avvicinate.*
 
-### Area 13g — Colpo Grosso *(snodo Fine Fellows + eco Friedrich — vedi capitolo)*
-> *Rumori di battaglia risuonano già dal corridoio. La sala, dal soffitto basso e in parte crollata, è illuminata da una sola lanterna a terra. In un angolo, un guerriero ferito è stato messo alle strette da una creatura infernale corazzata, alta e insettoide, e da due nothic; ai loro piedi, tre nothic già morti.*
-
 ---
 
 ## Base della Resistenza — Rizzeryl (Area 14)
-
-### Area 14a — Nascondiglio di Rizzeryl *(snodo Zhentarim — seme Fizzra, vedi capitolo)*
-> *La porta è dipinta all'esterno con un darkmantle che cala su un nano ignaro, intento ad ammirare una gemma scintillante. Dentro, una stanza spoglia: nell'angolo sud-ovest una sedia, al centro un tavolo su cui pietre sciolte sono disposte con cura a formare mura e porte — una mappa in miniatura di questo stesso livello.*
 
 ### Area 14b — Caserma dei Ratti Mannari
 > *Otto umani bassi e trasandati dormono su brande sudicie: membra sottili, occhi piccoli e nervosi, vestiti puzzolenti e mal ridotti. Contro la parete sud, un baule di legno non chiuso a chiave.*
@@ -212,9 +180,6 @@
 
 ### Area 20a — Zombie Beholder
 > *Sotto il soffitto alto sei metri fluttua uno zombie beholder, fuori dalla portata di una spada. Attorno all'occhio centrale è dipinto in bianco un cerchio con dieci raggi — il simbolo di Xanathar. Da ovest arrivano suoni di finta battaglia.*
-
-### Area 20b — Caserma dell'Avamposto *(snodo Xanathar — vedi capitolo)*
-> *Quindici amache di cuoio agganciate alle pareti. Sul pavimento, dipinto in sangue, un cerchio di tre metri con dieci raggi. Al centro, in piedi con un lungo palo tra le mani, una donna di due metri, spalle possenti, chioma nera e arruffata, che usa il bastone per scaraventare in giro i suoi sottoposti — cinque uomini d'arme e cinque bugbear — in una gara a chi la spinge fuori dal cerchio.*
 
 ### Area 20c — Arch Gate al Livello 6 *(curiosità — non praticabile ora, vedi capitolo)*
 > *Un corridoio con tre alcove. In quella a nord, incastonato nella parete di fondo, un arco di pietra; nella chiave di volta è scolpita l'immagine di un rust monster.*
@@ -272,7 +237,7 @@
 > *Quattro pilastri di marmo bianco sorreggono il soffitto, ciascuno scolpito a forma di elfa impassibile in vesti fluenti, un ramo fiorito stretto al petto, il volto rivolto verso il centro. Attorno a loro cammina in cerchio, in senso antiorario, un automa a quattro braccia con l'arco pronto, ticchettando a ogni passo.*
 
 ### Aree 25b-25r — Statue Realistiche
-> *Una serie di stanze e alcove ospita creature pietrificate, ognuna congelata nel gesto in cui la pietra l'ha colta — bestie, umanoidi, aberrazioni. Sono troppo realistiche per essere sculture. (Tra queste: un mind flayer, una statua di Halaster e un giovane ratto mannaro in forma umana. Vedi manuale per il contenuto di ciascuna alcova.)*
+> *Una serie di stanze e alcove ospita creature pietrificate, ognuna congelata nel gesto in cui la pietra l'ha colta — bestie, umanoidi, aberrazioni. Sono troppo realistiche per essere sculture. (Tra queste: un **mind flayer** singolo e isolato — reperto per Vorador — una statua di Halaster e un giovane ratto mannaro in forma umana. Vedi manuale per il contenuto di ciascuna alcova.)*
 
 ---
 
@@ -295,14 +260,24 @@
 
 ---
 
-## Aree snodo (contesto narrativo nel capitolo)
+## Aree snodo (read-aloud + scena completa nel capitolo)
 
-Queste aree hanno il testo d'atmosfera qui sopra, ma il loro **ruolo nella trama** (PNG chiave, ganci, fazioni) è nel capitolo `campagna-sottomonte/capitoli/livello-02-arcane-chambers.md`:
+Queste aree hanno il loro read-aloud d'ingresso (`[BOXED TEXT — ID: BT-L2-N]`) **dentro** la scena
+giocabile nel capitolo `campagna-sottomonte/capitoli/livello-02-arcane-chambers.md` — non sono
+duplicate qui:
 
-- **Area 1c, 1e** — Glom (via per il L3) e Copper Stormforge / Yek (goblin + primo dei Fine Fellows)
-- **Area 2d, 3, 7c** — apprendisti divorati dalla magia (filo di Razak: Kalabash, Burattino, Trenzia)
-- **Area 4, 9b** — intellect devourer (seme illithid di Vorador — continuità con Nihiloor)
-- **Area 11b, 13g** — Midna e Rex (Fine Fellows; chiusura dell'arco di Halleth)
-- **Area 14a** — Rizzeryl (contatto Zhentarim → Skullport; seme di Fizzra)
-- **Area 20b** — Nadia the Unbent (secondo avamposto Xanathar)
-- **Aree 5, 12, 20c** — arch gate a L4/L5/L6: curiosità non praticabili (Lv 8-9+), non vie di discesa
+- **Area 1c** — Glom, la goblin che sa dove sono le scale per il L3 (`BT-L2-1` bazar)
+- **Area 1d** — Sala del Mercato / bazar goblin (`BT-L2-1`)
+- **Area 1e** — Yek il Tall + Copper Stormforge, primo dei Fine Fellows (`BT-L2-2`)
+- **Area 2d** — Kalabash, l'apprendista impazzito (`BT-L2-10`, filo Razak)
+- **Area 3** — Il Burattino di Halaster (`BT-L2-9`, filo Razak)
+- **Area 4** — Campo abbandonato / corpo di intellect devourer (`BT-L2-5`, seme Vorador)
+- **Area 7c** — Trenzia flameskull + flesh golem (`BT-L2-11`, filo Razak)
+- **Area 9b** — Shunn Shurreth / avamposto Spider Eyes (`BT-L2-6`, Xanathar + seme Vorador)
+- **Area 11b** — Midna Tauberth (`BT-L2-4`, chiusura missione Fine Fellows/Halleth)
+- **Area 13g** — Rex the Hammer + mezzoloth (`BT-L2-3`, missione Fine Fellows + eco Friedrich)
+- **Area 14a** — Rizzeryl, il contatto Zhentarim → Skullport (`BT-L2-8`, seme Fizzra)
+- **Area 20b** — Nadia the Unbent / avamposto Dead Eyes (`BT-L2-7`, Xanathar)
+
+Le **curiosità non praticabili** (arch gate delle aree 5, 12, 20c — Lv 8-9+) restano qui sopra come
+read-aloud d'ingresso, col contesto nel capitolo ("La discesa a Skullport").
