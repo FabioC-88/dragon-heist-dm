@@ -44,3 +44,21 @@
 - Aggiornare lo **Stato** dopo ogni sessione giocata (recap story-focused), e riflettere l'avanzamento
   nel file capitolo del livello corrispondente e in `contesto-sottomonte.md`.
 - Aggiornare `ai/knowledge/party.md` (gancio personale di ciascun PG) quando un gancio viene giocato.
+
+### Capitoli preparati — cosa atterra dove (aggiornato: L4)
+
+- **L4 Twisted Caverns** *(preparato — vedi `campagna-sottomonte/capitoli/livello-04-twisted-caverns.md`)*.
+  Livello **connettivo**, non c'è una quest DotMM che atterra qui, ma:
+  - **Arco Casa Auvryndar (connettivo L3→L10):** **Melith Auvryndar** (sorella di T'rissa, già nominata
+    dalle confessioni del L3) guida un avamposto drow e offre il **patto della zattera** — l'unica via a
+    L5 in cambio della testa dell'aboleth o dell'archiprete kuo-toa. La consorte **Thirza** tradisce
+    Melith con un *sending* a **Vlonwelv** → **seme del payoff L10** (Muiral's Gauntlet). *Filo da segnare
+    "In corso" a fine sessione se il party stringe il patto.*
+  - **Filo Razak (pervasivo — follia più antica):** **Darribeth Meltimer**, avventuriera impazzita
+    nell'Underdark (variante *salvabile* di Preeta Kreepa/L3); l'aboleth come "coscienza più antica";
+    eventuale apparizione di Halaster.
+  - **Continuità DH (Aelar/party):** **Illuun**, un aboleth *libero*, riconosce **Golorr** nello Stone of
+    Golorr al collo di Aelar — eco diretta di Dragon Heist.
+  - **Porta di Aelar:** il **Fiume delle Profondità** scende a **L5 Wyllowwood** (tasca fey di Trobbio) →
+    aggancio poco profondo del suo gancio planare/Nilshai. Aggiornare `contesto-sottomonte.md`
+    (Livello dungeon corrente → 5) quando il party naviga il fiume.
