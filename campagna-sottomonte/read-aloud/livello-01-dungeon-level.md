@@ -1,17 +1,14 @@
 # Read-aloud — Livello 1: Dungeon Level
 
-> Testi brevi da leggere ai PG all'ingresso delle aree di questo livello. Le aree con un vero snodo
-> narrativo (1, 27, 37) hanno già il loro testo curato nel capitolo:
-> `campagna-sottomonte/capitoli/livello-01-dungeon-level.md`. Qui sotto: tutte le altre aree keyed,
-> comprese quelle di rilevanza strategica (2b, 6-8, 16, 21, 31, 39a) per cui il capitolo dà solo il
-> contesto narrativo, non la descrizione sensoriale d'ingresso. Meccaniche, trappole e scontri:
+> Testi brevi da leggere ai PG all'ingresso delle aree di questo livello. Le aree **snodo**
+> (1, 2b, 6-8, 21, 27, 31, 37, 39a) hanno il loro read-aloud d'ingresso **nel capitolo** come scena
+> completa: `campagna-sottomonte/capitoli/livello-01-dungeon-level.md` — non sono duplicate qui (vedi
+> l'elenco in fondo). Qui sotto: tutte le altre aree keyed, comprese le due di solo colore atmosferico
+> a cui il capitolo rimanda (16, 29 — gli occhi di Halaster). Meccaniche, trappole e scontri:
 > manuale originale alla mano.
 
 ## Area 2a — Corridoio dei Demoni
 > *Ogni tratto di parete, per dieci piedi, nasconde una nicchia scavata a forma di porta: dentro, un bassorilievo diverso raffigura un demone. Sul pavimento, uno scheletro di kenku giace con un braccio sottile teso verso una delle sculture, come se indicasse qualcosa anche da morto.*
-
-## Area 2b — Foresta di Pilastri
-> *Decine di colonne di pietra si perdono nel buio di una sala vasta. Sulla parete sud-est, incise in comune: "Morte certa da questa parte!", con una freccia che punta a sud. Lo scheletro di un serpente gigante è avvolto attorno al pilastro più a nord, così fragile che sembra potersi sgretolare al primo tocco.*
 
 ## Area 3 — Stanza Inclinata
 > *L'aria puzza di fogna. Il pavimento scende verso ovest, e un'acqua torbida e maleodorante si fa più profonda man mano che si avanza. In una nicchia a nord, una statua a grandezza naturale di un sahuagin, sommersa fino al petto, emana un debole bagliore viola: la testa è girata all'indietro, un braccio manca.*
@@ -21,9 +18,6 @@
 
 ## Area 5 — Covo dei Grell
 > *In fondo a un lungo corridoio, una sala di cinquanta piedi con cinque pilastri fatti di ossa umanoidi intonacate, dipinte di nero. Le nicchie profonde a nord e a est sono disseminate di ossa rosicchiate — perlopiù goblin e grick.*
-
-## Aree 6-8 — Il Covo degli Undertakers
-> *Il corridoio si apre su ambienti abitati: statue di nobili waterdaviani in armatura scintillante, tavoli da gioco sparsi di monete, giacigli disordinati. Da qualche stanza vicina arrivano voci — risate sguaiate, il tintinnio di monete, il fruscio di stoffe teatrali. L'odore di trucco da palcoscenico e sudore umano si mescola nell'aria chiusa.*
 
 ## Area 9 — Sale Saccheggiate
 > *Sei colonne butterate di piccole tacche corrono lungo il corridoio — un tempo incastonate di gemme, ora spoglie. In un angolo nord-ovest, un cumulo arrugginito di armatura in pezzi, i resti di un'armatura animata distrutta anni fa.*
@@ -61,9 +55,6 @@
 ## Area 20 — Oltre la Porta Verde
 > *Una porta di legno verde, incassata nella roccia, reca un volto di ferro battuto sorridente e vagamente sinistro. Dietro, silenzio.*
 
-## Area 21 — Sala degli Specchi *(necessaria per raggiungere l'area 27)*
-> *Nicchie profonde tre piedi corrono lungo le pareti nord e sud, ciascuna con uno specchio ovale incorniciato in pietra pesante — sedici in tutto. Un mozzicone di torcia carbonizzata giace al centro del corridoio. Alcuni degli specchi riflettono la luce in modo leggermente sbagliato, come se il vetro non fosse del tutto d'accordo con la realtà.*
-
 ## Area 22 — Stanza Vuota
 > *Mozziconi di torce bruciate e bottiglie di pozioni vuote suggeriscono che altri avventurieri si sono fermati qui a riposare. Per il resto, nulla.*
 
@@ -88,9 +79,6 @@
 ## Aree 30a-b — L'Elementale Impazzito
 > *Un corridoio a zigzag conduce a una piccola sala di guardia. Da qualche parte, un ululato rabbioso e continuo riecheggia tra le pietre — un suono che non sembra avere un'origine precisa, ma che si avvicina ogni volta che una porta si apre.*
 
-## Area 31 — Sala dei Cercatori *(seme Skullport — vedi capitolo)*
-> *Statue di nani coperte di ragnatele stanno immobili su piedistalli alti due piedi, incastonate in alcove lungo le pareti. Una di esse, verso nord, è stata spostata di lato, lasciando solchi visibili sul pavimento. Uno squittio acuto e continuo — un grosso ratto — si muove nell'ombra al fondo della sala.*
-
 ## Aree 32a-b — Suite VIP
 > *La porta è scolpita con l'immagine di un guerriero nano corazzato, in posizione difensiva dietro uno scudo. Oltre, le pareti sono incise per intero con affreschi di roccia caverna, dando alla stanza un'aria innaturalmente naturale. Una vasca di pietra incassata nel pavimento, con uno scarico e un rubinetto pesante, sembra — sorprendentemente — ancora funzionante.*
 
@@ -106,9 +94,6 @@
 ## Area 38 — Tunnel Segreto
 > *Un corridoio curvo, nascosto dietro porte segrete a entrambe le estremità. Impronte umanoidi nella polvere suggeriscono un traffico intenso e regolare, di andirivieni.*
 
-## Aree 39a — Sala del Re Bicefalo *(uscita del livello — vedi capitolo)*
-> *Una statua deforme di granito raffigura un re nano con una seconda testa, mostruosa e senza tratti, che spunta dal collo. Le sue grandi mani stringono un martello da guerra di pietra, la testa dell'arma piantata ai suoi piedi. A ovest della statua, una scalinata scende, ripida e buia, verso il basso — molto più in profondità di quanto l'occhio riesca a seguire.*
-
 ## Aree 39b-d — Avamposto "Big Ears"
 > *Rumori di rissa e voci gracchianti di goblin riempiono l'aria molto prima di vedere nulla. Più avanti, il calore di una fucina spenta da tempo si avverte ancora nell'aria stantia; un martello di pietra enorme pende da catene di ferro sopra un'incudine.*
 
@@ -117,3 +102,20 @@
 
 ## Area 41 — Il Soffitto Incrinato
 > *Una crepa larga cinque piedi e profonda quarantacinque si apre nel soffitto a trenta piedi d'altezza, riversando detriti sul pavimento sottostante. Due carriole di pietra, colme di picconi e pale arrugginiti, sono parcheggiate nell'angolo nord-ovest. Dall'alto della fenditura, un fruscio di ali membranose, tante, si agita appena disturbato.*
+
+---
+
+## Aree snodo (read-aloud + scena completa nel capitolo)
+
+Queste aree hanno il loro read-aloud d'ingresso (`[BOXED TEXT — ID: BT-L1-N]`) **dentro** la scena
+giocabile nel capitolo `campagna-sottomonte/capitoli/livello-01-dungeon-level.md` — non sono
+duplicate qui:
+
+- **Area 1** — Il Pozzo d'Ingresso (`BT-L1-1`)
+- **Area 2b** — Foresta di Pilastri / primo intellect devourer (`BT-L1-2`, seme Vorador)
+- **Aree 6-8** — Il Covo degli Undertakers (`BT-L1-3`, snodo di fazione)
+- **Area 21** — Sala degli Specchi / maschera di Halaster (`BT-L1-4`, prerequisito per l'area 27)
+- **Area 27** — Il Simulacro di Halaster (`BT-L1-5`, `BT-L1-6`, snodo Razak)
+- **Area 31** — Sylvia Featherstone, la spia (`BT-L1-7`, seme Skullport)
+- **Area 37** — Sala della Mappa + missione Halleth / Fine Fellows (`BT-L1-8`, `BT-L1-9`)
+- **Area 39a** — Sala del Re Bicefalo / uscita del livello (`BT-L1-10`)

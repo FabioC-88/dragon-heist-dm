@@ -36,6 +36,18 @@ Leggi `ai/knowledge/campagne.md`, determina la **campagna attiva** e prendi: `mo
   la campagna** del livello (PNG chiave, snodi, ganci/quest che atterrano lì) senza walkthrough
   stanza-per-stanza, e che sia coerente coi read-aloud (`{read_aloud_path}`) e col `{contesto_path}`.
 
+  **Checklist snodi (capitoli-dungeon) — applica e correggi:** per **ogni** area marcata `**Sì**`
+  (snodo) nell'"Elenco Aree Keyed", verifica che sia scritta come **scena giocabile completa**:
+  - [ ] read-aloud d'ingresso `[BOXED TEXT — ID: BT-Lnn-N]`;
+  - [ ] almeno un blocco di **dialogo PNG** (tabella `Quesito | Risposta` o monologo con cue);
+  - [ ] **meccaniche/CD** in formato `Caratteristica (Abilità) CD X`, o tabella posizioni + tattiche se c'è combattimento;
+  - [ ] un blocco **rami** (`Ramo attivo/alternativo` o `Punto di scelta del party`);
+  - [ ] una riga **ricompensa** (`[[/award …]]` + oggetti/XP dove la fonte li prevede).
+  Se uno snodo è ridotto a un solo `[NOTA DM]` in prosa → **non approvato: espandilo** col template
+  (`ai/agents/AGENTS.md` → "Standard di scrittura per capitoli-dungeon"). Verifica anche la
+  **non-duplicazione**: i `[BOXED TEXT]` degli snodi stanno nel capitolo, **non** anche nel file
+  read-aloud (che li rimanda in fondo).
+
 ## Istruzioni Operative
 
 ### Step 1 — Leggi i file di riferimento

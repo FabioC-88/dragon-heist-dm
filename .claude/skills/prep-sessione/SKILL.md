@@ -90,6 +90,12 @@ Se il capitolo non è cambiato: stampa `⏭ Step 6.5 saltato (nessuna transizion
 
 Target = un **livello di dungeon**. Nessun conteggio "prossima sessione", nessun sizing a tempo.
 
+> **Standard di scrittura (vincolante):** gli **snodi** di trama/missione del livello (aree marcate
+> `**Sì**`) vanno scritti come **scene giocabili complete** — read-aloud `[BOXED TEXT — ID: BT-Lnn-N]`,
+> dialoghi PNG, meccaniche/CD, tattiche, rami e ricompense `[[/award …]]` — **non** come appunti
+> `[NOTA DM]`. Le stanze non-snodo → solo read-aloud breve (Step 9). Template e regola d'oro in
+> `ai/agents/AGENTS.md` → "Standard di scrittura per capitoli-dungeon"; esempi in `livello-01`/`livello-02`.
+
 - **Step 1 — Estrazione per rilevanza** (`01-session-extractor`, Modalità B): dal `{libro_fonte}`, estrai
   solo il materiale **rilevante per la campagna** del livello + l'elenco delle aree keyed.
 - **Step 2 — Traduzione IT** (`02-session-translator`).

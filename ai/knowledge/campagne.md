@@ -104,6 +104,11 @@ farà in 2h30m. Perciò:
   per la campagna** (PNG chiave, snodi story-defining, ganci personali e quest DotMM che atterrano
   lì) — **non** un walkthrough stanza-per-stanza, **non** dimensionato sul tempo. Gli scontri non
   influenti li gestisce il DM col manuale originale.
+- **Gli snodi di trama/missione si scrivono come SCENE GIOCABILI complete**, non come appunti
+  accennati: read-aloud d'ingresso (`[BOXED TEXT — ID: BT-Lnn-N]`), dialoghi PNG, meccaniche/CD,
+  tattiche, rami di risoluzione e ricompense (`[[/award …]]`) — alla profondità delle note-sessione
+  di Dragon Heist. Uno snodo ridotto a un solo `[NOTA DM]` in prosa **non** è accettabile. Template
+  e regola d'oro autorevoli in `ai/agents/AGENTS.md` → "Standard di scrittura per capitoli-dungeon".
 - **Per le stanze non importanti** serve solo un **breve read-aloud** da leggere all'ingresso,
   **pre-generato per livello** in `{read_aloud_path}livello-NN-<slug>.md` (agente 09), coerente col
   capitolo e col boxed text originale.

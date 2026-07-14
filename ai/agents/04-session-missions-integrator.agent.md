@@ -37,7 +37,14 @@ Leggi `ai/knowledge/campagne.md`, determina la **campagna attiva** e prendi: `mo
 - **`fazioni_path` = `n/d` (es. Sottomonte):** modalità **quest-pool** — non esistono missioni di
   fazione M1-M4. Leggi `{stato_missioni_path}`: è il pool dei **5 ganci personali** + le **quest
   canoniche DotMM**, ciascuno con il **livello di dungeon dove atterra**. Integri **solo i fili che
-  atterrano sul livello in preparazione**. Il meccanismo (hook nei momenti di respiro) è identico.
+  atterrano sul livello in preparazione**.
+  > **In modalità quest-pool i fili che atterrano sul livello vanno scritti come SCENE GIOCABILI
+  > complete** (non hook accennati): read-aloud d'ingresso (`[BOXED TEXT — ID: BT-Lnn-N]`), dialoghi
+  > PNG (tabella `Quesito | Risposta` o monologhi), meccaniche/CD, tattiche, **rami** (`Ramo attivo
+  > se / alternativo se`, `Punto di scelta del party`) e **ricompense** (`[[/award …]]` + oggetti +
+  > XP), col template "Scena Snodo / Missione" (`ai/agents/AGENTS.md` → "Standard di scrittura per
+  > capitoli-dungeon"). Esempi reali: la missione Halleth/Fine Fellows in `livello-01` e `livello-02`.
+  > Una quest che atterra su questo livello **non** può restare un solo `[NOTA DM]` in prosa.
 
 ---
 
