@@ -45,7 +45,7 @@
   nel file capitolo del livello corrispondente e in `contesto-sottomonte.md`.
 - Aggiornare `ai/knowledge/party.md` (gancio personale di ciascun PG) quando un gancio viene giocato.
 
-### Capitoli preparati — cosa atterra dove (aggiornato: L7)
+### Capitoli preparati — cosa atterra dove (aggiornato: L8)
 
 - **L4 Twisted Caverns** *(preparato — vedi `campagna-sottomonte/capitoli/livello-04-twisted-caverns.md`)*.
   Livello **connettivo**, non c'è una quest DotMM che atterra qui, ma:
@@ -108,3 +108,33 @@
     letale a Lv 9, pensato per essere sbirciato più che affrontato).
   - **Percorso in avanti:** discesa naturale al **L8 Slitherswamp** via il tunnel dell'area 8; le
     porte magiche delle aree 22/29/41 restano opzioni per chi ha già il livello richiesto (Lv 10-11+).
+
+- **L8 Slitherswamp** *(preparato — vedi `campagna-sottomonte/capitoli/livello-08-slitherswamp.md`)*.
+  **Nessun gancio personale né quest DotMM ha un payoff assegnato a questo livello** nella mappatura
+  attuale (nessuna voce della tabella indica L8). Il capitolo lavora comunque su:
+  - **Filo Razak (pervasivo):** **Kuketh**, uno slaad della morte reso re dei bullywug Blacktongue
+    contro la propria volontà da una gemma di controllo che Halaster custodisce sul **L9
+    Dweomercore** — un'altra marionetta del Mago Folle, capovolta rispetto ai giganti amnesici del L7
+    (lì memoria rubata, qui libertà rubata). Il filo non si chiude qui: la gemma è fisicamente
+    altrove, quindi qualunque alleanza il party stringa con Kuketh resta un debito aperto da
+    richiamare in fase di prep del L9.
+  - **Seme in avanti verso il L9 (non un gancio tracciato, continuità narrativa nello stile già usato
+    al L4→L10 e al L6→L3):** **Karstis**, mago-vedetta di Dweomercore nascosto nelle aree 7-8,
+    anticipa concretamente ciò che aspetta Aelar e Friedrich al L9 — un "diavolo delle ossa fuggito"
+    che il preside di Dweomercore vuole indietro (aggancio diretto per il debito di Friedrich con
+    Asmodeo) e un accenno che il preside "non ha il retrogusto giusto" per essere davvero Halaster
+    (ennesima maschera per il presagio di Razak, e seme dell'arcanaloth-in-disguise che i PG
+    scopriranno solo al L9). **Annotare in fase di prep L9:** se Karstis è stato lasciato in vita
+    ostile, ricompare all'area 8c di Dweomercore; se alleato/informale, può facilitare l'arrivo.
+  - **Spina strutturale propria** (non collegata ai ganci del party, ma scritta come scene giocabili
+    complete): la guerra a tre tra le **Ssethiane Flagellatrici** (naga spiritali Excrutha/Serakath),
+    i **Blacktongue** (bullywug sudditi di Kuketh) e **Dweomercore** (Karstis); il fantasma
+    manipolatore **Yoastal** nel Tempio del Grande Serpente (area 9), che offre la mappa del livello
+    in cambio della morte delle naga sue assassine — un'informazione mai neutrale.
+  - **Payoff di continuità minore (non un gancio tracciato):** la **chiave di pietra** recuperata nel
+    nascondiglio di Rizzeryl al L2 ("Trovami sul Livello Perduto. Cerca la sua gemella a
+    Slitherswamp") apre qui l'arco verso il L6 (area 3) — pura soddisfazione di continuità per chi
+    ricorda ancora l'oggetto.
+  - **Percorso in avanti:** nessun tunnel esplicito da manuale verso il L9 Dweomercore (i tre portali
+    del livello conducono altrove: L6, L10, L11). Il ponte narrativo è **Karstis**: guida il party se
+    alleato, oppure fugge in quella direzione se sconfitto — annotare quale, per la prep del L9.
