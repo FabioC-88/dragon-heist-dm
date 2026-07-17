@@ -45,7 +45,7 @@
   nel file capitolo del livello corrispondente e in `contesto-sottomonte.md`.
 - Aggiornare `ai/knowledge/party.md` (gancio personale di ciascun PG) quando un gancio viene giocato.
 
-### Capitoli preparati — cosa atterra dove (aggiornato: L13)
+### Capitoli preparati — cosa atterra dove (aggiornato: L14)
 
 - **L4 Twisted Caverns** *(preparato — vedi `campagna-sottomonte/capitoli/livello-04-twisted-caverns.md`)*.
   Livello **connettivo**, non c'è una quest DotMM che atterra qui, ma:
@@ -281,3 +281,35 @@
   - **Percorso in avanti:** i tunnel scavati dal bore worm proseguono verso il **L14 — Arcturiadoom**
     (fire giants, hobgoblin di Doomcrown, un contingente drow infiltrato — nessuna quest ancora mappata
     su questo livello, verificare in fase di prep se emergono fili nuovi dalla fonte primaria).
+
+- **L14 Arcturiadoom** *(preparato — vedi `campagna-sottomonte/capitoli/livello-14-dominio-di-arcturia.md`)*.
+  **Nessuno dei cinque ganci personali ufficiali né delle quest del quest-pool formale ha un payoff
+  assegnato a questo livello** — confermato in fase di prep (la nota lasciata al L13 chiedeva di
+  verificare se emergevano fili nuovi dalla fonte primaria: emergono, ma nessuno dei cinque). Il
+  capitolo lavora su **tre fili di continuità non ufficiali**, con lo stesso peso di uno snodo:
+  - **Ponte diretto dal L13:** i predoni hobgoblin di **Kurlog** e **Yargoth** rispondevano a
+    **Doomcrown** (nato Azrokkog, figlio rinnegato del Warlord **Azrok** di Skullport/L3), che governa
+    questo livello insieme ai giganti del fuoco di **Emberosa** per conto di Halaster. L'accoglienza
+    che il party riceve da Doomcrown (area 33) dipende direttamente da come ha chiuso lo snodo dei
+    predoni al L13. Un flumph telepatico legato a Doomcrown lo sta lentamente logorando con una
+    nostalgia aliena dell'Underdark — nessun payoff meccanico, solo caratterizzazione.
+  - **Payoff del seme "Libera Alussiarr"** piantato da **Preeta Kreepa** al **L3** (vedi
+    `livello-03-sargauth-skullport.md`): **Alussiarr**, il "uomo magico" di cui Arcturia usa il sangue
+    per i propri rituali, è in realtà un **rakshasa** vincolato in area 39a. Liberarlo (distruggendo il
+    sigillo sopra la porta) dà accesso alla filatteria/grimorio di Arcturia e a una chiave di mithral,
+    ma libera nel mondo un fiend che intende "lavorare ogni sorta di male a Waterdeep" — costo morale
+    esplicito, nessun payoff a breve termine forzato. **Annotare se il party lo libera.**
+  - **Continuità politica di Casa Freth (arco L4→L10→L11→L12, Auvryndar/Freth):** tre maghi drow di
+    Casa Freth (Hulziin, Yrrprek, **Vanar Freth**) hanno infiltrato il livello in cerca di magia per
+    "conquistare altri livelli di Sottomonte" — un'eco diretta di quell'arco qualunque sia stato il
+    suo esito al L12. Vanar (area 29) evita lo scontro ed è disposto a negoziare.
+  - **Filo Razak (pervasivo) — il payoff visibile più diretto finora:** **Mecha-Halaster** (area 15),
+    un colosso di ferro alto trenta metri a immagine di Halaster, in costruzione dai giganti del fuoco
+    per conto del Mago Folle stesso, in cambio di una runa di potere. La **filatteria di Arcturia**
+    (area 40, una delle Sette apprendiste di Halaster) è un investimento strategico opzionale per
+    l'eventuale confronto al **L23 — Mad Wizard's Lair**, dove Arcturia potrebbe comparire accanto al
+    proprio maestro. **Annotare se il party ha preso la filatteria** (resta in sospeso finché non si
+    procura un mimic per distruggerla).
+  - **Percorso in avanti:** l'area 41 (Watchful Pillars) scende direttamente al **L15 — Obstacle
+    Course**. Restano tre gate di Halaster come vie alternative (verso L12, L9, L17) per chi vuole
+    deviare o risalire.
