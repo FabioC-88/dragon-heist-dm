@@ -45,7 +45,7 @@
   nel file capitolo del livello corrispondente e in `contesto-sottomonte.md`.
 - Aggiornare `ai/knowledge/party.md` (gancio personale di ciascun PG) quando un gancio viene giocato.
 
-### Capitoli preparati — cosa atterra dove (aggiornato: L8)
+### Capitoli preparati — cosa atterra dove (aggiornato: L9)
 
 - **L4 Twisted Caverns** *(preparato — vedi `campagna-sottomonte/capitoli/livello-04-twisted-caverns.md`)*.
   Livello **connettivo**, non c'è una quest DotMM che atterra qui, ma:
@@ -138,3 +138,38 @@
   - **Percorso in avanti:** nessun tunnel esplicito da manuale verso il L9 Dweomercore (i tre portali
     del livello conducono altrove: L6, L10, L11). Il ponte narrativo è **Karstis**: guida il party se
     alleato, oppure fugge in quella direzione se sconfitto — annotare quale, per la prep del L9.
+
+- **L9 Dweomercore** *(preparato — vedi `campagna-sottomonte/capitoli/livello-09-dweomercore.md`)*.
+  **Primo livello dove atterrano contemporaneamente due ganci personali tracciati**, come da
+  mappatura in `contesto-sottomonte.md`: il filo planare/Nilshai di **Aelar** ("accademia di maghi
+  con fughe planari") e il debito con Asmodeo di **Friedrich**/party ("arcanaloth custode di
+  contratti + diavoli vincolati"). Nessuno dei due è il payoff profondo finale (Aelar prosegue verso
+  L22 Shadowdusk Hold; Friedrich resta "a discrezione del DM"), ma entrambi diventano qui concreti e
+  nominati per la prima volta — non più solo accennati:
+  - **Aelar:** l'intero livello (uno yugoloth-preside, diavoli vincolati, una strega notturna, tutti
+    convocati a questa profondità) è la prova materiale del nodo planare che Remallia Haventree gli
+    ha assegnato di indagare; il diario di Skrianna Shadowdusk (area 11b, sogni del Regno Remoto,
+    l'amante "Acamar dal vuoto oltre il cielo") aggiunge un secondo filo indipendente.
+  - **Friedrich:** il diavolo delle ossa intrappolato nelle aree 47a-c — vincolato da un patto
+    ereditato da un evocatore ormai morto, proprio come il debito di Krauser con Aldric/Asmodeo — è
+    lo specchio più diretto e nominato finora del proprio arco. Liberarlo o eliminarlo è un punto di
+    scelta deliberatamente lasciato aperto per il tavolo.
+  - **Filo Razak (pervasivo):** il payoff visibile per questo livello — la maschera di Halaster più
+    convincente della campagna finora, un **arcanaloth** che si spaccia per il Mago Folle e governa
+    l'intera accademia (area 1a/15a), a differenza dello slaad grigio del L6 (costume smascherato
+    presto) o dei volti amnesici del L7 (eco senza sostanza). Il vero santuario di Halaster (area 45)
+    è invece la prova fisica, tangibile, del suo potere reale al di là della maschera.
+  - **Payoff/bridge dal L8 — la gemma di Kuketh:** confermato dalla fonte primaria (area 45b): la
+    gemma di controllo del death slaad del Livello 8 è custodita nello studio privato del vero
+    Halaster. Il debito aperto a Slitherswamp diventa qui concretamente risolvibile (distruggere/
+    sottrarre la gemma libera Kuketh, non ancora narrato — da richiamare quando la campagna lo
+    riterrà opportuno) — **annotare l'esito scelto dal party** in fase di recap.
+  - **Ponte da Karstis (L8):** se lasciato ostile, ricompare nella propria stanza (area 8c) e fugge o
+    chiama aiuto; se alleato/informale, aspetta il party e conferma il filo su Halaster/il preside.
+  - **Continuità minore (non un gancio tracciato):** Cephalossk il mind flayer arcanista (aree 7/11d)
+    offre a **Vorador** la prima conferma diretta e nominata del filo Seadeeps/colonia illithid
+    (Livello 17) aperto al L3 — non il payoff, ma la prova che il sospetto era fondato.
+  - **Percorso in avanti:** via principale verso il L10 Muiral's Gauntlet dalle scale dell'area 44 o
+    dal pozzo dell'area 41 (sopra l'altare dell'area 3b del L10) — nessuna scelta di bivio come ai
+    livelli precedenti. **Nota:** L10 è dove atterra il payoff del filo Auvryndar seminato al L4
+    (Thirza → Vlonwelv, Muiral's Gauntlet) — tenerlo a mente in fase di prep del L10.
