@@ -45,7 +45,7 @@
   nel file capitolo del livello corrispondente e in `contesto-sottomonte.md`.
 - Aggiornare `ai/knowledge/party.md` (gancio personale di ciascun PG) quando un gancio viene giocato.
 
-### Capitoli preparati — cosa atterra dove (aggiornato: L12)
+### Capitoli preparati — cosa atterra dove (aggiornato: L13)
 
 - **L4 Twisted Caverns** *(preparato — vedi `campagna-sottomonte/capitoli/livello-04-twisted-caverns.md`)*.
   Livello **connettivo**, non c'è una quest DotMM che atterra qui, ma:
@@ -257,3 +257,27 @@
   - **Percorso in avanti:** discesa naturale dall'area 13 (Roundabout, bore worm) al **L13 —
     Trobriand's Graveyard**. Vie alternative non narrative: Cancello Fisso area 12a (L14, Lv 13+,
     incantesimo *labirinto*), Cancello Fisso area 8b (L19, Lv 15+), Specchio area 6b (risalita al L10).
+
+- **L13 Trobriand's Graveyard** *(preparato — vedi `campagna-sottomonte/capitoli/livello-13-cimitero-di-trobriand.md`)*.
+  **Nessuno dei cinque ganci personali ufficiali né delle quest DotMM ha un payoff assegnato a questo
+  livello**, e — a differenza di quasi tutti i livelli precedenti — **la fonte primaria non contiene
+  alcuna apparizione o eco diretta di Halaster** da intrecciare al filo pervasivo di Razak (solo il
+  fatto, già noto, che Trobriand ne è un apprendista fedele che preferisce restare al L23 anziché
+  presidiare questo suo laboratorio — trattato come nota di colore, non come scena). Il capitolo
+  lavora sulla propria spina strutturale indipendente:
+  - **Zox Clammersham**, gnomo sopravvissuto che si spaccia per apprendista di Trobriand e comanda gli
+    scaladar del livello con un anello rubato — potenziale alleato informale, non un ostacolo pensato
+    per essere abbattuto.
+  - **I predoni hobgoblin di Doomcrown** (Kurlog all'area 2b, Yargoth all'area 11a): rispondono allo
+    stesso signore della guerra hobgoblin che governa **L14 — Arcturiadoom** per conto dei giganti del
+    fuoco al servizio di Halaster. **Ponte diretto verso il L14: annotare se il party ha aiutato o
+    eliminato i predoni di Doomcrown, e se ha preso l'anello di comando di Zox** — condiziona
+    l'accoglienza al livello successivo.
+  - **Continuità dal L4→L10 e dal L6→L3/L8→L9 (stesso stile):** la chiave di scorta di Zox, lasciata in
+    piena vista all'area 14 del L12, permette un ingresso pacifico al suo palazzo se il party l'ha
+    raccolta.
+  - **Chanterella**, sovrana myconid superstite di un attacco hobgoblin: un piccolo atto di misericordia
+    opzionale, nessun gancio.
+  - **Percorso in avanti:** i tunnel scavati dal bore worm proseguono verso il **L14 — Arcturiadoom**
+    (fire giants, hobgoblin di Doomcrown, un contingente drow infiltrato — nessuna quest ancora mappata
+    su questo livello, verificare in fase di prep se emergono fili nuovi dalla fonte primaria).
