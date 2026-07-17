@@ -45,7 +45,7 @@
   nel file capitolo del livello corrispondente e in `contesto-sottomonte.md`.
 - Aggiornare `ai/knowledge/party.md` (gancio personale di ciascun PG) quando un gancio viene giocato.
 
-### Capitoli preparati — cosa atterra dove (aggiornato: L10)
+### Capitoli preparati — cosa atterra dove (aggiornato: L11)
 
 - **L4 Twisted Caverns** *(preparato — vedi `campagna-sottomonte/capitoli/livello-04-twisted-caverns.md`)*.
   Livello **connettivo**, non c'è una quest DotMM che atterra qui, ma:
@@ -203,3 +203,33 @@
     guidata: il fiume sotterraneo della Caverna Naturale (area 30), che si tuffa nell'Underdark.
     **Nota:** nessun gancio o quest DotMM risulta ancora mappato sul L11 (Troglodyte Warrens) —
     verificare in fase di prep se emergono fili nuovi dalla fonte primaria.
+
+- **L11 Troglodyte Warrens** *(preparato — vedi `campagna-sottomonte/capitoli/livello-11-covili-dei-troglodyti.md`)*.
+  **Nessuno dei cinque ganci personali ufficiali né delle quest DotMM ha un payoff assegnato a questo
+  livello** — confermato in fase di prep (la nota lasciata al L10 chiedeva di verificare se emergevano
+  fili nuovi dalla fonte primaria: il filo nuovo che emerge non è uno dei cinque, ma una continuità
+  strutturale diretta dal L10). Il capitolo lavora su:
+  - **Continuità diretta dal bivio politico del L10 (Auvryndar/Freth):** il livello è, per fonte
+    primaria, un campo di battaglia aperto fra **Casa Auvryndar** (dal L10, qui rappresentata
+    dall'avamposto dell'area 1 e dalla comandante **Shindreer Argonrae** all'area 12) e **Casa Freth**
+    (dal L12, qui rappresentata dal mago **Spirreth Dalambra**, succeduto a **Beranica Freth** caduta
+    in battaglia — sorella di **Erelal Freth**, che comanda la fortezza di Casa Freth al L12). Il
+    trattamento che il party riceve all'area 1 e all'area 12 dipende direttamente da come ha chiuso
+    lo snodo Vlonwelv/Xarann al L10 (fedeltà a Vlonwelv, alleanza con Xarann/Freth, o entrambe). Se
+    Vlonwelv è stata uccisa, Shindreer — che già ambiva a spodestarla — si infuria comunque per
+    esserne stata privata e attacca il party a vista.
+  - **Filo Razak (pervasivo):** cambia registro rispetto ai livelli precedenti — non più un servitore
+    (Muiral, L10) o una maschera (l'arcanaloth, L9), ma **vittime impersonali e casuali** della magia
+    residua di Halaster: la Formazione di Halaster (area 7e, un'offerta troglodyte a un volto scolpito
+    dal caso) e il behir modificato con rune arcane (area 17).
+  - **Spina strutturale propria** (non collegata ai ganci del party, ma scritta come scena giocabile
+    completa): l'ultimo clan libero di troglodyti (**Kol'daan**, area 7), schiacciato fra Auvryndar e
+    Freth, che non li considerano altro che manodopera o cibo per i propri eserciti.
+  - **Percorso in avanti:** nessun tunnel lineare esplicito. Il ponte narrativo principale è
+    **Spirreth Dalambra** (area 12, se aiutato/catturato): offre un'udienza con Erelal Freth al L12 —
+    ma è una bugia, un tentativo di consegnare il party come presunti colpevoli della morte di
+    Beranica Freth (stesso schema di tradimento già visto con Xarann al L10). Via alternativa non
+    guidata: intensificare la pressione contro Casa Freth su questo livello come apertura di fatto
+    per un'incursione diretta al L12. **Annotare in fase di prep L12:** quale casa drow il party ha
+    aiutato qui (Auvryndar o Freth), sorte di Shindreer/Spirreth, se il party ha accettato o scoperto
+    l'inganno di Spirreth.
