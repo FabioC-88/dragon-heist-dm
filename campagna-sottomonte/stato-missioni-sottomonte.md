@@ -34,6 +34,7 @@
 | Consegna a Cal'al Claddani (Flagon and the Dragon) | Mattrim "Tre Corde" Mereg *(Arpista, già contatto DH)* | L3 — Skullport | Pianificata | Indica il rifugio Arpista Dalagor's Fortress (Skullport alto). Comodo per collegare Aelar/Vorador/Fizzra a L3 |
 | Recupera oggetti magici per Wakanga O'tamu | Obaya Uday (sacerdotessa di Waukeen) | variabile | Pianificata | Gancio opzionale "quest board" |
 | Frammento di Runestone per Laeral | Jalester (agente di Laeral Silverhand) | L20 — Runestone Caverns | Pianificata | Filo lungo; lega la campagna a un'autorità già nota. Da seminare presto, riprendere in profondità |
+| Scopri la Spia Telepatica *(scoperta in fase di prep L17)* | Durnan *(già alleato dalla S1 DH)* | L17 — Seadeeps, area 12g (l'ulitharid Extremiton) | Pianificata | Quest canonica DotMM non tracciata prima d'ora: Durnan sospetta un elder brain dietro i contatti telepatici riferiti dagli avventori del Portale. Coincide esattamente con il payoff profondo di Vorador (colonia illithid) — vedi `campagna-sottomonte/capitoli/livello-17-seadeeps.md`. Nessuna ricompensa tangibile promessa, solo la gratitudine di Durnan |
 
 ---
 
@@ -45,7 +46,7 @@
   nel file capitolo del livello corrispondente e in `contesto-sottomonte.md`.
 - Aggiornare `ai/knowledge/party.md` (gancio personale di ciascun PG) quando un gancio viene giocato.
 
-### Capitoli preparati — cosa atterra dove (aggiornato: L16)
+### Capitoli preparati — cosa atterra dove (aggiornato: L17)
 
 - **L4 Twisted Caverns** *(preparato — vedi `campagna-sottomonte/capitoli/livello-04-twisted-caverns.md`)*.
   Livello **connettivo**, non c'è una quest DotMM che atterra qui, ma:
@@ -368,3 +369,39 @@
     primaria — il ponte narrativo è la guerra stessa in corso fra githyanki e mind flayer (Marquox, se
     liberato e seguito; le informazioni estorte ad Al'chaia sulle forze githyanki di stanza a
     Seadeeps). **Annotare quale via il party ha effettivamente seguito** in vista della prep del L17.
+
+- **L17 Seadeeps** *(preparato — vedi `campagna-sottomonte/capitoli/livello-17-seadeeps.md`)*.
+  **Il payoff profondo del gancio "Colonia illithid" di Vorador**, come mappato in
+  `contesto-sottomonte.md`: aperto al L3 (l'ambasciatore Ulquess, "le colonie parlano tra loro",
+  stesso metodo di Nihiloor) e rafforzato da tre conferme indipendenti lungo la discesa (Cephalossk
+  L9, Yrlakka L15, Marquox e la camera di scrying L16), il filo si chiude qui: la vera colonia
+  illithid, guidata dall'**ulitharid Extremiton**, prende finalmente un volto — e un piano
+  (Alterdeep, la simulazione di Waterdeep costruita per studiare e un giorno sottomettere la città).
+  Scritto come scena cardine a piena scala, non come semplice incontro-boss.
+  - **Quest canonica DotMM scoperta in fase di prep e aggiunta al quest-pool (vedi tabella sopra):**
+    "Scopri la Spia Telepatica" — **Durnan** (alleato-ponte dalla S1 di Dragon Heist) sospetta un
+    elder brain dietro i contatti telepatici riferiti dagli avventori del Portale Spalancato; la
+    fonte è Extremiton. Si risolve nello stesso snodo del payoff di Vorador — **annotare l'esito**
+    (Extremiton ucciso/negoziato/lasciato vivere) per aggiornare sia questa riga sia il gancio di
+    Vorador nella tabella dei cinque ganci.
+  - **Spina strutturale propria** (nessun gancio dei cinque, ma scritta con lo stesso peso di uno
+    snodo): la guerra aperta fra i githyanki di **Yaveklar/Lashiir** (area 7c) e la colonia, con il
+    **neothelid** allevato come arma di ultima istanza (aree 8a/16c) — la prima linea di un conflitto
+    osservato da lontano per tre livelli, qui affrontato da dentro. **Contrappeso morale:** i
+    prigionieri "bestiame" della colonia (area 10, aree 14-15) — cittadini di Waterdeep rapiti e
+    tenuti in sospensione psionica dentro Alterdeep, incluso il veterano della Guardia Cittadina
+    **Ishan Toru**.
+  - **Continuità dal L16:** se il party ha liberato **Marquox** e lui li ha seguiti fin qui, Extremiton
+    lo riassorbe nei ranghi della colonia — qualunque promessa di salvacondotto fatta da Marquox al
+    L16 si rivela vuota. Se il party ha ottenuto da **Al'chaia** i nomi dei comandanti githyanki,
+    arriva già sapendo di Yaveklar e Lashiir. Se Al'chaia è caduta e Urlon ha preso il comando (o se
+    githyanki e draghi sono stati spazzati via al L16), i githyanki di questo livello sono più
+    nervosi/deboli — **annotare l'esito effettivo del L16** per adattare la scena a tavolo.
+  - **Filo pervasivo di Razak:** nessuna apparizione diretta di Halaster, ma **Halaster's Maw**
+    (area 3) — una fossa-trappola con la statua in frantumi di un'avventuriera pietrificata secoli
+    fa per adescare altri avventurieri — resta un'eco fredda e impersonale della sua follia.
+  - **Percorso in avanti:** nessuna uscita "di trama" esplicita nella fonte primaria — il tunnel in
+    discesa dell'area 16b (South Guard Post) scende per centinaia di metri fino al **L18 —
+    Vanrakdoom**. Restano come vie alternative gli arch/standing gate verso L14/L15/L19 (nessuna è
+    la via "di trama"). **Annotare quale via il party ha effettivamente seguito**, in vista
+    dell'eventuale prep del L18.
