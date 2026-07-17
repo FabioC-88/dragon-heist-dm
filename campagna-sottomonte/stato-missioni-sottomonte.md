@@ -45,7 +45,7 @@
   nel file capitolo del livello corrispondente e in `contesto-sottomonte.md`.
 - Aggiornare `ai/knowledge/party.md` (gancio personale di ciascun PG) quando un gancio viene giocato.
 
-### Capitoli preparati — cosa atterra dove (aggiornato: L14)
+### Capitoli preparati — cosa atterra dove (aggiornato: L15)
 
 - **L4 Twisted Caverns** *(preparato — vedi `campagna-sottomonte/capitoli/livello-04-twisted-caverns.md`)*.
   Livello **connettivo**, non c'è una quest DotMM che atterra qui, ma:
@@ -313,3 +313,36 @@
   - **Percorso in avanti:** l'area 41 (Watchful Pillars) scende direttamente al **L15 — Obstacle
     Course**. Restano tre gate di Halaster come vie alternative (verso L12, L9, L17) per chi vuole
     deviare o risalire.
+
+- **L15 Obstacle Course** *(preparato — vedi `campagna-sottomonte/capitoli/livello-15-percorso-a-ostacoli.md`)*.
+  **Nessuno dei cinque ganci personali ufficiali né delle quest del quest-pool formale ha un payoff
+  assegnato a questo livello** — confermato in fase di prep. **Verificato anche sui tre fili di
+  continuità non ufficiali seminati al L14** (ponte con Doomcrown, seme "Libera Alussiarr",
+  continuità di Casa Freth via Vanar Freth): **nessuno dei tre trova seguito** nella fonte primaria
+  di questo livello. Il capitolo lavora sulla propria spina strutturale indipendente:
+  - **Fidelio** (area 7), fantasma di un paladino di Tyr disintegrato da **Netherskull** oltre un
+    secolo fa, in cerca di un ospite disposto a farsi possedere o di un'alleanza a termine per vedere
+    il tiranno della morte finalmente sconfitto.
+  - **Yrlakka e i suoi githzerai** (aree 24a-24d), in fuga dallo sguardo di Halaster, in attesa di
+    intervenire nella guerra fra i githyanki (L16) e la colonia illithid di Seadeeps (L17). Il loro
+    allievo **Ezria** è prigioniero all'area 29b del **L16 — Crystal Labyrinth**: **se il party
+    promette a Yrlakka di cercarlo, annotare per la prep del L16** — non un gancio ufficiale, ma una
+    continuità strutturale diretta nello stesso stile di Karstis (L8→L9) o Xarann A'Daragon (L10→L11).
+    Nota tematica per **Vorador**: la guerra githyanki/illithid a Seadeeps è la stessa profondità del
+    suo payoff profondo (colonia illithid, L17) — seconda conferma indipendente dopo Cephalossk al L9.
+  - **Zorak Lightdrinker** (area 27), vampiro nanico vincolato da un *geas* di Halaster a dare la
+    caccia a chiunque venga marchiato da una trappola — un gancio di tensione differita che può
+    restare aperto su più sessioni/livelli. **Annotare se e chi porta il marchio.**
+  - **Thwad Underbrew** (area 29b), ex-paladino nanico convertito in boia di Halaster, convinto che le
+    proprie esecuzioni siano atti di misericordia — specchio minore dello stesso registro di Doomcrown
+    (L14) e Muiral (L10) per il filo pervasivo di Razak.
+  - **Filo Razak (pervasivo) — un registro nuovo:** il "Commento in Diretta" di Halaster (costrutto in
+    area 30b) tormenta ogni scontro del livello con sarcasmo onnipresente; la scelta di Halaster di
+    negoziare con Netherskull invece di distruggerlo è la prima prova diretta di un avversario che il
+    Mago Folle rispetta abbastanza da non voler eliminare.
+  - **Netherskull, il Tiranno della Morte** (aree 39a-39c): lo scontro-cardine del capitolo, un
+    beholder non morto tollerato da Halaster come guardiano del livello. **Annotare l'esito**
+    (sconfitto, evitato, rimandato).
+  - **Percorso in avanti:** l'area 37 (Harmless Halaster Statue) ha un tunnel in discesa naturale
+    verso il **L16 — Crystal Labyrinth**. Restano tre gate di Halaster come vie alternative (verso
+    L20, L17, L18) per chi vuole deviare.
