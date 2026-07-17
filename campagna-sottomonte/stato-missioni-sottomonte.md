@@ -35,6 +35,7 @@
 | Recupera oggetti magici per Wakanga O'tamu | Obaya Uday (sacerdotessa di Waukeen) | variabile | Pianificata | Gancio opzionale "quest board" |
 | Frammento di Runestone per Laeral | Jalester (agente di Laeral Silverhand) | L20 — Runestone Caverns | Pianificata | Filo lungo; lega la campagna a un'autorità già nota. Da seminare presto, riprendere in profondità |
 | Scopri la Spia Telepatica *(scoperta in fase di prep L17)* | Durnan *(già alleato dalla S1 DH)* | L17 — Seadeeps, area 12g (l'ulitharid Extremiton) | Pianificata | Quest canonica DotMM non tracciata prima d'ora: Durnan sospetta un elder brain dietro i contatti telepatici riferiti dagli avventori del Portale. Coincide esattamente con il payoff profondo di Vorador (colonia illithid) — vedi `campagna-sottomonte/capitoli/livello-17-seadeeps.md`. Nessuna ricompensa tangibile promessa, solo la gratitudine di Durnan |
+| Salva il Drago *(scoperta in fase di prep L18)* | Helion Moonstar, per conto di Lady Wylynd Moonstar (Casa Moonstar) | L18 — Vanrakdoom, area 32 (il drago d'ombra Umbraxakar/Glyster) | Pianificata | Quest canonica DotMM non tracciata prima d'ora (prerequisito: aver completato "Throne of the Coronal" o "Eye of the Spider" — soddisfatto dal Livello 3, vedi `livello-03-sargauth-skullport.md`). Helion Moonstar propone di liberare il drago di bronzo Umbraxakar dalla presa di Shar (o, in mancanza, di porre fine alle sue sofferenze) in cambio dell'amicizia di Casa Moonstar (scambio alla pari di oggetti magici, finanziamento di spedizioni, addestramento speciale). Vedi `campagna-sottomonte/capitoli/livello-18-vanrakdoom.md` |
 
 ---
 
@@ -46,7 +47,7 @@
   nel file capitolo del livello corrispondente e in `contesto-sottomonte.md`.
 - Aggiornare `ai/knowledge/party.md` (gancio personale di ciascun PG) quando un gancio viene giocato.
 
-### Capitoli preparati — cosa atterra dove (aggiornato: L17)
+### Capitoli preparati — cosa atterra dove (aggiornato: L18)
 
 - **L4 Twisted Caverns** *(preparato — vedi `campagna-sottomonte/capitoli/livello-04-twisted-caverns.md`)*.
   Livello **connettivo**, non c'è una quest DotMM che atterra qui, ma:
@@ -405,3 +406,34 @@
     Vanrakdoom**. Restano come vie alternative gli arch/standing gate verso L14/L15/L19 (nessuna è
     la via "di trama"). **Annotare quale via il party ha effettivamente seguito**, in vista
     dell'eventuale prep del L18.
+
+- **L18 Vanrakdoom** *(preparato — vedi `campagna-sottomonte/capitoli/livello-18-vanrakdoom.md`)*.
+  **Nessuno dei cinque ganci personali ufficiali né delle quest del quest-pool formale ha un payoff
+  assegnato a questo livello** — confermato in fase di prep (nessuna voce della tabella indica il L18).
+  Il capitolo lavora su:
+  - **Nuova quest canonica DotMM scoperta in fase di prep e aggiunta al quest-pool (vedi tabella
+    sopra):** "Salva il Drago" — **Helion Moonstar**, per conto della senile **Lady Wylynd Moonstar**
+    di Casa Moonstar, propone al party di liberare il drago d'ombra **Umbraxakar** (un tempo il drago
+    di bronzo Glyster, amico di Vanrak Moonstar) dalla presa di Shar, o in mancanza di porre fine
+    alle sue sofferenze — in cambio dell'amicizia di Casa Moonstar. Prerequisito (aver completato
+    "Throne of the Coronal" o "Eye of the Spider") già soddisfatto dal **Livello 3** (quest del trono
+    per Volo). Se non ancora introdotta al tavolo, presentabile come già avvenuta off-screen durante
+    l'ultimo rientro in superficie tra il L17 e questo. **Annotare l'esito** (Umbraxakar liberato o
+    ucciso) per aggiornare questa riga e per l'eventuale epilogo con Casa Moonstar.
+  - **Spina strutturale propria (nessun gancio dei cinque, ma scritta con lo stesso peso di uno
+    snodo):** il culto di Shar guidato dalla vampira **Keresta Delvingstone**, che governa Vanrakdoom
+    dalla morte-redenzione di Vanrak Moonstar e complotta per distruggere le Guglie del Mattino
+    (tempio di Lathander) e la Casa della Luna (tempio di Selûne) a Waterdeep. **Portia Dzuth**,
+    unica superstite di una precedente spedizione per conto di Casa Moonstar, offre il contesto
+    umano della quest prima dello scontro/salvataggio finale.
+  - **Filo Razak (pervasivo):** nessuna apparizione diretta di Halaster, ma la sua statua — gelida
+    rivale eterna di quella di Shar — nel covo stesso di Umbraxakar (area 32), un'eco territoriale
+    nello stesso registro spersonalizzato del L11 e di Halaster's Maw al L17.
+  - **Continuità dal L17:** se il party ha liberato il neothelid a Seadeeps senza ucciderlo, può
+    essere fatto vagare fin qui come pericolo ambientale imprevisto (a discrezione del DM, uso
+    parsimonioso).
+  - **Percorso in avanti:** nessuna uscita "di trama" esplicita nella fonte primaria. Il tunnel
+    dell'area 11 scende verso il **L19 — Caverns of Ooze**. Restano come vie alternative gli arch
+    gate verso L6 (Lv 9+) e L15 (Lv 13+, richiede il tocco di un drago — Glyster stesso, se liberato,
+    potrebbe aprirlo). **Annotare quale via il party ha effettivamente seguito**, in vista
+    dell'eventuale prep del L19.
