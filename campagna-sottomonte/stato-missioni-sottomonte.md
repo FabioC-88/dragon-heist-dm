@@ -45,7 +45,7 @@
   nel file capitolo del livello corrispondente e in `contesto-sottomonte.md`.
 - Aggiornare `ai/knowledge/party.md` (gancio personale di ciascun PG) quando un gancio viene giocato.
 
-### Capitoli preparati — cosa atterra dove (aggiornato: L11)
+### Capitoli preparati — cosa atterra dove (aggiornato: L12)
 
 - **L4 Twisted Caverns** *(preparato — vedi `campagna-sottomonte/capitoli/livello-04-twisted-caverns.md`)*.
   Livello **connettivo**, non c'è una quest DotMM che atterra qui, ma:
@@ -233,3 +233,27 @@
     per un'incursione diretta al L12. **Annotare in fase di prep L12:** quale casa drow il party ha
     aiutato qui (Auvryndar o Freth), sorte di Shindreer/Spirreth, se il party ha accettato o scoperto
     l'inganno di Spirreth.
+
+- **L12 Maze Level** *(preparato — vedi `campagna-sottomonte/capitoli/livello-12-labirinto.md`)*.
+  **Nessuno dei cinque ganci personali ufficiali né delle quest DotMM ha un payoff assegnato a questo
+  livello.** Il capitolo lavora comunque su:
+  - **Payoff finale del filo di continuità Auvryndar/Freth (aperto al L4, proseguito ai L10-L11):**
+    la guerra fra le due case drow si chiude qui, nella sala del trono di Casa Freth — il confronto
+    finale fra il party, **Erelal Freth** e **Drivvin Freth**. Se entrambi cadono, Casa Freth crolla
+    e Casa Auvryndar (se **Vlonwelv** è ancora viva dal L10) vince la guerra per default; se Erelal
+    sopravvive, dà alla luce l'ottava figlia Amalica, un segno di favore di Lolth che rinvigorisce
+    Casa Freth e prolunga il conflitto oltre il nostro capitolo. **Annotare l'esito effettivamente
+    giocato** (sorte di Erelal/Drivvin, chi vince la guerra) per eventuali richiami futuri.
+  - **Filo Razak (pervasivo):** cambia ancora registro rispetto al residuo impersonale del L11—
+    Halaster torna a essere un burattinaio attivo: due emissarie segrete di Casa Shadowdusk (Tendra
+    Nightblade, Maleen Shadowdusk), in missione per suo conto, cercano di convincere **Drivvin Freth**
+    ad accettare un apprendistato sotto il Mago Folle.
+  - **Seme piantato per il futuro (non un gancio, non ancora):** il nome **Shadowdusk**, pronunciato
+    qui per la prima volta davanti ad **Aelar**, tornerà come payoff profondo del suo filo
+    planare/Nilshai al **L22 — Shadowdusk Hold**.
+  - **Spina strutturale propria** (non collegata ai ganci del party, ma scritta come scena giocabile
+    completa): la tribù di minotauri guidata dallo sciamano **Maku**, che tenta senza speranza di
+    evocare Baphomet — un contrappunto puramente tattico al resto del capitolo, politico e relazionale.
+  - **Percorso in avanti:** discesa naturale dall'area 13 (Roundabout, bore worm) al **L13 —
+    Trobriand's Graveyard**. Vie alternative non narrative: Cancello Fisso area 12a (L14, Lv 13+,
+    incantesimo *labirinto*), Cancello Fisso area 8b (L19, Lv 15+), Specchio area 6b (risalita al L10).
