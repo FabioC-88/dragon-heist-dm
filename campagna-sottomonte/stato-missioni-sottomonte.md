@@ -36,6 +36,7 @@
 | Frammento di Runestone per Laeral | Jalester (agente di Laeral Silverhand) | L20 — Runestone Caverns | Pianificata | Filo lungo; lega la campagna a un'autorità già nota. Da seminare presto, riprendere in profondità |
 | Scopri la Spia Telepatica *(scoperta in fase di prep L17)* | Durnan *(già alleato dalla S1 DH)* | L17 — Seadeeps, area 12g (l'ulitharid Extremiton) | Pianificata | Quest canonica DotMM non tracciata prima d'ora: Durnan sospetta un elder brain dietro i contatti telepatici riferiti dagli avventori del Portale. Coincide esattamente con il payoff profondo di Vorador (colonia illithid) — vedi `campagna-sottomonte/capitoli/livello-17-seadeeps.md`. Nessuna ricompensa tangibile promessa, solo la gratitudine di Durnan |
 | Salva il Drago *(scoperta in fase di prep L18)* | Helion Moonstar, per conto di Lady Wylynd Moonstar (Casa Moonstar) | L18 — Vanrakdoom, area 32 (il drago d'ombra Umbraxakar/Glyster) | Pianificata | Quest canonica DotMM non tracciata prima d'ora (prerequisito: aver completato "Throne of the Coronal" o "Eye of the Spider" — soddisfatto dal Livello 3, vedi `livello-03-sargauth-skullport.md`). Helion Moonstar propone di liberare il drago di bronzo Umbraxakar dalla presa di Shar (o, in mancanza, di porre fine alle sue sofferenze) in cambio dell'amicizia di Casa Moonstar (scambio alla pari di oggetti magici, finanziamento di spedizioni, addestramento speciale). Vedi `campagna-sottomonte/capitoli/livello-18-vanrakdoom.md` |
+| Il Patto dei Geni — uccidi il lich Ezzat *(scoperta in fase di prep L19)* | Ichthyglug il marid o Jarûk il dao (Livello 19, rivali) | L19 — Caverne di Melma, aree 1c/11b (assegnazione) → L20 — Runestone Caverns (risoluzione: il lich Ezzat e la sua filatteria) | Pianificata | Quest canonica DotMM non tracciata prima d'ora — corrisponde all'"Obiettivo 2" dichiarato dal manuale per Halaster ("Destroy Ezzat"). I due geni, legati a Sottomonte da un patto con Halaster, offrono entrambi la stessa missione in competizione: solo chi riceve per primo la filatteria del lich torna libero, condannando l'altro a restare prigioniero per sempre. Vedi `campagna-sottomonte/capitoli/livello-19-caverne-di-melma.md`. **Annotare quale genio (se nessuno) il party ha scelto di aiutare**, in vista della prep del L20 — dove si trova anche la quest già tracciata "Frammento di Runestone per Laeral" (naturale convergenza da verificare) |
 
 ---
 
@@ -47,7 +48,7 @@
   nel file capitolo del livello corrispondente e in `contesto-sottomonte.md`.
 - Aggiornare `ai/knowledge/party.md` (gancio personale di ciascun PG) quando un gancio viene giocato.
 
-### Capitoli preparati — cosa atterra dove (aggiornato: L18)
+### Capitoli preparati — cosa atterra dove (aggiornato: L19)
 
 - **L4 Twisted Caverns** *(preparato — vedi `campagna-sottomonte/capitoli/livello-04-twisted-caverns.md`)*.
   Livello **connettivo**, non c'è una quest DotMM che atterra qui, ma:
@@ -437,3 +438,29 @@
     gate verso L6 (Lv 9+) e L15 (Lv 13+, richiede il tocco di un drago — Glyster stesso, se liberato,
     potrebbe aprirlo). **Annotare quale via il party ha effettivamente seguito**, in vista
     dell'eventuale prep del L19.
+
+- **L19 Caverne di Melma** *(preparato — vedi `campagna-sottomonte/capitoli/livello-19-caverne-di-melma.md`)*.
+  **Nessuno dei cinque ganci personali ufficiali né delle quest del quest-pool preesistenti ha un
+  payoff assegnato a questo livello** — confermato in fase di prep (nessuna voce della tabella indicava
+  il L19). Il capitolo lavora su:
+  - **Nuova quest canonica DotMM scoperta in fase di prep e aggiunta al quest-pool (vedi tabella
+    sopra):** "Il Patto dei Geni" — **Ichthyglug** il marid (area 1c) e **Jarûk** il dao (area 11b),
+    legati da Halaster a questo livello e resi rivali, offrono entrambi la stessa missione: recuperare
+    la filatteria del lich **Ezzat** dal Livello 20 e consegnarla a uno solo dei due, condannando
+    l'altro a restare prigioniero per sempre. Corrisponde all'"Obiettivo 2" dichiarato dal manuale per
+    Halaster ("Destroy Ezzat"). **Annotare quale genio (se nessuno) il party ha scelto di aiutare**, in
+    vista della prep del L20, dove si trova effettivamente Ezzat — nota che il L20 ospita già la quest
+    tracciata "Frammento di Runestone per Laeral": naturale convergenza da verificare in fase di prep.
+  - **Spina strutturale propria (nessun gancio dei cinque, ma scritta con lo stesso peso di uno
+    snodo):** il capitano illithid **N'ghathrod**, superstite solitario della nave spelljammer
+    *Scavenger*, catturata e spogliata del proprio timone da Halaster — non un tassello della colonia
+    di Seadeeps (il filo di Vorador si è già chiuso al L17), ma una coda tematica a bassa intensità per
+    il suo personaggio.
+  - **Filo Razak (pervasivo):** nessuna apparizione diretta di Halaster, ma l'effigie di melma che ne
+    assume brevemente le sembianze nell'area 3b — l'ennesima eco impersonale, nello stesso registro
+    del L11 e di Halaster's Maw al L17.
+  - **Percorso in avanti:** il tunnel dell'area 16 scende regolarmente al **L20 — Runestone Caverns**
+    (dove si trova anche il lich Ezzat, se la quest dei geni è stata accettata). Restano come vie
+    alternative tre Standing Gate verso L12 (Lv 12+), L21 (Lv 16+) e L17 (Lv 14+) — nessuna è
+    segnalata come via "di trama". **Annotare quale via il party ha effettivamente seguito**, in vista
+    dell'eventuale prep del L20.
