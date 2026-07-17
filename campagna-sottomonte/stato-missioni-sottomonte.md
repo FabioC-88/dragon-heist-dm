@@ -45,7 +45,7 @@
   nel file capitolo del livello corrispondente e in `contesto-sottomonte.md`.
 - Aggiornare `ai/knowledge/party.md` (gancio personale di ciascun PG) quando un gancio viene giocato.
 
-### Capitoli preparati — cosa atterra dove (aggiornato: L6)
+### Capitoli preparati — cosa atterra dove (aggiornato: L7)
 
 - **L4 Twisted Caverns** *(preparato — vedi `campagna-sottomonte/capitoli/livello-04-twisted-caverns.md`)*.
   Livello **connettivo**, non c'è una quest DotMM che atterra qui, ma:
@@ -86,3 +86,25 @@
     il guardiano d'argilla, i quattro demoni intrappolati, la tomba vera di Re Melair) — non collegata
     ai ganci del party, ma scritta come scene giocabili complete per non ridurre il livello a un
     walkthrough.
+
+- **L7 Maddgoth's Castle** *(preparato — vedi `campagna-sottomonte/capitoli/livello-07-castello-di-maddgoth.md`)*.
+  **Nessun gancio personale né quest DotMM ha un payoff assegnato a questo livello** nella mappatura
+  attuale (nessuna voce della tabella indica L7). Il capitolo lavora comunque su:
+  - **Filo Razak (pervasivo):** nessuna apparizione di Halaster in persona, ma la sua firma resta
+    ovunque — i volti che i giganti di pietra gli hanno scolpito senza più ricordare gli incontri
+    (area 11a), il ritratto dal "bagliore di follia" che osserva una nave in bottiglia in una stanza
+    che il Mago Folle ha costruito e poi abbandonato (area 30). Un livello dove Halaster non compare
+    mai eppure è ovunque.
+  - **Spina strutturale propria** (non collegata ai ganci del party, ma scritta come scene giocabili
+    complete): la famiglia di giganti di pietra privata della memoria da Halaster (Gravillok/Speleosa/
+    Qurrok/Rhodos/Obsidia/Xorta, aree 6a/10/13/16b) e — cuore morale del livello — la contesa tra
+    **Otto** il drago fatato e **l'homunculus di Maddgoth** per il controllo del castello in miniatura
+    (aree 13b/17/18-28-38/25a-b/43a-b): il party deve scegliere da che parte stare, nessuna delle due
+    è la "cattiva". Più lo snodo-trappola dello slaad travestito da prigioniero nell'octobass (area 33).
+  - **Risonanze tematiche minori (non ganci):** Vorador riconosce in Maddgoth — un mago che uccide
+    altri maghi per collezionarne i focus arcani come trofei — il tipo di caso che l'Ordine dei Magisti
+    dovrebbe indagare; Friedrich trova un'eco scomoda del proprio patto con Aldric nell'homunculus
+    leale a un padrone assente e nei nycaloth mercenari dell'area 44 (cautela DM: scontro potenzialmente
+    letale a Lv 9, pensato per essere sbirciato più che affrontato).
+  - **Percorso in avanti:** discesa naturale al **L8 Slitherswamp** via il tunnel dell'area 8; le
+    porte magiche delle aree 22/29/41 restano opzioni per chi ha già il livello richiesto (Lv 10-11+).
