@@ -45,7 +45,7 @@
   nel file capitolo del livello corrispondente e in `contesto-sottomonte.md`.
 - Aggiornare `ai/knowledge/party.md` (gancio personale di ciascun PG) quando un gancio viene giocato.
 
-### Capitoli preparati — cosa atterra dove (aggiornato: L15)
+### Capitoli preparati — cosa atterra dove (aggiornato: L16)
 
 - **L4 Twisted Caverns** *(preparato — vedi `campagna-sottomonte/capitoli/livello-04-twisted-caverns.md`)*.
   Livello **connettivo**, non c'è una quest DotMM che atterra qui, ma:
@@ -346,3 +346,25 @@
   - **Percorso in avanti:** l'area 37 (Harmless Halaster Statue) ha un tunnel in discesa naturale
     verso il **L16 — Crystal Labyrinth**. Restano tre gate di Halaster come vie alternative (verso
     L20, L17, L18) per chi vuole deviare.
+
+- **L16 Crystal Labyrinth** *(preparato — vedi `campagna-sottomonte/capitoli/livello-16-labirinto-di-cristallo.md`)*.
+  **Nessuno dei cinque ganci personali ufficiali né delle quest del quest-pool formale ha un payoff
+  assegnato a questo livello** — confermato in fase di prep. Il capitolo lavora su:
+  - **Payoff del filo di continuità seminato al L15:** **Ezria**, l'allievo scomparso di **Yrlakka**,
+    è davvero prigioniero e torturato all'area 29b, esattamente come annotato nella prep del L15. Se
+    il party aveva promesso a Yrlakka di cercarlo, questo livello chiude quella promessa — la
+    ricompensa (la *bacchetta di individuazione della magia* di Yrlakka) si consegna però al ritorno
+    al L15, non qui. **Annotare se il party ha riportato Ezria sano e salvo.**
+  - **Foreshadowing per Vorador — rafforzato, non pagato:** il livello è saturo di materiale illithid
+    (Marquox prigioniero all'area 5, Tel'zact e Yeluit all'area 29c, la camera di scrying dell'area 6b
+    puntata sull'ulitharid di Seadeeps, decine di teste di mind flayer imbalsamate) — una **terza
+    conferma indipendente**, dopo Cephalossk (L9) e Yrlakka (L15), che la colonia illithid di Seadeeps
+    è reale e in guerra aperta. Il payoff meccanico resta comunque al **L17 — Seadeeps**.
+  - **Spina strutturale propria** (nessun gancio dei cinque, ma scritta con lo stesso peso di uno
+    snodo): Urlon che complotta contro la propria comandante **Al'chaia** (scontro-cardine politico
+    del livello), e **Infernexus**, il drago giovane infelice che sogna una tana alle **Caverne
+    Contorte (L4, già preparato)** — un ponte di continuità concreto verso un capitolo precedente.
+  - **Percorso in avanti:** nessun tunnel o scala esplicito verso il **L17 — Seadeeps** nella fonte
+    primaria — il ponte narrativo è la guerra stessa in corso fra githyanki e mind flayer (Marquox, se
+    liberato e seguito; le informazioni estorte ad Al'chaia sulle forze githyanki di stanza a
+    Seadeeps). **Annotare quale via il party ha effettivamente seguito** in vista della prep del L17.
