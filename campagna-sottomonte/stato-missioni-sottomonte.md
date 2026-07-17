@@ -45,7 +45,7 @@
   nel file capitolo del livello corrispondente e in `contesto-sottomonte.md`.
 - Aggiornare `ai/knowledge/party.md` (gancio personale di ciascun PG) quando un gancio viene giocato.
 
-### Capitoli preparati — cosa atterra dove (aggiornato: L4)
+### Capitoli preparati — cosa atterra dove (aggiornato: L6)
 
 - **L4 Twisted Caverns** *(preparato — vedi `campagna-sottomonte/capitoli/livello-04-twisted-caverns.md`)*.
   Livello **connettivo**, non c'è una quest DotMM che atterra qui, ma:
@@ -62,3 +62,27 @@
   - **Porta di Aelar:** il **Fiume delle Profondità** scende a **L5 Wyllowwood** (tasca fey di Trobbio) →
     aggancio poco profondo del suo gancio planare/Nilshai. Aggiornare `contesto-sottomonte.md`
     (Livello dungeon corrente → 5) quando il party naviga il fiume.
+
+- **L5 Wyllowwood** *(preparato — vedi `campagna-sottomonte/capitoli/livello-05-wyllowwood.md`)*.
+  L'aggancio poco profondo di **Aelar** (nodo planare/Nilshai, cameo di Trobbio) atterra qui, come
+  già mappato in `contesto-sottomonte.md`. Il filo di **Razak** prende il volto più esplicito finora
+  (il fantasma di Crissann, il bulbo che evoca Halaster in persona). Da qui si scende al **L6** (tunnel
+  dell'umber hulk o arch gate nell'edificio del drago) o al **L7** (ponte sul Fiume delle Profondità) —
+  Wyllowwood è un bivio: annotare quale ramo prende il party.
+
+- **L6 Lost Level** *(preparato — vedi `campagna-sottomonte/capitoli/livello-06-lost-level.md`)*.
+  **Nessun gancio personale né quest DotMM ha un payoff assegnato a questo livello** nella mappatura
+  attuale. Il capitolo lavora comunque su:
+  - **Filo Razak (pervasivo):** più eco di Halaster che in qualsiasi altro livello finora (voce che
+    ammonisce in area 14, mantello che fugge in area 35, spirito di Mornhyld in area 39c, risatine in
+    area 47b) e un vero e proprio **falso Halaster** — uno slaad grigio travestito — in area 32.
+  - **Continuità laterale (non un gancio dei 5, ma un filo reale):** la duergar **Skella Ironeye**
+    (area 15a) porta un **pugnale rubato ad Azrok**, il signore della guerra hobgoblin che regna su
+    Stromkuhldur al **L3 — Skullport**, lo stesso Azrok che tiene l'anello di Kressando Rosznar cercato
+    da **Esvele Rosznar** per il party. Restituire il pugnale ad Azrok, se recuperato qui, può
+    ammorbidire l'accoglienza del party quando arriveranno al L3 — annotare se il party lo raccoglie,
+    per riattivarlo in fase di prep del L3 (se non già giocato) o a tavolo.
+  - Il livello ha anche una propria spina strutturale indipendente dai nostri fili (Skella Ironeye,
+    il guardiano d'argilla, i quattro demoni intrappolati, la tomba vera di Re Melair) — non collegata
+    ai ganci del party, ma scritta come scene giocabili complete per non ridurre il livello a un
+    walkthrough.
