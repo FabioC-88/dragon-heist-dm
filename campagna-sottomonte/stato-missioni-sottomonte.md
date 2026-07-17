@@ -45,7 +45,7 @@
   nel file capitolo del livello corrispondente e in `contesto-sottomonte.md`.
 - Aggiornare `ai/knowledge/party.md` (gancio personale di ciascun PG) quando un gancio viene giocato.
 
-### Capitoli preparati — cosa atterra dove (aggiornato: L9)
+### Capitoli preparati — cosa atterra dove (aggiornato: L10)
 
 - **L4 Twisted Caverns** *(preparato — vedi `campagna-sottomonte/capitoli/livello-04-twisted-caverns.md`)*.
   Livello **connettivo**, non c'è una quest DotMM che atterra qui, ma:
@@ -173,3 +173,33 @@
     dal pozzo dell'area 41 (sopra l'altare dell'area 3b del L10) — nessuna scelta di bivio come ai
     livelli precedenti. **Nota:** L10 è dove atterra il payoff del filo Auvryndar seminato al L4
     (Thirza → Vlonwelv, Muiral's Gauntlet) — tenerlo a mente in fase di prep del L10.
+
+- **L10 Muiral's Gauntlet** *(preparato — vedi `campagna-sottomonte/capitoli/livello-10-guanto-di-muiral.md`)*.
+  **Nessuno dei cinque ganci personali ufficiali né delle quest DotMM ha un payoff assegnato a questo
+  livello** nella mappatura di `contesto-sottomonte.md`. Il capitolo lavora comunque su:
+  - **Payoff del filo di continuità Auvryndar (seminato al L4):** la linea di famiglia **T'rissa
+    (L3) → Melith (L4) → Vlonwelv Auvryndar (qui)** si chiude — o si riapre — in questo livello.
+    Il tradimento di **Thirza** (la consorte di Melith, che dopo il patto della zattera ha
+    denunciato a Vlonwelv che la figlia "ha liberato degli avventurieri invece di ucciderli") fa sì
+    che Vlonwelv **sappia già chi è il party** prima ancora dell'udienza formale, e li giudichi alla
+    luce di come hanno trattato sua figlia. Vlonwelv offre ospitalità e passaggio sicuro in cambio
+    della testa di **Muiral il Deforme**; **annotare l'esito** (accordo rispettato, scontro con
+    Vlonwelv, o alleanza con la spia di Casa Freth contro di lei) per eventuali richiami futuri sul
+    filo di famiglia.
+  - **Filo Razak (pervasivo):** qui non una maschera di Halaster ma un suo **servitore autentico**
+    abbandonato — **Muiral**, uno dei Sette Apprendisti originali (già nominato sull'arazzo della
+    Sala da Pranzo di Dweomercore, L9 area 30), lasciato solo e folle per secoli senza che Halaster
+    tornasse mai a reclamarlo. Un registro diverso dalle maschere precedenti: la prova che la follia
+    del Mago Folle corrode anche chi lo ha servito con lealtà vera.
+  - **Bivio politico non tracciato come gancio, ma strutturale al livello:** **Xarann A'Daragon**,
+    spia di Casa Freth infiltrata fra i drow di Vlonwelv, offre al party un'alternativa — tradire
+    Casa Auvryndar in cambio della via verso il L11 — con tradimento quasi certo una volta ottenuto
+    ciò che vuole. **Annotare quale scelta ha fatto il party** (fedeltà a Vlonwelv, alleanza con
+    Xarann, o entrambe sfruttate a proprio vantaggio), perché condiziona lo stato di Casa Auvryndar
+    (e indirettamente di Melith) per eventuali richiami futuri.
+  - **Percorso in avanti:** il manuale non descrive una scala o un tunnel esplicito verso il L11 —
+    come già per Karstis (L8→L9), il ponte narrativo è un PNG: **Xarann A'Daragon**, se aiutato
+    almeno a liberare il compagno Tazirahc, guida il party verso il basso. Via alternativa non
+    guidata: il fiume sotterraneo della Caverna Naturale (area 30), che si tuffa nell'Underdark.
+    **Nota:** nessun gancio o quest DotMM risulta ancora mappato sul L11 (Troglodyte Warrens) —
+    verificare in fase di prep se emergono fili nuovi dalla fonte primaria.
