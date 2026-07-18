@@ -34,6 +34,9 @@
 | Consegna a Cal'al Claddani (Flagon and the Dragon) | Mattrim "Tre Corde" Mereg *(Arpista, già contatto DH)* | L3 — Skullport | Pianificata | Indica il rifugio Arpista Dalagor's Fortress (Skullport alto). Comodo per collegare Aelar/Vorador/Fizzra a L3 |
 | Recupera oggetti magici per Wakanga O'tamu | Obaya Uday (sacerdotessa di Waukeen) | variabile | Pianificata | Gancio opzionale "quest board" |
 | Frammento di Runestone per Laeral | Jalester (agente di Laeral Silverhand) | L20 — Runestone Caverns | Pianificata | Filo lungo; lega la campagna a un'autorità già nota. Da seminare presto, riprendere in profondità |
+| Scopri la Spia Telepatica *(scoperta in fase di prep L17)* | Durnan *(già alleato dalla S1 DH)* | L17 — Seadeeps, area 12g (l'ulitharid Extremiton) | Pianificata | Quest canonica DotMM non tracciata prima d'ora: Durnan sospetta un elder brain dietro i contatti telepatici riferiti dagli avventori del Portale. Coincide esattamente con il payoff profondo di Vorador (colonia illithid) — vedi `campagna-sottomonte/capitoli/livello-17-seadeeps.md`. Nessuna ricompensa tangibile promessa, solo la gratitudine di Durnan |
+| Salva il Drago *(scoperta in fase di prep L18)* | Helion Moonstar, per conto di Lady Wylynd Moonstar (Casa Moonstar) | L18 — Vanrakdoom, area 32 (il drago d'ombra Umbraxakar/Glyster) | Pianificata | Quest canonica DotMM non tracciata prima d'ora (prerequisito: aver completato "Throne of the Coronal" o "Eye of the Spider" — soddisfatto dal Livello 3, vedi `livello-03-sargauth-skullport.md`). Helion Moonstar propone di liberare il drago di bronzo Umbraxakar dalla presa di Shar (o, in mancanza, di porre fine alle sue sofferenze) in cambio dell'amicizia di Casa Moonstar (scambio alla pari di oggetti magici, finanziamento di spedizioni, addestramento speciale). Vedi `campagna-sottomonte/capitoli/livello-18-vanrakdoom.md` |
+| Il Patto dei Geni — uccidi il lich Ezzat *(scoperta in fase di prep L19)* | Ichthyglug il marid o Jarûk il dao (Livello 19, rivali) | L19 — Caverne di Melma, aree 1c/11b (assegnazione) → L20 — Runestone Caverns (risoluzione: il lich Ezzat e la sua filatteria) | Pianificata | Quest canonica DotMM non tracciata prima d'ora — corrisponde all'"Obiettivo 2" dichiarato dal manuale per Halaster ("Destroy Ezzat"). I due geni, legati a Sottomonte da un patto con Halaster, offrono entrambi la stessa missione in competizione: solo chi riceve per primo la filatteria del lich torna libero, condannando l'altro a restare prigioniero per sempre. Vedi `campagna-sottomonte/capitoli/livello-19-caverne-di-melma.md`. **Annotare quale genio (se nessuno) il party ha scelto di aiutare**, in vista della prep del L20 — dove si trova anche la quest già tracciata "Frammento di Runestone per Laeral" (naturale convergenza da verificare) |
 
 ---
 
@@ -45,7 +48,7 @@
   nel file capitolo del livello corrispondente e in `contesto-sottomonte.md`.
 - Aggiornare `ai/knowledge/party.md` (gancio personale di ciascun PG) quando un gancio viene giocato.
 
-### Capitoli preparati — cosa atterra dove (aggiornato: L4)
+### Capitoli preparati — cosa atterra dove (aggiornato: L19)
 
 - **L4 Twisted Caverns** *(preparato — vedi `campagna-sottomonte/capitoli/livello-04-twisted-caverns.md`)*.
   Livello **connettivo**, non c'è una quest DotMM che atterra qui, ma:
@@ -62,3 +65,402 @@
   - **Porta di Aelar:** il **Fiume delle Profondità** scende a **L5 Wyllowwood** (tasca fey di Trobbio) →
     aggancio poco profondo del suo gancio planare/Nilshai. Aggiornare `contesto-sottomonte.md`
     (Livello dungeon corrente → 5) quando il party naviga il fiume.
+
+- **L5 Wyllowwood** *(preparato — vedi `campagna-sottomonte/capitoli/livello-05-wyllowwood.md`)*.
+  L'aggancio poco profondo di **Aelar** (nodo planare/Nilshai, cameo di Trobbio) atterra qui, come
+  già mappato in `contesto-sottomonte.md`. Il filo di **Razak** prende il volto più esplicito finora
+  (il fantasma di Crissann, il bulbo che evoca Halaster in persona). Da qui si scende al **L6** (tunnel
+  dell'umber hulk o arch gate nell'edificio del drago) o al **L7** (ponte sul Fiume delle Profondità) —
+  Wyllowwood è un bivio: annotare quale ramo prende il party.
+
+- **L6 Lost Level** *(preparato — vedi `campagna-sottomonte/capitoli/livello-06-lost-level.md`)*.
+  **Nessun gancio personale né quest DotMM ha un payoff assegnato a questo livello** nella mappatura
+  attuale. Il capitolo lavora comunque su:
+  - **Filo Razak (pervasivo):** più eco di Halaster che in qualsiasi altro livello finora (voce che
+    ammonisce in area 14, mantello che fugge in area 35, spirito di Mornhyld in area 39c, risatine in
+    area 47b) e un vero e proprio **falso Halaster** — uno slaad grigio travestito — in area 32.
+  - **Continuità laterale (non un gancio dei 5, ma un filo reale):** la duergar **Skella Ironeye**
+    (area 15a) porta un **pugnale rubato ad Azrok**, il signore della guerra hobgoblin che regna su
+    Stromkuhldur al **L3 — Skullport**, lo stesso Azrok che tiene l'anello di Kressando Rosznar cercato
+    da **Esvele Rosznar** per il party. Restituire il pugnale ad Azrok, se recuperato qui, può
+    ammorbidire l'accoglienza del party quando arriveranno al L3 — annotare se il party lo raccoglie,
+    per riattivarlo in fase di prep del L3 (se non già giocato) o a tavolo.
+  - Il livello ha anche una propria spina strutturale indipendente dai nostri fili (Skella Ironeye,
+    il guardiano d'argilla, i quattro demoni intrappolati, la tomba vera di Re Melair) — non collegata
+    ai ganci del party, ma scritta come scene giocabili complete per non ridurre il livello a un
+    walkthrough.
+
+- **L7 Maddgoth's Castle** *(preparato — vedi `campagna-sottomonte/capitoli/livello-07-castello-di-maddgoth.md`)*.
+  **Nessun gancio personale né quest DotMM ha un payoff assegnato a questo livello** nella mappatura
+  attuale (nessuna voce della tabella indica L7). Il capitolo lavora comunque su:
+  - **Filo Razak (pervasivo):** nessuna apparizione di Halaster in persona, ma la sua firma resta
+    ovunque — i volti che i giganti di pietra gli hanno scolpito senza più ricordare gli incontri
+    (area 11a), il ritratto dal "bagliore di follia" che osserva una nave in bottiglia in una stanza
+    che il Mago Folle ha costruito e poi abbandonato (area 30). Un livello dove Halaster non compare
+    mai eppure è ovunque.
+  - **Spina strutturale propria** (non collegata ai ganci del party, ma scritta come scene giocabili
+    complete): la famiglia di giganti di pietra privata della memoria da Halaster (Gravillok/Speleosa/
+    Qurrok/Rhodos/Obsidia/Xorta, aree 6a/10/13/16b) e — cuore morale del livello — la contesa tra
+    **Otto** il drago fatato e **l'homunculus di Maddgoth** per il controllo del castello in miniatura
+    (aree 13b/17/18-28-38/25a-b/43a-b): il party deve scegliere da che parte stare, nessuna delle due
+    è la "cattiva". Più lo snodo-trappola dello slaad travestito da prigioniero nell'octobass (area 33).
+  - **Risonanze tematiche minori (non ganci):** Vorador riconosce in Maddgoth — un mago che uccide
+    altri maghi per collezionarne i focus arcani come trofei — il tipo di caso che l'Ordine dei Magisti
+    dovrebbe indagare; Friedrich trova un'eco scomoda del proprio patto con Aldric nell'homunculus
+    leale a un padrone assente e nei nycaloth mercenari dell'area 44 (cautela DM: scontro potenzialmente
+    letale a Lv 9, pensato per essere sbirciato più che affrontato).
+  - **Percorso in avanti:** discesa naturale al **L8 Slitherswamp** via il tunnel dell'area 8; le
+    porte magiche delle aree 22/29/41 restano opzioni per chi ha già il livello richiesto (Lv 10-11+).
+
+- **L8 Slitherswamp** *(preparato — vedi `campagna-sottomonte/capitoli/livello-08-slitherswamp.md`)*.
+  **Nessun gancio personale né quest DotMM ha un payoff assegnato a questo livello** nella mappatura
+  attuale (nessuna voce della tabella indica L8). Il capitolo lavora comunque su:
+  - **Filo Razak (pervasivo):** **Kuketh**, uno slaad della morte reso re dei bullywug Blacktongue
+    contro la propria volontà da una gemma di controllo che Halaster custodisce sul **L9
+    Dweomercore** — un'altra marionetta del Mago Folle, capovolta rispetto ai giganti amnesici del L7
+    (lì memoria rubata, qui libertà rubata). Il filo non si chiude qui: la gemma è fisicamente
+    altrove, quindi qualunque alleanza il party stringa con Kuketh resta un debito aperto da
+    richiamare in fase di prep del L9.
+  - **Seme in avanti verso il L9 (non un gancio tracciato, continuità narrativa nello stile già usato
+    al L4→L10 e al L6→L3):** **Karstis**, mago-vedetta di Dweomercore nascosto nelle aree 7-8,
+    anticipa concretamente ciò che aspetta Aelar e Friedrich al L9 — un "diavolo delle ossa fuggito"
+    che il preside di Dweomercore vuole indietro (aggancio diretto per il debito di Friedrich con
+    Asmodeo) e un accenno che il preside "non ha il retrogusto giusto" per essere davvero Halaster
+    (ennesima maschera per il presagio di Razak, e seme dell'arcanaloth-in-disguise che i PG
+    scopriranno solo al L9). **Annotare in fase di prep L9:** se Karstis è stato lasciato in vita
+    ostile, ricompare all'area 8c di Dweomercore; se alleato/informale, può facilitare l'arrivo.
+  - **Spina strutturale propria** (non collegata ai ganci del party, ma scritta come scene giocabili
+    complete): la guerra a tre tra le **Ssethiane Flagellatrici** (naga spiritali Excrutha/Serakath),
+    i **Blacktongue** (bullywug sudditi di Kuketh) e **Dweomercore** (Karstis); il fantasma
+    manipolatore **Yoastal** nel Tempio del Grande Serpente (area 9), che offre la mappa del livello
+    in cambio della morte delle naga sue assassine — un'informazione mai neutrale.
+  - **Payoff di continuità minore (non un gancio tracciato):** la **chiave di pietra** recuperata nel
+    nascondiglio di Rizzeryl al L2 ("Trovami sul Livello Perduto. Cerca la sua gemella a
+    Slitherswamp") apre qui l'arco verso il L6 (area 3) — pura soddisfazione di continuità per chi
+    ricorda ancora l'oggetto.
+  - **Percorso in avanti:** nessun tunnel esplicito da manuale verso il L9 Dweomercore (i tre portali
+    del livello conducono altrove: L6, L10, L11). Il ponte narrativo è **Karstis**: guida il party se
+    alleato, oppure fugge in quella direzione se sconfitto — annotare quale, per la prep del L9.
+
+- **L9 Dweomercore** *(preparato — vedi `campagna-sottomonte/capitoli/livello-09-dweomercore.md`)*.
+  **Primo livello dove atterrano contemporaneamente due ganci personali tracciati**, come da
+  mappatura in `contesto-sottomonte.md`: il filo planare/Nilshai di **Aelar** ("accademia di maghi
+  con fughe planari") e il debito con Asmodeo di **Friedrich**/party ("arcanaloth custode di
+  contratti + diavoli vincolati"). Nessuno dei due è il payoff profondo finale (Aelar prosegue verso
+  L22 Shadowdusk Hold; Friedrich resta "a discrezione del DM"), ma entrambi diventano qui concreti e
+  nominati per la prima volta — non più solo accennati:
+  - **Aelar:** l'intero livello (uno yugoloth-preside, diavoli vincolati, una strega notturna, tutti
+    convocati a questa profondità) è la prova materiale del nodo planare che Remallia Haventree gli
+    ha assegnato di indagare; il diario di Skrianna Shadowdusk (area 11b, sogni del Regno Remoto,
+    l'amante "Acamar dal vuoto oltre il cielo") aggiunge un secondo filo indipendente.
+  - **Friedrich:** il diavolo delle ossa intrappolato nelle aree 47a-c — vincolato da un patto
+    ereditato da un evocatore ormai morto, proprio come il debito di Krauser con Aldric/Asmodeo — è
+    lo specchio più diretto e nominato finora del proprio arco. Liberarlo o eliminarlo è un punto di
+    scelta deliberatamente lasciato aperto per il tavolo.
+  - **Filo Razak (pervasivo):** il payoff visibile per questo livello — la maschera di Halaster più
+    convincente della campagna finora, un **arcanaloth** che si spaccia per il Mago Folle e governa
+    l'intera accademia (area 1a/15a), a differenza dello slaad grigio del L6 (costume smascherato
+    presto) o dei volti amnesici del L7 (eco senza sostanza). Il vero santuario di Halaster (area 45)
+    è invece la prova fisica, tangibile, del suo potere reale al di là della maschera.
+  - **Payoff/bridge dal L8 — la gemma di Kuketh:** confermato dalla fonte primaria (area 45b): la
+    gemma di controllo del death slaad del Livello 8 è custodita nello studio privato del vero
+    Halaster. Il debito aperto a Slitherswamp diventa qui concretamente risolvibile (distruggere/
+    sottrarre la gemma libera Kuketh, non ancora narrato — da richiamare quando la campagna lo
+    riterrà opportuno) — **annotare l'esito scelto dal party** in fase di recap.
+  - **Ponte da Karstis (L8):** se lasciato ostile, ricompare nella propria stanza (area 8c) e fugge o
+    chiama aiuto; se alleato/informale, aspetta il party e conferma il filo su Halaster/il preside.
+  - **Continuità minore (non un gancio tracciato):** Cephalossk il mind flayer arcanista (aree 7/11d)
+    offre a **Vorador** la prima conferma diretta e nominata del filo Seadeeps/colonia illithid
+    (Livello 17) aperto al L3 — non il payoff, ma la prova che il sospetto era fondato.
+  - **Percorso in avanti:** via principale verso il L10 Muiral's Gauntlet dalle scale dell'area 44 o
+    dal pozzo dell'area 41 (sopra l'altare dell'area 3b del L10) — nessuna scelta di bivio come ai
+    livelli precedenti. **Nota:** L10 è dove atterra il payoff del filo Auvryndar seminato al L4
+    (Thirza → Vlonwelv, Muiral's Gauntlet) — tenerlo a mente in fase di prep del L10.
+
+- **L10 Muiral's Gauntlet** *(preparato — vedi `campagna-sottomonte/capitoli/livello-10-guanto-di-muiral.md`)*.
+  **Nessuno dei cinque ganci personali ufficiali né delle quest DotMM ha un payoff assegnato a questo
+  livello** nella mappatura di `contesto-sottomonte.md`. Il capitolo lavora comunque su:
+  - **Payoff del filo di continuità Auvryndar (seminato al L4):** la linea di famiglia **T'rissa
+    (L3) → Melith (L4) → Vlonwelv Auvryndar (qui)** si chiude — o si riapre — in questo livello.
+    Il tradimento di **Thirza** (la consorte di Melith, che dopo il patto della zattera ha
+    denunciato a Vlonwelv che la figlia "ha liberato degli avventurieri invece di ucciderli") fa sì
+    che Vlonwelv **sappia già chi è il party** prima ancora dell'udienza formale, e li giudichi alla
+    luce di come hanno trattato sua figlia. Vlonwelv offre ospitalità e passaggio sicuro in cambio
+    della testa di **Muiral il Deforme**; **annotare l'esito** (accordo rispettato, scontro con
+    Vlonwelv, o alleanza con la spia di Casa Freth contro di lei) per eventuali richiami futuri sul
+    filo di famiglia.
+  - **Filo Razak (pervasivo):** qui non una maschera di Halaster ma un suo **servitore autentico**
+    abbandonato — **Muiral**, uno dei Sette Apprendisti originali (già nominato sull'arazzo della
+    Sala da Pranzo di Dweomercore, L9 area 30), lasciato solo e folle per secoli senza che Halaster
+    tornasse mai a reclamarlo. Un registro diverso dalle maschere precedenti: la prova che la follia
+    del Mago Folle corrode anche chi lo ha servito con lealtà vera.
+  - **Bivio politico non tracciato come gancio, ma strutturale al livello:** **Xarann A'Daragon**,
+    spia di Casa Freth infiltrata fra i drow di Vlonwelv, offre al party un'alternativa — tradire
+    Casa Auvryndar in cambio della via verso il L11 — con tradimento quasi certo una volta ottenuto
+    ciò che vuole. **Annotare quale scelta ha fatto il party** (fedeltà a Vlonwelv, alleanza con
+    Xarann, o entrambe sfruttate a proprio vantaggio), perché condiziona lo stato di Casa Auvryndar
+    (e indirettamente di Melith) per eventuali richiami futuri.
+  - **Percorso in avanti:** il manuale non descrive una scala o un tunnel esplicito verso il L11 —
+    come già per Karstis (L8→L9), il ponte narrativo è un PNG: **Xarann A'Daragon**, se aiutato
+    almeno a liberare il compagno Tazirahc, guida il party verso il basso. Via alternativa non
+    guidata: il fiume sotterraneo della Caverna Naturale (area 30), che si tuffa nell'Underdark.
+    **Nota:** nessun gancio o quest DotMM risulta ancora mappato sul L11 (Troglodyte Warrens) —
+    verificare in fase di prep se emergono fili nuovi dalla fonte primaria.
+
+- **L11 Troglodyte Warrens** *(preparato — vedi `campagna-sottomonte/capitoli/livello-11-covili-dei-troglodyti.md`)*.
+  **Nessuno dei cinque ganci personali ufficiali né delle quest DotMM ha un payoff assegnato a questo
+  livello** — confermato in fase di prep (la nota lasciata al L10 chiedeva di verificare se emergevano
+  fili nuovi dalla fonte primaria: il filo nuovo che emerge non è uno dei cinque, ma una continuità
+  strutturale diretta dal L10). Il capitolo lavora su:
+  - **Continuità diretta dal bivio politico del L10 (Auvryndar/Freth):** il livello è, per fonte
+    primaria, un campo di battaglia aperto fra **Casa Auvryndar** (dal L10, qui rappresentata
+    dall'avamposto dell'area 1 e dalla comandante **Shindreer Argonrae** all'area 12) e **Casa Freth**
+    (dal L12, qui rappresentata dal mago **Spirreth Dalambra**, succeduto a **Beranica Freth** caduta
+    in battaglia — sorella di **Erelal Freth**, che comanda la fortezza di Casa Freth al L12). Il
+    trattamento che il party riceve all'area 1 e all'area 12 dipende direttamente da come ha chiuso
+    lo snodo Vlonwelv/Xarann al L10 (fedeltà a Vlonwelv, alleanza con Xarann/Freth, o entrambe). Se
+    Vlonwelv è stata uccisa, Shindreer — che già ambiva a spodestarla — si infuria comunque per
+    esserne stata privata e attacca il party a vista.
+  - **Filo Razak (pervasivo):** cambia registro rispetto ai livelli precedenti — non più un servitore
+    (Muiral, L10) o una maschera (l'arcanaloth, L9), ma **vittime impersonali e casuali** della magia
+    residua di Halaster: la Formazione di Halaster (area 7e, un'offerta troglodyte a un volto scolpito
+    dal caso) e il behir modificato con rune arcane (area 17).
+  - **Spina strutturale propria** (non collegata ai ganci del party, ma scritta come scena giocabile
+    completa): l'ultimo clan libero di troglodyti (**Kol'daan**, area 7), schiacciato fra Auvryndar e
+    Freth, che non li considerano altro che manodopera o cibo per i propri eserciti.
+  - **Percorso in avanti:** nessun tunnel lineare esplicito. Il ponte narrativo principale è
+    **Spirreth Dalambra** (area 12, se aiutato/catturato): offre un'udienza con Erelal Freth al L12 —
+    ma è una bugia, un tentativo di consegnare il party come presunti colpevoli della morte di
+    Beranica Freth (stesso schema di tradimento già visto con Xarann al L10). Via alternativa non
+    guidata: intensificare la pressione contro Casa Freth su questo livello come apertura di fatto
+    per un'incursione diretta al L12. **Annotare in fase di prep L12:** quale casa drow il party ha
+    aiutato qui (Auvryndar o Freth), sorte di Shindreer/Spirreth, se il party ha accettato o scoperto
+    l'inganno di Spirreth.
+
+- **L12 Maze Level** *(preparato — vedi `campagna-sottomonte/capitoli/livello-12-labirinto.md`)*.
+  **Nessuno dei cinque ganci personali ufficiali né delle quest DotMM ha un payoff assegnato a questo
+  livello.** Il capitolo lavora comunque su:
+  - **Payoff finale del filo di continuità Auvryndar/Freth (aperto al L4, proseguito ai L10-L11):**
+    la guerra fra le due case drow si chiude qui, nella sala del trono di Casa Freth — il confronto
+    finale fra il party, **Erelal Freth** e **Drivvin Freth**. Se entrambi cadono, Casa Freth crolla
+    e Casa Auvryndar (se **Vlonwelv** è ancora viva dal L10) vince la guerra per default; se Erelal
+    sopravvive, dà alla luce l'ottava figlia Amalica, un segno di favore di Lolth che rinvigorisce
+    Casa Freth e prolunga il conflitto oltre il nostro capitolo. **Annotare l'esito effettivamente
+    giocato** (sorte di Erelal/Drivvin, chi vince la guerra) per eventuali richiami futuri.
+  - **Filo Razak (pervasivo):** cambia ancora registro rispetto al residuo impersonale del L11—
+    Halaster torna a essere un burattinaio attivo: due emissarie segrete di Casa Shadowdusk (Tendra
+    Nightblade, Maleen Shadowdusk), in missione per suo conto, cercano di convincere **Drivvin Freth**
+    ad accettare un apprendistato sotto il Mago Folle.
+  - **Seme piantato per il futuro (non un gancio, non ancora):** il nome **Shadowdusk**, pronunciato
+    qui per la prima volta davanti ad **Aelar**, tornerà come payoff profondo del suo filo
+    planare/Nilshai al **L22 — Shadowdusk Hold**.
+  - **Spina strutturale propria** (non collegata ai ganci del party, ma scritta come scena giocabile
+    completa): la tribù di minotauri guidata dallo sciamano **Maku**, che tenta senza speranza di
+    evocare Baphomet — un contrappunto puramente tattico al resto del capitolo, politico e relazionale.
+  - **Percorso in avanti:** discesa naturale dall'area 13 (Roundabout, bore worm) al **L13 —
+    Trobriand's Graveyard**. Vie alternative non narrative: Cancello Fisso area 12a (L14, Lv 13+,
+    incantesimo *labirinto*), Cancello Fisso area 8b (L19, Lv 15+), Specchio area 6b (risalita al L10).
+
+- **L13 Trobriand's Graveyard** *(preparato — vedi `campagna-sottomonte/capitoli/livello-13-cimitero-di-trobriand.md`)*.
+  **Nessuno dei cinque ganci personali ufficiali né delle quest DotMM ha un payoff assegnato a questo
+  livello**, e — a differenza di quasi tutti i livelli precedenti — **la fonte primaria non contiene
+  alcuna apparizione o eco diretta di Halaster** da intrecciare al filo pervasivo di Razak (solo il
+  fatto, già noto, che Trobriand ne è un apprendista fedele che preferisce restare al L23 anziché
+  presidiare questo suo laboratorio — trattato come nota di colore, non come scena). Il capitolo
+  lavora sulla propria spina strutturale indipendente:
+  - **Zox Clammersham**, gnomo sopravvissuto che si spaccia per apprendista di Trobriand e comanda gli
+    scaladar del livello con un anello rubato — potenziale alleato informale, non un ostacolo pensato
+    per essere abbattuto.
+  - **I predoni hobgoblin di Doomcrown** (Kurlog all'area 2b, Yargoth all'area 11a): rispondono allo
+    stesso signore della guerra hobgoblin che governa **L14 — Arcturiadoom** per conto dei giganti del
+    fuoco al servizio di Halaster. **Ponte diretto verso il L14: annotare se il party ha aiutato o
+    eliminato i predoni di Doomcrown, e se ha preso l'anello di comando di Zox** — condiziona
+    l'accoglienza al livello successivo.
+  - **Continuità dal L4→L10 e dal L6→L3/L8→L9 (stesso stile):** la chiave di scorta di Zox, lasciata in
+    piena vista all'area 14 del L12, permette un ingresso pacifico al suo palazzo se il party l'ha
+    raccolta.
+  - **Chanterella**, sovrana myconid superstite di un attacco hobgoblin: un piccolo atto di misericordia
+    opzionale, nessun gancio.
+  - **Percorso in avanti:** i tunnel scavati dal bore worm proseguono verso il **L14 — Arcturiadoom**
+    (fire giants, hobgoblin di Doomcrown, un contingente drow infiltrato — nessuna quest ancora mappata
+    su questo livello, verificare in fase di prep se emergono fili nuovi dalla fonte primaria).
+
+- **L14 Arcturiadoom** *(preparato — vedi `campagna-sottomonte/capitoli/livello-14-dominio-di-arcturia.md`)*.
+  **Nessuno dei cinque ganci personali ufficiali né delle quest del quest-pool formale ha un payoff
+  assegnato a questo livello** — confermato in fase di prep (la nota lasciata al L13 chiedeva di
+  verificare se emergevano fili nuovi dalla fonte primaria: emergono, ma nessuno dei cinque). Il
+  capitolo lavora su **tre fili di continuità non ufficiali**, con lo stesso peso di uno snodo:
+  - **Ponte diretto dal L13:** i predoni hobgoblin di **Kurlog** e **Yargoth** rispondevano a
+    **Doomcrown** (nato Azrokkog, figlio rinnegato del Warlord **Azrok** di Skullport/L3), che governa
+    questo livello insieme ai giganti del fuoco di **Emberosa** per conto di Halaster. L'accoglienza
+    che il party riceve da Doomcrown (area 33) dipende direttamente da come ha chiuso lo snodo dei
+    predoni al L13. Un flumph telepatico legato a Doomcrown lo sta lentamente logorando con una
+    nostalgia aliena dell'Underdark — nessun payoff meccanico, solo caratterizzazione.
+  - **Payoff del seme "Libera Alussiarr"** piantato da **Preeta Kreepa** al **L3** (vedi
+    `livello-03-sargauth-skullport.md`): **Alussiarr**, il "uomo magico" di cui Arcturia usa il sangue
+    per i propri rituali, è in realtà un **rakshasa** vincolato in area 39a. Liberarlo (distruggendo il
+    sigillo sopra la porta) dà accesso alla filatteria/grimorio di Arcturia e a una chiave di mithral,
+    ma libera nel mondo un fiend che intende "lavorare ogni sorta di male a Waterdeep" — costo morale
+    esplicito, nessun payoff a breve termine forzato. **Annotare se il party lo libera.**
+  - **Continuità politica di Casa Freth (arco L4→L10→L11→L12, Auvryndar/Freth):** tre maghi drow di
+    Casa Freth (Hulziin, Yrrprek, **Vanar Freth**) hanno infiltrato il livello in cerca di magia per
+    "conquistare altri livelli di Sottomonte" — un'eco diretta di quell'arco qualunque sia stato il
+    suo esito al L12. Vanar (area 29) evita lo scontro ed è disposto a negoziare.
+  - **Filo Razak (pervasivo) — il payoff visibile più diretto finora:** **Mecha-Halaster** (area 15),
+    un colosso di ferro alto trenta metri a immagine di Halaster, in costruzione dai giganti del fuoco
+    per conto del Mago Folle stesso, in cambio di una runa di potere. La **filatteria di Arcturia**
+    (area 40, una delle Sette apprendiste di Halaster) è un investimento strategico opzionale per
+    l'eventuale confronto al **L23 — Mad Wizard's Lair**, dove Arcturia potrebbe comparire accanto al
+    proprio maestro. **Annotare se il party ha preso la filatteria** (resta in sospeso finché non si
+    procura un mimic per distruggerla).
+  - **Percorso in avanti:** l'area 41 (Watchful Pillars) scende direttamente al **L15 — Obstacle
+    Course**. Restano tre gate di Halaster come vie alternative (verso L12, L9, L17) per chi vuole
+    deviare o risalire.
+
+- **L15 Obstacle Course** *(preparato — vedi `campagna-sottomonte/capitoli/livello-15-percorso-a-ostacoli.md`)*.
+  **Nessuno dei cinque ganci personali ufficiali né delle quest del quest-pool formale ha un payoff
+  assegnato a questo livello** — confermato in fase di prep. **Verificato anche sui tre fili di
+  continuità non ufficiali seminati al L14** (ponte con Doomcrown, seme "Libera Alussiarr",
+  continuità di Casa Freth via Vanar Freth): **nessuno dei tre trova seguito** nella fonte primaria
+  di questo livello. Il capitolo lavora sulla propria spina strutturale indipendente:
+  - **Fidelio** (area 7), fantasma di un paladino di Tyr disintegrato da **Netherskull** oltre un
+    secolo fa, in cerca di un ospite disposto a farsi possedere o di un'alleanza a termine per vedere
+    il tiranno della morte finalmente sconfitto.
+  - **Yrlakka e i suoi githzerai** (aree 24a-24d), in fuga dallo sguardo di Halaster, in attesa di
+    intervenire nella guerra fra i githyanki (L16) e la colonia illithid di Seadeeps (L17). Il loro
+    allievo **Ezria** è prigioniero all'area 29b del **L16 — Crystal Labyrinth**: **se il party
+    promette a Yrlakka di cercarlo, annotare per la prep del L16** — non un gancio ufficiale, ma una
+    continuità strutturale diretta nello stesso stile di Karstis (L8→L9) o Xarann A'Daragon (L10→L11).
+    Nota tematica per **Vorador**: la guerra githyanki/illithid a Seadeeps è la stessa profondità del
+    suo payoff profondo (colonia illithid, L17) — seconda conferma indipendente dopo Cephalossk al L9.
+  - **Zorak Lightdrinker** (area 27), vampiro nanico vincolato da un *geas* di Halaster a dare la
+    caccia a chiunque venga marchiato da una trappola — un gancio di tensione differita che può
+    restare aperto su più sessioni/livelli. **Annotare se e chi porta il marchio.**
+  - **Thwad Underbrew** (area 29b), ex-paladino nanico convertito in boia di Halaster, convinto che le
+    proprie esecuzioni siano atti di misericordia — specchio minore dello stesso registro di Doomcrown
+    (L14) e Muiral (L10) per il filo pervasivo di Razak.
+  - **Filo Razak (pervasivo) — un registro nuovo:** il "Commento in Diretta" di Halaster (costrutto in
+    area 30b) tormenta ogni scontro del livello con sarcasmo onnipresente; la scelta di Halaster di
+    negoziare con Netherskull invece di distruggerlo è la prima prova diretta di un avversario che il
+    Mago Folle rispetta abbastanza da non voler eliminare.
+  - **Netherskull, il Tiranno della Morte** (aree 39a-39c): lo scontro-cardine del capitolo, un
+    beholder non morto tollerato da Halaster come guardiano del livello. **Annotare l'esito**
+    (sconfitto, evitato, rimandato).
+  - **Percorso in avanti:** l'area 37 (Harmless Halaster Statue) ha un tunnel in discesa naturale
+    verso il **L16 — Crystal Labyrinth**. Restano tre gate di Halaster come vie alternative (verso
+    L20, L17, L18) per chi vuole deviare.
+
+- **L16 Crystal Labyrinth** *(preparato — vedi `campagna-sottomonte/capitoli/livello-16-labirinto-di-cristallo.md`)*.
+  **Nessuno dei cinque ganci personali ufficiali né delle quest del quest-pool formale ha un payoff
+  assegnato a questo livello** — confermato in fase di prep. Il capitolo lavora su:
+  - **Payoff del filo di continuità seminato al L15:** **Ezria**, l'allievo scomparso di **Yrlakka**,
+    è davvero prigioniero e torturato all'area 29b, esattamente come annotato nella prep del L15. Se
+    il party aveva promesso a Yrlakka di cercarlo, questo livello chiude quella promessa — la
+    ricompensa (la *bacchetta di individuazione della magia* di Yrlakka) si consegna però al ritorno
+    al L15, non qui. **Annotare se il party ha riportato Ezria sano e salvo.**
+  - **Foreshadowing per Vorador — rafforzato, non pagato:** il livello è saturo di materiale illithid
+    (Marquox prigioniero all'area 5, Tel'zact e Yeluit all'area 29c, la camera di scrying dell'area 6b
+    puntata sull'ulitharid di Seadeeps, decine di teste di mind flayer imbalsamate) — una **terza
+    conferma indipendente**, dopo Cephalossk (L9) e Yrlakka (L15), che la colonia illithid di Seadeeps
+    è reale e in guerra aperta. Il payoff meccanico resta comunque al **L17 — Seadeeps**.
+  - **Spina strutturale propria** (nessun gancio dei cinque, ma scritta con lo stesso peso di uno
+    snodo): Urlon che complotta contro la propria comandante **Al'chaia** (scontro-cardine politico
+    del livello), e **Infernexus**, il drago giovane infelice che sogna una tana alle **Caverne
+    Contorte (L4, già preparato)** — un ponte di continuità concreto verso un capitolo precedente.
+  - **Percorso in avanti:** nessun tunnel o scala esplicito verso il **L17 — Seadeeps** nella fonte
+    primaria — il ponte narrativo è la guerra stessa in corso fra githyanki e mind flayer (Marquox, se
+    liberato e seguito; le informazioni estorte ad Al'chaia sulle forze githyanki di stanza a
+    Seadeeps). **Annotare quale via il party ha effettivamente seguito** in vista della prep del L17.
+
+- **L17 Seadeeps** *(preparato — vedi `campagna-sottomonte/capitoli/livello-17-seadeeps.md`)*.
+  **Il payoff profondo del gancio "Colonia illithid" di Vorador**, come mappato in
+  `contesto-sottomonte.md`: aperto al L3 (l'ambasciatore Ulquess, "le colonie parlano tra loro",
+  stesso metodo di Nihiloor) e rafforzato da tre conferme indipendenti lungo la discesa (Cephalossk
+  L9, Yrlakka L15, Marquox e la camera di scrying L16), il filo si chiude qui: la vera colonia
+  illithid, guidata dall'**ulitharid Extremiton**, prende finalmente un volto — e un piano
+  (Alterdeep, la simulazione di Waterdeep costruita per studiare e un giorno sottomettere la città).
+  Scritto come scena cardine a piena scala, non come semplice incontro-boss.
+  - **Quest canonica DotMM scoperta in fase di prep e aggiunta al quest-pool (vedi tabella sopra):**
+    "Scopri la Spia Telepatica" — **Durnan** (alleato-ponte dalla S1 di Dragon Heist) sospetta un
+    elder brain dietro i contatti telepatici riferiti dagli avventori del Portale Spalancato; la
+    fonte è Extremiton. Si risolve nello stesso snodo del payoff di Vorador — **annotare l'esito**
+    (Extremiton ucciso/negoziato/lasciato vivere) per aggiornare sia questa riga sia il gancio di
+    Vorador nella tabella dei cinque ganci.
+  - **Spina strutturale propria** (nessun gancio dei cinque, ma scritta con lo stesso peso di uno
+    snodo): la guerra aperta fra i githyanki di **Yaveklar/Lashiir** (area 7c) e la colonia, con il
+    **neothelid** allevato come arma di ultima istanza (aree 8a/16c) — la prima linea di un conflitto
+    osservato da lontano per tre livelli, qui affrontato da dentro. **Contrappeso morale:** i
+    prigionieri "bestiame" della colonia (area 10, aree 14-15) — cittadini di Waterdeep rapiti e
+    tenuti in sospensione psionica dentro Alterdeep, incluso il veterano della Guardia Cittadina
+    **Ishan Toru**.
+  - **Continuità dal L16:** se il party ha liberato **Marquox** e lui li ha seguiti fin qui, Extremiton
+    lo riassorbe nei ranghi della colonia — qualunque promessa di salvacondotto fatta da Marquox al
+    L16 si rivela vuota. Se il party ha ottenuto da **Al'chaia** i nomi dei comandanti githyanki,
+    arriva già sapendo di Yaveklar e Lashiir. Se Al'chaia è caduta e Urlon ha preso il comando (o se
+    githyanki e draghi sono stati spazzati via al L16), i githyanki di questo livello sono più
+    nervosi/deboli — **annotare l'esito effettivo del L16** per adattare la scena a tavolo.
+  - **Filo pervasivo di Razak:** nessuna apparizione diretta di Halaster, ma **Halaster's Maw**
+    (area 3) — una fossa-trappola con la statua in frantumi di un'avventuriera pietrificata secoli
+    fa per adescare altri avventurieri — resta un'eco fredda e impersonale della sua follia.
+  - **Percorso in avanti:** nessuna uscita "di trama" esplicita nella fonte primaria — il tunnel in
+    discesa dell'area 16b (South Guard Post) scende per centinaia di metri fino al **L18 —
+    Vanrakdoom**. Restano come vie alternative gli arch/standing gate verso L14/L15/L19 (nessuna è
+    la via "di trama"). **Annotare quale via il party ha effettivamente seguito**, in vista
+    dell'eventuale prep del L18.
+
+- **L18 Vanrakdoom** *(preparato — vedi `campagna-sottomonte/capitoli/livello-18-vanrakdoom.md`)*.
+  **Nessuno dei cinque ganci personali ufficiali né delle quest del quest-pool formale ha un payoff
+  assegnato a questo livello** — confermato in fase di prep (nessuna voce della tabella indica il L18).
+  Il capitolo lavora su:
+  - **Nuova quest canonica DotMM scoperta in fase di prep e aggiunta al quest-pool (vedi tabella
+    sopra):** "Salva il Drago" — **Helion Moonstar**, per conto della senile **Lady Wylynd Moonstar**
+    di Casa Moonstar, propone al party di liberare il drago d'ombra **Umbraxakar** (un tempo il drago
+    di bronzo Glyster, amico di Vanrak Moonstar) dalla presa di Shar, o in mancanza di porre fine
+    alle sue sofferenze — in cambio dell'amicizia di Casa Moonstar. Prerequisito (aver completato
+    "Throne of the Coronal" o "Eye of the Spider") già soddisfatto dal **Livello 3** (quest del trono
+    per Volo). Se non ancora introdotta al tavolo, presentabile come già avvenuta off-screen durante
+    l'ultimo rientro in superficie tra il L17 e questo. **Annotare l'esito** (Umbraxakar liberato o
+    ucciso) per aggiornare questa riga e per l'eventuale epilogo con Casa Moonstar.
+  - **Spina strutturale propria (nessun gancio dei cinque, ma scritta con lo stesso peso di uno
+    snodo):** il culto di Shar guidato dalla vampira **Keresta Delvingstone**, che governa Vanrakdoom
+    dalla morte-redenzione di Vanrak Moonstar e complotta per distruggere le Guglie del Mattino
+    (tempio di Lathander) e la Casa della Luna (tempio di Selûne) a Waterdeep. **Portia Dzuth**,
+    unica superstite di una precedente spedizione per conto di Casa Moonstar, offre il contesto
+    umano della quest prima dello scontro/salvataggio finale.
+  - **Filo Razak (pervasivo):** nessuna apparizione diretta di Halaster, ma la sua statua — gelida
+    rivale eterna di quella di Shar — nel covo stesso di Umbraxakar (area 32), un'eco territoriale
+    nello stesso registro spersonalizzato del L11 e di Halaster's Maw al L17.
+  - **Continuità dal L17:** se il party ha liberato il neothelid a Seadeeps senza ucciderlo, può
+    essere fatto vagare fin qui come pericolo ambientale imprevisto (a discrezione del DM, uso
+    parsimonioso).
+  - **Percorso in avanti:** nessuna uscita "di trama" esplicita nella fonte primaria. Il tunnel
+    dell'area 11 scende verso il **L19 — Caverns of Ooze**. Restano come vie alternative gli arch
+    gate verso L6 (Lv 9+) e L15 (Lv 13+, richiede il tocco di un drago — Glyster stesso, se liberato,
+    potrebbe aprirlo). **Annotare quale via il party ha effettivamente seguito**, in vista
+    dell'eventuale prep del L19.
+
+- **L19 Caverne di Melma** *(preparato — vedi `campagna-sottomonte/capitoli/livello-19-caverne-di-melma.md`)*.
+  **Nessuno dei cinque ganci personali ufficiali né delle quest del quest-pool preesistenti ha un
+  payoff assegnato a questo livello** — confermato in fase di prep (nessuna voce della tabella indicava
+  il L19). Il capitolo lavora su:
+  - **Nuova quest canonica DotMM scoperta in fase di prep e aggiunta al quest-pool (vedi tabella
+    sopra):** "Il Patto dei Geni" — **Ichthyglug** il marid (area 1c) e **Jarûk** il dao (area 11b),
+    legati da Halaster a questo livello e resi rivali, offrono entrambi la stessa missione: recuperare
+    la filatteria del lich **Ezzat** dal Livello 20 e consegnarla a uno solo dei due, condannando
+    l'altro a restare prigioniero per sempre. Corrisponde all'"Obiettivo 2" dichiarato dal manuale per
+    Halaster ("Destroy Ezzat"). **Annotare quale genio (se nessuno) il party ha scelto di aiutare**, in
+    vista della prep del L20, dove si trova effettivamente Ezzat — nota che il L20 ospita già la quest
+    tracciata "Frammento di Runestone per Laeral": naturale convergenza da verificare in fase di prep.
+  - **Spina strutturale propria (nessun gancio dei cinque, ma scritta con lo stesso peso di uno
+    snodo):** il capitano illithid **N'ghathrod**, superstite solitario della nave spelljammer
+    *Scavenger*, catturata e spogliata del proprio timone da Halaster — non un tassello della colonia
+    di Seadeeps (il filo di Vorador si è già chiuso al L17), ma una coda tematica a bassa intensità per
+    il suo personaggio.
+  - **Filo Razak (pervasivo):** nessuna apparizione diretta di Halaster, ma l'effigie di melma che ne
+    assume brevemente le sembianze nell'area 3b — l'ennesima eco impersonale, nello stesso registro
+    del L11 e di Halaster's Maw al L17.
+  - **Percorso in avanti:** il tunnel dell'area 16 scende regolarmente al **L20 — Runestone Caverns**
+    (dove si trova anche il lich Ezzat, se la quest dei geni è stata accettata). Restano come vie
+    alternative tre Standing Gate verso L12 (Lv 12+), L21 (Lv 16+) e L17 (Lv 14+) — nessuna è
+    segnalata come via "di trama". **Annotare quale via il party ha effettivamente seguito**, in vista
+    dell'eventuale prep del L20.
