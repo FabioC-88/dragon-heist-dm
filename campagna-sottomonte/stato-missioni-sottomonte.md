@@ -33,10 +33,10 @@
 | Trova Kressando Rosznar (anello di famiglia) | Esvele Rosznar *(già alleata DH)* | L3 — Azrok's Hold, area 21n (il warlord hobgoblin Azrok tiene l'anello come trofeo; Kressando è morto, divorato dall'otyugh di area 17e) | Pianificata | Ponte con DH: volto amico al Portale prima della discesa. Nessun indizio a L1 — il filo resta silenzioso finché il party non arriva a L3 |
 | Consegna a Cal'al Claddani (Flagon and the Dragon) | Mattrim "Tre Corde" Mereg *(Arpista, già contatto DH)* | L3 — Skullport | Pianificata | Indica il rifugio Arpista Dalagor's Fortress (Skullport alto). Comodo per collegare Aelar/Vorador/Fizzra a L3 |
 | Recupera oggetti magici per Wakanga O'tamu | Obaya Uday (sacerdotessa di Waukeen) | variabile | Pianificata | Gancio opzionale "quest board" |
-| Frammento di Runestone per Laeral | Jalester (agente di Laeral Silverhand) | L20 — Runestone Caverns | Pianificata | Filo lungo; lega la campagna a un'autorità già nota. Da seminare presto, riprendere in profondità |
+| Frammento di Runestone per Laeral | Jalester Silvermane (agente di Laeral Silverhand) | L20 — Runestone Caverns, aree 14/20 (il Runestone e i suoi frammenti) | Pianificata | Filo lungo, seminato off-screen alla sessione-ponte (`dm-notes-sessione-00.md`); ripreso in profondità in fase di prep del L20. Ricompensa: amicizia di Jalester, o — se negoziata — la *lama fortunata* di **Mirt il Cambiavalute** (già referente Arpisti noto ad Aelar), che la cede a malincuore e resta in debito col party se gliela si restituisce. Vedi `campagna-sottomonte/capitoli/livello-20-runestone-caverns.md` |
 | Scopri la Spia Telepatica *(scoperta in fase di prep L17)* | Durnan *(già alleato dalla S1 DH)* | L17 — Seadeeps, area 12g (l'ulitharid Extremiton) | Pianificata | Quest canonica DotMM non tracciata prima d'ora: Durnan sospetta un elder brain dietro i contatti telepatici riferiti dagli avventori del Portale. Coincide esattamente con il payoff profondo di Vorador (colonia illithid) — vedi `campagna-sottomonte/capitoli/livello-17-seadeeps.md`. Nessuna ricompensa tangibile promessa, solo la gratitudine di Durnan |
 | Salva il Drago *(scoperta in fase di prep L18)* | Helion Moonstar, per conto di Lady Wylynd Moonstar (Casa Moonstar) | L18 — Vanrakdoom, area 32 (il drago d'ombra Umbraxakar/Glyster) | Pianificata | Quest canonica DotMM non tracciata prima d'ora (prerequisito: aver completato "Throne of the Coronal" o "Eye of the Spider" — soddisfatto dal Livello 3, vedi `livello-03-sargauth-skullport.md`). Helion Moonstar propone di liberare il drago di bronzo Umbraxakar dalla presa di Shar (o, in mancanza, di porre fine alle sue sofferenze) in cambio dell'amicizia di Casa Moonstar (scambio alla pari di oggetti magici, finanziamento di spedizioni, addestramento speciale). Vedi `campagna-sottomonte/capitoli/livello-18-vanrakdoom.md` |
-| Il Patto dei Geni — uccidi il lich Ezzat *(scoperta in fase di prep L19)* | Ichthyglug il marid o Jarûk il dao (Livello 19, rivali) | L19 — Caverne di Melma, aree 1c/11b (assegnazione) → L20 — Runestone Caverns (risoluzione: il lich Ezzat e la sua filatteria) | Pianificata | Quest canonica DotMM non tracciata prima d'ora — corrisponde all'"Obiettivo 2" dichiarato dal manuale per Halaster ("Destroy Ezzat"). I due geni, legati a Sottomonte da un patto con Halaster, offrono entrambi la stessa missione in competizione: solo chi riceve per primo la filatteria del lich torna libero, condannando l'altro a restare prigioniero per sempre. Vedi `campagna-sottomonte/capitoli/livello-19-caverne-di-melma.md`. **Annotare quale genio (se nessuno) il party ha scelto di aiutare**, in vista della prep del L20 — dove si trova anche la quest già tracciata "Frammento di Runestone per Laeral" (naturale convergenza da verificare) |
+| Il Patto dei Geni — uccidi il lich Ezzat *(scoperta in fase di prep L19)* | Ichthyglug il marid o Jarûk il dao (Livello 19, rivali) | L19 — Caverne di Melma, aree 1c/11b (assegnazione) → L20 — Runestone Caverns, Torre dello Stalagmite (risoluzione: il lich Ezzat e la sua filatteria, aree 15-23) | Pianificata | Quest canonica DotMM non tracciata prima d'ora — corrisponde all'"Obiettivo 2" dichiarato dal manuale per Halaster ("Destroy Ezzat"). I due geni, legati a Sottomonte da un patto con Halaster, offrono entrambi la stessa missione in competizione: solo chi riceve per primo la filatteria del lich torna libero, condannando l'altro a restare prigioniero per sempre. Risoluzione completa (scena giocabile con Ezzat, la marilith a guardia della filatteria, e i rami di consegna) in fase di prep del L20 — vedi `campagna-sottomonte/capitoli/livello-20-runestone-caverns.md`. **Annotare l'esito** (Ezzat distrutto/allato/ignorato, quale genio ha ricevuto la filatteria se nessuno), e la convergenza confermata con "Frammento di Runestone per Laeral" (stesso livello, aree 14/20) |
 
 ---
 
@@ -48,7 +48,7 @@
   nel file capitolo del livello corrispondente e in `contesto-sottomonte.md`.
 - Aggiornare `ai/knowledge/party.md` (gancio personale di ciascun PG) quando un gancio viene giocato.
 
-### Capitoli preparati — cosa atterra dove (aggiornato: L19)
+### Capitoli preparati — cosa atterra dove (aggiornato: L20)
 
 - **L4 Twisted Caverns** *(preparato — vedi `campagna-sottomonte/capitoli/livello-04-twisted-caverns.md`)*.
   Livello **connettivo**, non c'è una quest DotMM che atterra qui, ma:
@@ -464,3 +464,34 @@
     alternative tre Standing Gate verso L12 (Lv 12+), L21 (Lv 16+) e L17 (Lv 14+) — nessuna è
     segnalata come via "di trama". **Annotare quale via il party ha effettivamente seguito**, in vista
     dell'eventuale prep del L20.
+
+- **L20 Runestone Caverns** *(preparato — vedi `campagna-sottomonte/capitoli/livello-20-runestone-caverns.md`)*.
+  **Risoluzione di "Il Patto dei Geni" (seminata al L19):** il lich **Ezzat** e la sua filatteria si
+  trovano nella Torre dello Stalagmite (aree 15-23) — Snodo — Ezzat, scritto come scena giocabile
+  completa con roleplay del lich, guardiani (due vampire drow, un bastone animato senziente, una
+  marilith vincolata da *geas* a guardia della filatteria) e rami di risoluzione (Ezzat
+  distrutto/allato/ignorato, filatteria consegnata a un genio del L19, sottratta e portata via, o
+  lasciata dov'è). Se Ezzat viene "cacciato" da Sottomonte, l'Aftermath da fonte primaria suggerisce
+  **Drivvin Freth** (visto al L12, arco Auvryndar/Freth) come possibile nuovo occupante della torre,
+  se ancora vivo — epilogo di continuità puramente opzionale.
+  - **"Frammento di Runestone per Laeral" matura qui** (vedi tabella sopra): il Runestone e i suoi
+    frammenti si trovano alle aree 14 e 20. Convergenza confermata con "Il Patto dei Geni" — stesso
+    livello, stessa Torre dello Stalagmite per i frammenti del laboratorio (area 20). Ricompensa
+    legata a **Jalester Silvermane** e, se negoziata, alla *lama fortunata* di **Mirt il
+    Cambiavalute** (già referente Arpisti noto ad Aelar dall'epoca di Dragon Heist).
+  - **Gradino aggiuntivo (non un payoff) per il filo planare/Nilshai di Aelar:** il **Distaccamento di
+    Shadowdusk** — l'arcimago folle **Akarrth Shadowdusk**, inviato da **Shadowdusk Hold (Livello
+    22)** a raccogliere frammenti di Runestone — offre un primo contatto diretto e nominato col nome
+    "Shadowdusk", già seminato al L12 (Tendra Nightblade, Maleen Shadowdusk), nello stesso registro
+    delle conferme progressive raccolte da Vorador prima di Seadeeps (L9, L15, L16). Il payoff
+    profondo resta al L22.
+  - **Filo Razak (pervasivo):** il registro più ricco di eco impersonale di Halaster finora — gli
+    Stonecloaks che lo venerano come un dio assente, il golem impazzito dell'area 2 che si autodivora
+    per restare "vivo", il puzzle dell'area 10 che lo raffigura ridere in sella a un drago blu, la
+    risata innocua della Voragine Ridente (area 5).
+  - **Continuità verso il L21:** nessun tunnel "di trama" esplicito nella fonte primaria (a differenza
+    del L19). Ponte narrativo più concreto: i razziatori duergar dell'area 7, saliti dalle Miniere
+    Profonde (L21), che se interrogati rivelano l'esistenza del planetar **Fazrian** che le governa.
+    Via alternativa non narrativa: l'Arch Gate dell'area 9b (verso il L15, Lv 13+). **Annotare se il
+    party ha interrogato i razziatori duergar e cosa ha appreso su Fazrian**, in vista dell'eventuale
+    prep del L21.
